@@ -2,7 +2,7 @@
 name = "genshin-feed"
 version = "0.1.0"
 description = "A Simple script that generate RSS/Atom feeds for the official Genshin Impact news blog"
-authors = ["Michael Vieira <dev@mvieira.fr>"]
+authors = ["Michael Vieira <dev+genshinfeed@mvieira.fr>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
