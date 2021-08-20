@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ partial "head" . }}
+  </head>
+  <body
+    class="bg-cover bg-no-repeat bg-center"
+    style="background-image: url('{{ .Site.Params.BaseUrl }}/img/background-minified.webp')"
+  >
+    <div class="container header flex mx-auto">
+      {{ partial "header" }}
+    </div>
+    <div class="container mx-auto my-18 pb-5 bg-white bg-opacity-80 rounded">
+      <div class="flex flex-col items-center">
+        <div class="block py-5 w-10/12 content">
+          {{ .Content }}
+        </div>
+        <div class="block py-5 md:w-8/12 sm:w-10/12">
+          {{ partial "feeds" . }}
+        </div>
+      </div>
+    </div>
+    <div class="container footer mx-auto py-5 w-10/12">{{ partial "footer" }}</div>
+  </body>
+</html>

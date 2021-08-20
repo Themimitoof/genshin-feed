@@ -1,3 +1,7 @@
 # Workspace related
 .vscode/
 
+# Generated stuff
+site/public
+site/data/last-updates.json
+site/static/feed/

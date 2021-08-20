@@ -1,0 +1,37 @@
+<table class="w-full table-border-collapse table-fixed border border-green-800">
+  <thead>
+    <tr>
+      <th class="py-4 border border-gray-400 text-center">Language</th>
+      <th class="py-4 border border-gray-400 text-center">Category</th>
+      <th class="py-4 border border-gray-400 text-center">Feeds</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $lang, $langContent := (index $.Site.Data "last-updates") }} {{
+    range $category, $feeds := $langContent}}
+    <tr>
+      <td class="border border-gray-400 text-center">{{ $lang | upper }}</td>
+      <td class="border border-gray-400 text-center">
+        {{ $category | humanize }}
+      </td>
+      <td class="border border-gray-400 text-center">
+        <ul>
+          {{ range $feed := $feeds }}
+          <li class="my-4">
+            <a
+              class="text-blue-500 hover:underline"
+              href="{{ .Site.Params.BaseUrl }}/feed/{{ $feed.type}}-{{ $lang }}-{{ $category }}.xml"
+              target="_blank"
+            >
+              {{ if eq $feed.type "rss"}} {{ $feed.type | upper }} {{ else }} {{
+              $feed.type | humanize }} {{ end }} (last update: {{ replace (index
+              (split $feed.updated_at ".") 0) "T" " " }} UTC)
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </td>
+      {{ end }} {{ end }}
+    </tr>
+  </tbody>
+</table>

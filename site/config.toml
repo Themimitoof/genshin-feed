@@ -1,0 +1,8 @@
+baseURL = "https://genshin-feed.com/"
+languageCode = "en"
+title = "Genshin Feed"
+disableKinds = ["categories", "tags", "RSS", "sitemap"]
+
+[params.seo]
+homeAppendTitle = "RSS feeds for the official Genshin Impact news"
+description = "Get RSS and Atom feeds for the official news and announcements from the official Genshin Impact website!"
