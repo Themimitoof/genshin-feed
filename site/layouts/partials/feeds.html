@@ -8,15 +8,15 @@
   </thead>
   <tbody>
     {{ range $lang, $langContent := (index $.Site.Data "last-updates") }} {{
-    range $category, $feeds := $langContent}}
+    range $category, $feeds := $langContent.feeds}}
     <tr>
-      <td class="border border-gray-400 text-center">{{ $lang | upper }}</td>
+      <td class="border border-gray-400 text-center">{{ $langContent.lang_label }}</td>
       <td class="border border-gray-400 text-center">
         {{ $category | humanize }}
       </td>
       <td class="border border-gray-400 text-center">
         <ul>
-          {{ range $feed := $feeds }}
+          {{ range $key, $feed := $feeds }}
           <li class="my-4">
             <a
               class="text-blue-500 hover:underline"

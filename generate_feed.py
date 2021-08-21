@@ -6,6 +6,7 @@ from datetime import datetime
 from typing import Dict, List
 
 import httpx
+import pycountry
 import pytz
 import yaml
 from feedgen.feed import FeedGenerator
@@ -136,7 +137,16 @@ def update_manifest(type_: str, lang: str, category: str) -> None:
 
     if not os.path.exists(path):
         with open(path, "w") as manifest_file:
-            manifest = {lang: {category: [{"type": type_, "updated_at": date_now}]}}
+            locale = "zh" if lang.startswith("zh") else lang
+            language = pycountry.languages.get(alpha_2=locale)
+            manifest = {
+                lang: {
+                    "lang_label": language.name,
+                    "feeds": {
+                        category: [{"type": type_, "updated_at": date_now}],
+                    },
+                }
+            }
 
             manifest_file.write(json.dumps(manifest, indent=4))
     else:
@@ -144,20 +154,27 @@ def update_manifest(type_: str, lang: str, category: str) -> None:
             manifest = json.loads(manifest_file.read())
 
             if lang not in manifest:
-                manifest[lang] = {}
+                locale = "zh" if lang.startswith("zh") else lang
+                language = pycountry.languages.get(alpha_2=locale)
+                manifest[lang] = {
+                    "lang_label": language.name,
+                    "feeds": {},
+                }
 
-            if category not in manifest[lang]:
-                manifest[lang][category] = []
+            if category not in manifest[lang]["feeds"]:
+                manifest[lang]["feeds"][category] = []
 
             feed_found = False
-            for idx, feed in enumerate(manifest[lang][category]):
+            for idx, feed in enumerate(manifest[lang]["feeds"][category]):
                 if feed["type"] == type_:
-                    manifest[lang][category][idx]["updated_at"] = date_now
+                    manifest[lang]["feeds"][category][idx]["updated_at"] = date_now
                     feed_found = True
                     break
 
             if not feed_found:
-                manifest[lang][category].append({"type": type_, "updated_at": date_now})
+                manifest[lang]["feeds"][category].append(
+                    {"type": type_, "updated_at": date_now}
+                )
 
             manifest_file.truncate(0)
             manifest_file.seek(0)
