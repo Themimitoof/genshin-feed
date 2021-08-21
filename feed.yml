@@ -2,11 +2,11 @@ url: https://genshin.mihoyo.com/content/yuanshen/getContentList
 perPage: 100
 
 feeds:
-  # en:
-  #   latest: 10
-  #   info: 11
-  #   updates: 12
-  #   events: 13
+  en:
+    latest: 10
+    info: 11
+    updates: 12
+    events: 13
   fr:
     latest: 161
     info: 162
@@ -14,5 +14,5 @@ feeds:
     events: 164
 
 timezones:
-  en: America/Los_Angeles
+  en: America/New_York  # All English events are still in UTC-4, it matches with this TZ.
   fr: Europe/Paris
