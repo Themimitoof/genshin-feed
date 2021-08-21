@@ -2,17 +2,77 @@ url: https://genshin.mihoyo.com/content/yuanshen/getContentList
 perPage: 100
 
 feeds:
-  en:
+  en:  # English, America
     latest: 10
     info: 11
     updates: 12
     events: 13
-  fr:
+  fr:  # French, France
     latest: 161
     info: 162
     updates: 163
     events: 164
+  zh-tw:  # Chinese, Taiwan
+    latest: 87
+    info: 90
+    updates: 91
+    events: 92
+  de:  # German, Germany
+    latest: 182
+    info: 183
+    updates: 184
+    events: 185
+  es:  # Spanish, Spain
+    latest: 224
+    info: 225
+    updates: 226
+    events: 227
+  id:  # Indonesian, Indonesia
+    latest: 266
+    info: 267
+    updates: 268
+    events: 269
+  ja:  # Japanese, Japan
+    latest: 141
+    info: 142
+    updates: 143
+    events: 144
+  ko:  # Korean, Korea
+    latest: 124
+    info: 125
+    updates: 126
+    events: 127
+  pt:  # Portuguese, Portugal
+    latest: 203
+    info: 204
+    updates: 205
+    events: 206
+  ru:  # Russia
+    latest: 245
+    info: 246
+    updates: 247
+    events: 248
+  th:  # Thai, Tailand
+    latest: 308
+    info: 309
+    updates: 310
+    events: 311
+  vi:  # Vietnamese, Vietnam
+    latest: 287
+    info: 288
+    updates: 289
+    events: 290
 
 timezones:
   en: America/New_York  # All English events are still in UTC-4, it matches with this TZ.
   fr: Europe/Paris
+  zh-tw: Asia/Taipei
+  de: Europe/Berlin
+  es: Europe/Madrid
+  id: Asia/Jakarta
+  ja: Asia/Tokyo
+  ko: Asia/Seoul
+  pt: Europe/Lisbon
+  ru: Europe/Moscow
+  th: Asia/Bangkok
+  vi: Asia/Ho_Chi_Minh
