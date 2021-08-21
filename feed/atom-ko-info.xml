@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-08-21T15:08:25.196332+00:00</updated>
+  <updated>2021-08-21T16:11:51.368877+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12237</id>
-    <title>사전 다운로드 기능 오픈 예정</title>
-    <updated>2021-04-23T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310494063221.png"><br/><br/>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12237">사전 다운로드 기능 오픈 예정</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12237" rel="alternate"/>
-    <summary>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다</summary>
-    <published>2021-04-23T11:00:00+09:00</published>
-  </entry>
   <entry>
     <id>12248</id>
     <title>「옥빛 아래 속세의 노래」 1.5 버전 업데이트 공지</title>
@@ -969,5 +960,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/15110" rel="alternate"/>
     <summary>이번 이나즈마 오케스트라 현장은 일본 도쿄 오페라 시티 콘서트홀에서 촬영했고 아주 오랜 역사를 지닌 도쿄 필하모니 오케스트라와 일본 최고의 민속 악기 연주가들이 함께 이나즈마 게임 음악 &lt;Inazuma&gt;와 &lt;Overlord of the Thunderstorm&gt;를 연주했다</summary>
     <published>2021-08-21T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15103</id>
+    <title>&lt;원신&gt; 첫 충전 2배 페이백 초기화 설명</title>
+    <updated>2021-08-21T23:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082019453922773.jpg"><br/><br/><원신>은 2.1 버전 업데이트 이후 첫 충전 2배를 초기화 할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15103"><원신> 첫 충전 2배 페이백 초기화 설명</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15103" rel="alternate"/>
+    <summary>&lt;원신&gt;은 2.1 버전 업데이트 이후 첫 충전 2배를 초기화 할 예정입니다</summary>
+    <published>2021-08-21T23:30:00+09:00</published>
   </entry>
 </feed>
