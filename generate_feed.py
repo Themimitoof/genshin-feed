@@ -49,7 +49,7 @@ def fetch_posts(config: dict, channel_id: int) -> List[Dict]:
             f"{feed_url}?pageSize={post_per_pages}&pageNum={page}"
             f"&channelId={channel_id}"
         )
-        resp = httpx.get(url)
+        resp = httpx.get(url, timeout=15.0)
 
         if (
             resp.status_code != 200

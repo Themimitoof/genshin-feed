@@ -18,9 +18,11 @@ The project is separated in two parts:
 
 ## TODO
 
- * [ ] Add other languages to the project
+ * [x] Add other languages to the project
+ * [x] Increase the timeout of `httpx`
  * [ ] Find a way to add a `<media:content>` tag in the feeds for the post image
  * [ ] Having a better website? (If you have good CSS skills and free time, don't hesitate!)
+   * [ ] Find a better way to display all languages and categories feeds than the actual table
 
 
 ## Contribution
