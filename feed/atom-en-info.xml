@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-08-21T03:08:43.446861+00:00</updated>
+  <updated>2021-08-21T04:10:17.340411+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12064</id>
-    <title>[Web Event Start] "Hilidream Camp" Open for a Limited-Time. Craft Furnishings and Earn Rewards!</title>
-    <updated>2021-04-21T13:15:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210420/2021042021194148651.png"><br/><br/>Welcome to the Hilidream Camp! Guide the hilichurls to craft furnishings and earn Primogems, furnishings, and in-game rewards!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12064">[Web Event Start] "Hilidream Camp" Open for a Limited-Time. Craft Furnishings and Earn Rewards!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12064" rel="alternate"/>
-    <summary>Welcome to the Hilidream Camp! Guide the hilichurls to craft furnishings and earn Primogems, furnishings, and in-game rewards!</summary>
-    <published>2021-04-21T13:15:00-04:00</published>
-  </entry>
   <entry>
     <id>12098</id>
     <title>The Adventure Continues on PlayStation®5 on April 28 | Genshin Impact</title>
@@ -1002,5 +993,14 @@ Shousen, the master of Inazuma's Shinryuu, offers to help the Traveler initiate 
     <link href="https://genshin.mihoyo.com/en/news/detail/15106" rel="alternate"/>
     <summary>After the Genshin Impact Version 2.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.</summary>
     <published>2021-08-20T23:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15051</id>
+    <title>Realm of Tranquil Eternity：Inazuma Live Symphony Performance | Genshin Impact </title>
+    <updated>2021-08-21T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011324023844.png"><br/><br/>This Inazuma Live Symphony Performance was filmed at the Tokyo Opera City Concert Hall. The performance features Tokyo Philharmonic Orchestra, the oldest symphony orchestra in Japan, and Japan's top folk musicians performing Inazuma's regional pieces "Inazuma" and "Overlord of the Thunderstorm" together.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15051">Realm of Tranquil Eternity：Inazuma Live Symphony Performance | Genshin Impact </a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15051" rel="alternate"/>
+    <summary>This Inazuma Live Symphony Performance was filmed at the Tokyo Opera City Concert Hall. The performance features Tokyo Philharmonic Orchestra, the oldest symphony orchestra in Japan, and Japan's top folk musicians performing Inazuma's regional pieces "Inazuma" and "Overlord of the Thunderstorm" together.</summary>
+    <published>2021-08-21T12:00:00-04:00</published>
   </entry>
 </feed>
