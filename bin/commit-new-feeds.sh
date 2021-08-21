@@ -6,8 +6,8 @@ if [ "$GERALDO_BOULARDO_TOKEN" == "" ]; then
 fi
 
 echo "Setup Git initial config"
-git config set --global.user "garaldo.boulardo"
-git config set --global.email "garaldo.boulardo@themimitoof.fr"
+git config user.name "garaldo.boulardo"
+git config user.email "garaldo.boulardo@themimitoof.fr"
 git remote add githubActions https://git:$GERALDO_BOULARDO_TOKEN@github.com/themimitoof/genshin-feed.git
 
 echo "Commit all new feeds"
