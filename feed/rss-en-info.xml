@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Aug 2021 11:06:35 +0000</lastBuildDate>
-    <item>
-      <title>The Adventure Continues on PlayStation®5 on April 28 | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12098</link>
-      <description>Travelers, let's learn about the story of the development of Genshin Impact for PlayStation®5!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042114082411313.jpg"><br/><br/>Travelers, let's learn about the story of the development of Genshin Impact for PlayStation®5!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12098">The Adventure Continues on PlayStation®5 on April 28 | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12098</guid>
-      <pubDate>Thu, 22 Apr 2021 00:01:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Aug 2021 11:47:24 +0000</lastBuildDate>
     <item>
       <title>New Character Demo - "Yanfei: Legal Expertise" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12157</link>
@@ -902,6 +894,16 @@ Shousen, the master of Inazuma's Shinryuu, offers to help the Traveler initiate 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011324023844.png"><br/><br/>This Inazuma Live Symphony Performance was filmed at the Tokyo Opera City Concert Hall. The performance features Tokyo Philharmonic Orchestra, the oldest symphony orchestra in Japan, and Japan's top folk musicians performing Inazuma's regional pieces "Inazuma" and "Overlord of the Thunderstorm" together.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15051">Realm of Tranquil Eternity：Inazuma Live Symphony Performance | Genshin Impact </a>]]></content:encoded>
       <guid isPermaLink="false">15051</guid>
       <pubDate>Sat, 21 Aug 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15129</link>
+      <description>Dear Traveler,
+The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082119245498236.jpg"><br/><br/>Dear Traveler,
+The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15129">The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</a>]]></content:encoded>
+      <guid isPermaLink="false">15129</guid>
+      <pubDate>Sat, 21 Aug 2021 19:23:46 -0400</pubDate>
     </item>
   </channel>
 </rss>

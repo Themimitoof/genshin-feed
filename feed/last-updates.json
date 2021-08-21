@@ -1,0 +1,662 @@
+{
+    "en": {
+        "lang_label": "English",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:24.298586"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:24.350776"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:24.590754"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:24.595168"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:24.839131"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:24.840692"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.092786"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.094128"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.122500"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.131679"
+                }
+            ]
+        }
+    },
+    "fr": {
+        "lang_label": "French",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.395842"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.400850"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.451001"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.457683"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.483620"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.485900"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.554160"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.558515"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.587921"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.598004"
+                }
+            ]
+        }
+    },
+    "zh-tw": {
+        "lang_label": "Chinese",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.640674"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.646364"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.840517"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.846388"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.874733"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.878353"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.905006"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.907772"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.937106"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:25.947613"
+                }
+            ]
+        }
+    },
+    "de": {
+        "lang_label": "German",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:25.995221"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.002073"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.271791"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.279034"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.317335"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.321162"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.346120"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.349637"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.382727"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.395912"
+                }
+            ]
+        }
+    },
+    "es": {
+        "lang_label": "Spanish",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.445054"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.452468"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.500927"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.509577"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.537361"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.541744"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.570007"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.574467"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.605161"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.617463"
+                }
+            ]
+        }
+    },
+    "id": {
+        "lang_label": "Indonesian",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.668397"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.677263"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.725256"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.734012"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.763641"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.771075"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.801198"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.806548"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.836874"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.849483"
+                }
+            ]
+        }
+    },
+    "ja": {
+        "lang_label": "Japanese",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.895251"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.903866"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.932806"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.938608"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:26.983888"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:26.993246"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:27.046885"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:27.055696"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:27.094979"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:27.112415"
+                }
+            ]
+        }
+    },
+    "ko": {
+        "lang_label": "Korean",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:27.164912"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:27.177007"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:28.268781"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:28.279935"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:29.800894"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:29.808228"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:29.843294"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:29.850014"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:29.884156"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:29.901454"
+                }
+            ]
+        }
+    },
+    "pt": {
+        "lang_label": "Portuguese",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:29.955695"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:29.966593"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.018328"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.029485"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.067267"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.075160"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.109903"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.117595"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.152788"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.169099"
+                }
+            ]
+        }
+    },
+    "ru": {
+        "lang_label": "Russian",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.803456"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.815000"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.864111"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.875447"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.910499"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.919068"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.952994"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:30.961024"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:30.996046"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:31.016132"
+                }
+            ]
+        }
+    },
+    "th": {
+        "lang_label": "Thai",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:31.780219"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:31.792184"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:31.847018"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:31.861420"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:31.897474"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:31.906636"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:31.939251"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:31.948664"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:31.991756"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:32.013463"
+                }
+            ]
+        }
+    },
+    "vi": {
+        "lang_label": "Vietnamese",
+        "feeds": {
+            "latest": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:32.068207"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:32.081922"
+                }
+            ],
+            "info": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:32.769393"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:32.783095"
+                }
+            ],
+            "updates": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:32.815262"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:32.825473"
+                }
+            ],
+            "events": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:32.868532"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:32.878684"
+                }
+            ],
+            "all-articles": [
+                {
+                    "type": "rss",
+                    "updated_at": "2021-08-21T11:47:32.916825"
+                },
+                {
+                    "type": "atom",
+                    "updated_at": "2021-08-21T11:47:32.935762"
+                }
+            ]
+        }
+    }
+}
