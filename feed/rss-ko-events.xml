@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Genshin Impact KO - events</title>
+    <link>https://genshin.mihoyo.com/ko/news</link>
+    <description>events feed of Genshin Impact in ko</description>
+    <atom:link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 21 Aug 2021 11:06:39 +0000</lastBuildDate>
+    <item>
+      <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
+      <description>원신 공식 포럼이 공식 오픈했어!</description>
+      <content:encoded><![CDATA[원신 공식 포럼이 공식 오픈했어!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/2156">원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</a>]]></content:encoded>
+      <guid isPermaLink="false">2156</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[해등절 이벤트] 모두의 소원이 이루어지길</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/2779</link>
+      <description>3월 27일-3월 31일 이벤트에 참여하고 보상받자</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200610/2020061019084931397.png"><br/><br/>3월 27일-3월 31일 이벤트에 참여하고 보상받자<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/2779">[해등절 이벤트] 모두의 소원이 이루어지길</a>]]></content:encoded>
+      <guid isPermaLink="false">2779</guid>
+      <pubDate>Mon, 30 Mar 2020 03:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「원소 도가니」 오픈</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/4697</link>
+      <description>다인모드 도전 이벤트 설명</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200722/2020072217585239046.png"><br/><br/>다인모드 도전 이벤트 설명<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/4697">「원소 도가니」 오픈</a>]]></content:encoded>
+      <guid isPermaLink="false">4697</guid>
+      <pubDate>Wed, 22 Jul 2020 04:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>《원신》출행 준비 - 정식 오픈</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/5362</link>
+      <description>﻿이벤트에 참여하기만 하면 「★4 무기」와 「희귀 성유물」을 획득할 수 있어요.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200910/2020091012012585675.png"><br/><br/>﻿이벤트에 참여하기만 하면 「★4 무기」와 「희귀 성유물」을 획득할 수 있어요.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/5362">《원신》출행 준비 - 정식 오픈</a>]]></content:encoded>
+      <guid isPermaLink="false">5362</guid>
+      <pubDate>Wed, 09 Sep 2020 21:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;이벤트&gt; 우리 엠버와 같이 사진을 찍어보아요!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/5632</link>
+      <description>﻿지금 바로 휴대폰을 켜고 AR 엠버와 같이 사진도 찍고 수수께끼도 풀어보세요! 풍성한 보상이 여행자를 기다리고 있습니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200923/2020092320430959023.png"><br/><br/>﻿지금 바로 휴대폰을 켜고 AR 엠버와 같이 사진도 찍고 수수께끼도 풀어보세요! 풍성한 보상이 여행자를 기다리고 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/5632"><이벤트> 우리 엠버와 같이 사진을 찍어보아요!</a>]]></content:encoded>
+      <guid isPermaLink="false">5632</guid>
+      <pubDate>Wed, 23 Sep 2020 05:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;이벤트&gt; 우리 엠버와 같이 사진을 찍어보아요! - 서울 도착</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/5801</link>
+      <description>정찰기사 엠버가 저~기 멀리 있는 &lt;도쿄&gt;역에서 출발해 막 &lt;서울&gt;역에 도착했어요.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200928/2020092816453474182.png"><br/><br/>정찰기사 엠버가 저~기 멀리 있는 <도쿄>역에서 출발해 막 <서울>역에 도착했어요.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/5801"><이벤트> 우리 엠버와 같이 사진을 찍어보아요! - 서울 도착</a>]]></content:encoded>
+      <guid isPermaLink="false">5801</guid>
+      <pubDate>Mon, 28 Sep 2020 01:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「명소등 바다」 팬아트 모집 이벤트 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/8385</link>
+      <description>곧 리월 해등절이 시작돼. 「명소등 바다」 팬아트 모집 이벤트도 곧 오픈할 예정이야! 여행자가 제작한 팬아트를 업로드하면 원석, Adobe All Apps 1년 회원, CLIP STUDIO PAINT, Adobe Photoshop 1년 회원 등 보상을 획득할 수도 있어!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210127/2021012721364728009.png"><br/><br/>곧 리월 해등절이 시작돼. 「명소등 바다」 팬아트 모집 이벤트도 곧 오픈할 예정이야! 여행자가 제작한 팬아트를 업로드하면 원석, Adobe All Apps 1년 회원, CLIP STUDIO PAINT, Adobe Photoshop 1년 회원 등 보상을 획득할 수도 있어!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/8385">「명소등 바다」 팬아트 모집 이벤트 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">8385</guid>
+      <pubDate>Wed, 27 Jan 2021 21:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>5가지 등불을 밝히고 원석을 나누자! 웹 이벤트「명소등 소원」정식 오픈</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/8723</link>
+      <description>소등이 사람들의 소원을 선인에게 전해준다는 전설이 있습니다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210219/2021021911031440711.png"><br/><br/>소등이 사람들의 소원을 선인에게 전해준다는 전설이 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/8723">5가지 등불을 밝히고 원석을 나누자! 웹 이벤트「명소등 소원」정식 오픈</a>]]></content:encoded>
+      <guid isPermaLink="false">8723</guid>
+      <pubDate>Fri, 19 Feb 2021 13:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,896 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+  <id>https://genshin.mihoyo.com/ja/news</id>
+  <title>Genshin Impact JA - latest</title>
+  <updated>2021-08-21T11:06:38.664966+00:00</updated>
+  <author>
+    <name>Genshin Impact communication team</name>
+  </author>
+  <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
+  <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
+  <subtitle>latest feed of Genshin Impact in ja</subtitle>
+  <entry>
+    <id>9430</id>
+    <title>「風花の招待」イベント紹介</title>
+    <updated>2021-03-18T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210317/2021031716582547484.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9430">「風花の招待」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/9430" rel="alternate"/>
+    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
+    <published>2021-03-18T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>9493</id>
+    <title>Ver.1.4の更新に伴う一部不具合の修正について</title>
+    <updated>2021-03-26T00:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210326/2021032611244587376.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9493">Ver.1.4の更新に伴う一部不具合の修正について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/9493" rel="alternate"/>
+    <published>2021-03-26T00:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>9494</id>
+    <title>原神海灯祭イラストのスマホ用壁紙公開！</title>
+    <updated>2021-03-26T00:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210326/2021032613071849947.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9494">原神海灯祭イラストのスマホ用壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/9494" rel="alternate"/>
+    <summary/>
+    <published>2021-03-26T00:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>9501</id>
+    <title>「闘争の潮流」イベント予告</title>
+    <updated>2021-03-31T12:14:30+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210329/2021032916395648896.jpg"><br/><br/>演武台挑戦で原石を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9501">「闘争の潮流」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/9501" rel="alternate"/>
+    <summary>演武台挑戦で原石を獲得！</summary>
+    <published>2021-03-31T12:14:30+09:00</published>
+  </entry>
+  <entry>
+    <id>9504</id>
+    <title>「純水の願い」イベント予告</title>
+    <updated>2021-04-07T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210329/2021032917385376285.jpg"><br/><br/>探索で便利アイテム「エンドラー」を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9504">「純水の願い」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/9504" rel="alternate"/>
+    <summary>探索で便利アイテム「エンドラー」を獲得！</summary>
+    <published>2021-04-07T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>9881</id>
+    <title>「純水の願い」イベント紹介</title>
+    <updated>2021-04-08T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040715451025054.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9881">「純水の願い」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/9881" rel="alternate"/>
+    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
+    <published>2021-04-08T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>9855</id>
+    <title>「私（俺）たちはいずれ再会する」任務予告</title>
+    <updated>2021-04-10T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040711440633661.jpg"><br/><br/>魔神任務 第一章 第四幕近日開放<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9855">「私（俺）たちはいずれ再会する」任務予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/9855" rel="alternate"/>
+    <summary>魔神任務 第一章 第四幕近日開放</summary>
+    <published>2021-04-10T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>11675</id>
+    <title>コンテンツクリエイター(第2期)募集開始！</title>
+    <updated>2021-04-12T00:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041218421455495.png"><br/><br/>旅人さん、「原神」コンテンツクリエイター（第2期）を募集いたします！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11675">コンテンツクリエイター(第2期)募集開始！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/11675" rel="alternate"/>
+    <summary>旅人さん、「原神」コンテンツクリエイター（第2期）を募集いたします！</summary>
+    <published>2021-04-12T00:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>11678</id>
+    <title>「百貨珍品」イベント予告</title>
+    <updated>2021-04-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041217004252306.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11678">「百貨珍品」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/11678" rel="alternate"/>
+    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
+    <published>2021-04-13T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>11805</id>
+    <title>運営チームからの手紙</title>
+    <updated>2021-04-15T17:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210415/2021041514261395659.jpg"><br/><br/>【04.15】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11805">運営チームからの手紙</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/11805" rel="alternate"/>
+    <summary>【04.15】開発チームQ&amp;A</summary>
+    <published>2021-04-15T17:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>11913</id>
+    <title>運営チームからの手紙</title>
+    <updated>2021-04-17T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041616403199672.jpg"><br/><br/>【04.17】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11913">運営チームからの手紙</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/11913" rel="alternate"/>
+    <summary>【04.17】開発チームQ&amp;A</summary>
+    <published>2021-04-17T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>11985</id>
+    <title>原神キャラクターTwitterアイコン第二弾配布開始！</title>
+    <updated>2021-04-19T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210419/2021041914562959624.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11985">原神キャラクターTwitterアイコン第二弾配布開始！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/11985" rel="alternate"/>
+    <summary/>
+    <published>2021-04-19T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>11686</id>
+    <title>原神Ver.1.5アップデート記念 パイモンを探せ！キャンペーン 詳細</title>
+    <updated>2021-04-20T22:45:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041218270816416.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11686">原神Ver.1.5アップデート記念 パイモンを探せ！キャンペーン 詳細</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/11686" rel="alternate"/>
+    <published>2021-04-20T22:45:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12144</id>
+    <title>Ver.1.5事前ダウンロードが間もなく開始</title>
+    <updated>2021-04-23T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042117461431802.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12144">Ver.1.5事前ダウンロードが間もなく開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12144" rel="alternate"/>
+    <summary/>
+    <published>2021-04-23T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12250</id>
+    <title>Ver.1.5「塵歌を纏いし扉」バージョンアップのお知らせ</title>
+    <updated>2021-04-25T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042510222022332.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12250">Ver.1.5「塵歌を纏いし扉」バージョンアップのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12250" rel="alternate"/>
+    <summary/>
+    <published>2021-04-25T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12254</id>
+    <title>Ver.1.5新魔物紹介</title>
+    <updated>2021-04-25T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513284540636.jpg"><br/><br/>Ver.1.5より登場予定の新魔物を紹介します！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12254">Ver.1.5新魔物紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12254" rel="alternate"/>
+    <summary>Ver.1.5より登場予定の新魔物を紹介します！</summary>
+    <published>2021-04-25T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12151</id>
+    <title>Ver.1.5事前ダウンロード開始</title>
+    <updated>2021-04-26T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042118315058280.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12151">Ver.1.5事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12151" rel="alternate"/>
+    <summary/>
+    <published>2021-04-26T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12256</id>
+    <title>Ver.1.5伝説任務予告</title>
+    <updated>2021-04-26T12:20:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042514422722420.jpg"><br/><br/>伝説任務「デートイベント・2」「古聞の章・第二幕」がまもなく開催されます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12256">Ver.1.5伝説任務予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12256" rel="alternate"/>
+    <summary>伝説任務「デートイベント・2」「古聞の章・第二幕」がまもなく開催されます！</summary>
+    <published>2021-04-26T12:20:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12357</id>
+    <title>Ver.1.5「塵歌を纏いし扉」更新内容について</title>
+    <updated>2021-04-28T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042718311670791.jpg"><br/><br/>「塵歌を纏いし扉」へようこそ！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12357">Ver.1.5「塵歌を纏いし扉」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12357" rel="alternate"/>
+    <summary>「塵歌を纏いし扉」へようこそ！</summary>
+    <published>2021-04-28T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12374</id>
+    <title>ヒルチャール百科事典001期</title>
+    <updated>2021-04-28T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513223881868.jpg"><br/><br/>塵歌壺基本操作篇<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12374">ヒルチャール百科事典001期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12374" rel="alternate"/>
+    <summary>塵歌壺基本操作篇</summary>
+    <published>2021-04-28T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12354</id>
+    <title>「星と深淵を再び」イベント紹介</title>
+    <updated>2021-04-28T11:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042810282769420.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12354">「星と深淵を再び」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12354" rel="alternate"/>
+    <summary/>
+    <published>2021-04-28T11:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12258</id>
+    <title>「エネルギー原盤・序論」イベント予告</title>
+    <updated>2021-04-28T12:15:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042514573245377.jpg"><br/><br/>イベントに参加し、「キャッツテールスペシャル・ディオナ（氷）」などの報酬と交換できます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12258">「エネルギー原盤・序論」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12258" rel="alternate"/>
+    <summary>イベントに参加し、「キャッツテールスペシャル・ディオナ（氷）」などの報酬と交換できます！</summary>
+    <published>2021-04-28T12:15:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12330</id>
+    <title>Ver.1.5の更新に伴う一部不具合の修正について</title>
+    <updated>2021-04-28T12:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042619292721793.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12330">Ver.1.5の更新に伴う一部不具合の修正について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12330" rel="alternate"/>
+    <summary/>
+    <published>2021-04-28T12:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12459</id>
+    <title>GW期間のサポートメールについてのご連絡</title>
+    <updated>2021-04-28T19:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042818455693534.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12459">GW期間のサポートメールについてのご連絡</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12459" rel="alternate"/>
+    <summary/>
+    <published>2021-04-28T19:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12455</id>
+    <title>ヒルチャール百科事典002期</title>
+    <updated>2021-04-29T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513231488766.jpg"><br/><br/>信頼ランク篇<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12455">ヒルチャール百科事典002期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12455" rel="alternate"/>
+    <summary>信頼ランク篇</summary>
+    <published>2021-04-29T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12479</id>
+    <title>PS5版に関するFAQ</title>
+    <updated>2021-04-29T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042910392827931.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12479">PS5版に関するFAQ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12479" rel="alternate"/>
+    <summary/>
+    <published>2021-04-29T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12458</id>
+    <title>「エネルギー原盤・序論」イベント紹介</title>
+    <updated>2021-04-29T10:45:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042816480255390.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12458">「エネルギー原盤・序論」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12458" rel="alternate"/>
+    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
+    <published>2021-04-29T10:45:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12462</id>
+    <title>運営チームからの手紙</title>
+    <updated>2021-04-29T12:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042819220610434.jpg"><br/><br/>【04.29】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12462">運営チームからの手紙</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12462" rel="alternate"/>
+    <summary>【04.29】開発チームQ&amp;A</summary>
+    <published>2021-04-29T12:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12456</id>
+    <title>ヒルチャール百科事典003期</title>
+    <updated>2021-04-29T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513234572437.jpg"><br/><br/>周遊する壺の精霊篇<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12456">ヒルチャール百科事典003期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12456" rel="alternate"/>
+    <summary>周遊する壺の精霊篇</summary>
+    <published>2021-04-29T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12507</id>
+    <title>ヒルチャールからのTips・「詭爆の境」</title>
+    <updated>2021-04-30T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042915095446323.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12507">ヒルチャールからのTips・「詭爆の境」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12507" rel="alternate"/>
+    <summary/>
+    <published>2021-04-30T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12530</id>
+    <title>Ver.1.5鍾離壁紙公開！</title>
+    <updated>2021-05-02T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210502/2021050210393928401.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12530">Ver.1.5鍾離壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12530" rel="alternate"/>
+    <summary/>
+    <published>2021-05-02T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12531</id>
+    <title>ヒルチャールからのTips・「怒雷の境」</title>
+    <updated>2021-05-03T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210430/2021043016533461337.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12531">ヒルチャールからのTips・「怒雷の境」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12531" rel="alternate"/>
+    <summary/>
+    <published>2021-05-03T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12559</id>
+    <title>原神4コマ漫画コンテスト開催！</title>
+    <updated>2021-05-06T00:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210506/2021050610525991570.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12559">原神4コマ漫画コンテスト開催！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12559" rel="alternate"/>
+    <summary/>
+    <published>2021-05-06T00:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12532</id>
+    <title>ヒルチャールからのTips・「混沌の境」</title>
+    <updated>2021-05-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210430/2021043016531192382.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12532">ヒルチャールからのTips・「混沌の境」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12532" rel="alternate"/>
+    <summary/>
+    <published>2021-05-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12590</id>
+    <title>ヒルチャールからのTips・「異端の境」</title>
+    <updated>2021-05-09T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210507/2021050715064883325.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12590">ヒルチャールからのTips・「異端の境」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12590" rel="alternate"/>
+    <published>2021-05-09T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12630</id>
+    <title>「風の行方」イベント予告</title>
+    <updated>2021-05-11T13:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210510/2021051010492222127.jpg"><br/><br/>イベントに参加し、原石を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12630">「風の行方」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12630" rel="alternate"/>
+    <summary>イベントに参加し、原石を獲得！</summary>
+    <published>2021-05-11T13:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12697</id>
+    <title>アカウント安全性に関するお知らせ</title>
+    <updated>2021-05-11T18:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118234995594.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12697">アカウント安全性に関するお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12697" rel="alternate"/>
+    <summary/>
+    <published>2021-05-11T18:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12714</id>
+    <title>「風の行方」イベント紹介</title>
+    <updated>2021-05-13T10:28:30+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210512/2021051217514261381.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12714">「風の行方」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12714" rel="alternate"/>
+    <summary/>
+    <published>2021-05-13T10:28:30+09:00</published>
+  </entry>
+  <entry>
+    <id>12753</id>
+    <title>「波沫の章」任務予告</title>
+    <updated>2021-05-16T12:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417081311016.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12753">「波沫の章」任務予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12753" rel="alternate"/>
+    <summary/>
+    <published>2021-05-16T12:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12873</id>
+    <title>「迷城戦線」イベント予告</title>
+    <updated>2021-05-19T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051814151156650.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12873">「迷城戦線」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12873" rel="alternate"/>
+    <published>2021-05-19T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12882</id>
+    <title>「迷城戦線」イベント紹介</title>
+    <updated>2021-05-20T10:28:30+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051915102388495.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12882">「迷城戦線」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12882" rel="alternate"/>
+    <published>2021-05-20T10:28:30+09:00</published>
+  </entry>
+  <entry>
+    <id>12898</id>
+    <title>原神キービジュアル壁紙第二弾公開！</title>
+    <updated>2021-05-21T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052618154387262.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12898">原神キービジュアル壁紙第二弾公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12898" rel="alternate"/>
+    <summary/>
+    <published>2021-05-21T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12945</id>
+    <title>運営チームからの手紙</title>
+    <updated>2021-05-24T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052114462438207.jpg"><br/><br/>【05.24】 開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12945">運営チームからの手紙</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12945" rel="alternate"/>
+    <summary>【05.24】 開発チームQ&amp;A</summary>
+    <published>2021-05-24T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13010</id>
+    <title>「三矢の結盟」イベント予告</title>
+    <updated>2021-05-25T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052415333368263.jpg"><br/><br/>イベントに参加し、調度品設計図を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13010">「三矢の結盟」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13010" rel="alternate"/>
+    <summary>イベントに参加し、調度品設計図を獲得！</summary>
+    <published>2021-05-25T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13038</id>
+    <title>「三矢の結盟」イベント紹介</title>
+    <updated>2021-05-26T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052516455646978.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13038">「三矢の結盟」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13038" rel="alternate"/>
+    <summary/>
+    <published>2021-05-26T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13089</id>
+    <title>原神４コマコンテスト結果発表</title>
+    <updated>2021-05-27T17:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210527/2021052712032211762.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13089">原神４コマコンテスト結果発表</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13089" rel="alternate"/>
+    <summary/>
+    <published>2021-05-27T17:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13115</id>
+    <title>「熟知の奔流」イベント予告</title>
+    <updated>2021-05-29T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052815275612188.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13115">「熟知の奔流」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13115" rel="alternate"/>
+    <published>2021-05-29T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12877</id>
+    <title>原神Ver.1.6アップデート記念 クレーの爆弾はどこ？キャンペーン&amp;万葉ピックアップ記念キャンペーン 詳細</title>
+    <updated>2021-06-05T00:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12877">原神Ver.1.6アップデート記念 クレーの爆弾はどこ？キャンペーン&万葉ピックアップ記念キャンペーン 詳細</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12877" rel="alternate"/>
+    <published>2021-06-05T00:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13222</id>
+    <title>Ver.1.6「真夏！島？大冒険！」バージョンアップのお知らせ</title>
+    <updated>2021-06-07T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210604/2021060415130096892.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13222">Ver.1.6「真夏！島？大冒険！」バージョンアップのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13222" rel="alternate"/>
+    <summary/>
+    <published>2021-06-07T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13223</id>
+    <title>Ver1.6事前ダウンロード開始</title>
+    <updated>2021-06-07T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210604/2021060415305164040.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13223">Ver1.6事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13223" rel="alternate"/>
+    <summary/>
+    <published>2021-06-07T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13225</id>
+    <title>Ver1.6イベント予告</title>
+    <updated>2021-06-07T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210604/2021060417344529652.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13225">Ver1.6イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13225" rel="alternate"/>
+    <summary/>
+    <published>2021-06-07T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13329</id>
+    <title>「真夏！島？大冒険！」イベント紹介</title>
+    <updated>2021-06-08T10:44:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719072929281.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13329">「真夏！島？大冒険！」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13329" rel="alternate"/>
+    <summary/>
+    <published>2021-06-08T10:44:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13337</id>
+    <title>コスチューム公開・ジン「海風の夢」</title>
+    <updated>2021-06-08T12:15:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513203472511.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13337">コスチューム公開・ジン「海風の夢」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13337" rel="alternate"/>
+    <summary/>
+    <published>2021-06-08T12:15:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13339</id>
+    <title>コスチューム公開・バーバラ「サマータイムスパークル」</title>
+    <updated>2021-06-08T12:15:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513200411200.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13339">コスチューム公開・バーバラ「サマータイムスパークル」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13339" rel="alternate"/>
+    <summary/>
+    <published>2021-06-08T12:15:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13416</id>
+    <title>Ver.1.6「真夏！島？大冒険！」更新内容について</title>
+    <updated>2021-06-09T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060819583827667.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13416">Ver.1.6「真夏！島？大冒険！」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13416" rel="alternate"/>
+    <summary/>
+    <published>2021-06-09T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13415</id>
+    <title>「真夏！島？大冒険！」Tips・第001期</title>
+    <updated>2021-06-09T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060817313945243.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13415">「真夏！島？大冒険！」Tips・第001期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13415" rel="alternate"/>
+    <summary/>
+    <published>2021-06-09T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13456</id>
+    <title>「真夏！島？大冒険！」Tips・第002期</title>
+    <updated>2021-06-11T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061014521775739.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13456">「真夏！島？大冒険！」Tips・第002期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13456" rel="alternate"/>
+    <summary/>
+    <published>2021-06-11T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13471</id>
+    <title>「真夏！島？大冒険！」Tips・第003期</title>
+    <updated>2021-06-14T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210611/2021061116112567805.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13471">「真夏！島？大冒険！」Tips・第003期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13471" rel="alternate"/>
+    <published>2021-06-14T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13484</id>
+    <title>「真夏！島？大冒険！」Tips・第004期</title>
+    <updated>2021-06-17T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210616/2021061611462549289.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13484">「真夏！島？大冒険！」Tips・第004期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13484" rel="alternate"/>
+    <published>2021-06-17T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13519</id>
+    <title>Ver.1.6「真夏！島？大冒険！」キービジュアル壁紙公開！</title>
+    <updated>2021-06-19T11:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210618/2021061819582994909.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13519">Ver.1.6「真夏！島？大冒険！」キービジュアル壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13519" rel="alternate"/>
+    <summary/>
+    <published>2021-06-19T11:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13502</id>
+    <title>ヒルチャールスタンプ配布</title>
+    <updated>2021-06-20T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13502">ヒルチャールスタンプ配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13502" rel="alternate"/>
+    <summary/>
+    <published>2021-06-20T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13529</id>
+    <title>「風来の剣闘奇譚」イベント予告</title>
+    <updated>2021-06-23T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062216211319551.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13529">「風来の剣闘奇譚」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13529" rel="alternate"/>
+    <summary/>
+    <published>2021-06-23T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13575</id>
+    <title>「風来の剣闘奇譚」イベント説明</title>
+    <updated>2021-06-24T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062314312310345.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13575">「風来の剣闘奇譚」イベント説明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13575" rel="alternate"/>
+    <summary/>
+    <published>2021-06-24T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13610</id>
+    <title>「長い旅路」イベント紹介</title>
+    <updated>2021-06-24T13:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062319520985668.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13610">「長い旅路」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13610" rel="alternate"/>
+    <summary/>
+    <published>2021-06-24T13:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13701</id>
+    <title>「秋風に舞いし紅葉」任務予告</title>
+    <updated>2021-06-27T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062810445974359.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13701">「秋風に舞いし紅葉」任務予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13701" rel="alternate"/>
+    <published>2021-06-27T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13768</id>
+    <title>運営チームからの手紙</title>
+    <updated>2021-06-30T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513121383002.jpg"><br/><br/>ワープ機能を持つ調度品がやってきます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13768">運営チームからの手紙</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13768" rel="alternate"/>
+    <summary>ワープ機能を持つ調度品がやってきます！</summary>
+    <published>2021-06-30T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13782</id>
+    <title>「ボンボン魔球大合戦」イベント予告</title>
+    <updated>2021-06-30T11:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914423235744.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13782">「ボンボン魔球大合戦」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13782" rel="alternate"/>
+    <summary/>
+    <published>2021-06-30T11:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13769</id>
+    <title>「ボンボン魔球大合戦」イベント紹介</title>
+    <updated>2021-06-30T16:58:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062911424331246.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13769">「ボンボン魔球大合戦」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13769" rel="alternate"/>
+    <summary/>
+    <published>2021-06-30T16:58:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13854</id>
+    <title>楓原万葉エピソード動画の壁紙公開！</title>
+    <updated>2021-07-02T11:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210701/2021070119554049185.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13854">楓原万葉エピソード動画の壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13854" rel="alternate"/>
+    <summary/>
+    <published>2021-07-02T11:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13864</id>
+    <title>「旅の絵本」イベント紹介</title>
+    <updated>2021-07-03T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070217501127170.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13864">「旅の絵本」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13864" rel="alternate"/>
+    <summary/>
+    <published>2021-07-03T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13920</id>
+    <title>「終わらぬ戦い」イベント予告</title>
+    <updated>2021-07-06T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210705/2021070520191383641.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13920">「終わらぬ戦い」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13920" rel="alternate"/>
+    <summary/>
+    <published>2021-07-06T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13965</id>
+    <title>「終わらぬ戦い」イベント紹介</title>
+    <updated>2021-07-08T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717403724162.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13965">「終わらぬ戦い」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13965" rel="alternate"/>
+    <summary/>
+    <published>2021-07-08T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13998</id>
+    <title>武器祈願の新しい仕様「神鋳軌定」について（7月9日24:40にテキスト調整）</title>
+    <updated>2021-07-09T21:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210708/2021070810474760168.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13998">武器祈願の新しい仕様「神鋳軌定」について（7月9日24:40にテキスト調整）</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13998" rel="alternate"/>
+    <summary/>
+    <published>2021-07-09T21:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14022</id>
+    <title>PSNアカウントとmiHoYo通行証の連携について（8月6日18:10にテキスト調整）</title>
+    <updated>2021-07-09T21:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914482924583.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14022">PSNアカウントとmiHoYo通行証の連携について（8月6日18:10にテキスト調整）</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14022" rel="alternate"/>
+    <summary/>
+    <published>2021-07-09T21:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14093</id>
+    <title>「未知への航路」イベント紹介</title>
+    <updated>2021-07-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071310321378980.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14093">「未知への航路」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14093" rel="alternate"/>
+    <summary/>
+    <published>2021-07-13T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14094</id>
+    <title>イベント「旅の絵本」の壁紙公開！</title>
+    <updated>2021-07-13T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071315215884735.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14094">イベント「旅の絵本」の壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14094" rel="alternate"/>
+    <summary/>
+    <published>2021-07-13T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>13786</id>
+    <title>原神Ver.2.0稲妻エリア実装記念！稲妻到達チャレンジ！参加規約</title>
+    <updated>2021-07-13T22:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13786">原神Ver.2.0稲妻エリア実装記念！稲妻到達チャレンジ！参加規約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/13786" rel="alternate"/>
+    <summary/>
+    <published>2021-07-13T22:50:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14095</id>
+    <title>Ver.2.0「塵歌壺」システム更新速報：「栽培」システム</title>
+    <updated>2021-07-14T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513132823360.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14095">Ver.2.0「塵歌壺」システム更新速報：「栽培」システム</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14095" rel="alternate"/>
+    <summary/>
+    <published>2021-07-14T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14171</id>
+    <title>Ver.2.0「鳴神不動、泡影を滅す」特設ページ</title>
+    <updated>2021-07-15T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071512562944819.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14171">Ver.2.0「鳴神不動、泡影を滅す」特設ページ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14171" rel="alternate"/>
+    <summary/>
+    <published>2021-07-15T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14235</id>
+    <title>Ver.2.0新魔物紹介</title>
+    <updated>2021-07-17T11:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14235">Ver.2.0新魔物紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14235" rel="alternate"/>
+    <summary/>
+    <published>2021-07-17T11:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14277</id>
+    <title>Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</title>
+    <updated>2021-07-19T10:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071716590877558.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14277">Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14277" rel="alternate"/>
+    <summary/>
+    <published>2021-07-19T10:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14236</id>
+    <title>Ver2.0事前ダウンロード開始</title>
+    <updated>2021-07-19T10:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071619001511587.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14236">Ver2.0事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14236" rel="alternate"/>
+    <summary/>
+    <published>2021-07-19T10:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14238</id>
+    <title>Ver.2.0任務予告</title>
+    <updated>2021-07-19T12:29:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071712403272106.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14238">Ver.2.0任務予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14238" rel="alternate"/>
+    <summary/>
+    <published>2021-07-19T12:29:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14370</id>
+    <title>「雷痕を求めて」イベント予告</title>
+    <updated>2021-07-20T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071920185887458.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14370">「雷痕を求めて」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14370" rel="alternate"/>
+    <summary/>
+    <published>2021-07-20T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14405</id>
+    <title>Ver.2.0「鳴神不動、泡影を滅す」更新内容について</title>
+    <updated>2021-07-21T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072016161010277.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14405">Ver.2.0「鳴神不動、泡影を滅す」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14405" rel="alternate"/>
+    <summary/>
+    <published>2021-07-21T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14404</id>
+    <title>「雷痕を求めて」イベント紹介</title>
+    <updated>2021-07-21T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072015451458198.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14404">「雷痕を求めて」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14404" rel="alternate"/>
+    <summary/>
+    <published>2021-07-21T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14498</id>
+    <title>「白鷺の招き」イベント紹介</title>
+    <updated>2021-07-26T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072611500715649.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14498">「白鷺の招き」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14498" rel="alternate"/>
+    <summary/>
+    <published>2021-07-26T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14234</id>
+    <title>原神Twitter夏祭りキャンペーン参加規約</title>
+    <updated>2021-08-01T22:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14234">原神Twitter夏祭りキャンペーン参加規約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14234" rel="alternate"/>
+    <published>2021-08-01T22:50:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14623</id>
+    <title>「秘宝の行方」イベント予告</title>
+    <updated>2021-08-04T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316220329668.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14623">「秘宝の行方」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14623" rel="alternate"/>
+    <summary/>
+    <published>2021-08-04T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14675</id>
+    <title>「夏祭りの記念写真」イベント紹介</title>
+    <updated>2021-08-05T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210804/2021080418053689407.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14675">「夏祭りの記念写真」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14675" rel="alternate"/>
+    <summary/>
+    <published>2021-08-05T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14822</id>
+    <title>「機関棋譚・霊妙の陣」イベント予告</title>
+    <updated>2021-08-10T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080917464976585.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14822">「機関棋譚・霊妙の陣」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14822" rel="alternate"/>
+    <summary/>
+    <published>2021-08-10T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14875</id>
+    <title>「機関棋譚・霊妙の陣」イベント紹介</title>
+    <updated>2021-08-11T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081018004828153.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14875">「機関棋譚・霊妙の陣」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14875" rel="alternate"/>
+    <published>2021-08-11T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14942</id>
+    <title>Ver.2.0「鳴神不動、泡影を滅す」キービジュアル壁紙公開！</title>
+    <updated>2021-08-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210812/2021081217150628602.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14942">Ver.2.0「鳴神不動、泡影を滅す」キービジュアル壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14942" rel="alternate"/>
+    <summary/>
+    <published>2021-08-13T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14951</id>
+    <title>「星の返還」システムメンテナンスについて</title>
+    <updated>2021-08-16T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210812/2021081217113085338.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14951">「星の返還」システムメンテナンスについて</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14951" rel="alternate"/>
+    <published>2021-08-16T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14988</id>
+    <title>イベント「夏祭りの記念写真」の壁紙公開！</title>
+    <updated>2021-08-17T11:59:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210817/2021081711012096189.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14988">イベント「夏祭りの記念写真」の壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14988" rel="alternate"/>
+    <published>2021-08-17T11:59:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14992</id>
+    <title>「幻影心流」イベント予告</title>
+    <updated>2021-08-18T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816442928229.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14992">「幻影心流」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14992" rel="alternate"/>
+    <summary/>
+    <published>2021-08-18T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>14994</id>
+    <title>「幻影心流」イベント紹介</title>
+    <updated>2021-08-19T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210817/2021081717405448165.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14994">「幻影心流」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/14994" rel="alternate"/>
+    <published>2021-08-19T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15049</id>
+    <title>初回チャージ2倍ボーナスリセットのお知らせ</title>
+    <updated>2021-08-20T22:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210819/2021081916092524818.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15049">初回チャージ2倍ボーナスリセットのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15049" rel="alternate"/>
+    <summary/>
+    <published>2021-08-20T22:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15096</id>
+    <title>「地脈の奔流」イベント予告</title>
+    <updated>2021-08-21T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018312890407.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15096">「地脈の奔流」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15096" rel="alternate"/>
+    <published>2021-08-21T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15113</id>
+    <title>Ver.2.1「韶光撫月の浮世」特設ページ</title>
+    <updated>2021-08-21T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082110521988129.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15113">Ver.2.1「韶光撫月の浮世」特設ページ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15113" rel="alternate"/>
+    <summary/>
+    <published>2021-08-21T12:00:00+09:00</published>
+  </entry>
+</feed>

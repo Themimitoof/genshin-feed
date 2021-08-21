@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Genshin Impact JA - info</title>
+    <link>https://genshin.mihoyo.com/ja/news</link>
+    <description>info feed of Genshin Impact in ja</description>
+    <atom:link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 21 Aug 2021 11:06:38 +0000</lastBuildDate>
+    <item>
+      <title>親愛なる旅人さんへ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
+      <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200611/2020061113390952938.png"><br/><br/>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/3061">親愛なる旅人さんへ</a>]]></content:encoded>
+      <guid isPermaLink="false">3061</guid>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>開発者共研計画——BOSS編01</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/4618</link>
+      <description>無相元素の起源</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200709/2020070917150114376.png"><br/><br/>無相元素の起源<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/4618">開発者共研計画——BOSS編01</a>]]></content:encoded>
+      <guid isPermaLink="false">4618</guid>
+      <pubDate>Thu, 09 Jul 2020 02:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>開発者共研計画——璃月編01</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/4659</link>
+      <description>荻花洲</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200722/2020072211580780693.png"><br/><br/>荻花洲<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/4659">開発者共研計画——璃月編01</a>]]></content:encoded>
+      <guid isPermaLink="false">4659</guid>
+      <pubDate>Wed, 22 Jul 2020 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>開発者共研計画——『原神』音楽制作秘話01</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/4806</link>
+      <description>「音」のある共研計画</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200804/2020080417250399201.png"><br/><br/>「音」のある共研計画<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/4806">開発者共研計画——『原神』音楽制作秘話01</a>]]></content:encoded>
+      <guid isPermaLink="false">4806</guid>
+      <pubDate>Thu, 06 Aug 2020 02:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>開発者共研計画——キャラクター編01</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/8647</link>
+      <description>護法夜叉・魈</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210210/2021021018141533262.jpg"><br/><br/>護法夜叉・魈<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8647">開発者共研計画——キャラクター編01</a>]]></content:encoded>
+      <guid isPermaLink="false">8647</guid>
+      <pubDate>Wed, 10 Feb 2021 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/8934</link>
+      <description>Ver.1.4開発チームQ&amp;A</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210301/2021030115292842653.jpg"><br/><br/>Ver.1.4開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8934">運営チームからの手紙</a>]]></content:encoded>
+      <guid isPermaLink="false">8934</guid>
+      <pubDate>Tue, 02 Mar 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/11805</link>
+      <description>【04.15】開発チームQ&amp;A</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210415/2021041514261395659.jpg"><br/><br/>【04.15】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11805">運営チームからの手紙</a>]]></content:encoded>
+      <guid isPermaLink="false">11805</guid>
+      <pubDate>Thu, 15 Apr 2021 17:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/11913</link>
+      <description>【04.17】開発チームQ&amp;A</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041616403199672.jpg"><br/><br/>【04.17】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11913">運営チームからの手紙</a>]]></content:encoded>
+      <guid isPermaLink="false">11913</guid>
+      <pubDate>Sat, 17 Apr 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/12462</link>
+      <description>【04.29】開発チームQ&amp;A</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042819220610434.jpg"><br/><br/>【04.29】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12462">運営チームからの手紙</a>]]></content:encoded>
+      <guid isPermaLink="false">12462</guid>
+      <pubDate>Thu, 29 Apr 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/12945</link>
+      <description>【05.24】 開発チームQ&amp;A</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052114462438207.jpg"><br/><br/>【05.24】 開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12945">運営チームからの手紙</a>]]></content:encoded>
+      <guid isPermaLink="false">12945</guid>
+      <pubDate>Mon, 24 May 2021 10:29:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/13768</link>
+      <description>ワープ機能を持つ調度品がやってきます！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513121383002.jpg"><br/><br/>ワープ機能を持つ調度品がやってきます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13768">運営チームからの手紙</a>]]></content:encoded>
+      <guid isPermaLink="false">13768</guid>
+      <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
