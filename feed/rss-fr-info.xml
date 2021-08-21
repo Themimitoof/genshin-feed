@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 19 Aug 2021 19:50:08 +0000</lastBuildDate>
-    <item>
-      <title>L'aventure commence à nouveau sur PlayStation®5 le 28 avril | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12124</link>
-      <description>Voyageurs, l'attente est finie ! Genshin Impact sortira le 28 avril 2021 sur PlayStation®5 et permettra aux joueurs du monde entier de vivre une expérience de jeu encore plus incroyable et fluide !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042114544648090.jpg"><br/><br/>Voyageurs, l'attente est finie ! Genshin Impact sortira le 28 avril 2021 sur PlayStation®5 et permettra aux joueurs du monde entier de vivre une expérience de jeu encore plus incroyable et fluide !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12124">L'aventure commence à nouveau sur PlayStation®5 le 28 avril | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12124</guid>
-      <pubDate>Thu, 22 Apr 2021 00:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Yanfei : Experte de la loi »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12171</link>
-      <description>« Ce n'est qu'en se conformant à la loi que les gens peuvent résoudre leurs problèmes. »</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042121060564627.jpg"><br/><br/>« Ce n'est qu'en se conformant à la loi que les gens peuvent résoudre leurs problèmes. »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12171">Genshin Impact - Démo personnage : « Yanfei : Experte de la loi »</a>]]></content:encoded>
-      <guid isPermaLink="false">12171</guid>
-      <pubDate>Thu, 22 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sat, 21 Aug 2021 00:51:12 +0000</lastBuildDate>
     <item>
       <title>« Profitons de cette météo clémente pour mémoriser la loi. » — Yanfei</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12176</link>
@@ -855,6 +839,22 @@ Tout comme les étoiles dans les yeux d'une jeune fille.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210819/2021081914211671932.jpg"><br/><br/>L'événement « Flux spectral » est sur le point de commencer !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15044">Détails de l'événement « Flux spectral »</a>]]></content:encoded>
       <guid isPermaLink="false">15044</guid>
       <pubDate>Thu, 19 Aug 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15092</link>
+      <description>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082015592517974.jpg"><br/><br/>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15092">Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</a>]]></content:encoded>
+      <guid isPermaLink="false">15092</guid>
+      <pubDate>Fri, 20 Aug 2021 22:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact : Réinitialisation du double bonus pour la première recharge</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15097</link>
+      <description>Le double bonus pour la première recharge de cristaux primaires sera réinitialisé dans Genshin Impact lors de la mise à jour vers la version 2.1. Tous les produits de la page de recharge verront leurs bonus réinitialisés.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018320794187.jpg"><br/><br/>Le double bonus pour la première recharge de cristaux primaires sera réinitialisé dans Genshin Impact lors de la mise à jour vers la version 2.1. Tous les produits de la page de recharge verront leurs bonus réinitialisés.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15097">Genshin Impact : Réinitialisation du double bonus pour la première recharge</a>]]></content:encoded>
+      <guid isPermaLink="false">15097</guid>
+      <pubDate>Fri, 20 Aug 2021 23:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
