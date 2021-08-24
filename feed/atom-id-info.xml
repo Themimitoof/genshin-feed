@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-08-24T02:17:32.290648+00:00</updated>
+  <updated>2021-08-24T03:09:06.823036+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12236</id>
-    <title>Fitur Pra-Unduh Akan Segera Dibuka</title>
-    <updated>2021-04-23T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310354766839.png"><br/><br/>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12236">Fitur Pra-Unduh Akan Segera Dibuka</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12236" rel="alternate"/>
-    <summary>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.</summary>
-    <published>2021-04-23T11:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12247</id>
     <title>Pengumuman Update v1.5 "Kilau Giok di Lautan Debu"</title>
@@ -908,5 +899,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15121" rel="alternate"/>
     <summary>Dapatkan 20.000 Mora dengan mengunjungi situs event dan membagikan halaman tersebut</summary>
     <published>2021-08-21T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15161</id>
+    <title>Preview Update v2.1: Penjelasan Sistem Memancing</title>
+    <updated>2021-08-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082320211144421.png"><br/><br/>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15161">Preview Update v2.1: Penjelasan Sistem Memancing</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15161" rel="alternate"/>
+    <summary>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~</summary>
+    <published>2021-08-24T10:30:00+07:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 24 Aug 2021 02:17:34 +0000</lastBuildDate>
-    <item>
-      <title>「옥빛 아래 속세의 노래」 1.5 버전 업데이트 공지</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12248</link>
-      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12248">「옥빛 아래 속세의 노래」 1.5 버전 업데이트 공지</a>]]></description>
-      <guid isPermaLink="false">12248</guid>
-      <pubDate>Sun, 25 Apr 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Aug 2021 03:09:14 +0000</lastBuildDate>
     <item>
       <title>「산야의 시조」 기원, 「속세 한유·종려(바위)」 확률 UP!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/12296</link>
@@ -866,6 +859,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082019453922773.jpg"><br/><br/><원신>은 2.1 버전 업데이트 이후 첫 충전 2배를 초기화 할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15103"><원신> 첫 충전 2배 페이백 초기화 설명</a>]]></content:encoded>
       <guid isPermaLink="false">15103</guid>
       <pubDate>Sat, 21 Aug 2021 23:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15174</link>
+      <description> 2.1 버전에서 여행자들이 오래 기다렸던 「낚시」 콘텐츠가 업데이트될 거야</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082323131883766.png"><br/><br/> 2.1 버전에서 여행자들이 오래 기다렸던 「낚시」 콘텐츠가 업데이트될 거야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15174">2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">15174</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-08-24T02:17:35.416834+00:00</updated>
+  <updated>2021-08-24T03:09:17.107167+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>12234</id>
-    <title>O pré-download estará dispnível em breve</title>
-    <updated>2021-04-23T11:00:30+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310330438268.png"><br/><br/>Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12234">O pré-download estará dispnível em breve</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12234" rel="alternate"/>
-    <summary>Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.</summary>
-    <published>2021-04-23T11:00:30+01:00</published>
-  </entry>
   <entry>
     <id>12246</id>
     <title>Aviso de Atualização da Versão 1.5 [Sob a Luz de Jadeíta]</title>
@@ -912,5 +903,14 @@ Mal sabem eles que aquela figura radiante como os fogos de artifício de uma noi
     <link href="https://genshin.mihoyo.com/pt/news/detail/15114" rel="alternate"/>
     <summary>Caro Viajante: Prévia da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal" Disponível!</summary>
     <published>2021-08-21T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15148</id>
+    <title>Prévia da Atualização da Versão 2.1: Descrição do Modo de Jogo "Pesca"</title>
+    <updated>2021-08-24T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082316301376964.png"><br/><br/>Olá, Viajantes~ Está chegando na Versão 2.1 um Modo de Jogo muito esperado pelos Viajantes, a "Pesca". Vamos conferir juntos~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15148">Prévia da Atualização da Versão 2.1: Descrição do Modo de Jogo "Pesca"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15148" rel="alternate"/>
+    <summary>Olá, Viajantes~ Está chegando na Versão 2.1 um Modo de Jogo muito esperado pelos Viajantes, a "Pesca". Vamos conferir juntos~</summary>
+    <published>2021-08-24T10:30:00+01:00</published>
   </entry>
 </feed>

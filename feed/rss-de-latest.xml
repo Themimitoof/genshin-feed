@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 24 Aug 2021 02:17:29 +0000</lastBuildDate>
-    <item>
-      <title>Vorzeitiges Herunterladen bald verfügbar</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12231</link>
-      <description>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310091478245.png"><br/><br/>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12231">Vorzeitiges Herunterladen bald verfügbar</a>]]></content:encoded>
-      <guid isPermaLink="false">12231</guid>
-      <pubDate>Fri, 23 Apr 2021 11:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Aug 2021 03:08:56 +0000</lastBuildDate>
     <item>
       <title>Mitteilung zur Aktualisierung auf Version 1.5 „Im Schein der Jade“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12242</link>
@@ -832,6 +822,14 @@ Shousen, der Meister des Shinryuu von Inazuma erklärt sich bereit, dem Reisende
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111335210742.jpg"><br/><br/>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15117">Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">15117</guid>
       <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aktualisierungsübersicht für Version 2.1: Erläuterungen zur Spielweise des Angelsystems</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15152</link>
+      <description>Seid gegrüßt, liebe Reisende, in der neuen Version 2.1 werden ihr endlich angeln können. Heute stellen wir euch die Neuerungen einmal genauer vor!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318212553265.png"><br/><br/>Seid gegrüßt, liebe Reisende, in der neuen Version 2.1 werden ihr endlich angeln können. Heute stellen wir euch die Neuerungen einmal genauer vor!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15152">Aktualisierungsübersicht für Version 2.1: Erläuterungen zur Spielweise des Angelsystems</a>]]></content:encoded>
+      <guid isPermaLink="false">15152</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

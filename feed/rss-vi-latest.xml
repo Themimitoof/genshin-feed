@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 24 Aug 2021 01:45:25 +0000</lastBuildDate>
-    <item>
-      <title>Trang xem trước phiên bản mới 1.5 "Cổng Ngọc Bụi Trần" đã mở!</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12206</link>
-      <description>Trăng sáng treo đầu cành, Nam Thiên tiếng rồng ngâm. Ánh dương vừa ló rạng, tim đá bỗng ngậm ngùi.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210422/2021042210461569339.png"><br/><br/>Trăng sáng treo đầu cành, Nam Thiên tiếng rồng ngâm. Ánh dương vừa ló rạng, tim đá bỗng ngậm ngùi.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12206">Trang xem trước phiên bản mới 1.5 "Cổng Ngọc Bụi Trần" đã mở!</a>]]></content:encoded>
-      <guid isPermaLink="false">12206</guid>
-      <pubDate>Thu, 22 Apr 2021 12:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Aug 2021 03:09:30 +0000</lastBuildDate>
     <item>
       <title>Sắp Mở Tính Năng Tải Trước</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12232</link>
@@ -867,6 +859,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082112000795246.jpg"><br/><br/>Nhà Lữ Hành thân mến<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15119">Đã mở trang xem trước phiên bản mới 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"!</a>]]></content:encoded>
       <guid isPermaLink="false">15119</guid>
       <pubDate>Sat, 21 Aug 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Bản tin cập nhật phiên bản 2.1: Hướng dẫn "Câu Cá"		</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15153</link>
+      <description>Nhà Lữ Hành thân mến! Phiên bản 2.1 sẽ cập nhật tính năng "Câu Cá" mà Nhà Lữ Hành mong chờ từ lâu, hãy cùng xem nhé!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318242944847.png"><br/><br/>Nhà Lữ Hành thân mến! Phiên bản 2.1 sẽ cập nhật tính năng "Câu Cá" mà Nhà Lữ Hành mong chờ từ lâu, hãy cùng xem nhé!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15153">Bản tin cập nhật phiên bản 2.1: Hướng dẫn "Câu Cá"		</a>]]></content:encoded>
+      <guid isPermaLink="false">15153</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

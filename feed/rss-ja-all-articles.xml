@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Aug 2021 02:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 03:09:13 +0000</lastBuildDate>
     <item>
       <title>Webイベント・「岩港珍奇行紀」開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6712</link>
@@ -643,6 +643,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082110521988129.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15113">Ver.2.1「韶光撫月の浮世」特設ページ</a>]]></description>
       <guid isPermaLink="false">15113</guid>
       <pubDate>Sat, 21 Aug 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.1更新速報：「釣り」システム説明</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15147</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082316054319681.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15147">Ver.2.1更新速報：「釣り」システム説明</a>]]></description>
+      <guid isPermaLink="false">15147</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>新たな旅路への参加に心よりの感謝を！</title>
@@ -1441,14 +1448,6 @@
       <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>「風花の招待」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9430</link>
-      <description>イベントに参加し、豪華な報酬を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210317/2021031716582547484.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9430">「風花の招待」イベント紹介</a>]]></content:encoded>
-      <guid isPermaLink="false">9430</guid>
-      <pubDate>Thu, 18 Mar 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>Ver.1.4の更新に伴う一部不具合の修正について</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9493</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210326/2021032611244587376.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9493">Ver.1.4の更新に伴う一部不具合の修正について</a>]]></description>
@@ -2161,6 +2160,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082110521988129.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15113">Ver.2.1「韶光撫月の浮世」特設ページ</a>]]></description>
       <guid isPermaLink="false">15113</guid>
       <pubDate>Sat, 21 Aug 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.1更新速報：「釣り」システム説明</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15147</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082316054319681.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15147">Ver.2.1更新速報：「釣り」システム説明</a>]]></description>
+      <guid isPermaLink="false">15147</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

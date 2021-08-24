@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Tue, 24 Aug 2021 02:17:32 +0000</lastBuildDate>
-    <item>
-      <title>Fitur Pra-Unduh Akan Segera Dibuka</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/12236</link>
-      <description>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310354766839.png"><br/><br/>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12236">Fitur Pra-Unduh Akan Segera Dibuka</a>]]></content:encoded>
-      <guid isPermaLink="false">12236</guid>
-      <pubDate>Fri, 23 Apr 2021 11:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 24 Aug 2021 03:09:06 +0000</lastBuildDate>
     <item>
       <title>Pengumuman Update v1.5 "Kilau Giok di Lautan Debu"</title>
       <link>https://genshin.mihoyo.com/id/news/detail/12247</link>
@@ -808,6 +800,14 @@ ada embusan angin pantai yang menyejukkan...<br><br>Read more on <a href="https:
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082112301146492.jpg"><br/><br/>Dapatkan 20.000 Mora dengan mengunjungi situs event dan membagikan halaman tersebut<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15121">Halaman Preview v2.1 "Dunia di Bawah Cahaya Rembulan" Resmi Dibuka!</a>]]></content:encoded>
       <guid isPermaLink="false">15121</guid>
       <pubDate>Sat, 21 Aug 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Preview Update v2.1: Penjelasan Sistem Memancing</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/15161</link>
+      <description>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082320211144421.png"><br/><br/>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15161">Preview Update v2.1: Penjelasan Sistem Memancing</a>]]></content:encoded>
+      <guid isPermaLink="false">15161</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

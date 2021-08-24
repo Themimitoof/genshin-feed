@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2021-08-24T02:17:34.027184+00:00</updated>
+  <updated>2021-08-24T03:09:12.836323+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -789,5 +789,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15113" rel="alternate"/>
     <summary/>
     <published>2021-08-21T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15147</id>
+    <title>Ver.2.1更新速報：「釣り」システム説明</title>
+    <updated>2021-08-24T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082316054319681.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15147">Ver.2.1更新速報：「釣り」システム説明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15147" rel="alternate"/>
+    <published>2021-08-24T10:30:00+09:00</published>
   </entry>
 </feed>

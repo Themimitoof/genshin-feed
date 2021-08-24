@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-08-24T02:17:25.242142+00:00</updated>
+  <updated>2021-08-24T03:08:44.763177+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12157</id>
-    <title>New Character Demo - "Yanfei: Legal Expertise" | Genshin Impact</title>
-    <updated>2021-04-22T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042119055396352.jpg"><br/><br/>Only by adhering to the law can the people solve life's myriad of problems.
-This young lady, a half-illuminated beast, is the top legal expert in Liyue Harbor. She knows the law inside and out, as well as how to balance it with human nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12157">New Character Demo - "Yanfei: Legal Expertise" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12157" rel="alternate"/>
-    <summary>Only by adhering to the law can the people solve life's myriad of problems.
-This young lady, a half-illuminated beast, is the top legal expert in Liyue Harbor. She knows the law inside and out, as well as how to balance it with human nature.</summary>
-    <published>2021-04-22T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>12173</id>
     <title>A Good Day for Some Legal Practice: "Wise Innocence" Yanfei</title>
@@ -1004,5 +993,14 @@ The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!<br><b
     <summary>Dear Traveler,
 The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</summary>
     <published>2021-08-21T19:23:46-04:00</published>
+  </entry>
+  <entry>
+    <id>15149</id>
+    <title>Version 2.1 Update Preview: Fishing Gameplay Details</title>
+    <updated>2021-08-24T10:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318151336119.png"><br/><br/>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15149">Version 2.1 Update Preview: Fishing Gameplay Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15149" rel="alternate"/>
+    <summary>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~</summary>
+    <published>2021-08-24T10:30:00-04:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-08-24T02:17:37.762638+00:00</updated>
+  <updated>2021-08-24T03:09:25.752859+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12249</id>
-    <title>แจ้งการอัปเดตเวอร์ชัน 1.5 "อาณาจักรแดนเนรมิต"</title>
-    <updated>2021-04-25T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[เพื่อมอบประสบการณ์การเล่นเกมที่ดียิ่งขึ้นให้แก่นักเดินทาง ทีมนักพัฒนาจะทำการปิดปรับปรุงเพื่ออัปเดตเวอร์ชันเร็ว ๆ นี้ โดยหลังจากที่การปรับปรุงเสร็จสิ้นแล้ว เกมจะได้รับการอัปเดตเป็นเวอร์ชันใหม่<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12249">แจ้งการอัปเดตเวอร์ชัน 1.5 "อาณาจักรแดนเนรมิต"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12249" rel="alternate"/>
-    <summary>เพื่อมอบประสบการณ์การเล่นเกมที่ดียิ่งขึ้นให้แก่นักเดินทาง ทีมนักพัฒนาจะทำการปิดปรับปรุงเพื่ออัปเดตเวอร์ชันเร็ว ๆ นี้ โดยหลังจากที่การปรับปรุงเสร็จสิ้นแล้ว เกมจะได้รับการอัปเดตเป็นเวอร์ชันใหม่</summary>
-    <published>2021-04-25T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>12305</id>
     <title>การอธิษฐาน "ขุนเขาและเมืองใหญ่": โอกาสได้รับ UP "ผู้พเนจรแห่งแดนมนุษย์ - Zhongli (หิน)"!</title>
@@ -920,5 +911,14 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/15118" rel="alternate"/>
     <summary>สวัสดีนักเดินทางที่รัก</summary>
     <published>2021-08-21T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15150</id>
+    <title>พรีวิวการอัปเดตเวอร์ชัน 2.1: คำอธิบายเกมเพลย์ "ตกปลา"</title>
+    <updated>2021-08-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318153768861.png"><br/><br/>สวัสดีนักเดินทาง~ ในเวอร์ชัน 2.1 นี้ จะมีการอัปเดตเกมเพลย์ที่นักเดินทางหลายคนรอมาเนิ่นนาน นั่นก็คือการ "ตกปลา" นั่นเอง เรามาดูไปด้วยกันเลย~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15150">พรีวิวการอัปเดตเวอร์ชัน 2.1: คำอธิบายเกมเพลย์ "ตกปลา"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15150" rel="alternate"/>
+    <summary>สวัสดีนักเดินทาง~ ในเวอร์ชัน 2.1 นี้ จะมีการอัปเดตเกมเพลย์ที่นักเดินทางหลายคนรอมาเนิ่นนาน นั่นก็คือการ "ตกปลา" นั่นเอง เรามาดูไปด้วยกันเลย~</summary>
+    <published>2021-08-24T10:30:00+07:00</published>
   </entry>
 </feed>

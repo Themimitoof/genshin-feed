@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-08-24T02:17:36.520527+00:00</updated>
+  <updated>2021-08-24T03:09:21.092084+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>12266</id>
-    <title>Молитва: «Горы и рынки»: повышен шанс получить Чжун Ли (Гео) и других!</title>
-    <updated>2021-04-26T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520105776511.jpg"><br/><br/>Молитва события поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12266">Молитва: «Горы и рынки»: повышен шанс получить Чжун Ли (Гео) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12266" rel="alternate"/>
-    <summary>Молитва события поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-04-26T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>12272</id>
     <title>Молитва «Воплощение божества»: повышен шанс получить Кромсатель пиков (Одноручное) и Память о пыли (Катализатор)!</title>
@@ -928,5 +919,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15122" rel="alternate"/>
     <summary>Превью-страница версии 2.1</summary>
     <published>2021-08-21T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15151</id>
+    <title>Новая система версии 2.1: Рыбалка</title>
+    <updated>2021-08-24T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318171984634.png"><br/><br/>Рыбалка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15151">Новая система версии 2.1: Рыбалка</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15151" rel="alternate"/>
+    <summary>Рыбалка</summary>
+    <published>2021-08-24T10:30:00+03:00</published>
   </entry>
 </feed>

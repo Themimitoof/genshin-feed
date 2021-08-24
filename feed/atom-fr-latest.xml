@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-08-24T02:17:26.585086+00:00</updated>
+  <updated>2021-08-24T03:08:47.666949+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12233</id>
-    <title>Le pré-téléchargement sera bientôt disponible</title>
-    <updated>2021-04-23T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310185655900.png"><br/><br/>Afin de vous garantir une expérience optimale sur Genshin Impact, nos développeurs rendront bientôt le pré-téléchargement disponible sur PC et mobile.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12233">Le pré-téléchargement sera bientôt disponible</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12233" rel="alternate"/>
-    <summary>Afin de vous garantir une expérience optimale sur Genshin Impact, nos développeurs rendront bientôt le pré-téléchargement disponible sur PC et mobile.</summary>
-    <published>2021-04-23T11:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12251</id>
     <title>Notification de mise à jour version de 1.5 « Toute la lueur sur la jadéite »</title>
@@ -957,5 +948,14 @@ L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin
     <summary>Chers voyageurs,
 L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</summary>
     <published>2021-08-21T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15175</id>
+    <title>Aperçu de la mise à jour de version 2.1 : détails du système de pêche</title>
+    <updated>2021-08-24T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210824/2021082410132191810.png"><br/><br/>Bonjour, voyageurs ! Le nouveau système de pêche arrive dans la version 2.1. Voyons cela ensemble ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15175">Aperçu de la mise à jour de version 2.1 : détails du système de pêche</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15175" rel="alternate"/>
+    <summary>Bonjour, voyageurs ! Le nouveau système de pêche arrive dans la version 2.1. Voyons cela ensemble ~</summary>
+    <published>2021-08-24T10:30:00+02:00</published>
   </entry>
 </feed>
