@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-08-25T19:07:14.062227+00:00</updated>
+  <updated>2021-08-25T20:09:15.138614+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12247</id>
-    <title>Pengumuman Update v1.5 "Kilau Giok di Lautan Debu"</title>
-    <updated>2021-04-25T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12247">Pengumuman Update v1.5 "Kilau Giok di Lautan Debu"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12247" rel="alternate"/>
-    <summary>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.</summary>
-    <published>2021-04-25T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>12268</id>
     <title>Event Permohonan "Bangsawan dan Pertapa": Persentase perolehan "Vago Mundo" Zhongli (Geo) meningkat!</title>
@@ -908,5 +899,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15161" rel="alternate"/>
     <summary>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~</summary>
     <published>2021-08-24T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15262</id>
+    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
+    <updated>2021-08-26T04:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520175026278.jpg"><br/><br/>Bersama dengan Maestro Dirk Brossé dan Flanders Symphony Orchestra, Genshin Impact akan membawakan perjalanan musikal yang indah, dan membangkitkan kembali kenangan Traveler akan melodi-melodi yang bergaung di seantero Teyvat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15262">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15262" rel="alternate"/>
+    <summary>Bersama dengan Maestro Dirk Brossé dan Flanders Symphony Orchestra, Genshin Impact akan membawakan perjalanan musikal yang indah, dan membangkitkan kembali kenangan Traveler akan melodi-melodi yang bergaung di seantero Teyvat.</summary>
+    <published>2021-08-26T04:00:00+07:00</published>
   </entry>
 </feed>

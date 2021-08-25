@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 25 Aug 2021 19:07:15 +0000</lastBuildDate>
-    <item>
-      <title>Aviso de Atualização da Versão 1.5 [Sob a Luz de Jadeíta]</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/12246</link>
-      <description>Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações.</description>
-      <content:encoded><![CDATA[Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12246">Aviso de Atualização da Versão 1.5 [Sob a Luz de Jadeíta]</a>]]></content:encoded>
-      <guid isPermaLink="false">12246</guid>
-      <pubDate>Sun, 25 Apr 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 20:09:42 +0000</lastBuildDate>
     <item>
       <title>Oração "Aristocracia Ermida": O Andarilho do Reino Mortal - Zhongli (Geo) receberá um aumento de taxa de drop!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/12267</link>
@@ -812,6 +804,14 @@ Mal sabem eles que aquela figura radiante como os fogos de artifício de uma noi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082316301376964.png"><br/><br/>Olá, Viajantes~ Está chegando na Versão 2.1 um Modo de Jogo muito esperado pelos Viajantes, a "Pesca". Vamos conferir juntos~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15148">Prévia da Atualização da Versão 2.1: Descrição do Modo de Jogo "Pesca"</a>]]></content:encoded>
       <guid isPermaLink="false">15148</guid>
       <pubDate>Tue, 24 Aug 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15269</link>
+      <description>Junto com o Maestre Dirk Brossé e Orquestra Sinfônica da Flanders, Genshin Impact está pronta para trazer uma incrível jornada musical, revivendo as melodias comoventes que ecoam em Teyvat com os Viajantes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520231831983.jpg"><br/><br/>Junto com o Maestre Dirk Brossé e Orquestra Sinfônica da Flanders, Genshin Impact está pronta para trazer uma incrível jornada musical, revivendo as melodias comoventes que ecoam em Teyvat com os Viajantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15269">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">15269</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

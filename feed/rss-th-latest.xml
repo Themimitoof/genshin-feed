@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 25 Aug 2021 19:07:16 +0000</lastBuildDate>
-    <item>
-      <title>การอธิษฐาน "ขุนเขาและเมืองใหญ่": โอกาสได้รับ UP "ผู้พเนจรแห่งแดนมนุษย์ - Zhongli (หิน)"!</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/12305</link>
-      <description>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับตัวละครและอาวุธมากมายจากกิจกรรมอธิษฐาน เพื่อสร้างทีมให้แข็งแกร่งขึ้น!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042611240678556.jpg"><br/><br/>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับตัวละครและอาวุธมากมายจากกิจกรรมอธิษฐาน เพื่อสร้างทีมให้แข็งแกร่งขึ้น!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12305">การอธิษฐาน "ขุนเขาและเมืองใหญ่": โอกาสได้รับ UP "ผู้พเนจรแห่งแดนมนุษย์ - Zhongli (หิน)"!</a>]]></content:encoded>
-      <guid isPermaLink="false">12305</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 20:09:59 +0000</lastBuildDate>
     <item>
       <title>การอธิษฐาน "สรรค์สร้างเซียน" โอกาสได้รับ UP "ดาบ - Summit Shaper" "สื่อเวท - Memory of Dust"!</title>
       <link>https://genshin.mihoyo.com/th/news/detail/12309</link>
@@ -818,6 +810,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318153768861.png"><br/><br/>สวัสดีนักเดินทาง~ ในเวอร์ชัน 2.1 นี้ จะมีการอัปเดตเกมเพลย์ที่นักเดินทางหลายคนรอมาเนิ่นนาน นั่นก็คือการ "ตกปลา" นั่นเอง เรามาดูไปด้วยกันเลย~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15150">พรีวิวการอัปเดตเวอร์ชัน 2.1: คำอธิบายเกมเพลย์ "ตกปลา"</a>]]></content:encoded>
       <guid isPermaLink="false">15150</guid>
       <pubDate>Tue, 24 Aug 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/15265</link>
+      <description>Genshin Impact กับวาทยกร Dirk Brossé และวงดนตรี Flanders Symphony Orchestra</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192868582.jpg"><br/><br/>Genshin Impact กับวาทยกร Dirk Brossé และวงดนตรี Flanders Symphony Orchestra<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15265">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">15265</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 25 Aug 2021 19:07:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Aug 2021 20:09:13 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -181,12 +181,800 @@
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Rosaria: Purgando las sombras</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/9823</link>
-      <description>Aunque la ciudad de la libertad es antigua, su corazón sigue rebosando juventud. Con un pasado y un presente complejos, todavía tiene un espíritu puro e inocente.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210406/2021040610541167889.jpg"><br/><br/>Aunque la ciudad de la libertad es antigua, su corazón sigue rebosando juventud. Con un pasado y un presente complejos, todavía tiene un espíritu puro e inocente.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/9823">Genshin Impact - Rosaria: Purgando las sombras</a>]]></content:encoded>
-      <guid isPermaLink="false">9823</guid>
-      <pubDate>Tue, 06 Apr 2021 18:00:00 +0200</pubDate>
+      <title>Evento «Aguas anhelantes»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/9910</link>
+      <description>Las aguas de los lagos y ríos de la frontera entre Mondstadt y Liyue se han vuelto amargas. ¿Será este el final de la industria del vino de Mondstadt?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040719042536799.png"><br/><br/>Las aguas de los lagos y ríos de la frontera entre Mondstadt y Liyue se han vuelto amargas. ¿Será este el final de la industria del vino de Mondstadt?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/9910">Evento «Aguas anhelantes»</a>]]></content:encoded>
+      <guid isPermaLink="false">9910</guid>
+      <pubDate>Thu, 08 Apr 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la versión 1.5 de Genshin Impact: A la luz de la jadeíta</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/11915</link>
+      <description>La luz radiante de la luna atravesaba las ramas, el rugido del dragón resonaba en el cielo claro. 
+Los rayos de sol aparecieron inesperadamente, mas su corazón de piedra permaneció inalterado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041617175285357.jpg"><br/><br/>La luz radiante de la luna atravesaba las ramas, el rugido del dragón resonaba en el cielo claro. 
+Los rayos de sol aparecieron inesperadamente, mas su corazón de piedra permaneció inalterado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11915">Avance de la versión 1.5 de Genshin Impact: A la luz de la jadeíta</a>]]></content:encoded>
+      <guid isPermaLink="false">11915</guid>
+      <pubDate>Fri, 16 Apr 2021 20:50:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Charla con los desarrolladores (16 abr.)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/11945</link>
+      <description>¡Llega la función para marcar correos!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041619462048528.png"><br/><br/>¡Llega la función para marcar correos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11945">Charla con los desarrolladores (16 abr.)</a>]]></content:encoded>
+      <guid isPermaLink="false">11945</guid>
+      <pubDate>Fri, 16 Apr 2021 21:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Charla con los desarrolladores (17 abr.) - ¡Todo lo que necesitas saber sobre la Relajatetera!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/11958</link>
+      <description>Tras la transmisión del programa especial del avance de la versión 1.5, recibimos preguntas y comentarios de los viajeros sobre el sistema "Relajatetera". Paimon entrevistó al equipo de desarrollo sobre este tema, y aquí está para responder a las preguntas de los viajeros~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210417/2021041700493553694.png"><br/><br/>Tras la transmisión del programa especial del avance de la versión 1.5, recibimos preguntas y comentarios de los viajeros sobre el sistema "Relajatetera". Paimon entrevistó al equipo de desarrollo sobre este tema, y aquí está para responder a las preguntas de los viajeros~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11958">Charla con los desarrolladores (17 abr.) - ¡Todo lo que necesitas saber sobre la Relajatetera!</a>]]></content:encoded>
+      <guid isPermaLink="false">11958</guid>
+      <pubDate>Sat, 17 Apr 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevo sistema de la versión 1.5 «A la luz de la jadeíta»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12088</link>
+      <description>Los viajeros deben de sentir mucha curiosidad por el nuevo sistema de la versión 1.5. Hoy les presentaremos el nuevo sistema de la «Relajatetera», que tendrá su comienzo en esta nueva versión.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042110463118180.png"><br/><br/>Los viajeros deben de sentir mucha curiosidad por el nuevo sistema de la versión 1.5. Hoy les presentaremos el nuevo sistema de la «Relajatetera», que tendrá su comienzo en esta nueva versión.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12088">Nuevo sistema de la versión 1.5 «A la luz de la jadeíta»</a>]]></content:encoded>
+      <guid isPermaLink="false">12088</guid>
+      <pubDate>Wed, 21 Apr 2021 10:50:42 +0200</pubDate>
+    </item>
+    <item>
+      <title>[Evento web disponible] «La fábrica de Hilisueños» estará disponible por tiempo limitado. ¡Fabrica decoraciones y obtén recompensas!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12084</link>
+      <description>Debido a una casualidad del destino, llegaste a este mundo interior. Lo que nunca habrías imaginado es que aquí te encontrarías a...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042110272141889.png"><br/><br/>Debido a una casualidad del destino, llegaste a este mundo interior. Lo que nunca habrías imaginado es que aquí te encontrarías a...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12084">[Evento web disponible] «La fábrica de Hilisueños» estará disponible por tiempo limitado. ¡Fabrica decoraciones y obtén recompensas!</a>]]></content:encoded>
+      <guid isPermaLink="false">12084</guid>
+      <pubDate>Wed, 21 Apr 2021 13:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Disponible para PlayStation®5 el 28 de abril | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12138</link>
+      <description>¡La espera ha terminado, viajeros! A partir del 28 de abril, Genshin Impact estará disponible para los jugadores de todo el mundo en PlayStation®5. ¡Disfruta de tu increíble aventura con más realismo y fluidez!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042116502221985.jpg"><br/><br/>¡La espera ha terminado, viajeros! A partir del 28 de abril, Genshin Impact estará disponible para los jugadores de todo el mundo en PlayStation®5. ¡Disfruta de tu increíble aventura con más realismo y fluidez!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12138">Disponible para PlayStation®5 el 28 de abril | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">12138</guid>
+      <pubDate>Thu, 22 Apr 2021 00:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Yanfei: Maestra de la ley</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12167</link>
+      <description>La gente podrá resolver sus problemas solamente si cumple con la ley.
+Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mitad Adeptus que conoce a la perfección los principios del orden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042119272649103.jpg"><br/><br/>La gente podrá resolver sus problemas solamente si cumple con la ley.
+Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mitad Adeptus que conoce a la perfección los principios del orden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12167">Demo de nuevo personaje de Genshin Impact - Yanfei: Maestra de la ley</a>]]></content:encoded>
+      <guid isPermaLink="false">12167</guid>
+      <pubDate>Thu, 22 Apr 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡Vista previa de la versión 1.5 «A la luz de la jadeíta» ya disponible!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12208</link>
+      <description>¡El lanzamiento de la nueva versión está cerca! Zhongli regresa por tiempo limitado junto con los nuevos personajes Eula y Yanfei. ¡Apresúrate a conocer todos los eventos de la nueva versión!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210422/2021042210544896637.png"><br/><br/>¡El lanzamiento de la nueva versión está cerca! Zhongli regresa por tiempo limitado junto con los nuevos personajes Eula y Yanfei. ¡Apresúrate a conocer todos los eventos de la nueva versión!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12208">¡Vista previa de la versión 1.5 «A la luz de la jadeíta» ya disponible!</a>]]></content:encoded>
+      <guid isPermaLink="false">12208</guid>
+      <pubDate>Thu, 22 Apr 2021 12:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Función de predescarga</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12235</link>
+      <description>Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310353887551.png"><br/><br/>Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12235">Función de predescarga</a>]]></content:encoded>
+      <guid isPermaLink="false">12235</guid>
+      <pubDate>Fri, 23 Apr 2021 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aviso de actualización de la versión 1.5 «A la luz de la jadeíta»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12252</link>
+      <description>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042714483480132.jpg"><br/><br/>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. <br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12252">Aviso de actualización de la versión 1.5 «A la luz de la jadeíta»</a>]]></content:encoded>
+      <guid isPermaLink="false">12252</guid>
+      <pubDate>Sun, 25 Apr 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12323</link>
+      <description>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042612163548862.jpg"><br/><br/>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12323">Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!</a>]]></content:encoded>
+      <guid isPermaLink="false">12323</guid>
+      <pubDate>Mon, 26 Apr 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevo gachapón «Soledad de la nobleza»: ¡Probabilidad de obtención de Zhongli y otros personajes aumentada!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12324</link>
+      <description>Durante el evento, ¡la probabilidad de obtener el personaje exclusivo de 5★ Zhongli, "el Vagabundo del Reino Mortal" (Geo) será mucho mayor!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042612190637022.jpg"><br/><br/>Durante el evento, ¡la probabilidad de obtener el personaje exclusivo de 5★ Zhongli, "el Vagabundo del Reino Mortal" (Geo) será mucho mayor!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12324">Nuevo gachapón «Soledad de la nobleza»: ¡Probabilidad de obtención de Zhongli y otros personajes aumentada!</a>]]></content:encoded>
+      <guid isPermaLink="false">12324</guid>
+      <pubDate>Mon, 26 Apr 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - La piedra divina divisa el mundo (The Divine Stone Sees the World)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12348</link>
+      <description>Yo, ante este paisaje, reflexiono profundamente sobre el pasado de este mundo, pues he sido testigo de las vicisitudes de la vida durante miles de años.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711471523198.jpg"><br/><br/>Yo, ante este paisaje, reflexiono profundamente sobre el pasado de este mundo, pues he sido testigo de las vicisitudes de la vida durante miles de años.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12348">Mini álbum de Genshin Impact - La piedra divina divisa el mundo (The Divine Stone Sees the World)</a>]]></content:encoded>
+      <guid isPermaLink="false">12348</guid>
+      <pubDate>Tue, 27 Apr 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12425</link>
+      <description>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806172027092.png"><br/><br/>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12425">Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</a>]]></content:encoded>
+      <guid isPermaLink="false">12425</guid>
+      <pubDate>Wed, 28 Apr 2021 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Detalles de la versión 1.5 «A la luz de la jadeíta»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12428</link>
+      <description>A continuación te presentamos el contenido de la nueva versión 1.5 «A la luz de la jadeíta» y la información relacionada con sus compensaciones.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806300456628.png"><br/><br/>A continuación te presentamos el contenido de la nueva versión 1.5 «A la luz de la jadeíta» y la información relacionada con sus compensaciones.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12428">Detalles de la versión 1.5 «A la luz de la jadeíta»</a>]]></content:encoded>
+      <guid isPermaLink="false">12428</guid>
+      <pubDate>Wed, 28 Apr 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡El evento web «El retorno de las estrellas» ya está disponible! ¡Invita a otros aventureros a regresar al juego y gana Protogemas y merchandising!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12444</link>
+      <description>El Gremio de Aventureros envió una invitación para participar en «El retorno de las estrellas». Los aventureros que inviten a otros aventureros a regresar también podrán obtener numerosos regalos.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811312086111.jpg"><br/><br/>El Gremio de Aventureros envió una invitación para participar en «El retorno de las estrellas». Los aventureros que inviten a otros aventureros a regresar también podrán obtener numerosos regalos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12444">¡El evento web «El retorno de las estrellas» ya está disponible! ¡Invita a otros aventureros a regresar al juego y gana Protogemas y merchandising!</a>]]></content:encoded>
+      <guid isPermaLink="false">12444</guid>
+      <pubDate>Wed, 28 Apr 2021 11:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Yanfei: El resplandor de la ley</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12440</link>
+      <description>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811094149512.jpg"><br/><br/>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12440">Genshin Impact - Yanfei: El resplandor de la ley</a>]]></content:encoded>
+      <guid isPermaLink="false">12440</guid>
+      <pubDate>Wed, 28 Apr 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact: "La visión del dragón"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12496</link>
+      <description>"Así se creó el dragón, del deber de un soberano y la lealtad de un amigo. Un rayo de luz iluminó sus ojos y liberó su cuerpo inmortal para que pudiera explorar el mundo".</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911353779222.jpg"><br/><br/>"Así se creó el dragón, del deber de un soberano y la lealtad de un amigo. Un rayo de luz iluminó sus ojos y liberó su cuerpo inmortal para que pudiera explorar el mundo".<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12496">Avance de la trama de Genshin Impact: "La visión del dragón"</a>]]></content:encoded>
+      <guid isPermaLink="false">12496</guid>
+      <pubDate>Thu, 29 Apr 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Consejos sobre el amplificador de energía - Dominio del Rayo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12553</link>
+      <description>¡Hoy ya está disponible el "Dominio del Rayo" del Territorio tortuoso! (Es necesario superar primero el dominio "Donde las sombras se revuelven")</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210503/2021050310175388405.png"><br/><br/>¡Hoy ya está disponible el "Dominio del Rayo" del Territorio tortuoso! (Es necesario superar primero el dominio "Donde las sombras se revuelven")<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12553">Consejos sobre el amplificador de energía - Dominio del Rayo</a>]]></content:encoded>
+      <guid isPermaLink="false">12553</guid>
+      <pubDate>Mon, 03 May 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12684</link>
+      <description>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111031443379.jpg"><br/><br/>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12684">Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</a>]]></content:encoded>
+      <guid isPermaLink="false">12684</guid>
+      <pubDate>Tue, 11 May 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12695</link>
+      <description>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051112054985553.png"><br/><br/>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12695">Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</a>]]></content:encoded>
+      <guid isPermaLink="false">12695</guid>
+      <pubDate>Tue, 11 May 2021 12:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aviso sobre la seguridad de tu cuenta</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12709</link>
+      <description>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119181957896.png"><br/><br/>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12709">Aviso sobre la seguridad de tu cuenta</a>]]></content:encoded>
+      <guid isPermaLink="false">12709</guid>
+      <pubDate>Tue, 11 May 2021 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12726</link>
+      <description>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051311241198999.jpg"><br/><br/>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12726">Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</a>]]></content:encoded>
+      <guid isPermaLink="false">12726</guid>
+      <pubDate>Thu, 13 May 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gachapón «Sobre las olas»: ¡probabilidad de obtención de Eula aumentada!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12804</link>
+      <description>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612580340863.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12804">Gachapón «Sobre las olas»: ¡probabilidad de obtención de Eula aumentada!</a>]]></content:encoded>
+      <guid isPermaLink="false">12804</guid>
+      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12805</link>
+      <description>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612593377755.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12805">Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</a>]]></content:encoded>
+      <guid isPermaLink="false">12805</guid>
+      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12806</link>
+      <description>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051613062340499.png"><br/><br/>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12806">Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">12806</guid>
+      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12836</link>
+      <description>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710574011726.jpg"><br/><br/>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12836">Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</a>]]></content:encoded>
+      <guid isPermaLink="false">12836</guid>
+      <pubDate>Mon, 17 May 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Eula: el surgimiento del hielo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12875</link>
+      <description>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051816195489472.jpg"><br/><br/>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12875">Genshin Impact - Eula: el surgimiento del hielo</a>]]></content:encoded>
+      <guid isPermaLink="false">12875</guid>
+      <pubDate>Tue, 18 May 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/12973</link>
+      <description>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052410234277274.png"><br/><br/>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12973">Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</a>]]></content:encoded>
+      <guid isPermaLink="false">12973</guid>
+      <pubDate>Mon, 24 May 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Detalles del evento «Mimi tomo»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13059</link>
+      <description>Se dice que recientemente un Hilichurl Extraño ha sido visto en compañía de los Hilichurls normales. Katheryne del Gremio de Aventureros te ha pedido que la ayudes a investigar este asunto. Tendrás que buscar Hiluchurls con los que poder comunicarte junto a la especialista en hilichurlio Ella Musk, ¡y así poder averiguar el paradero del Hilichurl Extraño!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052610254012067.jpg"><br/><br/>Se dice que recientemente un Hilichurl Extraño ha sido visto en compañía de los Hilichurls normales. Katheryne del Gremio de Aventureros te ha pedido que la ayudes a investigar este asunto. Tendrás que buscar Hiluchurls con los que poder comunicarte junto a la especialista en hilichurlio Ella Musk, ¡y así poder averiguar el paradero del Hilichurl Extraño!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13059">Detalles del evento «Mimi tomo»</a>]]></content:encoded>
+      <guid isPermaLink="false">13059</guid>
+      <pubDate>Wed, 26 May 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la versión 1.6 de Genshin Impact: ¡Verano, islas, aventuras!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13140</link>
+      <description>En pleno verano, una misteriosa carta fue encontrada en el alféizar de una ventana. Mientras, en un lugar remoto, se conformaba una espiral de niebla desconocida...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052820575288053.jpg"><br/><br/>En pleno verano, una misteriosa carta fue encontrada en el alféizar de una ventana. Mientras, en un lugar remoto, se conformaba una espiral de niebla desconocida...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13140">Avance de la versión 1.6 de Genshin Impact: ¡Verano, islas, aventuras!</a>]]></content:encoded>
+      <guid isPermaLink="false">13140</guid>
+      <pubDate>Fri, 28 May 2021 20:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevo sistema de la versión 1.6 «Relajatetera»: visitas al mundo interior</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13172</link>
+      <description>¡Hola viajeros! En la versión 1.6, la "Relajatetera" se actualizará con las visitas al mundo interior, y hoy vamos a presentarla~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210602/2021060211570294057.jpg"><br/><br/>¡Hola viajeros! En la versión 1.6, la "Relajatetera" se actualizará con las visitas al mundo interior, y hoy vamos a presentarla~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13172">Nuevo sistema de la versión 1.6 «Relajatetera»: visitas al mundo interior</a>]]></content:encoded>
+      <guid isPermaLink="false">13172</guid>
+      <pubDate>Wed, 02 Jun 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡Vista previa de la versión 1.6 «¡Verano, islas, aventuras!» ya disponible!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13203</link>
+      <description>La nueva versión estará disponible pronto. Nuevos mapas, nuevos acertijos, atuendos ligeros para el verano... ¡Adéntrate en esta gran aventura isleña!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311360513002.jpg"><br/><br/>La nueva versión estará disponible pronto. Nuevos mapas, nuevos acertijos, atuendos ligeros para el verano... ¡Adéntrate en esta gran aventura isleña!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13203">¡Vista previa de la versión 1.6 «¡Verano, islas, aventuras!» ya disponible!</a>]]></content:encoded>
+      <guid isPermaLink="false">13203</guid>
+      <pubDate>Thu, 03 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Función de predescarga ya disponible</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13287</link>
+      <description>La función de predescarga ya está disponible para PC y dispositivos móviles.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710413527908.jpg"><br/><br/>La función de predescarga ya está disponible para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13287">Función de predescarga ya disponible</a>]]></content:encoded>
+      <guid isPermaLink="false">13287</guid>
+      <pubDate>Mon, 07 Jun 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento «Eco narrador»: Participa para obtener el vestuario de Bárbara "Verano radiante"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13432</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909433269625.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13432">Evento «Eco narrador»: Participa para obtener el vestuario de Bárbara "Verano radiante"</a>]]></description>
+      <guid isPermaLink="false">13432</guid>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento «¡Verano, islas, aventuras!»: Participa y consigue el arma exclusiva del evento Cuentos de Dodoco (catalizador)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13433</link>
+      <description>Durante el evento, explora el archipiélago y completa todos los desafíos para conseguir Caracolas a la deriva y Miniharpastum que se pueden canjear por otros objetos en la Tienda del evento, como Cuentos de Dodoco (catalizador), Cofre de prototipos del Norte, Corona de la sabiduría y planos de decoración, ¡entre otras recompensas!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909170956574.png"><br/><br/>Durante el evento, explora el archipiélago y completa todos los desafíos para conseguir Caracolas a la deriva y Miniharpastum que se pueden canjear por otros objetos en la Tienda del evento, como Cuentos de Dodoco (catalizador), Cofre de prototipos del Norte, Corona de la sabiduría y planos de decoración, ¡entre otras recompensas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13433">Evento «¡Verano, islas, aventuras!»: Participa y consigue el arma exclusiva del evento Cuentos de Dodoco (catalizador)</a>]]></content:encoded>
+      <guid isPermaLink="false">13433</guid>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13434</link>
+      <description>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909194851561.png"><br/><br/>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13434">Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</a>]]></content:encoded>
+      <guid isPermaLink="false">13434</guid>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13435</link>
+      <description>¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909211944252.png"><br/><br/>¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13435">¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!</a>]]></content:encoded>
+      <guid isPermaLink="false">13435</guid>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Sueño de la brisa marina: Vestuario de Jean con descuento por tiempo limitado</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13436</link>
+      <description>¡Vestuario de Jean «Sueño de la brisa marina» disponible en la Tienda con descuento por tiempo limitado!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909230152466.png"><br/><br/>¡Vestuario de Jean «Sueño de la brisa marina» disponible en la Tienda con descuento por tiempo limitado!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13436">Sueño de la brisa marina: Vestuario de Jean con descuento por tiempo limitado</a>]]></content:encoded>
+      <guid isPermaLink="false">13436</guid>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13381</link>
+      <description>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812191152437.jpg"><br/><br/>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13381">Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</a>]]></content:encoded>
+      <guid isPermaLink="false">13381</guid>
+      <pubDate>Tue, 08 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Presentación de "Sueño de la brisa marina". ¡El nuevo vestuario de Jean estará disponible pronto!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13437</link>
+      <description>El nuevo vestuario de Jean "Sueño de la brisa marina" estará disponible pronto. ¡Los viajeros podrán conseguirlo en la Tienda del Armario!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909310268648.png"><br/><br/>El nuevo vestuario de Jean "Sueño de la brisa marina" estará disponible pronto. ¡Los viajeros podrán conseguirlo en la Tienda del Armario!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13437">Presentación de "Sueño de la brisa marina". ¡El nuevo vestuario de Jean estará disponible pronto!</a>]]></content:encoded>
+      <guid isPermaLink="false">13437</guid>
+      <pubDate>Tue, 08 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Presentación de "Verano radiante". ¡El nuevo vestuario de Bárbara estará disponible pronto!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13440</link>
+      <description>El nuevo vestuario de Bárbara "Verano radiante" estará disponible pronto. Podrán obtenerlo al completar el evento «Eco narrador».</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909354278844.png"><br/><br/>El nuevo vestuario de Bárbara "Verano radiante" estará disponible pronto. Podrán obtenerlo al completar el evento «Eco narrador».<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13440">Presentación de "Verano radiante". ¡El nuevo vestuario de Bárbara estará disponible pronto!</a>]]></content:encoded>
+      <guid isPermaLink="false">13440</guid>
+      <pubDate>Tue, 08 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Detalles de la versión 1.6 «¡Verano, islas, aventuras!»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13429</link>
+      <description>Aquí encontrarás los detalles del contenido de la versión 1.6 «¡Verano, islas, aventuras!» y las compensaciones por actualización.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060908585856294.jpg"><br/><br/>Aquí encontrarás los detalles del contenido de la versión 1.6 «¡Verano, islas, aventuras!» y las compensaciones por actualización.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13429">Detalles de la versión 1.6 «¡Verano, islas, aventuras!»</a>]]></content:encoded>
+      <guid isPermaLink="false">13429</guid>
+      <pubDate>Wed, 09 Jun 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13430</link>
+      <description>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909015136453.jpg"><br/><br/>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13430">Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</a>]]></content:encoded>
+      <guid isPermaLink="false">13430</guid>
+      <pubDate>Wed, 09 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13572</link>
+      <description>La travesía hacia Inazuma será larga y rebosante de amenazas, pero Kaedehara Kazuha se mantiene sereno.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062311241920483.jpg"><br/><br/>La travesía hacia Inazuma será larga y rebosante de amenazas, pero Kaedehara Kazuha se mantiene sereno.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13572">Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</a>]]></content:encoded>
+      <guid isPermaLink="false">13572</guid>
+      <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento web «Larga travesía» ya disponible</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13639</link>
+      <description>El sonido de una flauta tocada por un joven fluye a través del viento...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411453178423.jpg"><br/><br/>El sonido de una flauta tocada por un joven fluye a través del viento...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13639">Evento web «Larga travesía» ya disponible</a>]]></content:encoded>
+      <guid isPermaLink="false">13639</guid>
+      <pubDate>Thu, 24 Jun 2021 13:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego del evento «Leyenda de la espada errante»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13644</link>
+      <description>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062415003487520.jpg"><br/><br/>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13644">Modo de juego del evento «Leyenda de la espada errante»</a>]]></content:encoded>
+      <guid isPermaLink="false">13644</guid>
+      <pubDate>Thu, 24 Jun 2021 15:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gachapón «Hojas en el viento»: ¡probabilidad de obtención de Kaedehara Kazuha aumentada!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13662</link>
+      <description>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518551515282.png"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13662">Gachapón «Hojas en el viento»: ¡probabilidad de obtención de Kaedehara Kazuha aumentada!</a>]]></content:encoded>
+      <guid isPermaLink="false">13662</guid>
+      <pubDate>Sun, 27 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención aumentada para Juramento por la Libertad y Pergamino Celestial!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13663</link>
+      <description>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518583644949.png"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13663">Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención aumentada para Juramento por la Libertad y Pergamino Celestial!</a>]]></content:encoded>
+      <guid isPermaLink="false">13663</guid>
+      <pubDate>Sun, 27 Jun 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Kaedehara Kazuha: encanto sin extravagancias</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13732</link>
+      <description>Las nubes blancas flotan sobre la cima de las montañas, el cielo luce despejado y el agua cristalina brilla con el sol. Es el mejor momento para saciar la sed de poesía.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062812094938705.jpg"><br/><br/>Las nubes blancas flotan sobre la cima de las montañas, el cielo luce despejado y el agua cristalina brilla con el sol. Es el mejor momento para saciar la sed de poesía.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13732">Demo de nuevo personaje de Genshin Impact - Kaedehara Kazuha: encanto sin extravagancias</a>]]></content:encoded>
+      <guid isPermaLink="false">13732</guid>
+      <pubDate>Mon, 28 Jun 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Paimon te trae una recopilación de los eventos de la versión 1.6 (II)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13733</link>
+      <description>¡Hola, viajeros! El evento «Leyenda de la espada errante» ya está disponible, ¡vengan y desafíen a enemigos nunca antes vistos!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062812160932287.jpg"><br/><br/>¡Hola, viajeros! El evento «Leyenda de la espada errante» ya está disponible, ¡vengan y desafíen a enemigos nunca antes vistos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13733">Paimon te trae una recopilación de los eventos de la versión 1.6 (II)</a>]]></content:encoded>
+      <guid isPermaLink="false">13733</guid>
+      <pubDate>Mon, 28 Jun 2021 12:18:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Kaedehara Kazuha: libre como el viento</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13772</link>
+      <description>El presagio de la tormenta inminente puede ser la razón por la que unos huyen y el motivo por el que otros siguen adelante.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914061288814.jpg"><br/><br/>El presagio de la tormenta inminente puede ser la razón por la que unos huyen y el motivo por el que otros siguen adelante.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13772">Genshin Impact - Kaedehara Kazuha: libre como el viento</a>]]></content:encoded>
+      <guid isPermaLink="false">13772</guid>
+      <pubDate>Tue, 29 Jun 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Charla con los desarrolladores (30/06/2021): ¡ya están aquí las decoraciones transportables!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13801</link>
+      <description>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923164096006.png"><br/><br/>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13801">Charla con los desarrolladores (30/06/2021): ¡ya están aquí las decoraciones transportables!</a>]]></content:encoded>
+      <guid isPermaLink="false">13801</guid>
+      <pubDate>Wed, 30 Jun 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego de «¡Bomba va!»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13780</link>
+      <description>¡Las ingeniosas máquinas lanzabolas de los Dodofuertes están activas! Usa los veloces Dodoescudos para devolver las Bombasbum y destruye los Dodofuertes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914391194364.jpg"><br/><br/>¡Las ingeniosas máquinas lanzabolas de los Dodofuertes están activas! Usa los veloces Dodoescudos para devolver las Bombasbum y destruye los Dodofuertes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13780">Modo de juego de «¡Bomba va!»</a>]]></content:encoded>
+      <guid isPermaLink="false">13780</guid>
+      <pubDate>Wed, 30 Jun 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13897</link>
+      <description>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222440365843.jpg"><br/><br/>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13897">Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</a>]]></content:encoded>
+      <guid isPermaLink="false">13897</guid>
+      <pubDate>Sat, 03 Jul 2021 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13892</link>
+      <description>"Siempre habrá quien se atreva a desafiar el destello del rayo".</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070219425787839.jpg"><br/><br/>"Siempre habrá quien se atreva a desafiar el destello del rayo".<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13892">Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</a>]]></content:encoded>
+      <guid isPermaLink="false">13892</guid>
+      <pubDate>Sun, 04 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego del evento «Contienda eterna»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/13964</link>
+      <description>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717275741119.jpg"><br/><br/>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13964">Modo de juego del evento «Contienda eterna»</a>]]></content:encoded>
+      <guid isPermaLink="false">13964</guid>
+      <pubDate>Thu, 08 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14007</link>
+      <description>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914124942763.jpg"><br/><br/>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14007">Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</a>]]></content:encoded>
+      <guid isPermaLink="false">14007</guid>
+      <pubDate>Fri, 09 Jul 2021 21:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Detalles del sistema de gachapones «Senda divina»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14032</link>
+      <description>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919252268954.jpg"><br/><br/>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14032">Detalles del sistema de gachapones «Senda divina»</a>]]></content:encoded>
+      <guid isPermaLink="false">14032</guid>
+      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14039</link>
+      <description>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919510072795.jpg"><br/><br/>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14039">Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</a>]]></content:encoded>
+      <guid isPermaLink="false">14039</guid>
+      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14098</link>
+      <description>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317024945365.jpg"><br/><br/>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14098">Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</a>]]></content:encoded>
+      <guid isPermaLink="false">14098</guid>
+      <pubDate>Wed, 14 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Diario de Inazuma - 1ª edición: El misterioso elemento Electro</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14143</link>
+      <description>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420254533842.jpg"><br/><br/>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14143">Diario de Inazuma - 1ª edición: El misterioso elemento Electro</a>]]></content:encoded>
+      <guid isPermaLink="false">14143</guid>
+      <pubDate>Thu, 15 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14119</link>
+      <description>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418480892482.jpg"><br/><br/>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14119">Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</a>]]></content:encoded>
+      <guid isPermaLink="false">14119</guid>
+      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14159</link>
+      <description>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511235782569.png"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14159">¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</a>]]></content:encoded>
+      <guid isPermaLink="false">14159</guid>
+      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14145</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071510095621440.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14145">"Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!"</a>]]></description>
+      <guid isPermaLink="false">14145</guid>
+      <pubDate>Thu, 15 Jul 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14199</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520205281586.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14199">Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</a>]]></description>
+      <guid isPermaLink="false">14199</guid>
+      <pubDate>Fri, 16 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Función de predescarga</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14221</link>
+      <description>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610213684306.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14221">Función de predescarga</a>]]></content:encoded>
+      <guid isPermaLink="false">14221</guid>
+      <pubDate>Fri, 16 Jul 2021 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14228</link>
+      <description>Grabado para siempre en una piedra, las montañas son testigos de su furia. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610312139747.jpg"><br/><br/>Grabado para siempre en una piedra, las montañas son testigos de su furia. <br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14228">Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</a>]]></content:encoded>
+      <guid isPermaLink="false">14228</guid>
+      <pubDate>Fri, 16 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14255</link>
+      <description>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710005313971.png"><br/><br/>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14255">Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</a>]]></content:encoded>
+      <guid isPermaLink="false">14255</guid>
+      <pubDate>Sat, 17 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14246</link>
+      <description>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071621161484750.jpg"><br/><br/>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14246">Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</a>]]></content:encoded>
+      <guid isPermaLink="false">14246</guid>
+      <pubDate>Sun, 18 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14289</link>
+      <description>Querido/a viajero/a: Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071817590843826.jpg"><br/><br/>Querido/a viajero/a: Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14289">Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</a>]]></content:encoded>
+      <guid isPermaLink="false">14289</guid>
+      <pubDate>Mon, 19 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gachapón «Elegancia de la garza»: ¡aumentada la probabilidad de obtención de Kamisato Ayaka!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14291</link>
+      <description>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819132664664.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14291">Gachapón «Elegancia de la garza»: ¡aumentada la probabilidad de obtención de Kamisato Ayaka!</a>]]></content:encoded>
+      <guid isPermaLink="false">14291</guid>
+      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gachapón «Encarnación divina»: ¡aumentada la probabilidad de obtención de Reflejo de las Tinieblas!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14293</link>
+      <description>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819200164515.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14293">Gachapón «Encarnación divina»: ¡aumentada la probabilidad de obtención de Reflejo de las Tinieblas!</a>]]></content:encoded>
+      <guid isPermaLink="false">14293</guid>
+      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Eventos de la versión 2.0 (I)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14295</link>
+      <description>Estimados viajeros: En la versión 2.0, además de abrir la nueva región de Inazuma, también se lanzarán numerosos eventos increíbles. ¡Haz clic en la imagen para echarles un vistazo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819313135381.jpg"><br/><br/>Estimados viajeros: En la versión 2.0, además de abrir la nueva región de Inazuma, también se lanzarán numerosos eventos increíbles. ¡Haz clic en la imagen para echarles un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14295">Eventos de la versión 2.0 (I)</a>]]></content:encoded>
+      <guid isPermaLink="false">14295</guid>
+      <pubDate>Mon, 19 Jul 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>The Shimmering Voyage (El viaje deslumbrante) | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14314</link>
+      <description>¡El álbum conmemorativo de la versión 1.0 de Genshin Impact «The Shimmering Voyage» (El viaje deslumbrante) ya está disponible!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910105225097.jpg"><br/><br/>¡El álbum conmemorativo de la versión 1.0 de Genshin Impact «The Shimmering Voyage» (El viaje deslumbrante) ya está disponible!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14314">The Shimmering Voyage (El viaje deslumbrante) | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14314</guid>
+      <pubDate>Mon, 19 Jul 2021 13:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Kamisato Ayaka: una camelia en la nieve</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14362</link>
+      <description>Aunque hace tiempo que Kamisato Ayaka dominó la técnica de la espada, ella continúa practicando con perseverancia.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919175098391.jpg"><br/><br/>Aunque hace tiempo que Kamisato Ayaka dominó la técnica de la espada, ella continúa practicando con perseverancia.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14362">Demo de nuevo personaje de Genshin Impact - Kamisato Ayaka: una camelia en la nieve</a>]]></content:encoded>
+      <guid isPermaLink="false">14362</guid>
+      <pubDate>Tue, 20 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14454</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023062917763.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14454">Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</a>]]></description>
+      <guid isPermaLink="false">14454</guid>
+      <pubDate>Wed, 21 Jul 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego de «Colisión eléctrica»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14440</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072021494622674.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14440">Modo de juego de «Colisión eléctrica»</a>]]></description>
+      <guid isPermaLink="false">14440</guid>
+      <pubDate>Wed, 21 Jul 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Kamisato Ayaka: la grulla que danza sobre el hielo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14427</link>
+      <description>Lo que a simple vista parece una grulla posada sobre la nieve, bajo la sombra de sus alas y tras sus habilidades desbordantes de elegancia, se halla el meticuloso entrenamiento de Ayaka.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072018540024010.jpg"><br/><br/>Lo que a simple vista parece una grulla posada sobre la nieve, bajo la sombra de sus alas y tras sus habilidades desbordantes de elegancia, se halla el meticuloso entrenamiento de Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14427">Genshin Impact - Kamisato Ayaka: la grulla que danza sobre el hielo</a>]]></content:encoded>
+      <guid isPermaLink="false">14427</guid>
+      <pubDate>Wed, 21 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento web «Invitación de la garza» ya disponible</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14500</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610491891700.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14500">Evento web «Invitación de la garza» ya disponible</a>]]></description>
+      <guid isPermaLink="false">14500</guid>
+      <pubDate>Mon, 26 Jul 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Los fuegos artificiales son efímeros, pero la amistad es eternos" - Yoimiya, "la Maestra de las Llamas"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14618</link>
+      <description>Viajeros \ (^ o ^) / ~Hoy les presentamos a Yoimiya, la célebre pirotécnica de Pirotecnia Naganohara.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315531670883.jpg"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Yoimiya, la célebre pirotécnica de Pirotecnia Naganohara.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14618">"Los fuegos artificiales son efímeros, pero la amistad es eternos" - Yoimiya, "la Maestra de las Llamas"</a>]]></content:encoded>
+      <guid isPermaLink="false">14618</guid>
+      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Yoimiya: Lo mejor del verano en la Isla Narukami...</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14654</link>
+      <description>Los visitantes extranjeros recorren las calles de Hanamizaka en busca de "Lo mejor del verano en la Isla Narukami"...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080320430323606.jpg"><br/><br/>Los visitantes extranjeros recorren las calles de Hanamizaka en busca de "Lo mejor del verano en la Isla Narukami"...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14654">Avance de la trama de Genshin Impact - Yoimiya: Lo mejor del verano en la Isla Narukami...</a>]]></content:encoded>
+      <guid isPermaLink="false">14654</guid>
+      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento web «Recuerdos de la Noche de Verano» ya disponible</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14687</link>
+      <description>Los fuegos artificiales que estallan en el cielo iluminaron los ojos de la joven a mi lado...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511175720616.jpg"><br/><br/>Los fuegos artificiales que estallan en el cielo iluminaron los ojos de la joven a mi lado...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14687">Evento web «Recuerdos de la Noche de Verano» ya disponible</a>]]></content:encoded>
+      <guid isPermaLink="false">14687</guid>
+      <pubDate>Thu, 05 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14733</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711095015613.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14733">Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</a>]]></description>
+      <guid isPermaLink="false">14733</guid>
+      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14743</link>
+      <description>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712143978787.jpg"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14743">"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</a>]]></content:encoded>
+      <guid isPermaLink="false">14743</guid>
+      <pubDate>Sat, 07 Aug 2021 18:15:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14771</link>
+      <description>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721330677785.jpg"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14771">Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</a>]]></content:encoded>
+      <guid isPermaLink="false">14771</guid>
+      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14772</link>
+      <description>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721390181925.jpg"><br/><br/>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14772">Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</a>]]></content:encoded>
+      <guid isPermaLink="false">14772</guid>
+      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14710</link>
+      <description>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080618562517541.jpg"><br/><br/>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14710">Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</a>]]></content:encoded>
+      <guid isPermaLink="false">14710</guid>
+      <pubDate>Sun, 08 Aug 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14780</link>
+      <description>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080819392151874.jpg"><br/><br/>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14780">Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</a>]]></content:encoded>
+      <guid isPermaLink="false">14780</guid>
+      <pubDate>Mon, 09 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Yoimiya: el lenguaje del fuego</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14850</link>
+      <description>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081011525467639.jpg"><br/><br/>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14850">Genshin Impact - Yoimiya: el lenguaje del fuego</a>]]></content:encoded>
+      <guid isPermaLink="false">14850</guid>
+      <pubDate>Tue, 10 Aug 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cómo jugar «Arena mecánica: Juego del ingenio»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14861</link>
+      <description>Gracias a los esfuerzos de Komakata, la representante legal de la Arena mecánica, este juego originario de Liyue por fin ha llegado a Inazuma. Según Komakata, a esta Arena mecánica le han añadido algunas cosas nuevas...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015202515871.jpg"><br/><br/>Gracias a los esfuerzos de Komakata, la representante legal de la Arena mecánica, este juego originario de Liyue por fin ha llegado a Inazuma. Según Komakata, a esta Arena mecánica le han añadido algunas cosas nuevas...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14861">Cómo jugar «Arena mecánica: Juego del ingenio»</a>]]></content:encoded>
+      <guid isPermaLink="false">14861</guid>
+      <pubDate>Wed, 11 Aug 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Sayu: rodando como el viento</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/14876</link>
+      <description>La filosofía de la pequeña Sayu es comer alimentos que le den energía y hacer el menor esfuerzo posible.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081018052045611.jpg"><br/><br/>La filosofía de la pequeña Sayu es comer alimentos que le den energía y hacer el menor esfuerzo posible.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14876">Genshin Impact - Sayu: rodando como el viento</a>]]></content:encoded>
+      <guid isPermaLink="false">14876</guid>
+      <pubDate>Wed, 11 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego de «Flujo fantasmal»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15037</link>
+      <description>¡El evento «Flujo fantasmal» está a punto de comenzar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816105634063.jpg"><br/><br/>¡El evento «Flujo fantasmal» está a punto de comenzar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15037">Modo de juego de «Flujo fantasmal»</a>]]></content:encoded>
+      <guid isPermaLink="false">15037</guid>
+      <pubDate>Thu, 19 Aug 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15074</link>
+      <description>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014255612158.jpg"><br/><br/>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15074">Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</a>]]></content:encoded>
+      <guid isPermaLink="false">15074</guid>
+      <pubDate>Fri, 20 Aug 2021 22:45:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Restablecimiento de la bonificación doble por primera recarga en la tienda</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15107</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082020272098358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15107">Restablecimiento de la bonificación doble por primera recarga en la tienda</a>]]></description>
+      <guid isPermaLink="false">15107</guid>
+      <pubDate>Fri, 20 Aug 2021 23:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15072</link>
+      <description>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014073664118.png"><br/><br/>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15072">Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</a>]]></content:encoded>
+      <guid isPermaLink="false">15072</guid>
+      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15115</link>
+      <description>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111292333189.jpg"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15115">¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</a>]]></content:encoded>
+      <guid isPermaLink="false">15115</guid>
+      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Actualización de la versión 2.1: Detalles del modo de juego de pesca</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15155</link>
+      <description>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318543868433.png"><br/><br/>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15155">Actualización de la versión 2.1: Detalles del modo de juego de pesca</a>]]></content:encoded>
+      <guid isPermaLink="false">15155</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15278</link>
+      <description>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082522141972812.jpg"><br/><br/>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15278">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</a>]]></content:encoded>
+      <guid isPermaLink="false">15278</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Evento «Aguas anhelantes»</title>
@@ -977,800 +1765,12 @@ Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mit
       <pubDate>Tue, 24 Aug 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Rosaria: Purgando las sombras</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/9823</link>
-      <description>Aunque la ciudad de la libertad es antigua, su corazón sigue rebosando juventud. Con un pasado y un presente complejos, todavía tiene un espíritu puro e inocente.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210406/2021040610541167889.jpg"><br/><br/>Aunque la ciudad de la libertad es antigua, su corazón sigue rebosando juventud. Con un pasado y un presente complejos, todavía tiene un espíritu puro e inocente.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/9823">Genshin Impact - Rosaria: Purgando las sombras</a>]]></content:encoded>
-      <guid isPermaLink="false">9823</guid>
-      <pubDate>Tue, 06 Apr 2021 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento «Aguas anhelantes»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/9910</link>
-      <description>Las aguas de los lagos y ríos de la frontera entre Mondstadt y Liyue se han vuelto amargas. ¿Será este el final de la industria del vino de Mondstadt?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040719042536799.png"><br/><br/>Las aguas de los lagos y ríos de la frontera entre Mondstadt y Liyue se han vuelto amargas. ¿Será este el final de la industria del vino de Mondstadt?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/9910">Evento «Aguas anhelantes»</a>]]></content:encoded>
-      <guid isPermaLink="false">9910</guid>
-      <pubDate>Thu, 08 Apr 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la versión 1.5 de Genshin Impact: A la luz de la jadeíta</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/11915</link>
-      <description>La luz radiante de la luna atravesaba las ramas, el rugido del dragón resonaba en el cielo claro. 
-Los rayos de sol aparecieron inesperadamente, mas su corazón de piedra permaneció inalterado.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041617175285357.jpg"><br/><br/>La luz radiante de la luna atravesaba las ramas, el rugido del dragón resonaba en el cielo claro. 
-Los rayos de sol aparecieron inesperadamente, mas su corazón de piedra permaneció inalterado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11915">Avance de la versión 1.5 de Genshin Impact: A la luz de la jadeíta</a>]]></content:encoded>
-      <guid isPermaLink="false">11915</guid>
-      <pubDate>Fri, 16 Apr 2021 20:50:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Charla con los desarrolladores (16 abr.)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/11945</link>
-      <description>¡Llega la función para marcar correos!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041619462048528.png"><br/><br/>¡Llega la función para marcar correos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11945">Charla con los desarrolladores (16 abr.)</a>]]></content:encoded>
-      <guid isPermaLink="false">11945</guid>
-      <pubDate>Fri, 16 Apr 2021 21:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Charla con los desarrolladores (17 abr.) - ¡Todo lo que necesitas saber sobre la Relajatetera!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/11958</link>
-      <description>Tras la transmisión del programa especial del avance de la versión 1.5, recibimos preguntas y comentarios de los viajeros sobre el sistema "Relajatetera". Paimon entrevistó al equipo de desarrollo sobre este tema, y aquí está para responder a las preguntas de los viajeros~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210417/2021041700493553694.png"><br/><br/>Tras la transmisión del programa especial del avance de la versión 1.5, recibimos preguntas y comentarios de los viajeros sobre el sistema "Relajatetera". Paimon entrevistó al equipo de desarrollo sobre este tema, y aquí está para responder a las preguntas de los viajeros~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11958">Charla con los desarrolladores (17 abr.) - ¡Todo lo que necesitas saber sobre la Relajatetera!</a>]]></content:encoded>
-      <guid isPermaLink="false">11958</guid>
-      <pubDate>Sat, 17 Apr 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo sistema de la versión 1.5 «A la luz de la jadeíta»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12088</link>
-      <description>Los viajeros deben de sentir mucha curiosidad por el nuevo sistema de la versión 1.5. Hoy les presentaremos el nuevo sistema de la «Relajatetera», que tendrá su comienzo en esta nueva versión.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042110463118180.png"><br/><br/>Los viajeros deben de sentir mucha curiosidad por el nuevo sistema de la versión 1.5. Hoy les presentaremos el nuevo sistema de la «Relajatetera», que tendrá su comienzo en esta nueva versión.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12088">Nuevo sistema de la versión 1.5 «A la luz de la jadeíta»</a>]]></content:encoded>
-      <guid isPermaLink="false">12088</guid>
-      <pubDate>Wed, 21 Apr 2021 10:50:42 +0200</pubDate>
-    </item>
-    <item>
-      <title>[Evento web disponible] «La fábrica de Hilisueños» estará disponible por tiempo limitado. ¡Fabrica decoraciones y obtén recompensas!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12084</link>
-      <description>Debido a una casualidad del destino, llegaste a este mundo interior. Lo que nunca habrías imaginado es que aquí te encontrarías a...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042110272141889.png"><br/><br/>Debido a una casualidad del destino, llegaste a este mundo interior. Lo que nunca habrías imaginado es que aquí te encontrarías a...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12084">[Evento web disponible] «La fábrica de Hilisueños» estará disponible por tiempo limitado. ¡Fabrica decoraciones y obtén recompensas!</a>]]></content:encoded>
-      <guid isPermaLink="false">12084</guid>
-      <pubDate>Wed, 21 Apr 2021 13:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Disponible para PlayStation®5 el 28 de abril | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12138</link>
-      <description>¡La espera ha terminado, viajeros! A partir del 28 de abril, Genshin Impact estará disponible para los jugadores de todo el mundo en PlayStation®5. ¡Disfruta de tu increíble aventura con más realismo y fluidez!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042116502221985.jpg"><br/><br/>¡La espera ha terminado, viajeros! A partir del 28 de abril, Genshin Impact estará disponible para los jugadores de todo el mundo en PlayStation®5. ¡Disfruta de tu increíble aventura con más realismo y fluidez!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12138">Disponible para PlayStation®5 el 28 de abril | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12138</guid>
-      <pubDate>Thu, 22 Apr 2021 00:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Yanfei: Maestra de la ley</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12167</link>
-      <description>La gente podrá resolver sus problemas solamente si cumple con la ley.
-Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mitad Adeptus que conoce a la perfección los principios del orden.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042119272649103.jpg"><br/><br/>La gente podrá resolver sus problemas solamente si cumple con la ley.
-Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mitad Adeptus que conoce a la perfección los principios del orden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12167">Demo de nuevo personaje de Genshin Impact - Yanfei: Maestra de la ley</a>]]></content:encoded>
-      <guid isPermaLink="false">12167</guid>
-      <pubDate>Thu, 22 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>¡Vista previa de la versión 1.5 «A la luz de la jadeíta» ya disponible!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12208</link>
-      <description>¡El lanzamiento de la nueva versión está cerca! Zhongli regresa por tiempo limitado junto con los nuevos personajes Eula y Yanfei. ¡Apresúrate a conocer todos los eventos de la nueva versión!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210422/2021042210544896637.png"><br/><br/>¡El lanzamiento de la nueva versión está cerca! Zhongli regresa por tiempo limitado junto con los nuevos personajes Eula y Yanfei. ¡Apresúrate a conocer todos los eventos de la nueva versión!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12208">¡Vista previa de la versión 1.5 «A la luz de la jadeíta» ya disponible!</a>]]></content:encoded>
-      <guid isPermaLink="false">12208</guid>
-      <pubDate>Thu, 22 Apr 2021 12:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Función de predescarga</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12235</link>
-      <description>Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310353887551.png"><br/><br/>Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12235">Función de predescarga</a>]]></content:encoded>
-      <guid isPermaLink="false">12235</guid>
-      <pubDate>Fri, 23 Apr 2021 11:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aviso de actualización de la versión 1.5 «A la luz de la jadeíta»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12252</link>
-      <description>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042714483480132.jpg"><br/><br/>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. <br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12252">Aviso de actualización de la versión 1.5 «A la luz de la jadeíta»</a>]]></content:encoded>
-      <guid isPermaLink="false">12252</guid>
-      <pubDate>Sun, 25 Apr 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12323</link>
-      <description>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042612163548862.jpg"><br/><br/>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12323">Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención de Rompemontañas y Candado Terrenal aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">12323</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo gachapón «Soledad de la nobleza»: ¡Probabilidad de obtención de Zhongli y otros personajes aumentada!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12324</link>
-      <description>Durante el evento, ¡la probabilidad de obtener el personaje exclusivo de 5★ Zhongli, "el Vagabundo del Reino Mortal" (Geo) será mucho mayor!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042612190637022.jpg"><br/><br/>Durante el evento, ¡la probabilidad de obtener el personaje exclusivo de 5★ Zhongli, "el Vagabundo del Reino Mortal" (Geo) será mucho mayor!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12324">Nuevo gachapón «Soledad de la nobleza»: ¡Probabilidad de obtención de Zhongli y otros personajes aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">12324</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mini álbum de Genshin Impact - La piedra divina divisa el mundo (The Divine Stone Sees the World)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12348</link>
-      <description>Yo, ante este paisaje, reflexiono profundamente sobre el pasado de este mundo, pues he sido testigo de las vicisitudes de la vida durante miles de años.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711471523198.jpg"><br/><br/>Yo, ante este paisaje, reflexiono profundamente sobre el pasado de este mundo, pues he sido testigo de las vicisitudes de la vida durante miles de años.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12348">Mini álbum de Genshin Impact - La piedra divina divisa el mundo (The Divine Stone Sees the World)</a>]]></content:encoded>
-      <guid isPermaLink="false">12348</guid>
-      <pubDate>Tue, 27 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12425</link>
-      <description>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806172027092.png"><br/><br/>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12425">Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</a>]]></content:encoded>
-      <guid isPermaLink="false">12425</guid>
-      <pubDate>Wed, 28 Apr 2021 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Detalles de la versión 1.5 «A la luz de la jadeíta»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12428</link>
-      <description>A continuación te presentamos el contenido de la nueva versión 1.5 «A la luz de la jadeíta» y la información relacionada con sus compensaciones.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806300456628.png"><br/><br/>A continuación te presentamos el contenido de la nueva versión 1.5 «A la luz de la jadeíta» y la información relacionada con sus compensaciones.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12428">Detalles de la versión 1.5 «A la luz de la jadeíta»</a>]]></content:encoded>
-      <guid isPermaLink="false">12428</guid>
-      <pubDate>Wed, 28 Apr 2021 07:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>¡El evento web «El retorno de las estrellas» ya está disponible! ¡Invita a otros aventureros a regresar al juego y gana Protogemas y merchandising!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12444</link>
-      <description>El Gremio de Aventureros envió una invitación para participar en «El retorno de las estrellas». Los aventureros que inviten a otros aventureros a regresar también podrán obtener numerosos regalos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811312086111.jpg"><br/><br/>El Gremio de Aventureros envió una invitación para participar en «El retorno de las estrellas». Los aventureros que inviten a otros aventureros a regresar también podrán obtener numerosos regalos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12444">¡El evento web «El retorno de las estrellas» ya está disponible! ¡Invita a otros aventureros a regresar al juego y gana Protogemas y merchandising!</a>]]></content:encoded>
-      <guid isPermaLink="false">12444</guid>
-      <pubDate>Wed, 28 Apr 2021 11:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Yanfei: El resplandor de la ley</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12440</link>
-      <description>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811094149512.jpg"><br/><br/>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12440">Genshin Impact - Yanfei: El resplandor de la ley</a>]]></content:encoded>
-      <guid isPermaLink="false">12440</guid>
-      <pubDate>Wed, 28 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la trama de Genshin Impact: "La visión del dragón"</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12496</link>
-      <description>"Así se creó el dragón, del deber de un soberano y la lealtad de un amigo. Un rayo de luz iluminó sus ojos y liberó su cuerpo inmortal para que pudiera explorar el mundo".</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911353779222.jpg"><br/><br/>"Así se creó el dragón, del deber de un soberano y la lealtad de un amigo. Un rayo de luz iluminó sus ojos y liberó su cuerpo inmortal para que pudiera explorar el mundo".<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12496">Avance de la trama de Genshin Impact: "La visión del dragón"</a>]]></content:encoded>
-      <guid isPermaLink="false">12496</guid>
-      <pubDate>Thu, 29 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Consejos sobre el amplificador de energía - Dominio del Rayo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12553</link>
-      <description>¡Hoy ya está disponible el "Dominio del Rayo" del Territorio tortuoso! (Es necesario superar primero el dominio "Donde las sombras se revuelven")</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210503/2021050310175388405.png"><br/><br/>¡Hoy ya está disponible el "Dominio del Rayo" del Territorio tortuoso! (Es necesario superar primero el dominio "Donde las sombras se revuelven")<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12553">Consejos sobre el amplificador de energía - Dominio del Rayo</a>]]></content:encoded>
-      <guid isPermaLink="false">12553</guid>
-      <pubDate>Mon, 03 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12684</link>
-      <description>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111031443379.jpg"><br/><br/>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12684">Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</a>]]></content:encoded>
-      <guid isPermaLink="false">12684</guid>
-      <pubDate>Tue, 11 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12695</link>
-      <description>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051112054985553.png"><br/><br/>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12695">Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</a>]]></content:encoded>
-      <guid isPermaLink="false">12695</guid>
-      <pubDate>Tue, 11 May 2021 12:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aviso sobre la seguridad de tu cuenta</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12709</link>
-      <description>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119181957896.png"><br/><br/>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12709">Aviso sobre la seguridad de tu cuenta</a>]]></content:encoded>
-      <guid isPermaLink="false">12709</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12726</link>
-      <description>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051311241198999.jpg"><br/><br/>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12726">Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</a>]]></content:encoded>
-      <guid isPermaLink="false">12726</guid>
-      <pubDate>Thu, 13 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Sobre las olas»: ¡probabilidad de obtención de Eula aumentada!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12804</link>
-      <description>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612580340863.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12804">Gachapón «Sobre las olas»: ¡probabilidad de obtención de Eula aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">12804</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12805</link>
-      <description>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612593377755.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12805">Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</a>]]></content:encoded>
-      <guid isPermaLink="false">12805</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12806</link>
-      <description>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051613062340499.png"><br/><br/>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12806">Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</a>]]></content:encoded>
-      <guid isPermaLink="false">12806</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12836</link>
-      <description>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710574011726.jpg"><br/><br/>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12836">Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</a>]]></content:encoded>
-      <guid isPermaLink="false">12836</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Eula: el surgimiento del hielo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12875</link>
-      <description>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051816195489472.jpg"><br/><br/>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12875">Genshin Impact - Eula: el surgimiento del hielo</a>]]></content:encoded>
-      <guid isPermaLink="false">12875</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12973</link>
-      <description>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052410234277274.png"><br/><br/>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12973">Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</a>]]></content:encoded>
-      <guid isPermaLink="false">12973</guid>
-      <pubDate>Mon, 24 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Detalles del evento «Mimi tomo»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13059</link>
-      <description>Se dice que recientemente un Hilichurl Extraño ha sido visto en compañía de los Hilichurls normales. Katheryne del Gremio de Aventureros te ha pedido que la ayudes a investigar este asunto. Tendrás que buscar Hiluchurls con los que poder comunicarte junto a la especialista en hilichurlio Ella Musk, ¡y así poder averiguar el paradero del Hilichurl Extraño!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052610254012067.jpg"><br/><br/>Se dice que recientemente un Hilichurl Extraño ha sido visto en compañía de los Hilichurls normales. Katheryne del Gremio de Aventureros te ha pedido que la ayudes a investigar este asunto. Tendrás que buscar Hiluchurls con los que poder comunicarte junto a la especialista en hilichurlio Ella Musk, ¡y así poder averiguar el paradero del Hilichurl Extraño!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13059">Detalles del evento «Mimi tomo»</a>]]></content:encoded>
-      <guid isPermaLink="false">13059</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la versión 1.6 de Genshin Impact: ¡Verano, islas, aventuras!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13140</link>
-      <description>En pleno verano, una misteriosa carta fue encontrada en el alféizar de una ventana. Mientras, en un lugar remoto, se conformaba una espiral de niebla desconocida...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052820575288053.jpg"><br/><br/>En pleno verano, una misteriosa carta fue encontrada en el alféizar de una ventana. Mientras, en un lugar remoto, se conformaba una espiral de niebla desconocida...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13140">Avance de la versión 1.6 de Genshin Impact: ¡Verano, islas, aventuras!</a>]]></content:encoded>
-      <guid isPermaLink="false">13140</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo sistema de la versión 1.6 «Relajatetera»: visitas al mundo interior</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13172</link>
-      <description>¡Hola viajeros! En la versión 1.6, la "Relajatetera" se actualizará con las visitas al mundo interior, y hoy vamos a presentarla~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210602/2021060211570294057.jpg"><br/><br/>¡Hola viajeros! En la versión 1.6, la "Relajatetera" se actualizará con las visitas al mundo interior, y hoy vamos a presentarla~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13172">Nuevo sistema de la versión 1.6 «Relajatetera»: visitas al mundo interior</a>]]></content:encoded>
-      <guid isPermaLink="false">13172</guid>
-      <pubDate>Wed, 02 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>¡Vista previa de la versión 1.6 «¡Verano, islas, aventuras!» ya disponible!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13203</link>
-      <description>La nueva versión estará disponible pronto. Nuevos mapas, nuevos acertijos, atuendos ligeros para el verano... ¡Adéntrate en esta gran aventura isleña!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311360513002.jpg"><br/><br/>La nueva versión estará disponible pronto. Nuevos mapas, nuevos acertijos, atuendos ligeros para el verano... ¡Adéntrate en esta gran aventura isleña!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13203">¡Vista previa de la versión 1.6 «¡Verano, islas, aventuras!» ya disponible!</a>]]></content:encoded>
-      <guid isPermaLink="false">13203</guid>
-      <pubDate>Thu, 03 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Función de predescarga ya disponible</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13287</link>
-      <description>La función de predescarga ya está disponible para PC y dispositivos móviles.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710413527908.jpg"><br/><br/>La función de predescarga ya está disponible para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13287">Función de predescarga ya disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">13287</guid>
-      <pubDate>Mon, 07 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento «Eco narrador»: Participa para obtener el vestuario de Bárbara "Verano radiante"</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13432</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909433269625.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13432">Evento «Eco narrador»: Participa para obtener el vestuario de Bárbara "Verano radiante"</a>]]></description>
-      <guid isPermaLink="false">13432</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento «¡Verano, islas, aventuras!»: Participa y consigue el arma exclusiva del evento Cuentos de Dodoco (catalizador)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13433</link>
-      <description>Durante el evento, explora el archipiélago y completa todos los desafíos para conseguir Caracolas a la deriva y Miniharpastum que se pueden canjear por otros objetos en la Tienda del evento, como Cuentos de Dodoco (catalizador), Cofre de prototipos del Norte, Corona de la sabiduría y planos de decoración, ¡entre otras recompensas!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909170956574.png"><br/><br/>Durante el evento, explora el archipiélago y completa todos los desafíos para conseguir Caracolas a la deriva y Miniharpastum que se pueden canjear por otros objetos en la Tienda del evento, como Cuentos de Dodoco (catalizador), Cofre de prototipos del Norte, Corona de la sabiduría y planos de decoración, ¡entre otras recompensas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13433">Evento «¡Verano, islas, aventuras!»: Participa y consigue el arma exclusiva del evento Cuentos de Dodoco (catalizador)</a>]]></content:encoded>
-      <guid isPermaLink="false">13433</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13434</link>
-      <description>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909194851561.png"><br/><br/>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13434">Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">13434</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13435</link>
-      <description>¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909211944252.png"><br/><br/>¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13435">¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">13435</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Sueño de la brisa marina: Vestuario de Jean con descuento por tiempo limitado</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13436</link>
-      <description>¡Vestuario de Jean «Sueño de la brisa marina» disponible en la Tienda con descuento por tiempo limitado!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909230152466.png"><br/><br/>¡Vestuario de Jean «Sueño de la brisa marina» disponible en la Tienda con descuento por tiempo limitado!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13436">Sueño de la brisa marina: Vestuario de Jean con descuento por tiempo limitado</a>]]></content:encoded>
-      <guid isPermaLink="false">13436</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13381</link>
-      <description>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812191152437.jpg"><br/><br/>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13381">Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</a>]]></content:encoded>
-      <guid isPermaLink="false">13381</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Presentación de "Sueño de la brisa marina". ¡El nuevo vestuario de Jean estará disponible pronto!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13437</link>
-      <description>El nuevo vestuario de Jean "Sueño de la brisa marina" estará disponible pronto. ¡Los viajeros podrán conseguirlo en la Tienda del Armario!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909310268648.png"><br/><br/>El nuevo vestuario de Jean "Sueño de la brisa marina" estará disponible pronto. ¡Los viajeros podrán conseguirlo en la Tienda del Armario!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13437">Presentación de "Sueño de la brisa marina". ¡El nuevo vestuario de Jean estará disponible pronto!</a>]]></content:encoded>
-      <guid isPermaLink="false">13437</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Presentación de "Verano radiante". ¡El nuevo vestuario de Bárbara estará disponible pronto!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13440</link>
-      <description>El nuevo vestuario de Bárbara "Verano radiante" estará disponible pronto. Podrán obtenerlo al completar el evento «Eco narrador».</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909354278844.png"><br/><br/>El nuevo vestuario de Bárbara "Verano radiante" estará disponible pronto. Podrán obtenerlo al completar el evento «Eco narrador».<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13440">Presentación de "Verano radiante". ¡El nuevo vestuario de Bárbara estará disponible pronto!</a>]]></content:encoded>
-      <guid isPermaLink="false">13440</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Detalles de la versión 1.6 «¡Verano, islas, aventuras!»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13429</link>
-      <description>Aquí encontrarás los detalles del contenido de la versión 1.6 «¡Verano, islas, aventuras!» y las compensaciones por actualización.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060908585856294.jpg"><br/><br/>Aquí encontrarás los detalles del contenido de la versión 1.6 «¡Verano, islas, aventuras!» y las compensaciones por actualización.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13429">Detalles de la versión 1.6 «¡Verano, islas, aventuras!»</a>]]></content:encoded>
-      <guid isPermaLink="false">13429</guid>
-      <pubDate>Wed, 09 Jun 2021 07:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13430</link>
-      <description>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909015136453.jpg"><br/><br/>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13430">Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</a>]]></content:encoded>
-      <guid isPermaLink="false">13430</guid>
-      <pubDate>Wed, 09 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13572</link>
-      <description>La travesía hacia Inazuma será larga y rebosante de amenazas, pero Kaedehara Kazuha se mantiene sereno.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062311241920483.jpg"><br/><br/>La travesía hacia Inazuma será larga y rebosante de amenazas, pero Kaedehara Kazuha se mantiene sereno.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13572">Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</a>]]></content:encoded>
-      <guid isPermaLink="false">13572</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento web «Larga travesía» ya disponible</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13639</link>
-      <description>El sonido de una flauta tocada por un joven fluye a través del viento...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411453178423.jpg"><br/><br/>El sonido de una flauta tocada por un joven fluye a través del viento...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13639">Evento web «Larga travesía» ya disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">13639</guid>
-      <pubDate>Thu, 24 Jun 2021 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Modo de juego del evento «Leyenda de la espada errante»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13644</link>
-      <description>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062415003487520.jpg"><br/><br/>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13644">Modo de juego del evento «Leyenda de la espada errante»</a>]]></content:encoded>
-      <guid isPermaLink="false">13644</guid>
-      <pubDate>Thu, 24 Jun 2021 15:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Hojas en el viento»: ¡probabilidad de obtención de Kaedehara Kazuha aumentada!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13662</link>
-      <description>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518551515282.png"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13662">Gachapón «Hojas en el viento»: ¡probabilidad de obtención de Kaedehara Kazuha aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">13662</guid>
-      <pubDate>Sun, 27 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención aumentada para Juramento por la Libertad y Pergamino Celestial!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13663</link>
-      <description>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518583644949.png"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13663">Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención aumentada para Juramento por la Libertad y Pergamino Celestial!</a>]]></content:encoded>
-      <guid isPermaLink="false">13663</guid>
-      <pubDate>Sun, 27 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Kaedehara Kazuha: encanto sin extravagancias</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13732</link>
-      <description>Las nubes blancas flotan sobre la cima de las montañas, el cielo luce despejado y el agua cristalina brilla con el sol. Es el mejor momento para saciar la sed de poesía.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062812094938705.jpg"><br/><br/>Las nubes blancas flotan sobre la cima de las montañas, el cielo luce despejado y el agua cristalina brilla con el sol. Es el mejor momento para saciar la sed de poesía.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13732">Demo de nuevo personaje de Genshin Impact - Kaedehara Kazuha: encanto sin extravagancias</a>]]></content:encoded>
-      <guid isPermaLink="false">13732</guid>
-      <pubDate>Mon, 28 Jun 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Paimon te trae una recopilación de los eventos de la versión 1.6 (II)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13733</link>
-      <description>¡Hola, viajeros! El evento «Leyenda de la espada errante» ya está disponible, ¡vengan y desafíen a enemigos nunca antes vistos!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062812160932287.jpg"><br/><br/>¡Hola, viajeros! El evento «Leyenda de la espada errante» ya está disponible, ¡vengan y desafíen a enemigos nunca antes vistos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13733">Paimon te trae una recopilación de los eventos de la versión 1.6 (II)</a>]]></content:encoded>
-      <guid isPermaLink="false">13733</guid>
-      <pubDate>Mon, 28 Jun 2021 12:18:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Kaedehara Kazuha: libre como el viento</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13772</link>
-      <description>El presagio de la tormenta inminente puede ser la razón por la que unos huyen y el motivo por el que otros siguen adelante.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914061288814.jpg"><br/><br/>El presagio de la tormenta inminente puede ser la razón por la que unos huyen y el motivo por el que otros siguen adelante.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13772">Genshin Impact - Kaedehara Kazuha: libre como el viento</a>]]></content:encoded>
-      <guid isPermaLink="false">13772</guid>
-      <pubDate>Tue, 29 Jun 2021 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Charla con los desarrolladores (30/06/2021): ¡ya están aquí las decoraciones transportables!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13801</link>
-      <description>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923164096006.png"><br/><br/>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13801">Charla con los desarrolladores (30/06/2021): ¡ya están aquí las decoraciones transportables!</a>]]></content:encoded>
-      <guid isPermaLink="false">13801</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Modo de juego de «¡Bomba va!»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13780</link>
-      <description>¡Las ingeniosas máquinas lanzabolas de los Dodofuertes están activas! Usa los veloces Dodoescudos para devolver las Bombasbum y destruye los Dodofuertes.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914391194364.jpg"><br/><br/>¡Las ingeniosas máquinas lanzabolas de los Dodofuertes están activas! Usa los veloces Dodoescudos para devolver las Bombasbum y destruye los Dodofuertes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13780">Modo de juego de «¡Bomba va!»</a>]]></content:encoded>
-      <guid isPermaLink="false">13780</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13897</link>
-      <description>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222440365843.jpg"><br/><br/>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13897">Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</a>]]></content:encoded>
-      <guid isPermaLink="false">13897</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13892</link>
-      <description>"Siempre habrá quien se atreva a desafiar el destello del rayo".</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070219425787839.jpg"><br/><br/>"Siempre habrá quien se atreva a desafiar el destello del rayo".<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13892">Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</a>]]></content:encoded>
-      <guid isPermaLink="false">13892</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Modo de juego del evento «Contienda eterna»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13964</link>
-      <description>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717275741119.jpg"><br/><br/>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13964">Modo de juego del evento «Contienda eterna»</a>]]></content:encoded>
-      <guid isPermaLink="false">13964</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14007</link>
-      <description>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914124942763.jpg"><br/><br/>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14007">Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</a>]]></content:encoded>
-      <guid isPermaLink="false">14007</guid>
-      <pubDate>Fri, 09 Jul 2021 21:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Detalles del sistema de gachapones «Senda divina»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14032</link>
-      <description>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919252268954.jpg"><br/><br/>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14032">Detalles del sistema de gachapones «Senda divina»</a>]]></content:encoded>
-      <guid isPermaLink="false">14032</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14039</link>
-      <description>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919510072795.jpg"><br/><br/>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14039">Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</a>]]></content:encoded>
-      <guid isPermaLink="false">14039</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14098</link>
-      <description>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317024945365.jpg"><br/><br/>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14098">Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</a>]]></content:encoded>
-      <guid isPermaLink="false">14098</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Diario de Inazuma - 1ª edición: El misterioso elemento Electro</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14143</link>
-      <description>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420254533842.jpg"><br/><br/>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14143">Diario de Inazuma - 1ª edición: El misterioso elemento Electro</a>]]></content:encoded>
-      <guid isPermaLink="false">14143</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14119</link>
-      <description>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418480892482.jpg"><br/><br/>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14119">Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</a>]]></content:encoded>
-      <guid isPermaLink="false">14119</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14159</link>
-      <description>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511235782569.png"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14159">¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</a>]]></content:encoded>
-      <guid isPermaLink="false">14159</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>"Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!"</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14145</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071510095621440.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14145">"Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!"</a>]]></description>
-      <guid isPermaLink="false">14145</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14199</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520205281586.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14199">Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</a>]]></description>
-      <guid isPermaLink="false">14199</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Función de predescarga</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14221</link>
-      <description>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610213684306.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14221">Función de predescarga</a>]]></content:encoded>
-      <guid isPermaLink="false">14221</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14228</link>
-      <description>Grabado para siempre en una piedra, las montañas son testigos de su furia. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610312139747.jpg"><br/><br/>Grabado para siempre en una piedra, las montañas son testigos de su furia. <br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14228">Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</a>]]></content:encoded>
-      <guid isPermaLink="false">14228</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14255</link>
-      <description>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710005313971.png"><br/><br/>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14255">Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</a>]]></content:encoded>
-      <guid isPermaLink="false">14255</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14246</link>
-      <description>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071621161484750.jpg"><br/><br/>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14246">Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</a>]]></content:encoded>
-      <guid isPermaLink="false">14246</guid>
-      <pubDate>Sun, 18 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14289</link>
-      <description>Querido/a viajero/a: Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071817590843826.jpg"><br/><br/>Querido/a viajero/a: Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14289">Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</a>]]></content:encoded>
-      <guid isPermaLink="false">14289</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Elegancia de la garza»: ¡aumentada la probabilidad de obtención de Kamisato Ayaka!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14291</link>
-      <description>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819132664664.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14291">Gachapón «Elegancia de la garza»: ¡aumentada la probabilidad de obtención de Kamisato Ayaka!</a>]]></content:encoded>
-      <guid isPermaLink="false">14291</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Encarnación divina»: ¡aumentada la probabilidad de obtención de Reflejo de las Tinieblas!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14293</link>
-      <description>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819200164515.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14293">Gachapón «Encarnación divina»: ¡aumentada la probabilidad de obtención de Reflejo de las Tinieblas!</a>]]></content:encoded>
-      <guid isPermaLink="false">14293</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Eventos de la versión 2.0 (I)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14295</link>
-      <description>Estimados viajeros: En la versión 2.0, además de abrir la nueva región de Inazuma, también se lanzarán numerosos eventos increíbles. ¡Haz clic en la imagen para echarles un vistazo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819313135381.jpg"><br/><br/>Estimados viajeros: En la versión 2.0, además de abrir la nueva región de Inazuma, también se lanzarán numerosos eventos increíbles. ¡Haz clic en la imagen para echarles un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14295">Eventos de la versión 2.0 (I)</a>]]></content:encoded>
-      <guid isPermaLink="false">14295</guid>
-      <pubDate>Mon, 19 Jul 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>The Shimmering Voyage (El viaje deslumbrante) | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14314</link>
-      <description>¡El álbum conmemorativo de la versión 1.0 de Genshin Impact «The Shimmering Voyage» (El viaje deslumbrante) ya está disponible!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910105225097.jpg"><br/><br/>¡El álbum conmemorativo de la versión 1.0 de Genshin Impact «The Shimmering Voyage» (El viaje deslumbrante) ya está disponible!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14314">The Shimmering Voyage (El viaje deslumbrante) | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14314</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Kamisato Ayaka: una camelia en la nieve</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14362</link>
-      <description>Aunque hace tiempo que Kamisato Ayaka dominó la técnica de la espada, ella continúa practicando con perseverancia.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919175098391.jpg"><br/><br/>Aunque hace tiempo que Kamisato Ayaka dominó la técnica de la espada, ella continúa practicando con perseverancia.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14362">Demo de nuevo personaje de Genshin Impact - Kamisato Ayaka: una camelia en la nieve</a>]]></content:encoded>
-      <guid isPermaLink="false">14362</guid>
-      <pubDate>Tue, 20 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14454</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023062917763.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14454">Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</a>]]></description>
-      <guid isPermaLink="false">14454</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Modo de juego de «Colisión eléctrica»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14440</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072021494622674.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14440">Modo de juego de «Colisión eléctrica»</a>]]></description>
-      <guid isPermaLink="false">14440</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Kamisato Ayaka: la grulla que danza sobre el hielo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14427</link>
-      <description>Lo que a simple vista parece una grulla posada sobre la nieve, bajo la sombra de sus alas y tras sus habilidades desbordantes de elegancia, se halla el meticuloso entrenamiento de Ayaka.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072018540024010.jpg"><br/><br/>Lo que a simple vista parece una grulla posada sobre la nieve, bajo la sombra de sus alas y tras sus habilidades desbordantes de elegancia, se halla el meticuloso entrenamiento de Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14427">Genshin Impact - Kamisato Ayaka: la grulla que danza sobre el hielo</a>]]></content:encoded>
-      <guid isPermaLink="false">14427</guid>
-      <pubDate>Wed, 21 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento web «Invitación de la garza» ya disponible</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14500</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610491891700.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14500">Evento web «Invitación de la garza» ya disponible</a>]]></description>
-      <guid isPermaLink="false">14500</guid>
-      <pubDate>Mon, 26 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>"Los fuegos artificiales son efímeros, pero la amistad es eternos" - Yoimiya, "la Maestra de las Llamas"</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14618</link>
-      <description>Viajeros \ (^ o ^) / ~Hoy les presentamos a Yoimiya, la célebre pirotécnica de Pirotecnia Naganohara.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315531670883.jpg"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Yoimiya, la célebre pirotécnica de Pirotecnia Naganohara.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14618">"Los fuegos artificiales son efímeros, pero la amistad es eternos" - Yoimiya, "la Maestra de las Llamas"</a>]]></content:encoded>
-      <guid isPermaLink="false">14618</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la trama de Genshin Impact - Yoimiya: Lo mejor del verano en la Isla Narukami...</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14654</link>
-      <description>Los visitantes extranjeros recorren las calles de Hanamizaka en busca de "Lo mejor del verano en la Isla Narukami"...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080320430323606.jpg"><br/><br/>Los visitantes extranjeros recorren las calles de Hanamizaka en busca de "Lo mejor del verano en la Isla Narukami"...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14654">Avance de la trama de Genshin Impact - Yoimiya: Lo mejor del verano en la Isla Narukami...</a>]]></content:encoded>
-      <guid isPermaLink="false">14654</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento web «Recuerdos de la Noche de Verano» ya disponible</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14687</link>
-      <description>Los fuegos artificiales que estallan en el cielo iluminaron los ojos de la joven a mi lado...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511175720616.jpg"><br/><br/>Los fuegos artificiales que estallan en el cielo iluminaron los ojos de la joven a mi lado...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14687">Evento web «Recuerdos de la Noche de Verano» ya disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">14687</guid>
-      <pubDate>Thu, 05 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14733</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711095015613.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14733">Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</a>]]></description>
-      <guid isPermaLink="false">14733</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14743</link>
-      <description>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712143978787.jpg"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14743">"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</a>]]></content:encoded>
-      <guid isPermaLink="false">14743</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14771</link>
-      <description>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721330677785.jpg"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14771">Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</a>]]></content:encoded>
-      <guid isPermaLink="false">14771</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14772</link>
-      <description>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721390181925.jpg"><br/><br/>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14772">Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</a>]]></content:encoded>
-      <guid isPermaLink="false">14772</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14710</link>
-      <description>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080618562517541.jpg"><br/><br/>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14710">Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</a>]]></content:encoded>
-      <guid isPermaLink="false">14710</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14780</link>
-      <description>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080819392151874.jpg"><br/><br/>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14780">Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</a>]]></content:encoded>
-      <guid isPermaLink="false">14780</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Yoimiya: el lenguaje del fuego</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14850</link>
-      <description>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081011525467639.jpg"><br/><br/>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14850">Genshin Impact - Yoimiya: el lenguaje del fuego</a>]]></content:encoded>
-      <guid isPermaLink="false">14850</guid>
-      <pubDate>Tue, 10 Aug 2021 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Cómo jugar «Arena mecánica: Juego del ingenio»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14861</link>
-      <description>Gracias a los esfuerzos de Komakata, la representante legal de la Arena mecánica, este juego originario de Liyue por fin ha llegado a Inazuma. Según Komakata, a esta Arena mecánica le han añadido algunas cosas nuevas...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015202515871.jpg"><br/><br/>Gracias a los esfuerzos de Komakata, la representante legal de la Arena mecánica, este juego originario de Liyue por fin ha llegado a Inazuma. Según Komakata, a esta Arena mecánica le han añadido algunas cosas nuevas...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14861">Cómo jugar «Arena mecánica: Juego del ingenio»</a>]]></content:encoded>
-      <guid isPermaLink="false">14861</guid>
-      <pubDate>Wed, 11 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Sayu: rodando como el viento</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14876</link>
-      <description>La filosofía de la pequeña Sayu es comer alimentos que le den energía y hacer el menor esfuerzo posible.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081018052045611.jpg"><br/><br/>La filosofía de la pequeña Sayu es comer alimentos que le den energía y hacer el menor esfuerzo posible.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14876">Genshin Impact - Sayu: rodando como el viento</a>]]></content:encoded>
-      <guid isPermaLink="false">14876</guid>
-      <pubDate>Wed, 11 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Modo de juego de «Flujo fantasmal»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15037</link>
-      <description>¡El evento «Flujo fantasmal» está a punto de comenzar!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816105634063.jpg"><br/><br/>¡El evento «Flujo fantasmal» está a punto de comenzar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15037">Modo de juego de «Flujo fantasmal»</a>]]></content:encoded>
-      <guid isPermaLink="false">15037</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15074</link>
-      <description>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014255612158.jpg"><br/><br/>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15074">Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</a>]]></content:encoded>
-      <guid isPermaLink="false">15074</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Restablecimiento de la bonificación doble por primera recarga en la tienda</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15107</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082020272098358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15107">Restablecimiento de la bonificación doble por primera recarga en la tienda</a>]]></description>
-      <guid isPermaLink="false">15107</guid>
-      <pubDate>Fri, 20 Aug 2021 23:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15072</link>
-      <description>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014073664118.png"><br/><br/>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15072">Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</a>]]></content:encoded>
-      <guid isPermaLink="false">15072</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15115</link>
-      <description>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111292333189.jpg"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15115">¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</a>]]></content:encoded>
-      <guid isPermaLink="false">15115</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Actualización de la versión 2.1: Detalles del modo de juego de pesca</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15155</link>
-      <description>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318543868433.png"><br/><br/>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15155">Actualización de la versión 2.1: Detalles del modo de juego de pesca</a>]]></content:encoded>
-      <guid isPermaLink="false">15155</guid>
-      <pubDate>Tue, 24 Aug 2021 10:30:00 +0200</pubDate>
+      <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15278</link>
+      <description>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082522141972812.jpg"><br/><br/>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15278">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</a>]]></content:encoded>
+      <guid isPermaLink="false">15278</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

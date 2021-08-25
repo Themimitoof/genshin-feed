@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Aug 2021 19:07:05 +0000</lastBuildDate>
-    <item>
-      <title>A Good Day for Some Legal Practice: "Wise Innocence" Yanfei</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12173</link>
-      <description>Today, let's get to know Liyue's top legal adviser — Yanfei!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042121384049988.png"><br/><br/>Today, let's get to know Liyue's top legal adviser — Yanfei!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12173">A Good Day for Some Legal Practice: "Wise Innocence" Yanfei</a>]]></content:encoded>
-      <guid isPermaLink="false">12173</guid>
-      <pubDate>Thu, 22 Apr 2021 12:15:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 20:08:51 +0000</lastBuildDate>
     <item>
       <title>The Version 1.5 "Beneath the Light of Jadeite" Preview Page Is Here!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12179</link>
@@ -902,6 +894,14 @@ The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!<br><b
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318151336119.png"><br/><br/>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15149">Version 2.1 Update Preview: Fishing Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">15149</guid>
       <pubDate>Tue, 24 Aug 2021 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15256</link>
+      <description>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520114091781.jpg"><br/><br/>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15256">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</a>]]></content:encoded>
+      <guid isPermaLink="false">15256</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

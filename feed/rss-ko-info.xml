@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 25 Aug 2021 19:07:15 +0000</lastBuildDate>
-    <item>
-      <title>「산야의 시조」 기원, 「속세 한유·종려(바위)」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12296</link>
-      <description>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042610472491871.jpg"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12296">「산야의 시조」 기원, 「속세 한유·종려(바위)」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">12296</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 20:09:38 +0000</lastBuildDate>
     <item>
       <title>「신의 주조」 기원 오픈,「한손검·참봉의 칼날」, 「법구·속세의 자물쇠」 확률 UP!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/12297</link>
@@ -867,6 +859,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082323131883766.png"><br/><br/> 2.1 버전에서 여행자들이 오래 기다렸던 「낚시」 콘텐츠가 업데이트될 거야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15174">2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">15174</guid>
       <pubDate>Tue, 24 Aug 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15271</link>
+      <description>﻿&lt;원신&gt; 협업 지휘자 Dirk Brossé 및 Flanders Symphony Orchestra와 함께 티바트 대륙에서 울려 퍼지는 감동적인 선율을 다시 되새기는 아름다운 음악 여행이 시작됩니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520323353747.jpg"><br/><br/>﻿<원신> 협업 지휘자 Dirk Brossé 및 Flanders Symphony Orchestra와 함께 티바트 대륙에서 울려 퍼지는 감동적인 선율을 다시 되새기는 아름다운 음악 여행이 시작됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15271">원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">15271</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

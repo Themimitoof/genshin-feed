@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-08-25T19:07:11.875896+00:00</updated>
+  <updated>2021-08-25T20:09:01.348102+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12245</id>
-    <title>「玉扉繞塵歌」1.5 版本更新通知</title>
-    <updated>2021-04-25T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042501570686136.png"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12245">「玉扉繞塵歌」1.5 版本更新通知</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12245" rel="alternate"/>
-    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
-    <published>2021-04-25T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>12276</id>
     <title>「陵藪市朝」祈願：「塵世閒遊·鍾離(岩)」機率UP！</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15154" rel="alternate"/>
     <summary>旅行者們好呀~在2.1版本中，將會更新旅行者們期待已久的「釣魚」玩法，一起來看看吧~</summary>
     <published>2021-08-24T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15273</id>
+    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (Teaser I)</title>
+    <updated>2021-08-26T04:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520435988502.jpg"><br/><br/>《原神》攜手指揮家Dirk Brossé及Flanders Symphony Orchestra樂團，即將帶來一段美妙的音樂之旅，與旅行者共同重溫那些在提瓦特大陸中迴盪的動人旋律。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15273">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (Teaser I)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15273" rel="alternate"/>
+    <summary>《原神》攜手指揮家Dirk Brossé及Flanders Symphony Orchestra樂團，即將帶來一段美妙的音樂之旅，與旅行者共同重溫那些在提瓦特大陸中迴盪的動人旋律。</summary>
+    <published>2021-08-26T04:00:00+08:00</published>
   </entry>
 </feed>

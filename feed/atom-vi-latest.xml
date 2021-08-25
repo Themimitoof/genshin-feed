@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-08-25T19:07:16.888254+00:00</updated>
+  <updated>2021-08-25T20:10:03.722071+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>12232</id>
-    <title>Sắp Mở Tính Năng Tải Trước</title>
-    <updated>2021-04-23T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042310184612727.png"><br/><br/>Nhà Lữ Hành thân mến: 
-Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12232">Sắp Mở Tính Năng Tải Trước</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12232" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến: 
-Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.</summary>
-    <published>2021-04-23T11:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12244</id>
     <title>Thông Báo Cập Nhật Phiên Bản 1.5 "Cổng Ngọc Bụi Trần"</title>
@@ -967,5 +956,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/15153" rel="alternate"/>
     <summary>Nhà Lữ Hành thân mến! Phiên bản 2.1 sẽ cập nhật tính năng "Câu Cá" mà Nhà Lữ Hành mong chờ từ lâu, hãy cùng xem nhé!</summary>
     <published>2021-08-24T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15268</id>
+    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
+    <updated>2021-08-26T04:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520224321920.jpg"><br/><br/>Genshin Impact bắt tay với nhạc trưởng Dirk Brossé <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15268">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15268" rel="alternate"/>
+    <summary>Genshin Impact bắt tay với nhạc trưởng Dirk Brossé </summary>
+    <published>2021-08-26T04:00:00+07:00</published>
   </entry>
 </feed>

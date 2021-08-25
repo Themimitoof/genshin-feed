@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Aug 2021 19:07:07 +0000</lastBuildDate>
-    <item>
-      <title>Notification de mise à jour version de 1.5 « Toute la lueur sur la jadéite »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12251</link>
-      <description>Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042510142731098.png"><br/><br/>Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12251">Notification de mise à jour version de 1.5 « Toute la lueur sur la jadéite »</a>]]></content:encoded>
-      <guid isPermaLink="false">12251</guid>
-      <pubDate>Sun, 25 Apr 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 20:08:57 +0000</lastBuildDate>
     <item>
       <title>Nouveaux vœux : « Incarnation divine » ! Taux d'obtention boosté pour Tranche-sommets (Épée à une main) et Chaînes mortelles (Catalyseur) !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12290</link>
@@ -855,6 +847,14 @@ L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210824/2021082410132191810.png"><br/><br/>Bonjour, voyageurs ! Le nouveau système de pêche arrive dans la version 2.1. Voyons cela ensemble ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15175">Aperçu de la mise à jour de version 2.1 : détails du système de pêche</a>]]></content:encoded>
       <guid isPermaLink="false">15175</guid>
       <pubDate>Tue, 24 Aug 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15236</link>
+      <description>Le Maestro Dirk Bossé et le Flanders Company Orchestra nous entraînent dans une merveilleuse aventure musicale. Revivons tous ensemble nos souvenirs de Teyvat grâce à leurs mélodies.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519452854366.jpg"><br/><br/>Le Maestro Dirk Bossé et le Flanders Company Orchestra nous entraînent dans une merveilleuse aventure musicale. Revivons tous ensemble nos souvenirs de Teyvat grâce à leurs mélodies.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15236">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">15236</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

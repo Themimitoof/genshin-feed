@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 25 Aug 2021 19:07:16 +0000</lastBuildDate>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Кромсатель пиков (Одноручное) и Память о пыли (Катализатор)!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12272</link>
-      <description>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520175452016.jpg"><br/><br/>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12272">Молитва «Воплощение божества»: повышен шанс получить Кромсатель пиков (Одноручное) и Память о пыли (Катализатор)!</a>]]></content:encoded>
-      <guid isPermaLink="false">12272</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 25 Aug 2021 20:09:55 +0000</lastBuildDate>
     <item>
       <title>Предварительный обзор событий версии 1.5 (Часть 1)</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12282</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318171984634.png"><br/><br/>Рыбалка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15151">Новая система версии 2.1: Рыбалка</a>]]></content:encoded>
       <guid isPermaLink="false">15151</guid>
       <pubDate>Tue, 24 Aug 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15264</link>
+      <description>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192761873.jpg"><br/><br/>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15264">Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">15264</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
