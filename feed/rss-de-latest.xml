@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 26 Aug 2021 02:18:01 +0000</lastBuildDate>
-    <item>
-      <title>Gebet „Abgeschiedener Adel“: Höhere Wahrscheinlichkeit für „Besucher bei den Sterblichen – Zhongli (Geo)“!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12271</link>
-      <description>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520162960561.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12271">Gebet „Abgeschiedener Adel“: Höhere Wahrscheinlichkeit für „Besucher bei den Sterblichen – Zhongli (Geo)“!</a>]]></content:encoded>
-      <guid isPermaLink="false">12271</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 03:09:02 +0000</lastBuildDate>
     <item>
       <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Einhänder – Gipfelbrecher“ und „Katalysator – Ketten des Diesseits“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12273</link>
@@ -830,6 +822,14 @@ Shousen, der Meister des Shinryuu von Inazuma erklärt sich bereit, dem Reisende
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520142098889.jpg"><br/><br/>Zusammen mit Maestro Dirk Brossé und dem Flanders Symphony Orchestra ist Genshin Impact dabei, eine wundervolle musikalische Reise zu unternehmen und die bewegenden Melodien, die in Teyvat mit den Reisenden widerhallen, neu zu erleben.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15257">GENSHIN CONCERT 2021 – Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
       <guid isPermaLink="false">15257</guid>
       <pubDate>Thu, 26 Aug 2021 04:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Notizen über Inazuma – Watatsumi und Seirai</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15232</link>
+      <description>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518005178820.jpg"><br/><br/>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15232">Notizen über Inazuma – Watatsumi und Seirai</a>]]></content:encoded>
+      <guid isPermaLink="false">15232</guid>
+      <pubDate>Thu, 26 Aug 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

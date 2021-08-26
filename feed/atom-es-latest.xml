@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-08-26T02:18:03.049256+00:00</updated>
+  <updated>2021-08-26T03:09:06.224679+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>9910</id>
-    <title>Evento «Aguas anhelantes»</title>
-    <updated>2021-04-08T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040719042536799.png"><br/><br/>Las aguas de los lagos y ríos de la frontera entre Mondstadt y Liyue se han vuelto amargas. ¿Será este el final de la industria del vino de Mondstadt?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/9910">Evento «Aguas anhelantes»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/9910" rel="alternate"/>
-    <summary>Las aguas de los lagos y ríos de la frontera entre Mondstadt y Liyue se han vuelto amargas. ¿Será este el final de la industria del vino de Mondstadt?</summary>
-    <published>2021-04-08T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>11915</id>
     <title>Avance de la versión 1.5 de Genshin Impact: A la luz de la jadeíta</title>
@@ -911,5 +902,14 @@ Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mit
     <link href="https://genshin.mihoyo.com/es/news/detail/15278" rel="alternate"/>
     <summary>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.</summary>
     <published>2021-08-26T04:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15231</id>
+    <title>Diario de Inazuma: Isla Watatsumi e Isla Seirai</title>
+    <updated>2021-08-26T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518002913704.jpg"><br/><br/>En la versión 2.1, se desbloquearán dos nuevas islas en Inazuma, la Isla Seirai y la Isla Watatsumi. Ambas tienen costumbres diferentes, ¡descubramos juntos estos lugares misteriosos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15231">Diario de Inazuma: Isla Watatsumi e Isla Seirai</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15231" rel="alternate"/>
+    <summary>En la versión 2.1, se desbloquearán dos nuevas islas en Inazuma, la Isla Seirai y la Isla Watatsumi. Ambas tienen costumbres diferentes, ¡descubramos juntos estos lugares misteriosos!</summary>
+    <published>2021-08-26T10:30:00+02:00</published>
   </entry>
 </feed>

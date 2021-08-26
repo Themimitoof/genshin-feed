@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-08-26T02:18:01.497415+00:00</updated>
+  <updated>2021-08-26T03:09:02.239820+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>12271</id>
-    <title>Gebet „Abgeschiedener Adel“: Höhere Wahrscheinlichkeit für „Besucher bei den Sterblichen – Zhongli (Geo)“!</title>
-    <updated>2021-04-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520162960561.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12271">Gebet „Abgeschiedener Adel“: Höhere Wahrscheinlichkeit für „Besucher bei den Sterblichen – Zhongli (Geo)“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/12271" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</summary>
-    <published>2021-04-26T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12273</id>
     <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Einhänder – Gipfelbrecher“ und „Katalysator – Ketten des Diesseits“!</title>
@@ -930,5 +921,14 @@ Shousen, der Meister des Shinryuu von Inazuma erklärt sich bereit, dem Reisende
     <link href="https://genshin.mihoyo.com/de/news/detail/15257" rel="alternate"/>
     <summary>Zusammen mit Maestro Dirk Brossé und dem Flanders Symphony Orchestra ist Genshin Impact dabei, eine wundervolle musikalische Reise zu unternehmen und die bewegenden Melodien, die in Teyvat mit den Reisenden widerhallen, neu zu erleben.</summary>
     <published>2021-08-26T04:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15232</id>
+    <title>Notizen über Inazuma – Watatsumi und Seirai</title>
+    <updated>2021-08-26T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518005178820.jpg"><br/><br/>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15232">Notizen über Inazuma – Watatsumi und Seirai</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15232" rel="alternate"/>
+    <summary>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!</summary>
+    <published>2021-08-26T10:30:00+02:00</published>
   </entry>
 </feed>

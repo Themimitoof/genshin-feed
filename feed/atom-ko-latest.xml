@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-08-26T02:18:07.901223+00:00</updated>
+  <updated>2021-08-26T03:09:19.967416+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12297</id>
-    <title>「신의 주조」 기원 오픈,「한손검·참봉의 칼날」, 「법구·속세의 자물쇠」 확률 UP!</title>
-    <updated>2021-04-26T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042610533485704.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12297">「신의 주조」 기원 오픈,「한손검·참봉의 칼날」, 「법구·속세의 자물쇠」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12297" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</summary>
-    <published>2021-04-26T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>12298</id>
     <title>1.5 버전 신규 이벤트 알아보기</title>
@@ -969,5 +960,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/15271" rel="alternate"/>
     <summary>﻿&lt;원신&gt; 협업 지휘자 Dirk Brossé 및 Flanders Symphony Orchestra와 함께 티바트 대륙에서 울려 퍼지는 감동적인 선율을 다시 되새기는 아름다운 음악 여행이 시작됩니다</summary>
     <published>2021-08-26T04:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15275</id>
+    <title>[이나즈마 수첩] 와타츠미섬&amp;세이라이섬 편</title>
+    <updated>2021-08-26T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082521124914844.jpg"><br/><br/>2.1 버전에서 이나즈마 지역 신규 섬 - 「와타츠미섬」과 「세이라이섬」 오픈. 이 두 섬은 전혀 다른 문화와 풍습을 가지고 있어. 우리 이 신비한 두 섬에 대해 살펴보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15275">[이나즈마 수첩] 와타츠미섬&세이라이섬 편</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15275" rel="alternate"/>
+    <summary>2.1 버전에서 이나즈마 지역 신규 섬 - 「와타츠미섬」과 「세이라이섬」 오픈. 이 두 섬은 전혀 다른 문화와 풍습을 가지고 있어. 우리 이 신비한 두 섬에 대해 살펴보자!</summary>
+    <published>2021-08-26T10:30:00+09:00</published>
   </entry>
 </feed>

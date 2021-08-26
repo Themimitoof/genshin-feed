@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Aug 2021 02:18:10 +0000</lastBuildDate>
-    <item>
-      <title>Предварительный обзор событий версии 1.5 (Часть 1)</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12282</link>
-      <description>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520363696068.png"><br/><br/>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12282">Предварительный обзор событий версии 1.5 (Часть 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">12282</guid>
-      <pubDate>Mon, 26 Apr 2021 12:10:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 03:09:28 +0000</lastBuildDate>
     <item>
       <title>«Странствия Гео Архонта» | Мини-альбом Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12351</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192761873.jpg"><br/><br/>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15264">Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
       <guid isPermaLink="false">15264</guid>
       <pubDate>Thu, 26 Aug 2021 04:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>[Записи об Инадзуме] Ватацуми и Сэйрай</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15233</link>
+      <description>Записи об Инадзуме</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114179104.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15233">[Записи об Инадзуме] Ватацуми и Сэйрай</a>]]></content:encoded>
+      <guid isPermaLink="false">15233</guid>
+      <pubDate>Thu, 26 Aug 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

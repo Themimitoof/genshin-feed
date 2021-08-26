@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 26 Aug 2021 02:18:12 +0000</lastBuildDate>
-    <item>
-      <title>Thông Báo Cập Nhật Phiên Bản 1.5 "Cổng Ngọc Bụi Trần"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12244</link>
-      <description>Nhà Lữ Hành thân mến:Để giúp Nhà Lữ Hành có được trải nghiệm tốt hơn, sắp tới tổ chế tác sẽ tiến hành đóng server cập nhật và bảo trì. Sau khi bảo trì hoàn tất, trò chơi sẽ được cập nhật lên phiên bản mới nhất.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210424/2021042423492822306.png"><br/><br/>Nhà Lữ Hành thân mến:Để giúp Nhà Lữ Hành có được trải nghiệm tốt hơn, sắp tới tổ chế tác sẽ tiến hành đóng server cập nhật và bảo trì. Sau khi bảo trì hoàn tất, trò chơi sẽ được cập nhật lên phiên bản mới nhất.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12244">Thông Báo Cập Nhật Phiên Bản 1.5 "Cổng Ngọc Bụi Trần"</a>]]></content:encoded>
-      <guid isPermaLink="false">12244</guid>
-      <pubDate>Sun, 25 Apr 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 03:09:36 +0000</lastBuildDate>
     <item>
       <title>Cầu Nguyện "Đồng Cỏ Thị Thành": UP xác suất nhận "Du Ngoạn Trần Thế - Zhongli (Nham)"!</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12269</link>
@@ -865,6 +857,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520224321920.jpg"><br/><br/>Genshin Impact bắt tay với nhạc trưởng Dirk Brossé <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15268">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
       <guid isPermaLink="false">15268</guid>
       <pubDate>Thu, 26 Aug 2021 04:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Sổ Tay Inazuma] Về Đảo Watatsumi &amp; Đảo Seirai</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15229</link>
+      <description>Trong phiên bản 2.1, khu vực Inazuma sẽ mở ra đảo mới</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517530391596.jpg"><br/><br/>Trong phiên bản 2.1, khu vực Inazuma sẽ mở ra đảo mới<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15229">[Sổ Tay Inazuma] Về Đảo Watatsumi & Đảo Seirai</a>]]></content:encoded>
+      <guid isPermaLink="false">15229</guid>
+      <pubDate>Thu, 26 Aug 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-08-26T02:18:10.744134+00:00</updated>
+  <updated>2021-08-26T03:09:29.924787+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>12282</id>
-    <title>Предварительный обзор событий версии 1.5 (Часть 1)</title>
-    <updated>2021-04-26T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520363696068.png"><br/><br/>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12282">Предварительный обзор событий версии 1.5 (Часть 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12282" rel="alternate"/>
-    <summary>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях. </summary>
-    <published>2021-04-26T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>12351</id>
     <title>«Странствия Гео Архонта» | Мини-альбом Genshin Impact</title>
@@ -928,5 +919,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15264" rel="alternate"/>
     <summary>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие</summary>
     <published>2021-08-26T04:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15233</id>
+    <title>[Записи об Инадзуме] Ватацуми и Сэйрай</title>
+    <updated>2021-08-26T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114179104.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15233">[Записи об Инадзуме] Ватацуми и Сэйрай</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15233" rel="alternate"/>
+    <summary>Записи об Инадзуме</summary>
+    <published>2021-08-26T10:30:00+03:00</published>
   </entry>
 </feed>

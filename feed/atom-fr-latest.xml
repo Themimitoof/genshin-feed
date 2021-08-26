@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-08-26T02:17:58.527808+00:00</updated>
+  <updated>2021-08-26T03:08:53.634950+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12290</id>
-    <title>Nouveaux vœux : « Incarnation divine » ! Taux d'obtention boosté pour Tranche-sommets (Épée à une main) et Chaînes mortelles (Catalyseur) !</title>
-    <updated>2021-04-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042600373188816.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12290">Nouveaux vœux : « Incarnation divine » ! Taux d'obtention boosté pour Tranche-sommets (Épée à une main) et Chaînes mortelles (Catalyseur) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12290" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !</summary>
-    <published>2021-04-26T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12291</id>
     <title>Vœux : « Monts et marchés » ! Taux d'obtention boosté pour Zhongli · Vagabond du monde mortel (Géo) !</title>
@@ -957,5 +948,14 @@ L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin
     <link href="https://genshin.mihoyo.com/fr/news/detail/15236" rel="alternate"/>
     <summary>Le Maestro Dirk Bossé et le Flanders Company Orchestra nous entraînent dans une merveilleuse aventure musicale. Revivons tous ensemble nos souvenirs de Teyvat grâce à leurs mélodies.</summary>
     <published>2021-08-26T04:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15235</id>
+    <title>Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</title>
+    <updated>2021-08-26T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518314437499.jpg"><br/><br/>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15235">Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15235" rel="alternate"/>
+    <summary>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !</summary>
+    <published>2021-08-26T10:30:00+02:00</published>
   </entry>
 </feed>

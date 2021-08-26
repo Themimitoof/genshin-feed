@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Aug 2021 02:17:56 +0000</lastBuildDate>
-    <item>
-      <title>The Version 1.5 "Beneath the Light of Jadeite" Preview Page Is Here!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12179</link>
-      <description>The Version 1.5 "Beneath the Light of Jadeite" Preview Page Is Here!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042122421014210.png"><br/><br/>The Version 1.5 "Beneath the Light of Jadeite" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12179">The Version 1.5 "Beneath the Light of Jadeite" Preview Page Is Here!</a>]]></content:encoded>
-      <guid isPermaLink="false">12179</guid>
-      <pubDate>Thu, 22 Apr 2021 12:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 03:08:48 +0000</lastBuildDate>
     <item>
       <title>Pre-Installation Function Coming Soon</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12226</link>
@@ -902,6 +894,14 @@ The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!<br><b
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520114091781.jpg"><br/><br/>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15256">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</a>]]></content:encoded>
       <guid isPermaLink="false">15256</guid>
       <pubDate>Thu, 26 Aug 2021 04:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Inazuma Diaries: Watatsumi Island &amp; Seirai Island</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15228</link>
+      <description>In Version 2.1, two new islands will be introduced in Inazuma, Seirai Island and Watatsumi Island. They both have different customs, let's go and discover these mysterious places together!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517523485210.jpg"><br/><br/>In Version 2.1, two new islands will be introduced in Inazuma, Seirai Island and Watatsumi Island. They both have different customs, let's go and discover these mysterious places together!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15228">The Inazuma Diaries: Watatsumi Island & Seirai Island</a>]]></content:encoded>
+      <guid isPermaLink="false">15228</guid>
+      <pubDate>Thu, 26 Aug 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

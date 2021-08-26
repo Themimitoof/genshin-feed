@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-08-26T02:18:11.532434+00:00</updated>
+  <updated>2021-08-26T03:09:32.175332+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12309</id>
-    <title>การอธิษฐาน "สรรค์สร้างเซียน" โอกาสได้รับ UP "ดาบ - Summit Shaper" "สื่อเวท - Memory of Dust"!</title>
-    <updated>2021-04-26T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042611273077551.jpg"><br/><br/>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับอาวุธและตัวละครมากมายจากกิจกรรมอธิษฐาน "สรรค์สร้างเซียน" เพื่อเสริมการต่อสู้ของทีมให้แข็งแกร่ง!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12309">การอธิษฐาน "สรรค์สร้างเซียน" โอกาสได้รับ UP "ดาบ - Summit Shaper" "สื่อเวท - Memory of Dust"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12309" rel="alternate"/>
-    <summary>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับอาวุธและตัวละครมากมายจากกิจกรรมอธิษฐาน "สรรค์สร้างเซียน" เพื่อเสริมการต่อสู้ของทีมให้แข็งแกร่ง!</summary>
-    <published>2021-04-26T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12312</id>
     <title>พรีวิวกิจกรรมเวอร์ชัน 1.5 (ช่วงที่ 1)</title>
@@ -920,5 +911,14 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/15265" rel="alternate"/>
     <summary>Genshin Impact กับวาทยกร Dirk Brossé และวงดนตรี Flanders Symphony Orchestra</summary>
     <published>2021-08-26T04:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15230</id>
+    <title>[บันทึก Inazuma] บทแห่งเกาะ Watatsumi &amp; เกาะ Seirai</title>
+    <updated>2021-08-26T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517584361369.jpg"><br/><br/>ในเวอร์ชัน 2.1 พื้นที่ Inazuma จะเปิดเกาะใหม่ <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15230">[บันทึก Inazuma] บทแห่งเกาะ Watatsumi & เกาะ Seirai</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15230" rel="alternate"/>
+    <summary>ในเวอร์ชัน 2.1 พื้นที่ Inazuma จะเปิดเกาะใหม่ </summary>
+    <published>2021-08-26T10:30:00+07:00</published>
   </entry>
 </feed>
