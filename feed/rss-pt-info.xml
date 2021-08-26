@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 26 Aug 2021 03:09:26 +0000</lastBuildDate>
-    <item>
-      <title>Oração "Encarnação Divina": "Espada - Cortador de Montanhas", "Catalisador - Memória da Poeira"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/12277</link>
-      <description>Durante o período do Evento, o Viajante poderá na Oração "Encarnação Divina" obter mais armas e personagens, aumentando a força de combate da equipe!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520240374691.jpg"><br/><br/>Durante o período do Evento, o Viajante poderá na Oração "Encarnação Divina" obter mais armas e personagens, aumentando a força de combate da equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12277">Oração "Encarnação Divina": "Espada - Cortador de Montanhas", "Catalisador - Memória da Poeira"</a>]]></content:encoded>
-      <guid isPermaLink="false">12277</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Uma imagem para entender os novos eventos da versão 1.5 (Fase 1)</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/12285</link>
-      <description>Eventos totalmente novos estão chegando na versão 1.5, Viajantes, preparem-se! Segue abaixo um resumo dos eventos recentes e futuros, confira a imagem abaixo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520391198635.png"><br/><br/>Eventos totalmente novos estão chegando na versão 1.5, Viajantes, preparem-se! Segue abaixo um resumo dos eventos recentes e futuros, confira a imagem abaixo!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12285">Uma imagem para entender os novos eventos da versão 1.5 (Fase 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">12285</guid>
-      <pubDate>Mon, 26 Apr 2021 12:10:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 05:07:56 +0000</lastBuildDate>
     <item>
       <title>EP de Genshin Impact - Jornada no Mundo Mortal do Arconte Geo</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/12343</link>
@@ -812,6 +796,22 @@ Mal sabem eles que aquela figura radiante como os fogos de artifício de uma noi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517520240058.jpg"><br/><br/>Na Versão 2.1, duas novas ilhas serão desbloqueadas em Inazuma, a Ilha Seirai e a Ilha Watatsumi. Com costumes e cultura diferentes, os dois arquipélagos possuem características próprias, embarque nesta aventura junto conosco para conhecer mais sobre essas duas ilhas misteriosas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15227">[Diário em Inazuma] Edição Ilha Watatsumi & Ilha Seirai</a>]]></content:encoded>
       <guid isPermaLink="false">15227</guid>
       <pubDate>Thu, 26 Aug 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15251</link>
+      <description>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519551461981.jpg"><br/><br/>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15251">Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15251</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"O mundo permanece constante por séculos. Mas a vida humana é como o orvalho da manhã ou uma bolha subindo na água."</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15282</link>
+      <description>Olá, Viajantes! Hoje apresentaremos a nova personagem, Shogun Raiden. Vossa Excelência, a Narukami Ogosho Toda-Poderosa que prometeu ao povo de Inazuma uma Eternidade imutável.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610070784679.jpg"><br/><br/>Olá, Viajantes! Hoje apresentaremos a nova personagem, Shogun Raiden. Vossa Excelência, a Narukami Ogosho Toda-Poderosa que prometeu ao povo de Inazuma uma Eternidade imutável.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15282">"O mundo permanece constante por séculos. Mas a vida humana é como o orvalho da manhã ou uma bolha subindo na água."</a>]]></content:encoded>
+      <guid isPermaLink="false">15282</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
