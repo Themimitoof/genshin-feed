@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-08-26T03:09:36.919801+00:00</updated>
+  <updated>2021-08-26T04:11:27.085168+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>12269</id>
-    <title>Cầu Nguyện "Đồng Cỏ Thị Thành": UP xác suất nhận "Du Ngoạn Trần Thế - Zhongli (Nham)"!</title>
-    <updated>2021-04-26T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520141836811.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12269">Cầu Nguyện "Đồng Cỏ Thị Thành": UP xác suất nhận "Du Ngoạn Trần Thế - Zhongli (Nham)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12269" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-04-26T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12275</id>
-    <title>Cầu nguyện "Thân Hình Thần Đúc", xác suất UP "Kiếm Đơn - Kiếm Chước Phong", "Pháp Khí - Khóa Trần Thế"!</title>
-    <updated>2021-04-26T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520235296275.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong hoạt động cầu nguyện "Thân Hình Thần Đúc" để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12275">Cầu nguyện "Thân Hình Thần Đúc", xác suất UP "Kiếm Đơn - Kiếm Chước Phong", "Pháp Khí - Khóa Trần Thế"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12275" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong hoạt động cầu nguyện "Thân Hình Thần Đúc" để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-04-26T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12289</id>
     <title>Hình ảnh giới thiệu sự kiện phiên bản 1.5 (Kỳ 1)</title>
@@ -965,5 +947,23 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/15229" rel="alternate"/>
     <summary>Trong phiên bản 2.1, khu vực Inazuma sẽ mở ra đảo mới</summary>
     <published>2021-08-26T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15253</id>
+    <title>[Genshin Impact] Video nhân vật Raiden Shogun - Ác Mộng</title>
+    <updated>2021-08-26T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519560144733.jpg"><br/><br/>Hình bóng xưa kia nay chỉ còn là mộng ảo. Thiên hạ nhân tâm, cô tịch vĩnh hằng.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15253">[Genshin Impact] Video nhân vật Raiden Shogun - Ác Mộng</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15253" rel="alternate"/>
+    <summary>Hình bóng xưa kia nay chỉ còn là mộng ảo. Thiên hạ nhân tâm, cô tịch vĩnh hằng.</summary>
+    <published>2021-08-26T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15290</id>
+    <title>"Cảnh sắc vĩnh hằng ngàn năm như một, nhưng thế gian loài người lại như ảo ảnh mây bay."</title>
+    <updated>2021-08-26T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610524420011.jpg"><br/><br/>Các Nhà Lữ Hành thân mến, hôm nay xin được giới thiệu đến các bạn nhân vật mới - Raiden Shogun.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15290">"Cảnh sắc vĩnh hằng ngàn năm như một, nhưng thế gian loài người lại như ảo ảnh mây bay."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15290" rel="alternate"/>
+    <summary>Các Nhà Lữ Hành thân mến, hôm nay xin được giới thiệu đến các bạn nhân vật mới - Raiden Shogun.</summary>
+    <published>2021-08-26T12:00:00+07:00</published>
   </entry>
 </feed>

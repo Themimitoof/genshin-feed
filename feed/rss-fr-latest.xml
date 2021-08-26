@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Aug 2021 03:08:53 +0000</lastBuildDate>
-    <item>
-      <title>Vœux : « Monts et marchés » ! Taux d'obtention boosté pour Zhongli · Vagabond du monde mortel (Géo) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12291</link>
-      <description>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042600462566813.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12291">Vœux : « Monts et marchés » ! Taux d'obtention boosté pour Zhongli · Vagabond du monde mortel (Géo) !</a>]]></content:encoded>
-      <guid isPermaLink="false">12291</guid>
-      <pubDate>Mon, 26 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aperçu des nouveaux événements de la version 1.5 (Partie I)</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12292</link>
-      <description>Les nouveaux événements de la version 1.5 sont sur le point de commencer ! Êtes-vous prêts, voyageurs ?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042601082180671.png"><br/><br/>Les nouveaux événements de la version 1.5 sont sur le point de commencer ! Êtes-vous prêts, voyageurs ?<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12292">Aperçu des nouveaux événements de la version 1.5 (Partie I)</a>]]></content:encoded>
-      <guid isPermaLink="false">12292</guid>
-      <pubDate>Mon, 26 Apr 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 04:10:32 +0000</lastBuildDate>
     <item>
       <title>« Genshin Impact », la bande-son : Le voyage du Dieu de la roche</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12338</link>
@@ -855,6 +839,20 @@ L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518314437499.jpg"><br/><br/>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15235">Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</a>]]></content:encoded>
       <guid isPermaLink="false">15235</guid>
       <pubDate>Thu, 26 Aug 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Histoire de personnage | Shogun Raiden : « Cauchemar »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15247</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519513895699.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15247">Genshin Impact - Histoire de personnage | Shogun Raiden : « Cauchemar »</a>]]></description>
+      <guid isPermaLink="false">15247</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15291</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611115184840.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15291">« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</a>]]></description>
+      <guid isPermaLink="false">15291</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

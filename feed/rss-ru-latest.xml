@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 26 Aug 2021 03:09:28 +0000</lastBuildDate>
-    <item>
-      <title>«Странствия Гео Архонта» | Мини-альбом Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12351</link>
-      <description>Путь длиной в тысячи лет, поток времени и теней, созерцание великих перемен.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711531966805.jpg"><br/><br/>Путь длиной в тысячи лет, поток времени и теней, созерцание великих перемен.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12351">«Странствия Гео Архонта» | Мини-альбом Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12351</guid>
-      <pubDate>Tue, 27 Apr 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact доступен для загрузки на PlayStation 5!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12387</link>
-      <description>Genshin Impact доступен для загрузки на PlayStation 5!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720040919086.png"><br/><br/>Genshin Impact доступен для загрузки на PlayStation 5!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12387">Genshin Impact доступен для загрузки на PlayStation 5!</a>]]></content:encoded>
-      <guid isPermaLink="false">12387</guid>
-      <pubDate>Wed, 28 Apr 2021 06:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 04:11:19 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact доступен для загрузки на PlayStation 5!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12390</link>
@@ -827,6 +811,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114179104.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15233">[Записи об Инадзуме] Ватацуми и Сэйрай</a>]]></content:encoded>
       <guid isPermaLink="false">15233</guid>
       <pubDate>Thu, 26 Aug 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15239</link>
+      <description>«Кошмар» Сёгун Райдэн - Истории персонажей</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519472938251.jpg"><br/><br/>«Кошмар» Сёгун Райдэн - Истории персонажей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15239">«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15239</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15283</link>
+      <description>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610095583432.jpg"><br/><br/>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15283">«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</a>]]></content:encoded>
+      <guid isPermaLink="false">15283</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

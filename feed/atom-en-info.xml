@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-08-26T03:08:50.447780+00:00</updated>
+  <updated>2021-08-26T04:10:29.655453+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12226</id>
-    <title>Pre-Installation Function Coming Soon</title>
-    <updated>2021-04-23T11:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210423/2021042300412520258.png"><br/><br/>To bring Travelers a better gaming experience, the developers will soon make a pre-installation function available on PC and mobile platforms.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12226">Pre-Installation Function Coming Soon</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12226" rel="alternate"/>
-    <summary>To bring Travelers a better gaming experience, the developers will soon make a pre-installation function available on PC and mobile platforms.</summary>
-    <published>2021-04-23T11:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12241</id>
-    <title>Beneath the Light of Jadeite" Version 1.5 Update Notice</title>
-    <updated>2021-04-25T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210424/2021042423323221434.png"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12241">Beneath the Light of Jadeite" Version 1.5 Update Notice</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12241" rel="alternate"/>
-    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance.</summary>
-    <published>2021-04-25T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>12265</id>
     <title>Event Wish "Gentry of Hermitage" - Boosted Drop Rate for Zhongli!</title>
@@ -1002,5 +984,27 @@ The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</summ
     <link href="https://genshin.mihoyo.com/en/news/detail/15228" rel="alternate"/>
     <summary>In Version 2.1, two new islands will be introduced in Inazuma, Seirai Island and Watatsumi Island. They both have different customs, let's go and discover these mysterious places together!</summary>
     <published>2021-08-26T10:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15237</id>
+    <title>Character Teaser - "Raiden Shogun: Nightmare" | Genshin Impact</title>
+    <updated>2021-08-26T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519470634683.jpg"><br/><br/>Only the shadow of the days of yore and empty dreams remain. Meanwhile, the hearts of mortals weigh heavy with eternal loneliness.
+Such was the lingering image left in the "Plane of Euthymia" on the day of the Vision Hunt Ceremony.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15237">Character Teaser - "Raiden Shogun: Nightmare" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15237" rel="alternate"/>
+    <summary>Only the shadow of the days of yore and empty dreams remain. Meanwhile, the hearts of mortals weigh heavy with eternal loneliness.
+Such was the lingering image left in the "Plane of Euthymia" on the day of the Vision Hunt Ceremony.</summary>
+    <published>2021-08-26T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15289</id>
+    <title>"The world remains constant over the centuries. But human life is like the dew at dawn or a bubble rising through water."</title>
+    <updated>2021-08-26T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610521897363.jpg"><br/><br/>Hello, Travelers! Today, we will be introducing a new character, the Raiden Shogun.
+<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15289">"The world remains constant over the centuries. But human life is like the dew at dawn or a bubble rising through water."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15289" rel="alternate"/>
+    <summary>Hello, Travelers! Today, we will be introducing a new character, the Raiden Shogun.
+</summary>
+    <published>2021-08-26T12:00:00-04:00</published>
   </entry>
 </feed>

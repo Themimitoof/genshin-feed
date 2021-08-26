@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 26 Aug 2021 03:09:06 +0000</lastBuildDate>
-    <item>
-      <title>Avance de la versión 1.5 de Genshin Impact: A la luz de la jadeíta</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/11915</link>
-      <description>La luz radiante de la luna atravesaba las ramas, el rugido del dragón resonaba en el cielo claro. 
-Los rayos de sol aparecieron inesperadamente, mas su corazón de piedra permaneció inalterado.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041617175285357.jpg"><br/><br/>La luz radiante de la luna atravesaba las ramas, el rugido del dragón resonaba en el cielo claro. 
-Los rayos de sol aparecieron inesperadamente, mas su corazón de piedra permaneció inalterado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11915">Avance de la versión 1.5 de Genshin Impact: A la luz de la jadeíta</a>]]></content:encoded>
-      <guid isPermaLink="false">11915</guid>
-      <pubDate>Fri, 16 Apr 2021 20:50:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Charla con los desarrolladores (16 abr.)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/11945</link>
-      <description>¡Llega la función para marcar correos!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041619462048528.png"><br/><br/>¡Llega la función para marcar correos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11945">Charla con los desarrolladores (16 abr.)</a>]]></content:encoded>
-      <guid isPermaLink="false">11945</guid>
-      <pubDate>Fri, 16 Apr 2021 21:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Aug 2021 04:10:45 +0000</lastBuildDate>
     <item>
       <title>Charla con los desarrolladores (17 abr.) - ¡Todo lo que necesitas saber sobre la Relajatetera!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/11958</link>
@@ -804,6 +786,22 @@ Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mit
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518002913704.jpg"><br/><br/>En la versión 2.1, se desbloquearán dos nuevas islas en Inazuma, la Isla Seirai y la Isla Watatsumi. Ambas tienen costumbres diferentes, ¡descubramos juntos estos lugares misteriosos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15231">Diario de Inazuma: Isla Watatsumi e Isla Seirai</a>]]></content:encoded>
       <guid isPermaLink="false">15231</guid>
       <pubDate>Thu, 26 Aug 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15280</link>
+      <description>Ya solo permanece la sombra de los días de antaño y sueños vacíos. Mientras, los corazones de los mortales se suman en la eterna soledad.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082522352857621.jpg"><br/><br/>Ya solo permanece la sombra de los días de antaño y sueños vacíos. Mientras, los corazones de los mortales se suman en la eterna soledad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15280">Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</a>]]></content:encoded>
+      <guid isPermaLink="false">15280</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15285</link>
+      <description>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610164747799.jpg"><br/><br/>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15285">"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</a>]]></content:encoded>
+      <guid isPermaLink="false">15285</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-08-26T03:09:11.063393+00:00</updated>
+  <updated>2021-08-26T04:10:49.222841+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12280</id>
-    <title>Event Permohonan "Epitome Invocation": Persentase perolehan Summit Shaper (Sword) dan Memory of Dust (Catalyst) meningkat!</title>
-    <updated>2021-04-26T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520345719047.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12280">Event Permohonan "Epitome Invocation": Persentase perolehan Summit Shaper (Sword) dan Memory of Dust (Catalyst) meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12280" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-04-26T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12283</id>
-    <title>Preview I - Event Baru v1.5</title>
-    <updated>2021-04-26T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520371059583.png"><br/><br/>Event-event baru v1.5 akan segera hadir, apakah para Traveler sudah siap!? Event-event tersebut sudah dirangkum di bawah, silakan lihat gambar untuk mempelajarinya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12283">Preview I - Event Baru v1.5</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12283" rel="alternate"/>
-    <summary>Event-event baru v1.5 akan segera hadir, apakah para Traveler sudah siap!? Event-event tersebut sudah dirangkum di bawah, silakan lihat gambar untuk mempelajarinya~</summary>
-    <published>2021-04-26T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>12347</id>
     <title>Mini Album: Perjalanan Sang Batu di Dunia | Genshin Impact</title>
@@ -908,5 +890,23 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15234" rel="alternate"/>
     <summary>Dalam v2.1, ada dua kepulauan baru yang akan terbuka di Inazuma — Seirai Island dan Watatsumi Island. Dua pulau ini memiliki budaya dan kebiasaan yang sangat berbeda. Yuk kita kenali dua pulau misterius ini terlebih dulu!</summary>
     <published>2021-08-26T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15246</id>
+    <title>Kisah Karakter: "Raiden Shogun — Mimpi Buruk" | Genshin Impact</title>
+    <updated>2021-08-26T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519515620103.jpg"><br/><br/>Bayangan masa lalu, menyimpan mimpi yang tak berarti. Hati manusia, terhimpit dalam kesendirian nan abadi.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15246">Kisah Karakter: "Raiden Shogun — Mimpi Buruk" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15246" rel="alternate"/>
+    <summary>Bayangan masa lalu, menyimpan mimpi yang tak berarti. Hati manusia, terhimpit dalam kesendirian nan abadi.</summary>
+    <published>2021-08-26T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15284</id>
+    <title>"Dunia tetap sama selama ratusan tahun, namun hidup manusia bagaikan embun pagi atau gelembung air."</title>
+    <updated>2021-08-26T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610130660449.jpg"><br/><br/>Dear Traveler, Karakter baru yang hari ini akan diperkenalkan kepada kalian adalah Raiden Shogun.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15284">"Dunia tetap sama selama ratusan tahun, namun hidup manusia bagaikan embun pagi atau gelembung air."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15284" rel="alternate"/>
+    <summary>Dear Traveler, Karakter baru yang hari ini akan diperkenalkan kepada kalian adalah Raiden Shogun.</summary>
+    <published>2021-08-26T12:00:00+07:00</published>
   </entry>
 </feed>

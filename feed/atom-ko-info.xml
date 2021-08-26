@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-08-26T03:09:21.349523+00:00</updated>
+  <updated>2021-08-26T04:10:57.883982+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12298</id>
-    <title>1.5 버전 신규 이벤트 알아보기</title>
-    <updated>2021-04-26T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210426/2021042610573570127.png"><br/><br/>1.5 버전의 신규 이벤트가 오픈됩니다! 준비되셨나요? 곧 만나게 될 이벤트를 아래의 그림으로 알아보세요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12298">1.5 버전 신규 이벤트 알아보기</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12298" rel="alternate"/>
-    <summary>1.5 버전의 신규 이벤트가 오픈됩니다! 준비되셨나요? 곧 만나게 될 이벤트를 아래의 그림으로 알아보세요~</summary>
-    <published>2021-04-26T12:10:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12331</id>
-    <title>&lt;원신&gt; EP - 바위 신의 세상 여행</title>
-    <updated>2021-04-27T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711150284750.jpg"><br/><br/>아침노을이 푸른 물결을 비추고, 아침 이슬을 머금는다....<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12331"><원신> EP - 바위 신의 세상 여행</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12331" rel="alternate"/>
-    <summary>아침노을이 푸른 물결을 비추고, 아침 이슬을 머금는다....</summary>
-    <published>2021-04-27T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>12420</id>
     <title>&lt;원신&gt; PlayStation5 플랫폼 - 정식 다운로드 오픈!</title>
@@ -969,5 +951,25 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/15275" rel="alternate"/>
     <summary>2.1 버전에서 이나즈마 지역 신규 섬 - 「와타츠미섬」과 「세이라이섬」 오픈. 이 두 섬은 전혀 다른 문화와 풍습을 가지고 있어. 우리 이 신비한 두 섬에 대해 살펴보자!</summary>
     <published>2021-08-26T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15298</id>
+    <title>「속세의 풍경은 항상 그대로인데, 인간의 일생은 이슬처럼 덧없구나」 - 라이덴 쇼군</title>
+    <updated>2021-08-26T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611295184187.jpg"><br/><br/>오늘 소개할 캐릭터는 라이덴 쇼군이야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15298">「속세의 풍경은 항상 그대로인데, 인간의 일생은 이슬처럼 덧없구나」 - 라이덴 쇼군</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15298" rel="alternate"/>
+    <summary>오늘 소개할 캐릭터는 라이덴 쇼군이야</summary>
+    <published>2021-08-26T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15276</id>
+    <title>&lt;원신&gt; 라이덴 쇼군 캐릭터 PV - 「악몽」</title>
+    <updated>2021-08-26T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082521380441587.jpg"><br/><br/>지난날의 그림자엔 덧없는 꿈만이 남아 있도다. 천하인의 마음은 영원한 적막에 빠져있네
+이것은 수안 의식 당일, 「일심정토」에 남아있던 잔상이다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15276"><원신> 라이덴 쇼군 캐릭터 PV - 「악몽」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15276" rel="alternate"/>
+    <summary>지난날의 그림자엔 덧없는 꿈만이 남아 있도다. 천하인의 마음은 영원한 적막에 빠져있네
+이것은 수안 의식 당일, 「일심정토」에 남아있던 잔상이다</summary>
+    <published>2021-08-26T12:01:00+09:00</published>
   </entry>
 </feed>
