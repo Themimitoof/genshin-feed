@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-08-26T05:07:47.030961+00:00</updated>
+  <updated>2021-08-26T06:10:15.976035+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -1170,8 +1170,9 @@ L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin
     <id>15291</id>
     <title>« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</title>
     <updated>2021-08-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611115184840.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15291">« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611115184840.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15291">« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15291" rel="alternate"/>
+    <summary/>
     <published>2021-08-26T12:00:00+02:00</published>
   </entry>
   <entry>
@@ -2117,8 +2118,9 @@ L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin
     <id>15291</id>
     <title>« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</title>
     <updated>2021-08-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611115184840.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15291">« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611115184840.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15291">« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15291" rel="alternate"/>
+    <summary/>
     <published>2021-08-26T12:00:00+02:00</published>
   </entry>
 </feed>
