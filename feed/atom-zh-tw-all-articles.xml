@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-08-26T11:07:22.239389+00:00</updated>
+  <updated>2021-08-26T12:13:47.306588+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -226,15 +226,6 @@
     <published>2021-02-01T10:00:00+08:00</published>
   </entry>
   <entry>
-    <id>12274</id>
-    <title>1.5版本更新快報</title>
-    <updated>2021-04-26T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520221241047.png"><br/><br/>1.5版本全新活動來襲，旅行者們準備好了嗎！近期和即將開放的活動總結如下，請跟隨下方長圖了解吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12274">1.5版本更新快報</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12274" rel="alternate"/>
-    <summary>1.5版本全新活動來襲，旅行者們準備好了嗎！近期和即將開放的活動總結如下，請跟隨下方長圖了解吧~</summary>
-    <published>2021-04-26T12:10:00+08:00</published>
-  </entry>
-  <entry>
     <id>12341</id>
     <title>《原神》EP - 神岩閱世之行</title>
     <updated>2021-04-27T12:00:00+08:00</updated>
@@ -1086,6 +1077,15 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15273" rel="alternate"/>
     <summary>《原神》攜手指揮家Dirk Brossé及Flanders Symphony Orchestra樂團，即將帶來一段美妙的音樂之旅，與旅行者共同重溫那些在提瓦特大陸中迴盪的動人旋律。</summary>
     <published>2021-08-26T04:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15226</id>
+    <title>【稻妻手帳】海祇島與清籟島篇</title>
+    <updated>2021-08-26T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517513659286.jpg"><br/><br/>在2.1版本中，稻妻區域將開啟全新島嶼——「清籟島」和「海祇島」，這兩座島嶼有著截然不同的風土人情，讓我們一起來先行瞭解一下這兩座神秘的島嶼吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15226">【稻妻手帳】海祇島與清籟島篇</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15226" rel="alternate"/>
+    <summary>在2.1版本中，稻妻區域將開啟全新島嶼——「清籟島」和「海祇島」，這兩座島嶼有著截然不同的風土人情，讓我們一起來先行瞭解一下這兩座神秘的島嶼吧！</summary>
+    <published>2021-08-26T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>15260</id>
@@ -1106,15 +1106,6 @@
     <published>2021-08-26T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>12274</id>
-    <title>1.5版本更新快報</title>
-    <updated>2021-04-26T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042520221241047.png"><br/><br/>1.5版本全新活動來襲，旅行者們準備好了嗎！近期和即將開放的活動總結如下，請跟隨下方長圖了解吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12274">1.5版本更新快報</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12274" rel="alternate"/>
-    <summary>1.5版本全新活動來襲，旅行者們準備好了嗎！近期和即將開放的活動總結如下，請跟隨下方長圖了解吧~</summary>
-    <published>2021-04-26T12:10:00+08:00</published>
-  </entry>
-  <entry>
     <id>12341</id>
     <title>《原神》EP - 神岩閱世之行</title>
     <updated>2021-04-27T12:00:00+08:00</updated>
@@ -1966,6 +1957,15 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15273" rel="alternate"/>
     <summary>《原神》攜手指揮家Dirk Brossé及Flanders Symphony Orchestra樂團，即將帶來一段美妙的音樂之旅，與旅行者共同重溫那些在提瓦特大陸中迴盪的動人旋律。</summary>
     <published>2021-08-26T04:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15226</id>
+    <title>【稻妻手帳】海祇島與清籟島篇</title>
+    <updated>2021-08-26T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517513659286.jpg"><br/><br/>在2.1版本中，稻妻區域將開啟全新島嶼——「清籟島」和「海祇島」，這兩座島嶼有著截然不同的風土人情，讓我們一起來先行瞭解一下這兩座神秘的島嶼吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15226">【稻妻手帳】海祇島與清籟島篇</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15226" rel="alternate"/>
+    <summary>在2.1版本中，稻妻區域將開啟全新島嶼——「清籟島」和「海祇島」，這兩座島嶼有著截然不同的風土人情，讓我們一起來先行瞭解一下這兩座神秘的島嶼吧！</summary>
+    <published>2021-08-26T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>15260</id>
