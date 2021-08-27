@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-08-27T03:09:03.397687+00:00</updated>
+  <updated>2021-08-27T05:07:41.985251+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12347</id>
-    <title>Mini Album: Perjalanan Sang Batu di Dunia | Genshin Impact</title>
-    <updated>2021-04-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711464253508.jpg"><br/><br/>Pantulan fajar di air jernih, laksana fajar yang menyapa embun pagi.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12347">Mini Album: Perjalanan Sang Batu di Dunia | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12347" rel="alternate"/>
-    <summary>Pantulan fajar di air jernih, laksana fajar yang menyapa embun pagi.</summary>
-    <published>2021-04-27T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12405</id>
-    <title>Genshin Impact Versi PlayStation®5 Kini Hadir — Unduh Sekarang Juga!</title>
-    <updated>2021-04-28T06:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720544628053.png"><br/><br/>Sebagai tambahan, berdasarkan masukan kalian akhir-akhir ini, Paimon sudah menyiapkan sesi tanya jawab khusus untuk mencerahkan beberapa hal yang sering Traveler tanya loh...<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12405">Genshin Impact Versi PlayStation®5 Kini Hadir — Unduh Sekarang Juga!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12405" rel="alternate"/>
-    <summary>Sebagai tambahan, berdasarkan masukan kalian akhir-akhir ini, Paimon sudah menyiapkan sesi tanya jawab khusus untuk mencerahkan beberapa hal yang sering Traveler tanya loh...</summary>
-    <published>2021-04-28T06:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12407</id>
-    <title>Genshin Impact Versi PlayStation®5 Kini Hadir — Unduh Sekarang Juga!</title>
-    <updated>2021-04-28T06:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042721055375539.png"><br/><br/>Dear Traveler, Genshin Impact versi PlayStation®5 sekarang sudah tersedia untuk diunduh!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12407">Genshin Impact Versi PlayStation®5 Kini Hadir — Unduh Sekarang Juga!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12407" rel="alternate"/>
-    <summary>Dear Traveler, Genshin Impact versi PlayStation®5 sekarang sudah tersedia untuk diunduh!</summary>
-    <published>2021-04-28T06:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12391</id>
     <title>Rincian Update v1.5 "Kilau Giok di Lautan Debu"</title>
@@ -908,5 +881,32 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15284" rel="alternate"/>
     <summary>Dear Traveler, Karakter baru yang hari ini akan diperkenalkan kepada kalian adalah Raiden Shogun.</summary>
     <published>2021-08-26T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15339</id>
+    <title>Fitur Pra-Unduh Akan Segera Dibuka</title>
+    <updated>2021-08-27T11:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711355075381.jpg"><br/><br/>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15339">Fitur Pra-Unduh Akan Segera Dibuka</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15339" rel="alternate"/>
+    <summary>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.</summary>
+    <published>2021-08-27T11:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15297</id>
+    <title>"Busurku ... dipakai untuk menolong orang-orang yang butuh bantuan."</title>
+    <updated>2021-08-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611274694477.jpg"><br/><br/>Hari ini, ayo Paimon kenalkan seorang gadis dari dunia lain — Aloy!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15297">"Busurku ... dipakai untuk menolong orang-orang yang butuh bantuan."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15297" rel="alternate"/>
+    <summary>Hari ini, ayo Paimon kenalkan seorang gadis dari dunia lain — Aloy!</summary>
+    <published>2021-08-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15318</id>
+    <title>Demo Karakter - "Aloy: Sang Pemburu Asing" | Genshin Impact </title>
+    <updated>2021-08-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619170284754.jpg"><br/><br/>Seorang pemburu yang hebat, selalu mencari sebuah tempat berburu yang baru dan menakjubkan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15318">Demo Karakter - "Aloy: Sang Pemburu Asing" | Genshin Impact </a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15318" rel="alternate"/>
+    <summary>Seorang pemburu yang hebat, selalu mencari sebuah tempat berburu yang baru dan menakjubkan.</summary>
+    <published>2021-08-27T12:00:00+07:00</published>
   </entry>
 </feed>
