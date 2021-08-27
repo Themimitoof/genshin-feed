@@ -9,6 +9,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="description" content="{{ .Site.Params.seo.description }}" />
 
+<!-- Opengraph and Twitter cards-->
+{{- if .IsHome -}}
+<meta property="og:title" content="{{ .Site.Title }}: {{ site.Params.seo.homeAppendTitle }}" />
+{{- else -}}
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
+{{- end -}}
+<meta property="og:site_name" content="Genshin Feed" />
+<meta property="og:description" content="{{ .Site.Params.seo.description }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ .Site.Params.BaseUrl }}" />
+<meta property="og:image" content="{{ .Site.Params.BaseUrl }}/img/og-genshin-feed.jpg" />
+<meta name="twitter:card" content="summary"></meta>
+<meta name="twitter:creator" content="@themimitoof">
+
 <!-- Favicon -->
 <link rel="shortcut icon" href="{{ .Site.Params.BaseUrl }}/favicon.png" type="image/png" />
 
