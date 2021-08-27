@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-08-27T03:09:01.777524+00:00</updated>
+  <updated>2021-08-27T04:10:50.501105+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>11958</id>
-    <title>Charla con los desarrolladores (17 abr.) - ¡Todo lo que necesitas saber sobre la Relajatetera!</title>
-    <updated>2021-04-17T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210417/2021041700493553694.png"><br/><br/>Tras la transmisión del programa especial del avance de la versión 1.5, recibimos preguntas y comentarios de los viajeros sobre el sistema "Relajatetera". Paimon entrevistó al equipo de desarrollo sobre este tema, y aquí está para responder a las preguntas de los viajeros~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/11958">Charla con los desarrolladores (17 abr.) - ¡Todo lo que necesitas saber sobre la Relajatetera!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/11958" rel="alternate"/>
-    <summary>Tras la transmisión del programa especial del avance de la versión 1.5, recibimos preguntas y comentarios de los viajeros sobre el sistema "Relajatetera". Paimon entrevistó al equipo de desarrollo sobre este tema, y aquí está para responder a las preguntas de los viajeros~</summary>
-    <published>2021-04-17T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12088</id>
-    <title>Nuevo sistema de la versión 1.5 «A la luz de la jadeíta»</title>
-    <updated>2021-04-21T10:50:42+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042110463118180.png"><br/><br/>Los viajeros deben de sentir mucha curiosidad por el nuevo sistema de la versión 1.5. Hoy les presentaremos el nuevo sistema de la «Relajatetera», que tendrá su comienzo en esta nueva versión.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12088">Nuevo sistema de la versión 1.5 «A la luz de la jadeíta»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12088" rel="alternate"/>
-    <summary>Los viajeros deben de sentir mucha curiosidad por el nuevo sistema de la versión 1.5. Hoy les presentaremos el nuevo sistema de la «Relajatetera», que tendrá su comienzo en esta nueva versión.</summary>
-    <published>2021-04-21T10:50:42+02:00</published>
-  </entry>
-  <entry>
-    <id>12084</id>
-    <title>[Evento web disponible] «La fábrica de Hilisueños» estará disponible por tiempo limitado. ¡Fabrica decoraciones y obtén recompensas!</title>
-    <updated>2021-04-21T13:15:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042110272141889.png"><br/><br/>Debido a una casualidad del destino, llegaste a este mundo interior. Lo que nunca habrías imaginado es que aquí te encontrarías a...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12084">[Evento web disponible] «La fábrica de Hilisueños» estará disponible por tiempo limitado. ¡Fabrica decoraciones y obtén recompensas!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12084" rel="alternate"/>
-    <summary>Debido a una casualidad del destino, llegaste a este mundo interior. Lo que nunca habrías imaginado es que aquí te encontrarías a...</summary>
-    <published>2021-04-21T13:15:00+02:00</published>
-  </entry>
   <entry>
     <id>12138</id>
     <title>Disponible para PlayStation®5 el 28 de abril | Genshin Impact</title>
@@ -909,5 +882,32 @@ Yanfei, la maestra de la ley y la mejor asesora legal de Liyue, es una joven mit
     <link href="https://genshin.mihoyo.com/es/news/detail/15285" rel="alternate"/>
     <summary>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.</summary>
     <published>2021-08-26T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15330</id>
+    <title>Función de predescarga</title>
+    <updated>2021-08-27T11:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082710583659385.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15330">Función de predescarga</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15330" rel="alternate"/>
+    <summary>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</summary>
+    <published>2021-08-27T11:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15292</id>
+    <title>"Mi arco y mis flechas están al servicio de los demás"</title>
+    <updated>2021-08-27T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611150941706.jpg"><br/><br/>¡Hola a todos!Hoy vamos a presentarles a una joven que viene de otro mundo, Aloy. ¡Echémosle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15292">"Mi arco y mis flechas están al servicio de los demás"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15292" rel="alternate"/>
+    <summary>¡Hola a todos!Hoy vamos a presentarles a una joven que viene de otro mundo, Aloy. ¡Echémosle un vistazo!</summary>
+    <published>2021-08-27T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15315</id>
+    <title>Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</title>
+    <updated>2021-08-27T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
+    <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
+    <published>2021-08-27T12:00:00+02:00</published>
   </entry>
 </feed>

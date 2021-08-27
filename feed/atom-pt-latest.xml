@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-08-27T03:09:06.836010+00:00</updated>
+  <updated>2021-08-27T04:11:41.208677+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>12343</id>
-    <title>EP de Genshin Impact - Jornada no Mundo Mortal do Arconte Geo</title>
-    <updated>2021-04-27T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711381799007.jpg"><br/><br/>Sob os raios do pôr do sol, bebendo o orvalho matinal.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12343">EP de Genshin Impact - Jornada no Mundo Mortal do Arconte Geo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12343" rel="alternate"/>
-    <summary>Sob os raios do pôr do sol, bebendo o orvalho matinal.</summary>
-    <published>2021-04-27T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12404</id>
-    <title>Genshin Impact chegou oficialmente ao PlayStation®5 - Agora está oficialmente aberto o seu download!</title>
-    <updated>2021-04-28T06:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720511635178.png"><br/><br/>Recentemente, de acordo com os feedbacks de todos, Paimon preparou especialmente uma seção de perguntas e respostas para responder às perguntas que os Viajantes têm demonstrado mais interesse...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12404">Genshin Impact chegou oficialmente ao PlayStation®5 - Agora está oficialmente aberto o seu download!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12404" rel="alternate"/>
-    <summary>Recentemente, de acordo com os feedbacks de todos, Paimon preparou especialmente uma seção de perguntas e respostas para responder às perguntas que os Viajantes têm demonstrado mais interesse...</summary>
-    <published>2021-04-28T06:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12406</id>
-    <title>Genshin Impact chegou oficialmente ao PlayStation®5 - Agora está oficialmente aberto o seu download!</title>
-    <updated>2021-04-28T06:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042721033111093.png"><br/><br/>Caros Viajantes, a Versão de Genshin Impact para o PlayStation®5 está disponível para ser baixada!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12406">Genshin Impact chegou oficialmente ao PlayStation®5 - Agora está oficialmente aberto o seu download!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12406" rel="alternate"/>
-    <summary>Caros Viajantes, a Versão de Genshin Impact para o PlayStation®5 está disponível para ser baixada!</summary>
-    <published>2021-04-28T06:00:00+01:00</published>
-  </entry>
   <entry>
     <id>12388</id>
     <title>Descrição da Atualização da Versão 1.5 "Sob a Luz de Jadeíta"</title>
@@ -912,5 +885,32 @@ Mal sabem eles que aquela figura radiante como os fogos de artifício de uma noi
     <link href="https://genshin.mihoyo.com/pt/news/detail/15282" rel="alternate"/>
     <summary>Olá, Viajantes! Hoje apresentaremos a nova personagem, Shogun Raiden. Vossa Excelência, a Narukami Ogosho Toda-Poderosa que prometeu ao povo de Inazuma uma Eternidade imutável.</summary>
     <published>2021-08-26T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15334</id>
+    <title>O pré-download estará dispnível em breve</title>
+    <updated>2021-08-27T11:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711100895656.jpg"><br/><br/>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15334">O pré-download estará dispnível em breve</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15334" rel="alternate"/>
+    <summary>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.</summary>
+    <published>2021-08-27T11:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15293</id>
+    <title>"O meu arco e a minha flecha, são usados apenas para ajudar os outros."</title>
+    <updated>2021-08-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611151320862.jpg"><br/><br/>Olá, caros Viajantes! Hoje estaremos apresentando para vocês uma jovem vinda de um outro mundo, a Aloy. Venham conferir conosco!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15293">"O meu arco e a minha flecha, são usados apenas para ajudar os outros."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15293" rel="alternate"/>
+    <summary>Olá, caros Viajantes! Hoje estaremos apresentando para vocês uma jovem vinda de um outro mundo, a Aloy. Venham conferir conosco!</summary>
+    <published>2021-08-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15313</id>
+    <title>Demo da Nova Personagem de Genshin Impact - "Aloy: A Estranha Caçadora"</title>
+    <updated>2021-08-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618501943244.jpg"><br/><br/>Um bom caçador estará sempre em busca de novos campos de caça, na procura de aventuras desconhecidas e muita adrenalina.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15313">Demo da Nova Personagem de Genshin Impact - "Aloy: A Estranha Caçadora"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15313" rel="alternate"/>
+    <summary>Um bom caçador estará sempre em busca de novos campos de caça, na procura de aventuras desconhecidas e muita adrenalina.</summary>
+    <published>2021-08-27T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - updates</title>
-  <updated>2021-08-27T03:09:02.382740+00:00</updated>
+  <updated>2021-08-27T04:10:53.107751+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -133,5 +133,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/7545" rel="alternate"/>
     <summary>Todo iba bien hasta que sucedió algo inesperado... ¡Adéntrate en Espinadragón para continuar tu aventura!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15315</id>
+    <title>Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</title>
+    <updated>2021-08-27T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
+    <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
+    <published>2021-08-27T12:00:00+02:00</published>
   </entry>
 </feed>

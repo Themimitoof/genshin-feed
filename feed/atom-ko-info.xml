@@ -2,39 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-08-27T03:09:06.013205+00:00</updated>
+  <updated>2021-08-27T04:11:38.667120+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12420</id>
-    <title>&lt;원신&gt; PlayStation5 플랫폼 - 정식 다운로드 오픈!</title>
-    <updated>2021-04-28T06:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042804571054401.png"><br/><br/>최근 여행자들의 피드백을 통해서 페이몬이 여행자들이 궁금해하는 문제를 답해주는 코너를 준비했어~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12420"><원신> PlayStation5 플랫폼 - 정식 다운로드 오픈!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12420" rel="alternate"/>
-    <summary>최근 여행자들의 피드백을 통해서 페이몬이 여행자들이 궁금해하는 문제를 답해주는 코너를 준비했어~!</summary>
-    <published>2021-04-28T06:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12426</id>
-    <title>&lt;원신&gt; PlayStation5 플랫폼 - 정식 다운로드 오픈!</title>
-    <updated>2021-04-28T06:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806251937594.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12426"><원신> PlayStation5 플랫폼 - 정식 다운로드 오픈!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12426" rel="alternate"/>
-    <published>2021-04-28T06:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12424</id>
-    <title>「옥빛 아래 속세의 노래」 1.5 버전 업데이트 상세안내</title>
-    <updated>2021-04-28T07:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806125635414.png"><br/><br/>1.5버전 - 「옥빛 아래 속세의 노래」 업데이트 및 보상 내용<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12424">「옥빛 아래 속세의 노래」 1.5 버전 업데이트 상세안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12424" rel="alternate"/>
-    <summary>1.5버전 - 「옥빛 아래 속세의 노래」 업데이트 및 보상 내용</summary>
-    <published>2021-04-28T07:00:00+09:00</published>
-  </entry>
   <entry>
     <id>12442</id>
     <title>「다시 별을 향해」웹이벤트 오픈, 복귀 모험가를 초대하고 원석, 굿즈 보상 획득!</title>
@@ -971,5 +945,34 @@
     <summary>지난날의 그림자엔 덧없는 꿈만이 남아 있도다. 천하인의 마음은 영원한 적막에 빠져있네
 이것은 수안 의식 당일, 「일심정토」에 남아있던 잔상이다</summary>
     <published>2021-08-26T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15338</id>
+    <title>2.1 업데이트 버전 사전 다운로드 기능 오픈 예정</title>
+    <updated>2021-08-27T11:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711215921185.jpg"><br/><br/>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15338">2.1 업데이트 버전 사전 다운로드 기능 오픈 예정</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15338" rel="alternate"/>
+    <summary>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다.</summary>
+    <published>2021-08-27T11:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15305</id>
+    <title>「내 활은 누군가를 돕기 위해서만 사용해」 - 에일로이</title>
+    <updated>2021-08-27T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082617270978263.jpg"><br/><br/>오늘 여행자와 함께 이세계에서 온 소녀 - 에일로이에 대해서 확인해 보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15305">「내 활은 누군가를 돕기 위해서만 사용해」 - 에일로이</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15305" rel="alternate"/>
+    <summary>오늘 여행자와 함께 이세계에서 온 소녀 - 에일로이에 대해서 확인해 보자~</summary>
+    <published>2021-08-27T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15324</id>
+    <title>&lt;원신&gt; 캐릭터 플레이 - 「에일로이: 신기한 사냥」</title>
+    <updated>2021-08-27T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619280830502.jpg"><br/><br/>훌륭한 사냥꾼은 항상 스릴 있고 신기한 사냥터를 찾아다닌다.
+티바트라는 이 신기한 세계가 바로 에일로이가 마주한 새로운 도전이다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15324"><원신> 캐릭터 플레이 - 「에일로이: 신기한 사냥」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15324" rel="alternate"/>
+    <summary>훌륭한 사냥꾼은 항상 스릴 있고 신기한 사냥터를 찾아다닌다.
+티바트라는 이 신기한 세계가 바로 에일로이가 마주한 새로운 도전이다.</summary>
+    <published>2021-08-27T12:01:00+09:00</published>
   </entry>
 </feed>

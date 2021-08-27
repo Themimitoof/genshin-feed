@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 27 Aug 2021 03:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 04:10:53 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact: ¡Ven a explorar Teyvat con Amber!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/739</link>
@@ -115,6 +115,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122001532097279.png"><br/><br/>Todo iba bien hasta que sucedió algo inesperado... ¡Adéntrate en Espinadragón para continuar tu aventura!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/7545">Vista previa de la versión 1.2 «El Príncipe de la Caliza y el dragón» ya disponible</a>]]></content:encoded>
       <guid isPermaLink="false">7545</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15315</link>
+      <description>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
+      <guid isPermaLink="false">15315</guid>
+      <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

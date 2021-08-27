@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-08-27T03:08:59.286399+00:00</updated>
+  <updated>2021-08-27T04:10:42.736646+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12341</id>
-    <title>《原神》EP - 神岩閱世之行</title>
-    <updated>2021-04-27T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711371270939.jpg"><br/><br/>霞映碧水瓊，飲朝露清釀。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12341">《原神》EP - 神岩閱世之行</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12341" rel="alternate"/>
-    <summary>霞映碧水瓊，飲朝露清釀。</summary>
-    <published>2021-04-27T12:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>12430</id>
-    <title>《原神》正式登陸PlayStation®5平台——現已正式開放下載！</title>
-    <updated>2021-04-28T06:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042807271340591.png"><br/><br/>親愛的旅行者，《原神》PS5原生版本現已正式開放下載！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12430">《原神》正式登陸PlayStation®5平台——現已正式開放下載！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12430" rel="alternate"/>
-    <summary>親愛的旅行者，《原神》PS5原生版本現已正式開放下載！</summary>
-    <published>2021-04-28T06:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>12431</id>
-    <title>《原神》正式登陸PlayStation®5平台——現已正式開放下載！</title>
-    <updated>2021-04-28T06:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042807264331645.png"><br/><br/>派蒙特地準備了一個問答環節來解答旅行者比較關心的疑問<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12431">《原神》正式登陸PlayStation®5平台——現已正式開放下載！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12431" rel="alternate"/>
-    <summary>派蒙特地準備了一個問答環節來解答旅行者比較關心的疑問</summary>
-    <published>2021-04-28T06:00:00+08:00</published>
-  </entry>
   <entry>
     <id>12382</id>
     <title>「玉扉繞塵歌」1.5版本更新說明</title>
@@ -888,5 +861,32 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15287" rel="alternate"/>
     <summary>旅行者們好，今天將為大家介紹的角色是雷電將軍。</summary>
     <published>2021-08-26T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15336</id>
+    <title>預先下載功能即將開放</title>
+    <updated>2021-08-27T11:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711145381337.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期在PC和行動裝置開放預先下載功能。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15336">預先下載功能即將開放</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15336" rel="alternate"/>
+    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期在PC和行動裝置開放預先下載功能。</summary>
+    <published>2021-08-27T11:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15295</id>
+    <title>「我的弓與箭，只為扶助他人而使用。」</title>
+    <updated>2021-08-27T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611243824578.jpg"><br/><br/>旅行者們好呀~今天將為大家介紹一位來自異界的少女——亞蘿伊。一起來看看吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15295">「我的弓與箭，只為扶助他人而使用。」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15295" rel="alternate"/>
+    <summary>旅行者們好呀~今天將為大家介紹一位來自異界的少女——亞蘿伊。一起來看看吧！</summary>
+    <published>2021-08-27T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15317</id>
+    <title>角色展示-「亞蘿伊：奇異狩獵」｜原神</title>
+    <updated>2021-08-27T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619163658569.jpg"><br/><br/>一名優秀的獵人，不斷追尋驚險又新奇的獵場。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15317">角色展示-「亞蘿伊：奇異狩獵」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15317" rel="alternate"/>
+    <summary>一名優秀的獵人，不斷追尋驚險又新奇的獵場。</summary>
+    <published>2021-08-27T12:00:00+08:00</published>
   </entry>
 </feed>
