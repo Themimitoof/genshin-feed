@@ -4,5 +4,8 @@ title = "Genshin Feed"
 disableKinds = ["categories", "tags", "RSS", "sitemap"]
 
 [params.seo]
-homeAppendTitle = "RSS feeds for the official Genshin Impact news"
-description = "Get RSS and Atom feeds for the official news and announcements from the official Genshin Impact website!"
+homeAppendTitle = "Genshin Impact RSS feeds from official Genshin Impact news!"
+description = "Do you want Genshin Impact RSS feeds? Genshin Feed builds every hour RSS and Atom feeds of official Genshin Impact news and announcements!"
+
+[params.analytics]
+umamiEnable = true
