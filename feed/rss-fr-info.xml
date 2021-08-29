@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 29 Aug 2021 03:08:32 +0000</lastBuildDate>
-    <item>
-      <title>Détails de la mise à jour de la version 1.5 « Toute la lueur sur la jadéite »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12383</link>
-      <description>Voici les détails de la mise à jour et de la compensation de la version 1.5 « Toute la lueur sur la jadéite ».</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042719230869258.png"><br/><br/>Voici les détails de la mise à jour et de la compensation de la version 1.5 « Toute la lueur sur la jadéite ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12383">Détails de la mise à jour de la version 1.5 « Toute la lueur sur la jadéite »</a>]]></content:encoded>
-      <guid isPermaLink="false">12383</guid>
-      <pubDate>Wed, 28 Apr 2021 07:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>L'événement web « Retour vers les étoiles » est désormais disponible ! Invitez des aventuriers à revenir et obtenez des primo-gemmes et des produits dérivés en récompense !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12372</link>
-      <description>La Guilde des aventuriers envoie des lettres d'invitation « Retour vers les étoiles » à ses membres, afin que les aventuriers les plus actifs puissent donner un coup de main aux aventuriers revenants et obtenir de nombreuses récompenses.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811400649531.jpg"><br/><br/>La Guilde des aventuriers envoie des lettres d'invitation « Retour vers les étoiles » à ses membres, afin que les aventuriers les plus actifs puissent donner un coup de main aux aventuriers revenants et obtenir de nombreuses récompenses.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12372">L'événement web « Retour vers les étoiles » est désormais disponible ! Invitez des aventuriers à revenir et obtenez des primo-gemmes et des produits dérivés en récompense !</a>]]></content:encoded>
-      <guid isPermaLink="false">12372</guid>
-      <pubDate>Wed, 28 Apr 2021 11:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Aug 2021 04:10:24 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Yanfei : Flamme brillante de la justice</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12435</link>
@@ -850,6 +834,21 @@ Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.
 Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15327">Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</a>]]></content:encoded>
       <guid isPermaLink="false">15327</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15360</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812173625112.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15360">« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</a>]]></description>
+      <guid isPermaLink="false">15360</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title> Genshin Impact - Démo personnage : « Kujou Sara : Ambition de la foudre »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15361</link>
+      <description>Exécuter la volonté de la Shogun toute-puissante et atteindre l'éternité qu'elle souhaite.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812251160117.jpg"><br/><br/>Exécuter la volonté de la Shogun toute-puissante et atteindre l'éternité qu'elle souhaite.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15361"> Genshin Impact - Démo personnage : « Kujou Sara : Ambition de la foudre »</a>]]></content:encoded>
+      <guid isPermaLink="false">15361</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

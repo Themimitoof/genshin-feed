@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 29 Aug 2021 03:08:42 +0000</lastBuildDate>
-    <item>
-      <title>Браузерное событие «Возвращение к звёздам» стартовало! Приглашайте искателей приключений вернуться, чтобы выиграть Камни Истока и материальные призы!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12371</link>
-      <description>Гильдия искателей приключений уже отправила приглашение «Возвращение к звёздам»! Активные искатели приключений, приглашайте Путешественников вернуться и получайте подарки!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042716494285315.jpg"><br/><br/>Гильдия искателей приключений уже отправила приглашение «Возвращение к звёздам»! Активные искатели приключений, приглашайте Путешественников вернуться и получайте подарки!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12371">Браузерное событие «Возвращение к звёздам» стартовало! Приглашайте искателей приключений вернуться, чтобы выиграть Камни Истока и материальные призы!</a>]]></content:encoded>
-      <guid isPermaLink="false">12371</guid>
-      <pubDate>Wed, 28 Apr 2021 11:10:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Янь Фэй: Сияющий огонь правосудия | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12403</link>
-      <description>Янь Фэй опирается на разум и сострадание при выполнении работы консультанта по юридическим вопросам.
-Счастье без нарушения правил является искренним желанием Янь Фэй, в чьих жилах течёт кровь Божественного зверя.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720485470152.jpg"><br/><br/>Янь Фэй опирается на разум и сострадание при выполнении работы консультанта по юридическим вопросам.
-Счастье без нарушения правил является искренним желанием Янь Фэй, в чьих жилах течёт кровь Божественного зверя.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12403">Янь Фэй: Сияющий огонь правосудия | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12403</guid>
-      <pubDate>Wed, 28 Apr 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Aug 2021 04:10:57 +0000</lastBuildDate>
     <item>
       <title>Советы по новой версии 1.5</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12408</link>
@@ -824,6 +806,22 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082617472270133.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15308">«Загадочная охотница» Элой (Крио) - Новый персонаж | Genshin Impact</a>]]></description>
       <guid isPermaLink="false">15308</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Добиться "вечности" для сёгуна - вот моё желание».</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15372</link>
+      <description>Сегодня мы представляем вам генерала комиссии Тэнрё, Кудзё Сару!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082816370817280.jpg"><br/><br/>Сегодня мы представляем вам генерала комиссии Тэнрё, Кудзё Сару!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15372">«Добиться "вечности" для сёгуна - вот моё желание».</a>]]></content:encoded>
+      <guid isPermaLink="false">15372</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15374</link>
+      <description>Исполнение воли Наруками и достижение «вечности» для сёгуна</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817242216614.jpg"><br/><br/>Исполнение воли Наруками и достижение «вечности» для сёгуна<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15374">«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15374</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

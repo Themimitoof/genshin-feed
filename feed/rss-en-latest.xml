@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Aug 2021 03:08:30 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact EP - The Divine Stone Sees the World</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12345</link>
-      <description>A journey of unnumbered years, of nights and days, of bygone times now passed like shadows, of the infinite vicissitudes of life.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711452855065.jpg"><br/><br/>A journey of unnumbered years, of nights and days, of bygone times now passed like shadows, of the infinite vicissitudes of life.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12345">Genshin Impact EP - The Divine Stone Sees the World</a>]]></content:encoded>
-      <guid isPermaLink="false">12345</guid>
-      <pubDate>Tue, 27 Apr 2021 12:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact for PlayStation®5 Is Here - Download Now!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12386</link>
-      <description>Genshin Impact for PlayStation®5 Is Here - Download Now!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720024781429.png"><br/><br/>Genshin Impact for PlayStation®5 Is Here - Download Now!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12386">Genshin Impact for PlayStation®5 Is Here - Download Now!</a>]]></content:encoded>
-      <guid isPermaLink="false">12386</guid>
-      <pubDate>Wed, 28 Apr 2021 06:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Aug 2021 04:10:16 +0000</lastBuildDate>
     <item>
       <title>"Beneath the Light of Jadeite" Version 1.5 Update Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12376</link>
@@ -908,6 +892,22 @@ Braving this strange new world of Teyvat will be Aloy's latest trial.</descripti
 Braving this strange new world of Teyvat will be Aloy's latest trial.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15306">Character Demo - "Aloy: Otherworldly Hunter" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15306</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"To manifest Eternity per the Almighty Shogun's will — that is what I aspire to."</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15349</link>
+      <description>Today we'd like to introduce you a general of the Tenryou Commission — Kujou Sara!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720575424422.jpg"><br/><br/>Today we'd like to introduce you a general of the Tenryou Commission — Kujou Sara!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15349">"To manifest Eternity per the Almighty Shogun's will — that is what I aspire to."</a>]]></content:encoded>
+      <guid isPermaLink="false">15349</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Character Demo - "Kujou Sara: Thunderous Devotion" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15358</link>
+      <description>To ensure that the will of the Shogun will always be done, and to assist the Almighty Shogun in manifesting Eternity.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812094196709.jpg"><br/><br/>To ensure that the will of the Shogun will always be done, and to assist the Almighty Shogun in manifesting Eternity.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15358">Character Demo - "Kujou Sara: Thunderous Devotion" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15358</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

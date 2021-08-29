@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-08-29T03:08:38.363108+00:00</updated>
+  <updated>2021-08-29T04:10:40.727801+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12391</id>
-    <title>Rincian Update v1.5 "Kilau Giok di Lautan Debu"</title>
-    <updated>2021-04-28T07:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720153083116.png"><br/><br/>Berikut adalah konten dan kompensasi Update v1.5 "Kilau Giok di Lautan Debu".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12391">Rincian Update v1.5 "Kilau Giok di Lautan Debu"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12391" rel="alternate"/>
-    <summary>Berikut adalah konten dan kompensasi Update v1.5 "Kilau Giok di Lautan Debu".</summary>
-    <published>2021-04-28T07:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12379</id>
-    <title>Event Web "Raih Kembali Bintang" Dimulai, Undang Petualang dan Menangkan Primogem Serta Hadiah Lainnya!</title>
-    <updated>2021-04-28T11:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042719131485611.jpg"><br/><br/>Undangan "Raih Kembali Bintang" telah dikirim oleh Adventurers' Guild! Mereka memanggil Petualang Aktif dan Petualang yang Kembali untuk pergi menjelajah dan memenangkan hadiah yang berlimpah.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12379">Event Web "Raih Kembali Bintang" Dimulai, Undang Petualang dan Menangkan Primogem Serta Hadiah Lainnya!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12379" rel="alternate"/>
-    <summary>Undangan "Raih Kembali Bintang" telah dikirim oleh Adventurers' Guild! Mereka memanggil Petualang Aktif dan Petualang yang Kembali untuk pergi menjelajah dan memenangkan hadiah yang berlimpah.</summary>
-    <published>2021-04-28T11:10:00+07:00</published>
-  </entry>
   <entry>
     <id>12412</id>
     <title>Aneka Koleksi Genshin Impact — "Yanfei: Api Hukum yang Berkobar"</title>
@@ -908,5 +890,23 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15318" rel="alternate"/>
     <summary>Seorang pemburu yang hebat, selalu mencari sebuah tempat berburu yang baru dan menakjubkan.</summary>
     <published>2021-08-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15350</id>
+    <title>"Harapanku adalah mewujudkan Keabadian yang diimpikan Shogun."</title>
+    <updated>2021-08-29T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721021945314.jpg"><br/><br/>Hari ini, yuk kita kenalan dengan Jenderal Tenryou Commission — Kujou Sara!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15350">"Harapanku adalah mewujudkan Keabadian yang diimpikan Shogun."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15350" rel="alternate"/>
+    <summary>Hari ini, yuk kita kenalan dengan Jenderal Tenryou Commission — Kujou Sara!</summary>
+    <published>2021-08-29T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15403</id>
+    <title>Demo Karakter - "Kujou Sara: Pengabdi Kehendak Petir" | Genshin Impact </title>
+    <updated>2021-08-29T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901584219923.jpg"><br/><br/>Melaksanakan kehendak sang dewa petir, dan membantu Shogun Yang Mahakuasa mewujudkan "keabadian".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15403">Demo Karakter - "Kujou Sara: Pengabdi Kehendak Petir" | Genshin Impact </a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15403" rel="alternate"/>
+    <summary>Melaksanakan kehendak sang dewa petir, dan membantu Shogun Yang Mahakuasa mewujudkan "keabadian".</summary>
+    <published>2021-08-29T12:00:00+07:00</published>
   </entry>
 </feed>

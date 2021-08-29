@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-08-29T03:08:42.192575+00:00</updated>
+  <updated>2021-08-29T04:10:54.057495+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>12388</id>
-    <title>Descrição da Atualização da Versão 1.5 "Sob a Luz de Jadeíta"</title>
-    <updated>2021-04-28T07:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720063334603.png"><br/><br/>Segue abaixo o conteúdo da Atualização e Compensação da Atualização da Versão 1.5 "Sob a Luz de Jadeíta"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12388">Descrição da Atualização da Versão 1.5 "Sob a Luz de Jadeíta"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12388" rel="alternate"/>
-    <summary>Segue abaixo o conteúdo da Atualização e Compensação da Atualização da Versão 1.5 "Sob a Luz de Jadeíta"</summary>
-    <published>2021-04-28T07:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12355</id>
-    <title>O evento web "Reúna Estrelas Novamente" já está disponível. Convide seus aventureiros a retornar ao jogo para obter Gemas Essenciais, produtos de fãs entre outras recompensas.</title>
-    <updated>2021-04-28T11:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042715193872830.jpg"><br/><br/>A Guilda de Aventureiros publicou uma Carta de Convite para "Reúna Estrelas Novamente", convidando Aventureiros animados para se aventurarem juntos com Aventureiros de Retorno, fazendo explorações e obtendo boas recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12355">O evento web "Reúna Estrelas Novamente" já está disponível. Convide seus aventureiros a retornar ao jogo para obter Gemas Essenciais, produtos de fãs entre outras recompensas.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12355" rel="alternate"/>
-    <summary>A Guilda de Aventureiros publicou uma Carta de Convite para "Reúna Estrelas Novamente", convidando Aventureiros animados para se aventurarem juntos com Aventureiros de Retorno, fazendo explorações e obtendo boas recompensas.</summary>
-    <published>2021-04-28T11:10:00+01:00</published>
-  </entry>
   <entry>
     <id>12410</id>
     <title>Coleção Variada de Genshin Impact - "Yanfei: Leis do Clarão"</title>
@@ -912,5 +894,25 @@ Mal sabem eles que aquela figura radiante como os fogos de artifício de uma noi
     <link href="https://genshin.mihoyo.com/pt/news/detail/15313" rel="alternate"/>
     <summary>Um bom caçador estará sempre em busca de novos campos de caça, na procura de aventuras desconhecidas e muita adrenalina.</summary>
     <published>2021-08-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15348</id>
+    <title>"Manifestar a Eternidade pela vontade da Toda-Poderosa Shogun é a minha única aspiração"</title>
+    <updated>2021-08-29T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720562461268.jpg"><br/><br/>Hoje estamos apresentando para vocês a general da Comissão Tenryou, Kujou Sara.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15348">"Manifestar a Eternidade pela vontade da Toda-Poderosa Shogun é a minha única aspiração"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15348" rel="alternate"/>
+    <summary>Hoje estamos apresentando para vocês a general da Comissão Tenryou, Kujou Sara.</summary>
+    <published>2021-08-29T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15387</id>
+    <title>Demo da Nova Personagem de Genshin Impact - "Kujou Sara: A Sede da Tempestade"</title>
+    <updated>2021-08-29T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819364471071.jpg"><br/><br/>Proteger a vontade de Narukami e conquistar a "Eternidade" em nome da Toda-Poderosa Shogun
+são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15387">Demo da Nova Personagem de Genshin Impact - "Kujou Sara: A Sede da Tempestade"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15387" rel="alternate"/>
+    <summary>Proteger a vontade de Narukami e conquistar a "Eternidade" em nome da Toda-Poderosa Shogun
+são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
+    <published>2021-08-29T12:00:00+01:00</published>
   </entry>
 </feed>

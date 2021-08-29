@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 29 Aug 2021 03:08:36 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterung zur Aktualisierung auf Version 1.5 „Im Schein der Jade“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12384</link>
-      <description>Lieber Reisender,
-hier findest du Details zur Aktualisierung auf Version 1.5 „Im Schein der Jade“ sowie zur Entschädigung dafür.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042719343274745.png"><br/><br/>Lieber Reisender,
-hier findest du Details zur Aktualisierung auf Version 1.5 „Im Schein der Jade“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12384">Erläuterung zur Aktualisierung auf Version 1.5 „Im Schein der Jade“</a>]]></content:encoded>
-      <guid isPermaLink="false">12384</guid>
-      <pubDate>Wed, 28 Apr 2021 07:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Die Webaktion „Zurück zu den Sternen“ ist jetzt verfügbar! Lade Abenteurer ein ins Abenteuer zurückzukehren und gewinne Urgestein sowie tolle Fan-Artikel! </title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12358</link>
-      <description>Die Abenteurergilde verschickt die Einladung zu „Zurück zu den Sternen“. Eingeladene aktive Abenteurer können gemeinsam mit wiederkehrenden Abenteurern auf ein gemeinsames Abenteuer gehen und dabei viele tolle Belohnungen einsammeln.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042715263648099.jpg"><br/><br/>Die Abenteurergilde verschickt die Einladung zu „Zurück zu den Sternen“. Eingeladene aktive Abenteurer können gemeinsam mit wiederkehrenden Abenteurern auf ein gemeinsames Abenteuer gehen und dabei viele tolle Belohnungen einsammeln.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12358">Die Webaktion „Zurück zu den Sternen“ ist jetzt verfügbar! Lade Abenteurer ein ins Abenteuer zurückzukehren und gewinne Urgestein sowie tolle Fan-Artikel! </a>]]></content:encoded>
-      <guid isPermaLink="false">12358</guid>
-      <pubDate>Wed, 28 Apr 2021 11:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 29 Aug 2021 04:10:33 +0000</lastBuildDate>
     <item>
       <title>Fähigkeiten bei Genshin Impact – Yanfei: Gesetz und sengende Hitze</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12396</link>
@@ -836,6 +818,22 @@ Heute stellen wir euch ein Mädchen aus einer anderen Welt vor, und zwar Aloy. V
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618372631580.jpg"><br/><br/>Ein erfahrener Jäger ist immer auf der Suche nach neuen und aufregenden Erlebnissen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15311">Figurenvorführung bei Genshin Impact – Aloy: Jägerin aus der Fremde</a>]]></content:encoded>
       <guid isPermaLink="false">15311</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>„Es ist mein ‚Begehren‘, die ‚Ewigkeit‘ für den allmächtigen Shougun zu erreichen.“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15352</link>
+      <description>Heute stellen wir euch die Generalin der Tenryou-Verwaltung vor, Kujou Sara!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721080648503.jpg"><br/><br/>Heute stellen wir euch die Generalin der Tenryou-Verwaltung vor, Kujou Sara!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15352">„Es ist mein ‚Begehren‘, die ‚Ewigkeit‘ für den allmächtigen Shougun zu erreichen.“</a>]]></content:encoded>
+      <guid isPermaLink="false">15352</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Figurenvorführung bei Genshin Impact – Kujou Sara: Donnernder Wille</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15369</link>
+      <description>Den Willen von Narukami zu erfüllen und dem Shougun Raiden zu helfen, die wahre Ewigkeit zu erreichen, ist nicht nur Kujou Saras Pflicht, sondern auch ihr aufrichtiger Wunsch.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082815235871843.jpg"><br/><br/>Den Willen von Narukami zu erfüllen und dem Shougun Raiden zu helfen, die wahre Ewigkeit zu erreichen, ist nicht nur Kujou Saras Pflicht, sondern auch ihr aufrichtiger Wunsch.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15369">Figurenvorführung bei Genshin Impact – Kujou Sara: Donnernder Wille</a>]]></content:encoded>
+      <guid isPermaLink="false">15369</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

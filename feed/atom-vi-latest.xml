@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-08-29T03:08:45.311509+00:00</updated>
+  <updated>2021-08-29T04:11:06.575689+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>12395</id>
-    <title>Genshin Impact đã chính thức có mặt trên nền tảng PlayStation®5 - Đã mở tính năng tải xuống!</title>
-    <updated>2021-04-28T06:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720273484710.png"><br/><br/>Nhà Lữ Hành thân mến, Genshin Impact phiên bản PlayStation®5 đã mở tính năng tải xuống! Giờ đây các bạn đã có thể truy cập trang web chính thức của Genshin Impact, nhấn "Trang chủ" - "PS5 | PS4" tới trang sản phẩm Genshin Impact PlayStation để tìm hiểu thêm và tải xuống, hoặc vào Cửa hàng PlayStation tìm kiếm Genshin Impact để tải xuống.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12395">Genshin Impact đã chính thức có mặt trên nền tảng PlayStation®5 - Đã mở tính năng tải xuống!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12395" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến, Genshin Impact phiên bản PlayStation®5 đã mở tính năng tải xuống! Giờ đây các bạn đã có thể truy cập trang web chính thức của Genshin Impact, nhấn "Trang chủ" - "PS5 | PS4" tới trang sản phẩm Genshin Impact PlayStation để tìm hiểu thêm và tải xuống, hoặc vào Cửa hàng PlayStation tìm kiếm Genshin Impact để tải xuống.</summary>
-    <published>2021-04-28T06:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12385</id>
-    <title>Giới Thiệu Cập Nhật Phiên Bản 1.5 "Cổng Ngọc Bụi Trần"</title>
-    <updated>2021-04-28T07:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042719403481666.png"><br/><br/>Nhà Lữ Hành thân mến:
-Dưới đây là nội dung cập nhật và đền bù của phiên bản 1.5 "Cổng Ngọc Bụi Trần".<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12385">Giới Thiệu Cập Nhật Phiên Bản 1.5 "Cổng Ngọc Bụi Trần"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12385" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến:
-Dưới đây là nội dung cập nhật và đền bù của phiên bản 1.5 "Cổng Ngọc Bụi Trần".</summary>
-    <published>2021-04-28T07:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12360</id>
     <title>Sự kiện web có thưởng "Níu Giữ Ngôi Sao" đã mở, mời Nhà Mạo Hiểm trở về để nhận Nguyên Thạch và quà lưu niệm nhé!</title>
@@ -961,5 +941,21 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/15326" rel="alternate"/>
     <summary>Một thợ săn ưu tú sẽ luôn tìm kiếm những bãi săn mạo hiểm và mới lạ.</summary>
     <published>2021-08-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15380</id>
+    <title>"Thực hiện 'vĩnh hằng' cho Shogun đại nhân chính là nguyện vọng của tôi."</title>
+    <updated>2021-08-29T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817471349374.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15380">"Thực hiện 'vĩnh hằng' cho Shogun đại nhân chính là nguyện vọng của tôi."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15380" rel="alternate"/>
+    <published>2021-08-29T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15400</id>
+    <title>Giới thiệu nhân vật trong Genshin Impact - Kujou Sara: Ý Chí Ánh Chớp</title>
+    <updated>2021-08-29T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082900064638587.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15400">Giới thiệu nhân vật trong Genshin Impact - Kujou Sara: Ý Chí Ánh Chớp</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15400" rel="alternate"/>
+    <published>2021-08-29T12:00:00+07:00</published>
   </entry>
 </feed>

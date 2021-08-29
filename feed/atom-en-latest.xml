@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-08-29T03:08:30.418735+00:00</updated>
+  <updated>2021-08-29T04:10:16.044936+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12345</id>
-    <title>Genshin Impact EP - The Divine Stone Sees the World</title>
-    <updated>2021-04-27T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042711452855065.jpg"><br/><br/>A journey of unnumbered years, of nights and days, of bygone times now passed like shadows, of the infinite vicissitudes of life.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12345">Genshin Impact EP - The Divine Stone Sees the World</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12345" rel="alternate"/>
-    <summary>A journey of unnumbered years, of nights and days, of bygone times now passed like shadows, of the infinite vicissitudes of life.</summary>
-    <published>2021-04-27T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12386</id>
-    <title>Genshin Impact for PlayStation®5 Is Here - Download Now!</title>
-    <updated>2021-04-28T06:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720024781429.png"><br/><br/>Genshin Impact for PlayStation®5 Is Here - Download Now!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12386">Genshin Impact for PlayStation®5 Is Here - Download Now!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12386" rel="alternate"/>
-    <summary>Genshin Impact for PlayStation®5 Is Here - Download Now!</summary>
-    <published>2021-04-28T06:00:00-04:00</published>
-  </entry>
   <entry>
     <id>12376</id>
     <title>"Beneath the Light of Jadeite" Version 1.5 Update Details</title>
@@ -1008,5 +990,23 @@ Braving this strange new world of Teyvat will be Aloy's latest trial.<br><br>Rea
     <summary>A skilled hunter is always on the prowl for new and thrilling experiences.
 Braving this strange new world of Teyvat will be Aloy's latest trial.</summary>
     <published>2021-08-27T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15349</id>
+    <title>"To manifest Eternity per the Almighty Shogun's will — that is what I aspire to."</title>
+    <updated>2021-08-29T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720575424422.jpg"><br/><br/>Today we'd like to introduce you a general of the Tenryou Commission — Kujou Sara!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15349">"To manifest Eternity per the Almighty Shogun's will — that is what I aspire to."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15349" rel="alternate"/>
+    <summary>Today we'd like to introduce you a general of the Tenryou Commission — Kujou Sara!</summary>
+    <published>2021-08-29T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15358</id>
+    <title>Character Demo - "Kujou Sara: Thunderous Devotion" | Genshin Impact</title>
+    <updated>2021-08-29T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812094196709.jpg"><br/><br/>To ensure that the will of the Shogun will always be done, and to assist the Almighty Shogun in manifesting Eternity.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15358">Character Demo - "Kujou Sara: Thunderous Devotion" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15358" rel="alternate"/>
+    <summary>To ensure that the will of the Shogun will always be done, and to assist the Almighty Shogun in manifesting Eternity.</summary>
+    <published>2021-08-29T12:00:00-04:00</published>
   </entry>
 </feed>
