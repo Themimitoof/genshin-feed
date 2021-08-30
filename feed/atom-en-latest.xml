@@ -2,69 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-08-30T03:08:57.688561+00:00</updated>
+  <updated>2021-08-30T04:10:18.712385+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12362</id>
-    <title>Serenitea Pot System Top Tips (I)</title>
-    <updated>2021-04-28T11:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042716115110355.png"><br/><br/>Greetings, Travelers~ The version update has been completed, and here are some sizzling tips for the basics on using the Serenitea Pot~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12362">Serenitea Pot System Top Tips (I)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12362" rel="alternate"/>
-    <summary>Greetings, Travelers~ The version update has been completed, and here are some sizzling tips for the basics on using the Serenitea Pot~</summary>
-    <published>2021-04-28T11:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12368</id>
-    <title>"To the Stars Once More" Web Event: Invite Adventurers to Return, Win Primogems and Merch!</title>
-    <updated>2021-04-28T11:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042716440693947.jpg"><br/><br/>The Adventurers' Guild has issued an invitation for their promotion "To the Stars Once More." They are calling on Active Adventurers and Returning Adventurers alike to explore and win great rewards.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12368">"To the Stars Once More" Web Event: Invite Adventurers to Return, Win Primogems and Merch!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12368" rel="alternate"/>
-    <summary>The Adventurers' Guild has issued an invitation for their promotion "To the Stars Once More." They are calling on Active Adventurers and Returning Adventurers alike to explore and win great rewards.</summary>
-    <published>2021-04-28T11:10:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12400</id>
-    <title>Collected Miscellany - "Yanfei: Blaze of Legal Brilliance" | Genshin Impact</title>
-    <updated>2021-04-28T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720464078749.jpg"><br/><br/>Yanfei is a legal consultant considerate of both reason and humanity in her work.
-This sincere young lady with the blood of an illuminated beast running through her veins lives a life of joy, but not in excess.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12400">Collected Miscellany - "Yanfei: Blaze of Legal Brilliance" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12400" rel="alternate"/>
-    <summary>Yanfei is a legal consultant considerate of both reason and humanity in her work.
-This sincere young lady with the blood of an illuminated beast running through her veins lives a life of joy, but not in excess.</summary>
-    <published>2021-04-28T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12409</id>
-    <title>Explanations of Version 1.5 Update Details</title>
-    <updated>2021-04-28T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811151516636.png"><br/><br/>Hello, Travelers! Version 1.5 is here, and other than the new content such as the "Serenitea Pot" system that Paimon is super excited about, the dev team has also done some work related to issue fixes and optimizations! Here, everyone in the dev team would like to make some additional notes on some fixes and new content.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12409">Explanations of Version 1.5 Update Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12409" rel="alternate"/>
-    <summary>Hello, Travelers! Version 1.5 is here, and other than the new content such as the "Serenitea Pot" system that Paimon is super excited about, the dev team has also done some work related to issue fixes and optimizations! Here, everyone in the dev team would like to make some additional notes on some fixes and new content.</summary>
-    <published>2021-04-28T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12467</id>
-    <title>"Energy Amplifier Initiation" Gameplay Details</title>
-    <updated>2021-04-29T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042821480177038.png"><br/><br/>The "Energy Amplifier Initiation" event is about to begin!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12467">"Energy Amplifier Initiation" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12467" rel="alternate"/>
-    <summary>The "Energy Amplifier Initiation" event is about to begin!</summary>
-    <published>2021-04-29T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12469</id>
-    <title>Developers Discussion – 4/29</title>
-    <updated>2021-04-29T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042822161071421.png"><br/><br/>Hi, everyone! Here's the latest Developers Discussion~（*＾-＾*） What new optimizations might there be this time around? Quick, let's check it out!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12469">Developers Discussion – 4/29</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12469" rel="alternate"/>
-    <summary>Hi, everyone! Here's the latest Developers Discussion~（*＾-＾*） What new optimizations might there be this time around? Quick, let's check it out!</summary>
-    <published>2021-04-29T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>12481</id>
     <title>Story Teaser: Through the Eyes of a Dragon | Genshin Impact</title>
@@ -1006,5 +950,58 @@ Braving this strange new world of Teyvat will be Aloy's latest trial.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/15383" rel="alternate"/>
     <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
     <published>2021-08-30T10:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15384</id>
+    <title>"Moonlight Merriment" Event: Take part and exchange for the event-exclusive claymore Luxurious Sea-Lord</title>
+    <updated>2021-08-30T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819164097557.jpg"><br/><br/>During the event, Travelers can complete quests in Moonchase Tales or take part in Moonlight Seeker and Trail of Delicacies challenges to obtain rewards such as the event-exclusive claymore, Luxurious Sea-Lord as well as its refinement materials, Crown of Insight, Primogems, recipes, and more.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15384">"Moonlight Merriment" Event: Take part and exchange for the event-exclusive claymore Luxurious Sea-Lord</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15384" rel="alternate"/>
+    <summary>During the event, Travelers can complete quests in Moonchase Tales or take part in Moonlight Seeker and Trail of Delicacies challenges to obtain rewards such as the event-exclusive claymore, Luxurious Sea-Lord as well as its refinement materials, Crown of Insight, Primogems, recipes, and more.</summary>
+    <published>2021-08-30T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15385</id>
+    <title>"Hyakunin Ikki" Event: A team-switching combat challenge awaits</title>
+    <updated>2021-08-30T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819234427074.jpg"><br/><br/>During the event, take part in the free-for-all fighting tournament "Hyakunin Ikki" and show off your elegant combat skills by defeating opponents in tag teams of two characters. By reaching the target scores, Travelers can obtain rewards such as the event-exclusive namecard style "Celebration: Ikki", Primogems, and more.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15385">"Hyakunin Ikki" Event: A team-switching combat challenge awaits</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15385" rel="alternate"/>
+    <summary>During the event, take part in the free-for-all fighting tournament "Hyakunin Ikki" and show off your elegant combat skills by defeating opponents in tag teams of two characters. By reaching the target scores, Travelers can obtain rewards such as the event-exclusive namecard style "Celebration: Ikki", Primogems, and more.</summary>
+    <published>2021-08-30T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15386</id>
+    <title>"Lunar Realm" Event: Go fishing and obtain the event-exclusive fishing rod!</title>
+    <updated>2021-08-30T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819293042834.jpg"><br/><br/>During the event, join Inazuman fisherwoman Kujirai Momiji on her journey to chase the moon, in pursuit of a legendary great fish called the "Lunar Leviathan." After completing a series of quests and challenges, you can obtain the event-exclusive fishing rod "Moonstringer," Primogems, Mysterious Fish Furnishing, and other rewards.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15386">"Lunar Realm" Event: Go fishing and obtain the event-exclusive fishing rod!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15386" rel="alternate"/>
+    <summary>During the event, join Inazuman fisherwoman Kujirai Momiji on her journey to chase the moon, in pursuit of a legendary great fish called the "Lunar Leviathan." After completing a series of quests and challenges, you can obtain the event-exclusive fishing rod "Moonstringer," Primogems, Mysterious Fish Furnishing, and other rewards.</summary>
+    <published>2021-08-30T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15390</id>
+    <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</title>
+    <updated>2021-08-30T12:01:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819383996293.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15390">Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15390" rel="alternate"/>
+    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</summary>
+    <published>2021-08-30T12:01:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15391</id>
+    <title>Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!</title>
+    <updated>2021-08-30T12:02:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819444599685.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15391">Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15391" rel="alternate"/>
+    <published>2021-08-30T12:02:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15353</id>
+    <title>Paimon's Sneak Peek at Version 2.1 New Events - Phase I</title>
+    <updated>2021-08-30T12:10:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721082073326.jpg"><br/><br/>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15353">Paimon's Sneak Peek at Version 2.1 New Events - Phase I</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15353" rel="alternate"/>
+    <summary>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~</summary>
+    <published>2021-08-30T12:10:00-04:00</published>
   </entry>
 </feed>

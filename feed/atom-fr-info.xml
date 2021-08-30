@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-08-30T03:09:04.872987+00:00</updated>
+  <updated>2021-08-30T04:10:26.750686+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12436</id>
-    <title>Explications de certaines corrections de la version 1.5</title>
-    <updated>2021-04-28T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042810285569898.png"><br/><br/>Découvrons ensemble les explications pour cette nouvelle version !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12436">Explications de certaines corrections de la version 1.5</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12436" rel="alternate"/>
-    <summary>Découvrons ensemble les explications pour cette nouvelle version !</summary>
-    <published>2021-04-28T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12474</id>
-    <title>Détails de l'événement : « Initiation à l'Amplificateur d'énergie »</title>
-    <updated>2021-04-29T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042909350520854.png"><br/><br/>L'événement « Initiation à l'Amplificateur d'énergie » commence dès maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12474">Détails de l'événement : « Initiation à l'Amplificateur d'énergie »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12474" rel="alternate"/>
-    <summary>L'événement « Initiation à l'Amplificateur d'énergie » commence dès maintenant !</summary>
-    <published>2021-04-29T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12477</id>
-    <title>Discussion avec les développeurs (29/04)</title>
-    <updated>2021-04-29T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042910062729601.png"><br/><br/>Quelles nouvelles améliorations vous attendent prochainement ? Découvrons-le vite ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12477">Discussion avec les développeurs (29/04)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12477" rel="alternate"/>
-    <summary>Quelles nouvelles améliorations vous attendent prochainement ? Découvrons-le vite ensemble !</summary>
-    <published>2021-04-29T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12490</id>
     <title>Genshin Impact - Aperçu de l'histoire : « À travers les yeux du dragon »</title>
@@ -952,5 +925,30 @@ Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons
     <summary>Chers voyageurs,
 Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.</summary>
     <published>2021-08-30T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15365</id>
+    <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Lumière du faucheur (Arme d'hast) et Lame brute (Épée à deux mains) !</title>
+    <updated>2021-08-30T12:01:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082813003069155.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15365">Vœux « Incarnation divine » : taux d'obtention boosté pour Lumière du faucheur (Arme d'hast) et Lame brute (Épée à deux mains) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15365" rel="alternate"/>
+    <published>2021-08-30T12:01:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15364</id>
+    <title>Vœux « Règne de sérénité » : taux d'obtention boosté pour Shogun Raiden · Plan euthymique (Électro) !</title>
+    <updated>2021-08-30T12:02:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812580241808.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15364">Vœux « Règne de sérénité » : taux d'obtention boosté pour Shogun Raiden · Plan euthymique (Électro) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15364" rel="alternate"/>
+    <published>2021-08-30T12:02:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15368</id>
+    <title>Paimon vous présente un aperçu des nouveaux événements de la version 2.1 - Partie </title>
+    <updated>2021-08-30T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082813093616741.jpg"><br/><br/>Bonjour, voyageurs ! Êtes-vous prêts pour les nouveaux événements de la version 2.1 ? Cliquez sur l'image ci-dessous pour y jeter un œil !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15368">Paimon vous présente un aperçu des nouveaux événements de la version 2.1 - Partie </a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15368" rel="alternate"/>
+    <summary>Bonjour, voyageurs ! Êtes-vous prêts pour les nouveaux événements de la version 2.1 ? Cliquez sur l'image ci-dessous pour y jeter un œil !</summary>
+    <published>2021-08-30T12:10:00+02:00</published>
   </entry>
 </feed>

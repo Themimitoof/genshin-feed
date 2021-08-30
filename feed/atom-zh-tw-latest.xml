@@ -2,57 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-08-30T03:09:09.069738+00:00</updated>
+  <updated>2021-08-30T04:10:29.984468+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12416</id>
-    <title>拾枝雜談-「煙緋：律火灼灼」｜原神</title>
-    <updated>2021-04-28T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042722484381419.jpg"><br/><br/>明理又通情，是煙緋身為律法諮詢師的行事之道。快樂不踰矩，則是煙緋身為半仙少女的誠摯之願。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12416">拾枝雜談-「煙緋：律火灼灼」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12416" rel="alternate"/>
-    <summary>明理又通情，是煙緋身為律法諮詢師的行事之道。快樂不踰矩，則是煙緋身為半仙少女的誠摯之願。</summary>
-    <published>2021-04-28T12:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>12439</id>
-    <title>1.5 版本更新說明小提示</title>
-    <updated>2021-04-28T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811562636263.png"><br/><br/>旅行者們好！1.5新版本已經更新了<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12439">1.5 版本更新說明小提示</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12439" rel="alternate"/>
-    <summary>旅行者們好！1.5新版本已經更新了</summary>
-    <published>2021-04-28T12:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>12472</id>
-    <title>4月29日 開發團隊座談會</title>
-    <updated>2021-04-29T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042823124564255.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12472">4月29日 開發團隊座談會</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12472" rel="alternate"/>
-    <published>2021-04-29T12:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>12492</id>
-    <title>劇情預告-「創龍點睛」｜原神</title>
-    <updated>2021-04-29T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911272444100.jpg"><br/><br/>「此番創龍乃君臣之義、故友之誼，正是明光一線，烈陽爍目，得此仙骨，塵世可赴。」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12492">劇情預告-「創龍點睛」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12492" rel="alternate"/>
-    <summary>「此番創龍乃君臣之義、故友之誼，正是明光一線，烈陽爍目，得此仙骨，塵世可赴。」</summary>
-    <published>2021-04-29T12:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>12540</id>
-    <title>導能原盤小提示 ·「雷怒之境」</title>
-    <updated>2021-05-03T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210430/2021043018230174260.png"><br/><br/>今天，「扭曲幽域」中的「雷怒之境」開啟啦！（需先完成秘境「暗影蠢動之地」）<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12540">導能原盤小提示 ·「雷怒之境」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12540" rel="alternate"/>
-    <summary>今天，「扭曲幽域」中的「雷怒之境」開啟啦！（需先完成秘境「暗影蠢動之地」）</summary>
-    <published>2021-05-03T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>12655</id>
     <title>優拉角色預告 -「深夜酒館的邂逅」｜原神</title>
@@ -888,5 +844,49 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15357" rel="alternate"/>
     <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
     <published>2021-08-30T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15406</id>
+    <title>「百人一揆」活動：換隊亂鬥挑戰</title>
+    <updated>2021-08-30T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914210564288.jpg"><br/><br/>活動期間，參與亂鬥大會「百人一揆」，以兩人一組的編制擊敗對手贏得積分，達到指定積分可獲得活動專屬名片紋飾「慶典·一揆」、原石等獎勵。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15406">「百人一揆」活動：換隊亂鬥挑戰</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15406" rel="alternate"/>
+    <summary>活動期間，參與亂鬥大會「百人一揆」，以兩人一組的編制擊敗對手贏得積分，達到指定積分可獲得活動專屬名片紋飾「慶典·一揆」、原石等獎勵。</summary>
+    <published>2021-08-30T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15407</id>
+    <title>「月中王國」活動：釣魚可獲限定魚竿！</title>
+    <updated>2021-08-30T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914283836188.jpg"><br/><br/>活動期間，加入稻妻漁師「鯨井椛」的追月之旅，追逐傳說中名為「海中月」的大魚。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15407">「月中王國」活動：釣魚可獲限定魚竿！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15407" rel="alternate"/>
+    <summary>活動期間，加入稻妻漁師「鯨井椛」的追月之旅，追逐傳說中名為「海中月」的大魚。</summary>
+    <published>2021-08-30T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15408</id>
+    <title>「神鑄賦形」祈願：「長柄武器·薙草之稻光」、「雙手劍·無工之劍」機率UP！</title>
+    <updated>2021-08-30T12:01:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914430199429.jpg"><br/><br/>活動期間，旅行者可以在「神鑄賦形」活動祈願中獲得更多武器與角色，提升隊伍的戰鬥力！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15408">「神鑄賦形」祈願：「長柄武器·薙草之稻光」、「雙手劍·無工之劍」機率UP！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15408" rel="alternate"/>
+    <summary>活動期間，旅行者可以在「神鑄賦形」活動祈願中獲得更多武器與角色，提升隊伍的戰鬥力！</summary>
+    <published>2021-08-30T12:01:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15409</id>
+    <title>「影寂天下人」祈願：「一心淨土·雷電將軍(雷)」機率UP！</title>
+    <updated>2021-08-30T12:02:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914473874658.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15409">「影寂天下人」祈願：「一心淨土·雷電將軍(雷)」機率UP！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15409" rel="alternate"/>
+    <published>2021-08-30T12:02:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15351</id>
+    <title>派蒙帶你一圖流看活動——2.1版本活動快報第一期</title>
+    <updated>2021-08-30T12:10:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721051480534.jpg"><br/><br/>2.1版本即將來臨，旅行者們準備好迎接全新的精彩活動了嗎？<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15351">派蒙帶你一圖流看活動——2.1版本活動快報第一期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15351" rel="alternate"/>
+    <summary>2.1版本即將來臨，旅行者們準備好迎接全新的精彩活動了嗎？</summary>
+    <published>2021-08-30T12:10:00+08:00</published>
   </entry>
 </feed>

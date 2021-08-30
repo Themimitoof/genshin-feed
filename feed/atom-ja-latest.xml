@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-08-30T03:09:31.083777+00:00</updated>
+  <updated>2021-08-30T04:10:50.064557+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>9501</id>
-    <title>「闘争の潮流」イベント予告</title>
-    <updated>2021-03-31T12:14:30+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210329/2021032916395648896.jpg"><br/><br/>演武台挑戦で原石を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9501">「闘争の潮流」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9501" rel="alternate"/>
-    <summary>演武台挑戦で原石を獲得！</summary>
-    <published>2021-03-31T12:14:30+09:00</published>
-  </entry>
   <entry>
     <id>9504</id>
     <title>「純水の願い」イベント予告</title>
@@ -892,5 +883,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15340" rel="alternate"/>
     <summary/>
     <published>2021-08-30T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15445</id>
+    <title>Ver2.0イベント予告</title>
+    <updated>2021-08-30T12:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010500895059.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15445">Ver2.0イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15445" rel="alternate"/>
+    <summary/>
+    <published>2021-08-30T12:10:00+09:00</published>
   </entry>
 </feed>

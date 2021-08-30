@@ -2,67 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-08-30T03:09:42.240198+00:00</updated>
+  <updated>2021-08-30T04:11:02.048954+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>12414</id>
-    <title>Descrição da Atualização 1.5</title>
-    <updated>2021-04-28T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042722081995938.png"><br/><br/>Olá, Viajantes! A atualização da Versão 1.5 está concluída！<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12414">Descrição da Atualização 1.5</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12414" rel="alternate"/>
-    <summary>Olá, Viajantes! A atualização da Versão 1.5 está concluída！</summary>
-    <published>2021-04-28T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12465</id>
-    <title>Descrição do Modo de Jogo: Disco de Adivinhação - Introdução</title>
-    <updated>2021-04-29T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042821123474815.png"><br/><br/>Disco de Adivinhação - Introdução estará disponível em breve!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12465">Descrição do Modo de Jogo: Disco de Adivinhação - Introdução</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12465" rel="alternate"/>
-    <summary>Disco de Adivinhação - Introdução estará disponível em breve!</summary>
-    <published>2021-04-29T10:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12495</id>
-    <title>Conversa com os Desenvolvedores - 29 de abril</title>
-    <updated>2021-04-29T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911342651564.png"><br/><br/>Oi! Chegou uma nova conversa com os desenvolvedores~（*＾-＾*）Quais serão as novas otimizações? <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12495">Conversa com os Desenvolvedores - 29 de abril</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12495" rel="alternate"/>
-    <summary>Oi! Chegou uma nova conversa com os desenvolvedores~（*＾-＾*）Quais serão as novas otimizações? </summary>
-    <published>2021-04-29T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12499</id>
-    <title>Teaser da História Genshin Impact - Criador da Visão do Dragão</title>
-    <updated>2021-04-29T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911381925049.jpg"><br/><br/>A criação do Dragão foi por causa da sua lealdade aos contratos e valorização de amizade...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12499">Teaser da História Genshin Impact - Criador da Visão do Dragão</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12499" rel="alternate"/>
-    <summary>A criação do Dragão foi por causa da sua lealdade aos contratos e valorização de amizade...</summary>
-    <published>2021-04-29T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12534</id>
-    <title>Dicas para o evento "Disco de Adivinhação" - Domínio do Trovão Furioso</title>
-    <updated>2021-05-03T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210430/2021043017533412592.png"><br/><br/>Hoje, o Domínio do Trovão Furioso no Reino Distorcido já está disponível.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12534">Dicas para o evento "Disco de Adivinhação" - Domínio do Trovão Furioso</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12534" rel="alternate"/>
-    <summary>Hoje, o Domínio do Trovão Furioso no Reino Distorcido já está disponível.</summary>
-    <published>2021-05-03T10:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12676</id>
-    <title>Teaser da Personagem Eula de Genshin Impact - "Encontro Casual à Noite na Taverna"</title>
-    <updated>2021-05-11T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210510/2021051020535679761.jpg"><br/><br/>Na Taverna de Mondstadt à noite, se você se dispor a dividir mesa com a Eula, solitária e já levemente embriagada, você terá chances de ouvir suas diversas histórias sobre "vingança".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12676">Teaser da Personagem Eula de Genshin Impact - "Encontro Casual à Noite na Taverna"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12676" rel="alternate"/>
-    <summary>Na Taverna de Mondstadt à noite, se você se dispor a dividir mesa com a Eula, solitária e já levemente embriagada, você terá chances de ouvir suas diversas histórias sobre "vingança".</summary>
-    <published>2021-05-11T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>12691</id>
     <title>A Capitã Eula Lawrence, Cavaleira das Ondas da Equipe de Reconhecimento dos Cavaleiros de Favonius. Estendo para você meus cumprimentos...</title>
@@ -914,5 +860,59 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/15393" rel="alternate"/>
     <summary>Caros Viajantes：Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações. Depois de ter concluído, o jogo será atualizado para uma nova versão.</summary>
     <published>2021-08-30T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15410</id>
+    <title>Evento "Acariciar Gentilmente a Lua": Participe para resgatar a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)"!</title>
+    <updated>2021-08-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916135067127.jpg"><br/><br/>Durante o período do evento, conclua a missão "Contos da Caça à Lua", ou participe dos desafios "Caçador do Luar" e "Trilha das Iguarias" para obter a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)", e seus Materiais de Refinamento, Coroa da Sabedoria, Gemas Essenciais, Receitas, entre outras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15410">Evento "Acariciar Gentilmente a Lua": Participe para resgatar a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)"!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15410" rel="alternate"/>
+    <summary>Durante o período do evento, conclua a missão "Contos da Caça à Lua", ou participe dos desafios "Caçador do Luar" e "Trilha das Iguarias" para obter a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)", e seus Materiais de Refinamento, Coroa da Sabedoria, Gemas Essenciais, Receitas, entre outras recompensas.</summary>
+    <published>2021-08-30T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15411</id>
+    <title>Evento: "Hyakunin Ikki": Desafio de Batalhas de Troca de Equipes</title>
+    <updated>2021-08-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916202970029.jpg"><br/><br/>Durante o período do evento, forme uma equipe de dois personagens, participe do torneio livre "Hyakunin Ikki", derrote oponentes e ganhe pontos. Viajantes que atingirem a quantidade de pontos requerida poderão obter o Estilo de Cartão de Visita exclusivo do evento "Celebração: Ikki", Gemas Essenciais, entre outras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15411">Evento: "Hyakunin Ikki": Desafio de Batalhas de Troca de Equipes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15411" rel="alternate"/>
+    <summary>Durante o período do evento, forme uma equipe de dois personagens, participe do torneio livre "Hyakunin Ikki", derrote oponentes e ganhe pontos. Viajantes que atingirem a quantidade de pontos requerida poderão obter o Estilo de Cartão de Visita exclusivo do evento "Celebração: Ikki", Gemas Essenciais, entre outras recompensas.</summary>
+    <published>2021-08-30T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15412</id>
+    <title>Evento de "Reino Lunar": Pesque peixes para obter varas limitadas</title>
+    <updated>2021-08-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916264935848.jpg"><br/><br/>Durante o evento, junte-se à pescadora Kujirai Momiji de Inazuma para capturar o lendário peixe, Leviatã Lunar. Conclua diversas tarefas e desafios do evento para ter a chance de receber recompensas como a Vara de Pesca limitada "Cordas Lunares", Gemas Essenciais, Decorações Misteriosas, entre outras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15412">Evento de "Reino Lunar": Pesque peixes para obter varas limitadas</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15412" rel="alternate"/>
+    <summary>Durante o evento, junte-se à pescadora Kujirai Momiji de Inazuma para capturar o lendário peixe, Leviatã Lunar. Conclua diversas tarefas e desafios do evento para ter a chance de receber recompensas como a Vara de Pesca limitada "Cordas Lunares", Gemas Essenciais, Decorações Misteriosas, entre outras recompensas.</summary>
+    <published>2021-08-30T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15413</id>
+    <title>Nova Oração Encarnação Divina: Aumentada a probabilidade de obtenção da "Luz do Cortador de Grama (Lança) e da "Espada Áspera (Espadão)"!</title>
+    <updated>2021-08-30T12:01:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916364635665.jpg"><br/><br/>Durante o período do Evento, o Viajante poderá obter mais armas e personagens na Oração "Encarnação Divina", aumentando a força de combate da equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15413">Nova Oração Encarnação Divina: Aumentada a probabilidade de obtenção da "Luz do Cortador de Grama (Lança) e da "Espada Áspera (Espadão)"!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15413" rel="alternate"/>
+    <summary>Durante o período do Evento, o Viajante poderá obter mais armas e personagens na Oração "Encarnação Divina", aumentando a força de combate da equipe!</summary>
+    <published>2021-08-30T12:01:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15414</id>
+    <title>Oração "Reino da Serenidade": Taxa de Drop de "Plano da Eutimia - Shogun Raiden (Electro)" aumentada! </title>
+    <updated>2021-08-30T12:02:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916431987878.jpg"><br/><br/>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15414">Oração "Reino da Serenidade": Taxa de Drop de "Plano da Eutimia - Shogun Raiden (Electro)" aumentada! </a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15414" rel="alternate"/>
+    <summary>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!</summary>
+    <published>2021-08-30T12:02:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15345</id>
+    <title>Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.1 - Fase I</title>
+    <updated>2021-08-30T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720435546238.jpg"><br/><br/>Olá Viajantes, a Versão 2.1 está chegando! Vocês estão preparados para os eventos que estão por vir? <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15345">Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.1 - Fase I</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15345" rel="alternate"/>
+    <summary>Olá Viajantes, a Versão 2.1 está chegando! Vocês estão preparados para os eventos que estão por vir? </summary>
+    <published>2021-08-30T12:10:00+01:00</published>
   </entry>
 </feed>
