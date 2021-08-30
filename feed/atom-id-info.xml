@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-08-30T02:19:40.220379+00:00</updated>
+  <updated>2021-08-30T03:09:26.921433+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12412</id>
-    <title>Aneka Koleksi Genshin Impact — "Yanfei: Api Hukum yang Berkobar"</title>
-    <updated>2021-04-28T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042721543077189.jpg"><br/><br/>Yanfei adalah seorang konsultan hukum yang mempertimbangkan baik akal sehat maupun kemanusiaan di dalam pekerjaannya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12412">Aneka Koleksi Genshin Impact — "Yanfei: Api Hukum yang Berkobar"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12412" rel="alternate"/>
-    <summary>Yanfei adalah seorang konsultan hukum yang mempertimbangkan baik akal sehat maupun kemanusiaan di dalam pekerjaannya.</summary>
-    <published>2021-04-28T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12415</id>
     <title>Penjelasan Mengenai Update v1.5</title>
@@ -908,5 +899,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15403" rel="alternate"/>
     <summary>Melaksanakan kehendak sang dewa petir, dan membantu Shogun Yang Mahakuasa mewujudkan "keabadian".</summary>
     <published>2021-08-29T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15424</id>
+    <title>Pengumuman Update v2.1 "Dunia di Bawah Cahaya Rembulan"</title>
+    <updated>2021-08-30T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009412058419.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15424">Pengumuman Update v2.1 "Dunia di Bawah Cahaya Rembulan"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15424" rel="alternate"/>
+    <summary>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.</summary>
+    <published>2021-08-30T10:30:00+07:00</published>
   </entry>
 </feed>

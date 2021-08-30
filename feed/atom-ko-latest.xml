@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-08-30T02:19:46.968572+00:00</updated>
+  <updated>2021-08-30T03:09:36.189991+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12452</id>
-    <title>1.5 버전 업데이트 안내 Tip</title>
-    <updated>2021-04-28T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042812364961749.png"><br/><br/>1.5 버전 업데이트가 완료됐어. 페이몬이 엄청 기다렸던 「속세의 주전자」 시스템 등 신규 내용 외에도 개발진이 일부 문제를 수정하고 최적화를 진행했어.
-개발진이 수정하고 최적화한 내용에 대해서 보충 설명해줬어<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12452">1.5 버전 업데이트 안내 Tip</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12452" rel="alternate"/>
-    <summary>1.5 버전 업데이트가 완료됐어. 페이몬이 엄청 기다렸던 「속세의 주전자」 시스템 등 신규 내용 외에도 개발진이 일부 문제를 수정하고 최적화를 진행했어.
-개발진이 수정하고 최적화한 내용에 대해서 보충 설명해줬어</summary>
-    <published>2021-04-28T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>12478</id>
     <title>「전도 원판·서론」 인벤트 설명</title>
@@ -976,5 +965,14 @@
 쿠죠 사라의 사명이자 그녀의 염원이다.
 오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.</summary>
     <published>2021-08-29T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15418</id>
+    <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
+    <updated>2021-08-30T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083007444831459.jpg"><br/><br/>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15418">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15418" rel="alternate"/>
+    <summary>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다</summary>
+    <published>2021-08-30T10:30:00+09:00</published>
   </entry>
 </feed>

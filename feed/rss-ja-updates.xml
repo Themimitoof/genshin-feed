@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 30 Aug 2021 02:19:44 +0000</lastBuildDate>
-    <item>
-      <title>新たな旅路への参加に心よりの感謝を！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5808</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200928/2020092817412391985.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5808">新たな旅路への参加に心よりの感謝を！</a>]]></description>
-      <guid isPermaLink="false">5808</guid>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 03:09:33 +0000</lastBuildDate>
     <item>
       <title>アンチチートプログラム（anti-cheat）について（ 更新済み）</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5815</link>
@@ -716,6 +709,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210819/2021081916092524818.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15049">初回チャージ2倍ボーナスリセットのお知らせ</a>]]></description>
       <guid isPermaLink="false">15049</guid>
       <pubDate>Fri, 20 Aug 2021 22:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.1「韶光撫月の浮世」バージョンアップのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15419</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008240961926.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15419">Ver.2.1「韶光撫月の浮世」バージョンアップのお知らせ</a>]]></description>
+      <guid isPermaLink="false">15419</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

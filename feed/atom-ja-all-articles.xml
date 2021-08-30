@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-08-30T02:19:46.910697+00:00</updated>
+  <updated>2021-08-30T03:09:36.135999+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -799,13 +799,13 @@
     <published>2021-08-24T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>5808</id>
-    <title>新たな旅路への参加に心よりの感謝を！</title>
-    <updated>2020-09-28T00:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200928/2020092817412391985.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5808">新たな旅路への参加に心よりの感謝を！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/5808" rel="alternate"/>
+    <id>15340</id>
+    <title>Ver2.1事前ダウンロード開始</title>
+    <updated>2021-08-30T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082715044865081.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15340">Ver2.1事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15340" rel="alternate"/>
     <summary/>
-    <published>2020-09-28T00:00:00+09:00</published>
+    <published>2021-08-30T11:00:00+09:00</published>
   </entry>
   <entry>
     <id>5815</id>
@@ -1688,6 +1688,15 @@
     <published>2021-08-20T22:30:00+09:00</published>
   </entry>
   <entry>
+    <id>15419</id>
+    <title>Ver.2.1「韶光撫月の浮世」バージョンアップのお知らせ</title>
+    <updated>2021-08-30T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008240961926.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15419">Ver.2.1「韶光撫月の浮世」バージョンアップのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15419" rel="alternate"/>
+    <summary/>
+    <published>2021-08-30T10:30:00+09:00</published>
+  </entry>
+  <entry>
     <id>3061</id>
     <title>親愛なる旅人さんへ</title>
     <updated>2020-04-12T00:00:00+09:00</updated>
@@ -1785,23 +1794,6 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/13768" rel="alternate"/>
     <summary>ワープ機能を持つ調度品がやってきます！</summary>
     <published>2021-06-30T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>9493</id>
-    <title>Ver.1.4の更新に伴う一部不具合の修正について</title>
-    <updated>2021-03-26T00:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210326/2021032611244587376.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9493">Ver.1.4の更新に伴う一部不具合の修正について</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9493" rel="alternate"/>
-    <published>2021-03-26T00:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>9494</id>
-    <title>原神海灯祭イラストのスマホ用壁紙公開！</title>
-    <updated>2021-03-26T00:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210326/2021032613071849947.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9494">原神海灯祭イラストのスマホ用壁紙公開！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9494" rel="alternate"/>
-    <summary/>
-    <published>2021-03-26T00:00:00+09:00</published>
   </entry>
   <entry>
     <id>9501</id>
@@ -2668,5 +2660,23 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082316054319681.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15147">Ver.2.1更新速報：「釣り」システム説明</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/15147" rel="alternate"/>
     <published>2021-08-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15419</id>
+    <title>Ver.2.1「韶光撫月の浮世」バージョンアップのお知らせ</title>
+    <updated>2021-08-30T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008240961926.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15419">Ver.2.1「韶光撫月の浮世」バージョンアップのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15419" rel="alternate"/>
+    <summary/>
+    <published>2021-08-30T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15340</id>
+    <title>Ver2.1事前ダウンロード開始</title>
+    <updated>2021-08-30T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082715044865081.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15340">Ver2.1事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15340" rel="alternate"/>
+    <summary/>
+    <published>2021-08-30T11:00:00+09:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 30 Aug 2021 02:20:04 +0000</lastBuildDate>
-    <item>
-      <title>Sự kiện web có thưởng "Níu Giữ Ngôi Sao" đã mở, mời Nhà Mạo Hiểm trở về để nhận Nguyên Thạch và quà lưu niệm nhé!</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12360</link>
-      <description>Hiệp Hội Nhà Mạo Hiểm đã phát thư mời "Níu Giữ Ngôi Sao". Kêu gọi các Nhà Mạo Hiểm sôi nổi dắt tay Nhà Mạo Hiểm trở về cùng thám hiểm để nhận nhiều quà hấp dẫn.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042715385957679.jpg"><br/><br/>Hiệp Hội Nhà Mạo Hiểm đã phát thư mời "Níu Giữ Ngôi Sao". Kêu gọi các Nhà Mạo Hiểm sôi nổi dắt tay Nhà Mạo Hiểm trở về cùng thám hiểm để nhận nhiều quà hấp dẫn.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12360">Sự kiện web có thưởng "Níu Giữ Ngôi Sao" đã mở, mời Nhà Mạo Hiểm trở về để nhận Nguyên Thạch và quà lưu niệm nhé!</a>]]></content:encoded>
-      <guid isPermaLink="false">12360</guid>
-      <pubDate>Wed, 28 Apr 2021 11:10:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 03:09:56 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] - [Yanfei: Luật Hỏa Bỏng Cháy]</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12398</link>
@@ -857,6 +849,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082900064638587.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15400">Giới thiệu nhân vật trong Genshin Impact - Kujou Sara: Ý Chí Ánh Chớp</a>]]></description>
       <guid isPermaLink="false">15400</guid>
       <pubDate>Sun, 29 Aug 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15402</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901524849196.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15402">Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></description>
+      <guid isPermaLink="false">15402</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

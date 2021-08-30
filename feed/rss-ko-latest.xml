@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 30 Aug 2021 02:19:46 +0000</lastBuildDate>
-    <item>
-      <title>1.5 버전 업데이트 안내 Tip</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12452</link>
-      <description>1.5 버전 업데이트가 완료됐어. 페이몬이 엄청 기다렸던 「속세의 주전자」 시스템 등 신규 내용 외에도 개발진이 일부 문제를 수정하고 최적화를 진행했어.
-개발진이 수정하고 최적화한 내용에 대해서 보충 설명해줬어</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042812364961749.png"><br/><br/>1.5 버전 업데이트가 완료됐어. 페이몬이 엄청 기다렸던 「속세의 주전자」 시스템 등 신규 내용 외에도 개발진이 일부 문제를 수정하고 최적화를 진행했어.
-개발진이 수정하고 최적화한 내용에 대해서 보충 설명해줬어<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12452">1.5 버전 업데이트 안내 Tip</a>]]></content:encoded>
-      <guid isPermaLink="false">12452</guid>
-      <pubDate>Wed, 28 Apr 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 03:09:36 +0000</lastBuildDate>
     <item>
       <title>「전도 원판·서론」 인벤트 설명</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/12478</link>
@@ -874,6 +864,14 @@
 오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15377"><원신> 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</a>]]></content:encoded>
       <guid isPermaLink="false">15377</guid>
       <pubDate>Sun, 29 Aug 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15418</link>
+      <description>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083007444831459.jpg"><br/><br/>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15418">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</a>]]></content:encoded>
+      <guid isPermaLink="false">15418</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

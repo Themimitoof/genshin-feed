@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 30 Aug 2021 02:20:01 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายการอัปเดตเวอร์ชัน 1.5</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/12453</link>
-      <description>สวัสดีเหล่านักเดินทาง! เวอร์ชัน 1.5 ได้รับการอัปเดตแล้ว นอกเหนือจากเนื้อหาที่เพิ่มเข้ามาใหม่อย่างระบบ Serenitea Pot ที่ Paimon รอคอยแล้ว ในการอัปเดตครั้งนี้ทีมพัฒนาได้ทำการแก้ไขและเพิ่มประสิทธิภาพบางส่วนที่เกี่ยวข้องด้วย! ทีมพัฒนาทุกคนต้องการอธิบายเพิ่มเติมเกี่ยวกับการแก้ไขและการเนื้อหาที่เพิ่มเข้ามาใหม่ในที่นี้ด้วย ต่อไป Paimon จะแสดงคำอธิบายสำหรับการอัปเดตในครั้งนี้ มาดูด้วยกันเลย ~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042812424128582.png"><br/><br/>สวัสดีเหล่านักเดินทาง! เวอร์ชัน 1.5 ได้รับการอัปเดตแล้ว นอกเหนือจากเนื้อหาที่เพิ่มเข้ามาใหม่อย่างระบบ Serenitea Pot ที่ Paimon รอคอยแล้ว ในการอัปเดตครั้งนี้ทีมพัฒนาได้ทำการแก้ไขและเพิ่มประสิทธิภาพบางส่วนที่เกี่ยวข้องด้วย! ทีมพัฒนาทุกคนต้องการอธิบายเพิ่มเติมเกี่ยวกับการแก้ไขและการเนื้อหาที่เพิ่มเข้ามาใหม่ในที่นี้ด้วย ต่อไป Paimon จะแสดงคำอธิบายสำหรับการอัปเดตในครั้งนี้ มาดูด้วยกันเลย ~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12453">คำอธิบายการอัปเดตเวอร์ชัน 1.5</a>]]></content:encoded>
-      <guid isPermaLink="false">12453</guid>
-      <pubDate>Wed, 28 Apr 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 03:09:53 +0000</lastBuildDate>
     <item>
       <title>คำอธิบายเกมเพลย์ "แผ่นควบคุมพลังงาน - การริเริ่ม"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/12480</link>
@@ -810,6 +802,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082900043584252.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15399">ตัวอย่างตัวละคร Genshin Impact - "Kujou Sara: ผู้ตามรอยเจตจำนงแห่งสายฟ้า" </a>]]></description>
       <guid isPermaLink="false">15399</guid>
       <pubDate>Sun, 29 Aug 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>แจ้งการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/15401</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901503016124.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15401">แจ้งการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</a>]]></description>
+      <guid isPermaLink="false">15401</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

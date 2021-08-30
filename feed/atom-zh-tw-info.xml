@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-08-30T01:48:40.895512+00:00</updated>
+  <updated>2021-08-30T03:09:11.058315+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12437</id>
-    <title>「再攬星辰」網頁活動已開啟，邀請冒險家回歸贏原石、周邊！</title>
-    <updated>2021-04-28T11:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042810523830872.jpg"><br/><br/>冒險家協會發佈「再攬星辰」邀請函，邀請活躍冒險家們攜手回歸冒險家一同冒險，探索諸多好禮。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12437">「再攬星辰」網頁活動已開啟，邀請冒險家回歸贏原石、周邊！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12437" rel="alternate"/>
-    <summary>冒險家協會發佈「再攬星辰」邀請函，邀請活躍冒險家們攜手回歸冒險家一同冒險，探索諸多好禮。</summary>
-    <published>2021-04-28T11:10:00+08:00</published>
-  </entry>
   <entry>
     <id>12416</id>
     <title>拾枝雜談-「煙緋：律火灼灼」｜原神</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15355" rel="alternate"/>
     <summary>踐行鳴神的意志，為將軍大人實現「永恆」，既是九條裟羅的職責所在，也是她的心願所向。</summary>
     <published>2021-08-29T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15357</id>
+    <title>「韶光撫月，天下人間」2.1版本更新通知</title>
+    <updated>2021-08-30T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082811255776621.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15357">「韶光撫月，天下人間」2.1版本更新通知</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15357" rel="alternate"/>
+    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
+    <published>2021-08-30T10:30:00+08:00</published>
   </entry>
 </feed>

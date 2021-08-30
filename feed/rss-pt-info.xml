@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 30 Aug 2021 02:19:53 +0000</lastBuildDate>
-    <item>
-      <title>Coleção Variada de Genshin Impact - "Yanfei: Leis do Clarão"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/12410</link>
-      <description>Justa e compreensível é a maneira que Yanfei age como consultora jurídica.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042721514166859.jpg"><br/><br/>Justa e compreensível é a maneira que Yanfei age como consultora jurídica.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12410">Coleção Variada de Genshin Impact - "Yanfei: Leis do Clarão"</a>]]></content:encoded>
-      <guid isPermaLink="false">12410</guid>
-      <pubDate>Wed, 28 Apr 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 03:09:42 +0000</lastBuildDate>
     <item>
       <title>Descrição da Atualização 1.5</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/12414</link>
@@ -814,6 +806,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</description>
 são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15387">Demo da Nova Personagem de Genshin Impact - "Kujou Sara: A Sede da Tempestade"</a>]]></content:encoded>
       <guid isPermaLink="false">15387</guid>
       <pubDate>Sun, 29 Aug 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aviso de Manutenção da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15393</link>
+      <description>Caros Viajantes：Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações. Depois de ter concluído, o jogo será atualizado para uma nova versão.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082820005299919.jpg"><br/><br/>Caros Viajantes：Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações. Depois de ter concluído, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15393">Aviso de Manutenção da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</a>]]></content:encoded>
+      <guid isPermaLink="false">15393</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 30 Aug 2021 02:19:30 +0000</lastBuildDate>
-    <item>
-      <title>Fähigkeiten bei Genshin Impact – Yanfei: Gesetz und sengende Hitze</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12396</link>
-      <description>Yanfei ist eine Rechtsberaterin, die bei ihrer Arbeit sowohl die Gesetzlichkeit als auch die Menschlichkeit berücksichtigt.
-Diese junge Dame, mit dem Blut einer göttlichen Bestie in ihren Adern, sehnt sich nach Freude, aber nicht maßlos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042720410662746.jpg"><br/><br/>Yanfei ist eine Rechtsberaterin, die bei ihrer Arbeit sowohl die Gesetzlichkeit als auch die Menschlichkeit berücksichtigt.
-Diese junge Dame, mit dem Blut einer göttlichen Bestie in ihren Adern, sehnt sich nach Freude, aber nicht maßlos.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12396">Fähigkeiten bei Genshin Impact – Yanfei: Gesetz und sengende Hitze</a>]]></content:encoded>
-      <guid isPermaLink="false">12396</guid>
-      <pubDate>Wed, 28 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 03:09:14 +0000</lastBuildDate>
     <item>
       <title>Erläuterung zur Aktualisierung auf Version 1.5</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12418</link>
@@ -834,6 +824,16 @@ Heute stellen wir euch ein Mädchen aus einer anderen Welt vor, und zwar Aloy. V
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082815235871843.jpg"><br/><br/>Den Willen von Narukami zu erfüllen und dem Shougun Raiden zu helfen, die wahre Ewigkeit zu erreichen, ist nicht nur Kujou Saras Pflicht, sondern auch ihr aufrichtiger Wunsch.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15369">Figurenvorführung bei Genshin Impact – Kujou Sara: Donnernder Wille</a>]]></content:encoded>
       <guid isPermaLink="false">15369</guid>
       <pubDate>Sun, 29 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mitteilung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15427</link>
+      <description>Lieber Reisender,
+um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009593021028.jpg"><br/><br/>Lieber Reisender,
+um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15427">Mitteilung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</a>]]></content:encoded>
+      <guid isPermaLink="false">15427</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

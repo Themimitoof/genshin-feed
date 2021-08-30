@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Aug 2021 02:18:52 +0000</lastBuildDate>
-    <item>
-      <title>"Beneath the Light of Jadeite" Version 1.5 Update Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12376</link>
-      <description>Dear Travelers,
-Below are the details of the Version 1.5 update "Beneath the Light of Jadeite" and the update compensation.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042718231372805.png"><br/><br/>Dear Travelers,
-Below are the details of the Version 1.5 update "Beneath the Light of Jadeite" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12376">"Beneath the Light of Jadeite" Version 1.5 Update Details</a>]]></content:encoded>
-      <guid isPermaLink="false">12376</guid>
-      <pubDate>Wed, 28 Apr 2021 07:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 30 Aug 2021 03:08:57 +0000</lastBuildDate>
     <item>
       <title>Serenitea Pot System Top Tips (I)</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12362</link>
@@ -908,6 +898,14 @@ Braving this strange new world of Teyvat will be Aloy's latest trial.<br><br>Rea
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812094196709.jpg"><br/><br/>To ensure that the will of the Shogun will always be done, and to assist the Almighty Shogun in manifesting Eternity.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15358">Character Demo - "Kujou Sara: Thunderous Devotion" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15358</guid>
       <pubDate>Sun, 29 Aug 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Version 2.1 "Floating World Under the Moonlight" Update Notice</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15383</link>
+      <description>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082818590084806.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15383">Version 2.1 "Floating World Under the Moonlight" Update Notice</a>]]></content:encoded>
+      <guid isPermaLink="false">15383</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
