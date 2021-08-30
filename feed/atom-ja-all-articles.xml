@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-08-30T04:10:54.374771+00:00</updated>
+  <updated>2021-08-30T05:08:16.595300+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -809,12 +809,21 @@
   </entry>
   <entry>
     <id>15445</id>
-    <title>Ver2.0イベント予告</title>
+    <title>Ver2.1イベント予告</title>
     <updated>2021-08-30T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010500895059.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15445">Ver2.0イベント予告</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010500895059.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15445">Ver2.1イベント予告</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/15445" rel="alternate"/>
     <summary/>
     <published>2021-08-30T12:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15425</id>
+    <title>Ver2.1任務予告</title>
+    <updated>2021-08-30T12:20:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009435612670.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15425">Ver2.1任務予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15425" rel="alternate"/>
+    <summary/>
+    <published>2021-08-30T12:20:00+09:00</published>
   </entry>
   <entry>
     <id>5815</id>
@@ -1805,15 +1814,6 @@
     <published>2021-06-30T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>9504</id>
-    <title>「純水の願い」イベント予告</title>
-    <updated>2021-04-07T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210329/2021032917385376285.jpg"><br/><br/>探索で便利アイテム「エンドラー」を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9504">「純水の願い」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9504" rel="alternate"/>
-    <summary>探索で便利アイテム「エンドラー」を獲得！</summary>
-    <published>2021-04-07T12:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>9881</id>
     <title>「純水の願い」イベント紹介</title>
     <updated>2021-04-08T10:30:00+09:00</updated>
@@ -2681,11 +2681,20 @@
   </entry>
   <entry>
     <id>15445</id>
-    <title>Ver2.0イベント予告</title>
+    <title>Ver2.1イベント予告</title>
     <updated>2021-08-30T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010500895059.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15445">Ver2.0イベント予告</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010500895059.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15445">Ver2.1イベント予告</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/15445" rel="alternate"/>
     <summary/>
     <published>2021-08-30T12:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15425</id>
+    <title>Ver2.1任務予告</title>
+    <updated>2021-08-30T12:20:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009435612670.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15425">Ver2.1任務予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15425" rel="alternate"/>
+    <summary/>
+    <published>2021-08-30T12:20:00+09:00</published>
   </entry>
 </feed>
