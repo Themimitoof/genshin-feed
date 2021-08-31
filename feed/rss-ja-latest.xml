@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Aug 2021 08:10:20 +0000</lastBuildDate>
-    <item>
-      <title>「純水の願い」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9881</link>
-      <description>イベントに参加し、豪華な報酬を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040715451025054.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9881">「純水の願い」イベント紹介</a>]]></content:encoded>
-      <guid isPermaLink="false">9881</guid>
-      <pubDate>Thu, 08 Apr 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 09:09:51 +0000</lastBuildDate>
     <item>
       <title>「私（俺）たちはいずれ再会する」任務予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9855</link>
@@ -727,6 +719,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009435612670.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15425">Ver2.1任務予告</a>]]></description>
       <guid isPermaLink="false">15425</guid>
       <pubDate>Mon, 30 Aug 2021 12:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>稲妻キャラクタースタンプ配布</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15455</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></description>
+      <guid isPermaLink="false">15455</guid>
+      <pubDate>Tue, 31 Aug 2021 16:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

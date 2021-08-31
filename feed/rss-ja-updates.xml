@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Aug 2021 08:10:21 +0000</lastBuildDate>
-    <item>
-      <title>アンチチートプログラム（anti-cheat）について（ 更新済み）</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5815</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200928/2020092820340285492.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5815">アンチチートプログラム（anti-cheat）について（ 更新済み）</a>]]></description>
-      <guid isPermaLink="false">5815</guid>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 09:09:53 +0000</lastBuildDate>
     <item>
       <title>クリップボード関連不具合のご報告と修正について</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5843</link>
@@ -716,6 +709,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008240961926.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15419">Ver.2.1「韶光撫月の浮世」バージョンアップのお知らせ</a>]]></description>
       <guid isPermaLink="false">15419</guid>
       <pubDate>Mon, 30 Aug 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>稲妻キャラクタースタンプ配布</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15455</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></description>
+      <guid isPermaLink="false">15455</guid>
+      <pubDate>Tue, 31 Aug 2021 16:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

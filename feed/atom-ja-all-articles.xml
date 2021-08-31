@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-08-31T08:10:21.825721+00:00</updated>
+  <updated>2021-08-31T09:09:55.940963+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -824,15 +824,6 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15425" rel="alternate"/>
     <summary/>
     <published>2021-08-30T12:20:00+09:00</published>
-  </entry>
-  <entry>
-    <id>5815</id>
-    <title>アンチチートプログラム（anti-cheat）について（ 更新済み）</title>
-    <updated>2020-09-28T00:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200928/2020092820340285492.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5815">アンチチートプログラム（anti-cheat）について（ 更新済み）</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/5815" rel="alternate"/>
-    <summary/>
-    <published>2020-09-28T00:00:00+09:00</published>
   </entry>
   <entry>
     <id>5843</id>
@@ -1715,6 +1706,15 @@
     <published>2021-08-30T10:30:00+09:00</published>
   </entry>
   <entry>
+    <id>15455</id>
+    <title>稲妻キャラクタースタンプ配布</title>
+    <updated>2021-08-31T16:57:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15455" rel="alternate"/>
+    <summary/>
+    <published>2021-08-31T16:57:00+09:00</published>
+  </entry>
+  <entry>
     <id>3061</id>
     <title>親愛なる旅人さんへ</title>
     <updated>2020-04-12T00:00:00+09:00</updated>
@@ -1812,15 +1812,6 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/13768" rel="alternate"/>
     <summary>ワープ機能を持つ調度品がやってきます！</summary>
     <published>2021-06-30T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>9881</id>
-    <title>「純水の願い」イベント紹介</title>
-    <updated>2021-04-08T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040715451025054.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9881">「純水の願い」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9881" rel="alternate"/>
-    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
-    <published>2021-04-08T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>9855</id>
@@ -2696,5 +2687,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15425" rel="alternate"/>
     <summary/>
     <published>2021-08-30T12:20:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15455</id>
+    <title>稲妻キャラクタースタンプ配布</title>
+    <updated>2021-08-31T16:57:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15455" rel="alternate"/>
+    <summary/>
+    <published>2021-08-31T16:57:00+09:00</published>
   </entry>
 </feed>

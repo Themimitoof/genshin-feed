@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-08-31T08:10:20.438546+00:00</updated>
+  <updated>2021-08-31T09:09:51.502717+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>9881</id>
-    <title>「純水の願い」イベント紹介</title>
-    <updated>2021-04-08T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040715451025054.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9881">「純水の願い」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9881" rel="alternate"/>
-    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
-    <published>2021-04-08T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>9855</id>
     <title>「私（俺）たちはいずれ再会する」任務予告</title>
@@ -892,5 +883,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15425" rel="alternate"/>
     <summary/>
     <published>2021-08-30T12:20:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15455</id>
+    <title>稲妻キャラクタースタンプ配布</title>
+    <updated>2021-08-31T16:57:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15455" rel="alternate"/>
+    <summary/>
+    <published>2021-08-31T16:57:00+09:00</published>
   </entry>
 </feed>

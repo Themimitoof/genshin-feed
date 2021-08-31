@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Aug 2021 08:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Aug 2021 09:09:55 +0000</lastBuildDate>
     <item>
       <title>Webイベント・「岩港珍奇行紀」開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6712</link>
@@ -671,13 +671,6 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009435612670.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15425">Ver2.1任務予告</a>]]></description>
       <guid isPermaLink="false">15425</guid>
       <pubDate>Mon, 30 Aug 2021 12:20:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>アンチチートプログラム（anti-cheat）について（ 更新済み）</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5815</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200928/2020092820340285492.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5815">アンチチートプログラム（anti-cheat）について（ 更新済み）</a>]]></description>
-      <guid isPermaLink="false">5815</guid>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>クリップボード関連不具合のご報告と修正について</title>
@@ -1381,6 +1374,13 @@
       <pubDate>Mon, 30 Aug 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
+      <title>稲妻キャラクタースタンプ配布</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15455</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></description>
+      <guid isPermaLink="false">15455</guid>
+      <pubDate>Tue, 31 Aug 2021 16:57:00 +0900</pubDate>
+    </item>
+    <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
       <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
@@ -1467,14 +1467,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513121383002.jpg"><br/><br/>ワープ機能を持つ調度品がやってきます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13768">運営チームからの手紙</a>]]></content:encoded>
       <guid isPermaLink="false">13768</guid>
       <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「純水の願い」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9881</link>
-      <description>イベントに参加し、豪華な報酬を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040715451025054.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9881">「純水の願い」イベント紹介</a>]]></content:encoded>
-      <guid isPermaLink="false">9881</guid>
-      <pubDate>Thu, 08 Apr 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>「私（俺）たちはいずれ再会する」任務予告</title>
@@ -2186,6 +2178,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009435612670.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15425">Ver2.1任務予告</a>]]></description>
       <guid isPermaLink="false">15425</guid>
       <pubDate>Mon, 30 Aug 2021 12:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>稲妻キャラクタースタンプ配布</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15455</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></description>
+      <guid isPermaLink="false">15455</guid>
+      <pubDate>Tue, 31 Aug 2021 16:57:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
