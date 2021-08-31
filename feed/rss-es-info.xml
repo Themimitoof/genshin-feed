@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 31 Aug 2021 03:09:34 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12425</link>
-      <description>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806172027092.png"><br/><br/>Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12425">Genshin Impact ya está disponible en PlayStation 5 - ¡La función de descarga ya está disponible!</a>]]></content:encoded>
-      <guid isPermaLink="false">12425</guid>
-      <pubDate>Wed, 28 Apr 2021 06:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 04:10:45 +0000</lastBuildDate>
     <item>
       <title>Detalles de la versión 1.5 «A la luz de la jadeíta»</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12428</link>
@@ -800,6 +792,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720371052370.jpg"><br/><br/>Estimados viajeros: ¿Están listos para los eventos de la versión 2.1? ¡Haz clic en la imagen para echarles un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15344">Paimon te trae una recopilación de los eventos de la versión 2.1 (I)</a>]]></content:encoded>
       <guid isPermaLink="false">15344</guid>
       <pubDate>Mon, 30 Aug 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15463</link>
+      <description>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110124466260.jpg"><br/><br/>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15463">Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</a>]]></content:encoded>
+      <guid isPermaLink="false">15463</guid>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

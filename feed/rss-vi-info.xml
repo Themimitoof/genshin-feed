@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 31 Aug 2021 03:09:40 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] Video nhân vật Eula - Gặp Gỡ Nơi Quán Rượu Đêm Khuya</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12672</link>
-      <description>Trong đêm, tại quán rượu ở Mondstadt, nếu bạn bằng lòng ngồi chung bàn với Eula đang uống rượu một mình, thì sẽ có cơ hội nghe nữ kỵ sĩ ngà ngà say này kể về những "mối thù" trong ngày hôm nay của cô ấy.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210510/2021051019593388941.jpg"><br/><br/>Trong đêm, tại quán rượu ở Mondstadt, nếu bạn bằng lòng ngồi chung bàn với Eula đang uống rượu một mình, thì sẽ có cơ hội nghe nữ kỵ sĩ ngà ngà say này kể về những "mối thù" trong ngày hôm nay của cô ấy.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12672">[Genshin Impact] Video nhân vật Eula - Gặp Gỡ Nơi Quán Rượu Đêm Khuya</a>]]></content:encoded>
-      <guid isPermaLink="false">12672</guid>
-      <pubDate>Tue, 11 May 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 04:11:15 +0000</lastBuildDate>
     <item>
       <title>"Kỵ Sĩ Sóng Nước" Eula Lawrence, đội trưởng đội du kích của Đội Kỵ Sĩ Tây Phong xin gửi lời chào đến bạn!</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12689</link>
@@ -848,6 +840,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817221953024.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15373">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.1 - Kỳ I</a>]]></description>
       <guid isPermaLink="false">15373</guid>
       <pubDate>Mon, 30 Aug 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giới thiệu nhân vật trong Genshin Impact - Raiden Shogun: Tịnh Thổ Phán Xét</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15481</link>
+      <description>Cảnh báo: Video này có thể gây ra phản ứng khó chịu cho người mắc bệnh động kinh và nhạy cảm với ánh sáng, kiến nghị khán giả thận trọng khi xem.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110375758598.jpg"><br/><br/>Cảnh báo: Video này có thể gây ra phản ứng khó chịu cho người mắc bệnh động kinh và nhạy cảm với ánh sáng, kiến nghị khán giả thận trọng khi xem.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15481">Giới thiệu nhân vật trong Genshin Impact - Raiden Shogun: Tịnh Thổ Phán Xét</a>]]></content:encoded>
+      <guid isPermaLink="false">15481</guid>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

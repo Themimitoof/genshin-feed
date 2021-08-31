@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 31 Aug 2021 03:09:38 +0000</lastBuildDate>
-    <item>
-      <title>A Capitã Eula Lawrence, Cavaleira das Ondas da Equipe de Reconhecimento dos Cavaleiros de Favonius. Estendo para você meus cumprimentos...</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/12691</link>
-      <description>Hoje, gostaríamos de apresentar-lhes a Capitã da Equipe de Reconhecimento dos Cavaleiros de Favonius, Capitã Eula Lawrence a Cavaleira das Ondas!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111234565075.png"><br/><br/>Hoje, gostaríamos de apresentar-lhes a Capitã da Equipe de Reconhecimento dos Cavaleiros de Favonius, Capitã Eula Lawrence a Cavaleira das Ondas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12691">A Capitã Eula Lawrence, Cavaleira das Ondas da Equipe de Reconhecimento dos Cavaleiros de Favonius. Estendo para você meus cumprimentos...</a>]]></content:encoded>
-      <guid isPermaLink="false">12691</guid>
-      <pubDate>Tue, 11 May 2021 12:15:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 04:11:02 +0000</lastBuildDate>
     <item>
       <title>Aviso sobre a segurança da conta</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/12701</link>
@@ -814,6 +806,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720435546238.jpg"><br/><br/>Olá Viajantes, a Versão 2.1 está chegando! Vocês estão preparados para os eventos que estão por vir? <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15345">Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.1 - Fase I</a>]]></content:encoded>
       <guid isPermaLink="false">15345</guid>
       <pubDate>Mon, 30 Aug 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Demo da Nova Personagem de Genshin Impact - "Shogun Raiden: Terra da Eternidade e Julgamento"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15485</link>
+      <description>"Os sentimentos da Sakura do passado hoje já se escureceram. Quando chegar o momento do silêncio severo do trovão, se acordará do sonho de ilusões".</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110550947678.jpg"><br/><br/>"Os sentimentos da Sakura do passado hoje já se escureceram. Quando chegar o momento do silêncio severo do trovão, se acordará do sonho de ilusões".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15485">Demo da Nova Personagem de Genshin Impact - "Shogun Raiden: Terra da Eternidade e Julgamento"</a>]]></content:encoded>
+      <guid isPermaLink="false">15485</guid>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

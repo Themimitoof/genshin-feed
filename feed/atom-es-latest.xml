@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-08-31T03:09:34.524065+00:00</updated>
+  <updated>2021-08-31T04:10:44.339843+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>12428</id>
-    <title>Detalles de la versión 1.5 «A la luz de la jadeíta»</title>
-    <updated>2021-04-28T07:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042806300456628.png"><br/><br/>A continuación te presentamos el contenido de la nueva versión 1.5 «A la luz de la jadeíta» y la información relacionada con sus compensaciones.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12428">Detalles de la versión 1.5 «A la luz de la jadeíta»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12428" rel="alternate"/>
-    <summary>A continuación te presentamos el contenido de la nueva versión 1.5 «A la luz de la jadeíta» y la información relacionada con sus compensaciones.</summary>
-    <published>2021-04-28T07:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12444</id>
     <title>¡El evento web «El retorno de las estrellas» ya está disponible! ¡Invita a otros aventureros a regresar al juego y gana Protogemas y merchandising!</title>
@@ -907,5 +898,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15344" rel="alternate"/>
     <summary>Estimados viajeros: ¿Están listos para los eventos de la versión 2.1? ¡Haz clic en la imagen para echarles un vistazo!</summary>
     <published>2021-08-30T12:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15463</id>
+    <title>Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</title>
+    <updated>2021-08-31T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110124466260.jpg"><br/><br/>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15463">Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15463" rel="alternate"/>
+    <summary>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.</summary>
+    <published>2021-08-31T12:00:00+02:00</published>
   </entry>
 </feed>

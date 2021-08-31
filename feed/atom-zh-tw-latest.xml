@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-08-31T03:09:33.015902+00:00</updated>
+  <updated>2021-08-31T04:10:34.927663+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12655</id>
-    <title>優拉角色預告 -「深夜酒館的邂逅」｜原神</title>
-    <updated>2021-05-11T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210510/2021051019370724082.jpg"><br/><br/>在蒙德深夜的酒館，若好心的你願意和獨自喝悶酒的優菈併桌，便有機會聽到這位酒意正酣的女騎士向你講述她今日的種種「記仇」。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12655">優拉角色預告 -「深夜酒館的邂逅」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12655" rel="alternate"/>
-    <summary>在蒙德深夜的酒館，若好心的你願意和獨自喝悶酒的優菈併桌，便有機會聽到這位酒意正酣的女騎士向你講述她今日的種種「記仇」。</summary>
-    <published>2021-05-11T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>12690</id>
     <title>西風騎士團，游擊小隊隊長，「浪花騎士」優菈·勞倫斯，向你致以問候</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15351" rel="alternate"/>
     <summary>2.1版本即將來臨，旅行者們準備好迎接全新的精彩活動了嗎？</summary>
     <published>2021-08-30T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15474</id>
+    <title>角色展示-「雷電將軍：淨土裁斷」｜原神</title>
+    <updated>2021-08-31T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110344274125.jpg"><br/><br/>「昔日多情的櫻花，如今已作墨色。待到雷聲沉鬱的寂然之刻，方曉渺渺泡影之夢將覺。」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15474">角色展示-「雷電將軍：淨土裁斷」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15474" rel="alternate"/>
+    <summary>「昔日多情的櫻花，如今已作墨色。待到雷聲沉鬱的寂然之刻，方曉渺渺泡影之夢將覺。」</summary>
+    <published>2021-08-31T12:00:00+08:00</published>
   </entry>
 </feed>

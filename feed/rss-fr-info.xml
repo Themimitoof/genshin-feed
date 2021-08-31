@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 31 Aug 2021 03:09:32 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Aperçu de l'histoire : « À travers les yeux du dragon »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12490</link>
-      <description>Les récits racontent l'histoire. Vérité et mensonge s'entremêlent, mais nous seuls en connaissons le fin mot.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911214277484.jpg"><br/><br/>Les récits racontent l'histoire. Vérité et mensonge s'entremêlent, mais nous seuls en connaissons le fin mot.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12490">Genshin Impact - Aperçu de l'histoire : « À travers les yeux du dragon »</a>]]></content:encoded>
-      <guid isPermaLink="false">12490</guid>
-      <pubDate>Thu, 29 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 04:10:31 +0000</lastBuildDate>
     <item>
       <title>Astuces pour l'« Amplificateur d'énergie » - Domaine du tonnerre furieux</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12537</link>
@@ -847,6 +839,16 @@ Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082813093616741.jpg"><br/><br/>Bonjour, voyageurs ! Êtes-vous prêts pour les nouveaux événements de la version 2.1 ? Cliquez sur l'image ci-dessous pour y jeter un œil !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15368">Paimon vous présente un aperçu des nouveaux événements de la version 2.1 - Partie </a>]]></content:encoded>
       <guid isPermaLink="false">15368</guid>
       <pubDate>Mon, 30 Aug 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Démo personnage : « Shogun Raiden : Jugement de l'euthymie »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15465</link>
+      <description>« Les fleurs de cerisier d'autrefois sont désormais recouverts de noir.
+Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se brise. »</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110234328426.jpg"><br/><br/>« Les fleurs de cerisier d'autrefois sont désormais recouverts de noir.
+Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se brise. »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15465">Genshin Impact - Démo personnage : « Shogun Raiden : Jugement de l'euthymie »</a>]]></content:encoded>
+      <guid isPermaLink="false">15465</guid>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

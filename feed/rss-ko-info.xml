@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 31 Aug 2021 03:09:37 +0000</lastBuildDate>
-    <item>
-      <title>계정 보안 관련 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12708</link>
-      <description>계정 보안 관련 안내</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119112768791.png"><br/><br/>계정 보안 관련 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12708">계정 보안 관련 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">12708</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 04:10:57 +0000</lastBuildDate>
     <item>
       <title>「바람의 행방」 이벤트 설명</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/12725</link>
@@ -870,6 +862,16 @@
 우리 같이 더 많은 이벤트 정보를 확인해 보자구~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15447">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 이벤트 알림 제1회</a>]]></content:encoded>
       <guid isPermaLink="false">15447</guid>
       <pubDate>Mon, 30 Aug 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「라이덴 쇼군: 정토 심판」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15471</link>
+      <description>「지난날 다정하던 벚꽃이 오늘날 새까맣게 물들었다
+천둥소리가 사그라들며 고요해질 때, 아득한 포영의 꿈이 깨어날 것이다」</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110311590861.jpg"><br/><br/>「지난날 다정하던 벚꽃이 오늘날 새까맣게 물들었다
+천둥소리가 사그라들며 고요해질 때, 아득한 포영의 꿈이 깨어날 것이다」<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15471"><원신> 신규 캐릭터 플레이 - 「라이덴 쇼군: 정토 심판」</a>]]></content:encoded>
+      <guid isPermaLink="false">15471</guid>
+      <pubDate>Tue, 31 Aug 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

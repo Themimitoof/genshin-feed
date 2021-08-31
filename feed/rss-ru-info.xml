@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 31 Aug 2021 03:09:38 +0000</lastBuildDate>
-    <item>
-      <title>О безопасности учётной записи</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12705</link>
-      <description>Мы хотим сделать ваши учётные записи безопаснее и улучшить ваш игровой опыт, поэтому просим Путешественников заполнить недостающую личную информацию. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118551635686.png"><br/><br/>Мы хотим сделать ваши учётные записи безопаснее и улучшить ваш игровой опыт, поэтому просим Путешественников заполнить недостающую личную информацию. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12705">О безопасности учётной записи</a>]]></content:encoded>
-      <guid isPermaLink="false">12705</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 04:11:07 +0000</lastBuildDate>
     <item>
       <title>Событие «По следам ветра»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12718</link>
@@ -820,6 +812,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082816120752594.jpg"><br/><br/>Привет, путешественники! Версия 2.1 уже не за горами. Готовы к новым увлекательным событиям? Нажмите на изображение ниже, чтобы узнать больше!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15371">Обзор событий версии 2.1 - Выпуск I</a>]]></content:encoded>
       <guid isPermaLink="false">15371</guid>
       <pubDate>Mon, 30 Aug 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15467</link>
+      <description>Райдэн (Электро)</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110245153815.jpg"><br/><br/>Райдэн (Электро)<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15467">«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15467</guid>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

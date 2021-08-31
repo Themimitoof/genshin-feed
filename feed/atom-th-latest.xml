@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-08-31T03:09:39.461689+00:00</updated>
+  <updated>2021-08-31T04:11:10.476512+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12703</id>
-    <title>ประกาศเกี่ยวกับความปลอดภัยของบัญชี</title>
-    <updated>2021-05-11T19:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118490812310.png"><br/><br/>เพื่อให้มั่นใจในเรื่องความปลอดภัยของบัญชีของนักเดินทางและให้ประสบการณ์การเล่นเกมที่ดีขึ้น<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12703">ประกาศเกี่ยวกับความปลอดภัยของบัญชี</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12703" rel="alternate"/>
-    <summary>เพื่อให้มั่นใจในเรื่องความปลอดภัยของบัญชีของนักเดินทางและให้ประสบการณ์การเล่นเกมที่ดีขึ้น</summary>
-    <published>2021-05-11T19:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12723</id>
     <title>คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</title>
@@ -905,5 +896,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817272059328.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15376">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.1 ช่วงที่ 1</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/15376" rel="alternate"/>
     <published>2021-08-30T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15479</id>
+    <title>ตัวอย่างตัวละคร Genshin Impact - "Raiden Shogun: คำพิพากษาแห่งดินแดนอันบริสุทธิ์"</title>
+    <updated>2021-08-31T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110363331171.jpg"><br/><br/>คำเตือน: วิดีโอนี้อาจก่อให้เกิดผลกระทบต่อผู้ป่วยโรคลมชักที่ไวต่อแสง ขอแนะนำให้รับชมอย่างระมัดระวัง <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15479">ตัวอย่างตัวละคร Genshin Impact - "Raiden Shogun: คำพิพากษาแห่งดินแดนอันบริสุทธิ์"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15479" rel="alternate"/>
+    <summary>คำเตือน: วิดีโอนี้อาจก่อให้เกิดผลกระทบต่อผู้ป่วยโรคลมชักที่ไวต่อแสง ขอแนะนำให้รับชมอย่างระมัดระวัง </summary>
+    <published>2021-08-31T12:00:00+07:00</published>
   </entry>
 </feed>

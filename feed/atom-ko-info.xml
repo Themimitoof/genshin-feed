@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-08-31T03:09:37.125899+00:00</updated>
+  <updated>2021-08-31T04:10:57.432308+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12708</id>
-    <title>계정 보안 관련 안내</title>
-    <updated>2021-05-11T19:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119112768791.png"><br/><br/>계정 보안 관련 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12708">계정 보안 관련 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12708" rel="alternate"/>
-    <summary>계정 보안 관련 안내</summary>
-    <published>2021-05-11T19:00:00+09:00</published>
-  </entry>
   <entry>
     <id>12725</id>
     <title>「바람의 행방」 이벤트 설명</title>
@@ -972,5 +963,16 @@
     <summary>2.1 버전이 곧 출시될 예정이야! 여행자는 흥미진진한 새로운 이벤트를 맞이할 준비가 됐어? 
 우리 같이 더 많은 이벤트 정보를 확인해 보자구~!</summary>
     <published>2021-08-30T12:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15471</id>
+    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「라이덴 쇼군: 정토 심판」</title>
+    <updated>2021-08-31T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110311590861.jpg"><br/><br/>「지난날 다정하던 벚꽃이 오늘날 새까맣게 물들었다
+천둥소리가 사그라들며 고요해질 때, 아득한 포영의 꿈이 깨어날 것이다」<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15471"><원신> 신규 캐릭터 플레이 - 「라이덴 쇼군: 정토 심판」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15471" rel="alternate"/>
+    <summary>「지난날 다정하던 벚꽃이 오늘날 새까맣게 물들었다
+천둥소리가 사그라들며 고요해질 때, 아득한 포영의 꿈이 깨어날 것이다」</summary>
+    <published>2021-08-31T12:01:00+09:00</published>
   </entry>
 </feed>

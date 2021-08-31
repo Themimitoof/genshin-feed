@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-08-31T03:09:30.741164+00:00</updated>
+  <updated>2021-08-31T04:10:26.719931+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12481</id>
-    <title>Story Teaser: Through the Eyes of a Dragon | Genshin Impact</title>
-    <updated>2021-04-29T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911081955751.jpg"><br/><br/>"Thus was a dragon forged from a sovereign's duty and a friend's loyalty. Thus did a ray of light illuminate the dragon's eyes, freeing the transcendent being to explore the world."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12481">Story Teaser: Through the Eyes of a Dragon | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12481" rel="alternate"/>
-    <summary>"Thus was a dragon forged from a sovereign's duty and a friend's loyalty. Thus did a ray of light illuminate the dragon's eyes, freeing the transcendent being to explore the world."</summary>
-    <published>2021-04-29T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>12539</id>
     <title>Energy Amplifier Top Tips - "Domain of Furious Thunder"</title>
@@ -1003,5 +994,16 @@ Braving this strange new world of Teyvat will be Aloy's latest trial.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/15353" rel="alternate"/>
     <summary>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~</summary>
     <published>2021-08-30T12:10:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15468</id>
+    <title>Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</title>
+    <updated>2021-08-31T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110234372897.jpg"><br/><br/>The sentimental cherry blossoms of days of yore have been stained with black.
+When thunder falls silent, the fleeting dream of an illusory bubble will be shattered.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15468">Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15468" rel="alternate"/>
+    <summary>The sentimental cherry blossoms of days of yore have been stained with black.
+When thunder falls silent, the fleeting dream of an illusory bubble will be shattered.</summary>
+    <published>2021-08-31T12:00:00-04:00</published>
   </entry>
 </feed>
