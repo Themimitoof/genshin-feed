@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 31 Aug 2021 22:07:22 +0000</lastBuildDate>
-    <item>
-      <title>「私（俺）たちはいずれ再会する」任務予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9855</link>
-      <description>魔神任務 第一章 第四幕近日開放</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040711440633661.jpg"><br/><br/>魔神任務 第一章 第四幕近日開放<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9855">「私（俺）たちはいずれ再会する」任務予告</a>]]></content:encoded>
-      <guid isPermaLink="false">9855</guid>
-      <pubDate>Sat, 10 Apr 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 23:08:47 +0000</lastBuildDate>
     <item>
       <title>コンテンツクリエイター(第2期)募集開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/11675</link>
@@ -726,6 +718,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083017381255538.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15455">稲妻キャラクタースタンプ配布</a>]]></description>
       <guid isPermaLink="false">15455</guid>
       <pubDate>Tue, 31 Aug 2021 16:57:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.1「韶光撫月の浮世」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15488</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083115163379743.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15488">Ver.2.1「韶光撫月の浮世」更新内容について</a>]]></description>
+      <guid isPermaLink="false">15488</guid>
+      <pubDate>Wed, 01 Sep 2021 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

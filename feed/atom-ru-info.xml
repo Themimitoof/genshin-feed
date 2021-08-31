@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-08-31T22:07:25.640201+00:00</updated>
+  <updated>2021-08-31T23:08:58.886609+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>12718</id>
-    <title>Событие «По следам ветра»</title>
-    <updated>2021-05-13T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210512/2021051223082121296.jpg"><br/><br/>Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!
-Игроки делятся на две команды: мятежники из подпольного сопротивления и охотник, посланный аристократией. Команды соревнуются на спорной территории.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12718">Событие «По следам ветра»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12718" rel="alternate"/>
-    <summary>Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!
-Игроки делятся на две команды: мятежники из подпольного сопротивления и охотник, посланный аристократией. Команды соревнуются на спорной территории.</summary>
-    <published>2021-05-13T10:30:00+03:00</published>
-  </entry>
-  <entry>
-    <id>12738</id>
-    <title>Молитва «Рождённая морской волной» - Повышен шанс получить персонажа «Танец морской пены» Эола (Крио)</title>
-    <updated>2021-05-16T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051416534914286.jpg"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12738">Молитва «Рождённая морской волной» - Повышен шанс получить персонажа «Танец морской пены» Эола (Крио)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12738" rel="alternate"/>
-    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-05-16T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>12752</id>
     <title>Молитва «Воплощение божества»: повышен шанс получить Песнь разбитых сосен (Двуручное), Меч Сокола (Одноручное) и другое оружие!</title>
@@ -921,5 +901,23 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15467" rel="alternate"/>
     <summary>Райдэн (Электро)</summary>
     <published>2021-08-31T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15542</id>
+    <title>По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно</title>
+    <updated>2021-09-01T06:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно закрыт с 06:00 (UTC+8) 1 сентября 2021 года.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15542">По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15542" rel="alternate"/>
+    <summary>По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно закрыт с 06:00 (UTC+8) 1 сентября 2021 года.</summary>
+    <published>2021-09-01T06:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15508</id>
+    <title>Подробности обновления 2.1 «Лунное утешение для бренного мира»</title>
+    <updated>2021-09-01T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15508">Подробности обновления 2.1 «Лунное утешение для бренного мира»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15508" rel="alternate"/>
+    <summary>Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.</summary>
+    <published>2021-09-01T07:00:00+03:00</published>
   </entry>
 </feed>

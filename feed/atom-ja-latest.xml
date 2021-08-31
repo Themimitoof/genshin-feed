@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-08-31T22:07:22.972843+00:00</updated>
+  <updated>2021-08-31T23:08:47.460868+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>9855</id>
-    <title>「私（俺）たちはいずれ再会する」任務予告</title>
-    <updated>2021-04-10T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210407/2021040711440633661.jpg"><br/><br/>魔神任務 第一章 第四幕近日開放<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9855">「私（俺）たちはいずれ再会する」任務予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9855" rel="alternate"/>
-    <summary>魔神任務 第一章 第四幕近日開放</summary>
-    <published>2021-04-10T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>11675</id>
     <title>コンテンツクリエイター(第2期)募集開始！</title>
@@ -892,5 +883,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15455" rel="alternate"/>
     <summary/>
     <published>2021-08-31T16:57:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15488</id>
+    <title>Ver.2.1「韶光撫月の浮世」更新内容について</title>
+    <updated>2021-09-01T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083115163379743.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15488">Ver.2.1「韶光撫月の浮世」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15488" rel="alternate"/>
+    <summary/>
+    <published>2021-09-01T07:00:00+09:00</published>
   </entry>
 </feed>

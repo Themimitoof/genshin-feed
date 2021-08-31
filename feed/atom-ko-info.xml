@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-08-31T22:07:24.050543+00:00</updated>
+  <updated>2021-08-31T23:08:51.588430+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12725</id>
-    <title>「바람의 행방」 이벤트 설명</title>
-    <updated>2021-05-13T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051311174037754.jpg"><br/><br/>몬드의 역사를 담고 있는 클래식 게임 「바람의 행방」이 다시 오픈했습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12725">「바람의 행방」 이벤트 설명</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12725" rel="alternate"/>
-    <summary>몬드의 역사를 담고 있는 클래식 게임 「바람의 행방」이 다시 오픈했습니다!</summary>
-    <published>2021-05-13T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12769</id>
-    <title>「파도가 치는 순간」 기원, 「물보라의 춤·유라(얼음)」 확률 UP!</title>
-    <updated>2021-05-16T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051423451958699.jpg"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12769">「파도가 치는 순간」 기원, 「물보라의 춤·유라(얼음)」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12769" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</summary>
-    <published>2021-05-16T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>12770</id>
     <title>「신의 주조」 기원, 「양손검·송뢰가 울릴 무렵」,「한손검·매의 검」 확률 UP!</title>
@@ -974,5 +956,23 @@
     <summary>「지난날 다정하던 벚꽃이 오늘날 새까맣게 물들었다
 천둥소리가 사그라들며 고요해질 때, 아득한 포영의 꿈이 깨어날 것이다」</summary>
     <published>2021-08-31T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15543</id>
+    <title>기술상의 이유로 2021년 9월 1일 6:00(UDT+8), &lt;원신&gt; 공식 홈페이지의 충전센터를 닫았다가 9월 1일 11:00(UDT+8)에 다시 오픈할 예정입니다. </title>
+    <updated>2021-09-01T06:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[실제 재오픈 시점은 상황에 따라 변동될 수 있으며, 해당 시간 동안 공식 사이트의 충전센터를 통해 「공월 축복」과 「창세의 결정」을 구매하실 수 없습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15543">기술상의 이유로 2021년 9월 1일 6:00(UDT+8), <원신> 공식 홈페이지의 충전센터를 닫았다가 9월 1일 11:00(UDT+8)에 다시 오픈할 예정입니다. </a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15543" rel="alternate"/>
+    <summary>실제 재오픈 시점은 상황에 따라 변동될 수 있으며, 해당 시간 동안 공식 사이트의 충전센터를 통해 「공월 축복」과 「창세의 결정」을 구매하실 수 없습니다</summary>
+    <published>2021-09-01T06:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15527</id>
+    <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 상세안내</title>
+    <updated>2021-09-01T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083121445967704.jpg"><br/><br/>2.1 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15527">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 상세안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15527" rel="alternate"/>
+    <summary>2.1 버전 업데이트 안내</summary>
+    <published>2021-09-01T07:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - updates</title>
-  <updated>2021-08-31T22:07:23.084480+00:00</updated>
+  <updated>2021-08-31T23:08:48.844947+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>updates feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>5843</id>
-    <title>クリップボード関連不具合のご報告と修正について</title>
-    <updated>2020-09-29T23:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200930/2020093013332276042.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5843">クリップボード関連不具合のご報告と修正について</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/5843" rel="alternate"/>
-    <summary/>
-    <published>2020-09-29T23:00:00+09:00</published>
-  </entry>
   <entry>
     <id>5861</id>
     <title>補給パック「空月の祝福」が抽選で当たるキャンペーン開催！</title>
@@ -897,5 +888,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15455" rel="alternate"/>
     <summary/>
     <published>2021-08-31T16:57:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15488</id>
+    <title>Ver.2.1「韶光撫月の浮世」更新内容について</title>
+    <updated>2021-09-01T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083115163379743.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15488">Ver.2.1「韶光撫月の浮世」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15488" rel="alternate"/>
+    <summary/>
+    <published>2021-09-01T07:00:00+09:00</published>
   </entry>
 </feed>

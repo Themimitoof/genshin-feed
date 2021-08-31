@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 31 Aug 2021 22:07:20 +0000</lastBuildDate>
-    <item>
-      <title>Mitteilung zur Kontosicherheit</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12699</link>
-      <description>Lieber Reisender,</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118332723754.png"><br/><br/>Lieber Reisender,<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12699">Mitteilung zur Kontosicherheit</a>]]></content:encoded>
-      <guid isPermaLink="false">12699</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Erläuterungen zur Spielweise der Aktion „Windflucht“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12721</link>
-      <description>Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051300125591704.jpg"><br/><br/>Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12721">Erläuterungen zur Spielweise der Aktion „Windflucht“</a>]]></content:encoded>
-      <guid isPermaLink="false">12721</guid>
-      <pubDate>Thu, 13 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 23:08:34 +0000</lastBuildDate>
     <item>
       <title>Gebet „Stunde der Wogen“: Höhere Wahrscheinlichkeit für „Wirbeltanz der Gischt – Eula (Kryo)“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12755</link>
@@ -833,6 +817,24 @@ um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze e
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110440239298.jpg"><br/><br/>Warnung: An erhöhter Lichtempfindlichkeit oder Epilepsie Leidende könnten auf dieses Video empfindlich reagieren. Achte bitte auf deine Gesundheit, wenn du dich dazu entscheidest, das Video anzusehen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15483">Figurenvorführung bei Genshin Impact – Shougun Raiden: Schuldspruch der Utopie</a>]]></content:encoded>
       <guid isPermaLink="false">15483</guid>
       <pubDate>Tue, 31 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15538</link>
+      <description>Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website von Genshin Impact vorübergehend schließen und voraussichtlich am 01. September, 11:00 Uhr (UTC+8) wieder öffnen.</description>
+      <content:encoded><![CDATA[Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website von Genshin Impact vorübergehend schließen und voraussichtlich am 01. September, 11:00 Uhr (UTC+8) wieder öffnen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15538">Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website</a>]]></content:encoded>
+      <guid isPermaLink="false">15538</guid>
+      <pubDate>Wed, 01 Sep 2021 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Erläuterung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15514</link>
+      <description>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“ sowie zur Entschädigung dafür.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119183460541.jpg"><br/><br/>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15514">Erläuterung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</a>]]></content:encoded>
+      <guid isPermaLink="false">15514</guid>
+      <pubDate>Wed, 01 Sep 2021 07:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

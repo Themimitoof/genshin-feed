@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 31 Aug 2021 22:07:18 +0000</lastBuildDate>
-    <item>
-      <title>Astuces pour l'« Amplificateur d'énergie » - Domaine du tonnerre furieux</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12537</link>
-      <description>Le Domaine du tonnerre furieux de la Réalité distordue est disponible dès aujourd'hui !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210430/2021043018151736396.png"><br/><br/>Le Domaine du tonnerre furieux de la Réalité distordue est disponible dès aujourd'hui !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12537">Astuces pour l'« Amplificateur d'énergie » - Domaine du tonnerre furieux</a>]]></content:encoded>
-      <guid isPermaLink="false">12537</guid>
-      <pubDate>Mon, 03 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Histoire de personnage | Eula : « Rencontre fortuite à la taverne »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12681</link>
-      <description>Si vous partagez la table de la solitaire Eula qui noie ses problèmes dans la boisson dans une taverne mondstadtoise la nuit tombée, vous l'entendrez parler dans un état d'ivresse des nombreuses « vengeances » qu'elle devra mener à cause de différends ayant eu lieu dans la journée...
-Mais se vengera-t-elle vraiment pour toutes ces choses ?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051110254884523.jpg"><br/><br/>Si vous partagez la table de la solitaire Eula qui noie ses problèmes dans la boisson dans une taverne mondstadtoise la nuit tombée, vous l'entendrez parler dans un état d'ivresse des nombreuses « vengeances » qu'elle devra mener à cause de différends ayant eu lieu dans la journée...
-Mais se vengera-t-elle vraiment pour toutes ces choses ?<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12681">Genshin Impact - Histoire de personnage | Eula : « Rencontre fortuite à la taverne »</a>]]></content:encoded>
-      <guid isPermaLink="false">12681</guid>
-      <pubDate>Tue, 11 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 23:08:28 +0000</lastBuildDate>
     <item>
       <title>Capitaine Eula Lawrence, Chevalier aux Embruns, de l'unité de reconnaissance de l'Ordre de Favonius. Je vous salue.</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12692</link>
@@ -849,6 +831,26 @@ Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se br
 Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se brise. »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15465">Genshin Impact - Démo personnage : « Shogun Raiden : Jugement de l'euthymie »</a>]]></content:encoded>
       <guid isPermaLink="false">15465</guid>
       <pubDate>Tue, 31 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15539</link>
+      <description>En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible le 1er septembre 2021 à partir de 06 h 00 (UTC+8). Il rouvrira le 1er septembre 2021 vers 11 h 00 (UTC+8).</description>
+      <content:encoded><![CDATA[En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible le 1er septembre 2021 à partir de 06 h 00 (UTC+8). Il rouvrira le 1er septembre 2021 vers 11 h 00 (UTC+8).<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15539">En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible</a>]]></content:encoded>
+      <guid isPermaLink="false">15539</guid>
+      <pubDate>Wed, 01 Sep 2021 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de la mise à jour de version 2.1 « Caresse sélénite sur les mortels » </title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15529</link>
+      <description>Chers voyageurs,
+
+Voici les détails de la mise à jour et de la compensation de la version 2.1 « Caresse sélénite sur les mortels ».</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122124546986.jpg"><br/><br/>Chers voyageurs,
+
+Voici les détails de la mise à jour et de la compensation de la version 2.1 « Caresse sélénite sur les mortels ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15529">Détails de la mise à jour de version 2.1 « Caresse sélénite sur les mortels » </a>]]></content:encoded>
+      <guid isPermaLink="false">15529</guid>
+      <pubDate>Wed, 01 Sep 2021 07:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

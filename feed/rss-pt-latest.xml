@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 31 Aug 2021 22:07:25 +0000</lastBuildDate>
-    <item>
-      <title>Aviso sobre a segurança da conta</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/12701</link>
-      <description>Para garantir a segurança da sua conta, e fornecer uma melhor experiência do jogo...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118380533573.png"><br/><br/>Para garantir a segurança da sua conta, e fornecer uma melhor experiência do jogo...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12701">Aviso sobre a segurança da conta</a>]]></content:encoded>
-      <guid isPermaLink="false">12701</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Detalhes do Modo de Jogo do Evento "Labirinto de Vento"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/12716</link>
-      <description>Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210512/2021051222411496931.jpg"><br/><br/>Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12716">Detalhes do Modo de Jogo do Evento "Labirinto de Vento"</a>]]></content:encoded>
-      <guid isPermaLink="false">12716</guid>
-      <pubDate>Thu, 13 May 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 23:08:53 +0000</lastBuildDate>
     <item>
       <title>Oração "Formação das Ondas": Aumento da Taxa de Drop de "Dança da Onda Quebradora - Eula (Cryo)"!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/12750</link>
@@ -814,6 +798,22 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110550947678.jpg"><br/><br/>"Os sentimentos da Sakura do passado hoje já se escureceram. Quando chegar o momento do silêncio severo do trovão, se acordará do sonho de ilusões".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15485">Demo da Nova Personagem de Genshin Impact - "Shogun Raiden: Terra da Eternidade e Julgamento"</a>]]></content:encoded>
       <guid isPermaLink="false">15485</guid>
       <pubDate>Tue, 31 Aug 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15541</link>
+      <description>Devido a um problema técnico, nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact e estimamos que ela será reaberta em 01/09 11:00 (UTC +8)</description>
+      <content:encoded><![CDATA[Devido a um problema técnico, nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact e estimamos que ela será reaberta em 01/09 11:00 (UTC +8)<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15541">Nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15541</guid>
+      <pubDate>Wed, 01 Sep 2021 06:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Descrição da Atualização da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15512</link>
+      <description>Caros Viajantes: Clique para ver o conteúdo da Atualização e Compensação da Atualização da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119134513503.jpg"><br/><br/>Caros Viajantes: Clique para ver o conteúdo da Atualização e Compensação da Atualização da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15512">Descrição da Atualização da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</a>]]></content:encoded>
+      <guid isPermaLink="false">15512</guid>
+      <pubDate>Wed, 01 Sep 2021 07:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

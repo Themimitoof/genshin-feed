@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 31 Aug 2021 22:07:22 +0000</lastBuildDate>
-    <item>
-      <title>¡El evento web «El retorno de las estrellas» ya está disponible! ¡Invita a otros aventureros a regresar al juego y gana Protogemas y merchandising!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12444</link>
-      <description>El Gremio de Aventureros envió una invitación para participar en «El retorno de las estrellas». Los aventureros que inviten a otros aventureros a regresar también podrán obtener numerosos regalos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811312086111.jpg"><br/><br/>El Gremio de Aventureros envió una invitación para participar en «El retorno de las estrellas». Los aventureros que inviten a otros aventureros a regresar también podrán obtener numerosos regalos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12444">¡El evento web «El retorno de las estrellas» ya está disponible! ¡Invita a otros aventureros a regresar al juego y gana Protogemas y merchandising!</a>]]></content:encoded>
-      <guid isPermaLink="false">12444</guid>
-      <pubDate>Wed, 28 Apr 2021 11:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Yanfei: El resplandor de la ley</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12440</link>
-      <description>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811094149512.jpg"><br/><br/>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12440">Genshin Impact - Yanfei: El resplandor de la ley</a>]]></content:encoded>
-      <guid isPermaLink="false">12440</guid>
-      <pubDate>Wed, 28 Apr 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 31 Aug 2021 23:08:38 +0000</lastBuildDate>
     <item>
       <title>Avance de la trama de Genshin Impact: "La visión del dragón"</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12496</link>
@@ -800,6 +784,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110124466260.jpg"><br/><br/>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15463">Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</a>]]></content:encoded>
       <guid isPermaLink="false">15463</guid>
       <pubDate>Tue, 31 Aug 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Cerraremos temporalmente el Centro de recarga de la web oficial de Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15540</link>
+      <description>Debido a razones técnicas, cerraremos temporalmente el Centro de recarga de la web oficial de Genshin Impact el 1 de septiembre de 2021 a las 6:00 (UTC +8). Esperamos reabrirlo el 1 de septiembre a las 11:00 (UTC +8)</description>
+      <content:encoded><![CDATA[Debido a razones técnicas, cerraremos temporalmente el Centro de recarga de la web oficial de Genshin Impact el 1 de septiembre de 2021 a las 6:00 (UTC +8). Esperamos reabrirlo el 1 de septiembre a las 11:00 (UTC +8)<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15540">Cerraremos temporalmente el Centro de recarga de la web oficial de Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15540</guid>
+      <pubDate>Wed, 01 Sep 2021 06:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Detalles de la versión 2.1 «Una luna sobre los mortales»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15506</link>
+      <description>Querido/a viajero/a: Aquí te traemos el contenido de la versión 2.1 «Una luna sobre los mortales» y la información relacionada con sus compensaciones.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083118564892530.jpg"><br/><br/>Querido/a viajero/a: Aquí te traemos el contenido de la versión 2.1 «Una luna sobre los mortales» y la información relacionada con sus compensaciones.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15506">Detalles de la versión 2.1 «Una luna sobre los mortales»</a>]]></content:encoded>
+      <guid isPermaLink="false">15506</guid>
+      <pubDate>Wed, 01 Sep 2021 07:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

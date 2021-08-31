@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-08-31T22:07:19.685991+00:00</updated>
+  <updated>2021-08-31T23:08:32.478040+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12690</id>
-    <title>西風騎士團，游擊小隊隊長，「浪花騎士」優菈·勞倫斯，向你致以問候</title>
-    <updated>2021-05-11T12:15:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051112394463487.png"><br/><br/>今天為大家介紹的是西風騎士團的游擊小隊隊長，「浪花騎士」優菈·勞倫斯<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12690">西風騎士團，游擊小隊隊長，「浪花騎士」優菈·勞倫斯，向你致以問候</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12690" rel="alternate"/>
-    <summary>今天為大家介紹的是西風騎士團的游擊小隊隊長，「浪花騎士」優菈·勞倫斯</summary>
-    <published>2021-05-11T12:15:00+08:00</published>
-  </entry>
-  <entry>
-    <id>12707</id>
-    <title>帳號安全相關通知</title>
-    <updated>2021-05-11T19:09:15+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119101057318.png"><br/><br/>為了保障旅行者的帳號安全，為旅行者帶來更好的遊戲體驗，希望旅行者儘量完善個人帳號資料。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12707">帳號安全相關通知</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12707" rel="alternate"/>
-    <summary>為了保障旅行者的帳號安全，為旅行者帶來更好的遊戲體驗，希望旅行者儘量完善個人帳號資料。</summary>
-    <published>2021-05-11T19:09:15+08:00</published>
-  </entry>
   <entry>
     <id>12720</id>
     <title>「風行迷蹤」活動玩法說明</title>
@@ -888,5 +870,22 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15474" rel="alternate"/>
     <summary>「昔日多情的櫻花，如今已作墨色。待到雷聲沉鬱的寂然之刻，方曉渺渺泡影之夢將覺。」</summary>
     <published>2021-08-31T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15535</id>
+    <title>我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心</title>
+    <updated>2021-09-01T06:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[因技術原因，我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心，並預計將在9月1日 11:00 （UTC+8）重新開啟。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15535">我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15535" rel="alternate"/>
+    <summary>因技術原因，我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心，並預計將在9月1日 11:00 （UTC+8）重新開啟。</summary>
+    <published>2021-09-01T06:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15507</id>
+    <title>「韶光撫月，天下人間」2.1版本更新說明</title>
+    <updated>2021-09-01T07:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083118583216967.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15507">「韶光撫月，天下人間」2.1版本更新說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15507" rel="alternate"/>
+    <published>2021-09-01T07:00:00+08:00</published>
   </entry>
 </feed>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-08-31T22:07:25.964825+00:00</updated>
+  <updated>2021-08-31T23:09:02.558707+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12723</id>
-    <title>คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</title>
-    <updated>2021-05-13T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051310201616938.png"><br/><br/>"เส้นทางแห่งสายลม" เกมสุดคลาสสิกเกี่ยวกับประวัติศาสตร์ของ Mondstadt <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12723">คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12723" rel="alternate"/>
-    <summary>"เส้นทางแห่งสายลม" เกมสุดคลาสสิกเกี่ยวกับประวัติศาสตร์ของ Mondstadt </summary>
-    <published>2021-05-13T10:30:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12740</id>
-    <title>การอธิษฐาน "ประกายแห่งเกลียวคลื่น": โอกาสได้รับ UP "ระบำแห่งเกลียวคลื่น - Eula (น้ำแข็ง)"</title>
-    <updated>2021-05-16T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051416552381696.jpg"><br/><br/>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับตัวละครและอาวุธมากมายจากกิจกรรมอธิษฐาน <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12740">การอธิษฐาน "ประกายแห่งเกลียวคลื่น": โอกาสได้รับ UP "ระบำแห่งเกลียวคลื่น - Eula (น้ำแข็ง)"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12740" rel="alternate"/>
-    <summary>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับตัวละครและอาวุธมากมายจากกิจกรรมอธิษฐาน </summary>
-    <published>2021-05-16T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12751</id>
     <title>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ดาบใหญ่ - Song of Broken Pines" "ดาบ - Aquila Favonia"!</title>
@@ -905,5 +887,22 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/15479" rel="alternate"/>
     <summary>คำเตือน: วิดีโอนี้อาจก่อให้เกิดผลกระทบต่อผู้ป่วยโรคลมชักที่ไวต่อแสง ขอแนะนำให้รับชมอย่างระมัดระวัง </summary>
     <published>2021-08-31T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15537</id>
+    <title>เนื่องจากเหตุผลทางเทคนิค เราจะปิดศูนย์เติมเงินบนเว็บไซต์ทางการของ "Genshin Impact" ในวันที่ 1 ก.ย.</title>
+    <updated>2021-09-01T06:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[2021 เวลา 06:00 น. (UTC+8) และคาดว่าจะเปิดอีกครั้งในวันที่ 1 ก.ย. 2021 เวลา 11:00 น. <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15537">เนื่องจากเหตุผลทางเทคนิค เราจะปิดศูนย์เติมเงินบนเว็บไซต์ทางการของ "Genshin Impact" ในวันที่ 1 ก.ย.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15537" rel="alternate"/>
+    <summary>2021 เวลา 06:00 น. (UTC+8) และคาดว่าจะเปิดอีกครั้งในวันที่ 1 ก.ย. 2021 เวลา 11:00 น. </summary>
+    <published>2021-09-01T06:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15522</id>
+    <title>คำอธิบายการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</title>
+    <updated>2021-09-01T07:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119515985207.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15522">คำอธิบายการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15522" rel="alternate"/>
+    <published>2021-09-01T07:00:00+07:00</published>
   </entry>
 </feed>

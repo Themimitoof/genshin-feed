@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-08-31T22:07:26.206598+00:00</updated>
+  <updated>2021-08-31T23:09:05.362987+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>12689</id>
-    <title>"Kỵ Sĩ Sóng Nước" Eula Lawrence, đội trưởng đội du kích của Đội Kỵ Sĩ Tây Phong xin gửi lời chào đến bạn!</title>
-    <updated>2021-05-11T12:15:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111194081289.png"><br/><br/>Các Nhà Lữ Hành thân mến \ (^ o ^) / ~<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12689">"Kỵ Sĩ Sóng Nước" Eula Lawrence, đội trưởng đội du kích của Đội Kỵ Sĩ Tây Phong xin gửi lời chào đến bạn!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12689" rel="alternate"/>
-    <summary>Các Nhà Lữ Hành thân mến \ (^ o ^) / ~</summary>
-    <published>2021-05-11T12:15:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12700</id>
-    <title>Thông báo về bảo mật tài khoản</title>
-    <updated>2021-05-11T19:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118344059994.png"><br/><br/>Nhà Lữ Hành thân mến:<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12700">Thông báo về bảo mật tài khoản</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12700" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến:</summary>
-    <published>2021-05-11T19:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12722</id>
     <title>Hướng dẫn cách chơi sự kiện "Cơn Gió Lạc Lối"</title>
@@ -951,5 +933,22 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/15481" rel="alternate"/>
     <summary>Cảnh báo: Video này có thể gây ra phản ứng khó chịu cho người mắc bệnh động kinh và nhạy cảm với ánh sáng, kiến nghị khán giả thận trọng khi xem.</summary>
     <published>2021-08-31T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15544</id>
+    <title>Do vấn đề kỹ thuật, chúng tôi sẽ đóng Trung Tâm Nạp của trang chủ Genshin Impact</title>
+    <updated>2021-09-01T06:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[Do vấn đề kỹ thuật, chúng tôi sẽ đóng Trung Tâm Nạp của trang chủ Genshin Impact vào 6:00 01/09/2021 (UTC+8), và dự kiến sẽ mở lại vào 11:00 01/09 (UTC+8).<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15544">Do vấn đề kỹ thuật, chúng tôi sẽ đóng Trung Tâm Nạp của trang chủ Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15544" rel="alternate"/>
+    <summary>Do vấn đề kỹ thuật, chúng tôi sẽ đóng Trung Tâm Nạp của trang chủ Genshin Impact vào 6:00 01/09/2021 (UTC+8), và dự kiến sẽ mở lại vào 11:00 01/09 (UTC+8).</summary>
+    <published>2021-09-01T06:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15523</id>
+    <title>Giới Thiệu Cập Nhật Phiên Bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</title>
+    <updated>2021-09-01T07:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119541181342.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15523">Giới Thiệu Cập Nhật Phiên Bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15523" rel="alternate"/>
+    <published>2021-09-01T07:00:00+07:00</published>
   </entry>
 </feed>
