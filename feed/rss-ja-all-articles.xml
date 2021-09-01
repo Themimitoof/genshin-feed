@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Sep 2021 03:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 04:11:42 +0000</lastBuildDate>
     <item>
       <title>Webイベント・「岩港珍奇行紀」開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6712</link>
@@ -678,6 +678,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117474576449.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15502">「百人一揆」イベント紹介</a>]]></description>
       <guid isPermaLink="false">15502</guid>
       <pubDate>Wed, 01 Sep 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「手をたずさえて」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15566</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110521634151.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15566">「手をたずさえて」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">15566</guid>
+      <pubDate>Wed, 01 Sep 2021 11:10:00 +0900</pubDate>
     </item>
     <item>
       <title>補給パック「空月の祝福」が抽選で当たるキャンペーン開催！</title>
@@ -1476,14 +1483,6 @@
       <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>「百貨珍品」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/11678</link>
-      <description>イベントに参加し、豪華な報酬を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041217004252306.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11678">「百貨珍品」イベント予告</a>]]></content:encoded>
-      <guid isPermaLink="false">11678</guid>
-      <pubDate>Tue, 13 Apr 2021 12:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>運営チームからの手紙</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/11805</link>
       <description>【04.15】開発チームQ&amp;A</description>
@@ -2190,6 +2189,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117474576449.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15502">「百人一揆」イベント紹介</a>]]></description>
       <guid isPermaLink="false">15502</guid>
       <pubDate>Wed, 01 Sep 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「手をたずさえて」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15566</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110521634151.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15566">「手をたずさえて」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">15566</guid>
+      <pubDate>Wed, 01 Sep 2021 11:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

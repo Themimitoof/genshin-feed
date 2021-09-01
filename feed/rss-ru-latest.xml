@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 01 Sep 2021 03:09:42 +0000</lastBuildDate>
-    <item>
-      <title>«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12816</link>
-      <description>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051709363258357.jpg"><br/><br/>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12816">«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12816</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Эола: Ледяной прилив | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12776</link>
-      <description>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500582214207.jpg"><br/><br/>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12776">Эола: Ледяной прилив | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12776</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 04:11:51 +0000</lastBuildDate>
     <item>
       <title>События «Поле боя: Туманное подземелье»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12890</link>
@@ -818,6 +800,22 @@
       <content:encoded><![CDATA[Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15524">Подсказки по новой версии 2.1</a>]]></content:encoded>
       <guid isPermaLink="false">15524</guid>
       <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15565</link>
+      <description>Событие «Идём вместе» стартовало!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110520968823.jpg"><br/><br/>Событие «Идём вместе» стартовало!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15565">Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</a>]]></content:encoded>
+      <guid isPermaLink="false">15565</guid>
+      <pubDate>Wed, 01 Sep 2021 11:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15545</link>
+      <description>Сёгун Райдэн: Грозовое небытие</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110014847034.jpg"><br/><br/>Сёгун Райдэн: Грозовое небытие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15545">Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15545</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

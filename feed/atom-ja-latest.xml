@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-09-01T03:09:32.738732+00:00</updated>
+  <updated>2021-09-01T04:11:39.094263+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>11678</id>
-    <title>「百貨珍品」イベント予告</title>
-    <updated>2021-04-13T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041217004252306.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11678">「百貨珍品」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/11678" rel="alternate"/>
-    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
-    <published>2021-04-13T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>11805</id>
     <title>運営チームからの手紙</title>
@@ -891,5 +882,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117474576449.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15502">「百人一揆」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/15502" rel="alternate"/>
     <published>2021-09-01T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15566</id>
+    <title>「手をたずさえて」イベント紹介</title>
+    <updated>2021-09-01T11:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110521634151.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15566">「手をたずさえて」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15566" rel="alternate"/>
+    <summary/>
+    <published>2021-09-01T11:10:00+09:00</published>
   </entry>
 </feed>

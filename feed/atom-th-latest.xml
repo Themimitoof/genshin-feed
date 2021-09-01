@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-09-01T03:09:46.190669+00:00</updated>
+  <updated>2021-09-01T04:11:54.248918+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12826</id>
-    <title>ตัวอย่างตัวละครของ Genshin Impact - "Eula: Flickering Candlelight"</title>
-    <updated>2021-05-17T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710263426387.jpg"><br/><br/>ทายาทผู้ดื้อรั้น ทำลายโซ่ตรวนน้ำแข็งด้วยการเต้นรำของคนบาป<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12826">ตัวอย่างตัวละครของ Genshin Impact - "Eula: Flickering Candlelight"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12826" rel="alternate"/>
-    <summary>ทายาทผู้ดื้อรั้น ทำลายโซ่ตรวนน้ำแข็งด้วยการเต้นรำของคนบาป</summary>
-    <published>2021-05-17T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12764</id>
-    <title>[Genshin Impact] เก็บตกตัวละคร "Eula: เกลียวคลื่นน้ำแข็ง"</title>
-    <updated>2021-05-18T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051419182316715.jpg"><br/><br/>คลื่นซัดสาดโหมกระหน่ำ หลอมรวมกลั่นตัวเป็นเกลียวคลื่นน้ำแข็ง เจาะทะลุผ่านความชั่วร้ายนับไม่ถ้วนที่คุกคามเมือง Mondstadt
-บนเส้นทางแห่งการแก้แค้นของ Eula เธอได้หลุดพ้นจากพันธนาการทางสายเลือดของครอบครัว และได้พบ "ตัวตน" ของเธอในที่สุด<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12764">[Genshin Impact] เก็บตกตัวละคร "Eula: เกลียวคลื่นน้ำแข็ง"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12764" rel="alternate"/>
-    <summary>คลื่นซัดสาดโหมกระหน่ำ หลอมรวมกลั่นตัวเป็นเกลียวคลื่นน้ำแข็ง เจาะทะลุผ่านความชั่วร้ายนับไม่ถ้วนที่คุกคามเมือง Mondstadt
-บนเส้นทางแห่งการแก้แค้นของ Eula เธอได้หลุดพ้นจากพันธนาการทางสายเลือดของครอบครัว และได้พบ "ตัวตน" ของเธอในที่สุด</summary>
-    <published>2021-05-18T18:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12891</id>
     <title>คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ"</title>
@@ -902,5 +882,21 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083120163977231.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15525">คำแนะนำการอัปเดตเวอร์ชัน 2.1</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/15525" rel="alternate"/>
     <published>2021-09-01T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15563</id>
+    <title>กิจกรรมบนเว็บไซต์ "ร่วมเดินทางไปด้วยกัน" ได้เริ่มขึ้นแล้ว ร่วมเดินทางไปกับนักผจญภัยเก่าที่กลับมา และผู้เล่นใหม่ เพื่อรับรางวัลมากมายด้วยกันเถอะ!</title>
+    <updated>2021-09-01T11:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110465289092.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15563">กิจกรรมบนเว็บไซต์ "ร่วมเดินทางไปด้วยกัน" ได้เริ่มขึ้นแล้ว ร่วมเดินทางไปกับนักผจญภัยเก่าที่กลับมา และผู้เล่นใหม่ เพื่อรับรางวัลมากมายด้วยกันเถอะ!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15563" rel="alternate"/>
+    <published>2021-09-01T11:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15557</id>
+    <title>[Genshin Impact] เก็บตกตัวละคร - "Raiden Shogun: ห้วงสายฟ้าที่ดับสูญ"</title>
+    <updated>2021-09-01T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110190125248.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15557">[Genshin Impact] เก็บตกตัวละคร - "Raiden Shogun: ห้วงสายฟ้าที่ดับสูญ"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15557" rel="alternate"/>
+    <published>2021-09-01T12:00:00+07:00</published>
   </entry>
 </feed>

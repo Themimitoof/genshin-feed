@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 01 Sep 2021 03:09:26 +0000</lastBuildDate>
-    <item>
-      <title>Consejos sobre el amplificador de energía - Dominio del Rayo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12553</link>
-      <description>¡Hoy ya está disponible el "Dominio del Rayo" del Territorio tortuoso! (Es necesario superar primero el dominio "Donde las sombras se revuelven")</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210503/2021050310175388405.png"><br/><br/>¡Hoy ya está disponible el "Dominio del Rayo" del Territorio tortuoso! (Es necesario superar primero el dominio "Donde las sombras se revuelven")<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12553">Consejos sobre el amplificador de energía - Dominio del Rayo</a>]]></content:encoded>
-      <guid isPermaLink="false">12553</guid>
-      <pubDate>Mon, 03 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12684</link>
-      <description>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111031443379.jpg"><br/><br/>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12684">Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</a>]]></content:encoded>
-      <guid isPermaLink="false">12684</guid>
-      <pubDate>Tue, 11 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 04:11:31 +0000</lastBuildDate>
     <item>
       <title>Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12695</link>
@@ -800,6 +784,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119133489658.png"><br/><br/>¡Hola, viajeros/as! ¡Hemos escuchado que la nueva versión 2.1 tiene nuevas islas por explorar! Paimon también quiere explorarlas contigo, ¡y quizás hacer nuevos amigos! Parece que hay mucho contenido por conocer. ¿Estás listo? ¡Vamos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15511">Recomendaciones de la versión 2.1</a>]]></content:encoded>
       <guid isPermaLink="false">15511</guid>
       <pubDate>Wed, 01 Sep 2021 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡El evento web «Avancemos juntos» ya está disponible! ¡Acompaña a nuevos aventureros o a aquellos que quieran regresar al juego para obtener recompensas!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15559</link>
+      <description>El Gremio de Aventureros ha publicado un encargo especial por tiempo limitado:</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110341653640.jpg"><br/><br/>El Gremio de Aventureros ha publicado un encargo especial por tiempo limitado:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15559">¡El evento web «Avancemos juntos» ya está disponible! ¡Acompaña a nuevos aventureros o a aquellos que quieran regresar al juego para obtener recompensas!</a>]]></content:encoded>
+      <guid isPermaLink="false">15559</guid>
+      <pubDate>Wed, 01 Sep 2021 11:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Shogun Raiden: Un silencio atronador</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15551</link>
+      <description>Un rayo solitario y breve puede convertirse en un castigo divino implacable en las manos de la Shogun Raiden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110125136513.jpg"><br/><br/>Un rayo solitario y breve puede convertirse en un castigo divino implacable en las manos de la Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15551">Genshin Impact - Shogun Raiden: Un silencio atronador</a>]]></content:encoded>
+      <guid isPermaLink="false">15551</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

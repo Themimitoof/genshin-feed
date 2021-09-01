@@ -2,35 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-09-01T03:09:35.326703+00:00</updated>
+  <updated>2021-09-01T04:11:42.377584+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12811</id>
-    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「유라: 빛나는 촛불」</title>
-    <updated>2021-05-17T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051709253690598.jpg"><br/><br/>반역의 후예, 죄인의 스텝으로 견고한 얼음의 족쇄를 끊는다
-빛나는 촛불, 흑야의 막 속에서 칼끝을 밝힌다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12811"><원신> 신규 캐릭터 플레이 - 「유라: 빛나는 촛불」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12811" rel="alternate"/>
-    <summary>반역의 후예, 죄인의 스텝으로 견고한 얼음의 족쇄를 끊는다
-빛나는 촛불, 흑야의 막 속에서 칼끝을 밝힌다</summary>
-    <published>2021-05-17T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12871</id>
-    <title>&lt;원신&gt; 데인 여담 - 「유라: 서리가 된 파도」</title>
-    <updated>2021-05-18T18:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051812173524300.jpg"><br/><br/>바다의 파도는 넘실거리다 세찬 파도가 되고 다시 모여 서리가 된다. 단단한 얼음으로 몬드를 위협하는 수많은 죄악을 꿰뚫는다.
-유라에게만 속한 복수의 길에서 그녀는 가문의 족쇄를 벗어던지고 진정한 「자아」를 찾았다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12871"><원신> 데인 여담 - 「유라: 서리가 된 파도」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12871" rel="alternate"/>
-    <summary>바다의 파도는 넘실거리다 세찬 파도가 되고 다시 모여 서리가 된다. 단단한 얼음으로 몬드를 위협하는 수많은 죄악을 꿰뚫는다.
-유라에게만 속한 복수의 길에서 그녀는 가문의 족쇄를 벗어던지고 진정한 「자아」를 찾았다.</summary>
-    <published>2021-05-18T18:01:00+09:00</published>
-  </entry>
   <entry>
     <id>12894</id>
     <title>「잃어버린 도시 전선」 이벤트 설명</title>
@@ -967,12 +945,34 @@
     <published>2021-09-01T11:00:00+09:00</published>
   </entry>
   <entry>
+    <id>15561</id>
+    <title>「동행」 웹이벤트 오픈! 복귀 모험가, 신인 모험가와 동행하고 선물을 받아 가세요!</title>
+    <updated>2021-09-01T11:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110373152566.jpg"><br/><br/>모험가 길드에서 기간 한정 특수 의뢰를 게시했습니다
+모험가들은 복귀 모험가나 신인 모험가들과 동행하고 의뢰를 해결하여 더 많은 선물을 받을 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15561">「동행」 웹이벤트 오픈! 복귀 모험가, 신인 모험가와 동행하고 선물을 받아 가세요!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15561" rel="alternate"/>
+    <summary>모험가 길드에서 기간 한정 특수 의뢰를 게시했습니다
+모험가들은 복귀 모험가나 신인 모험가들과 동행하고 의뢰를 해결하여 더 많은 선물을 받을 수 있습니다</summary>
+    <published>2021-09-01T11:10:00+09:00</published>
+  </entry>
+  <entry>
     <id>15530</id>
     <title>2.1 버전 업데이트 Tips</title>
-    <updated>2021-09-01T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122171698852.png"><br/><br/>﻿페이몬이 이번 업데이트에 대한 개발진의 추가 안내를 얘기해 줄게<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15530">2.1 버전 업데이트 Tips</a>]]></content>
+    <updated>2021-09-01T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111132072814.png"><br/><br/>﻿페이몬이 이번 업데이트에 대한 개발진의 추가 안내를 얘기해 줄게<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15530">2.1 버전 업데이트 Tips</a>]]></content>
     <link href="https://genshin.mihoyo.com/ko/news/detail/15530" rel="alternate"/>
     <summary>﻿페이몬이 이번 업데이트에 대한 개발진의 추가 안내를 얘기해 줄게</summary>
-    <published>2021-09-01T11:00:00+09:00</published>
+    <published>2021-09-01T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15532</id>
+    <title>&lt;원신&gt; 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</title>
+    <updated>2021-09-01T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122364018837.jpg"><br/><br/>찰나의 번개는 순간적으로 멀어지지만 라이덴 쇼군의 손에서는 신성하고 용서할 수 없는 천벌이 된다
+찰나의 천광으로 부세의 포영을 끊어낸다면「영원」에 더 가까워질지도 모르지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15532"><원신> 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15532" rel="alternate"/>
+    <summary>찰나의 번개는 순간적으로 멀어지지만 라이덴 쇼군의 손에서는 신성하고 용서할 수 없는 천벌이 된다
+찰나의 천광으로 부세의 포영을 끊어낸다면「영원」에 더 가까워질지도 모르지</summary>
+    <published>2021-09-01T12:01:00+09:00</published>
   </entry>
 </feed>

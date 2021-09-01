@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-09-01T03:09:43.517510+00:00</updated>
+  <updated>2021-09-01T04:11:52.324529+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>12816</id>
-    <title>«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-05-17T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051709363258357.jpg"><br/><br/>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12816">«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12816" rel="alternate"/>
-    <summary>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.</summary>
-    <published>2021-05-17T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>12776</id>
-    <title>Эола: Ледяной прилив | Коллекция Genshin Impact</title>
-    <updated>2021-05-18T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500582214207.jpg"><br/><br/>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12776">Эола: Ледяной прилив | Коллекция Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12776" rel="alternate"/>
-    <summary>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.</summary>
-    <published>2021-05-18T18:00:00+03:00</published>
-  </entry>
   <entry>
     <id>12890</id>
     <title>События «Поле боя: Туманное подземелье»</title>
@@ -919,5 +899,23 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15524" rel="alternate"/>
     <summary>Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!</summary>
     <published>2021-09-01T11:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15565</id>
+    <title>Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</title>
+    <updated>2021-09-01T11:10:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110520968823.jpg"><br/><br/>Событие «Идём вместе» стартовало!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15565">Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15565" rel="alternate"/>
+    <summary>Событие «Идём вместе» стартовало!</summary>
+    <published>2021-09-01T11:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15545</id>
+    <title>Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</title>
+    <updated>2021-09-01T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110014847034.jpg"><br/><br/>Сёгун Райдэн: Грозовое небытие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15545">Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15545" rel="alternate"/>
+    <summary>Сёгун Райдэн: Грозовое небытие</summary>
+    <published>2021-09-01T12:00:00+03:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 01 Sep 2021 03:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 04:11:54 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -206,22 +206,812 @@
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0300</pubDate>
     </item>
     <item>
-      <title>«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12816</link>
-      <description>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051709363258357.jpg"><br/><br/>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12816">«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12816</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0300</pubDate>
+      <title>События «Поле боя: Туманное подземелье»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/12890</link>
+      <description>В период события Путешественники смогут испытать отряды из определённых пробных персонажей в шести различных испытаниях. По завершении испытаний Путешественников будут ожидать Камни Истока, Опыт героя, материалы повышения талантов и другие награды.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916161046699.jpg"><br/><br/>В период события Путешественники смогут испытать отряды из определённых пробных персонажей в шести различных испытаниях. По завершении испытаний Путешественников будут ожидать Камни Истока, Опыт героя, материалы повышения талантов и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12890">События «Поле боя: Туманное подземелье»</a>]]></content:encoded>
+      <guid isPermaLink="false">12890</guid>
+      <pubDate>Thu, 20 May 2021 10:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Эола: Ледяной прилив | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12776</link>
-      <description>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500582214207.jpg"><br/><br/>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12776">Эола: Ледяной прилив | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12776</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0300</pubDate>
+      <title>О безопасности учётной записи</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/12903</link>
+      <description>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
+Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011040015675.png"><br/><br/>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
+Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12903">О безопасности учётной записи</a>]]></content:encoded>
+      <guid isPermaLink="false">12903</guid>
+      <pubDate>Thu, 20 May 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Беседы с разработчиками (24 мая) - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/12953</link>
+      <description>Сегодня Паймон пообщалась с разработчиками. ╰(*°▽°*)╯ Какие новости они приготовили для нас? Следуйте за Паймон, чтобы обо всём узнать первыми!
+Специальное сообщение (24 мая) Беседы с разработчиками - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052123481841646.png"><br/><br/>Сегодня Паймон пообщалась с разработчиками. ╰(*°▽°*)╯ Какие новости они приготовили для нас? Следуйте за Паймон, чтобы обо всём узнать первыми!
+Специальное сообщение (24 мая) Беседы с разработчиками - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12953">Беседы с разработчиками (24 мая) - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</a>]]></content:encoded>
+      <guid isPermaLink="false">12953</guid>
+      <pubDate>Mon, 24 May 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Поймай меня, если сможешь»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13041</link>
+      <description>Привет, Путешественники! Событие «Поймай меня, если сможешь» вот-вот начнётся!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052516594218044.jpg"><br/><br/>Привет, Путешественники! Событие «Поймай меня, если сможешь» вот-вот начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13041">Событие «Поймай меня, если сможешь»</a>]]></content:encoded>
+      <guid isPermaLink="false">13041</guid>
+      <pubDate>Wed, 26 May 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact | Версия 1.6 - Лето! Остров? Приключение!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13124</link>
+      <description>Знойным летним днём на подоконнике появилось таинственное письмо, а вдалеке вился неведомый туман.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818330742535.jpg"><br/><br/>Знойным летним днём на подоконнике появилось таинственное письмо, а вдалеке вился неведомый туман.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13124">Genshin Impact | Версия 1.6 - Лето! Остров? Приключение!</a>]]></content:encoded>
+      <guid isPermaLink="false">13124</guid>
+      <pubDate>Fri, 28 May 2021 20:45:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13164</link>
+      <description>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210601/2021060117051482174.jpg"><br/><br/>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13164">Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</a>]]></content:encoded>
+      <guid isPermaLink="false">13164</guid>
+      <pubDate>Wed, 02 Jun 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13193</link>
+      <description>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311204623561.jpg"><br/><br/>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13193">Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</a>]]></content:encoded>
+      <guid isPermaLink="false">13193</guid>
+      <pubDate>Thu, 03 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Об обновлении 1.6 «Лето! Остров? Приключение!»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13272</link>
+      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060709411212795.jpg"><br/><br/>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13272">Об обновлении 1.6 «Лето! Остров? Приключение!»</a>]]></content:encoded>
+      <guid isPermaLink="false">13272</guid>
+      <pubDate>Mon, 07 Jun 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Анонс о предзагрузке новой версии</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13276</link>
+      <description>Функция предзагрузки уже доступна на ПК и мобильных платформах.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710144250696.jpg"><br/><br/>Функция предзагрузки уже доступна на ПК и мобильных платформах.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13276">Анонс о предзагрузке новой версии</a>]]></content:encoded>
+      <guid isPermaLink="false">13276</guid>
+      <pubDate>Mon, 07 Jun 2021 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Эхо легенд»: примите участие и получите костюм Барбары «Летний блеск»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13282</link>
+      <description>В период события соберите определённое количество раковин эха, чтобы получить костюм Барбары «Летний блеск», Камни Истока и другие награды.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710370280978.png"><br/><br/>В период события соберите определённое количество раковин эха, чтобы получить костюм Барбары «Летний блеск», Камни Истока и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13282">Событие «Эхо легенд»: примите участие и получите костюм Барбары «Летний блеск»</a>]]></content:encoded>
+      <guid isPermaLink="false">13282</guid>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Костюм Джинн «Сон морского бриза» доступен на ограниченный период со скидкой</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13284</link>
+      <description>Костюм Джинн «Сон морского бриза» уже доступен в магазине со скидкой в течение ограниченного времени!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710383790729.png"><br/><br/>Костюм Джинн «Сон морского бриза» уже доступен в магазине со скидкой в течение ограниченного времени!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13284">Костюм Джинн «Сон морского бриза» доступен на ограниченный период со скидкой</a>]]></content:encoded>
+      <guid isPermaLink="false">13284</guid>
+      <pubDate>Mon, 07 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва «Воплощение божества»: повышен шанс получить Молитва святым ветрам (Катализатор), Небесное величие (Двуручное) и другое оружие!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13289</link>
+      <description>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710520512452.png"><br/><br/>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13289">Молитва «Воплощение божества»: повышен шанс получить Молитва святым ветрам (Катализатор), Небесное величие (Двуручное) и другое оружие!</a>]]></content:encoded>
+      <guid isPermaLink="false">13289</guid>
+      <pubDate>Mon, 07 Jun 2021 12:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13292</link>
+      <description>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710564452942.png"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13292">Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</a>]]></content:encoded>
+      <guid isPermaLink="false">13292</guid>
+      <pubDate>Mon, 07 Jun 2021 12:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Предварительный обзор событий версии 1.6 (Часть 1)</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13319</link>
+      <description>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060716275737803.png"><br/><br/>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13319">Предварительный обзор событий версии 1.6 (Часть 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">13319</guid>
+      <pubDate>Mon, 07 Jun 2021 16:26:56 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Лето! Остров? Приключение!»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13333</link>
+      <description>Скоро начнётся новое событие «Лето! Остров? Приключение!»
+Однажды знойным летним днём Кли получила письмо от загадочного Додокороля с угрозами отнять у неё Додоко! Путешественники, давайте поможем ей узнать правду!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719271948465.jpg"><br/><br/>Скоро начнётся новое событие «Лето! Остров? Приключение!»
+Однажды знойным летним днём Кли получила письмо от загадочного Додокороля с угрозами отнять у неё Додоко! Путешественники, давайте поможем ей узнать правду!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13333">Описание события «Лето! Остров? Приключение!»</a>]]></content:encoded>
+      <guid isPermaLink="false">13333</guid>
+      <pubDate>Tue, 08 Jun 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Эхо легенд»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13340</link>
+      <description>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060720130628050.png"><br/><br/>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13340">Событие «Эхо легенд»</a>]]></content:encoded>
+      <guid isPermaLink="false">13340</guid>
+      <pubDate>Tue, 08 Jun 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзор костюмов: Песнь о романтике побережья | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13349</link>
+      <description>Идеальное лето - это освежающий морской бриз, ослепительное солнце и ритмичная музыка.
+А ещё... Гулять по золотому песку, держа за руку дорогих людей и напевая песни.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060809435145086.jpg"><br/><br/>Идеальное лето - это освежающий морской бриз, ослепительное солнце и ритмичная музыка.
+А ещё... Гулять по золотому песку, держа за руку дорогих людей и напевая песни.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13349">Обзор костюмов: Песнь о романтике побережья | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">13349</guid>
+      <pubDate>Tue, 08 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзор костюма «Сон морского бриза»: новый костюм Джинн скоро в игре!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13373</link>
+      <description>Новый костюм Джинн «Сон морского бриза» скоро появится в игре! Его можно будет приобрести в магазине гардероба!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812474135954.png"><br/><br/>Новый костюм Джинн «Сон морского бриза» скоро появится в игре! Его можно будет приобрести в магазине гардероба!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13373">Обзор костюма «Сон морского бриза»: новый костюм Джинн скоро в игре!</a>]]></content:encoded>
+      <guid isPermaLink="false">13373</guid>
+      <pubDate>Tue, 08 Jun 2021 12:00:47 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13376</link>
+      <description>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812464312289.png"><br/><br/>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13376">Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</a>]]></content:encoded>
+      <guid isPermaLink="false">13376</guid>
+      <pubDate>Tue, 08 Jun 2021 12:08:16 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание версии 1.6 «Лето! Остров? Приключение!»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13418</link>
+      <description>Ниже представлена информация об обновлении до версии 1.6 - «Лето! Остров? Приключение!» и компенсации.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060819315922617.jpg"><br/><br/>Ниже представлена информация об обновлении до версии 1.6 - «Лето! Остров? Приключение!» и компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13418">Описание версии 1.6 «Лето! Остров? Приключение!»</a>]]></content:encoded>
+      <guid isPermaLink="false">13418</guid>
+      <pubDate>Wed, 09 Jun 2021 07:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Сокровища знойного лета» | Мини-альбом Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13399</link>
+      <description>Украдкой уходит багровое солнце, пытаясь сбежать к летним равнинам.
+Гений взрывов, высоко подняв голову, ищет сокровище Рыцаря Искорки.
+Недолго осталось рыбе спокойно плавать в кристальных ручьях.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060815082611842.jpg"><br/><br/>Украдкой уходит багровое солнце, пытаясь сбежать к летним равнинам.
+Гений взрывов, высоко подняв голову, ищет сокровище Рыцаря Искорки.
+Недолго осталось рыбе спокойно плавать в кристальных ручьях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13399">«Сокровища знойного лета» | Мини-альбом Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">13399</guid>
+      <pubDate>Wed, 09 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13462</link>
+      <description>Здравствуйте, Путешественники! \(^o^)/ Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017370080178.jpg"><br/><br/>Здравствуйте, Путешественники! \(^o^)/ Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13462">Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</a>]]></content:encoded>
+      <guid isPermaLink="false">13462</guid>
+      <pubDate>Thu, 10 Jun 2021 19:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Ветер под луной» Каэдэхара Кадзуха - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13550</link>
+      <description>Каэдэхара Кадзуха</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062218473627600.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13550">«Ветер под луной» Каэдэхара Кадзуха - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">13550</guid>
+      <pubDate>Wed, 23 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету.</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13566</link>
+      <description>Каэдэхара Кадзуха</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062310145650966.png"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13566">Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету.</a>]]></content:encoded>
+      <guid isPermaLink="false">13566</guid>
+      <pubDate>Wed, 23 Jun 2021 12:05:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Легенда о мече ветра»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13589</link>
+      <description>Легенда о мече ветра</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062316471065797.jpg"><br/><br/>Легенда о мече ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13589">Описание события «Легенда о мече ветра»</a>]]></content:encoded>
+      <guid isPermaLink="false">13589</guid>
+      <pubDate>Thu, 24 Jun 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Браузерное событие «Дальнее плавание» стартовало!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13627</link>
+      <description>Дальнее плавание</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062410480034321.jpg"><br/><br/>Дальнее плавание<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13627">Браузерное событие «Дальнее плавание» стартовало!</a>]]></content:encoded>
+      <guid isPermaLink="false">13627</guid>
+      <pubDate>Thu, 24 Jun 2021 13:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13665</link>
+      <description>Задание Архонтов</description>
+      <content:encoded><![CDATA[Задание Архонтов<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13665">Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</a>]]></content:encoded>
+      <guid isPermaLink="false">13665</guid>
+      <pubDate>Sun, 27 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13667</link>
+      <description>Молитва: Листья на ветру</description>
+      <content:encoded><![CDATA[Молитва: Листья на ветру<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13667">Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</a>]]></content:encoded>
+      <guid isPermaLink="false">13667</guid>
+      <pubDate>Sun, 27 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзор событий версии 1.6 - Выпуск II</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13678</link>
+      <description>Легенда о мече ветра</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210626/2021062615374697619.jpg"><br/><br/>Легенда о мече ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13678">Обзор событий версии 1.6 - Выпуск II</a>]]></content:encoded>
+      <guid isPermaLink="false">13678</guid>
+      <pubDate>Sun, 27 Jun 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13709</link>
+      <description>Каэдэхара Кадзуха</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811271831224.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13709">«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">13709</guid>
+      <pubDate>Mon, 28 Jun 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Каэдэхара Кадзуха: Вольный дух ветра | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13755</link>
+      <description>Каэдэхара Кадзуха</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062910312546240.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13755">Каэдэхара Кадзуха: Вольный дух ветра | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">13755</guid>
+      <pubDate>Tue, 29 Jun 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Беседы с разработчиками (30 июня) - Скоро выйдет телепортационный предмет декора!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13799</link>
+      <description>Беседы с разработчиками</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923060433467.png"><br/><br/>Беседы с разработчиками<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13799">Беседы с разработчиками (30 июня) - Скоро выйдет телепортационный предмет декора!</a>]]></content:encoded>
+      <guid isPermaLink="false">13799</guid>
+      <pubDate>Wed, 30 Jun 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Война бабах-мячей»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13785</link>
+      <description>Война бабах-мячей</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062915102075739.jpg"><br/><br/>Война бабах-мячей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13785">Описание события «Война бабах-мячей»</a>]]></content:encoded>
+      <guid isPermaLink="false">13785</guid>
+      <pubDate>Wed, 30 Jun 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13902</link>
+      <description>Альбом путешествий</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070223290847170.jpg"><br/><br/>Альбом путешествий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13902">Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</a>]]></content:encoded>
+      <guid isPermaLink="false">13902</guid>
+      <pubDate>Sat, 03 Jul 2021 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Тизер «Путешествие ловца молний» | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13869</link>
+      <description>Путешествие ловца молний</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070218215828776.jpg"><br/><br/>Путешествие ловца молний<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13869">Тизер «Путешествие ловца молний» | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">13869</guid>
+      <pubDate>Sun, 04 Jul 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Бесконечная битва»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/13967</link>
+      <description>Бесконечная битва</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717510291120.jpg"><br/><br/>Бесконечная битва<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13967">Событие «Бесконечная битва»</a>]]></content:encoded>
+      <guid isPermaLink="false">13967</guid>
+      <pubDate>Thu, 08 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact | Версия 2.0 - Незыблемый бог, гибель иллюзий</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14011</link>
+      <description>Версия 2.0</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914173185674.jpg"><br/><br/>Версия 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14011">Genshin Impact | Версия 2.0 - Незыблемый бог, гибель иллюзий</a>]]></content:encoded>
+      <guid isPermaLink="false">14011</guid>
+      <pubDate>Fri, 09 Jul 2021 21:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Синхронизация учётных записей PSN и miHoYo</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14051</link>
+      <description>Синхронизация учётных записей</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921113711590.jpg"><br/><br/>Синхронизация учётных записей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14051">Синхронизация учётных записей PSN и miHoYo</a>]]></content:encoded>
+      <guid isPermaLink="false">14051</guid>
+      <pubDate>Fri, 09 Jul 2021 22:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание механики молитвы оружия «Путь воплощения»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14054</link>
+      <description>Механики молитвы оружия</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921252228747.jpg"><br/><br/>Механики молитвы оружия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14054">Описание механики молитвы оружия «Путь воплощения»</a>]]></content:encoded>
+      <guid isPermaLink="false">14054</guid>
+      <pubDate>Fri, 09 Jul 2021 22:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Новое в Чайнике безмятежности версии 2.0. Садоводство</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14101</link>
+      <description>Садоводство</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317103832672.jpg"><br/><br/>Садоводство<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14101">Новое в Чайнике безмятежности версии 2.0. Садоводство</a>]]></content:encoded>
+      <guid isPermaLink="false">14101</guid>
+      <pubDate>Wed, 14 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Записи об Инадзуме: Выпуск I»: удивительная стихия Электро</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14139</link>
+      <description>Записи об Инадзуме</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420112638786.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14139">«Записи об Инадзуме: Выпуск I»: удивительная стихия Электро</a>]]></content:encoded>
+      <guid isPermaLink="false">14139</guid>
+      <pubDate>Thu, 15 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Возвращение Сирасаги Химэгими» Камисато Аяка - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14121</link>
+      <description>Истории персонажей</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418532581939.jpg"><br/><br/>Истории персонажей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14121">«Возвращение Сирасаги Химэгими» Камисато Аяка - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14121</guid>
+      <pubDate>Thu, 15 Jul 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Превью-страница версии 2.0 «Незыблемый бог, гибель иллюзий» уже доступна!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14161</link>
+      <description>Незыблемый бог, гибель иллюзий</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511274135736.png"><br/><br/>Незыблемый бог, гибель иллюзий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14161">Превью-страница версии 2.0 «Незыблемый бог, гибель иллюзий» уже доступна!</a>]]></content:encoded>
+      <guid isPermaLink="false">14161</guid>
+      <pubDate>Thu, 15 Jul 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14134</link>
+      <description>Камисато Аяка</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419542226569.png"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14134">«Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!»</a>]]></content:encoded>
+      <guid isPermaLink="false">14134</guid>
+      <pubDate>Thu, 15 Jul 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Записи об Инадзуме: Выпуск II»: механизмы и удивительные устройства</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14193</link>
+      <description>Записи об Инадзуме</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519312837139.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14193">«Записи об Инадзуме: Выпуск II»: механизмы и удивительные устройства</a>]]></content:encoded>
+      <guid isPermaLink="false">14193</guid>
+      <pubDate>Fri, 16 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Предзагрузка версии скоро будет доступна</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14202</link>
+      <description>Предзагрузка версии</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071522110676999.jpg"><br/><br/>Предзагрузка версии<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14202">Предзагрузка версии скоро будет доступна</a>]]></content:encoded>
+      <guid isPermaLink="false">14202</guid>
+      <pubDate>Fri, 16 Jul 2021 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Рождение дракона» - О работе над Аждахой | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14215</link>
+      <description>Рождение дракона</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610092749333.jpg"><br/><br/>Рождение дракона<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14215">«Рождение дракона» - О работе над Аждахой | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14215</guid>
+      <pubDate>Fri, 16 Jul 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Записи об Инадзуме: Выпуск III»: новые сильные монстры!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14250</link>
+      <description>Записи об Инадзуме</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071703363213271.png"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14250">«Записи об Инадзуме: Выпуск III»: новые сильные монстры!</a>]]></content:encoded>
+      <guid isPermaLink="false">14250</guid>
+      <pubDate>Sat, 17 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14249</link>
+      <description>Записи об Инадзуме</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071623380133058.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14249">«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</a>]]></content:encoded>
+      <guid isPermaLink="false">14249</guid>
+      <pubDate>Sun, 18 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14278</link>
+      <description>Незыблемый бог, гибель иллюзий</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071717231414186.jpg"><br/><br/>Незыблемый бог, гибель иллюзий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14278">Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</a>]]></content:encoded>
+      <guid isPermaLink="false">14278</guid>
+      <pubDate>Mon, 19 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14279</link>
+      <description>Молитва «Сад белой цапли» Камисато Аяка</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718013217162.jpg"><br/><br/>Молитва «Сад белой цапли» Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14279">Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</a>]]></content:encoded>
+      <guid isPermaLink="false">14279</guid>
+      <pubDate>Mon, 19 Jul 2021 12:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14280</link>
+      <description>Молитва «Воплощение божества»</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718140424861.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14280">Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</a>]]></content:encoded>
+      <guid isPermaLink="false">14280</guid>
+      <pubDate>Mon, 19 Jul 2021 12:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзор событий версии 2.0 - Выпуск I</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14281</link>
+      <description>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718205964792.jpg"><br/><br/>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14281">Обзор событий версии 2.0 - Выпуск I</a>]]></content:encoded>
+      <guid isPermaLink="false">14281</guid>
+      <pubDate>Mon, 19 Jul 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>The Shimmering Voyage | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14315</link>
+      <description>OST Genshin Impact The Shimmering Voyage</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910110412068.jpg"><br/><br/>OST Genshin Impact The Shimmering Voyage<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14315">The Shimmering Voyage | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14315</guid>
+      <pubDate>Mon, 19 Jul 2021 13:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14366</link>
+      <description>Камисато Аяка</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919434399952.jpg"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14366">«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14366</guid>
+      <pubDate>Tue, 20 Jul 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Подробности обновления 2.0 «Незыблемый бог, гибель иллюзий»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14460</link>
+      <description>Обновление до версии 2.0 - «Незыблемый бог, гибель иллюзий»</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072100200175887.jpg"><br/><br/>Обновление до версии 2.0 - «Незыблемый бог, гибель иллюзий»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14460">Подробности обновления 2.0 «Незыблемый бог, гибель иллюзий»</a>]]></content:encoded>
+      <guid isPermaLink="false">14460</guid>
+      <pubDate>Wed, 21 Jul 2021 07:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Грозовые отпечатки»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14447</link>
+      <description>Грозовые отпечатки</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022453326364.jpg"><br/><br/>Грозовые отпечатки<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14447">Описание события «Грозовые отпечатки»</a>]]></content:encoded>
+      <guid isPermaLink="false">14447</guid>
+      <pubDate>Wed, 21 Jul 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Камисато Аяка: Танец журавля на снегу | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14423</link>
+      <description>Камисато Аяка</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072018504699572.jpg"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14423">Камисато Аяка: Танец журавля на снегу | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14423</guid>
+      <pubDate>Wed, 21 Jul 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Браузерное событие «Встреча с белой цаплей» стартовало!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14501</link>
+      <description>Браузерное событие «Встреча с белой цаплей»</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610492552832.jpg"><br/><br/>Браузерное событие «Встреча с белой цаплей»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14501">Браузерное событие «Встреча с белой цаплей» стартовало!</a>]]></content:encoded>
+      <guid isPermaLink="false">14501</guid>
+      <pubDate>Mon, 26 Jul 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14621</link>
+      <description>«Пляшущие огоньки» Ёимия</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316121214327.jpg"><br/><br/>«Пляшущие огоньки» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14621">«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</a>]]></content:encoded>
+      <guid isPermaLink="false">14621</guid>
+      <pubDate>Wed, 04 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14644</link>
+      <description>Ёимия</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319334651956.jpg"><br/><br/>Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14644">«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14644</guid>
+      <pubDate>Wed, 04 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Браузерное событие «Воспоминания в летнюю ночь» стартовало!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14684</link>
+      <description>Воспоминания в летнюю ночь</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511144215947.jpg"><br/><br/>Воспоминания в летнюю ночь<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14684">Браузерное событие «Воспоминания в летнюю ночь» стартовало!</a>]]></content:encoded>
+      <guid isPermaLink="false">14684</guid>
+      <pubDate>Thu, 05 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14735</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711123565971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14735">«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</a>]]></description>
+      <guid isPermaLink="false">14735</guid>
+      <pubDate>Sat, 07 Aug 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Кажется, не стоило сегодня вообще вылазить из кровати», - «Мудзина-ниндзя» Саю</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14763</link>
+      <description>«Мудзина-ниндзя» Саю</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080717403127008.jpg"><br/><br/>«Мудзина-ниндзя» Саю<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14763">«Кажется, не стоило сегодня вообще вылазить из кровати», - «Мудзина-ниндзя» Саю</a>]]></content:encoded>
+      <guid isPermaLink="false">14763</guid>
+      <pubDate>Sat, 07 Aug 2021 18:20:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14767</link>
+      <description>Молитва «Воплощение божества»</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718394531908.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14767">Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</a>]]></content:encoded>
+      <guid isPermaLink="false">14767</guid>
+      <pubDate>Sun, 08 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14765</link>
+      <description>Молитва «Гобелен золотого пламени»</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718364412651.jpg"><br/><br/>Молитва «Гобелен золотого пламени»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14765">Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</a>]]></content:encoded>
+      <guid isPermaLink="false">14765</guid>
+      <pubDate>Sun, 08 Aug 2021 12:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзор событий версии 2.0 - Выпуск II</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14714</link>
+      <description>Обзор событий версии 2.0</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080619031767870.jpg"><br/><br/>Обзор событий версии 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14714">Обзор событий версии 2.0 - Выпуск II</a>]]></content:encoded>
+      <guid isPermaLink="false">14714</guid>
+      <pubDate>Sun, 08 Aug 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14782</link>
+      <description>«Ослепительные огни лета» Ёимия</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080821010545153.jpg"><br/><br/>«Ослепительные огни лета» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14782">«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14782</guid>
+      <pubDate>Mon, 09 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Ёимия: Язык пламени | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14831</link>
+      <description>Ёимия: Язык пламени</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010283563667.jpg"><br/><br/>Ёимия: Язык пламени<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14831">Ёимия: Язык пламени | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14831</guid>
+      <pubDate>Tue, 10 Aug 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Театр Механикус: Этап чудес»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14859</link>
+      <description>Театр Механикус: Этап чудес</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015164487813.jpg"><br/><br/>Театр Механикус: Этап чудес<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14859">Описание события «Театр Механикус: Этап чудес»</a>]]></content:encoded>
+      <guid isPermaLink="false">14859</guid>
+      <pubDate>Wed, 11 Aug 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Саю: Колесо ветра | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/14882</link>
+      <description>Саю: Колесо ветра</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081018392193362.jpg"><br/><br/>Саю: Колесо ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14882">Саю: Колесо ветра | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">14882</guid>
+      <pubDate>Wed, 11 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Призрачный поток»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15038</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816110767650.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15038">Описание события «Призрачный поток»</a>]]></description>
+      <guid isPermaLink="false">15038</guid>
+      <pubDate>Thu, 19 Aug 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact | Версия 2.1 - Лунное утешение для бренного мира</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15076</link>
+      <description>Genshin Impact | Версия 2.1</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014293832883.jpg"><br/><br/>Genshin Impact | Версия 2.1<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15076">Genshin Impact | Версия 2.1 - Лунное утешение для бренного мира</a>]]></content:encoded>
+      <guid isPermaLink="false">15076</guid>
+      <pubDate>Fri, 20 Aug 2021 22:45:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - сброс бонуса первого пополнения</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15099</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018372567654.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15099">Genshin Impact - сброс бонуса первого пополнения</a>]]></description>
+      <guid isPermaLink="false">15099</guid>
+      <pubDate>Fri, 20 Aug 2021 23:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Realm of Tranquil Eternity: Genshin Impact, Симфонический оркестр Инадзумы</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15068</link>
+      <description>Realm of Tranquil Eternity: Genshin Impact</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011334046440.png"><br/><br/>Realm of Tranquil Eternity: Genshin Impact<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15068">Realm of Tranquil Eternity: Genshin Impact, Симфонический оркестр Инадзумы</a>]]></content:encoded>
+      <guid isPermaLink="false">15068</guid>
+      <pubDate>Sat, 21 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Превью-страница версии 2.1 «Лунное утешение для бренного мира» уже доступна!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15122</link>
+      <description>Превью-страница версии 2.1</description>
+      <content:encoded><![CDATA[Превью-страница версии 2.1<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15122">Превью-страница версии 2.1 «Лунное утешение для бренного мира» уже доступна!</a>]]></content:encoded>
+      <guid isPermaLink="false">15122</guid>
+      <pubDate>Sat, 21 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Новая система версии 2.1: Рыбалка</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15151</link>
+      <description>Рыбалка</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318171984634.png"><br/><br/>Рыбалка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15151">Новая система версии 2.1: Рыбалка</a>]]></content:encoded>
+      <guid isPermaLink="false">15151</guid>
+      <pubDate>Tue, 24 Aug 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15264</link>
+      <description>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192761873.jpg"><br/><br/>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15264">Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">15264</guid>
+      <pubDate>Thu, 26 Aug 2021 04:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>[Записи об Инадзуме] Ватацуми и Сэйрай</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15233</link>
+      <description>Записи об Инадзуме</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114179104.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15233">[Записи об Инадзуме] Ватацуми и Сэйрай</a>]]></content:encoded>
+      <guid isPermaLink="false">15233</guid>
+      <pubDate>Thu, 26 Aug 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15239</link>
+      <description>«Кошмар» Сёгун Райдэн - Истории персонажей</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519472938251.jpg"><br/><br/>«Кошмар» Сёгун Райдэн - Истории персонажей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15239">«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15239</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15283</link>
+      <description>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610095583432.jpg"><br/><br/>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15283">«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</a>]]></content:encoded>
+      <guid isPermaLink="false">15283</guid>
+      <pubDate>Thu, 26 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Предзагрузка версии скоро будет доступна</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15329</link>
+      <description>Чтобы обеспечить вам ещё более приятный игровой опыт, разработчики вскоре запустят функцию предзагрузки для ПК и мобильных платформ.</description>
+      <content:encoded><![CDATA[Чтобы обеспечить вам ещё более приятный игровой опыт, разработчики вскоре запустят функцию предзагрузки для ПК и мобильных платформ.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15329">Предзагрузка версии скоро будет доступна</a>]]></content:encoded>
+      <guid isPermaLink="false">15329</guid>
+      <pubDate>Fri, 27 Aug 2021 11:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Я использую лук и стрелы только для того, чтобы служить другим».</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15294</link>
+      <description>Сегодня мы познакомимся с девушкой из другого мира - Элой. Давайте посмотрим!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611171528609.jpg"><br/><br/>Сегодня мы познакомимся с девушкой из другого мира - Элой. Давайте посмотрим!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15294">«Я использую лук и стрелы только для того, чтобы служить другим».</a>]]></content:encoded>
+      <guid isPermaLink="false">15294</guid>
+      <pubDate>Fri, 27 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Загадочная охотница» Элой (Крио) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15308</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082617472270133.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15308">«Загадочная охотница» Элой (Крио) - Новый персонаж | Genshin Impact</a>]]></description>
+      <guid isPermaLink="false">15308</guid>
+      <pubDate>Fri, 27 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Добиться "вечности" для сёгуна - вот моё желание».</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15372</link>
+      <description>Сегодня мы представляем вам генерала комиссии Тэнрё, Кудзё Сару!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082816370817280.jpg"><br/><br/>Сегодня мы представляем вам генерала комиссии Тэнрё, Кудзё Сару!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15372">«Добиться "вечности" для сёгуна - вот моё желание».</a>]]></content:encoded>
+      <guid isPermaLink="false">15372</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15374</link>
+      <description>Исполнение воли Наруками и достижение «вечности» для сёгуна</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817242216614.jpg"><br/><br/>Исполнение воли Наруками и достижение «вечности» для сёгуна<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15374">«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15374</guid>
+      <pubDate>Sun, 29 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Об обновлении 2.1 «Лунное утешение для бренного мира»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15382</link>
+      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
+      <content:encoded><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15382">Об обновлении 2.1 «Лунное утешение для бренного мира»</a>]]></content:encoded>
+      <guid isPermaLink="false">15382</guid>
+      <pubDate>Mon, 30 Aug 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Лунное утешение»: Примите участие, чтобы получить особый предмет: Благодатный владыка вод (Двуручное)!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15388</link>
+      <description>В период события выполняйте задания «Сказаний Лунной охоты» или участвуйте в испытаниях «Искателя лунного света» и «Пути лакомств», чтобы получить эксклюзивное оружие события «Благодатный владыка вод» (Двуручное) и его материалы пробуждения, Корону прозрения, Камни Истока, рецепты и другие награды.</description>
+      <content:encoded><![CDATA[В период события выполняйте задания «Сказаний Лунной охоты» или участвуйте в испытаниях «Искателя лунного света» и «Пути лакомств», чтобы получить эксклюзивное оружие события «Благодатный владыка вод» (Двуручное) и его материалы пробуждения, Корону прозрения, Камни Истока, рецепты и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15388">Событие «Лунное утешение»: Примите участие, чтобы получить особый предмет: Благодатный владыка вод (Двуручное)!</a>]]></content:encoded>
+      <guid isPermaLink="false">15388</guid>
+      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Командный турнир «Хякунин икки»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15392</link>
+      <description>В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.</description>
+      <content:encoded><![CDATA[В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15392">Командный турнир «Хякунин икки»</a>]]></content:encoded>
+      <guid isPermaLink="false">15392</guid>
+      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15394</link>
+      <description>В период события отправляйтесь вместе с мастерицей рыбалки из Инадзумы, Кудзирай Момидзи, на поиски легендарной рыбы - Лунного левиафана. Выполняйте различные задания и испытания события, чтобы получить эксклюзивную удочку события «Лунная нить», Камни Истока, Загадочную декоративную рыбу и другие награды.</description>
+      <content:encoded><![CDATA[В период события отправляйтесь вместе с мастерицей рыбалки из Инадзумы, Кудзирай Момидзи, на поиски легендарной рыбы - Лунного левиафана. Выполняйте различные задания и испытания события, чтобы получить эксклюзивную удочку события «Лунная нить», Камни Истока, Загадочную декоративную рыбу и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15394">Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</a>]]></content:encoded>
+      <guid isPermaLink="false">15394</guid>
+      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва «Воплощение божества»: повышен шанс получить Сияющая жатва (Древковое), Некованый (Двуручное) и другое оружие!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15396</link>
+      <description>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
+      <content:encoded><![CDATA[Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15396">Молитва «Воплощение божества»: повышен шанс получить Сияющая жатва (Древковое), Некованый (Двуручное) и другое оружие!</a>]]></content:encoded>
+      <guid isPermaLink="false">15396</guid>
+      <pubDate>Mon, 30 Aug 2021 12:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Молитва «Господство безмятежности» - повышен шанс получить персонажа «Царство эвтюмии» Сёгун Райдэн (Электро)!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15395</link>
+      <description>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
+      <content:encoded><![CDATA[Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15395">Молитва «Господство безмятежности» - повышен шанс получить персонажа «Царство эвтюмии» Сёгун Райдэн (Электро)!</a>]]></content:encoded>
+      <guid isPermaLink="false">15395</guid>
+      <pubDate>Mon, 30 Aug 2021 12:02:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзор событий версии 2.1 - Выпуск I</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15371</link>
+      <description>Привет, путешественники! Версия 2.1 уже не за горами. Готовы к новым увлекательным событиям? Нажмите на изображение ниже, чтобы узнать больше!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082816120752594.jpg"><br/><br/>Привет, путешественники! Версия 2.1 уже не за горами. Готовы к новым увлекательным событиям? Нажмите на изображение ниже, чтобы узнать больше!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15371">Обзор событий версии 2.1 - Выпуск I</a>]]></content:encoded>
+      <guid isPermaLink="false">15371</guid>
+      <pubDate>Mon, 30 Aug 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15467</link>
+      <description>Райдэн (Электро)</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110245153815.jpg"><br/><br/>Райдэн (Электро)<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15467">«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15467</guid>
+      <pubDate>Tue, 31 Aug 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15542</link>
+      <description>По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно закрыт с 06:00 (UTC+8) 1 сентября 2021 года.</description>
+      <content:encoded><![CDATA[По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно закрыт с 06:00 (UTC+8) 1 сентября 2021 года.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15542">По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно</a>]]></content:encoded>
+      <guid isPermaLink="false">15542</guid>
+      <pubDate>Wed, 01 Sep 2021 06:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Подробности обновления 2.1 «Лунное утешение для бренного мира»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15508</link>
+      <description>Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.</description>
+      <content:encoded><![CDATA[Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15508">Подробности обновления 2.1 «Лунное утешение для бренного мира»</a>]]></content:encoded>
+      <guid isPermaLink="false">15508</guid>
+      <pubDate>Wed, 01 Sep 2021 07:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Хякунин икки»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15494</link>
+      <description>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116273183435.jpg"><br/><br/>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15494">Описание события «Хякунин икки»</a>]]></content:encoded>
+      <guid isPermaLink="false">15494</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Подсказки по новой версии 2.1</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15524</link>
+      <description>Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!</description>
+      <content:encoded><![CDATA[Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15524">Подсказки по новой версии 2.1</a>]]></content:encoded>
+      <guid isPermaLink="false">15524</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15565</link>
+      <description>Событие «Идём вместе» стартовало!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110520968823.jpg"><br/><br/>Событие «Идём вместе» стартовало!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15565">Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</a>]]></content:encoded>
+      <guid isPermaLink="false">15565</guid>
+      <pubDate>Wed, 01 Sep 2021 11:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15545</link>
+      <description>Сёгун Райдэн: Грозовое небытие</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110014847034.jpg"><br/><br/>Сёгун Райдэн: Грозовое небытие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15545">Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15545</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
       <title>События «Поле боя: Туманное подземелье»</title>
@@ -1016,814 +1806,20 @@
       <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
     </item>
     <item>
-      <title>«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12816</link>
-      <description>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051709363258357.jpg"><br/><br/>Преступным танцем мятежная наследница разбивает оковы льда.
-Против чёрного занавеса ночи мерцает огонёк свечи, освещая лезвие меча.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12816">«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12816</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Эола: Ледяной прилив | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12776</link>
-      <description>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500582214207.jpg"><br/><br/>Из ледяного океана внезапно возникает огромная волна. Со звоном клинка она обрушивается на бесчисленные угрозы Мондштадту и уничтожает их пронзительными, холодными ударами.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12776">Эола: Ледяной прилив | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12776</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>События «Поле боя: Туманное подземелье»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12890</link>
-      <description>В период события Путешественники смогут испытать отряды из определённых пробных персонажей в шести различных испытаниях. По завершении испытаний Путешественников будут ожидать Камни Истока, Опыт героя, материалы повышения талантов и другие награды.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916161046699.jpg"><br/><br/>В период события Путешественники смогут испытать отряды из определённых пробных персонажей в шести различных испытаниях. По завершении испытаний Путешественников будут ожидать Камни Истока, Опыт героя, материалы повышения талантов и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12890">События «Поле боя: Туманное подземелье»</a>]]></content:encoded>
-      <guid isPermaLink="false">12890</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>О безопасности учётной записи</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12903</link>
-      <description>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
-Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011040015675.png"><br/><br/>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
-Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12903">О безопасности учётной записи</a>]]></content:encoded>
-      <guid isPermaLink="false">12903</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Беседы с разработчиками (24 мая) - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12953</link>
-      <description>Сегодня Паймон пообщалась с разработчиками. ╰(*°▽°*)╯ Какие новости они приготовили для нас? Следуйте за Паймон, чтобы обо всём узнать первыми!
-Специальное сообщение (24 мая) Беседы с разработчиками - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052123481841646.png"><br/><br/>Сегодня Паймон пообщалась с разработчиками. ╰(*°▽°*)╯ Какие новости они приготовили для нас? Следуйте за Паймон, чтобы обо всём узнать первыми!
-Специальное сообщение (24 мая) Беседы с разработчиками - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12953">Беседы с разработчиками (24 мая) - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</a>]]></content:encoded>
-      <guid isPermaLink="false">12953</guid>
-      <pubDate>Mon, 24 May 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Событие «Поймай меня, если сможешь»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13041</link>
-      <description>Привет, Путешественники! Событие «Поймай меня, если сможешь» вот-вот начнётся!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052516594218044.jpg"><br/><br/>Привет, Путешественники! Событие «Поймай меня, если сможешь» вот-вот начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13041">Событие «Поймай меня, если сможешь»</a>]]></content:encoded>
-      <guid isPermaLink="false">13041</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact | Версия 1.6 - Лето! Остров? Приключение!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13124</link>
-      <description>Знойным летним днём на подоконнике появилось таинственное письмо, а вдалеке вился неведомый туман.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818330742535.jpg"><br/><br/>Знойным летним днём на подоконнике появилось таинственное письмо, а вдалеке вился неведомый туман.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13124">Genshin Impact | Версия 1.6 - Лето! Остров? Приключение!</a>]]></content:encoded>
-      <guid isPermaLink="false">13124</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13164</link>
-      <description>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210601/2021060117051482174.jpg"><br/><br/>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13164">Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</a>]]></content:encoded>
-      <guid isPermaLink="false">13164</guid>
-      <pubDate>Wed, 02 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13193</link>
-      <description>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311204623561.jpg"><br/><br/>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13193">Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</a>]]></content:encoded>
-      <guid isPermaLink="false">13193</guid>
-      <pubDate>Thu, 03 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Об обновлении 1.6 «Лето! Остров? Приключение!»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13272</link>
-      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060709411212795.jpg"><br/><br/>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13272">Об обновлении 1.6 «Лето! Остров? Приключение!»</a>]]></content:encoded>
-      <guid isPermaLink="false">13272</guid>
-      <pubDate>Mon, 07 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Анонс о предзагрузке новой версии</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13276</link>
-      <description>Функция предзагрузки уже доступна на ПК и мобильных платформах.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710144250696.jpg"><br/><br/>Функция предзагрузки уже доступна на ПК и мобильных платформах.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13276">Анонс о предзагрузке новой версии</a>]]></content:encoded>
-      <guid isPermaLink="false">13276</guid>
-      <pubDate>Mon, 07 Jun 2021 11:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Событие «Эхо легенд»: примите участие и получите костюм Барбары «Летний блеск»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13282</link>
-      <description>В период события соберите определённое количество раковин эха, чтобы получить костюм Барбары «Летний блеск», Камни Истока и другие награды.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710370280978.png"><br/><br/>В период события соберите определённое количество раковин эха, чтобы получить костюм Барбары «Летний блеск», Камни Истока и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13282">Событие «Эхо легенд»: примите участие и получите костюм Барбары «Летний блеск»</a>]]></content:encoded>
-      <guid isPermaLink="false">13282</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Костюм Джинн «Сон морского бриза» доступен на ограниченный период со скидкой</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13284</link>
-      <description>Костюм Джинн «Сон морского бриза» уже доступен в магазине со скидкой в течение ограниченного времени!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710383790729.png"><br/><br/>Костюм Джинн «Сон морского бриза» уже доступен в магазине со скидкой в течение ограниченного времени!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13284">Костюм Джинн «Сон морского бриза» доступен на ограниченный период со скидкой</a>]]></content:encoded>
-      <guid isPermaLink="false">13284</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Молитва святым ветрам (Катализатор), Небесное величие (Двуручное) и другое оружие!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13289</link>
-      <description>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710520512452.png"><br/><br/>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13289">Молитва «Воплощение божества»: повышен шанс получить Молитва святым ветрам (Катализатор), Небесное величие (Двуручное) и другое оружие!</a>]]></content:encoded>
-      <guid isPermaLink="false">13289</guid>
-      <pubDate>Mon, 07 Jun 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13292</link>
-      <description>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710564452942.png"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13292">Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">13292</guid>
-      <pubDate>Mon, 07 Jun 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Предварительный обзор событий версии 1.6 (Часть 1)</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13319</link>
-      <description>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060716275737803.png"><br/><br/>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13319">Предварительный обзор событий версии 1.6 (Часть 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">13319</guid>
-      <pubDate>Mon, 07 Jun 2021 16:26:56 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Лето! Остров? Приключение!»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13333</link>
-      <description>Скоро начнётся новое событие «Лето! Остров? Приключение!»
-Однажды знойным летним днём Кли получила письмо от загадочного Додокороля с угрозами отнять у неё Додоко! Путешественники, давайте поможем ей узнать правду!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719271948465.jpg"><br/><br/>Скоро начнётся новое событие «Лето! Остров? Приключение!»
-Однажды знойным летним днём Кли получила письмо от загадочного Додокороля с угрозами отнять у неё Додоко! Путешественники, давайте поможем ей узнать правду!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13333">Описание события «Лето! Остров? Приключение!»</a>]]></content:encoded>
-      <guid isPermaLink="false">13333</guid>
-      <pubDate>Tue, 08 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Событие «Эхо легенд»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13340</link>
-      <description>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060720130628050.png"><br/><br/>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13340">Событие «Эхо легенд»</a>]]></content:encoded>
-      <guid isPermaLink="false">13340</guid>
-      <pubDate>Tue, 08 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор костюмов: Песнь о романтике побережья | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13349</link>
-      <description>Идеальное лето - это освежающий морской бриз, ослепительное солнце и ритмичная музыка.
-А ещё... Гулять по золотому песку, держа за руку дорогих людей и напевая песни.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060809435145086.jpg"><br/><br/>Идеальное лето - это освежающий морской бриз, ослепительное солнце и ритмичная музыка.
-А ещё... Гулять по золотому песку, держа за руку дорогих людей и напевая песни.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13349">Обзор костюмов: Песнь о романтике побережья | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13349</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор костюма «Сон морского бриза»: новый костюм Джинн скоро в игре!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13373</link>
-      <description>Новый костюм Джинн «Сон морского бриза» скоро появится в игре! Его можно будет приобрести в магазине гардероба!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812474135954.png"><br/><br/>Новый костюм Джинн «Сон морского бриза» скоро появится в игре! Его можно будет приобрести в магазине гардероба!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13373">Обзор костюма «Сон морского бриза»: новый костюм Джинн скоро в игре!</a>]]></content:encoded>
-      <guid isPermaLink="false">13373</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:47 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13376</link>
-      <description>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812464312289.png"><br/><br/>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13376">Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</a>]]></content:encoded>
-      <guid isPermaLink="false">13376</guid>
-      <pubDate>Tue, 08 Jun 2021 12:08:16 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание версии 1.6 «Лето! Остров? Приключение!»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13418</link>
-      <description>Ниже представлена информация об обновлении до версии 1.6 - «Лето! Остров? Приключение!» и компенсации.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060819315922617.jpg"><br/><br/>Ниже представлена информация об обновлении до версии 1.6 - «Лето! Остров? Приключение!» и компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13418">Описание версии 1.6 «Лето! Остров? Приключение!»</a>]]></content:encoded>
-      <guid isPermaLink="false">13418</guid>
-      <pubDate>Wed, 09 Jun 2021 07:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Сокровища знойного лета» | Мини-альбом Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13399</link>
-      <description>Украдкой уходит багровое солнце, пытаясь сбежать к летним равнинам.
-Гений взрывов, высоко подняв голову, ищет сокровище Рыцаря Искорки.
-Недолго осталось рыбе спокойно плавать в кристальных ручьях.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060815082611842.jpg"><br/><br/>Украдкой уходит багровое солнце, пытаясь сбежать к летним равнинам.
-Гений взрывов, высоко подняв голову, ищет сокровище Рыцаря Искорки.
-Недолго осталось рыбе спокойно плавать в кристальных ручьях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13399">«Сокровища знойного лета» | Мини-альбом Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13399</guid>
-      <pubDate>Wed, 09 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13462</link>
-      <description>Здравствуйте, Путешественники! \(^o^)/ Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017370080178.jpg"><br/><br/>Здравствуйте, Путешественники! \(^o^)/ Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13462">Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</a>]]></content:encoded>
-      <guid isPermaLink="false">13462</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Ветер под луной» Каэдэхара Кадзуха - Истории персонажей | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13550</link>
-      <description>Каэдэхара Кадзуха</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062218473627600.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13550">«Ветер под луной» Каэдэхара Кадзуха - Истории персонажей | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13550</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету.</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13566</link>
-      <description>Каэдэхара Кадзуха</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062310145650966.png"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13566">Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету.</a>]]></content:encoded>
-      <guid isPermaLink="false">13566</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Легенда о мече ветра»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13589</link>
-      <description>Легенда о мече ветра</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062316471065797.jpg"><br/><br/>Легенда о мече ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13589">Описание события «Легенда о мече ветра»</a>]]></content:encoded>
-      <guid isPermaLink="false">13589</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Браузерное событие «Дальнее плавание» стартовало!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13627</link>
-      <description>Дальнее плавание</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062410480034321.jpg"><br/><br/>Дальнее плавание<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13627">Браузерное событие «Дальнее плавание» стартовало!</a>]]></content:encoded>
-      <guid isPermaLink="false">13627</guid>
-      <pubDate>Thu, 24 Jun 2021 13:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13665</link>
-      <description>Задание Архонтов</description>
-      <content:encoded><![CDATA[Задание Архонтов<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13665">Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</a>]]></content:encoded>
-      <guid isPermaLink="false">13665</guid>
-      <pubDate>Sun, 27 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13667</link>
-      <description>Молитва: Листья на ветру</description>
-      <content:encoded><![CDATA[Молитва: Листья на ветру<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13667">Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">13667</guid>
-      <pubDate>Sun, 27 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор событий версии 1.6 - Выпуск II</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13678</link>
-      <description>Легенда о мече ветра</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210626/2021062615374697619.jpg"><br/><br/>Легенда о мече ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13678">Обзор событий версии 1.6 - Выпуск II</a>]]></content:encoded>
-      <guid isPermaLink="false">13678</guid>
-      <pubDate>Sun, 27 Jun 2021 12:10:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13709</link>
-      <description>Каэдэхара Кадзуха</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811271831224.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13709">«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13709</guid>
-      <pubDate>Mon, 28 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Каэдэхара Кадзуха: Вольный дух ветра | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13755</link>
-      <description>Каэдэхара Кадзуха</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062910312546240.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13755">Каэдэхара Кадзуха: Вольный дух ветра | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13755</guid>
-      <pubDate>Tue, 29 Jun 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Беседы с разработчиками (30 июня) - Скоро выйдет телепортационный предмет декора!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13799</link>
-      <description>Беседы с разработчиками</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923060433467.png"><br/><br/>Беседы с разработчиками<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13799">Беседы с разработчиками (30 июня) - Скоро выйдет телепортационный предмет декора!</a>]]></content:encoded>
-      <guid isPermaLink="false">13799</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Война бабах-мячей»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13785</link>
-      <description>Война бабах-мячей</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062915102075739.jpg"><br/><br/>Война бабах-мячей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13785">Описание события «Война бабах-мячей»</a>]]></content:encoded>
-      <guid isPermaLink="false">13785</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13902</link>
-      <description>Альбом путешествий</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070223290847170.jpg"><br/><br/>Альбом путешествий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13902">Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</a>]]></content:encoded>
-      <guid isPermaLink="false">13902</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Тизер «Путешествие ловца молний» | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13869</link>
-      <description>Путешествие ловца молний</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070218215828776.jpg"><br/><br/>Путешествие ловца молний<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13869">Тизер «Путешествие ловца молний» | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13869</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Событие «Бесконечная битва»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13967</link>
-      <description>Бесконечная битва</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717510291120.jpg"><br/><br/>Бесконечная битва<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13967">Событие «Бесконечная битва»</a>]]></content:encoded>
-      <guid isPermaLink="false">13967</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact | Версия 2.0 - Незыблемый бог, гибель иллюзий</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14011</link>
-      <description>Версия 2.0</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914173185674.jpg"><br/><br/>Версия 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14011">Genshin Impact | Версия 2.0 - Незыблемый бог, гибель иллюзий</a>]]></content:encoded>
-      <guid isPermaLink="false">14011</guid>
-      <pubDate>Fri, 09 Jul 2021 21:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Синхронизация учётных записей PSN и miHoYo</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14051</link>
-      <description>Синхронизация учётных записей</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921113711590.jpg"><br/><br/>Синхронизация учётных записей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14051">Синхронизация учётных записей PSN и miHoYo</a>]]></content:encoded>
-      <guid isPermaLink="false">14051</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание механики молитвы оружия «Путь воплощения»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14054</link>
-      <description>Механики молитвы оружия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921252228747.jpg"><br/><br/>Механики молитвы оружия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14054">Описание механики молитвы оружия «Путь воплощения»</a>]]></content:encoded>
-      <guid isPermaLink="false">14054</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Новое в Чайнике безмятежности версии 2.0. Садоводство</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14101</link>
-      <description>Садоводство</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317103832672.jpg"><br/><br/>Садоводство<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14101">Новое в Чайнике безмятежности версии 2.0. Садоводство</a>]]></content:encoded>
-      <guid isPermaLink="false">14101</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Записи об Инадзуме: Выпуск I»: удивительная стихия Электро</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14139</link>
-      <description>Записи об Инадзуме</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420112638786.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14139">«Записи об Инадзуме: Выпуск I»: удивительная стихия Электро</a>]]></content:encoded>
-      <guid isPermaLink="false">14139</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Возвращение Сирасаги Химэгими» Камисато Аяка - Истории персонажей | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14121</link>
-      <description>Истории персонажей</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418532581939.jpg"><br/><br/>Истории персонажей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14121">«Возвращение Сирасаги Химэгими» Камисато Аяка - Истории персонажей | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14121</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Превью-страница версии 2.0 «Незыблемый бог, гибель иллюзий» уже доступна!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14161</link>
-      <description>Незыблемый бог, гибель иллюзий</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511274135736.png"><br/><br/>Незыблемый бог, гибель иллюзий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14161">Превью-страница версии 2.0 «Незыблемый бог, гибель иллюзий» уже доступна!</a>]]></content:encoded>
-      <guid isPermaLink="false">14161</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14134</link>
-      <description>Камисато Аяка</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419542226569.png"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14134">«Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!»</a>]]></content:encoded>
-      <guid isPermaLink="false">14134</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Записи об Инадзуме: Выпуск II»: механизмы и удивительные устройства</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14193</link>
-      <description>Записи об Инадзуме</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519312837139.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14193">«Записи об Инадзуме: Выпуск II»: механизмы и удивительные устройства</a>]]></content:encoded>
-      <guid isPermaLink="false">14193</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Предзагрузка версии скоро будет доступна</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14202</link>
-      <description>Предзагрузка версии</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071522110676999.jpg"><br/><br/>Предзагрузка версии<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14202">Предзагрузка версии скоро будет доступна</a>]]></content:encoded>
-      <guid isPermaLink="false">14202</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Рождение дракона» - О работе над Аждахой | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14215</link>
-      <description>Рождение дракона</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610092749333.jpg"><br/><br/>Рождение дракона<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14215">«Рождение дракона» - О работе над Аждахой | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14215</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Записи об Инадзуме: Выпуск III»: новые сильные монстры!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14250</link>
-      <description>Записи об Инадзуме</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071703363213271.png"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14250">«Записи об Инадзуме: Выпуск III»: новые сильные монстры!</a>]]></content:encoded>
-      <guid isPermaLink="false">14250</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14249</link>
-      <description>Записи об Инадзуме</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071623380133058.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14249">«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</a>]]></content:encoded>
-      <guid isPermaLink="false">14249</guid>
-      <pubDate>Sun, 18 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14278</link>
-      <description>Незыблемый бог, гибель иллюзий</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071717231414186.jpg"><br/><br/>Незыблемый бог, гибель иллюзий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14278">Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</a>]]></content:encoded>
-      <guid isPermaLink="false">14278</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14279</link>
-      <description>Молитва «Сад белой цапли» Камисато Аяка</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718013217162.jpg"><br/><br/>Молитва «Сад белой цапли» Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14279">Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">14279</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14280</link>
-      <description>Молитва «Воплощение божества»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718140424861.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14280">Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</a>]]></content:encoded>
-      <guid isPermaLink="false">14280</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор событий версии 2.0 - Выпуск I</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14281</link>
-      <description>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718205964792.jpg"><br/><br/>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14281">Обзор событий версии 2.0 - Выпуск I</a>]]></content:encoded>
-      <guid isPermaLink="false">14281</guid>
-      <pubDate>Mon, 19 Jul 2021 12:10:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>The Shimmering Voyage | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14315</link>
-      <description>OST Genshin Impact The Shimmering Voyage</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910110412068.jpg"><br/><br/>OST Genshin Impact The Shimmering Voyage<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14315">The Shimmering Voyage | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14315</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14366</link>
-      <description>Камисато Аяка</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919434399952.jpg"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14366">«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14366</guid>
-      <pubDate>Tue, 20 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Подробности обновления 2.0 «Незыблемый бог, гибель иллюзий»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14460</link>
-      <description>Обновление до версии 2.0 - «Незыблемый бог, гибель иллюзий»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072100200175887.jpg"><br/><br/>Обновление до версии 2.0 - «Незыблемый бог, гибель иллюзий»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14460">Подробности обновления 2.0 «Незыблемый бог, гибель иллюзий»</a>]]></content:encoded>
-      <guid isPermaLink="false">14460</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Грозовые отпечатки»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14447</link>
-      <description>Грозовые отпечатки</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022453326364.jpg"><br/><br/>Грозовые отпечатки<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14447">Описание события «Грозовые отпечатки»</a>]]></content:encoded>
-      <guid isPermaLink="false">14447</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Камисато Аяка: Танец журавля на снегу | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14423</link>
-      <description>Камисато Аяка</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072018504699572.jpg"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14423">Камисато Аяка: Танец журавля на снегу | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14423</guid>
-      <pubDate>Wed, 21 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Браузерное событие «Встреча с белой цаплей» стартовало!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14501</link>
-      <description>Браузерное событие «Встреча с белой цаплей»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610492552832.jpg"><br/><br/>Браузерное событие «Встреча с белой цаплей»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14501">Браузерное событие «Встреча с белой цаплей» стартовало!</a>]]></content:encoded>
-      <guid isPermaLink="false">14501</guid>
-      <pubDate>Mon, 26 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14621</link>
-      <description>«Пляшущие огоньки» Ёимия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316121214327.jpg"><br/><br/>«Пляшущие огоньки» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14621">«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</a>]]></content:encoded>
-      <guid isPermaLink="false">14621</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14644</link>
-      <description>Ёимия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319334651956.jpg"><br/><br/>Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14644">«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14644</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Браузерное событие «Воспоминания в летнюю ночь» стартовало!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14684</link>
-      <description>Воспоминания в летнюю ночь</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511144215947.jpg"><br/><br/>Воспоминания в летнюю ночь<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14684">Браузерное событие «Воспоминания в летнюю ночь» стартовало!</a>]]></content:encoded>
-      <guid isPermaLink="false">14684</guid>
-      <pubDate>Thu, 05 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14735</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711123565971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14735">«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</a>]]></description>
-      <guid isPermaLink="false">14735</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Кажется, не стоило сегодня вообще вылазить из кровати», - «Мудзина-ниндзя» Саю</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14763</link>
-      <description>«Мудзина-ниндзя» Саю</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080717403127008.jpg"><br/><br/>«Мудзина-ниндзя» Саю<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14763">«Кажется, не стоило сегодня вообще вылазить из кровати», - «Мудзина-ниндзя» Саю</a>]]></content:encoded>
-      <guid isPermaLink="false">14763</guid>
-      <pubDate>Sat, 07 Aug 2021 18:20:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14767</link>
-      <description>Молитва «Воплощение божества»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718394531908.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14767">Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</a>]]></content:encoded>
-      <guid isPermaLink="false">14767</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14765</link>
-      <description>Молитва «Гобелен золотого пламени»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718364412651.jpg"><br/><br/>Молитва «Гобелен золотого пламени»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14765">Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">14765</guid>
-      <pubDate>Sun, 08 Aug 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор событий версии 2.0 - Выпуск II</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14714</link>
-      <description>Обзор событий версии 2.0</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080619031767870.jpg"><br/><br/>Обзор событий версии 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14714">Обзор событий версии 2.0 - Выпуск II</a>]]></content:encoded>
-      <guid isPermaLink="false">14714</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14782</link>
-      <description>«Ослепительные огни лета» Ёимия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080821010545153.jpg"><br/><br/>«Ослепительные огни лета» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14782">«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14782</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Ёимия: Язык пламени | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14831</link>
-      <description>Ёимия: Язык пламени</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010283563667.jpg"><br/><br/>Ёимия: Язык пламени<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14831">Ёимия: Язык пламени | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14831</guid>
-      <pubDate>Tue, 10 Aug 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Театр Механикус: Этап чудес»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14859</link>
-      <description>Театр Механикус: Этап чудес</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015164487813.jpg"><br/><br/>Театр Механикус: Этап чудес<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14859">Описание события «Театр Механикус: Этап чудес»</a>]]></content:encoded>
-      <guid isPermaLink="false">14859</guid>
-      <pubDate>Wed, 11 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Саю: Колесо ветра | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14882</link>
-      <description>Саю: Колесо ветра</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081018392193362.jpg"><br/><br/>Саю: Колесо ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14882">Саю: Колесо ветра | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14882</guid>
-      <pubDate>Wed, 11 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Призрачный поток»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15038</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816110767650.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15038">Описание события «Призрачный поток»</a>]]></description>
-      <guid isPermaLink="false">15038</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact | Версия 2.1 - Лунное утешение для бренного мира</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15076</link>
-      <description>Genshin Impact | Версия 2.1</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014293832883.jpg"><br/><br/>Genshin Impact | Версия 2.1<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15076">Genshin Impact | Версия 2.1 - Лунное утешение для бренного мира</a>]]></content:encoded>
-      <guid isPermaLink="false">15076</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - сброс бонуса первого пополнения</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15099</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018372567654.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15099">Genshin Impact - сброс бонуса первого пополнения</a>]]></description>
-      <guid isPermaLink="false">15099</guid>
-      <pubDate>Fri, 20 Aug 2021 23:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Realm of Tranquil Eternity: Genshin Impact, Симфонический оркестр Инадзумы</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15068</link>
-      <description>Realm of Tranquil Eternity: Genshin Impact</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011334046440.png"><br/><br/>Realm of Tranquil Eternity: Genshin Impact<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15068">Realm of Tranquil Eternity: Genshin Impact, Симфонический оркестр Инадзумы</a>]]></content:encoded>
-      <guid isPermaLink="false">15068</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Превью-страница версии 2.1 «Лунное утешение для бренного мира» уже доступна!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15122</link>
-      <description>Превью-страница версии 2.1</description>
-      <content:encoded><![CDATA[Превью-страница версии 2.1<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15122">Превью-страница версии 2.1 «Лунное утешение для бренного мира» уже доступна!</a>]]></content:encoded>
-      <guid isPermaLink="false">15122</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Новая система версии 2.1: Рыбалка</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15151</link>
-      <description>Рыбалка</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318171984634.png"><br/><br/>Рыбалка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15151">Новая система версии 2.1: Рыбалка</a>]]></content:encoded>
-      <guid isPermaLink="false">15151</guid>
-      <pubDate>Tue, 24 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15264</link>
-      <description>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192761873.jpg"><br/><br/>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15264">Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">15264</guid>
-      <pubDate>Thu, 26 Aug 2021 04:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>[Записи об Инадзуме] Ватацуми и Сэйрай</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15233</link>
-      <description>Записи об Инадзуме</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114179104.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15233">[Записи об Инадзуме] Ватацуми и Сэйрай</a>]]></content:encoded>
-      <guid isPermaLink="false">15233</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15239</link>
-      <description>«Кошмар» Сёгун Райдэн - Истории персонажей</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519472938251.jpg"><br/><br/>«Кошмар» Сёгун Райдэн - Истории персонажей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15239">«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15239</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15283</link>
-      <description>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610095583432.jpg"><br/><br/>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15283">«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</a>]]></content:encoded>
-      <guid isPermaLink="false">15283</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Предзагрузка версии скоро будет доступна</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15329</link>
-      <description>Чтобы обеспечить вам ещё более приятный игровой опыт, разработчики вскоре запустят функцию предзагрузки для ПК и мобильных платформ.</description>
-      <content:encoded><![CDATA[Чтобы обеспечить вам ещё более приятный игровой опыт, разработчики вскоре запустят функцию предзагрузки для ПК и мобильных платформ.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15329">Предзагрузка версии скоро будет доступна</a>]]></content:encoded>
-      <guid isPermaLink="false">15329</guid>
-      <pubDate>Fri, 27 Aug 2021 11:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Я использую лук и стрелы только для того, чтобы служить другим».</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15294</link>
-      <description>Сегодня мы познакомимся с девушкой из другого мира - Элой. Давайте посмотрим!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611171528609.jpg"><br/><br/>Сегодня мы познакомимся с девушкой из другого мира - Элой. Давайте посмотрим!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15294">«Я использую лук и стрелы только для того, чтобы служить другим».</a>]]></content:encoded>
-      <guid isPermaLink="false">15294</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Загадочная охотница» Элой (Крио) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15308</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082617472270133.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15308">«Загадочная охотница» Элой (Крио) - Новый персонаж | Genshin Impact</a>]]></description>
-      <guid isPermaLink="false">15308</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Добиться "вечности" для сёгуна - вот моё желание».</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15372</link>
-      <description>Сегодня мы представляем вам генерала комиссии Тэнрё, Кудзё Сару!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082816370817280.jpg"><br/><br/>Сегодня мы представляем вам генерала комиссии Тэнрё, Кудзё Сару!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15372">«Добиться "вечности" для сёгуна - вот моё желание».</a>]]></content:encoded>
-      <guid isPermaLink="false">15372</guid>
-      <pubDate>Sun, 29 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15374</link>
-      <description>Исполнение воли Наруками и достижение «вечности» для сёгуна</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817242216614.jpg"><br/><br/>Исполнение воли Наруками и достижение «вечности» для сёгуна<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15374">«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15374</guid>
-      <pubDate>Sun, 29 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Об обновлении 2.1 «Лунное утешение для бренного мира»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15382</link>
-      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
-      <content:encoded><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15382">Об обновлении 2.1 «Лунное утешение для бренного мира»</a>]]></content:encoded>
-      <guid isPermaLink="false">15382</guid>
-      <pubDate>Mon, 30 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Событие «Лунное утешение»: Примите участие, чтобы получить особый предмет: Благодатный владыка вод (Двуручное)!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15388</link>
-      <description>В период события выполняйте задания «Сказаний Лунной охоты» или участвуйте в испытаниях «Искателя лунного света» и «Пути лакомств», чтобы получить эксклюзивное оружие события «Благодатный владыка вод» (Двуручное) и его материалы пробуждения, Корону прозрения, Камни Истока, рецепты и другие награды.</description>
-      <content:encoded><![CDATA[В период события выполняйте задания «Сказаний Лунной охоты» или участвуйте в испытаниях «Искателя лунного света» и «Пути лакомств», чтобы получить эксклюзивное оружие события «Благодатный владыка вод» (Двуручное) и его материалы пробуждения, Корону прозрения, Камни Истока, рецепты и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15388">Событие «Лунное утешение»: Примите участие, чтобы получить особый предмет: Благодатный владыка вод (Двуручное)!</a>]]></content:encoded>
-      <guid isPermaLink="false">15388</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Командный турнир «Хякунин икки»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15392</link>
-      <description>В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.</description>
-      <content:encoded><![CDATA[В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15392">Командный турнир «Хякунин икки»</a>]]></content:encoded>
-      <guid isPermaLink="false">15392</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15394</link>
-      <description>В период события отправляйтесь вместе с мастерицей рыбалки из Инадзумы, Кудзирай Момидзи, на поиски легендарной рыбы - Лунного левиафана. Выполняйте различные задания и испытания события, чтобы получить эксклюзивную удочку события «Лунная нить», Камни Истока, Загадочную декоративную рыбу и другие награды.</description>
-      <content:encoded><![CDATA[В период события отправляйтесь вместе с мастерицей рыбалки из Инадзумы, Кудзирай Момидзи, на поиски легендарной рыбы - Лунного левиафана. Выполняйте различные задания и испытания события, чтобы получить эксклюзивную удочку события «Лунная нить», Камни Истока, Загадочную декоративную рыбу и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15394">Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</a>]]></content:encoded>
-      <guid isPermaLink="false">15394</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Сияющая жатва (Древковое), Некованый (Двуручное) и другое оружие!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15396</link>
-      <description>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15396">Молитва «Воплощение божества»: повышен шанс получить Сияющая жатва (Древковое), Некованый (Двуручное) и другое оружие!</a>]]></content:encoded>
-      <guid isPermaLink="false">15396</guid>
-      <pubDate>Mon, 30 Aug 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Господство безмятежности» - повышен шанс получить персонажа «Царство эвтюмии» Сёгун Райдэн (Электро)!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15395</link>
-      <description>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15395">Молитва «Господство безмятежности» - повышен шанс получить персонажа «Царство эвтюмии» Сёгун Райдэн (Электро)!</a>]]></content:encoded>
-      <guid isPermaLink="false">15395</guid>
-      <pubDate>Mon, 30 Aug 2021 12:02:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор событий версии 2.1 - Выпуск I</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15371</link>
-      <description>Привет, путешественники! Версия 2.1 уже не за горами. Готовы к новым увлекательным событиям? Нажмите на изображение ниже, чтобы узнать больше!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082816120752594.jpg"><br/><br/>Привет, путешественники! Версия 2.1 уже не за горами. Готовы к новым увлекательным событиям? Нажмите на изображение ниже, чтобы узнать больше!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15371">Обзор событий версии 2.1 - Выпуск I</a>]]></content:encoded>
-      <guid isPermaLink="false">15371</guid>
-      <pubDate>Mon, 30 Aug 2021 12:10:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15467</link>
-      <description>Райдэн (Электро)</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110245153815.jpg"><br/><br/>Райдэн (Электро)<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15467">«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15467</guid>
-      <pubDate>Tue, 31 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15542</link>
-      <description>По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно закрыт с 06:00 (UTC+8) 1 сентября 2021 года.</description>
-      <content:encoded><![CDATA[По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно закрыт с 06:00 (UTC+8) 1 сентября 2021 года.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15542">По техническим причинам центр пополнения на официальном сайте Genshin Impact будет временно</a>]]></content:encoded>
-      <guid isPermaLink="false">15542</guid>
-      <pubDate>Wed, 01 Sep 2021 06:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Подробности обновления 2.1 «Лунное утешение для бренного мира»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15508</link>
-      <description>Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.</description>
-      <content:encoded><![CDATA[Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15508">Подробности обновления 2.1 «Лунное утешение для бренного мира»</a>]]></content:encoded>
-      <guid isPermaLink="false">15508</guid>
-      <pubDate>Wed, 01 Sep 2021 07:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Хякунин икки»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15494</link>
-      <description>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116273183435.jpg"><br/><br/>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15494">Описание события «Хякунин икки»</a>]]></content:encoded>
-      <guid isPermaLink="false">15494</guid>
-      <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Подсказки по новой версии 2.1</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15524</link>
-      <description>Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!</description>
-      <content:encoded><![CDATA[Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15524">Подсказки по новой версии 2.1</a>]]></content:encoded>
-      <guid isPermaLink="false">15524</guid>
-      <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
+      <title>Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15565</link>
+      <description>Событие «Идём вместе» стартовало!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110520968823.jpg"><br/><br/>Событие «Идём вместе» стартовало!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15565">Событие «Идём вместе» стартовало! Держите путь вместе с вернувшимися и новоприбывшими искателями приключений и получайте награды!</a>]]></content:encoded>
+      <guid isPermaLink="false">15565</guid>
+      <pubDate>Wed, 01 Sep 2021 11:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15545</link>
+      <description>Сёгун Райдэн: Грозовое небытие</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110014847034.jpg"><br/><br/>Сёгун Райдэн: Грозовое небытие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15545">Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15545</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

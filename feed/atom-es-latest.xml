@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-09-01T03:09:25.884572+00:00</updated>
+  <updated>2021-09-01T04:11:30.303593+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>12684</id>
-    <title>Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</title>
-    <updated>2021-05-11T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111031443379.jpg"><br/><br/>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12684">Avance de la trama de Genshin Impact - Eula: Encuentro fortuito en la taberna</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12684" rel="alternate"/>
-    <summary>Si decides acompañar a la solitaria Eula a beber unos tragos en la taberna, tendrás la oportunidad de escuchar sus interminables historias sobre las disputas que tuvieron lugar durante el día.</summary>
-    <published>2021-05-11T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12695</id>
-    <title>Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</title>
-    <updated>2021-05-11T12:15:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051112054985553.png"><br/><br/>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12695">Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12695" rel="alternate"/>
-    <summary>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.</summary>
-    <published>2021-05-11T12:15:00+02:00</published>
-  </entry>
   <entry>
     <id>12709</id>
     <title>Aviso sobre la seguridad de tu cuenta</title>
@@ -907,5 +889,23 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15511" rel="alternate"/>
     <summary>¡Hola, viajeros/as! ¡Hemos escuchado que la nueva versión 2.1 tiene nuevas islas por explorar! Paimon también quiere explorarlas contigo, ¡y quizás hacer nuevos amigos! Parece que hay mucho contenido por conocer. ¿Estás listo? ¡Vamos!</summary>
     <published>2021-09-01T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15559</id>
+    <title>¡El evento web «Avancemos juntos» ya está disponible! ¡Acompaña a nuevos aventureros o a aquellos que quieran regresar al juego para obtener recompensas!</title>
+    <updated>2021-09-01T11:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110341653640.jpg"><br/><br/>El Gremio de Aventureros ha publicado un encargo especial por tiempo limitado:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15559">¡El evento web «Avancemos juntos» ya está disponible! ¡Acompaña a nuevos aventureros o a aquellos que quieran regresar al juego para obtener recompensas!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15559" rel="alternate"/>
+    <summary>El Gremio de Aventureros ha publicado un encargo especial por tiempo limitado:</summary>
+    <published>2021-09-01T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15551</id>
+    <title>Genshin Impact - Shogun Raiden: Un silencio atronador</title>
+    <updated>2021-09-01T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110125136513.jpg"><br/><br/>Un rayo solitario y breve puede convertirse en un castigo divino implacable en las manos de la Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15551">Genshin Impact - Shogun Raiden: Un silencio atronador</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15551" rel="alternate"/>
+    <summary>Un rayo solitario y breve puede convertirse en un castigo divino implacable en las manos de la Shogun Raiden.</summary>
+    <published>2021-09-01T12:00:00+02:00</published>
   </entry>
 </feed>

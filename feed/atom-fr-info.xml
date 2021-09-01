@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-09-01T03:09:14.521862+00:00</updated>
+  <updated>2021-09-01T04:11:20.060200+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12724</id>
-    <title>Détails de l'événement : « Poursuite du vent »</title>
-    <updated>2021-05-13T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051310130248443.jpg"><br/><br/>« Poursuite du vent », le classique intemporel qui retrace l'histoire de Mondstadt est désormais accessible à nouveau !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12724">Détails de l'événement : « Poursuite du vent »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12724" rel="alternate"/>
-    <summary>« Poursuite du vent », le classique intemporel qui retrace l'histoire de Mondstadt est désormais accessible à nouveau !</summary>
-    <published>2021-05-13T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>12737</id>
     <title>Vœux : « Flots dansants » ! Taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</title>
@@ -954,5 +945,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/15531" rel="alternate"/>
     <summary>Bonjour, chers voyageurs ! De nouvelles îles attendent d'être explorées dans la version 2.1 ! </summary>
     <published>2021-09-01T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15577</id>
+    <title>Genshin Impact - Shogun Raiden : Tonnerre et silence</title>
+    <updated>2021-09-01T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111092122078.jpg"><br/><br/>Un éclair éphémère peut se transformer en punition divine par la Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15577">Genshin Impact - Shogun Raiden : Tonnerre et silence</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15577" rel="alternate"/>
+    <summary>Un éclair éphémère peut se transformer en punition divine par la Shogun Raiden.</summary>
+    <published>2021-09-01T12:00:00+02:00</published>
   </entry>
 </feed>

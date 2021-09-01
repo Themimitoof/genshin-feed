@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-09-01T03:09:30.626403+00:00</updated>
+  <updated>2021-09-01T04:11:36.511087+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12766</id>
-    <title>Preview Event v1.5 "Kilau Giok di Lautan Debu" Edisi 2</title>
-    <updated>2021-05-16T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051420372036943.png"><br/><br/>Hari ini, Paimon datang lagi dengan info event-event mendatang!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12766">Preview Event v1.5 "Kilau Giok di Lautan Debu" Edisi 2</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12766" rel="alternate"/>
-    <summary>Hari ini, Paimon datang lagi dengan info event-event mendatang!</summary>
-    <published>2021-05-16T12:10:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12829</id>
-    <title>Demo Karakter — "Eula: Kerlap Kerlip Cahaya Lilin " | Genshin Impact</title>
-    <updated>2021-05-17T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710295362945.jpg"><br/><br/>Dengan tarian pendosa, sang pewaris yang memberontak menghancurkan belenggu esnya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12829">Demo Karakter — "Eula: Kerlap Kerlip Cahaya Lilin " | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12829" rel="alternate"/>
-    <summary>Dengan tarian pendosa, sang pewaris yang memberontak menghancurkan belenggu esnya.</summary>
-    <published>2021-05-17T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12869</id>
     <title>Aneka Koleksi Genshin Impact — "Eula: Ombak Es yang Menghantam"</title>
@@ -908,5 +890,23 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15520" rel="alternate"/>
     <summary>Halo, Traveler! Dengar-dengar di v2.1 nanti ada pulau baru lagi yang bisa kita jelajahi! Paimon juga ingin bertualang ke sana, siapa tahu bisa dapat teman baru, hihi~ Selain itu, masih banyak konten lain yang bisa kita mainkan loh, kalian sudah siap belum? Yuk kita lihat sama-sama!</summary>
     <published>2021-09-01T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15569</id>
+    <title>Event Web "Teman Seperjalanan" Dimulai! Bertualanglah Bersama Mereka yang Kembali dan Baru Datang untuk Memenangkan Hadiah!</title>
+    <updated>2021-09-01T11:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111011397774.jpg"><br/><br/>Para petualang dapat menyelesaikan misi bersama dengan petualang yang kembali dan petualang yang baru untuk mendapatkan hadiah keren.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15569">Event Web "Teman Seperjalanan" Dimulai! Bertualanglah Bersama Mereka yang Kembali dan Baru Datang untuk Memenangkan Hadiah!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15569" rel="alternate"/>
+    <summary>Para petualang dapat menyelesaikan misi bersama dengan petualang yang kembali dan petualang yang baru untuk mendapatkan hadiah keren.</summary>
+    <published>2021-09-01T11:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15552</id>
+    <title>Aneka Koleksi Genshin Impact — "Raiden Shogun: Guntur yang Tenang"</title>
+    <updated>2021-09-01T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110144840935.jpg"><br/><br/>Kilatan petir yang singkat dan tenang, dapat berubah menjadi hukuman tanpa ampun di tangan Raiden Shogun.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15552">Aneka Koleksi Genshin Impact — "Raiden Shogun: Guntur yang Tenang"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15552" rel="alternate"/>
+    <summary>Kilatan petir yang singkat dan tenang, dapat berubah menjadi hukuman tanpa ampun di tangan Raiden Shogun.</summary>
+    <published>2021-09-01T12:00:00+07:00</published>
   </entry>
 </feed>

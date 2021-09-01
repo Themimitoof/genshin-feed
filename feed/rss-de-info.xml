@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Sep 2021 03:09:22 +0000</lastBuildDate>
-    <item>
-      <title>Aktionsübersicht für Version 1.5 „Im Schein der Jade“ – Teil 2</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12795</link>
-      <description>Auch heute hat Paimon wieder die neusten Infos zu den Aktionen für euch! Klick unten auf das Bild, um sie zu sehen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051522025359634.png"><br/><br/>Auch heute hat Paimon wieder die neusten Infos zu den Aktionen für euch! Klick unten auf das Bild, um sie zu sehen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12795">Aktionsübersicht für Version 1.5 „Im Schein der Jade“ – Teil 2</a>]]></content:encoded>
-      <guid isPermaLink="false">12795</guid>
-      <pubDate>Sun, 16 May 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Figurenvorführung bei Genshin Impact – Eula: Hell scheinendes Kerzenlicht</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12819</link>
-      <description>Mit dem Tanz der Sünder zerschmettert eine rebellische Nachfahrin die Fesseln des festen Eises.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710144279612.jpg"><br/><br/>Mit dem Tanz der Sünder zerschmettert eine rebellische Nachfahrin die Fesseln des festen Eises.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12819">Figurenvorführung bei Genshin Impact – Eula: Hell scheinendes Kerzenlicht</a>]]></content:encoded>
-      <guid isPermaLink="false">12819</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 04:11:27 +0000</lastBuildDate>
     <item>
       <title>Fähigkeiten bei Genshin Impact – Eula: Wallender Frost</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12797</link>
@@ -835,6 +819,24 @@ hier findest du Details zur Aktualisierung auf Version 2.1 „Vom Mond beschiene
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119484524389.png"><br/><br/>Hallo liebe Reisende! Paimon hat gehört, dass es in Version 2.1 wieder neue Inseln zu erkunden gibt! Paimon will jetzt schon mit euch dorthinfahren und ein großes Abenteuer erleben! Vielleicht können wir dort noch ein paar neue Freunde kennenlernen! Und es gibt diesmal auch viele tolle Neuigkeiten, die wir erwarten können! Seid ihr bereit? Lasst uns zusammen die coolen neuen Inhalte entdecken!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15521">Tipps zur Aktualisierung auf Version 2.1</a>]]></content:encoded>
       <guid isPermaLink="false">15521</guid>
       <pubDate>Wed, 01 Sep 2021 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Die Webaktion „Gemeinsam voran“ hat begonnen! Begleite alte und neue Abenteurer und erhalte tolle Belohnungen!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15582</link>
+      <description>Die Abenteurergilde hat eine besondere zeitlich begrenzte Mission aufgegeben:
+Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missionen, um viele tolle Belohnungen zu erhalten.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111440053183.jpg"><br/><br/>Die Abenteurergilde hat eine besondere zeitlich begrenzte Mission aufgegeben:
+Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missionen, um viele tolle Belohnungen zu erhalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15582">Die Webaktion „Gemeinsam voran“ hat begonnen! Begleite alte und neue Abenteurer und erhalte tolle Belohnungen!</a>]]></content:encoded>
+      <guid isPermaLink="false">15582</guid>
+      <pubDate>Wed, 01 Sep 2021 11:42:07 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Shougun Raiden: Einsamer Donner</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15568</link>
+      <description>Ein kurzer, einsamer Blitz kann in den Händen des Shougun Raiden zur unerbittlichen Macht göttlicher Vergeltung werden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111004769610.jpg"><br/><br/>Ein kurzer, einsamer Blitz kann in den Händen des Shougun Raiden zur unerbittlichen Macht göttlicher Vergeltung werden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15568">Fähigkeiten bei Genshin Impact – Shougun Raiden: Einsamer Donner</a>]]></content:encoded>
+      <guid isPermaLink="false">15568</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

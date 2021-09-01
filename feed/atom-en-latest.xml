@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-09-01T03:09:08.923374+00:00</updated>
+  <updated>2021-09-01T04:11:12.615291+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12717</id>
-    <title>"Windtrace" Event Gameplay Details</title>
-    <updated>2021-05-13T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210512/2021051222531441336.jpg"><br/><br/>Windtrace, the classic game that hands down Mondstadt's history, is once again being held!
-Players will be split into two sides — the Rebels, members of the ancient resistance, and a Hunter sent by the ancient aristocracy — and have a battle of wits in the Contested Zones.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12717">"Windtrace" Event Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12717" rel="alternate"/>
-    <summary>Windtrace, the classic game that hands down Mondstadt's history, is once again being held!
-Players will be split into two sides — the Rebels, members of the ancient resistance, and a Hunter sent by the ancient aristocracy — and have a battle of wits in the Contested Zones.</summary>
-    <published>2021-05-13T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12736</id>
-    <title>Event Wish "Born of Ocean Swell" - Boosted Drop Rate for "Dance of the Shimmering Wave" Eula (Cryo)!</title>
-    <updated>2021-05-16T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051416515128724.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12736">Event Wish "Born of Ocean Swell" - Boosted Drop Rate for "Dance of the Shimmering Wave" Eula (Cryo)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12736" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</summary>
-    <published>2021-05-16T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>12749</id>
     <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Song of Broken Pines (Claymore) and Aquila Favonia (Sword)!</title>
@@ -1003,5 +983,27 @@ When thunder falls silent, the fleeting dream of an illusory bubble will be shat
     <link href="https://genshin.mihoyo.com/en/news/detail/15517" rel="alternate"/>
     <summary>Hello, Travelers! Paimon heard that in the new Version 2.1, Travelers will have new islands to explore! Paimon wants to go with you, maybe we'll make new friends along the way~ Seems like there's a lot of new game content to experience. Are you ready? Let's go together!</summary>
     <published>2021-09-01T11:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15562</id>
+    <title>The “Side by Side We Venture” Web Event Has Begun~ Journey With Returning and New Adventurers to Win Prizes!</title>
+    <updated>2021-09-01T11:10:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110461295805.jpg"><br/><br/>The Adventurers' Guild has issued limited-time special commissions:
+Travelers can join hands with returning and new adventurers to complete commissions to get rewards!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15562">The “Side by Side We Venture” Web Event Has Begun~ Journey With Returning and New Adventurers to Win Prizes!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15562" rel="alternate"/>
+    <summary>The Adventurers' Guild has issued limited-time special commissions:
+Travelers can join hands with returning and new adventurers to complete commissions to get rewards!</summary>
+    <published>2021-09-01T11:10:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15549</id>
+    <title>Collected Miscellany - "Raiden Shogun: Tranquil Thunder" | Genshin Impact</title>
+    <updated>2021-09-01T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110105056845.jpg"><br/><br/>A brief, solitary bolt of lightning can turn into an unrelenting force of divine retribution in the hands of the Raiden Shogun.
+Perhaps by rejecting the illusory bubble of the mortal world can one become closer to eternity.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15549">Collected Miscellany - "Raiden Shogun: Tranquil Thunder" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15549" rel="alternate"/>
+    <summary>A brief, solitary bolt of lightning can turn into an unrelenting force of divine retribution in the hands of the Raiden Shogun.
+Perhaps by rejecting the illusory bubble of the mortal world can one become closer to eternity.</summary>
+    <published>2021-09-01T12:00:00-04:00</published>
   </entry>
 </feed>
