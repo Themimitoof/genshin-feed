@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Sep 2021 05:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 06:10:32 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -201,14 +201,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vœux : « Flots dansants » ! Taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12737</link>
-      <description>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051416473234187.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12737">Vœux : « Flots dansants » ! Taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</a>]]></content:encoded>
-      <guid isPermaLink="false">12737</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour Ode au chant du vent (Épée à deux mains) et Épée du faucon (Épée à une main) !</title>
@@ -1046,12 +1038,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Vœux : « Flots dansants » ! Taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12737</link>
-      <description>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051416473234187.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12737">Vœux : « Flots dansants » ! Taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</a>]]></content:encoded>
-      <guid isPermaLink="false">12737</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
+      <title>L'événement web « Avançons ensemble » est disponible ! Accompagnez les nouveaux aventuriers et les aventuriers revenants pour obtenir des récompenses !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15584</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090113123256094.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15584">L'événement web « Avançons ensemble » est disponible ! Accompagnez les nouveaux aventuriers et les aventuriers revenants pour obtenir des récompenses !</a>]]></description>
+      <guid isPermaLink="false">15584</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour Ode au chant du vent (Épée à deux mains) et Épée du faucon (Épée à une main) !</title>
@@ -1886,6 +1877,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description>Un éclair éphémère peut se transformer en punition divine par la Shogun Raiden.</description>
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111092122078.jpg"><br/><br/>Un éclair éphémère peut se transformer en punition divine par la Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15577">Genshin Impact - Shogun Raiden : Tonnerre et silence</a>]]></content:encoded>
       <guid isPermaLink="false">15577</guid>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Avançons ensemble » est disponible ! Accompagnez les nouveaux aventuriers et les aventuriers revenants pour obtenir des récompenses !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15584</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090113123256094.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15584">L'événement web « Avançons ensemble » est disponible ! Accompagnez les nouveaux aventuriers et les aventuriers revenants pour obtenir des récompenses !</a>]]></description>
+      <guid isPermaLink="false">15584</guid>
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>

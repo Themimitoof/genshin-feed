@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-01T05:07:58.714729+00:00</updated>
+  <updated>2021-09-01T06:10:28.351524+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12737</id>
-    <title>Vœux : « Flots dansants » ! Taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</title>
-    <updated>2021-05-16T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051416473234187.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12737">Vœux : « Flots dansants » ! Taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12737" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</summary>
-    <published>2021-05-16T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12746</id>
     <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour Ode au chant du vent (Épée à deux mains) et Épée du faucon (Épée à une main) !</title>
@@ -953,6 +944,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111092122078.jpg"><br/><br/>Un éclair éphémère peut se transformer en punition divine par la Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15577">Genshin Impact - Shogun Raiden : Tonnerre et silence</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15577" rel="alternate"/>
     <summary>Un éclair éphémère peut se transformer en punition divine par la Shogun Raiden.</summary>
+    <published>2021-09-01T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15584</id>
+    <title>L'événement web « Avançons ensemble » est disponible ! Accompagnez les nouveaux aventuriers et les aventuriers revenants pour obtenir des récompenses !</title>
+    <updated>2021-09-01T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090113123256094.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15584">L'événement web « Avançons ensemble » est disponible ! Accompagnez les nouveaux aventuriers et les aventuriers revenants pour obtenir des récompenses !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15584" rel="alternate"/>
     <published>2021-09-01T12:00:00+02:00</published>
   </entry>
 </feed>
