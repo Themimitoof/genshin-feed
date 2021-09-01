@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Sep 2021 02:24:05 +0000</lastBuildDate>
-    <item>
-      <title>Captain Eula Lawrence, Knights of Favonius Reconnaissance Company. As the Spindrift Knight, I extend to you my greetings.</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12686</link>
-      <description>Today, we'd like to introduce to you the Captain of the Knights of Favonius Reconnaissance Company, Captain Eula Lawrence, the Spindrift Knight!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111093483074.png"><br/><br/>Today, we'd like to introduce to you the Captain of the Knights of Favonius Reconnaissance Company, Captain Eula Lawrence, the Spindrift Knight!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12686">Captain Eula Lawrence, Knights of Favonius Reconnaissance Company. As the Spindrift Knight, I extend to you my greetings.</a>]]></content:encoded>
-      <guid isPermaLink="false">12686</guid>
-      <pubDate>Tue, 11 May 2021 12:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Notice About Account Security</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12704</link>
-      <description>To ensure the security of your account and enjoy a better gaming experience, please complete your account information as soon as possible. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118535563292.png"><br/><br/>To ensure the security of your account and enjoy a better gaming experience, please complete your account information as soon as possible. <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12704">Notice About Account Security</a>]]></content:encoded>
-      <guid isPermaLink="false">12704</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 03:09:10 +0000</lastBuildDate>
     <item>
       <title>"Windtrace" Event Gameplay Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12717</link>
@@ -903,6 +887,22 @@ When thunder falls silent, the fleeting dream of an illusory bubble will be shat
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119155180810.jpg"><br/><br/>Below are the details of the Version 2.1 update "Floating World Under the Moonlight" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15513">Version 2.1 "Floating World Under the Moonlight" Update Details</a>]]></content:encoded>
       <guid isPermaLink="false">15513</guid>
       <pubDate>Wed, 01 Sep 2021 07:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Hyakunin Ikki" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15495</link>
+      <description>A free-for-all fighting tournament called Hyakunin Ikki is being held in an unknown guild hall near Inazuma City. Take part and show off your elegant combat skills by defeating opponents and earning scores to win challenge rewards.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116360290298.jpg"><br/><br/>A free-for-all fighting tournament called Hyakunin Ikki is being held in an unknown guild hall near Inazuma City. Take part and show off your elegant combat skills by defeating opponents and earning scores to win challenge rewards.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15495">"Hyakunin Ikki" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">15495</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Explanations of Version 2.1 Update Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15517</link>
+      <description>Hello, Travelers! Paimon heard that in the new Version 2.1, Travelers will have new islands to explore! Paimon wants to go with you, maybe we'll make new friends along the way~ Seems like there's a lot of new game content to experience. Are you ready? Let's go together!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119283046255.png"><br/><br/>Hello, Travelers! Paimon heard that in the new Version 2.1, Travelers will have new islands to explore! Paimon wants to go with you, maybe we'll make new friends along the way~ Seems like there's a lot of new game content to experience. Are you ready? Let's go together!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15517">Explanations of Version 2.1 Update Details</a>]]></content:encoded>
+      <guid isPermaLink="false">15517</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

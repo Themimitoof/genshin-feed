@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Sep 2021 02:24:10 +0000</lastBuildDate>
-    <item>
-      <title>Capitaine Eula Lawrence, Chevalier aux Embruns, de l'unité de reconnaissance de l'Ordre de Favonius. Je vous salue.</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12692</link>
-      <description>Aujourd'hui, nous vous présentons la capitaine de l'unité de reconnaissance des chevaliers de l'Ordre de Favonius : Eula Lawrence, le Chevalier aux Embruns !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111211395850.png"><br/><br/>Aujourd'hui, nous vous présentons la capitaine de l'unité de reconnaissance des chevaliers de l'Ordre de Favonius : Eula Lawrence, le Chevalier aux Embruns !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12692">Capitaine Eula Lawrence, Chevalier aux Embruns, de l'unité de reconnaissance de l'Ordre de Favonius. Je vous salue.</a>]]></content:encoded>
-      <guid isPermaLink="false">12692</guid>
-      <pubDate>Tue, 11 May 2021 12:15:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avis sur la sécurité de votre compte</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12706</link>
-      <description>Afin d'assurer la sécurité de votre compte et de vous offrir une meilleure expérience de jeu, il est conseillé de compléter les informations de compte.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119055446598.png"><br/><br/>Afin d'assurer la sécurité de votre compte et de vous offrir une meilleure expérience de jeu, il est conseillé de compléter les informations de compte.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12706">Avis sur la sécurité de votre compte</a>]]></content:encoded>
-      <guid isPermaLink="false">12706</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 03:09:14 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement : « Poursuite du vent »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12724</link>
@@ -851,6 +835,22 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
 Voici les détails de la mise à jour et de la compensation de la version 2.1 « Caresse sélénite sur les mortels ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15529">Détails de la mise à jour de version 2.1 « Caresse sélénite sur les mortels » </a>]]></content:encoded>
       <guid isPermaLink="false">15529</guid>
       <pubDate>Wed, 01 Sep 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Hyakunin Ikki »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15528</link>
+      <description>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122003940835.jpg"><br/><br/>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15528">Détails de l'événement « Hyakunin Ikki »</a>]]></content:encoded>
+      <guid isPermaLink="false">15528</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Précisions sur certains éléments de la mise à jour de version 2.1</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15531</link>
+      <description>Bonjour, chers voyageurs ! De nouvelles îles attendent d'être explorées dans la version 2.1 ! </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122322987630.png"><br/><br/>Bonjour, chers voyageurs ! De nouvelles îles attendent d'être explorées dans la version 2.1 ! <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15531">Précisions sur certains éléments de la mise à jour de version 2.1</a>]]></content:encoded>
+      <guid isPermaLink="false">15531</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

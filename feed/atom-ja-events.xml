@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2021-09-01T02:24:33.175721+00:00</updated>
+  <updated>2021-09-01T03:09:34.569655+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -824,5 +824,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15425" rel="alternate"/>
     <summary/>
     <published>2021-08-30T12:20:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15502</id>
+    <title>「百人一揆」イベント紹介</title>
+    <updated>2021-09-01T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117474576449.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15502">「百人一揆」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15502" rel="alternate"/>
+    <published>2021-09-01T11:00:00+09:00</published>
   </entry>
 </feed>

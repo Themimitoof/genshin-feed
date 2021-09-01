@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 01 Sep 2021 02:24:42 +0000</lastBuildDate>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Песнь разбитых сосен (Двуручное), Меч Сокола (Одноручное) и другое оружие!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12752</link>
-      <description>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417065196312.jpg"><br/><br/>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12752">Молитва «Воплощение божества»: повышен шанс получить Песнь разбитых сосен (Двуручное), Меч Сокола (Одноручное) и другое оружие!</a>]]></content:encoded>
-      <guid isPermaLink="false">12752</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Новые события версии 1.5 «В сиянии нефрита». Выпуск II</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12772</link>
-      <description>Сегодня Паймон принесла вам ещё информации по грядущим событиям. Скорее нажмите на картинку внизу, чтобы посмотреть!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500465294319.png"><br/><br/>Сегодня Паймон принесла вам ещё информации по грядущим событиям. Скорее нажмите на картинку внизу, чтобы посмотреть!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12772">Новые события версии 1.5 «В сиянии нефрита». Выпуск II</a>]]></content:encoded>
-      <guid isPermaLink="false">12772</guid>
-      <pubDate>Sun, 16 May 2021 12:10:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 03:09:43 +0000</lastBuildDate>
     <item>
       <title>«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12816</link>
@@ -818,6 +802,22 @@
       <content:encoded><![CDATA[Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15508">Подробности обновления 2.1 «Лунное утешение для бренного мира»</a>]]></content:encoded>
       <guid isPermaLink="false">15508</guid>
       <pubDate>Wed, 01 Sep 2021 07:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Хякунин икки»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15494</link>
+      <description>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116273183435.jpg"><br/><br/>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15494">Описание события «Хякунин икки»</a>]]></content:encoded>
+      <guid isPermaLink="false">15494</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Подсказки по новой версии 2.1</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15524</link>
+      <description>Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!</description>
+      <content:encoded><![CDATA[Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15524">Подсказки по новой версии 2.1</a>]]></content:encoded>
+      <guid isPermaLink="false">15524</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2021-09-01T02:24:49.288914+00:00</updated>
+  <updated>2021-09-01T03:09:50.251418+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>12722</id>
-    <title>Hướng dẫn cách chơi sự kiện "Cơn Gió Lạc Lối"</title>
-    <updated>2021-05-13T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051300253670901.jpg"><br/><br/>Trò chơi kinh điển "Cơn Gió Lạc Lối" mang đậm dấu ấn lịch sử Mondstadt đã được mở lại!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12722">Hướng dẫn cách chơi sự kiện "Cơn Gió Lạc Lối"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12722" rel="alternate"/>
-    <summary>Trò chơi kinh điển "Cơn Gió Lạc Lối" mang đậm dấu ấn lịch sử Mondstadt đã được mở lại!</summary>
-    <published>2021-05-13T10:30:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12759</id>
-    <title>Cầu Nguyện "Khoảnh Khắc Dậy Sóng", xác suất UP Vũ Điệu Bọt Biển - Eula (Băng)!</title>
-    <updated>2021-05-16T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417165855147.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12759">Cầu Nguyện "Khoảnh Khắc Dậy Sóng", xác suất UP Vũ Điệu Bọt Biển - Eula (Băng)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12759" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-05-16T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12761</id>
     <title>Cầu nguyện "Thân Hình Thần Đúc", xác suất UP Trọng Kiếm - Tiếng Gió Trong Rừng Thông, Kiếm Đơn - Phong Ưng Kiếm!</title>
@@ -950,5 +932,21 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119541181342.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15523">Giới Thiệu Cập Nhật Phiên Bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/15523" rel="alternate"/>
     <published>2021-09-01T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15516</id>
+    <title>Hướng dẫn cách chơi "Hyakunin Ikki"</title>
+    <updated>2021-09-01T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119275850716.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15516">Hướng dẫn cách chơi "Hyakunin Ikki"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15516" rel="alternate"/>
+    <published>2021-09-01T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15526</id>
+    <title>Nhắc Nhở Cập Nhật Phiên Bản 2.1</title>
+    <updated>2021-09-01T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083120174295129.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15526">Nhắc Nhở Cập Nhật Phiên Bản 2.1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15526" rel="alternate"/>
+    <published>2021-09-01T11:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-09-01T02:24:13.404690+00:00</updated>
+  <updated>2021-09-01T03:09:17.356029+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12720</id>
-    <title>「風行迷蹤」活動玩法說明</title>
-    <updated>2021-05-13T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210512/2021051223272559322.png"><br/><br/>承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12720">「風行迷蹤」活動玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12720" rel="alternate"/>
-    <summary>承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！</summary>
-    <published>2021-05-13T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>12760</id>
     <title>「浪湧之瞬」祈願：「浪沫的旋舞·優菈(冰)」機率UP！</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15507" rel="alternate"/>
     <summary>以下是2.1版本——「韶光撫月，天下人間」更新與補償內容。</summary>
     <published>2021-09-01T07:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15510</id>
+    <title>2.1版本更新小提示</title>
+    <updated>2021-09-01T11:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119121130808.png"><br/><br/>聽說在2.1新版本中，旅行者們又有全新的島嶼可以探索了！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15510">2.1版本更新小提示</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15510" rel="alternate"/>
+    <summary>聽說在2.1新版本中，旅行者們又有全新的島嶼可以探索了！</summary>
+    <published>2021-09-01T11:00:00+08:00</published>
   </entry>
 </feed>

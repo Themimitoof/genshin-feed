@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Sep 2021 02:24:30 +0000</lastBuildDate>
-    <item>
-      <title>コンテンツクリエイター(第2期)募集開始！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/11675</link>
-      <description>旅人さん、「原神」コンテンツクリエイター（第2期）を募集いたします！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041218421455495.png"><br/><br/>旅人さん、「原神」コンテンツクリエイター（第2期）を募集いたします！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11675">コンテンツクリエイター(第2期)募集開始！</a>]]></content:encoded>
-      <guid isPermaLink="false">11675</guid>
-      <pubDate>Mon, 12 Apr 2021 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 03:09:32 +0000</lastBuildDate>
     <item>
       <title>「百貨珍品」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/11678</link>
@@ -725,6 +717,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083115163379743.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15488">Ver.2.1「韶光撫月の浮世」更新内容について</a>]]></description>
       <guid isPermaLink="false">15488</guid>
       <pubDate>Wed, 01 Sep 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「百人一揆」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15502</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117474576449.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15502">「百人一揆」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">15502</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

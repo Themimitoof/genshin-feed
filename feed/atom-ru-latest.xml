@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-09-01T02:24:41.085345+00:00</updated>
+  <updated>2021-09-01T03:09:42.211996+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>12752</id>
-    <title>Молитва «Воплощение божества»: повышен шанс получить Песнь разбитых сосен (Двуручное), Меч Сокола (Одноручное) и другое оружие!</title>
-    <updated>2021-05-16T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417065196312.jpg"><br/><br/>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12752">Молитва «Воплощение божества»: повышен шанс получить Песнь разбитых сосен (Двуручное), Меч Сокола (Одноручное) и другое оружие!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12752" rel="alternate"/>
-    <summary>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-05-16T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>12772</id>
-    <title>Новые события версии 1.5 «В сиянии нефрита». Выпуск II</title>
-    <updated>2021-05-16T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500465294319.png"><br/><br/>Сегодня Паймон принесла вам ещё информации по грядущим событиям. Скорее нажмите на картинку внизу, чтобы посмотреть!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12772">Новые события версии 1.5 «В сиянии нефрита». Выпуск II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12772" rel="alternate"/>
-    <summary>Сегодня Паймон принесла вам ещё информации по грядущим событиям. Скорее нажмите на картинку внизу, чтобы посмотреть!</summary>
-    <published>2021-05-16T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>12816</id>
     <title>«Мерцание свечи» Эола (Крио) - Новый персонаж | Genshin Impact</title>
@@ -919,5 +901,23 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15508" rel="alternate"/>
     <summary>Обновлении до версии 2.1 - «Лунное утешение для бренного мира» и о компенсации.</summary>
     <published>2021-09-01T07:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15494</id>
+    <title>Описание события «Хякунин икки»</title>
+    <updated>2021-09-01T11:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116273183435.jpg"><br/><br/>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15494">Описание события «Хякунин икки»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15494" rel="alternate"/>
+    <summary>В секретном павильоне в городе Инадзума проводится таинственный бойцовский турнир под названием Хякунин икки.</summary>
+    <published>2021-09-01T11:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15524</id>
+    <title>Подсказки по новой версии 2.1</title>
+    <updated>2021-09-01T11:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15524">Подсказки по новой версии 2.1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15524" rel="alternate"/>
+    <summary>Говорят, в версии 2.1 появились новые острова! Паймон уже не терпится посмотреть на новые места - вдруг там найдутся новые друзья! Но кажется, это не единственная новость. Путешественники, вы готовы? Тогда в путь!</summary>
+    <published>2021-09-01T11:00:00+03:00</published>
   </entry>
 </feed>

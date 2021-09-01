@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Sep 2021 02:24:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 03:09:34 +0000</lastBuildDate>
     <item>
       <title>Webイベント・「岩港珍奇行紀」開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6712</link>
@@ -671,6 +671,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009435612670.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15425">Ver2.1任務予告</a>]]></description>
       <guid isPermaLink="false">15425</guid>
       <pubDate>Mon, 30 Aug 2021 12:20:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「百人一揆」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15502</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117474576449.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15502">「百人一揆」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">15502</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

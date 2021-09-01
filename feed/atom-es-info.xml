@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - info</title>
-  <updated>2021-09-01T02:24:23.535065+00:00</updated>
+  <updated>2021-09-01T03:09:26.695754+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>12440</id>
-    <title>Genshin Impact - Yanfei: El resplandor de la ley</title>
-    <updated>2021-04-28T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042811094149512.jpg"><br/><br/>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12440">Genshin Impact - Yanfei: El resplandor de la ley</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12440" rel="alternate"/>
-    <summary>Dada su naturaleza racional y justa, no es de extrañar que Yanfei se haya convertido en asesora legal. Alegre y respetuosa con las normas, es una joven mitad Adeptus conocida por todos por su honestidad.</summary>
-    <published>2021-04-28T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12496</id>
-    <title>Avance de la trama de Genshin Impact: "La visión del dragón"</title>
-    <updated>2021-04-29T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042911353779222.jpg"><br/><br/>"Así se creó el dragón, del deber de un soberano y la lealtad de un amigo. Un rayo de luz iluminó sus ojos y liberó su cuerpo inmortal para que pudiera explorar el mundo".<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12496">Avance de la trama de Genshin Impact: "La visión del dragón"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12496" rel="alternate"/>
-    <summary>"Así se creó el dragón, del deber de un soberano y la lealtad de un amigo. Un rayo de luz iluminó sus ojos y liberó su cuerpo inmortal para que pudiera explorar el mundo".</summary>
-    <published>2021-04-29T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12553</id>
     <title>Consejos sobre el amplificador de energía - Dominio del Rayo</title>
@@ -907,5 +889,23 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15506" rel="alternate"/>
     <summary>Querido/a viajero/a: Aquí te traemos el contenido de la versión 2.1 «Una luna sobre los mortales» y la información relacionada con sus compensaciones.</summary>
     <published>2021-09-01T07:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15498</id>
+    <title>Modo de juego del evento «El club del combate»</title>
+    <updated>2021-09-01T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117164974694.jpg"><br/><br/>Cerca de la Ciudad de Inazuma hay un misterioso lugar donde se está llevando a cabo un torneo de lucha llamado "El club del combate". Demuestra tus habilidades de combate y derrota a los enemigos para obtener puntos y recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15498">Modo de juego del evento «El club del combate»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15498" rel="alternate"/>
+    <summary>Cerca de la Ciudad de Inazuma hay un misterioso lugar donde se está llevando a cabo un torneo de lucha llamado "El club del combate". Demuestra tus habilidades de combate y derrota a los enemigos para obtener puntos y recompensas.</summary>
+    <published>2021-09-01T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15511</id>
+    <title>Recomendaciones de la versión 2.1</title>
+    <updated>2021-09-01T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119133489658.png"><br/><br/>¡Hola, viajeros/as! ¡Hemos escuchado que la nueva versión 2.1 tiene nuevas islas por explorar! Paimon también quiere explorarlas contigo, ¡y quizás hacer nuevos amigos! Parece que hay mucho contenido por conocer. ¿Estás listo? ¡Vamos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15511">Recomendaciones de la versión 2.1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15511" rel="alternate"/>
+    <summary>¡Hola, viajeros/as! ¡Hemos escuchado que la nueva versión 2.1 tiene nuevas islas por explorar! Paimon también quiere explorarlas contigo, ¡y quizás hacer nuevos amigos! Parece que hay mucho contenido por conocer. ¿Estás listo? ¡Vamos!</summary>
+    <published>2021-09-01T11:00:00+02:00</published>
   </entry>
 </feed>

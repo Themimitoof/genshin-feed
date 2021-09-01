@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-09-01T02:24:45.891466+00:00</updated>
+  <updated>2021-09-01T03:09:47.014135+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12751</id>
-    <title>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ดาบใหญ่ - Song of Broken Pines" "ดาบ - Aquila Favonia"!</title>
-    <updated>2021-05-16T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417065539970.jpg"><br/><br/>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับอาวุธและตัวละครมากมายจากกิจกรรมอธิษฐาน <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12751">การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ดาบใหญ่ - Song of Broken Pines" "ดาบ - Aquila Favonia"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12751" rel="alternate"/>
-    <summary>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับอาวุธและตัวละครมากมายจากกิจกรรมอธิษฐาน </summary>
-    <published>2021-05-16T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12803</id>
-    <title>กิจกรรมใหม่เวอร์ชัน 1.5 ช่วงที่ 2 "อาณาจักรแดนเนรมิต"</title>
-    <updated>2021-05-16T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051600545821853.png"><br/><br/>วันนี้ Paimon มาพร้อมกับข้อมูลของกิจกรรมล่าสุดด้วยล่ะ คลิกที่ภาพด้านล่างเพื่อดูกันเลย~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12803">กิจกรรมใหม่เวอร์ชัน 1.5 ช่วงที่ 2 "อาณาจักรแดนเนรมิต"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12803" rel="alternate"/>
-    <summary>วันนี้ Paimon มาพร้อมกับข้อมูลของกิจกรรมล่าสุดด้วยล่ะ คลิกที่ภาพด้านล่างเพื่อดูกันเลย~</summary>
-    <published>2021-05-16T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>12826</id>
     <title>ตัวอย่างตัวละครของ Genshin Impact - "Eula: Flickering Candlelight"</title>
@@ -904,5 +886,21 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119515985207.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15522">คำอธิบายการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/15522" rel="alternate"/>
     <published>2021-09-01T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15519</id>
+    <title>คำอธิบายเกมเพลย์ "ร้อยใจรวมเป็นหนึ่ง"</title>
+    <updated>2021-09-01T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119374148338.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15519">คำอธิบายเกมเพลย์ "ร้อยใจรวมเป็นหนึ่ง"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15519" rel="alternate"/>
+    <published>2021-09-01T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15525</id>
+    <title>คำแนะนำการอัปเดตเวอร์ชัน 2.1</title>
+    <updated>2021-09-01T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083120163977231.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15525">คำแนะนำการอัปเดตเวอร์ชัน 2.1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15525" rel="alternate"/>
+    <published>2021-09-01T11:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-09-01T02:24:27.477175+00:00</updated>
+  <updated>2021-09-01T03:09:30.626403+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12754</id>
-    <title>Event Permohonan "Tarian Gulungan Ombak": Persentase perolehan "Dance of the Shimmering Wave" Eula (Cryo) meningkat!</title>
-    <updated>2021-05-16T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417084354480.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12754">Event Permohonan "Tarian Gulungan Ombak": Persentase perolehan "Dance of the Shimmering Wave" Eula (Cryo) meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12754" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-05-16T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>12757</id>
-    <title>Event Permohonan "Epitome Invocation": Persentase perolehan Song of Broken Pines (Claymore) dan Aquila Favonia (Sword) meningkat!</title>
-    <updated>2021-05-16T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417133858074.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12757">Event Permohonan "Epitome Invocation": Persentase perolehan Song of Broken Pines (Claymore) dan Aquila Favonia (Sword) meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12757" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-05-16T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12766</id>
     <title>Preview Event v1.5 "Kilau Giok di Lautan Debu" Edisi 2</title>
@@ -908,5 +890,23 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15515" rel="alternate"/>
     <summary>Berikut adalah konten dan kompensasi Update v2.1 "Dunia di Bawah Cahaya Rembulan".</summary>
     <published>2021-09-01T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15497</id>
+    <title>Cara Bermain "Hyakunin Ikki"</title>
+    <updated>2021-09-01T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117092730845.jpg"><br/><br/>Di aula rahasia Kota Inazuma, diadakanlah sebuah pertarungan misterius yang dinamakan "Hyakunin Ikki". Bentuklah tim yang terdiri dari dua orang untuk menunjukkan keelokan seni bela dirimu di atas arena, dan kalahkanlah lawan untuk mendapatkan poin, serta kesempatan untuk memenangkan hadiah tantangan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15497">Cara Bermain "Hyakunin Ikki"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15497" rel="alternate"/>
+    <summary>Di aula rahasia Kota Inazuma, diadakanlah sebuah pertarungan misterius yang dinamakan "Hyakunin Ikki". Bentuklah tim yang terdiri dari dua orang untuk menunjukkan keelokan seni bela dirimu di atas arena, dan kalahkanlah lawan untuk mendapatkan poin, serta kesempatan untuk memenangkan hadiah tantangan.</summary>
+    <published>2021-09-01T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15520</id>
+    <title>Serba-serbi Tentang Update v2.1</title>
+    <updated>2021-09-01T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119462139145.png"><br/><br/>Halo, Traveler! Dengar-dengar di v2.1 nanti ada pulau baru lagi yang bisa kita jelajahi! Paimon juga ingin bertualang ke sana, siapa tahu bisa dapat teman baru, hihi~ Selain itu, masih banyak konten lain yang bisa kita mainkan loh, kalian sudah siap belum? Yuk kita lihat sama-sama!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15520">Serba-serbi Tentang Update v2.1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15520" rel="alternate"/>
+    <summary>Halo, Traveler! Dengar-dengar di v2.1 nanti ada pulau baru lagi yang bisa kita jelajahi! Paimon juga ingin bertualang ke sana, siapa tahu bisa dapat teman baru, hihi~ Selain itu, masih banyak konten lain yang bisa kita mainkan loh, kalian sudah siap belum? Yuk kita lihat sama-sama!</summary>
+    <published>2021-09-01T11:00:00+07:00</published>
   </entry>
 </feed>

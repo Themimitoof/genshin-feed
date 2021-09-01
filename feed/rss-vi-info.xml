@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 01 Sep 2021 02:24:49 +0000</lastBuildDate>
-    <item>
-      <title>Hướng dẫn cách chơi sự kiện "Cơn Gió Lạc Lối"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12722</link>
-      <description>Trò chơi kinh điển "Cơn Gió Lạc Lối" mang đậm dấu ấn lịch sử Mondstadt đã được mở lại!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051300253670901.jpg"><br/><br/>Trò chơi kinh điển "Cơn Gió Lạc Lối" mang đậm dấu ấn lịch sử Mondstadt đã được mở lại!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12722">Hướng dẫn cách chơi sự kiện "Cơn Gió Lạc Lối"</a>]]></content:encoded>
-      <guid isPermaLink="false">12722</guid>
-      <pubDate>Thu, 13 May 2021 10:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Cầu Nguyện "Khoảnh Khắc Dậy Sóng", xác suất UP Vũ Điệu Bọt Biển - Eula (Băng)!</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12759</link>
-      <description>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417165855147.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12759">Cầu Nguyện "Khoảnh Khắc Dậy Sóng", xác suất UP Vũ Điệu Bọt Biển - Eula (Băng)!</a>]]></content:encoded>
-      <guid isPermaLink="false">12759</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 03:09:50 +0000</lastBuildDate>
     <item>
       <title>Cầu nguyện "Thân Hình Thần Đúc", xác suất UP Trọng Kiếm - Tiếng Gió Trong Rừng Thông, Kiếm Đơn - Phong Ưng Kiếm!</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12761</link>
@@ -847,6 +831,20 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119541181342.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15523">Giới Thiệu Cập Nhật Phiên Bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></description>
       <guid isPermaLink="false">15523</guid>
       <pubDate>Wed, 01 Sep 2021 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hướng dẫn cách chơi "Hyakunin Ikki"</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15516</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119275850716.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15516">Hướng dẫn cách chơi "Hyakunin Ikki"</a>]]></description>
+      <guid isPermaLink="false">15516</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Nhắc Nhở Cập Nhật Phiên Bản 2.1</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15526</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083120174295129.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15526">Nhắc Nhở Cập Nhật Phiên Bản 2.1</a>]]></description>
+      <guid isPermaLink="false">15526</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

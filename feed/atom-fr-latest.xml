@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-01T02:24:08.609513+00:00</updated>
+  <updated>2021-09-01T03:09:13.167034+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12692</id>
-    <title>Capitaine Eula Lawrence, Chevalier aux Embruns, de l'unité de reconnaissance de l'Ordre de Favonius. Je vous salue.</title>
-    <updated>2021-05-11T12:15:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051111211395850.png"><br/><br/>Aujourd'hui, nous vous présentons la capitaine de l'unité de reconnaissance des chevaliers de l'Ordre de Favonius : Eula Lawrence, le Chevalier aux Embruns !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12692">Capitaine Eula Lawrence, Chevalier aux Embruns, de l'unité de reconnaissance de l'Ordre de Favonius. Je vous salue.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12692" rel="alternate"/>
-    <summary>Aujourd'hui, nous vous présentons la capitaine de l'unité de reconnaissance des chevaliers de l'Ordre de Favonius : Eula Lawrence, le Chevalier aux Embruns !</summary>
-    <published>2021-05-11T12:15:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12706</id>
-    <title>Avis sur la sécurité de votre compte</title>
-    <updated>2021-05-11T19:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119055446598.png"><br/><br/>Afin d'assurer la sécurité de votre compte et de vous offrir une meilleure expérience de jeu, il est conseillé de compléter les informations de compte.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12706">Avis sur la sécurité de votre compte</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12706" rel="alternate"/>
-    <summary>Afin d'assurer la sécurité de votre compte et de vous offrir une meilleure expérience de jeu, il est conseillé de compléter les informations de compte.</summary>
-    <published>2021-05-11T19:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12724</id>
     <title>Détails de l'événement : « Poursuite du vent »</title>
@@ -954,5 +936,23 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
 
 Voici les détails de la mise à jour et de la compensation de la version 2.1 « Caresse sélénite sur les mortels ».</summary>
     <published>2021-09-01T07:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15528</id>
+    <title>Détails de l'événement « Hyakunin Ikki »</title>
+    <updated>2021-09-01T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122003940835.jpg"><br/><br/>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15528">Détails de l'événement « Hyakunin Ikki »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15528" rel="alternate"/>
+    <summary>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. </summary>
+    <published>2021-09-01T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15531</id>
+    <title>Précisions sur certains éléments de la mise à jour de version 2.1</title>
+    <updated>2021-09-01T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122322987630.png"><br/><br/>Bonjour, chers voyageurs ! De nouvelles îles attendent d'être explorées dans la version 2.1 ! <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15531">Précisions sur certains éléments de la mise à jour de version 2.1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15531" rel="alternate"/>
+    <summary>Bonjour, chers voyageurs ! De nouvelles îles attendent d'être explorées dans la version 2.1 ! </summary>
+    <published>2021-09-01T11:00:00+02:00</published>
   </entry>
 </feed>

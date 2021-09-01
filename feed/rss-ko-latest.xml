@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Sep 2021 02:24:33 +0000</lastBuildDate>
-    <item>
-      <title>「신의 주조」 기원, 「양손검·송뢰가 울릴 무렵」,「한손검·매의 검」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12770</link>
-      <description>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500044981059.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12770">「신의 주조」 기원, 「양손검·송뢰가 울릴 무렵」,「한손검·매의 검」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">12770</guid>
-      <pubDate>Sun, 16 May 2021 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「옥빛 아래 속세의 노래」 1.5 버전 이벤트 알림 제 2회</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12793</link>
-      <description>여행자들 우리 같이 곧 만나게 될 이벤트를 같이 확인해 보자~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051518375371944.png"><br/><br/>여행자들 우리 같이 곧 만나게 될 이벤트를 같이 확인해 보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12793">「옥빛 아래 속세의 노래」 1.5 버전 이벤트 알림 제 2회</a>]]></content:encoded>
-      <guid isPermaLink="false">12793</guid>
-      <pubDate>Sun, 16 May 2021 12:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Sep 2021 03:09:35 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「유라: 빛나는 촛불」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/12811</link>
@@ -872,6 +856,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083121445967704.jpg"><br/><br/>2.1 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15527">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 상세안내</a>]]></content:encoded>
       <guid isPermaLink="false">15527</guid>
       <pubDate>Wed, 01 Sep 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「백 명의 봉기」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15505</link>
+      <description>이나즈마성의 비밀 회장에서 신비한 난투 대회 「백 명의 봉기」가 주최되고 있어</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083118551419403.jpg"><br/><br/>이나즈마성의 비밀 회장에서 신비한 난투 대회 「백 명의 봉기」가 주최되고 있어<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15505">「백 명의 봉기」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">15505</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2.1 버전 업데이트 Tips</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15530</link>
+      <description>﻿페이몬이 이번 업데이트에 대한 개발진의 추가 안내를 얘기해 줄게</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122171698852.png"><br/><br/>﻿페이몬이 이번 업데이트에 대한 개발진의 추가 안내를 얘기해 줄게<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15530">2.1 버전 업데이트 Tips</a>]]></content:encoded>
+      <guid isPermaLink="false">15530</guid>
+      <pubDate>Wed, 01 Sep 2021 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
