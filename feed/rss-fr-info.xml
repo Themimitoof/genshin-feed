@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 02 Sep 2021 09:08:44 +0000</lastBuildDate>
-    <item>
-      <title>Aperçu des événements de la version 1.5 « Toute la lueur sur la jadéite » – Partie II</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12794</link>
-      <description>Aujourd'hui, nous vous dévoilons des informations sur les prochains événements du jeu !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051519242912193.png"><br/><br/>Aujourd'hui, nous vous dévoilons des informations sur les prochains événements du jeu !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12794">Aperçu des événements de la version 1.5 « Toute la lueur sur la jadéite » – Partie II</a>]]></content:encoded>
-      <guid isPermaLink="false">12794</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 10:09:38 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Démo personnage : « Eula : Lueur vacillante »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12818</link>
@@ -850,6 +842,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116352314822.jpg"><br/><br/>« Aloy la chasseuse possédait plusieurs identités dans son monde... »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15599">Genshin Impact - Aloy : Splendeur givrée d'un autre monde</a>]]></content:encoded>
       <guid isPermaLink="false">15599</guid>
       <pubDate>Thu, 02 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Kujou Sara : La plume éclair</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15651</link>
+      <description>Une plume de corbeau venant des montagnes qui s'est transformée en éclair pour protéger Inazuma.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090215570288882.jpg"><br/><br/>Une plume de corbeau venant des montagnes qui s'est transformée en éclair pour protéger Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15651">Genshin Impact - Kujou Sara : La plume éclair</a>]]></content:encoded>
+      <guid isPermaLink="false">15651</guid>
+      <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 02 Sep 2021 09:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Sep 2021 10:09:41 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -66,6 +66,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
 L'événement web « Vœux des lanternes célestes » est officiellement lancé。<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/8725">Allumez 5 lanternes célestes différentes et partagez une cagnotte d'1 milliard de primo-gemmes ! L'événement web « Vœux des lanternes célestes » est officiellement lancé</a>]]></content:encoded>
       <guid isPermaLink="false">8725</guid>
       <pubDate>Fri, 19 Feb 2021 13:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La campagne de recrutement de streamers est désormais lancée. Streamez et terminez des quêtes pour remporter des primo-gemmes !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15659</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15659">La campagne de recrutement de streamers est désormais lancée. Streamez et terminez des quêtes pour remporter des primo-gemmes !</a>]]></description>
+      <guid isPermaLink="false">15659</guid>
+      <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

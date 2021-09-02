@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 02 Sep 2021 09:08:49 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] - [Eula: Sương Giá Dậy Sóng]</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12800</link>
-      <description>Sóng biển cuộn trào rồi lại ngưng tụ thành sương giá, xuyên thủng vô số tội ác đang đe doạ Mondstadt bằng ngọn băng cứng rắn.
-Trên con đường báo thù chỉ thuộc về Eula, cô đã thoát khỏi gông cùm của huyết mạch gia tộc và tìm lại được chính mình.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051522394129179.jpg"><br/><br/>Sóng biển cuộn trào rồi lại ngưng tụ thành sương giá, xuyên thủng vô số tội ác đang đe doạ Mondstadt bằng ngọn băng cứng rắn.
-Trên con đường báo thù chỉ thuộc về Eula, cô đã thoát khỏi gông cùm của huyết mạch gia tộc và tìm lại được chính mình.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12800">[Genshin Impact] - [Eula: Sương Giá Dậy Sóng]</a>]]></content:encoded>
-      <guid isPermaLink="false">12800</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 10:10:21 +0000</lastBuildDate>
     <item>
       <title>Hướng dẫn cách chơi "Chiến Tuyến Mê Thành"	</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12886</link>
@@ -842,6 +832,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116511848871.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15605">[Genshin Impact] - Aloy: Băng Giá Dị Giới</a>]]></description>
       <guid isPermaLink="false">15605</guid>
       <pubDate>Thu, 02 Sep 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] - Kujou Sara: Hắc Vũ Thần Tốc</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15641</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210273067306.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15641">[Genshin Impact] - Kujou Sara: Hắc Vũ Thần Tốc</a>]]></description>
+      <guid isPermaLink="false">15641</guid>
+      <pubDate>Thu, 02 Sep 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

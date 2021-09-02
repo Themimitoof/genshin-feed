@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-09-02T09:08:43.300044+00:00</updated>
+  <updated>2021-09-02T10:09:32.916522+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12771</id>
-    <title>"Beneath the Light of Jadeite" Version 1.5 New Events — Phase II</title>
-    <updated>2021-05-16T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500453970867.png"><br/><br/>Paimon is here again today with the scoop on upcoming events! <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12771">"Beneath the Light of Jadeite" Version 1.5 New Events — Phase II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12771" rel="alternate"/>
-    <summary>Paimon is here again today with the scoop on upcoming events! </summary>
-    <published>2021-05-16T12:10:00-04:00</published>
-  </entry>
-  <entry>
-    <id>12812</id>
-    <title>New Character Demo - "Eula: Flickering Candlelight" | Genshin Impact</title>
-    <updated>2021-05-17T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051709255041635.jpg"><br/><br/>With the dance of a sinner, a rebellious heir shatters the shackles of glacial ice.
-Under the curtain of the dark night, the flickering candlelight illuminates the sharp edge of a cold blade.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12812">New Character Demo - "Eula: Flickering Candlelight" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12812" rel="alternate"/>
-    <summary>With the dance of a sinner, a rebellious heir shatters the shackles of glacial ice.
-Under the curtain of the dark night, the flickering candlelight illuminates the sharp edge of a cold blade.</summary>
-    <published>2021-05-17T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>12773</id>
     <title>Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</title>
@@ -1009,5 +989,25 @@ Leave it to me to study this nimble girl from another world!<br><br>Read more on
 Oh, it would be too boring if I started the story like that~! After all, I'm not a rigid old man, am I?
 Leave it to me to study this nimble girl from another world!</summary>
     <published>2021-09-02T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15646</id>
+    <title>Collected Miscellany - "Kujou Sara: Thunderstrike Feather" | Genshin Impact</title>
+    <updated>2021-09-02T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090211441420866.jpg"><br/><br/>The Crowfeather who came from the mountains and forests, turned into a swift Thunder Strike, steadfast to her mission of protecting Inazuma.
+A warrior who gives herself entirely to the land of Narukami, and devotes her body and soul by the will of the Shogun without any regrets.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15646">Collected Miscellany - "Kujou Sara: Thunderstrike Feather" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15646" rel="alternate"/>
+    <summary>The Crowfeather who came from the mountains and forests, turned into a swift Thunder Strike, steadfast to her mission of protecting Inazuma.
+A warrior who gives herself entirely to the land of Narukami, and devotes her body and soul by the will of the Shogun without any regrets.</summary>
+    <published>2021-09-02T18:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15656</id>
+    <title>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</title>
+    <updated>2021-09-02T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216284771801.jpg"><br/><br/>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15656">The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15656" rel="alternate"/>
+    <summary>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</summary>
+    <published>2021-09-02T18:00:00-04:00</published>
   </entry>
 </feed>

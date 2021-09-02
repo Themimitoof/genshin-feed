@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-09-02T09:08:47.677002+00:00</updated>
+  <updated>2021-09-02T10:09:54.501160+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -80,6 +80,15 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/8731" rel="alternate"/>
     <summary>¡Enciende linternas celestes de 5 tipos diferentes y consigue Protogemas a compartir con todos los viajeros!</summary>
     <published>2021-02-19T13:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15653</id>
+    <title>El evento para reclutar streamers en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</title>
+    <updated>2021-09-02T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216132622557.jpg"><br/><br/>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15653">El evento para reclutar streamers en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15653" rel="alternate"/>
+    <summary>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)</summary>
+    <published>2021-09-02T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>739</id>
@@ -216,15 +225,6 @@
     <published>2021-08-27T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>12709</id>
-    <title>Aviso sobre la seguridad de tu cuenta</title>
-    <updated>2021-05-11T19:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119181957896.png"><br/><br/>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12709">Aviso sobre la seguridad de tu cuenta</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12709" rel="alternate"/>
-    <summary>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.</summary>
-    <published>2021-05-11T19:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>12726</id>
     <title>Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</title>
     <updated>2021-05-13T10:30:00+02:00</updated>
@@ -1115,22 +1115,13 @@
     <published>2021-09-02T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>12726</id>
-    <title>Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</title>
-    <updated>2021-05-13T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051311241198999.jpg"><br/><br/>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12726">Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12726" rel="alternate"/>
-    <summary>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.</summary>
-    <published>2021-05-13T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12804</id>
-    <title>Gachapón «Sobre las olas»: ¡probabilidad de obtención de Eula aumentada!</title>
-    <updated>2021-05-16T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612580340863.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12804">Gachapón «Sobre las olas»: ¡probabilidad de obtención de Eula aumentada!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12804" rel="alternate"/>
-    <summary>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
-    <published>2021-05-16T12:00:00+02:00</published>
+    <id>15633</id>
+    <title>Genshin Impact - Kujou Sara: La pluma relámpago</title>
+    <updated>2021-09-02T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210180121077.jpg"><br/><br/>Unas plumas de cuervo provenientes de las montañas se transforman en relámpagos para proteger Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15633">Genshin Impact - Kujou Sara: La pluma relámpago</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15633" rel="alternate"/>
+    <summary>Unas plumas de cuervo provenientes de las montañas se transforman en relámpagos para proteger Inazuma.</summary>
+    <published>2021-09-02T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>12805</id>
@@ -2012,5 +2003,23 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15586" rel="alternate"/>
     <summary>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."</summary>
     <published>2021-09-02T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15633</id>
+    <title>Genshin Impact - Kujou Sara: La pluma relámpago</title>
+    <updated>2021-09-02T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210180121077.jpg"><br/><br/>Unas plumas de cuervo provenientes de las montañas se transforman en relámpagos para proteger Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15633">Genshin Impact - Kujou Sara: La pluma relámpago</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15633" rel="alternate"/>
+    <summary>Unas plumas de cuervo provenientes de las montañas se transforman en relámpagos para proteger Inazuma.</summary>
+    <published>2021-09-02T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15653</id>
+    <title>El evento para reclutar streamers en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</title>
+    <updated>2021-09-02T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216132622557.jpg"><br/><br/>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15653">El evento para reclutar streamers en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15653" rel="alternate"/>
+    <summary>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)</summary>
+    <published>2021-09-02T18:00:00+02:00</published>
   </entry>
 </feed>

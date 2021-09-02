@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-09-02T09:08:48.555567+00:00</updated>
+  <updated>2021-09-02T10:10:03.509077+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>12922</id>
-    <title>계정 보안 관련 FAQ</title>
-    <updated>2021-05-20T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011422494368.png"><br/><br/>계정 관련 기능에 대한 많은 피드백을 전달받았으며 문의하신 내용에 대해서 정리하여 이곳에 답변을 드립니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12922">계정 보안 관련 FAQ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12922" rel="alternate"/>
-    <summary>계정 관련 기능에 대한 많은 피드백을 전달받았으며 문의하신 내용에 대해서 정리하여 이곳에 답변을 드립니다</summary>
-    <published>2021-05-20T12:01:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12968</id>
-    <title>[05.24] 개발진 간담회 - 선계 하중, 주전자 정령과의 대화 최적화? get√! (내용 수정)</title>
-    <updated>2021-05-24T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052410125426631.png"><br/><br/>﻿페이몬이 개발진 간담회를 가져왔어~~
-이번엔 개발진이 어떤 소식을 전해왔을까? 우리같이 확인해보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12968">[05.24] 개발진 간담회 - 선계 하중, 주전자 정령과의 대화 최적화? get√! (내용 수정)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/12968" rel="alternate"/>
-    <summary>﻿페이몬이 개발진 간담회를 가져왔어~~
-이번엔 개발진이 어떤 소식을 전해왔을까? 우리같이 확인해보자~</summary>
-    <published>2021-05-24T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>13060</id>
     <title>「든든한 동맹」 이벤트 안내</title>
@@ -978,5 +958,25 @@
 이렇게 시작하면 너무 재미 없잖아? 내가 꼰대도 아니고, 안 그래?
 이세계에서 온 날렵한 소녀에 대한 연구는 본 마녀에게 맡겨!</summary>
     <published>2021-09-02T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15657</id>
+    <title>Twitch &lt;원신&gt; 스트리머 모집 이벤트가 오픈했습니다. 라이브에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</title>
+    <updated>2021-09-02T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216510081068.jpg"><br/><br/>Twitch <원신> 스트리머 모집 이벤트가 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15657">Twitch <원신> 스트리머 모집 이벤트가 오픈했습니다. 라이브에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15657" rel="alternate"/>
+    <summary>Twitch &lt;원신&gt; 스트리머 모집 이벤트가 오픈했습니다</summary>
+    <published>2021-09-02T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15649</id>
+    <title>&lt;원신&gt; 데인 여담 - 「쿠죠 사라: 깃의 섬광」</title>
+    <updated>2021-09-02T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090214371980766.jpg"><br/><br/>산림에서 기원한 까마귀 깃은 빠른 섬뢰가 되어 이나즈마를 수호하는 사명을 짊어졌다
+나루카미의 대지와 쇼군님의 뜻에 충성을 다하여 몸과 마음을 바쳐 헌신하는 그녀에겐 원한도 후회도 없다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15649"><원신> 데인 여담 - 「쿠죠 사라: 깃의 섬광」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15649" rel="alternate"/>
+    <summary>산림에서 기원한 까마귀 깃은 빠른 섬뢰가 되어 이나즈마를 수호하는 사명을 짊어졌다
+나루카미의 대지와 쇼군님의 뜻에 충성을 다하여 몸과 마음을 바쳐 헌신하는 그녀에겐 원한도 후회도 없다</summary>
+    <published>2021-09-02T18:01:00+09:00</published>
   </entry>
 </feed>

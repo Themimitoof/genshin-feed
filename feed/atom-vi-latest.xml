@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-09-02T09:08:49.648700+00:00</updated>
+  <updated>2021-09-02T10:10:20.549751+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>12800</id>
-    <title>[Genshin Impact] - [Eula: Sương Giá Dậy Sóng]</title>
-    <updated>2021-05-18T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051522394129179.jpg"><br/><br/>Sóng biển cuộn trào rồi lại ngưng tụ thành sương giá, xuyên thủng vô số tội ác đang đe doạ Mondstadt bằng ngọn băng cứng rắn.
-Trên con đường báo thù chỉ thuộc về Eula, cô đã thoát khỏi gông cùm của huyết mạch gia tộc và tìm lại được chính mình.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12800">[Genshin Impact] - [Eula: Sương Giá Dậy Sóng]</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/12800" rel="alternate"/>
-    <summary>Sóng biển cuộn trào rồi lại ngưng tụ thành sương giá, xuyên thủng vô số tội ác đang đe doạ Mondstadt bằng ngọn băng cứng rắn.
-Trên con đường báo thù chỉ thuộc về Eula, cô đã thoát khỏi gông cùm của huyết mạch gia tộc và tìm lại được chính mình.</summary>
-    <published>2021-05-18T18:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12886</id>
     <title>Hướng dẫn cách chơi "Chiến Tuyến Mê Thành"	</title>
@@ -945,5 +934,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116511848871.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15605">[Genshin Impact] - Aloy: Băng Giá Dị Giới</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/15605" rel="alternate"/>
     <published>2021-09-02T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15641</id>
+    <title>[Genshin Impact] - Kujou Sara: Hắc Vũ Thần Tốc</title>
+    <updated>2021-09-02T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210273067306.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15641">[Genshin Impact] - Kujou Sara: Hắc Vũ Thần Tốc</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15641" rel="alternate"/>
+    <published>2021-09-02T18:00:00+07:00</published>
   </entry>
 </feed>

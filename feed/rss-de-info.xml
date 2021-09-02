@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Sep 2021 09:08:46 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zur Spielweise von „Verlorene Stadt an der Front“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12883</link>
-      <description>Du kannst während des Aktionszeitraums mit einer Truppe aus vorbestimmten Figuren Prüfungen mit 6 verschiedenen Themen durchlaufen. Bestehst du die Prüfungsaufgaben, kannst du Urgestein, Eines Helden Weisheit, Material zur Verbesserung von Talenten und andere Belohnungen erhalten.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051915562283812.jpg"><br/><br/>Du kannst während des Aktionszeitraums mit einer Truppe aus vorbestimmten Figuren Prüfungen mit 6 verschiedenen Themen durchlaufen. Bestehst du die Prüfungsaufgaben, kannst du Urgestein, Eines Helden Weisheit, Material zur Verbesserung von Talenten und andere Belohnungen erhalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12883">Erläuterungen zur Spielweise von „Verlorene Stadt an der Front“</a>]]></content:encoded>
-      <guid isPermaLink="false">12883</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 10:09:47 +0000</lastBuildDate>
     <item>
       <title>Mitteilung zur Kontosicherheit</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12902</link>
@@ -837,6 +829,14 @@ Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116001192746.jpg"><br/><br/>„Die Jägerin namens Aloy hatte viele Identitäten in ihrer eigentlichen Welt ...“<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15594">Fähigkeiten bei Genshin Impact – Aloy: Raureif aus einer anderen Welt</a>]]></content:encoded>
       <guid isPermaLink="false">15594</guid>
       <pubDate>Thu, 02 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Kujou Sara: Federblitz</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15637</link>
+      <description>Die Krähenfeder, die aus den Bergen und Wäldern kam, verwandelte sich in einen schnellen Blitzschlag, der die Mission übernahm, Inazuma zu beschützen.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210212149522.jpg"><br/><br/>Die Krähenfeder, die aus den Bergen und Wäldern kam, verwandelte sich in einen schnellen Blitzschlag, der die Mission übernahm, Inazuma zu beschützen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15637">Fähigkeiten bei Genshin Impact – Kujou Sara: Federblitz</a>]]></content:encoded>
+      <guid isPermaLink="false">15637</guid>
+      <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

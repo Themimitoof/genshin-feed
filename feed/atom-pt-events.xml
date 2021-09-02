@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2021-09-02T09:08:49.006336+00:00</updated>
+  <updated>2021-09-02T10:10:10.082469+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -89,5 +89,14 @@
     <link href="https://genshin.mihoyo.com/pt/news/detail/8721" rel="alternate"/>
     <summary>O Evento de Página Web "Lanterna Mingxiao da Esperança" está disponível!</summary>
     <published>2021-02-19T13:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>15655</id>
+    <title>Aberto o recrutamento de streamer de Genshin Impact no Twitch! Participe da transmissão e conclua missões para ganhar Gemas Essenciais!</title>
+    <updated>2021-09-02T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216243292096.jpg"><br/><br/>Participe da transmissão e conclua missões para ganhar Gemas Essenciais!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15655">Aberto o recrutamento de streamer de Genshin Impact no Twitch! Participe da transmissão e conclua missões para ganhar Gemas Essenciais!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15655" rel="alternate"/>
+    <summary>Participe da transmissão e conclua missões para ganhar Gemas Essenciais!</summary>
+    <published>2021-09-02T18:00:00+01:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-09-02T09:08:49.320970+00:00</updated>
+  <updated>2021-09-02T10:10:15.774085+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -71,6 +71,15 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/8720" rel="alternate"/>
     <summary>Легенда гласит, что небесные фонари могут передать желания людей Адептам.</summary>
     <published>2021-02-19T13:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15654</id>
+    <title>Кампания по набору стримеров Genshin Impact на Twitch началась!</title>
+    <updated>2021-09-02T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216213572611.jpg"><br/><br/>Стримьте и выполняйте задания, чтобы получить Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15654">Кампания по набору стримеров Genshin Impact на Twitch началась!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15654" rel="alternate"/>
+    <summary>Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
+    <published>2021-09-02T18:00:00+03:00</published>
   </entry>
   <entry>
     <id>740</id>
@@ -235,17 +244,6 @@
     <published>2020-12-20T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>12903</id>
-    <title>О безопасности учётной записи</title>
-    <updated>2021-05-20T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011040015675.png"><br/><br/>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
-Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12903">О безопасности учётной записи</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12903" rel="alternate"/>
-    <summary>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
-Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:</summary>
-    <published>2021-05-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
     <id>12953</id>
     <title>Беседы с разработчиками (24 мая) - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</title>
     <updated>2021-05-24T10:30:00+03:00</updated>
@@ -1144,26 +1142,13 @@
     <published>2021-09-02T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>12903</id>
-    <title>О безопасности учётной записи</title>
-    <updated>2021-05-20T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011040015675.png"><br/><br/>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
-Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12903">О безопасности учётной записи</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12903" rel="alternate"/>
-    <summary>В целях обеспечения безопасности аккаунтов наших Путешественников и для создания более защищённой игровой среды, с 17 мая 18:00 (UTC+8) мы сделали доступной возможность привязки электронной почты и номера мобильного телефона для верификации аккаунта.
-Сегодня мы получили множество отзывов, связанных с новой функцией, а также составили список наиболее часто задаваемых вопросов:</summary>
-    <published>2021-05-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>12953</id>
-    <title>Беседы с разработчиками (24 мая) - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</title>
-    <updated>2021-05-24T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052123481841646.png"><br/><br/>Сегодня Паймон пообщалась с разработчиками. ╰(*°▽°*)╯ Какие новости они приготовили для нас? Следуйте за Паймон, чтобы обо всём узнать первыми!
-Специальное сообщение (24 мая) Беседы с разработчиками - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12953">Беседы с разработчиками (24 мая) - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/12953" rel="alternate"/>
-    <summary>Сегодня Паймон пообщалась с разработчиками. ╰(*°▽°*)╯ Какие новости они приготовили для нас? Следуйте за Паймон, чтобы обо всём узнать первыми!
-Специальное сообщение (24 мая) Беседы с разработчиками - Оптимизация нагрузки на обитель и диалог с духом чайника. Поехали!</summary>
-    <published>2021-05-24T10:30:00+03:00</published>
+    <id>15631</id>
+    <title>Кудзё Сара: Перо молнии | Коллекция Genshin Impact</title>
+    <updated>2021-09-02T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210151598214.jpg"><br/><br/>Кудзё Сара: Перо молнии<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15631">Кудзё Сара: Перо молнии | Коллекция Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15631" rel="alternate"/>
+    <summary>Кудзё Сара: Перо молнии</summary>
+    <published>2021-09-02T18:00:00+03:00</published>
   </entry>
   <entry>
     <id>13041</id>
@@ -2051,5 +2036,23 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15598" rel="alternate"/>
     <summary>Элой: Сверкающая изморозь другого мира</summary>
     <published>2021-09-02T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15631</id>
+    <title>Кудзё Сара: Перо молнии | Коллекция Genshin Impact</title>
+    <updated>2021-09-02T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210151598214.jpg"><br/><br/>Кудзё Сара: Перо молнии<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15631">Кудзё Сара: Перо молнии | Коллекция Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15631" rel="alternate"/>
+    <summary>Кудзё Сара: Перо молнии</summary>
+    <published>2021-09-02T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15654</id>
+    <title>Кампания по набору стримеров Genshin Impact на Twitch началась!</title>
+    <updated>2021-09-02T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216213572611.jpg"><br/><br/>Стримьте и выполняйте задания, чтобы получить Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15654">Кампания по набору стримеров Genshin Impact на Twitch началась!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15654" rel="alternate"/>
+    <summary>Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
+    <published>2021-09-02T18:00:00+03:00</published>
   </entry>
 </feed>

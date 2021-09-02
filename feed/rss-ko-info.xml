@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Sep 2021 09:08:48 +0000</lastBuildDate>
-    <item>
-      <title>계정 보안 관련 FAQ</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12922</link>
-      <description>계정 관련 기능에 대한 많은 피드백을 전달받았으며 문의하신 내용에 대해서 정리하여 이곳에 답변을 드립니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011422494368.png"><br/><br/>계정 관련 기능에 대한 많은 피드백을 전달받았으며 문의하신 내용에 대해서 정리하여 이곳에 답변을 드립니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12922">계정 보안 관련 FAQ</a>]]></content:encoded>
-      <guid isPermaLink="false">12922</guid>
-      <pubDate>Thu, 20 May 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 10:10:04 +0000</lastBuildDate>
     <item>
       <title>[05.24] 개발진 간담회 - 선계 하중, 주전자 정령과의 대화 최적화? get√! (내용 수정)</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/12968</link>
@@ -876,6 +868,16 @@
 이세계에서 온 날렵한 소녀에 대한 연구는 본 마녀에게 맡겨!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15607"><원신> 데인 여담 - 「에일로이: 이세계의 서늘한 빛」</a>]]></content:encoded>
       <guid isPermaLink="false">15607</guid>
       <pubDate>Thu, 02 Sep 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 데인 여담 - 「쿠죠 사라: 깃의 섬광」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15649</link>
+      <description>산림에서 기원한 까마귀 깃은 빠른 섬뢰가 되어 이나즈마를 수호하는 사명을 짊어졌다
+나루카미의 대지와 쇼군님의 뜻에 충성을 다하여 몸과 마음을 바쳐 헌신하는 그녀에겐 원한도 후회도 없다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090214371980766.jpg"><br/><br/>산림에서 기원한 까마귀 깃은 빠른 섬뢰가 되어 이나즈마를 수호하는 사명을 짊어졌다
+나루카미의 대지와 쇼군님의 뜻에 충성을 다하여 몸과 마음을 바쳐 헌신하는 그녀에겐 원한도 후회도 없다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15649"><원신> 데인 여담 - 「쿠죠 사라: 깃의 섬광」</a>]]></content:encoded>
+      <guid isPermaLink="false">15649</guid>
+      <pubDate>Thu, 02 Sep 2021 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

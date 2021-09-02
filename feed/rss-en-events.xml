@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Sep 2021 09:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Sep 2021 10:09:36 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -74,6 +74,14 @@ The web event "Wish Upon a Lantern" has begun!</description>
 The web event "Wish Upon a Lantern" has begun!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/8717">Light five kinds of Xiao Lanterns to share in the Grand Primogem Prize! The "Wish Upon a Lantern" web event has officially begun!</a>]]></content:encoded>
       <guid isPermaLink="false">8717</guid>
       <pubDate>Fri, 19 Feb 2021 13:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15656</link>
+      <description>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216284771801.jpg"><br/><br/>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15656">The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</a>]]></content:encoded>
+      <guid isPermaLink="false">15656</guid>
+      <pubDate>Thu, 02 Sep 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
