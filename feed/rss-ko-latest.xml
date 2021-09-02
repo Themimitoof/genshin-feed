@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 02 Sep 2021 03:09:07 +0000</lastBuildDate>
-    <item>
-      <title>「잃어버린 도시 전선」 이벤트 설명</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/12894</link>
-      <description>﻿여행자는 이벤트 기간에 정해진 체험 캐릭터를 사용하여 6개의 다른 테마의 시련에 도전하고 시련의 임무를 완료하면 원석, 영웅의 경험, 특성 육성 소재 등 보상을 획득할 수 있습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051919323151567.jpg"><br/><br/>﻿여행자는 이벤트 기간에 정해진 체험 캐릭터를 사용하여 6개의 다른 테마의 시련에 도전하고 시련의 임무를 완료하면 원석, 영웅의 경험, 특성 육성 소재 등 보상을 획득할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/12894">「잃어버린 도시 전선」 이벤트 설명</a>]]></content:encoded>
-      <guid isPermaLink="false">12894</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 04:11:13 +0000</lastBuildDate>
     <item>
       <title>계정 보안 관련 FAQ</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/12922</link>
@@ -872,6 +864,18 @@
 찰나의 천광으로 부세의 포영을 끊어낸다면「영원」에 더 가까워질지도 모르지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15532"><원신> 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</a>]]></content:encoded>
       <guid isPermaLink="false">15532</guid>
       <pubDate>Wed, 01 Sep 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 데인 여담 - 「에일로이: 이세계의 서늘한 빛」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15607</link>
+      <description>「에일로이라는 이름의 사냥꾼은 원래의 세계에서 여러 신분을 가지고 있지…」
+이렇게 시작하면 너무 재미 없잖아? 내가 꼰대도 아니고, 안 그래?
+이세계에서 온 날렵한 소녀에 대한 연구는 본 마녀에게 맡겨!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116580962792.jpg"><br/><br/>「에일로이라는 이름의 사냥꾼은 원래의 세계에서 여러 신분을 가지고 있지…」
+이렇게 시작하면 너무 재미 없잖아? 내가 꼰대도 아니고, 안 그래?
+이세계에서 온 날렵한 소녀에 대한 연구는 본 마녀에게 맡겨!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15607"><원신> 데인 여담 - 「에일로이: 이세계의 서늘한 빛」</a>]]></content:encoded>
+      <guid isPermaLink="false">15607</guid>
+      <pubDate>Thu, 02 Sep 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

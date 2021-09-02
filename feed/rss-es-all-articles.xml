@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 02 Sep 2021 03:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Sep 2021 04:11:05 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -189,14 +189,6 @@
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12695</link>
-      <description>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051112054985553.png"><br/><br/>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12695">Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</a>]]></content:encoded>
-      <guid isPermaLink="false">12695</guid>
-      <pubDate>Tue, 11 May 2021 12:15:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Aviso sobre la seguridad de tu cuenta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12709</link>
       <description>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.</description>
@@ -981,12 +973,12 @@
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Aviso sobre la seguridad de tu cuenta</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12709</link>
-      <description>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119181957896.png"><br/><br/>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12709">Aviso sobre la seguridad de tu cuenta</a>]]></content:encoded>
-      <guid isPermaLink="false">12709</guid>
-      <pubDate>Tue, 11 May 2021 19:00:00 +0200</pubDate>
+      <title>Genshin Impact - Aloy: Escarcha de otro mundo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15586</link>
+      <description>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090114421963224.jpg"><br/><br/>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15586">Genshin Impact - Aloy: Escarcha de otro mundo</a>]]></content:encoded>
+      <guid isPermaLink="false">15586</guid>
+      <pubDate>Thu, 02 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</title>
@@ -1771,6 +1763,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110125136513.jpg"><br/><br/>Un rayo solitario y breve puede convertirse en un castigo divino implacable en las manos de la Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15551">Genshin Impact - Shogun Raiden: Un silencio atronador</a>]]></content:encoded>
       <guid isPermaLink="false">15551</guid>
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Aloy: Escarcha de otro mundo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15586</link>
+      <description>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090114421963224.jpg"><br/><br/>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15586">Genshin Impact - Aloy: Escarcha de otro mundo</a>]]></content:encoded>
+      <guid isPermaLink="false">15586</guid>
+      <pubDate>Thu, 02 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

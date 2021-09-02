@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-09-02T03:09:01.270170+00:00</updated>
+  <updated>2021-09-02T04:10:43.518500+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12749</id>
-    <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Song of Broken Pines (Claymore) and Aquila Favonia (Sword)!</title>
-    <updated>2021-05-16T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051417050554714.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12749">Event Wish "Epitome Invocation" - Boosted Drop Rate for Song of Broken Pines (Claymore) and Aquila Favonia (Sword)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12749" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</summary>
-    <published>2021-05-16T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>12771</id>
     <title>"Beneath the Light of Jadeite" Version 1.5 New Events — Phase II</title>
@@ -1005,5 +996,18 @@ Perhaps by rejecting the illusory bubble of the mortal world can one become clos
     <summary>A brief, solitary bolt of lightning can turn into an unrelenting force of divine retribution in the hands of the Raiden Shogun.
 Perhaps by rejecting the illusory bubble of the mortal world can one become closer to eternity.</summary>
     <published>2021-09-01T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15592</id>
+    <title>Collected Miscellany - "Aloy: Mystical Glow of Frost" | Genshin Impact</title>
+    <updated>2021-09-02T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090115444157487.jpg"><br/><br/>"The hunter named Aloy had many identities in her original world..."
+Oh, it would be too boring if I started the story like that~! After all, I'm not a rigid old man, am I?
+Leave it to me to study this nimble girl from another world!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15592">Collected Miscellany - "Aloy: Mystical Glow of Frost" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15592" rel="alternate"/>
+    <summary>"The hunter named Aloy had many identities in her original world..."
+Oh, it would be too boring if I started the story like that~! After all, I'm not a rigid old man, am I?
+Leave it to me to study this nimble girl from another world!</summary>
+    <published>2021-09-02T12:00:00-04:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 02 Sep 2021 03:09:10 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/12891</link>
-      <description>เลือกตัวละครของคุณโดยพิจารณาจากการกระจายของศัตรู ประเภทของพวกมัน </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916163756808.jpg"><br/><br/>เลือกตัวละครของคุณโดยพิจารณาจากการกระจายของศัตรู ประเภทของพวกมัน <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12891">คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ"</a>]]></content:encoded>
-      <guid isPermaLink="false">12891</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 04:11:28 +0000</lastBuildDate>
     <item>
       <title>ประกาศเกี่ยวกับความปลอดภัยของบัญชี</title>
       <link>https://genshin.mihoyo.com/th/news/detail/12899</link>
@@ -795,6 +787,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110190125248.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15557">[Genshin Impact] เก็บตกตัวละคร - "Raiden Shogun: ห้วงสายฟ้าที่ดับสูญ"</a>]]></description>
       <guid isPermaLink="false">15557</guid>
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/15604</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116495582113.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15604">[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</a>]]></description>
+      <guid isPermaLink="false">15604</guid>
+      <pubDate>Thu, 02 Sep 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

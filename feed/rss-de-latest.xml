@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 02 Sep 2021 03:09:04 +0000</lastBuildDate>
-    <item>
-      <title>Fähigkeiten bei Genshin Impact – Eula: Wallender Frost</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12797</link>
-      <description>Aus einem Ozean aus Frost erhebt sich plötzlich eine gewaltige turmhohe Welle. Mit dem Klirren einer Klinge kommt dann der Absturz dieser Welle, die mit einem durchdringend kalten Schlag zahllose Feinde Mondstadts auslöscht. Auf Eulas selbsternanntem Pfad der Rache kämpft sie darum, sich von den Fesseln ihrer Blutlinie zu befreien und endlich die Person zu entdecken, die sie wirklich ist. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051522352659893.jpg"><br/><br/>Aus einem Ozean aus Frost erhebt sich plötzlich eine gewaltige turmhohe Welle. Mit dem Klirren einer Klinge kommt dann der Absturz dieser Welle, die mit einem durchdringend kalten Schlag zahllose Feinde Mondstadts auslöscht. Auf Eulas selbsternanntem Pfad der Rache kämpft sie darum, sich von den Fesseln ihrer Blutlinie zu befreien und endlich die Person zu entdecken, die sie wirklich ist. <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12797">Fähigkeiten bei Genshin Impact – Eula: Wallender Frost</a>]]></content:encoded>
-      <guid isPermaLink="false">12797</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 04:10:57 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zur Spielweise von „Verlorene Stadt an der Front“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12883</link>
@@ -837,6 +829,14 @@ Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111004769610.jpg"><br/><br/>Ein kurzer, einsamer Blitz kann in den Händen des Shougun Raiden zur unerbittlichen Macht göttlicher Vergeltung werden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15568">Fähigkeiten bei Genshin Impact – Shougun Raiden: Einsamer Donner</a>]]></content:encoded>
       <guid isPermaLink="false">15568</guid>
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Aloy: Raureif aus einer anderen Welt</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15594</link>
+      <description>„Die Jägerin namens Aloy hatte viele Identitäten in ihrer eigentlichen Welt ...“</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116001192746.jpg"><br/><br/>„Die Jägerin namens Aloy hatte viele Identitäten in ihrer eigentlichen Welt ...“<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15594">Fähigkeiten bei Genshin Impact – Aloy: Raureif aus einer anderen Welt</a>]]></content:encoded>
+      <guid isPermaLink="false">15594</guid>
+      <pubDate>Thu, 02 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

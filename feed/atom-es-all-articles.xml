@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-09-02T03:09:06.365048+00:00</updated>
+  <updated>2021-09-02T04:11:05.588766+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -216,15 +216,6 @@
     <published>2021-08-27T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>12695</id>
-    <title>Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</title>
-    <updated>2021-05-11T12:15:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051112054985553.png"><br/><br/>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12695">Yo, Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius, te extiendo mis saludos.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12695" rel="alternate"/>
-    <summary>Hoy les presentamos a Eula Lawrence, Caballera de la Marea y del Equipo de Reconocimiento de los Caballeros de Favonius.</summary>
-    <published>2021-05-11T12:15:00+02:00</published>
-  </entry>
-  <entry>
     <id>12709</id>
     <title>Aviso sobre la seguridad de tu cuenta</title>
     <updated>2021-05-11T19:00:00+02:00</updated>
@@ -1115,13 +1106,13 @@
     <published>2021-09-01T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>12709</id>
-    <title>Aviso sobre la seguridad de tu cuenta</title>
-    <updated>2021-05-11T19:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051119181957896.png"><br/><br/>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12709">Aviso sobre la seguridad de tu cuenta</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12709" rel="alternate"/>
-    <summary>Para garantizar la seguridad en las cuentas de los viajeros y brindarles una mejor experiencia de juego, aconsejamos que completen la información en su cuenta personal.</summary>
-    <published>2021-05-11T19:00:00+02:00</published>
+    <id>15586</id>
+    <title>Genshin Impact - Aloy: Escarcha de otro mundo</title>
+    <updated>2021-09-02T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090114421963224.jpg"><br/><br/>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15586">Genshin Impact - Aloy: Escarcha de otro mundo</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15586" rel="alternate"/>
+    <summary>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."</summary>
+    <published>2021-09-02T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>12726</id>
@@ -2012,5 +2003,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15551" rel="alternate"/>
     <summary>Un rayo solitario y breve puede convertirse en un castigo divino implacable en las manos de la Shogun Raiden.</summary>
     <published>2021-09-01T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15586</id>
+    <title>Genshin Impact - Aloy: Escarcha de otro mundo</title>
+    <updated>2021-09-02T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090114421963224.jpg"><br/><br/>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15586">Genshin Impact - Aloy: Escarcha de otro mundo</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15586" rel="alternate"/>
+    <summary>"La cazadora conocida como Aloy tiene distintas identidades en su mundo."</summary>
+    <published>2021-09-02T12:00:00+02:00</published>
   </entry>
 </feed>

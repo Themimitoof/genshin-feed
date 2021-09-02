@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 02 Sep 2021 03:09:09 +0000</lastBuildDate>
-    <item>
-      <title>События «Поле боя: Туманное подземелье»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/12890</link>
-      <description>В период события Путешественники смогут испытать отряды из определённых пробных персонажей в шести различных испытаниях. По завершении испытаний Путешественников будут ожидать Камни Истока, Опыт героя, материалы повышения талантов и другие награды.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916161046699.jpg"><br/><br/>В период события Путешественники смогут испытать отряды из определённых пробных персонажей в шести различных испытаниях. По завершении испытаний Путешественников будут ожидать Камни Истока, Опыт героя, материалы повышения талантов и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/12890">События «Поле боя: Туманное подземелье»</a>]]></content:encoded>
-      <guid isPermaLink="false">12890</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 Sep 2021 04:11:23 +0000</lastBuildDate>
     <item>
       <title>О безопасности учётной записи</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/12903</link>
@@ -816,6 +808,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110014847034.jpg"><br/><br/>Сёгун Райдэн: Грозовое небытие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15545">Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15545</guid>
       <pubDate>Wed, 01 Sep 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Элой: Сверкающая изморозь другого мира | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15598</link>
+      <description>Элой: Сверкающая изморозь другого мира</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116343755228.jpg"><br/><br/>Элой: Сверкающая изморозь другого мира<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15598">Элой: Сверкающая изморозь другого мира | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15598</guid>
+      <pubDate>Thu, 02 Sep 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

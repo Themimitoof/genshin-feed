@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-09-02T03:09:08.531179+00:00</updated>
+  <updated>2021-09-02T04:11:18.220459+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>12867</id>
-    <title>Coleção Variada de Genshin Impact - Eula: Ondas Se Tornam Geadas</title>
-    <updated>2021-05-18T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051810382143170.jpg"><br/><br/>Ondas se formam e congelam em geadas, as pontas de gelo perfuram inúmeros pecados que ameaçam Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12867">Coleção Variada de Genshin Impact - Eula: Ondas Se Tornam Geadas</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12867" rel="alternate"/>
-    <summary>Ondas se formam e congelam em geadas, as pontas de gelo perfuram inúmeros pecados que ameaçam Mondstadt.</summary>
-    <published>2021-05-18T18:00:00+01:00</published>
-  </entry>
   <entry>
     <id>12887</id>
     <title>Detalhes do Modo de Jogo "Linha de Frente: Cidade Perdida"</title>
@@ -914,5 +905,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/15547" rel="alternate"/>
     <summary>Nas mãos da Shogun Raiden, um simples e breve relâmpago, pode ser transformado em uma tempestade fatal como uma punição imperdoável de deus. Talvez a rejeição pela ilusão do mundo mortal seja o caminho para alcançar a "Eternidade".</summary>
     <published>2021-09-01T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15588</id>
+    <title>Coleção Variada de Genshin Impact - "Aloy: Esplendor Gelado de Outro Mundo"</title>
+    <updated>2021-09-02T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090114444660596.jpg"><br/><br/>"A caçadora conhecida como Aloy tinha muitas identidades em seu mundo original..."<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15588">Coleção Variada de Genshin Impact - "Aloy: Esplendor Gelado de Outro Mundo"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15588" rel="alternate"/>
+    <summary>"A caçadora conhecida como Aloy tinha muitas identidades em seu mundo original..."</summary>
+    <published>2021-09-02T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-09-02T03:09:06.408080+00:00</updated>
+  <updated>2021-09-02T04:11:05.632496+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12869</id>
-    <title>Aneka Koleksi Genshin Impact — "Eula: Ombak Es yang Menghantam"</title>
-    <updated>2021-05-18T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051810410434900.jpg"><br/><br/>Sebuah ombak tinggi yang membekukan tiba-tiba melonjak dari lautan. Dengan tebasan pedang seganas ombak, dia menyapu bersih segala bahaya yang mengancam Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12869">Aneka Koleksi Genshin Impact — "Eula: Ombak Es yang Menghantam"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12869" rel="alternate"/>
-    <summary>Sebuah ombak tinggi yang membekukan tiba-tiba melonjak dari lautan. Dengan tebasan pedang seganas ombak, dia menyapu bersih segala bahaya yang mengancam Mondstadt.</summary>
-    <published>2021-05-18T18:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12889</id>
     <title>Cara Bermain "Garis Peperangan: Kota Kabut"</title>
@@ -908,5 +899,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15552" rel="alternate"/>
     <summary>Kilatan petir yang singkat dan tenang, dapat berubah menjadi hukuman tanpa ampun di tangan Raiden Shogun.</summary>
     <published>2021-09-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15590</id>
+    <title>Aneka Koleksi Genshin Impact — "Aloy: Melodi Asing dari Panah Es"</title>
+    <updated>2021-09-02T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090115310140667.jpg"><br/><br/>"Seorang pemburu bernama Aloy, memiliki berbagai macam identitas di dunia asalnya ...."<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15590">Aneka Koleksi Genshin Impact — "Aloy: Melodi Asing dari Panah Es"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15590" rel="alternate"/>
+    <summary>"Seorang pemburu bernama Aloy, memiliki berbagai macam identitas di dunia asalnya ...."</summary>
+    <published>2021-09-02T12:00:00+07:00</published>
   </entry>
 </feed>

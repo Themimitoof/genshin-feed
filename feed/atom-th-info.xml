@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-09-02T03:09:10.148832+00:00</updated>
+  <updated>2021-09-02T04:11:28.734283+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12891</id>
-    <title>คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ"</title>
-    <updated>2021-05-20T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916163756808.jpg"><br/><br/>เลือกตัวละครของคุณโดยพิจารณาจากการกระจายของศัตรู ประเภทของพวกมัน <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12891">คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12891" rel="alternate"/>
-    <summary>เลือกตัวละครของคุณโดยพิจารณาจากการกระจายของศัตรู ประเภทของพวกมัน </summary>
-    <published>2021-05-20T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>12899</id>
     <title>ประกาศเกี่ยวกับความปลอดภัยของบัญชี</title>
@@ -898,5 +889,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110190125248.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15557">[Genshin Impact] เก็บตกตัวละคร - "Raiden Shogun: ห้วงสายฟ้าที่ดับสูญ"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/15557" rel="alternate"/>
     <published>2021-09-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15604</id>
+    <title>[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</title>
+    <updated>2021-09-02T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116495582113.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15604">[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15604" rel="alternate"/>
+    <published>2021-09-02T12:00:00+07:00</published>
   </entry>
 </feed>
