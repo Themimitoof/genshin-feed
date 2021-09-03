@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-09-03T02:20:13.508889+00:00</updated>
+  <updated>2021-09-03T03:09:31.474268+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -89,6 +89,15 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15653" rel="alternate"/>
     <summary>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)</summary>
     <published>2021-09-02T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15606</id>
+    <title>Resultados del concurso de dibujo de personajes chibi</title>
+    <updated>2021-09-03T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116571849277.png"><br/><br/>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15606">Resultados del concurso de dibujo de personajes chibi</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15606" rel="alternate"/>
+    <summary>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!</summary>
+    <published>2021-09-03T11:00:00+02:00</published>
   </entry>
   <entry>
     <id>739</id>
@@ -1124,15 +1133,6 @@
     <published>2021-09-02T18:00:00+02:00</published>
   </entry>
   <entry>
-    <id>12805</id>
-    <title>Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</title>
-    <updated>2021-05-16T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612593377755.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12805">Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12805" rel="alternate"/>
-    <summary>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
-    <published>2021-05-16T12:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>12806</id>
     <title>Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</title>
     <updated>2021-05-16T12:00:00+02:00</updated>
@@ -2021,5 +2021,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15653" rel="alternate"/>
     <summary>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)</summary>
     <published>2021-09-02T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15606</id>
+    <title>Resultados del concurso de dibujo de personajes chibi</title>
+    <updated>2021-09-03T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116571849277.png"><br/><br/>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15606">Resultados del concurso de dibujo de personajes chibi</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15606" rel="alternate"/>
+    <summary>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!</summary>
+    <published>2021-09-03T11:00:00+02:00</published>
   </entry>
 </feed>

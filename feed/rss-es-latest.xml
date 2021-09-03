@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Sep 2021 02:20:12 +0000</lastBuildDate>
-    <item>
-      <title>Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12805</link>
-      <description>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612593377755.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12805">Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</a>]]></content:encoded>
-      <guid isPermaLink="false">12805</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Sep 2021 03:09:28 +0000</lastBuildDate>
     <item>
       <title>Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12806</link>
@@ -800,6 +792,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216132622557.jpg"><br/><br/>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15653">El evento para reclutar streamers en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</a>]]></content:encoded>
       <guid isPermaLink="false">15653</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Resultados del concurso de dibujo de personajes chibi</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15606</link>
+      <description>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116571849277.png"><br/><br/>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15606">Resultados del concurso de dibujo de personajes chibi</a>]]></content:encoded>
+      <guid isPermaLink="false">15606</guid>
+      <pubDate>Fri, 03 Sep 2021 11:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

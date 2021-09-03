@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Sep 2021 02:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 03:09:30 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -80,6 +80,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216132622557.jpg"><br/><br/>Duración: Del 2 al 21 de septiembre 23:59 (UTC +8)<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15653">El evento para reclutar streamers en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</a>]]></content:encoded>
       <guid isPermaLink="false">15653</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Resultados del concurso de dibujo de personajes chibi</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15606</link>
+      <description>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116571849277.png"><br/><br/>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15606">Resultados del concurso de dibujo de personajes chibi</a>]]></content:encoded>
+      <guid isPermaLink="false">15606</guid>
+      <pubDate>Fri, 03 Sep 2021 11:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
