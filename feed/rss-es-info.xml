@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:50 +0000</lastBuildDate>
-    <item>
-      <title>Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12726</link>
-      <description>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210513/2021051311241198999.jpg"><br/><br/>Los jugadores serán divididos en dos bandos: los rebeldes, que son miembros de la resistencia, y el cazador de la aristocracia. Ambos compiten en una zona disputada.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12726">Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</a>]]></content:encoded>
-      <guid isPermaLink="false">12726</guid>
-      <pubDate>Thu, 13 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 10:09:59 +0000</lastBuildDate>
     <item>
       <title>Gachapón «Sobre las olas»: ¡probabilidad de obtención de Eula aumentada!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12804</link>
@@ -800,6 +792,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210180121077.jpg"><br/><br/>Unas plumas de cuervo provenientes de las montañas se transforman en relámpagos para proteger Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15633">Genshin Impact - Kujou Sara: La pluma relámpago</a>]]></content:encoded>
       <guid isPermaLink="false">15633</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact: El sueño prometido</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15698</link>
+      <description>La nación que avanzaba a zancadas se ha convertido en una sombra fugaz. Tal vez congelar ese momento haría que dure para siempre.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611091969610.jpg"><br/><br/>La nación que avanzaba a zancadas se ha convertido en una sombra fugaz. Tal vez congelar ese momento haría que dure para siempre.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15698">Avance de la trama de Genshin Impact: El sueño prometido</a>]]></content:encoded>
+      <guid isPermaLink="false">15698</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

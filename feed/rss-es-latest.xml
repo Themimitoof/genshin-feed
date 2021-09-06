@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:50 +0000</lastBuildDate>
-    <item>
-      <title>Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12806</link>
-      <description>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051613062340499.png"><br/><br/>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12806">Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</a>]]></content:encoded>
-      <guid isPermaLink="false">12806</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 10:09:58 +0000</lastBuildDate>
     <item>
       <title>Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12836</link>
@@ -800,6 +792,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116571849277.png"><br/><br/>El concurso de dibujo de personajes chibi ha terminado oficialmente, ¡gracias a todos los viajeros que participaron!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15606">Resultados del concurso de dibujo de personajes chibi</a>]]></content:encoded>
       <guid isPermaLink="false">15606</guid>
       <pubDate>Fri, 03 Sep 2021 11:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact: El sueño prometido</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15698</link>
+      <description>La nación que avanzaba a zancadas se ha convertido en una sombra fugaz. Tal vez congelar ese momento haría que dure para siempre.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611091969610.jpg"><br/><br/>La nación que avanzaba a zancadas se ha convertido en una sombra fugaz. Tal vez congelar ese momento haría que dure para siempre.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15698">Avance de la trama de Genshin Impact: El sueño prometido</a>]]></content:encoded>
+      <guid isPermaLink="false">15698</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

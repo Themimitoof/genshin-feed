@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Eula : Givre déchaîné</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12768</link>
-      <description>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051423245918093.jpg"><br/><br/>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12768">Genshin Impact - Eula : Givre déchaîné</a>]]></content:encoded>
-      <guid isPermaLink="false">12768</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 10:09:45 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement : « Ligne de front : cité perdue »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12884</link>
@@ -847,6 +837,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15659">La campagne de recrutement de streamers est désormais lancée. Streamez et terminez des quêtes pour remporter des primo-gemmes !</a>]]></description>
       <guid isPermaLink="false">15659</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15695</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></description>
+      <guid isPermaLink="false">15695</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

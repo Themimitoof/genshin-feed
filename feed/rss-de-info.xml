@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:50 +0000</lastBuildDate>
-    <item>
-      <title>Mitteilung zur Kontosicherheit</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/12902</link>
-      <description>Lieber Reisender,
-wir haben uns schon immer sehr um die Kontosicherheit aller Reisenden gesorgt. Um in Zukunft die Konten aller Reisenden besser schützen zu können, haben wir am 17. Mai, 18:00 Uhr (UTC +8) die Geräte-Sicherheitsbestätigungsfunktion basierend auf einer Verknüpfung von E-Mail-Adresse und Handynummer ins Leben gerufen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011021929454.png"><br/><br/>Lieber Reisender,
-wir haben uns schon immer sehr um die Kontosicherheit aller Reisenden gesorgt. Um in Zukunft die Konten aller Reisenden besser schützen zu können, haben wir am 17. Mai, 18:00 Uhr (UTC +8) die Geräte-Sicherheitsbestätigungsfunktion basierend auf einer Verknüpfung von E-Mail-Adresse und Handynummer ins Leben gerufen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12902">Mitteilung zur Kontosicherheit</a>]]></content:encoded>
-      <guid isPermaLink="false">12902</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 10:09:56 +0000</lastBuildDate>
     <item>
       <title>Fragerunde mit den Entwicklern am 24. Mai: Optimierungen der Kanne der Vergänglichkeit und Interaktion mit dem Kannengeist</title>
       <link>https://genshin.mihoyo.com/de/news/detail/12949</link>
@@ -837,6 +827,14 @@ Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210212149522.jpg"><br/><br/>Die Krähenfeder, die aus den Bergen und Wäldern kam, verwandelte sich in einen schnellen Blitzschlag, der die Mission übernahm, Inazuma zu beschützen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15637">Fähigkeiten bei Genshin Impact – Kujou Sara: Federblitz</a>]]></content:encoded>
       <guid isPermaLink="false">15637</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Handlungsvorschau von Genshin Impact – „Erfüllung der Träume des Volkes“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15685</link>
+      <description>Ein Reich, das voranschreitet, ist in einem flüchtigen Schatten eines Augenblicks stecken geblieben. Vielleicht wird Inazuma nur dann ewig leuchten, wenn die Zeit stillsteht ...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610503263348.jpg"><br/><br/>Ein Reich, das voranschreitet, ist in einem flüchtigen Schatten eines Augenblicks stecken geblieben. Vielleicht wird Inazuma nur dann ewig leuchten, wenn die Zeit stillsteht ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15685">Handlungsvorschau von Genshin Impact – „Erfüllung der Träume des Volkes“</a>]]></content:encoded>
+      <guid isPermaLink="false">15685</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

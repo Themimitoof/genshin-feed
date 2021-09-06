@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-09-06T09:08:51.129295+00:00</updated>
+  <updated>2021-09-06T10:10:02.077371+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>12897</id>
-    <title>Pengumuman Perihal Keamanan Akun</title>
-    <updated>2021-05-20T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052010561951730.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/12897">Pengumuman Perihal Keamanan Akun</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/12897" rel="alternate"/>
-    <published>2021-05-20T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>12971</id>
     <title>Tanya Jawab dengan Tim Pengembang - 24 Mei: Optimalisasi Kapasitas Muatan Alam Poci dan Dialog dengan Tubby</title>
@@ -908,5 +900,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15645" rel="alternate"/>
     <summary>Burung gagak yang datang dari hutan di pegunungan, berubah wujud menjadi sambaran petir nan kilat, mengemban misi untuk melindungi Inazuma.</summary>
     <published>2021-09-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15691</id>
+    <title>Teaser Kisah: Mimpi Rakyat yang Dijanjikan | Genshin Impact</title>
+    <updated>2021-09-06T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610564294717.jpg"><br/><br/>Sebuah negara yang berjuang untuk maju, telah terjebak dalam bayangan sesaat. Mungkin dengan menghentikan momen saat ini, Inazuma bisa bersinar selamanya ....<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15691">Teaser Kisah: Mimpi Rakyat yang Dijanjikan | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15691" rel="alternate"/>
+    <summary>Sebuah negara yang berjuang untuk maju, telah terjebak dalam bayangan sesaat. Mungkin dengan menghentikan momen saat ini, Inazuma bisa bersinar selamanya ....</summary>
+    <published>2021-09-06T18:00:00+07:00</published>
   </entry>
 </feed>

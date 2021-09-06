@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-09-06T09:08:50.055338+00:00</updated>
+  <updated>2021-09-06T10:09:51.523329+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12847</id>
-    <title>拾枝雜談-「優菈：浪湧霜潮」｜原神</title>
-    <updated>2021-05-18T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051715260050418.jpg"><br/><br/>海浪翻湧起波濤，又凝結為霜潮，用堅冰刺穿無數威脅著蒙德的罪惡。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12847">拾枝雜談-「優菈：浪湧霜潮」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12847" rel="alternate"/>
-    <summary>海浪翻湧起波濤，又凝結為霜潮，用堅冰刺穿無數威脅著蒙德的罪惡。</summary>
-    <published>2021-05-18T18:00:00+08:00</published>
-  </entry>
   <entry>
     <id>12885</id>
     <title>「迷城戰線」玩法說明</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15643" rel="alternate"/>
     <summary>源於山林的烏羽，化作迅疾的閃雷，肩負起守衛稻妻的使命。</summary>
     <published>2021-09-02T18:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15700</id>
+    <title>劇情預告-「許以臣民之夢」｜原神</title>
+    <updated>2021-09-06T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611103037289.jpg"><br/><br/>全力奔跑的國度，已成須臾之影。也許唯有定格此刻，才可永存稻光…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15700">劇情預告-「許以臣民之夢」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15700" rel="alternate"/>
+    <summary>全力奔跑的國度，已成須臾之影。也許唯有定格此刻，才可永存稻光…</summary>
+    <published>2021-09-06T18:00:00+08:00</published>
   </entry>
 </feed>

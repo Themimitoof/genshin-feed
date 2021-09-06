@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:54 +0000</lastBuildDate>
-    <item>
-      <title>Hướng dẫn cách chơi "Chiến Tuyến Mê Thành"	</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12886</link>
-      <description>Trong thời gian sự kiện, Nhà Lữ Hành có thể sử dụng nhân vật dùng thử chỉ định để lập đội và khiêu chiến 6 thí luyện với chủ đề khác nhau, hoàn thành nhiệm vụ thí luyện có thể nhận Nguyên Thạch, Kinh Nghiệm Anh Hùng, nguyên liệu bồi dưỡng thiên phú và phần thưởng khác.	</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916090039219.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể sử dụng nhân vật dùng thử chỉ định để lập đội và khiêu chiến 6 thí luyện với chủ đề khác nhau, hoàn thành nhiệm vụ thí luyện có thể nhận Nguyên Thạch, Kinh Nghiệm Anh Hùng, nguyên liệu bồi dưỡng thiên phú và phần thưởng khác.	<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12886">Hướng dẫn cách chơi "Chiến Tuyến Mê Thành"	</a>]]></content:encoded>
-      <guid isPermaLink="false">12886</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 10:10:24 +0000</lastBuildDate>
     <item>
       <title>Thông báo về bảo mật tài khoản</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12906</link>
@@ -839,6 +831,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210273067306.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15641">[Genshin Impact] - Kujou Sara: Hắc Vũ Thần Tốc</a>]]></description>
       <guid isPermaLink="false">15641</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] Video - Lời Hứa Về Giấc Mơ Với Thần Dân</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15711</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090614554469591.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15711">[Genshin Impact] Video - Lời Hứa Về Giấc Mơ Với Thần Dân</a>]]></description>
+      <guid isPermaLink="false">15711</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

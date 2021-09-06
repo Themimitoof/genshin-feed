@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:50 +0000</lastBuildDate>
-    <item>
-      <title>拾枝雜談-「優菈：浪湧霜潮」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/12847</link>
-      <description>海浪翻湧起波濤，又凝結為霜潮，用堅冰刺穿無數威脅著蒙德的罪惡。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051715260050418.jpg"><br/><br/>海浪翻湧起波濤，又凝結為霜潮，用堅冰刺穿無數威脅著蒙德的罪惡。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12847">拾枝雜談-「優菈：浪湧霜潮」｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">12847</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 10:09:51 +0000</lastBuildDate>
     <item>
       <title>「迷城戰線」玩法說明</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/12885</link>
@@ -784,6 +776,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210452833492.jpg"><br/><br/>源於山林的烏羽，化作迅疾的閃雷，肩負起守衛稻妻的使命。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15643">拾枝雜談-「九條裟羅：飛羽疾電」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">15643</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>劇情預告-「許以臣民之夢」｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15700</link>
+      <description>全力奔跑的國度，已成須臾之影。也許唯有定格此刻，才可永存稻光…</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611103037289.jpg"><br/><br/>全力奔跑的國度，已成須臾之影。也許唯有定格此刻，才可永存稻光…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15700">劇情預告-「許以臣民之夢」｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">15700</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

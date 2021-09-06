@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-09-06T09:08:54.053248+00:00</updated>
+  <updated>2021-09-06T10:10:19.504760+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>12969</id>
-    <title>การพูดคุยกับทีมนักพัฒนาวันที่ 24 พฤษภาคม - มีการเพิ่มประสิทธิภาพของจำนวนโหลดในอาณาจักรและการสนทนาของ Teapot Spirit งั้นเหรอ? ไปดูกันเลย!</title>
-    <updated>2021-05-24T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052410144169631.png"><br/><br/>วันนี้ Paimon นำการพูดคุยกับทีมนักพัฒนามาให้อีกแล้วล่ะ~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/12969">การพูดคุยกับทีมนักพัฒนาวันที่ 24 พฤษภาคม - มีการเพิ่มประสิทธิภาพของจำนวนโหลดในอาณาจักรและการสนทนาของ Teapot Spirit งั้นเหรอ? ไปดูกันเลย!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/12969" rel="alternate"/>
-    <summary>วันนี้ Paimon นำการพูดคุยกับทีมนักพัฒนามาให้อีกแล้วล่ะ~</summary>
-    <published>2021-05-24T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>13036</id>
     <title>คำอธิบายเกมเพลย์ "เส้นทางพิศวง"</title>
@@ -896,5 +887,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210245718466.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15639">Genshin Impact เก็บตกตัวละคร - "Kujou Sara: ปีกปักษาอัสนี"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/15639" rel="alternate"/>
     <published>2021-09-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15709</id>
+    <title>ธีมวิดีโอ Genshin Impact - "ฝันที่สัญญากับผู้คน"</title>
+    <updated>2021-09-06T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090614535730165.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15709">ธีมวิดีโอ Genshin Impact - "ฝันที่สัญญากับผู้คน"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15709" rel="alternate"/>
+    <published>2021-09-06T18:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-09-06T09:08:49.797582+00:00</updated>
+  <updated>2021-09-06T10:09:50.176119+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -236,17 +236,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <published>2020-12-20T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>12818</id>
-    <title>Genshin Impact - Démo personnage : « Eula : Lueur vacillante »</title>
-    <updated>2021-05-17T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710091293292.jpg"><br/><br/>L'héritière rebelle, qui brise le carcan de glace de sa danse des péchés.
-Sous le rideau noir de la nuit brille le fil d'une froide épée qu'éclaire la lueur vacillante...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12818">Genshin Impact - Démo personnage : « Eula : Lueur vacillante »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12818" rel="alternate"/>
-    <summary>L'héritière rebelle, qui brise le carcan de glace de sa danse des péchés.
-Sous le rideau noir de la nuit brille le fil d'une froide épée qu'éclaire la lueur vacillante...</summary>
-    <published>2021-05-17T12:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>12768</id>
     <title>Genshin Impact - Eula : Givre déchaîné</title>
     <updated>2021-05-18T18:00:00+02:00</updated>
@@ -1181,15 +1170,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-09-02T18:00:00+02:00</published>
   </entry>
   <entry>
-    <id>12768</id>
-    <title>Genshin Impact - Eula : Givre déchaîné</title>
-    <updated>2021-05-18T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051423245918093.jpg"><br/><br/>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12768">Genshin Impact - Eula : Givre déchaîné</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12768" rel="alternate"/>
-    <summary>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.</summary>
-    <published>2021-05-18T18:00:00+02:00</published>
+    <id>15695</id>
+    <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
+    <updated>2021-09-06T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15695" rel="alternate"/>
+    <published>2021-09-06T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>12884</id>
@@ -2121,5 +2107,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15659">La campagne de recrutement de streamers est désormais lancée. Streamez et terminez des quêtes pour remporter des primo-gemmes !</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15659" rel="alternate"/>
     <published>2021-09-02T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15695</id>
+    <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
+    <updated>2021-09-06T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15695" rel="alternate"/>
+    <published>2021-09-06T18:00:00+02:00</published>
   </entry>
 </feed>

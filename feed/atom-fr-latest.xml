@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-06T09:08:49.207460+00:00</updated>
+  <updated>2021-09-06T10:09:45.346438+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12768</id>
-    <title>Genshin Impact - Eula : Givre déchaîné</title>
-    <updated>2021-05-18T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051423245918093.jpg"><br/><br/>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12768">Genshin Impact - Eula : Givre déchaîné</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12768" rel="alternate"/>
-    <summary>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.</summary>
-    <published>2021-05-18T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>12884</id>
     <title>Détails de l'événement : « Ligne de front : cité perdue »</title>
@@ -950,5 +939,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15659">La campagne de recrutement de streamers est désormais lancée. Streamez et terminez des quêtes pour remporter des primo-gemmes !</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15659" rel="alternate"/>
     <published>2021-09-02T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15695</id>
+    <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
+    <updated>2021-09-06T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15695" rel="alternate"/>
+    <published>2021-09-06T18:00:00+02:00</published>
   </entry>
 </feed>

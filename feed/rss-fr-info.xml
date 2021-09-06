@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:49 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Eula : Lueur vacillante »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12818</link>
-      <description>L'héritière rebelle, qui brise le carcan de glace de sa danse des péchés.
-Sous le rideau noir de la nuit brille le fil d'une froide épée qu'éclaire la lueur vacillante...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710091293292.jpg"><br/><br/>L'héritière rebelle, qui brise le carcan de glace de sa danse des péchés.
-Sous le rideau noir de la nuit brille le fil d'une froide épée qu'éclaire la lueur vacillante...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12818">Genshin Impact - Démo personnage : « Eula : Lueur vacillante »</a>]]></content:encoded>
-      <guid isPermaLink="false">12818</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Sep 2021 10:09:46 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Eula : Givre déchaîné</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12768</link>
@@ -850,6 +840,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090215570288882.jpg"><br/><br/>Une plume de corbeau venant des montagnes qui s'est transformée en éclair pour protéger Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15651">Genshin Impact - Kujou Sara : La plume éclair</a>]]></content:encoded>
       <guid isPermaLink="false">15651</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15695</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></description>
+      <guid isPermaLink="false">15695</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

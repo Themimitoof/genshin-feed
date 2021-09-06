@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 10:09:45 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -234,16 +234,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>New Character Demo - "Eula: Flickering Candlelight" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12812</link>
-      <description>With the dance of a sinner, a rebellious heir shatters the shackles of glacial ice.
-Under the curtain of the dark night, the flickering candlelight illuminates the sharp edge of a cold blade.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051709255041635.jpg"><br/><br/>With the dance of a sinner, a rebellious heir shatters the shackles of glacial ice.
-Under the curtain of the dark night, the flickering candlelight illuminates the sharp edge of a cold blade.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12812">New Character Demo - "Eula: Flickering Candlelight" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12812</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 -0400</pubDate>
-    </item>
-    <item>
       <title>Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12773</link>
       <description>From an ocean of frost, a sudden towering wave surges forth. With the clash of a blade comes the crash of a wave, delivering a piercing-cold strike that eliminates countless threats to Mondstadt.</description>
@@ -1137,12 +1127,16 @@ A warrior who gives herself entirely to the land of Narukami, and devotes her bo
       <pubDate>Thu, 02 Sep 2021 18:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12773</link>
-      <description>From an ocean of frost, a sudden towering wave surges forth. With the clash of a blade comes the crash of a wave, delivering a piercing-cold strike that eliminates countless threats to Mondstadt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500551952067.jpg"><br/><br/>From an ocean of frost, a sudden towering wave surges forth. With the clash of a blade comes the crash of a wave, delivering a piercing-cold strike that eliminates countless threats to Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12773">Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12773</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 -0400</pubDate>
+      <title>Story Teaser: Promise of a People's Dream | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15704</link>
+      <description>A nation that surges ahead has become stuck in a fleeting shadow of a moment. Perhaps only if time stands still will Inazuma truly shine eternal...
+Using her blade, she purged all obstacles to Inazuma's progress, making a promise of a beautiful vision of eternity to her subjects.
+Such is the singular will of the Raiden Shogun over the land of Narukami.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611264445845.jpg"><br/><br/>A nation that surges ahead has become stuck in a fleeting shadow of a moment. Perhaps only if time stands still will Inazuma truly shine eternal...
+Using her blade, she purged all obstacles to Inazuma's progress, making a promise of a beautiful vision of eternity to her subjects.
+Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15704">Story Teaser: Promise of a People's Dream | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15704</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 -0400</pubDate>
     </item>
     <item>
       <title>"Battlefront: Misty Dungeon" Gameplay Details</title>
@@ -2036,6 +2030,18 @@ A warrior who gives herself entirely to the land of Narukami, and devotes her bo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216284771801.jpg"><br/><br/>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15656">The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</a>]]></content:encoded>
       <guid isPermaLink="false">15656</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Story Teaser: Promise of a People's Dream | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15704</link>
+      <description>A nation that surges ahead has become stuck in a fleeting shadow of a moment. Perhaps only if time stands still will Inazuma truly shine eternal...
+Using her blade, she purged all obstacles to Inazuma's progress, making a promise of a beautiful vision of eternity to her subjects.
+Such is the singular will of the Raiden Shogun over the land of Narukami.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611264445845.jpg"><br/><br/>A nation that surges ahead has become stuck in a fleeting shadow of a moment. Perhaps only if time stands still will Inazuma truly shine eternal...
+Using her blade, she purged all obstacles to Inazuma's progress, making a promise of a beautiful vision of eternity to her subjects.
+Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15704">Story Teaser: Promise of a People's Dream | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15704</guid>
+      <pubDate>Mon, 06 Sep 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
