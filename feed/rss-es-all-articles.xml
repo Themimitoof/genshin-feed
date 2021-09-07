@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 07 Sep 2021 04:11:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 05:08:05 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -1005,14 +1005,6 @@
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12836</link>
-      <description>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710574011726.jpg"><br/><br/>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12836">Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</a>]]></content:encoded>
-      <guid isPermaLink="false">12836</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Genshin Impact - Eula: el surgimiento del hielo</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12875</link>
       <description>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.</description>
@@ -1795,6 +1787,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611091969610.jpg"><br/><br/>La nación que avanzaba a zancadas se ha convertido en una sombra fugaz. Tal vez congelar ese momento haría que dure para siempre.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15698">Avance de la trama de Genshin Impact: El sueño prometido</a>]]></content:encoded>
       <guid isPermaLink="false">15698</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Grabado de deseos</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15730</link>
+      <description>El evento web «Grabado de deseos» está a punto de comenzar. Viajeros, ¡creemos juntos su recuerdo personal de aniversario!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711334671606.jpg"><br/><br/>El evento web «Grabado de deseos» está a punto de comenzar. Viajeros, ¡creemos juntos su recuerdo personal de aniversario!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15730">Grabado de deseos</a>]]></content:encoded>
+      <guid isPermaLink="false">15730</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
