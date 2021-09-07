@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 07 Sep 2021 03:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 04:10:44 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -73,6 +73,14 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15659">La campagne de recrutement de streamers est désormais lancée. Streamez et terminez des quêtes pour remporter des primo-gemmes !</a>]]></description>
       <guid isPermaLink="false">15659</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gravures de vœux</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15733</link>
+      <description>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711403779067.jpg"><br/><br/>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15733">Gravures de vœux</a>]]></content:encoded>
+      <guid isPermaLink="false">15733</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -1049,14 +1057,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Détails de l'événement : « Ligne de front : cité perdue »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12884</link>
-      <description>Pendant l'événement, assemblez une équipe avec les personnages disponibles à l'essai et affrontez six épreuves thématiques différentes. Accomplissez-les pour obtenir des primo-gemmes, des leçons du héros, des matériaux d'amélioration d'aptitude et d'autres récompenses !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051915541722962.jpg"><br/><br/>Pendant l'événement, assemblez une équipe avec les personnages disponibles à l'essai et affrontez six épreuves thématiques différentes. Accomplissez-les pour obtenir des primo-gemmes, des leçons du héros, des matériaux d'amélioration d'aptitude et d'autres récompenses !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12884">Détails de l'événement : « Ligne de front : cité perdue »</a>]]></content:encoded>
-      <guid isPermaLink="false">12884</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Avis sur la sécurité de votre compte</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12909</link>
       <description>Pour renforcer davantage la sécurité de vos comptes, nous allons mettre en place une nouvelle fonctionnalité de vérification de sécurité via l'association de votre adresse e-mail et de votre numéro de portable. Voici un récapitulatif des questions les plus fréquentes concernant cette nouvelle fonctionnalité.</description>
@@ -1883,6 +1883,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></description>
       <guid isPermaLink="false">15695</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gravures de vœux</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15733</link>
+      <description>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711403779067.jpg"><br/><br/>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15733">Gravures de vœux</a>]]></content:encoded>
+      <guid isPermaLink="false">15733</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

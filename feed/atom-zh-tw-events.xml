@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - events</title>
-  <updated>2021-09-07T03:09:16.413275+00:00</updated>
+  <updated>2021-09-07T04:10:49.841742+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -62,5 +62,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8739" rel="alternate"/>
     <summary>網頁活動「願寄明霄燈」正式開放</summary>
     <published>2021-02-19T13:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15732</id>
+    <title>刻印的祝願</title>
+    <updated>2021-09-07T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711384068591.jpg"><br/><br/>網頁活動即將開放。旅行者，我們一起去創造你專屬的週年記憶吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15732">刻印的祝願</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15732" rel="alternate"/>
+    <summary>網頁活動即將開放。旅行者，我們一起去創造你專屬的週年記憶吧！</summary>
+    <published>2021-09-07T12:00:00+08:00</published>
   </entry>
 </feed>

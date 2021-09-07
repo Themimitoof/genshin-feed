@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Sep 2021 03:09:11 +0000</lastBuildDate>
-    <item>
-      <title>"Battlefront: Misty Dungeon" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12888</link>
-      <description>During the event, Travelers may assemble a team with the specific trial characters provided and challenge six trials of different themes. Complete the trial quests to obtain rewards such as Primogems, Hero's Wit, and Talent Level-Up Materials.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916115723584.jpg"><br/><br/>During the event, Travelers may assemble a team with the specific trial characters provided and challenge six trials of different themes. Complete the trial quests to obtain rewards such as Primogems, Hero's Wit, and Talent Level-Up Materials.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12888">"Battlefront: Misty Dungeon" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">12888</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Sep 2021 04:10:31 +0000</lastBuildDate>
     <item>
       <title>Notice About Account Security</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12901</link>
@@ -913,6 +905,14 @@ Using her blade, she purged all obstacles to Inazuma's progress, making a promis
 Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15704">Story Teaser: Promise of a People's Dream | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15704</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Engraved Wishes</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15731</link>
+      <description>The first anniversary of Genshin Impact is approaching. Click the link below to send your Wishes and you will have the opportunity to engrave your own message on Paimon's blocks.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711343758313.jpg"><br/><br/>The first anniversary of Genshin Impact is approaching. Click the link below to send your Wishes and you will have the opportunity to engrave your own message on Paimon's blocks.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15731">Engraved Wishes</a>]]></content:encoded>
+      <guid isPermaLink="false">15731</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

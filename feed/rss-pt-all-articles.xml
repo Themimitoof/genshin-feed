@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 07 Sep 2021 03:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 04:11:28 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -88,6 +88,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216243292096.jpg"><br/><br/>Participe da transmissão e conclua missões para ganhar Gemas Essenciais!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15655">Aberto o recrutamento de streamer de Genshin Impact no Twitch! Participe da transmissão e conclua missões para ganhar Gemas Essenciais!</a>]]></content:encoded>
       <guid isPermaLink="false">15655</guid>
       <pubDate>Thu, 02 Sep 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Desejos Esculpidos</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15734</link>
+      <description>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711412340982.jpg"><br/><br/>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15734">Desejos Esculpidos</a>]]></content:encoded>
+      <guid isPermaLink="false">15734</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>&lt;Genshin Impact&gt; explore o mundo de Teyvat com a Amber!</title>
@@ -1014,14 +1022,6 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Detalhes do Modo de Jogo "Pegue-me se Puder"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/13033</link>
-      <description>Um certo Hilichurl Estranho foi visto recentemente na selva com seus amigos Hilichurls... </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052515170036101.jpg"><br/><br/>Um certo Hilichurl Estranho foi visto recentemente na selva com seus amigos Hilichurls... <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13033">Detalhes do Modo de Jogo "Pegue-me se Puder"</a>]]></content:encoded>
-      <guid isPermaLink="false">13033</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Teaser da Versão 1.6 de Genshin Impact - Verão! Ilha? Grandes Aventuras!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/13123</link>
       <description>Durante o verão, uma carta misteriosa foi descoberta no peitoril da janela, e uma névoa em espiral se formava ao longe.</description>
@@ -1818,6 +1818,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611281535600.jpg"><br/><br/>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15706">Teaser de História - "O Sonho Prometido" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15706</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Desejos Esculpidos</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15734</link>
+      <description>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711412340982.jpg"><br/><br/>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15734">Desejos Esculpidos</a>]]></content:encoded>
+      <guid isPermaLink="false">15734</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

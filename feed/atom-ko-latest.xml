@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-09-07T03:09:22.088067+00:00</updated>
+  <updated>2021-09-07T04:11:15.997123+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13126</id>
-    <title>&lt;원신&gt; 1.6 버전 PV - 「여름! 섬? 모험!」</title>
-    <updated>2021-05-28T20:46:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818450061424.jpg"><br/><br/>﻿한 여름날, 창가에 수수께끼의 편지 하나가 놓여있고 머나먼 곳에선 미지의 안개가 감돌고 있다.
-파도 소리를 따라 찾아간 끝에 만난 것은 넘실대는 불꽃과 하늘 위의 도망치는 태양이었다.
-「가장 좋은 친구」를 위해 「대모험」을 위해, 가장 어린 기사가 출동을 준비한다 - 출발~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13126"><원신> 1.6 버전 PV - 「여름! 섬? 모험!」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13126" rel="alternate"/>
-    <summary>﻿한 여름날, 창가에 수수께끼의 편지 하나가 놓여있고 머나먼 곳에선 미지의 안개가 감돌고 있다.
-파도 소리를 따라 찾아간 끝에 만난 것은 넘실대는 불꽃과 하늘 위의 도망치는 태양이었다.
-「가장 좋은 친구」를 위해 「대모험」을 위해, 가장 어린 기사가 출동을 준비한다 - 출발~!</summary>
-    <published>2021-05-28T20:46:00+09:00</published>
-  </entry>
   <entry>
     <id>13171</id>
     <title>1.6 버전 「속세의 주전자」 시스템 업데이트 속보: 「초대」</title>
@@ -982,5 +969,14 @@
 「무상」으로 이나즈마의 앞길을 가로막는 장애물을 모두 제거하고 「영원」으로 백성에게 부세의 꿈을 약속한다
 이게 바로 나루카미 국토에 있는 「라이덴 쇼군」의 진리의 일심이다</summary>
     <published>2021-09-06T18:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15729</id>
+    <title>각인의 축복 웹이벤트</title>
+    <updated>2021-09-07T12:05:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711333317367.jpg"><br/><br/>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15729">각인의 축복 웹이벤트</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15729" rel="alternate"/>
+    <summary>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!</summary>
+    <published>2021-09-07T12:05:00+09:00</published>
   </entry>
 </feed>

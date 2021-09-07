@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - events</title>
-  <updated>2021-09-07T03:09:20.467217+00:00</updated>
+  <updated>2021-09-07T04:11:07.829502+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -106,5 +106,14 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/8737" rel="alternate"/>
     <summary>Menurut legenda, Lentera Xiao akan membawa harapan para manusia kepada Adeptus.</summary>
     <published>2021-02-19T13:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15735</id>
+    <title>Ucapan yang Terukir</title>
+    <updated>2021-09-07T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711495735357.jpg"><br/><br/>Event Web "Ucapan yang Terukir" segera dimulai. Traveler, ayo sama-sama buat kenangan untuk anniversary pertama Genshin Impact!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15735">Ucapan yang Terukir</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15735" rel="alternate"/>
+    <summary>Event Web "Ucapan yang Terukir" segera dimulai. Traveler, ayo sama-sama buat kenangan untuk anniversary pertama Genshin Impact!</summary>
+    <published>2021-09-07T12:00:00+07:00</published>
   </entry>
 </feed>

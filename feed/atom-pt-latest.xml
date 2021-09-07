@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-09-07T03:09:23.177580+00:00</updated>
+  <updated>2021-09-07T04:11:22.134753+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>13033</id>
-    <title>Detalhes do Modo de Jogo "Pegue-me se Puder"</title>
-    <updated>2021-05-26T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052515170036101.jpg"><br/><br/>Um certo Hilichurl Estranho foi visto recentemente na selva com seus amigos Hilichurls... <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13033">Detalhes do Modo de Jogo "Pegue-me se Puder"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13033" rel="alternate"/>
-    <summary>Um certo Hilichurl Estranho foi visto recentemente na selva com seus amigos Hilichurls... </summary>
-    <published>2021-05-26T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>13123</id>
     <title>Teaser da Versão 1.6 de Genshin Impact - Verão! Ilha? Grandes Aventuras!</title>
@@ -914,5 +905,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/15706" rel="alternate"/>
     <summary>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...</summary>
     <published>2021-09-06T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15734</id>
+    <title>Desejos Esculpidos</title>
+    <updated>2021-09-07T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711412340982.jpg"><br/><br/>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15734">Desejos Esculpidos</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15734" rel="alternate"/>
+    <summary>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!</summary>
+    <published>2021-09-07T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-09-07T03:09:24.363598+00:00</updated>
+  <updated>2021-09-07T04:11:28.722904+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13124</id>
-    <title>Genshin Impact | Версия 1.6 - Лето! Остров? Приключение!</title>
-    <updated>2021-05-28T20:45:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818330742535.jpg"><br/><br/>Знойным летним днём на подоконнике появилось таинственное письмо, а вдалеке вился неведомый туман.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13124">Genshin Impact | Версия 1.6 - Лето! Остров? Приключение!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13124" rel="alternate"/>
-    <summary>Знойным летним днём на подоконнике появилось таинственное письмо, а вдалеке вился неведомый туман.</summary>
-    <published>2021-05-28T20:45:00+03:00</published>
-  </entry>
   <entry>
     <id>13164</id>
     <title>Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</title>
@@ -913,5 +904,13 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15683" rel="alternate"/>
     <summary>Страна, мчавшаяся вперёд, превратилась в мимолётную тень. Может, если остановить мгновение, её сияние продлится вечно...</summary>
     <published>2021-09-06T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15737</id>
+    <title>Высеченные пожелания</title>
+    <updated>2021-09-07T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711524442206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15737">Высеченные пожелания</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15737" rel="alternate"/>
+    <published>2021-09-07T12:00:00+03:00</published>
   </entry>
 </feed>

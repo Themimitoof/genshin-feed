@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-07T03:09:13.563154+00:00</updated>
+  <updated>2021-09-07T04:10:38.812132+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>12884</id>
-    <title>Détails de l'événement : « Ligne de front : cité perdue »</title>
-    <updated>2021-05-20T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051915541722962.jpg"><br/><br/>Pendant l'événement, assemblez une équipe avec les personnages disponibles à l'essai et affrontez six épreuves thématiques différentes. Accomplissez-les pour obtenir des primo-gemmes, des leçons du héros, des matériaux d'amélioration d'aptitude et d'autres récompenses !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12884">Détails de l'événement : « Ligne de front : cité perdue »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12884" rel="alternate"/>
-    <summary>Pendant l'événement, assemblez une équipe avec les personnages disponibles à l'essai et affrontez six épreuves thématiques différentes. Accomplissez-les pour obtenir des primo-gemmes, des leçons du héros, des matériaux d'amélioration d'aptitude et d'autres récompenses !</summary>
-    <published>2021-05-20T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>12909</id>
     <title>Avis sur la sécurité de votre compte</title>
@@ -947,5 +938,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15695" rel="alternate"/>
     <published>2021-09-06T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15733</id>
+    <title>Gravures de vœux</title>
+    <updated>2021-09-07T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711403779067.jpg"><br/><br/>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15733">Gravures de vœux</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15733" rel="alternate"/>
+    <summary>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !</summary>
+    <published>2021-09-07T12:00:00+02:00</published>
   </entry>
 </feed>

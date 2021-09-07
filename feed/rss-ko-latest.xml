@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 07 Sep 2021 03:09:22 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 1.6 버전 PV - 「여름! 섬? 모험!」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13126</link>
-      <description>﻿한 여름날, 창가에 수수께끼의 편지 하나가 놓여있고 머나먼 곳에선 미지의 안개가 감돌고 있다.
-파도 소리를 따라 찾아간 끝에 만난 것은 넘실대는 불꽃과 하늘 위의 도망치는 태양이었다.
-「가장 좋은 친구」를 위해 「대모험」을 위해, 가장 어린 기사가 출동을 준비한다 - 출발~!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818450061424.jpg"><br/><br/>﻿한 여름날, 창가에 수수께끼의 편지 하나가 놓여있고 머나먼 곳에선 미지의 안개가 감돌고 있다.
-파도 소리를 따라 찾아간 끝에 만난 것은 넘실대는 불꽃과 하늘 위의 도망치는 태양이었다.
-「가장 좋은 친구」를 위해 「대모험」을 위해, 가장 어린 기사가 출동을 준비한다 - 출발~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13126"><원신> 1.6 버전 PV - 「여름! 섬? 모험!」</a>]]></content:encoded>
-      <guid isPermaLink="false">13126</guid>
-      <pubDate>Fri, 28 May 2021 20:46:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 07 Sep 2021 04:11:15 +0000</lastBuildDate>
     <item>
       <title>1.6 버전 「속세의 주전자」 시스템 업데이트 속보: 「초대」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13171</link>
@@ -880,6 +868,14 @@
 이게 바로 나루카미 국토에 있는 「라이덴 쇼군」의 진리의 일심이다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15688"><원신> 스토리 PV - 「백성에게 약속한 꿈」</a>]]></content:encoded>
       <guid isPermaLink="false">15688</guid>
       <pubDate>Mon, 06 Sep 2021 18:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>각인의 축복 웹이벤트</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15729</link>
+      <description>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711333317367.jpg"><br/><br/>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15729">각인의 축복 웹이벤트</a>]]></content:encoded>
+      <guid isPermaLink="false">15729</guid>
+      <pubDate>Tue, 07 Sep 2021 12:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

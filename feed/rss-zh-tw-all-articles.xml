@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 07 Sep 2021 03:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Sep 2021 04:10:51 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -56,6 +56,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210219/2021021917565678756.png"><br/><br/>網頁活動「願寄明霄燈」正式開放<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/8739">點亮五種霄燈 分享原石大獎！ 網頁活動「願寄明霄燈」正式開放</a>]]></content:encoded>
       <guid isPermaLink="false">8739</guid>
       <pubDate>Fri, 19 Feb 2021 13:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刻印的祝願</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15732</link>
+      <description>網頁活動即將開放。旅行者，我們一起去創造你專屬的週年記憶吧！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711384068591.jpg"><br/><br/>網頁活動即將開放。旅行者，我們一起去創造你專屬的週年記憶吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15732">刻印的祝願</a>]]></content:encoded>
+      <guid isPermaLink="false">15732</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 +0800</pubDate>
     </item>
     <item>
       <title>《原神》社群媒體問卷調查</title>
@@ -975,14 +983,6 @@
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>「迷城戰線」玩法說明</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/12885</link>
-      <description>活動期間，旅行者可以使用指定的試用角色編隊並挑戰6個不同主題的試煉，完成試煉任務可獲得原石、大英雄的經驗、天賦培養材料等獎勵。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916074511369.jpg"><br/><br/>活動期間，旅行者可以使用指定的試用角色編隊並挑戰6個不同主題的試煉，完成試煉任務可獲得原石、大英雄的經驗、天賦培養材料等獎勵。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12885">「迷城戰線」玩法說明</a>]]></content:encoded>
-      <guid isPermaLink="false">12885</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0800</pubDate>
-    </item>
-    <item>
       <title>帳號安全相關通知</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/12904</link>
       <description>我們已於5月17日 18:00 (UTC+8) 上線了基於綁定電子郵件信箱及手機號碼的裝置安全驗證功能。</description>
@@ -1749,6 +1749,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611103037289.jpg"><br/><br/>全力奔跑的國度，已成須臾之影。也許唯有定格此刻，才可永存稻光…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15700">劇情預告-「許以臣民之夢」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">15700</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>刻印的祝願</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15732</link>
+      <description>網頁活動即將開放。旅行者，我們一起去創造你專屬的週年記憶吧！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711384068591.jpg"><br/><br/>網頁活動即將開放。旅行者，我們一起去創造你專屬的週年記憶吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15732">刻印的祝願</a>]]></content:encoded>
+      <guid isPermaLink="false">15732</guid>
+      <pubDate>Tue, 07 Sep 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

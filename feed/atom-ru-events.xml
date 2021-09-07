@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2021-09-07T03:09:25.222101+00:00</updated>
+  <updated>2021-09-07T04:11:33.517187+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -80,5 +80,13 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15654" rel="alternate"/>
     <summary>Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
     <published>2021-09-02T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15737</id>
+    <title>Высеченные пожелания</title>
+    <updated>2021-09-07T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711524442206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15737">Высеченные пожелания</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15737" rel="alternate"/>
+    <published>2021-09-07T12:00:00+03:00</published>
   </entry>
 </feed>
