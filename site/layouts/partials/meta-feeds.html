@@ -1,0 +1,7 @@
+{{- range $lang, $langContent := (index $.Site.Data "last-updates") -}}
+{{- range $category, $feeds := $langContent.feeds -}}
+{{- range $key, $feed := $feeds -}}
+<link rel="alternate" type="application/{{ $feed.type }}+xml" hreflang="{{ $lang }}" title="Genshin Impact {{ $lang | upper }} - {{ $category | humanize }}" href="{{ trim $.Site.BaseURL "/" }}/feed/{{ $feed.type}}-{{ $lang }}-{{ $category }}.xml" />
+{{ end }}
+{{- end -}}
+{{- end -}}
