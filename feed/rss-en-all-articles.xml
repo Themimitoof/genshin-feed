@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:07 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -240,14 +240,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12773</link>
-      <description>From an ocean of frost, a sudden towering wave surges forth. With the clash of a blade comes the crash of a wave, delivering a piercing-cold strike that eliminates countless threats to Mondstadt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500551952067.jpg"><br/><br/>From an ocean of frost, a sudden towering wave surges forth. With the clash of a blade comes the crash of a wave, delivering a piercing-cold strike that eliminates countless threats to Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12773">Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12773</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 -0400</pubDate>
     </item>
     <item>
       <title>"Battlefront: Misty Dungeon" Gameplay Details</title>
@@ -1147,14 +1139,12 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br
       <pubDate>Mon, 06 Sep 2021 18:00:00 -0400</pubDate>
     </item>
     <item>
-      <title>Notice About Account Security</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12901</link>
-      <description>We place great importance on Travelers' account security. To improve account security further, we recently released a new device verification function based on email and mobile linking. This function went live on May 17, 18:00 (UTC+8).
-We received a great deal of feedback today about this new function. Having collated and reviewed Travelers' queries, we would like to present a summary of our responses here.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011014259128.png"><br/><br/>We place great importance on Travelers' account security. To improve account security further, we recently released a new device verification function based on email and mobile linking. This function went live on May 17, 18:00 (UTC+8).
-We received a great deal of feedback today about this new function. Having collated and reviewed Travelers' queries, we would like to present a summary of our responses here.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12901">Notice About Account Security</a>]]></content:encoded>
-      <guid isPermaLink="false">12901</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 -0400</pubDate>
+      <title>"Lunar Realm" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15743</link>
+      <description>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810495655485.jpg"><br/><br/>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15743">"Lunar Realm" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">15743</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 -0400</pubDate>
     </item>
     <item>
       <title>May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</title>
@@ -2050,6 +2040,14 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711343758313.jpg"><br/><br/>The first anniversary of Genshin Impact is approaching. Click the link below to send your Wishes and you will have the opportunity to engrave your own message on Paimon's blocks.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15731">Engraved Wishes</a>]]></content:encoded>
       <guid isPermaLink="false">15731</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Lunar Realm" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15743</link>
+      <description>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810495655485.jpg"><br/><br/>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15743">"Lunar Realm" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">15743</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

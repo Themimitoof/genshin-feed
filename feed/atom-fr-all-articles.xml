@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-09-09T02:22:42.022775+00:00</updated>
+  <updated>2021-09-09T03:09:12.581260+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -243,17 +243,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>12768</id>
-    <title>Genshin Impact - Eula : Givre déchaîné</title>
-    <updated>2021-05-18T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210514/2021051423245918093.jpg"><br/><br/>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12768">Genshin Impact - Eula : Givre déchaîné</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12768" rel="alternate"/>
-    <summary>De hautes vagues déferlent d'un océan de givre. Chacune s'abat dès qu'un fracas de lame résonne, éliminant les nombreuses menaces qui planent sur Mondstadt d'un coup glacé et violent.
-Suivant son propre chemin de vengeance, Eula s'est battue pour se libérer des chaînes de son clan et enfin se découvrir.</summary>
-    <published>2021-05-18T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>12884</id>
@@ -1187,13 +1176,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-09-06T18:00:00+02:00</published>
   </entry>
   <entry>
-    <id>12909</id>
-    <title>Avis sur la sécurité de votre compte</title>
-    <updated>2021-05-20T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011121638301.png"><br/><br/>Pour renforcer davantage la sécurité de vos comptes, nous allons mettre en place une nouvelle fonctionnalité de vérification de sécurité via l'association de votre adresse e-mail et de votre numéro de portable. Voici un récapitulatif des questions les plus fréquentes concernant cette nouvelle fonctionnalité.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12909">Avis sur la sécurité de votre compte</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12909" rel="alternate"/>
-    <summary>Pour renforcer davantage la sécurité de vos comptes, nous allons mettre en place une nouvelle fonctionnalité de vérification de sécurité via l'association de votre adresse e-mail et de votre numéro de portable. Voici un récapitulatif des questions les plus fréquentes concernant cette nouvelle fonctionnalité.</summary>
-    <published>2021-05-20T12:00:00+02:00</published>
+    <id>15766</id>
+    <title>Détails de l'événement « Royaume lunaire »</title>
+    <updated>2021-09-09T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819265467136.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15766">Détails de l'événement « Royaume lunaire »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15766" rel="alternate"/>
+    <published>2021-09-09T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>13061</id>
@@ -2124,5 +2112,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/15733" rel="alternate"/>
     <summary>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !</summary>
     <published>2021-09-07T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15766</id>
+    <title>Détails de l'événement « Royaume lunaire »</title>
+    <updated>2021-09-09T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819265467136.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15766">Détails de l'événement « Royaume lunaire »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15766" rel="alternate"/>
+    <published>2021-09-09T10:30:00+02:00</published>
   </entry>
 </feed>

@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:37 +0000</lastBuildDate>
-    <item>
-      <title>Notice About Account Security</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12901</link>
-      <description>We place great importance on Travelers' account security. To improve account security further, we recently released a new device verification function based on email and mobile linking. This function went live on May 17, 18:00 (UTC+8).
-We received a great deal of feedback today about this new function. Having collated and reviewed Travelers' queries, we would like to present a summary of our responses here.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011014259128.png"><br/><br/>We place great importance on Travelers' account security. To improve account security further, we recently released a new device verification function based on email and mobile linking. This function went live on May 17, 18:00 (UTC+8).
-We received a great deal of feedback today about this new function. Having collated and reviewed Travelers' queries, we would like to present a summary of our responses here.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12901">Notice About Account Security</a>]]></content:encoded>
-      <guid isPermaLink="false">12901</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:01 +0000</lastBuildDate>
     <item>
       <title>May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12952</link>
@@ -913,6 +903,14 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711343758313.jpg"><br/><br/>The first anniversary of Genshin Impact is approaching. Click the link below to send your Wishes and you will have the opportunity to engrave your own message on Paimon's blocks.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15731">Engraved Wishes</a>]]></content:encoded>
       <guid isPermaLink="false">15731</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Lunar Realm" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15743</link>
+      <description>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810495655485.jpg"><br/><br/>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15743">"Lunar Realm" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">15743</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

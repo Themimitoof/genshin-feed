@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-09-09T02:22:50.645606+00:00</updated>
+  <updated>2021-09-09T03:09:42.038861+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>12970</id>
-    <title>Conversa com os Desenvolvedores de 24 de maio - Otimizações do Carregamento do Paraíso Mágico e da conversão com o Espírito do Bule? Vamos lá!</title>
-    <updated>2021-05-24T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052410161561479.png"><br/><br/>Hoje estamos mais uma vez reunidos com os desenvolvedores de Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/12970">Conversa com os Desenvolvedores de 24 de maio - Otimizações do Carregamento do Paraíso Mágico e da conversão com o Espírito do Bule? Vamos lá!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/12970" rel="alternate"/>
-    <summary>Hoje estamos mais uma vez reunidos com os desenvolvedores de Genshin Impact.</summary>
-    <published>2021-05-24T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>13033</id>
     <title>Detalhes do Modo de Jogo "Pegue-me se Puder"</title>
@@ -914,5 +905,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/15706" rel="alternate"/>
     <summary>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...</summary>
     <published>2021-09-06T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15744</id>
+    <title>Descrição do Modo de Jogo "Reino Lunar"</title>
+    <updated>2021-09-09T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810514390723.jpg"><br/><br/>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15744">Descrição do Modo de Jogo "Reino Lunar"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15744" rel="alternate"/>
+    <summary>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?</summary>
+    <published>2021-09-09T10:30:00+01:00</published>
   </entry>
 </feed>

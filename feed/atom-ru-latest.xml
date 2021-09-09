@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-09-09T02:22:51.690923+00:00</updated>
+  <updated>2021-09-09T03:09:45.346748+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13164</id>
-    <title>Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</title>
-    <updated>2021-06-02T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210601/2021060117051482174.jpg"><br/><br/>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13164">Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13164" rel="alternate"/>
-    <summary>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.</summary>
-    <published>2021-06-02T10:30:00+03:00</published>
-  </entry>
   <entry>
     <id>13193</id>
     <title>Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</title>
@@ -912,5 +903,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711524442206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15737">Высеченные пожелания</a>]]></content>
     <link href="https://genshin.mihoyo.com/ru/news/detail/15737" rel="alternate"/>
     <published>2021-09-07T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15746</id>
+    <title>Описание события «Лунное королевство»</title>
+    <updated>2021-09-09T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810540270397.jpg"><br/><br/>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15746">Описание события «Лунное королевство»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15746" rel="alternate"/>
+    <summary>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?</summary>
+    <published>2021-09-09T10:30:00+03:00</published>
   </entry>
 </feed>

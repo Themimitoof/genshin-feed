@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:49 +0000</lastBuildDate>
-    <item>
-      <title>「든든한 동맹」 이벤트 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13060</link>
-      <description>「든든한 동맹」 이벤트가 시작될 예정이에요!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052610414054349.jpg"><br/><br/>「든든한 동맹」 이벤트가 시작될 예정이에요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13060">「든든한 동맹」 이벤트 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">13060</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:37 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 1.6 버전 PV - 「여름! 섬? 모험!」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13126</link>
@@ -880,6 +872,14 @@
 이게 바로 나루카미 국토에 있는 「라이덴 쇼군」의 진리의 일심이다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15688"><원신> 스토리 PV - 「백성에게 약속한 꿈」</a>]]></content:encoded>
       <guid isPermaLink="false">15688</guid>
       <pubDate>Mon, 06 Sep 2021 18:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「달의 왕국」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15767</link>
+      <description>이나즈마의 낚시꾼 「쿠지라이 모미지」는 줄곧 전설의 대어인 「해중월」을 찾아다니고 있다. 그녀는 옛 친구들을 소집하려 하고 여행자도 초대하여 함께 달을 쫓는 여행을 하려 한다. 그녀는 과연 자신의 염원을 이룰 수 있을까?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819274030121.jpg"><br/><br/>이나즈마의 낚시꾼 「쿠지라이 모미지」는 줄곧 전설의 대어인 「해중월」을 찾아다니고 있다. 그녀는 옛 친구들을 소집하려 하고 여행자도 초대하여 함께 달을 쫓는 여행을 하려 한다. 그녀는 과연 자신의 염원을 이룰 수 있을까?<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15767">「달의 왕국」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">15767</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

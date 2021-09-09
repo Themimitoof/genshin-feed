@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-09-09T02:22:44.902373+00:00</updated>
+  <updated>2021-09-09T03:09:18.657033+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>12949</id>
-    <title>Fragerunde mit den Entwicklern am 24. Mai: Optimierungen der Kanne der Vergänglichkeit und Interaktion mit dem Kannengeist</title>
-    <updated>2021-05-24T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052121094253313.png"><br/><br/>Heute ist es wieder Zeit für Paimons Fragerunde mit den Entwicklern! ╰(*°▽°*)╯ Was gibt es in dieser Woche Neues von den Entwicklern zu berichten? Lasst euch von Paimon an die Hand nehmen und seht selbst!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/12949">Fragerunde mit den Entwicklern am 24. Mai: Optimierungen der Kanne der Vergänglichkeit und Interaktion mit dem Kannengeist</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/12949" rel="alternate"/>
-    <summary>Heute ist es wieder Zeit für Paimons Fragerunde mit den Entwicklern! ╰(*°▽°*)╯ Was gibt es in dieser Woche Neues von den Entwicklern zu berichten? Lasst euch von Paimon an die Hand nehmen und seht selbst!</summary>
-    <published>2021-05-24T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>13046</id>
     <title>Erläuterungen zur Spielweise von „Fang mich doch“</title>
@@ -935,5 +926,14 @@ Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missi
     <link href="https://genshin.mihoyo.com/de/news/detail/15685" rel="alternate"/>
     <summary>Ein Reich, das voranschreitet, ist in einem flüchtigen Schatten eines Augenblicks stecken geblieben. Vielleicht wird Inazuma nur dann ewig leuchten, wenn die Zeit stillsteht ...</summary>
     <published>2021-09-06T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15749</id>
+    <title>Erläuterungen zur Spielweise von „Mondreich“</title>
+    <updated>2021-09-09T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090811071684590.jpg"><br/><br/>Die Inazuma-Fischerin Kujirai Momiji wollte schon immer einen legendären großen Fisch namens „Mond-Leviathan“ fangen. Sie plant, alle ihre alten Freunde zu versammeln und sich auf die Reise zu machen, um ihn zu finden, und sie lädt dich ein, dich ihr anzuschließen ... Kann ihr Traum diesmal endlich in Erfüllung gehen?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15749">Erläuterungen zur Spielweise von „Mondreich“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15749" rel="alternate"/>
+    <summary>Die Inazuma-Fischerin Kujirai Momiji wollte schon immer einen legendären großen Fisch namens „Mond-Leviathan“ fangen. Sie plant, alle ihre alten Freunde zu versammeln und sich auf die Reise zu machen, um ihn zu finden, und sie lädt dich ein, dich ihr anzuschließen ... Kann ihr Traum diesmal endlich in Erfüllung gehen?</summary>
+    <published>2021-09-09T10:30:00+02:00</published>
   </entry>
 </feed>

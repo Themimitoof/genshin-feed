@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:50 +0000</lastBuildDate>
-    <item>
-      <title>Teaser da Versão 1.6 de Genshin Impact - Verão! Ilha? Grandes Aventuras!</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/13123</link>
-      <description>Durante o verão, uma carta misteriosa foi descoberta no peitoril da janela, e uma névoa em espiral se formava ao longe.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818315847124.jpg"><br/><br/>Durante o verão, uma carta misteriosa foi descoberta no peitoril da janela, e uma névoa em espiral se formava ao longe.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13123">Teaser da Versão 1.6 de Genshin Impact - Verão! Ilha? Grandes Aventuras!</a>]]></content:encoded>
-      <guid isPermaLink="false">13123</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:41 +0000</lastBuildDate>
     <item>
       <title>Prévia da Atualização do Sistema da Versão 1.6 "Bule de Relachá": Modo de Jogo "Visitas ao Bule"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/13155</link>
@@ -814,6 +806,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711412340982.jpg"><br/><br/>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15734">Desejos Esculpidos</a>]]></content:encoded>
       <guid isPermaLink="false">15734</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Descrição do Modo de Jogo "Reino Lunar"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15744</link>
+      <description>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810514390723.jpg"><br/><br/>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15744">Descrição do Modo de Jogo "Reino Lunar"</a>]]></content:encoded>
+      <guid isPermaLink="false">15744</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

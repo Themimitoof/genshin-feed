@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:47 +0000</lastBuildDate>
-    <item>
-      <title>運営チームからの手紙</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/11913</link>
-      <description>【04.17】開発チームQ&amp;A</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041616403199672.jpg"><br/><br/>【04.17】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11913">運営チームからの手紙</a>]]></content:encoded>
-      <guid isPermaLink="false">11913</guid>
-      <pubDate>Sat, 17 Apr 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:32 +0000</lastBuildDate>
     <item>
       <title>原神キャラクターTwitterアイコン第二弾配布開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/11985</link>
@@ -722,6 +714,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090710342933910.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15725">「祝福の刻印」イベント紹介</a>]]></description>
       <guid isPermaLink="false">15725</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「月中王国」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/15761</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090815012173905.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15761">「月中王国」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">15761</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

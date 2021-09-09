@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-09-09T02:22:49.107511+00:00</updated>
+  <updated>2021-09-09T03:09:37.069658+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -850,6 +850,15 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15725" rel="alternate"/>
     <summary/>
     <published>2021-09-07T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15761</id>
+    <title>「月中王国」イベント紹介</title>
+    <updated>2021-09-09T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090815012173905.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15761">「月中王国」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15761" rel="alternate"/>
+    <summary/>
+    <published>2021-09-09T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>5861</id>
@@ -1840,15 +1849,6 @@
     <published>2021-06-30T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>11913</id>
-    <title>運営チームからの手紙</title>
-    <updated>2021-04-17T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210416/2021041616403199672.jpg"><br/><br/>【04.17】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11913">運営チームからの手紙</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/11913" rel="alternate"/>
-    <summary>【04.17】開発チームQ&amp;A</summary>
-    <published>2021-04-17T10:30:00+09:00</published>
-  </entry>
-  <entry>
     <id>11985</id>
     <title>原神キャラクターTwitterアイコン第二弾配布開始！</title>
     <updated>2021-04-19T12:00:00+09:00</updated>
@@ -2721,5 +2721,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/15725" rel="alternate"/>
     <summary/>
     <published>2021-09-07T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15761</id>
+    <title>「月中王国」イベント紹介</title>
+    <updated>2021-09-09T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090815012173905.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15761">「月中王国」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15761" rel="alternate"/>
+    <summary/>
+    <published>2021-09-09T10:30:00+09:00</published>
   </entry>
 </feed>

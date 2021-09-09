@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:53 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "เส้นทางพิศวง"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/13036</link>
-      <description>อรุณสวัสดิ์เหล่านักเดินทาง! กิจกรรม "เส้นทางพิศวง" กำลังจะเริ่มขึ้นแล้ว!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052515582040395.jpg"><br/><br/>อรุณสวัสดิ์เหล่านักเดินทาง! กิจกรรม "เส้นทางพิศวง" กำลังจะเริ่มขึ้นแล้ว!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/13036">คำอธิบายเกมเพลย์ "เส้นทางพิศวง"</a>]]></content:encoded>
-      <guid isPermaLink="false">13036</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:51 +0000</lastBuildDate>
     <item>
       <title>ตัวอย่าง Genshin Impact เวอร์ชัน 1.6: "ซัมเมอร์หรรษากับเกาะมหัศจรรย์"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/13135</link>
@@ -792,6 +784,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090614535730165.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15709">ธีมวิดีโอ Genshin Impact - "ฝันที่สัญญากับผู้คน"</a>]]></description>
       <guid isPermaLink="false">15709</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายเกมเพลย์ "ราชันใต้แสงจันทรา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/15762</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090816512160499.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15762">คำอธิบายเกมเพลย์ "ราชันใต้แสงจันทรา"</a>]]></description>
+      <guid isPermaLink="false">15762</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

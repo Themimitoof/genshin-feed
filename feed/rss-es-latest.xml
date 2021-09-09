@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:45 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Eula: el surgimiento del hielo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12875</link>
-      <description>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051816195489472.jpg"><br/><br/>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12875">Genshin Impact - Eula: el surgimiento del hielo</a>]]></content:encoded>
-      <guid isPermaLink="false">12875</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:22 +0000</lastBuildDate>
     <item>
       <title>Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12973</link>
@@ -800,6 +792,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711334671606.jpg"><br/><br/>El evento web «Grabado de deseos» está a punto de comenzar. Viajeros, ¡creemos juntos su recuerdo personal de aniversario!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15730">Grabado de deseos</a>]]></content:encoded>
       <guid isPermaLink="false">15730</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego del evento «Reino Lunar»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15747</link>
+      <description>Kujirai Momiji, una pescadora de Inazuma, siempre ha querido atrapar a un gran pez legendario llamado "leviatán lunar". Ahora está planeando reunir a todos sus amigos e invitarte a que te unas a ellos. ¿Podrá hacer su deseo realidad?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810550718625.jpg"><br/><br/>Kujirai Momiji, una pescadora de Inazuma, siempre ha querido atrapar a un gran pez legendario llamado "leviatán lunar". Ahora está planeando reunir a todos sus amigos e invitarte a que te unas a ellos. ¿Podrá hacer su deseo realidad?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15747">Modo de juego del evento «Reino Lunar»</a>]]></content:encoded>
+      <guid isPermaLink="false">15747</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

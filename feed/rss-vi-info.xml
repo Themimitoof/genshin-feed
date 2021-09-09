@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:54 +0000</lastBuildDate>
-    <item>
-      <title>Thông báo về bảo mật tài khoản</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/12906</link>
-      <description>Nhà Lữ Hành thân mến:
-Chúng tôi luôn quan tâm đến vấn đề bảo mật tài khoản của Nhà Lữ Hành. Để tăng cường bảo mật tài khoản của Nhà Lữ Hành, vào 18:00 17/05 (UTC+8) chúng tôi đã khởi chạy tính năng xác minh bảo mật thiết bị dựa trên email và số điện thoại được liên kết.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011095029712.png"><br/><br/>Nhà Lữ Hành thân mến:
-Chúng tôi luôn quan tâm đến vấn đề bảo mật tài khoản của Nhà Lữ Hành. Để tăng cường bảo mật tài khoản của Nhà Lữ Hành, vào 18:00 17/05 (UTC+8) chúng tôi đã khởi chạy tính năng xác minh bảo mật thiết bị dựa trên email và số điện thoại được liên kết.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/12906">Thông báo về bảo mật tài khoản</a>]]></content:encoded>
-      <guid isPermaLink="false">12906</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:55 +0000</lastBuildDate>
     <item>
       <title>Buổi toạ đàm với nhóm phát triển 24/05 - Ưu hoá sức chứa của Động Tiên, đối thoại của Tiên Ấm? get√!</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/12950</link>
@@ -838,6 +828,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090614554469591.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15711">[Genshin Impact] Video - Lời Hứa Về Giấc Mơ Với Thần Dân</a>]]></description>
       <guid isPermaLink="false">15711</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hướng Dẫn Cách Chơi "Vương Quốc Ánh Trăng"</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15763</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090816531682334.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15763">Hướng Dẫn Cách Chơi "Vương Quốc Ánh Trăng"</a>]]></description>
+      <guid isPermaLink="false">15763</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

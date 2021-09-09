@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:38 +0000</lastBuildDate>
-    <item>
-      <title>Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12773</link>
-      <description>From an ocean of frost, a sudden towering wave surges forth. With the clash of a blade comes the crash of a wave, delivering a piercing-cold strike that eliminates countless threats to Mondstadt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210515/2021051500551952067.jpg"><br/><br/>From an ocean of frost, a sudden towering wave surges forth. With the clash of a blade comes the crash of a wave, delivering a piercing-cold strike that eliminates countless threats to Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12773">Collected Miscellany - "Eula: Surging Frost" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">12773</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:03 +0000</lastBuildDate>
     <item>
       <title>"Battlefront: Misty Dungeon" Gameplay Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12888</link>
@@ -913,6 +905,14 @@ Using her blade, she purged all obstacles to Inazuma's progress, making a promis
 Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15704">Story Teaser: Promise of a People's Dream | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15704</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Lunar Realm" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15743</link>
+      <description>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810495655485.jpg"><br/><br/>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15743">"Lunar Realm" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">15743</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

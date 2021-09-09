@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:42 +0000</lastBuildDate>
-    <item>
-      <title>「迷城戰線」玩法說明</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/12885</link>
-      <description>活動期間，旅行者可以使用指定的試用角色編隊並挑戰6個不同主題的試煉，完成試煉任務可獲得原石、大英雄的經驗、天賦培養材料等獎勵。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916074511369.jpg"><br/><br/>活動期間，旅行者可以使用指定的試用角色編隊並挑戰6個不同主題的試煉，完成試煉任務可獲得原石、大英雄的經驗、天賦培養材料等獎勵。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12885">「迷城戰線」玩法說明</a>]]></content:encoded>
-      <guid isPermaLink="false">12885</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:13 +0000</lastBuildDate>
     <item>
       <title>帳號安全相關通知</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/12904</link>
@@ -784,6 +776,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611103037289.jpg"><br/><br/>全力奔跑的國度，已成須臾之影。也許唯有定格此刻，才可永存稻光…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15700">劇情預告-「許以臣民之夢」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">15700</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「月中王國」玩法說明</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15748</link>
+      <description>稻妻漁師「鯨井椛」一直在追逐著傳說中名為「海中月」的大魚，她打算召集昔日的好友，並邀請旅行者一同加入追月之旅。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090811014986892.jpg"><br/><br/>稻妻漁師「鯨井椛」一直在追逐著傳說中名為「海中月」的大魚，她打算召集昔日的好友，並邀請旅行者一同加入追月之旅。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15748">「月中王國」玩法說明</a>]]></content:encoded>
+      <guid isPermaLink="false">15748</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

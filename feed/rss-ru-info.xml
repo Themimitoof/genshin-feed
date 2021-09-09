@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 09 Sep 2021 02:22:51 +0000</lastBuildDate>
-    <item>
-      <title>Событие «Поймай меня, если сможешь»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13041</link>
-      <description>Привет, Путешественники! Событие «Поймай меня, если сможешь» вот-вот начнётся!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052516594218044.jpg"><br/><br/>Привет, Путешественники! Событие «Поймай меня, если сможешь» вот-вот начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13041">Событие «Поймай меня, если сможешь»</a>]]></content:encoded>
-      <guid isPermaLink="false">13041</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Sep 2021 03:09:46 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact | Версия 1.6 - Лето! Остров? Приключение!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13124</link>
@@ -812,6 +804,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610451410166.jpg"><br/><br/>Страна, мчавшаяся вперёд, превратилась в мимолётную тень. Может, если остановить мгновение, её сияние продлится вечно...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15683">Тизер «Обещанная мечта» | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15683</guid>
       <pubDate>Mon, 06 Sep 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Лунное королевство»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15746</link>
+      <description>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810540270397.jpg"><br/><br/>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15746">Описание события «Лунное королевство»</a>]]></content:encoded>
+      <guid isPermaLink="false">15746</guid>
+      <pubDate>Thu, 09 Sep 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
