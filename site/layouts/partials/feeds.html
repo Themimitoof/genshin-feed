@@ -20,7 +20,7 @@
           <li class="my-4">
             <a
               class="text-blue-500 hover:underline"
-              href="{{ .Site.Params.BaseUrl }}/feed/{{ $feed.type}}-{{ $lang }}-{{ $category }}.xml"
+              href="{{ trim $.Site.BaseURL "/" }}/feed/{{ $feed.type}}-{{ $lang }}-{{ $category }}.xml"
               target="_blank"
             >
               {{ if eq $feed.type "rss"}} {{ $feed.type | upper }} {{ else }} {{

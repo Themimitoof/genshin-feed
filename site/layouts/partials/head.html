@@ -14,17 +14,20 @@
 <meta property="og:title" content="{{ .Site.Title }}: {{ site.Params.seo.homeAppendTitle }}" />
 {{- else -}}
 <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
-{{- end -}}
+{{ end }}
 <meta property="og:site_name" content="Genshin Feed" />
 <meta property="og:description" content="{{ .Site.Params.seo.description }}" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="{{ .Site.Params.BaseUrl }}" />
-<meta property="og:image" content="{{ .Site.Params.BaseUrl }}/img/og-genshin-feed.jpg" />
+<meta property="og:url" content="{{ .Site.BaseURL }}" />
+<meta property="og:image" content="{{ trim .Site.BaseURL "/" }}/img/og-genshin-feed.jpg" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@themimitoof">
 
+<!-- RSS/Atom auto-discovery -->
+{{ partial "meta-feeds" . }}
+
 <!-- Favicon -->
-<link rel="shortcut icon" href="{{ .Site.Params.BaseUrl }}/favicon.png" type="image/png" />
+<link rel="shortcut icon" href="{{ trim .Site.BaseURL "/" }}/favicon.png" type="image/png" />
 
 <!-- Stylesheets -->
 <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
