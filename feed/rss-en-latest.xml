@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:32 +0000</lastBuildDate>
-    <item>
-      <title>May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12952</link>
-      <description>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-Special Message: May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052123460641631.png"><br/><br/>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-Special Message: May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12952">May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</a>]]></content:encoded>
-      <guid isPermaLink="false">12952</guid>
-      <pubDate>Mon, 24 May 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:15 +0000</lastBuildDate>
     <item>
       <title>"Mimi Tomo" Gameplay Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13043</link>
@@ -911,6 +901,14 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810495655485.jpg"><br/><br/>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15743">"Lunar Realm" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">15743</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15785</link>
+      <description>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017340139230.png"><br/><br/>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15785">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15785</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

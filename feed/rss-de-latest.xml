@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:39 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zur Spielweise von „Fang mich doch“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13046</link>
-      <description>Hallo, Reisender! Die Aktion „Fang mich doch“ beginnt in Kürze!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052518191882255.jpg"><br/><br/>Hallo, Reisender! Die Aktion „Fang mich doch“ beginnt in Kürze!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13046">Erläuterungen zur Spielweise von „Fang mich doch“</a>]]></content:encoded>
-      <guid isPermaLink="false">13046</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:30 +0000</lastBuildDate>
     <item>
       <title>Vorschauvideo zu Version 1.6 von Genshin Impact: „Sommer! Inseln? Abenteuer!“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13127</link>
@@ -835,6 +827,14 @@ Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090811071684590.jpg"><br/><br/>Die Inazuma-Fischerin Kujirai Momiji wollte schon immer einen legendären großen Fisch namens „Mond-Leviathan“ fangen. Sie plant, alle ihre alten Freunde zu versammeln und sich auf die Reise zu machen, um ihn zu finden, und sie lädt dich ein, dich ihr anzuschließen ... Kann ihr Traum diesmal endlich in Erfüllung gehen?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15749">Erläuterungen zur Spielweise von „Mondreich“</a>]]></content:encoded>
       <guid isPermaLink="false">15749</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Online-Konzert von Genshin Impact 2021 – Melodien einer endlosen Reise (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15793</link>
+      <description>Genshin Impact und eine Popmusikgruppe aus Südkorea treten zusammen auf, um euch einen weiteren Vorschaufilm für das Online-Konzert mit einer einzigartigen neuen Adaption der Musik zu bringen.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017335572287.png"><br/><br/>Genshin Impact und eine Popmusikgruppe aus Südkorea treten zusammen auf, um euch einen weiteren Vorschaufilm für das Online-Konzert mit einer einzigartigen neuen Adaption der Musik zu bringen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15793">Online-Konzert von Genshin Impact 2021 – Melodien einer endlosen Reise (Teaser 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15793</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

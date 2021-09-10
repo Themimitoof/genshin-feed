@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:38 +0000</lastBuildDate>
-    <item>
-      <title>帳號安全相關通知</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/12904</link>
-      <description>我們已於5月17日 18:00 (UTC+8) 上線了基於綁定電子郵件信箱及手機號碼的裝置安全驗證功能。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011054514097.png"><br/><br/>我們已於5月17日 18:00 (UTC+8) 上線了基於綁定電子郵件信箱及手機號碼的裝置安全驗證功能。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12904">帳號安全相關通知</a>]]></content:encoded>
-      <guid isPermaLink="false">12904</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:27 +0000</lastBuildDate>
     <item>
       <title>05.24——開發團隊座談會——洞天負荷、壺靈對話改善？get√！</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/12951</link>
@@ -784,6 +776,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090811014986892.jpg"><br/><br/>稻妻漁師「鯨井椛」一直在追逐著傳說中名為「海中月」的大魚，她打算召集昔日的好友，並邀請旅行者一同加入追月之旅。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15748">「月中王國」玩法說明</a>]]></content:encoded>
       <guid isPermaLink="false">15748</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>《原神》2021 線上音樂會-無盡旅程的旋律（第二支預告）</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15797</link>
+      <description>《原神》與來自韓國的流行音樂團隊聯袂獻藝，用別具一格的全新改編形式為旅行者們帶來另一支線上音樂會預告影片。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017383128205.png"><br/><br/>《原神》與來自韓國的流行音樂團隊聯袂獻藝，用別具一格的全新改編形式為旅行者們帶來另一支線上音樂會預告影片。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15797">《原神》2021 線上音樂會-無盡旅程的旋律（第二支預告）</a>]]></content:encoded>
+      <guid isPermaLink="false">15797</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:33 +0000</lastBuildDate>
-    <item>
-      <title>"Battlefront: Misty Dungeon" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12888</link>
-      <description>During the event, Travelers may assemble a team with the specific trial characters provided and challenge six trials of different themes. Complete the trial quests to obtain rewards such as Primogems, Hero's Wit, and Talent Level-Up Materials.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051916115723584.jpg"><br/><br/>During the event, Travelers may assemble a team with the specific trial characters provided and challenge six trials of different themes. Complete the trial quests to obtain rewards such as Primogems, Hero's Wit, and Talent Level-Up Materials.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12888">"Battlefront: Misty Dungeon" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">12888</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:18 +0000</lastBuildDate>
     <item>
       <title>Notice About Account Security</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12901</link>
@@ -913,6 +905,14 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810495655485.jpg"><br/><br/>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15743">"Lunar Realm" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">15743</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15785</link>
+      <description>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017340139230.png"><br/><br/>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15785">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15785</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

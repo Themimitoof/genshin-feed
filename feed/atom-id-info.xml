@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-09-10T09:08:43.760598+00:00</updated>
+  <updated>2021-09-10T10:09:38.504700+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13034</id>
-    <title>Cara Bermain "Mimi Tomo"</title>
-    <updated>2021-05-26T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052515493968894.jpg"><br/><br/>Hai Traveler semua! Event "Mimi Tomo" sudah mau dimulai loh!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13034">Cara Bermain "Mimi Tomo"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13034" rel="alternate"/>
-    <summary>Hai Traveler semua! Event "Mimi Tomo" sudah mau dimulai loh!</summary>
-    <published>2021-05-26T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>13132</id>
     <title>Trailer Versi 1.6 "Petualangan Pulau Musim Panas" | Genshin Impact</title>
@@ -909,5 +900,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15745" rel="alternate"/>
     <summary>Seorang nelayan perempuan Inazuma yang bernama Kujirai Momiji, selalu bermimpi untuk bisa memancing seekor ikan besar legendaris yang bernama "Lunar Leviathan". </summary>
     <published>2021-09-09T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15801</id>
+    <title>KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</title>
+    <updated>2021-09-10T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017414362578.png"><br/><br/>Di teaser konser kali ini, Genshin Impact dan grup musik pop Korea Selatan bersama-sama membawakan pertunjukan musik yang tiada duanya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15801">KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15801" rel="alternate"/>
+    <summary>Di teaser konser kali ini, Genshin Impact dan grup musik pop Korea Selatan bersama-sama membawakan pertunjukan musik yang tiada duanya.</summary>
+    <published>2021-09-10T18:00:00+07:00</published>
   </entry>
 </feed>

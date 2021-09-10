@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-09-10T09:08:38.414231+00:00</updated>
+  <updated>2021-09-10T10:09:27.043442+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>12904</id>
-    <title>帳號安全相關通知</title>
-    <updated>2021-05-20T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011054514097.png"><br/><br/>我們已於5月17日 18:00 (UTC+8) 上線了基於綁定電子郵件信箱及手機號碼的裝置安全驗證功能。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12904">帳號安全相關通知</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12904" rel="alternate"/>
-    <summary>我們已於5月17日 18:00 (UTC+8) 上線了基於綁定電子郵件信箱及手機號碼的裝置安全驗證功能。</summary>
-    <published>2021-05-20T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>12951</id>
     <title>05.24——開發團隊座談會——洞天負荷、壺靈對話改善？get√！</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15748" rel="alternate"/>
     <summary>稻妻漁師「鯨井椛」一直在追逐著傳說中名為「海中月」的大魚，她打算召集昔日的好友，並邀請旅行者一同加入追月之旅。</summary>
     <published>2021-09-09T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15797</id>
+    <title>《原神》2021 線上音樂會-無盡旅程的旋律（第二支預告）</title>
+    <updated>2021-09-10T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017383128205.png"><br/><br/>《原神》與來自韓國的流行音樂團隊聯袂獻藝，用別具一格的全新改編形式為旅行者們帶來另一支線上音樂會預告影片。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15797">《原神》2021 線上音樂會-無盡旅程的旋律（第二支預告）</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15797" rel="alternate"/>
+    <summary>《原神》與來自韓國的流行音樂團隊聯袂獻藝，用別具一格的全新改編形式為旅行者們帶來另一支線上音樂會預告影片。</summary>
+    <published>2021-09-10T18:00:00+08:00</published>
   </entry>
 </feed>

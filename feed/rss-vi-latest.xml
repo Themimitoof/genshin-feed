@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:54 +0000</lastBuildDate>
-    <item>
-      <title>Hướng dẫn "Không Vào Hang Cọp Sao Bắt Được Cọp Con"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/13047</link>
-      <description>Chào buổi sáng Nhà Lữ Hành! Sự kiện "Không Vào Hang Cọp Sao Bắt Được Cọp Con" sắp bắt đầu rồi!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052518233556763.jpg"><br/><br/>Chào buổi sáng Nhà Lữ Hành! Sự kiện "Không Vào Hang Cọp Sao Bắt Được Cọp Con" sắp bắt đầu rồi!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13047">Hướng dẫn "Không Vào Hang Cọp Sao Bắt Được Cọp Con"</a>]]></content:encoded>
-      <guid isPermaLink="false">13047</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:10:01 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] Video giới thiệu phiên bản 1.6: "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/13131</link>
@@ -834,6 +826,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090816531682334.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15763">Hướng Dẫn Cách Chơi "Vương Quốc Ánh Trăng"</a>]]></description>
       <guid isPermaLink="false">15763</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>HÒA NHẠC GENSHIN 2021 - Giai Điệu Hành Trình Bất Tận (Teaser II)</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15783</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017345687009.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15783">HÒA NHẠC GENSHIN 2021 - Giai Điệu Hành Trình Bất Tận (Teaser II)</a>]]></description>
+      <guid isPermaLink="false">15783</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

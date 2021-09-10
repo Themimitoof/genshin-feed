@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-09-10T09:08:43.315208+00:00</updated>
+  <updated>2021-09-10T10:09:37.309588+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -241,15 +241,6 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>12805</id>
-    <title>Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</title>
-    <updated>2021-05-16T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051612593377755.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12805">Gachapón «Encarnación divina»: ¡Probabilidad de obtención aumentada para Oda de los Pinos y Aquila Favonia!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12805" rel="alternate"/>
-    <summary>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
-    <published>2021-05-16T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>12806</id>
@@ -1142,13 +1133,13 @@
     <published>2021-09-09T10:30:00+02:00</published>
   </entry>
   <entry>
-    <id>12973</id>
-    <title>Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</title>
-    <updated>2021-05-24T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052410234277274.png"><br/><br/>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12973">Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/12973" rel="alternate"/>
-    <summary>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!</summary>
-    <published>2021-05-24T10:30:00+02:00</published>
+    <id>15789</id>
+    <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</title>
+    <updated>2021-09-10T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017334648817.png"><br/><br/>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15789">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15789" rel="alternate"/>
+    <summary>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.</summary>
+    <published>2021-09-10T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>13059</id>
@@ -2039,5 +2030,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15747" rel="alternate"/>
     <summary>Kujirai Momiji, una pescadora de Inazuma, siempre ha querido atrapar a un gran pez legendario llamado "leviatán lunar". Ahora está planeando reunir a todos sus amigos e invitarte a que te unas a ellos. ¿Podrá hacer su deseo realidad?</summary>
     <published>2021-09-09T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15789</id>
+    <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</title>
+    <updated>2021-09-10T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017334648817.png"><br/><br/>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15789">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15789" rel="alternate"/>
+    <summary>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.</summary>
+    <published>2021-09-10T18:00:00+02:00</published>
   </entry>
 </feed>

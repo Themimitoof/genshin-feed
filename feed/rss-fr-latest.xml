@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:35 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement : « Mimi tomo »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13061</link>
-      <description>Il semble qu'un « Brutocollinus étrange » ait été récemment aperçu dans la nature en compagnie de ses semblables. Catherine de la Guilde des aventuriers vous a chargé d'enquêter sur cette mystérieuse créature. Avec l'aide d'Ella Musk, spécialiste des Brutocollinus, vous avez pour mission de trouver des Brutocollinus avec lesquels communiquer et de leur soutirer des informations sur les déplacements de ce Brutocollinus étrange.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052611040237447.jpg"><br/><br/>Il semble qu'un « Brutocollinus étrange » ait été récemment aperçu dans la nature en compagnie de ses semblables. Catherine de la Guilde des aventuriers vous a chargé d'enquêter sur cette mystérieuse créature. Avec l'aide d'Ella Musk, spécialiste des Brutocollinus, vous avez pour mission de trouver des Brutocollinus avec lesquels communiquer et de leur soutirer des informations sur les déplacements de ce Brutocollinus étrange.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13061">Détails de l'événement : « Mimi tomo »</a>]]></content:encoded>
-      <guid isPermaLink="false">13061</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:21 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13138</link>
@@ -843,6 +835,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819265467136.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15766">Détails de l'événement « Royaume lunaire »</a>]]></description>
       <guid isPermaLink="false">15766</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15799</link>
+      <description>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017341162220.png"><br/><br/>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15799">GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15799</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-09-10T09:08:48.930867+00:00</updated>
+  <updated>2021-09-10T10:09:46.865047+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13126</id>
-    <title>&lt;원신&gt; 1.6 버전 PV - 「여름! 섬? 모험!」</title>
-    <updated>2021-05-28T20:46:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818450061424.jpg"><br/><br/>﻿한 여름날, 창가에 수수께끼의 편지 하나가 놓여있고 머나먼 곳에선 미지의 안개가 감돌고 있다.
-파도 소리를 따라 찾아간 끝에 만난 것은 넘실대는 불꽃과 하늘 위의 도망치는 태양이었다.
-「가장 좋은 친구」를 위해 「대모험」을 위해, 가장 어린 기사가 출동을 준비한다 - 출발~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13126"><원신> 1.6 버전 PV - 「여름! 섬? 모험!」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13126" rel="alternate"/>
-    <summary>﻿한 여름날, 창가에 수수께끼의 편지 하나가 놓여있고 머나먼 곳에선 미지의 안개가 감돌고 있다.
-파도 소리를 따라 찾아간 끝에 만난 것은 넘실대는 불꽃과 하늘 위의 도망치는 태양이었다.
-「가장 좋은 친구」를 위해 「대모험」을 위해, 가장 어린 기사가 출동을 준비한다 - 출발~!</summary>
-    <published>2021-05-28T20:46:00+09:00</published>
-  </entry>
   <entry>
     <id>13171</id>
     <title>1.6 버전 「속세의 주전자」 시스템 업데이트 속보: 「초대」</title>
@@ -982,5 +969,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/15767" rel="alternate"/>
     <summary>이나즈마의 낚시꾼 「쿠지라이 모미지」는 줄곧 전설의 대어인 「해중월」을 찾아다니고 있다. 그녀는 옛 친구들을 소집하려 하고 여행자도 초대하여 함께 달을 쫓는 여행을 하려 한다. 그녀는 과연 자신의 염원을 이룰 수 있을까?</summary>
     <published>2021-09-09T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15795</id>
+    <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 2)</title>
+    <updated>2021-09-10T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017420166140.png"><br/><br/>지금 바로 원신 온라인 콘서트 두 번째 티저 영상을 감상해보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15795">원신 콘서트 2021 - Melodies of an Endless Journey (티저 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15795" rel="alternate"/>
+    <summary>지금 바로 원신 온라인 콘서트 두 번째 티저 영상을 감상해보세요</summary>
+    <published>2021-09-10T18:01:00+09:00</published>
   </entry>
 </feed>

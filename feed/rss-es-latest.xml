@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:41 +0000</lastBuildDate>
-    <item>
-      <title>Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12973</link>
-      <description>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052410234277274.png"><br/><br/>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12973">Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</a>]]></content:encoded>
-      <guid isPermaLink="false">12973</guid>
-      <pubDate>Mon, 24 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:34 +0000</lastBuildDate>
     <item>
       <title>Detalles del evento «Mimi tomo»</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13059</link>
@@ -800,6 +792,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810550718625.jpg"><br/><br/>Kujirai Momiji, una pescadora de Inazuma, siempre ha querido atrapar a un gran pez legendario llamado "leviatán lunar". Ahora está planeando reunir a todos sus amigos e invitarte a que te unas a ellos. ¿Podrá hacer su deseo realidad?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15747">Modo de juego del evento «Reino Lunar»</a>]]></content:encoded>
       <guid isPermaLink="false">15747</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15789</link>
+      <description>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017334648817.png"><br/><br/>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15789">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</a>]]></content:encoded>
+      <guid isPermaLink="false">15789</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

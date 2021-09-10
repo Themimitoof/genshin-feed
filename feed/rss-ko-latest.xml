@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:48 +0000</lastBuildDate>
-    <item>
-      <title>1.6 신규 버전 「여름! 섬? 모험!」사전 공개 페이지 오픈!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13201</link>
-      <description>﻿신규 버전 오픈, 새로운 맵과 새로운 수수께끼, 시원한 여름 코스튬, 함께 바다에서의 모험을 즐겨보세요!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311291483731.jpg"><br/><br/>﻿신규 버전 오픈, 새로운 맵과 새로운 수수께끼, 시원한 여름 코스튬, 함께 바다에서의 모험을 즐겨보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13201">1.6 신규 버전 「여름! 섬? 모험!」사전 공개 페이지 오픈!</a>]]></content:encoded>
-      <guid isPermaLink="false">13201</guid>
-      <pubDate>Thu, 03 Jun 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:45 +0000</lastBuildDate>
     <item>
       <title>「여름! 섬? 모험!」 1.6 버전 업데이트 공지</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13269</link>
@@ -876,6 +868,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819274030121.jpg"><br/><br/>이나즈마의 낚시꾼 「쿠지라이 모미지」는 줄곧 전설의 대어인 「해중월」을 찾아다니고 있다. 그녀는 옛 친구들을 소집하려 하고 여행자도 초대하여 함께 달을 쫓는 여행을 하려 한다. 그녀는 과연 자신의 염원을 이룰 수 있을까?<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15767">「달의 왕국」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">15767</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 2)</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/15795</link>
+      <description>지금 바로 원신 온라인 콘서트 두 번째 티저 영상을 감상해보세요</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017420166140.png"><br/><br/>지금 바로 원신 온라인 콘서트 두 번째 티저 영상을 감상해보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15795">원신 콘서트 2021 - Melodies of an Endless Journey (티저 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15795</guid>
+      <pubDate>Fri, 10 Sep 2021 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

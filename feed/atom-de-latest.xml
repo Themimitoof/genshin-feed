@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-09-10T09:08:39.438017+00:00</updated>
+  <updated>2021-09-10T10:09:30.242890+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>13046</id>
-    <title>Erläuterungen zur Spielweise von „Fang mich doch“</title>
-    <updated>2021-05-26T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052518191882255.jpg"><br/><br/>Hallo, Reisender! Die Aktion „Fang mich doch“ beginnt in Kürze!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13046">Erläuterungen zur Spielweise von „Fang mich doch“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13046" rel="alternate"/>
-    <summary>Hallo, Reisender! Die Aktion „Fang mich doch“ beginnt in Kürze!</summary>
-    <published>2021-05-26T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>13127</id>
     <title>Vorschauvideo zu Version 1.6 von Genshin Impact: „Sommer! Inseln? Abenteuer!“</title>
@@ -935,5 +926,14 @@ Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missi
     <link href="https://genshin.mihoyo.com/de/news/detail/15749" rel="alternate"/>
     <summary>Die Inazuma-Fischerin Kujirai Momiji wollte schon immer einen legendären großen Fisch namens „Mond-Leviathan“ fangen. Sie plant, alle ihre alten Freunde zu versammeln und sich auf die Reise zu machen, um ihn zu finden, und sie lädt dich ein, dich ihr anzuschließen ... Kann ihr Traum diesmal endlich in Erfüllung gehen?</summary>
     <published>2021-09-09T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15793</id>
+    <title>Online-Konzert von Genshin Impact 2021 – Melodien einer endlosen Reise (Teaser 2)</title>
+    <updated>2021-09-10T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017335572287.png"><br/><br/>Genshin Impact und eine Popmusikgruppe aus Südkorea treten zusammen auf, um euch einen weiteren Vorschaufilm für das Online-Konzert mit einer einzigartigen neuen Adaption der Musik zu bringen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15793">Online-Konzert von Genshin Impact 2021 – Melodien einer endlosen Reise (Teaser 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15793" rel="alternate"/>
+    <summary>Genshin Impact und eine Popmusikgruppe aus Südkorea treten zusammen auf, um euch einen weiteren Vorschaufilm für das Online-Konzert mit einer einzigartigen neuen Adaption der Musik zu bringen.</summary>
+    <published>2021-09-10T18:00:00+02:00</published>
   </entry>
 </feed>

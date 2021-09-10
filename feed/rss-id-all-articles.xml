@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:41 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -215,14 +215,6 @@
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Cara Bermain "Mimi Tomo"</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/13034</link>
-      <description>Hai Traveler semua! Event "Mimi Tomo" sudah mau dimulai loh!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052515493968894.jpg"><br/><br/>Hai Traveler semua! Event "Mimi Tomo" sudah mau dimulai loh!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13034">Cara Bermain "Mimi Tomo"</a>]]></content:encoded>
-      <guid isPermaLink="false">13034</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0700</pubDate>
-    </item>
-    <item>
       <title>Trailer Versi 1.6 "Petualangan Pulau Musim Panas" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/id/news/detail/13132</link>
       <description>Di tengah musim panas yang terik...</description>
@@ -1016,12 +1008,12 @@ ada embusan angin pantai yang menyejukkan...<br><br>Read more on <a href="https:
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
     </item>
     <item>
-      <title>Trailer Versi 1.6 "Petualangan Pulau Musim Panas" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/13132</link>
-      <description>Di tengah musim panas yang terik...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818530018863.jpg"><br/><br/>Di tengah musim panas yang terik...<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13132">Trailer Versi 1.6 "Petualangan Pulau Musim Panas" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13132</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0700</pubDate>
+      <title>KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/15801</link>
+      <description>Di teaser konser kali ini, Genshin Impact dan grup musik pop Korea Selatan bersama-sama membawakan pertunjukan musik yang tiada duanya.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017414362578.png"><br/><br/>Di teaser konser kali ini, Genshin Impact dan grup musik pop Korea Selatan bersama-sama membawakan pertunjukan musik yang tiada duanya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15801">KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15801</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Preview Update Sistem "Serenitea Pot" v1.6: Fitur Rekan yang Menetap</title>
@@ -1815,6 +1807,14 @@ ada embusan angin pantai yang menyejukkan...<br><br>Read more on <a href="https:
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810520184294.jpg"><br/><br/>Seorang nelayan perempuan Inazuma yang bernama Kujirai Momiji, selalu bermimpi untuk bisa memancing seekor ikan besar legendaris yang bernama "Lunar Leviathan". <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15745">Cara Bermain "Kerajaan Bulan"</a>]]></content:encoded>
       <guid isPermaLink="false">15745</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/15801</link>
+      <description>Di teaser konser kali ini, Genshin Impact dan grup musik pop Korea Selatan bersama-sama membawakan pertunjukan musik yang tiada duanya.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017414362578.png"><br/><br/>Di teaser konser kali ini, Genshin Impact dan grup musik pop Korea Selatan bersama-sama membawakan pertunjukan musik yang tiada duanya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15801">KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15801</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

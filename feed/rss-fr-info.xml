@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Sep 2021 09:08:36 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement : « Ligne de front : cité perdue »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12884</link>
-      <description>Pendant l'événement, assemblez une équipe avec les personnages disponibles à l'essai et affrontez six épreuves thématiques différentes. Accomplissez-les pour obtenir des primo-gemmes, des leçons du héros, des matériaux d'amélioration d'aptitude et d'autres récompenses !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051915541722962.jpg"><br/><br/>Pendant l'événement, assemblez une équipe avec les personnages disponibles à l'essai et affrontez six épreuves thématiques différentes. Accomplissez-les pour obtenir des primo-gemmes, des leçons du héros, des matériaux d'amélioration d'aptitude et d'autres récompenses !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12884">Détails de l'événement : « Ligne de front : cité perdue »</a>]]></content:encoded>
-      <guid isPermaLink="false">12884</guid>
-      <pubDate>Thu, 20 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Sep 2021 10:09:22 +0000</lastBuildDate>
     <item>
       <title>Avis sur la sécurité de votre compte</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/12909</link>
@@ -844,6 +836,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819265467136.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15766">Détails de l'événement « Royaume lunaire »</a>]]></description>
       <guid isPermaLink="false">15766</guid>
       <pubDate>Thu, 09 Sep 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15799</link>
+      <description>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017341162220.png"><br/><br/>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15799">GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</a>]]></content:encoded>
+      <guid isPermaLink="false">15799</guid>
+      <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

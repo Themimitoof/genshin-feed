@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-09-10T09:08:51.593784+00:00</updated>
+  <updated>2021-09-10T10:09:53.923900+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13193</id>
-    <title>Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</title>
-    <updated>2021-06-03T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311204623561.jpg"><br/><br/>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13193">Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13193" rel="alternate"/>
-    <summary>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!</summary>
-    <published>2021-06-03T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>13272</id>
     <title>Об обновлении 1.6 «Лето! Остров? Приключение!»</title>
@@ -912,5 +903,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15746" rel="alternate"/>
     <summary>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?</summary>
     <published>2021-09-09T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15784</id>
+    <title>Концерт Genshin 2021 - Melodies of an Endless Journey (Teaser 2)</title>
+    <updated>2021-09-10T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017365229968.png"><br/><br/>Genshin Impact в сотрудничестве с поп-группой из Южной Кореи представляют Путешественникам уникальное выступление в этом новом превью онлайн-концерта.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15784">Концерт Genshin 2021 - Melodies of an Endless Journey (Teaser 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15784" rel="alternate"/>
+    <summary>Genshin Impact в сотрудничестве с поп-группой из Южной Кореи представляют Путешественникам уникальное выступление в этом новом превью онлайн-концерта.</summary>
+    <published>2021-09-10T18:00:00+03:00</published>
   </entry>
 </feed>
