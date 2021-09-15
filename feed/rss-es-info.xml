@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 15 Sep 2021 03:09:25 +0000</lastBuildDate>
-    <item>
-      <title>Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12806</link>
-      <description>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210516/2021051613062340499.png"><br/><br/>Hoy Paimon está de vuelta con la información más reciente de los eventos de esta versión.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12806">Nuevos eventos de la versión 1.5 «A la luz de la jadeíta» (parte 2)</a>]]></content:encoded>
-      <guid isPermaLink="false">12806</guid>
-      <pubDate>Sun, 16 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12836</link>
-      <description>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210517/2021051710574011726.jpg"><br/><br/>Con la danza de la traición, una descendiente indomable se liberó de las cadenas de hielo.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12836">Demo de nuevo personaje de Genshin Impact - Eula: el resplandor del candelabro</a>]]></content:encoded>
-      <guid isPermaLink="false">12836</guid>
-      <pubDate>Mon, 17 May 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Sep 2021 04:11:24 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Eula: el surgimiento del hielo</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12875</link>
@@ -800,6 +784,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017334648817.png"><br/><br/>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15789">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</a>]]></content:encoded>
       <guid isPermaLink="false">15789</guid>
       <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Sangonomiya Kokomi: Voluntad del océano</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15831</link>
+      <description>Como heredera del linaje de Sangonomiya, está destinada a escuchar los deseos de los habitantes de la Isla Watatsumi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417132319266.png"><br/><br/>Como heredera del linaje de Sangonomiya, está destinada a escuchar los deseos de los habitantes de la Isla Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15831">Avance de la trama de Genshin Impact - Sangonomiya Kokomi: Voluntad del océano</a>]]></content:encoded>
+      <guid isPermaLink="false">15831</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Para superar las adversidades, hay que prepararse para ellas". - Sangonomiya Kokomi, "la Perla de la Sabiduría"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15843</link>
+      <description>¡Hola, viajeros! El personaje que les presentaremos hoy es Sangonomiya Kokomi, la Sacerdotisa Divina de la Isla Watatsumi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417330945311.jpg"><br/><br/>¡Hola, viajeros! El personaje que les presentaremos hoy es Sangonomiya Kokomi, la Sacerdotisa Divina de la Isla Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15843">"Para superar las adversidades, hay que prepararse para ellas". - Sangonomiya Kokomi, "la Perla de la Sabiduría"</a>]]></content:encoded>
+      <guid isPermaLink="false">15843</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

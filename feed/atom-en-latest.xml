@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-09-15T03:09:13.533179+00:00</updated>
+  <updated>2021-09-15T04:11:00.054644+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13043</id>
-    <title>"Mimi Tomo" Gameplay Details</title>
-    <updated>2021-05-26T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052517293642311.jpg"><br/><br/>Hey there, Travelers~ The Mimi Tomo event is about to begin!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13043">"Mimi Tomo" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13043" rel="alternate"/>
-    <summary>Hey there, Travelers~ The Mimi Tomo event is about to begin!</summary>
-    <published>2021-05-26T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>13120</id>
-    <title>Version 1.6 "Midsummer Island Adventure" Trailer | Genshin Impact</title>
-    <updated>2021-05-28T20:45:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818300793888.jpg"><br/><br/>In the sweltering summer, a strange letter is discovered on the windowsill, with a spiraling fog shrouding a mystery far away.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13120">Version 1.6 "Midsummer Island Adventure" Trailer | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13120" rel="alternate"/>
-    <summary>In the sweltering summer, a strange letter is discovered on the windowsill, with a spiraling fog shrouding a mystery far away.</summary>
-    <published>2021-05-28T20:45:00-04:00</published>
-  </entry>
   <entry>
     <id>13167</id>
     <title>Version 1.6 Update to the Serenitea Pot System: Companion Move-In Feature</title>
@@ -1009,5 +991,25 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.</summa
     <link href="https://genshin.mihoyo.com/en/news/detail/15785" rel="alternate"/>
     <summary>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.</summary>
     <published>2021-09-10T18:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15814</id>
+    <title>"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</title>
+    <updated>2021-09-15T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410361294116.jpg"><br/><br/>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15814">"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15814" rel="alternate"/>
+    <summary>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.</summary>
+    <published>2021-09-15T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15824</id>
+    <title>Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</title>
+    <updated>2021-09-15T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417075555479.png"><br/><br/>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
+Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15824">Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15824" rel="alternate"/>
+    <summary>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
+Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.</summary>
+    <published>2021-09-15T12:00:00-04:00</published>
   </entry>
 </feed>

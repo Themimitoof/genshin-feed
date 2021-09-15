@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-09-15T03:09:38.092278+00:00</updated>
+  <updated>2021-09-15T04:11:50.023936+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13164</id>
-    <title>Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</title>
-    <updated>2021-06-02T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210601/2021060117051482174.jpg"><br/><br/>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13164">Новое в Чайнике безмятежности версии 1.6: заселение компаньонов</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13164" rel="alternate"/>
-    <summary>Здравствуйте, Путешественники! В Чайнике безмятежности версии 1.6 будет добавлено заселение компаньонов. Сегодня мы подробно расскажем о ней.</summary>
-    <published>2021-06-02T10:30:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13193</id>
-    <title>Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</title>
-    <updated>2021-06-03T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311204623561.jpg"><br/><br/>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13193">Превью-страница версии 1.6 «Лето! Остров? Приключение!» уже открыта!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13193" rel="alternate"/>
-    <summary>Новая версия, новая область, новые головоломки и новые летние костюмы ждут вас. Присоединяйтесь к нам, чтобы отправиться в морское путешествие!</summary>
-    <published>2021-06-03T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>13272</id>
     <title>Об обновлении 1.6 «Лето! Остров? Приключение!»</title>
@@ -913,5 +895,23 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15784" rel="alternate"/>
     <summary>Genshin Impact в сотрудничестве с поп-группой из Южной Кореи представляют Путешественникам уникальное выступление в этом новом превью онлайн-концерта.</summary>
     <published>2021-09-10T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15816</id>
+    <title>«Хорошая подготовка помогает справиться с кризисом», - «Жемчужина мудрости» Сангономия Кокоми.</title>
+    <updated>2021-09-15T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410441830470.jpg"><br/><br/>Привет, Путешественники! Сегодня мы расскажем о новом персонаже, Сангономии Кокоми. Божественной Жрице острова Ватацуми.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15816">«Хорошая подготовка помогает справиться с кризисом», - «Жемчужина мудрости» Сангономия Кокоми.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15816" rel="alternate"/>
+    <summary>Привет, Путешественники! Сегодня мы расскажем о новом персонаже, Сангономии Кокоми. Божественной Жрице острова Ватацуми.</summary>
+    <published>2021-09-15T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15840</id>
+    <title>«Океан воли» Сангономия Кокоми - Истории персонажей | Genshin Impact</title>
+    <updated>2021-09-15T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417283960038.png"><br/><br/>Как наследница Сангономии, она должна прислушиваться к пожеланиям жителей Ватацуми.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15840">«Океан воли» Сангономия Кокоми - Истории персонажей | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15840" rel="alternate"/>
+    <summary>Как наследница Сангономии, она должна прислушиваться к пожеланиям жителей Ватацуми.</summary>
+    <published>2021-09-15T12:00:00+03:00</published>
   </entry>
 </feed>

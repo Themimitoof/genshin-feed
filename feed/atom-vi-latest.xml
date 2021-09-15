@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-09-15T03:09:42.671196+00:00</updated>
+  <updated>2021-09-15T04:11:58.627131+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>13131</id>
-    <title>[Genshin Impact] Video giới thiệu phiên bản 1.6: "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</title>
-    <updated>2021-05-28T20:45:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818504764569.jpg"><br/><br/>Ngày hè nóng bức, trên bệ cửa sổ bỗng xuất hiện một bức thư thần bí, màn sương mù mờ ảo bao phủ phía đằng xa.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13131">[Genshin Impact] Video giới thiệu phiên bản 1.6: "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13131" rel="alternate"/>
-    <summary>Ngày hè nóng bức, trên bệ cửa sổ bỗng xuất hiện một bức thư thần bí, màn sương mù mờ ảo bao phủ phía đằng xa.</summary>
-    <published>2021-05-28T20:45:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13199</id>
-    <title>Trang xem trước phiên bản mới 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!" đã mở!</title>
-    <updated>2021-06-03T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311251228737.jpg"><br/><br/>Phiên bản mới sắp ra mắt, bản đồ mới, bí ẩn mới, thời trang mùa hè xinh xắn, hãy mau tới tham gia cuộc mạo hiểm trên đảo nào!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13199">Trang xem trước phiên bản mới 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!" đã mở!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13199" rel="alternate"/>
-    <summary>Phiên bản mới sắp ra mắt, bản đồ mới, bí ẩn mới, thời trang mùa hè xinh xắn, hãy mau tới tham gia cuộc mạo hiểm trên đảo nào!</summary>
-    <published>2021-06-03T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>13248</id>
     <title>Thông báo cập nhật phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</title>
@@ -937,5 +919,22 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/15783" rel="alternate"/>
     <summary/>
     <published>2021-09-10T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15822</id>
+    <title>"Lo trước tính sau thì khi lâm nguy mới không hoảng loạn." - Trí Tuệ Trân Châu - Sangonomiya Kokomi</title>
+    <updated>2021-09-15T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091416143774023.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15822">"Lo trước tính sau thì khi lâm nguy mới không hoảng loạn." - Trí Tuệ Trân Châu - Sangonomiya Kokomi</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15822" rel="alternate"/>
+    <summary/>
+    <published>2021-09-15T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15839</id>
+    <title>[Genshin Impact] Video nhân vật Sangonomiya Kokomi - Ý Nguyện Biển Xanh</title>
+    <updated>2021-09-15T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417235073237.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15839">[Genshin Impact] Video nhân vật Sangonomiya Kokomi - Ý Nguyện Biển Xanh</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15839" rel="alternate"/>
+    <published>2021-09-15T12:00:00+07:00</published>
   </entry>
 </feed>

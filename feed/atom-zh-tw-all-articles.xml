@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-09-15T03:09:21.652168+00:00</updated>
+  <updated>2021-09-15T04:11:16.528251+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -235,23 +235,6 @@
     <published>2021-02-01T10:00:00+08:00</published>
   </entry>
   <entry>
-    <id>12951</id>
-    <title>05.24——開發團隊座談會——洞天負荷、壺靈對話改善？get√！</title>
-    <updated>2021-05-24T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052123062618714.png"><br/><br/>今天派蒙帶著開發團隊座談會來啦~╰(*°▽°*)╯<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/12951">05.24——開發團隊座談會——洞天負荷、壺靈對話改善？get√！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/12951" rel="alternate"/>
-    <summary>今天派蒙帶著開發團隊座談會來啦~╰(*°▽°*)╯</summary>
-    <published>2021-05-24T10:30:00+08:00</published>
-  </entry>
-  <entry>
-    <id>13042</id>
-    <title>「折箭覓蹤」玩法說明</title>
-    <updated>2021-05-26T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052517064850731.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13042">「折箭覓蹤」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13042" rel="alternate"/>
-    <published>2021-05-26T10:30:00+08:00</published>
-  </entry>
-  <entry>
     <id>13136</id>
     <title>1.6版本預告：「盛夏！海島？大冒險！」｜原神</title>
     <updated>2021-05-28T20:45:00+08:00</updated>
@@ -1115,20 +1098,22 @@
     <published>2021-09-10T18:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13042</id>
-    <title>「折箭覓蹤」玩法說明</title>
-    <updated>2021-05-26T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052517064850731.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13042">「折箭覓蹤」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13042" rel="alternate"/>
-    <published>2021-05-26T10:30:00+08:00</published>
+    <id>15818</id>
+    <title>「未雨綢繆，才能臨危不亂。」——「真珠之智」·珊瑚宮心海</title>
+    <updated>2021-09-15T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410552386287.jpg"><br/><br/>旅行者們好，今天將為大家介紹的主角是珊瑚宮心海，海祇島的「現人神巫女」。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15818">「未雨綢繆，才能臨危不亂。」——「真珠之智」·珊瑚宮心海</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15818" rel="alternate"/>
+    <summary>旅行者們好，今天將為大家介紹的主角是珊瑚宮心海，海祇島的「現人神巫女」。</summary>
+    <published>2021-09-15T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13136</id>
-    <title>1.6版本預告：「盛夏！海島？大冒險！」｜原神</title>
-    <updated>2021-05-28T20:45:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052819090049355.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13136">1.6版本預告：「盛夏！海島？大冒險！」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13136" rel="alternate"/>
-    <published>2021-05-28T20:45:00+08:00</published>
+    <id>15835</id>
+    <title>珊瑚宮心海角色預告——「滄海一意」｜原神</title>
+    <updated>2021-09-15T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417212450921.png"><br/><br/>繼承了珊瑚宮血脈的少女，命中註定需要傾聽海祇島住民的願望。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15835">珊瑚宮心海角色預告——「滄海一意」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15835" rel="alternate"/>
+    <summary>繼承了珊瑚宮血脈的少女，命中註定需要傾聽海祇島住民的願望。</summary>
+    <published>2021-09-15T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>13162</id>
@@ -1993,5 +1978,23 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15797" rel="alternate"/>
     <summary>《原神》與來自韓國的流行音樂團隊聯袂獻藝，用別具一格的全新改編形式為旅行者們帶來另一支線上音樂會預告影片。</summary>
     <published>2021-09-10T18:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15818</id>
+    <title>「未雨綢繆，才能臨危不亂。」——「真珠之智」·珊瑚宮心海</title>
+    <updated>2021-09-15T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410552386287.jpg"><br/><br/>旅行者們好，今天將為大家介紹的主角是珊瑚宮心海，海祇島的「現人神巫女」。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15818">「未雨綢繆，才能臨危不亂。」——「真珠之智」·珊瑚宮心海</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15818" rel="alternate"/>
+    <summary>旅行者們好，今天將為大家介紹的主角是珊瑚宮心海，海祇島的「現人神巫女」。</summary>
+    <published>2021-09-15T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15835</id>
+    <title>珊瑚宮心海角色預告——「滄海一意」｜原神</title>
+    <updated>2021-09-15T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417212450921.png"><br/><br/>繼承了珊瑚宮血脈的少女，命中註定需要傾聽海祇島住民的願望。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15835">珊瑚宮心海角色預告——「滄海一意」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15835" rel="alternate"/>
+    <summary>繼承了珊瑚宮血脈的少女，命中註定需要傾聽海祇島住民的願望。</summary>
+    <published>2021-09-15T12:00:00+08:00</published>
   </entry>
 </feed>

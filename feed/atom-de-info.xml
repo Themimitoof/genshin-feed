@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-09-15T03:09:22.428352+00:00</updated>
+  <updated>2021-09-15T04:11:18.351302+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>13127</id>
-    <title>Vorschauvideo zu Version 1.6 von Genshin Impact: „Sommer! Inseln? Abenteuer!“</title>
-    <updated>2021-05-28T20:45:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818465690897.jpg"><br/><br/>An einem schwülen Sommertag wird ein mysteriöser Brief auf der Fensterbank gefunden, während in der Ferne ein geheimnisvoller Nebel aufzieht.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13127">Vorschauvideo zu Version 1.6 von Genshin Impact: „Sommer! Inseln? Abenteuer!“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13127" rel="alternate"/>
-    <summary>An einem schwülen Sommertag wird ein mysteriöser Brief auf der Fensterbank gefunden, während in der Ferne ein geheimnisvoller Nebel aufzieht.</summary>
-    <published>2021-05-28T20:45:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13196</id>
-    <title>Vorstellungsseite zu Version 1.6 „Sommer! Inseln? Abenteuer!“ jetzt verfügbar!</title>
-    <updated>2021-06-03T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311234499496.jpg"><br/><br/>Die neue Version ist bald da, mit neuen Gebieten, neuen Rätseln und sommerlicher Kleidung! Komm und erlebe ein tolles Inselabenteuer!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13196">Vorstellungsseite zu Version 1.6 „Sommer! Inseln? Abenteuer!“ jetzt verfügbar!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13196" rel="alternate"/>
-    <summary>Die neue Version ist bald da, mit neuen Gebieten, neuen Rätseln und sommerlicher Kleidung! Komm und erlebe ein tolles Inselabenteuer!</summary>
-    <published>2021-06-03T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13238</id>
     <title>Mitteilung zur Aktualisierung auf Version 1.6 „Sommer! Inseln? Abenteuer!“</title>
@@ -935,5 +917,25 @@ Begleite die zurückgekehrten und neuen Abenteurer bei der Ausführung von Missi
     <link href="https://genshin.mihoyo.com/de/news/detail/15793" rel="alternate"/>
     <summary>Genshin Impact und eine Popmusikgruppe aus Südkorea treten zusammen auf, um euch einen weiteren Vorschaufilm für das Online-Konzert mit einer einzigartigen neuen Adaption der Musik zu bringen.</summary>
     <published>2021-09-10T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15815</id>
+    <title>„Um zu überleben, muss man auf alles gefasst sein.“ – „Perle der Weisheit“ Sangonomiya Kokomi</title>
+    <updated>2021-09-15T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410415659358.jpg"><br/><br/>Hallo, Reisender! Heute stellen wir dir Sangonomiya Kokomi, die göttliche Priesterin von Watatsumi, vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15815">„Um zu überleben, muss man auf alles gefasst sein.“ – „Perle der Weisheit“ Sangonomiya Kokomi</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15815" rel="alternate"/>
+    <summary>Hallo, Reisender! Heute stellen wir dir Sangonomiya Kokomi, die göttliche Priesterin von Watatsumi, vor.</summary>
+    <published>2021-09-15T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15828</id>
+    <title>Figurenvorschau von Genshin Impact für Sangonomiya Kokomi – „Wille des Meeres“</title>
+    <updated>2021-09-15T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417120975130.png"><br/><br/>Als Erbe von Sangonomiya trägt sie die Verantwortung, die Wünsche der Bewohner von Watatsumi zu erfüllen.
+Wie sich die Situation im Kampf stark verändern kann, so können auch die Herzen der Menschen sich ändern. Angesichts dessen weiß Kokomi, dass sie einen langen Weg vor sich hat.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15828">Figurenvorschau von Genshin Impact für Sangonomiya Kokomi – „Wille des Meeres“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15828" rel="alternate"/>
+    <summary>Als Erbe von Sangonomiya trägt sie die Verantwortung, die Wünsche der Bewohner von Watatsumi zu erfüllen.
+Wie sich die Situation im Kampf stark verändern kann, so können auch die Herzen der Menschen sich ändern. Angesichts dessen weiß Kokomi, dass sie einen langen Weg vor sich hat.</summary>
+    <published>2021-09-15T12:00:00+02:00</published>
   </entry>
 </feed>

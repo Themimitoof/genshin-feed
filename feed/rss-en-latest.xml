@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Sep 2021 03:09:13 +0000</lastBuildDate>
-    <item>
-      <title>"Mimi Tomo" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13043</link>
-      <description>Hey there, Travelers~ The Mimi Tomo event is about to begin!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052517293642311.jpg"><br/><br/>Hey there, Travelers~ The Mimi Tomo event is about to begin!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13043">"Mimi Tomo" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">13043</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Version 1.6 "Midsummer Island Adventure" Trailer | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13120</link>
-      <description>In the sweltering summer, a strange letter is discovered on the windowsill, with a spiraling fog shrouding a mystery far away.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052818300793888.jpg"><br/><br/>In the sweltering summer, a strange letter is discovered on the windowsill, with a spiraling fog shrouding a mystery far away.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13120">Version 1.6 "Midsummer Island Adventure" Trailer | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13120</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Sep 2021 04:11:00 +0000</lastBuildDate>
     <item>
       <title>Version 1.6 Update to the Serenitea Pot System: Companion Move-In Feature</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13167</link>
@@ -909,6 +893,24 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017340139230.png"><br/><br/>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15785">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</a>]]></content:encoded>
       <guid isPermaLink="false">15785</guid>
       <pubDate>Fri, 10 Sep 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15814</link>
+      <description>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410361294116.jpg"><br/><br/>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15814">"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</a>]]></content:encoded>
+      <guid isPermaLink="false">15814</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15824</link>
+      <description>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
+Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417075555479.png"><br/><br/>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
+Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15824">Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15824</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

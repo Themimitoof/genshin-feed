@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-09-15T03:09:19.021203+00:00</updated>
+  <updated>2021-09-15T04:11:11.874412+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -245,24 +245,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <published>2020-12-20T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>12909</id>
-    <title>Avis sur la sécurité de votre compte</title>
-    <updated>2021-05-20T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011121638301.png"><br/><br/>Pour renforcer davantage la sécurité de vos comptes, nous allons mettre en place une nouvelle fonctionnalité de vérification de sécurité via l'association de votre adresse e-mail et de votre numéro de portable. Voici un récapitulatif des questions les plus fréquentes concernant cette nouvelle fonctionnalité.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12909">Avis sur la sécurité de votre compte</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/12909" rel="alternate"/>
-    <summary>Pour renforcer davantage la sécurité de vos comptes, nous allons mettre en place une nouvelle fonctionnalité de vérification de sécurité via l'association de votre adresse e-mail et de votre numéro de portable. Voici un récapitulatif des questions les plus fréquentes concernant cette nouvelle fonctionnalité.</summary>
-    <published>2021-05-20T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13061</id>
-    <title>Détails de l'événement : « Mimi tomo »</title>
-    <updated>2021-05-26T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052611040237447.jpg"><br/><br/>Il semble qu'un « Brutocollinus étrange » ait été récemment aperçu dans la nature en compagnie de ses semblables. Catherine de la Guilde des aventuriers vous a chargé d'enquêter sur cette mystérieuse créature. Avec l'aide d'Ella Musk, spécialiste des Brutocollinus, vous avez pour mission de trouver des Brutocollinus avec lesquels communiquer et de leur soutirer des informations sur les déplacements de ce Brutocollinus étrange.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13061">Détails de l'événement : « Mimi tomo »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13061" rel="alternate"/>
-    <summary>Il semble qu'un « Brutocollinus étrange » ait été récemment aperçu dans la nature en compagnie de ses semblables. Catherine de la Guilde des aventuriers vous a chargé d'enquêter sur cette mystérieuse créature. Avec l'aide d'Ella Musk, spécialiste des Brutocollinus, vous avez pour mission de trouver des Brutocollinus avec lesquels communiquer et de leur soutirer des informations sur les déplacements de ce Brutocollinus étrange.</summary>
-    <published>2021-05-26T10:30:00+02:00</published>
-  </entry>
-  <entry>
     <id>13138</id>
     <title>Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</title>
     <updated>2021-05-28T20:45:00+02:00</updated>
@@ -1184,22 +1166,21 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-09-10T18:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13138</id>
-    <title>Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</title>
-    <updated>2021-05-28T20:45:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052820364384629.jpg"><br/><br/>Dans la chaleur de l'été, une mystérieuse lettre est retrouvée sur le rebord d'une fenêtre, alors qu'un étrange brouillard tournoie au loin.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13138">Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13138" rel="alternate"/>
-    <summary>Dans la chaleur de l'été, une mystérieuse lettre est retrouvée sur le rebord d'une fenêtre, alors qu'un étrange brouillard tournoie au loin.</summary>
-    <published>2021-05-28T20:45:00+02:00</published>
+    <id>15829</id>
+    <title>Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</title>
+    <updated>2021-09-15T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417123186656.png"><br/><br/>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15829">Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15829" rel="alternate"/>
+    <summary>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.</summary>
+    <published>2021-09-15T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13160</id>
-    <title>Mise à jour du système la Sérénithéière (version 1.6) : Séjour de compagnons</title>
-    <updated>2021-06-02T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210601/2021060116320838181.jpg"><br/><br/>Une nouvelle fonctionnalité sera ajoutée à la Sérénithéière : le séjour de compagnons. Nous allons donc vous la présenter aujourd'hui ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13160">Mise à jour du système la Sérénithéière (version 1.6) : Séjour de compagnons</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13160" rel="alternate"/>
-    <summary>Une nouvelle fonctionnalité sera ajoutée à la Sérénithéière : le séjour de compagnons. Nous allons donc vous la présenter aujourd'hui ~</summary>
-    <published>2021-06-02T10:30:00+02:00</published>
+    <id>15842</id>
+    <title>« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</title>
+    <updated>2021-09-15T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417311394529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15842">« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15842" rel="alternate"/>
+    <published>2021-09-15T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>13206</id>
@@ -2120,5 +2101,22 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/15799" rel="alternate"/>
     <summary>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.</summary>
     <published>2021-09-10T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15829</id>
+    <title>Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</title>
+    <updated>2021-09-15T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417123186656.png"><br/><br/>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15829">Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15829" rel="alternate"/>
+    <summary>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.</summary>
+    <published>2021-09-15T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15842</id>
+    <title>« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</title>
+    <updated>2021-09-15T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417311394529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15842">« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15842" rel="alternate"/>
+    <published>2021-09-15T12:00:00+02:00</published>
   </entry>
 </feed>

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 15 Sep 2021 03:09:17 +0000</lastBuildDate>
-    <item>
-      <title>Avis sur la sécurité de votre compte</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/12909</link>
-      <description>Pour renforcer davantage la sécurité de vos comptes, nous allons mettre en place une nouvelle fonctionnalité de vérification de sécurité via l'association de votre adresse e-mail et de votre numéro de portable. Voici un récapitulatif des questions les plus fréquentes concernant cette nouvelle fonctionnalité.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011121638301.png"><br/><br/>Pour renforcer davantage la sécurité de vos comptes, nous allons mettre en place une nouvelle fonctionnalité de vérification de sécurité via l'association de votre adresse e-mail et de votre numéro de portable. Voici un récapitulatif des questions les plus fréquentes concernant cette nouvelle fonctionnalité.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/12909">Avis sur la sécurité de votre compte</a>]]></content:encoded>
-      <guid isPermaLink="false">12909</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Détails de l'événement : « Mimi tomo »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13061</link>
-      <description>Il semble qu'un « Brutocollinus étrange » ait été récemment aperçu dans la nature en compagnie de ses semblables. Catherine de la Guilde des aventuriers vous a chargé d'enquêter sur cette mystérieuse créature. Avec l'aide d'Ella Musk, spécialiste des Brutocollinus, vous avez pour mission de trouver des Brutocollinus avec lesquels communiquer et de leur soutirer des informations sur les déplacements de ce Brutocollinus étrange.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052611040237447.jpg"><br/><br/>Il semble qu'un « Brutocollinus étrange » ait été récemment aperçu dans la nature en compagnie de ses semblables. Catherine de la Guilde des aventuriers vous a chargé d'enquêter sur cette mystérieuse créature. Avec l'aide d'Ella Musk, spécialiste des Brutocollinus, vous avez pour mission de trouver des Brutocollinus avec lesquels communiquer et de leur soutirer des informations sur les déplacements de ce Brutocollinus étrange.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13061">Détails de l'événement : « Mimi tomo »</a>]]></content:encoded>
-      <guid isPermaLink="false">13061</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Sep 2021 04:11:07 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13138</link>
@@ -844,6 +828,21 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017341162220.png"><br/><br/>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15799">GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</a>]]></content:encoded>
       <guid isPermaLink="false">15799</guid>
       <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15829</link>
+      <description>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417123186656.png"><br/><br/>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15829">Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</a>]]></content:encoded>
+      <guid isPermaLink="false">15829</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15842</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417311394529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15842">« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</a>]]></description>
+      <guid isPermaLink="false">15842</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-09-15T03:09:40.035495+00:00</updated>
+  <updated>2021-09-15T04:11:54.048967+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>13200</id>
-    <title>หน้าตัวอย่างการอัปเดตเวอร์ชัน 1.6 "ซัมเมอร์หรรษากับเกาะมหัศจรรย์" เปิดแล้ว!</title>
-    <updated>2021-06-03T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311285168414.jpg"><br/><br/>เวอร์ชันใหม่กำลังจะมาถึงแล้ว แผนที่ใหม่ปริศนาใหม่ สกินหน้าร้อนแสนสดใส มาร่วมผจญภัยบนเกาะด้วยกันเถอะ!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/13200">หน้าตัวอย่างการอัปเดตเวอร์ชัน 1.6 "ซัมเมอร์หรรษากับเกาะมหัศจรรย์" เปิดแล้ว!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/13200" rel="alternate"/>
-    <summary>เวอร์ชันใหม่กำลังจะมาถึงแล้ว แผนที่ใหม่ปริศนาใหม่ สกินหน้าร้อนแสนสดใส มาร่วมผจญภัยบนเกาะด้วยกันเถอะ!</summary>
-    <published>2021-06-03T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13279</id>
-    <title>แจ้งการอัปเดตเวอร์ชัน 1.6 "ซัมเมอร์หรรษากับเกาะมหัศจรรย์"</title>
-    <updated>2021-06-07T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710252921349.jpg"><br/><br/>เพื่อมอบประสบการณ์การเล่นเกมที่ดียิ่งขึ้นให้แก่นักเดินทาง <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/13279">แจ้งการอัปเดตเวอร์ชัน 1.6 "ซัมเมอร์หรรษากับเกาะมหัศจรรย์"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/13279" rel="alternate"/>
-    <summary>เพื่อมอบประสบการณ์การเล่นเกมที่ดียิ่งขึ้นให้แก่นักเดินทาง </summary>
-    <published>2021-06-07T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>13281</id>
     <title>ฟังก์ชันดาวน์โหลดล่วงหน้าเปิดแล้ว</title>
@@ -893,5 +875,22 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/15781" rel="alternate"/>
     <summary/>
     <published>2021-09-10T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15823</id>
+    <title>"จงเตรียมตัวไว้ให้พร้อมล่วงหน้า ถึงจะเอาตัวรอดจากอันตรายได้" - "ไข่มุกแห่งปัญญา - Sangonomiya Kokomi"</title>
+    <updated>2021-09-15T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417051141987.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15823">"จงเตรียมตัวไว้ให้พร้อมล่วงหน้า ถึงจะเอาตัวรอดจากอันตรายได้" - "ไข่มุกแห่งปัญญา - Sangonomiya Kokomi"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15823" rel="alternate"/>
+    <summary/>
+    <published>2021-09-15T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15834</id>
+    <title> [Genshin Impact] ธีมวิดีโอตัวละคร Sangonomiya Kokomi - "ความปรารถนาในห้วงสมุทร"</title>
+    <updated>2021-09-15T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417204847651.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15834"> [Genshin Impact] ธีมวิดีโอตัวละคร Sangonomiya Kokomi - "ความปรารถนาในห้วงสมุทร"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/15834" rel="alternate"/>
+    <published>2021-09-15T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,27 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Sep 2021 03:09:14 +0000</lastBuildDate>
-    <item>
-      <title>Notice About Account Security</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12901</link>
-      <description>We place great importance on Travelers' account security. To improve account security further, we recently released a new device verification function based on email and mobile linking. This function went live on May 17, 18:00 (UTC+8).
-We received a great deal of feedback today about this new function. Having collated and reviewed Travelers' queries, we would like to present a summary of our responses here.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210520/2021052011014259128.png"><br/><br/>We place great importance on Travelers' account security. To improve account security further, we recently released a new device verification function based on email and mobile linking. This function went live on May 17, 18:00 (UTC+8).
-We received a great deal of feedback today about this new function. Having collated and reviewed Travelers' queries, we would like to present a summary of our responses here.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12901">Notice About Account Security</a>]]></content:encoded>
-      <guid isPermaLink="false">12901</guid>
-      <pubDate>Thu, 20 May 2021 12:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/12952</link>
-      <description>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-Special Message: May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052123460641631.png"><br/><br/>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-Special Message: May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12952">May 24 Developers Discussion — Serenitea Pot Load Optimization... Let's Go!</a>]]></content:encoded>
-      <guid isPermaLink="false">12952</guid>
-      <pubDate>Mon, 24 May 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Sep 2021 04:11:02 +0000</lastBuildDate>
     <item>
       <title>"Mimi Tomo" Gameplay Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13043</link>
@@ -913,6 +893,24 @@ Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017340139230.png"><br/><br/>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15785">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</a>]]></content:encoded>
       <guid isPermaLink="false">15785</guid>
       <pubDate>Fri, 10 Sep 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15814</link>
+      <description>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410361294116.jpg"><br/><br/>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15814">"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</a>]]></content:encoded>
+      <guid isPermaLink="false">15814</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15824</link>
+      <description>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
+Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417075555479.png"><br/><br/>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
+Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15824">Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15824</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

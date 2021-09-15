@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 15 Sep 2021 03:09:16 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13138</link>
-      <description>Dans la chaleur de l'été, une mystérieuse lettre est retrouvée sur le rebord d'une fenêtre, alors qu'un étrange brouillard tournoie au loin.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052820364384629.jpg"><br/><br/>Dans la chaleur de l'été, une mystérieuse lettre est retrouvée sur le rebord d'une fenêtre, alors qu'un étrange brouillard tournoie au loin.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13138">Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</a>]]></content:encoded>
-      <guid isPermaLink="false">13138</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mise à jour du système la Sérénithéière (version 1.6) : Séjour de compagnons</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13160</link>
-      <description>Une nouvelle fonctionnalité sera ajoutée à la Sérénithéière : le séjour de compagnons. Nous allons donc vous la présenter aujourd'hui ~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210601/2021060116320838181.jpg"><br/><br/>Une nouvelle fonctionnalité sera ajoutée à la Sérénithéière : le séjour de compagnons. Nous allons donc vous la présenter aujourd'hui ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13160">Mise à jour du système la Sérénithéière (version 1.6) : Séjour de compagnons</a>]]></content:encoded>
-      <guid isPermaLink="false">13160</guid>
-      <pubDate>Wed, 02 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Sep 2021 04:11:06 +0000</lastBuildDate>
     <item>
       <title>L'aperçu de la version 1.6 « Odyssée estivale dans les îles » est disponible !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13206</link>
@@ -843,6 +827,21 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017341162220.png"><br/><br/>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15799">GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</a>]]></content:encoded>
       <guid isPermaLink="false">15799</guid>
       <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15829</link>
+      <description>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417123186656.png"><br/><br/>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15829">Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</a>]]></content:encoded>
+      <guid isPermaLink="false">15829</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15842</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417311394529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15842">« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</a>]]></description>
+      <guid isPermaLink="false">15842</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

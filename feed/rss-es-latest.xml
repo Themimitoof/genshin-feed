@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 15 Sep 2021 03:09:24 +0000</lastBuildDate>
-    <item>
-      <title>Detalles del evento «Mimi tomo»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13059</link>
-      <description>Se dice que recientemente un Hilichurl Extraño ha sido visto en compañía de los Hilichurls normales. Katheryne del Gremio de Aventureros te ha pedido que la ayudes a investigar este asunto. Tendrás que buscar Hiluchurls con los que poder comunicarte junto a la especialista en hilichurlio Ella Musk, ¡y así poder averiguar el paradero del Hilichurl Extraño!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052610254012067.jpg"><br/><br/>Se dice que recientemente un Hilichurl Extraño ha sido visto en compañía de los Hilichurls normales. Katheryne del Gremio de Aventureros te ha pedido que la ayudes a investigar este asunto. Tendrás que buscar Hiluchurls con los que poder comunicarte junto a la especialista en hilichurlio Ella Musk, ¡y así poder averiguar el paradero del Hilichurl Extraño!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13059">Detalles del evento «Mimi tomo»</a>]]></content:encoded>
-      <guid isPermaLink="false">13059</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Avance de la versión 1.6 de Genshin Impact: ¡Verano, islas, aventuras!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13140</link>
-      <description>En pleno verano, una misteriosa carta fue encontrada en el alféizar de una ventana. Mientras, en un lugar remoto, se conformaba una espiral de niebla desconocida...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052820575288053.jpg"><br/><br/>En pleno verano, una misteriosa carta fue encontrada en el alféizar de una ventana. Mientras, en un lugar remoto, se conformaba una espiral de niebla desconocida...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13140">Avance de la versión 1.6 de Genshin Impact: ¡Verano, islas, aventuras!</a>]]></content:encoded>
-      <guid isPermaLink="false">13140</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Sep 2021 04:11:22 +0000</lastBuildDate>
     <item>
       <title>Nuevo sistema de la versión 1.6 «Relajatetera»: visitas al mundo interior</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13172</link>
@@ -800,6 +784,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017334648817.png"><br/><br/>Genshin Impact y un grupo de música pop surcoreano se unen para ofrecer un espectáculo único en este avance del concierto en línea.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15789">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) (Tráiler II)</a>]]></content:encoded>
       <guid isPermaLink="false">15789</guid>
       <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Sangonomiya Kokomi: Voluntad del océano</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15831</link>
+      <description>Como heredera del linaje de Sangonomiya, está destinada a escuchar los deseos de los habitantes de la Isla Watatsumi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417132319266.png"><br/><br/>Como heredera del linaje de Sangonomiya, está destinada a escuchar los deseos de los habitantes de la Isla Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15831">Avance de la trama de Genshin Impact - Sangonomiya Kokomi: Voluntad del océano</a>]]></content:encoded>
+      <guid isPermaLink="false">15831</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Para superar las adversidades, hay que prepararse para ellas". - Sangonomiya Kokomi, "la Perla de la Sabiduría"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15843</link>
+      <description>¡Hola, viajeros! El personaje que les presentaremos hoy es Sangonomiya Kokomi, la Sacerdotisa Divina de la Isla Watatsumi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417330945311.jpg"><br/><br/>¡Hola, viajeros! El personaje que les presentaremos hoy es Sangonomiya Kokomi, la Sacerdotisa Divina de la Isla Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15843">"Para superar las adversidades, hay que prepararse para ellas". - Sangonomiya Kokomi, "la Perla de la Sabiduría"</a>]]></content:encoded>
+      <guid isPermaLink="false">15843</guid>
+      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
