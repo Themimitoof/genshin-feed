@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 16 Sep 2021 03:09:15 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Eula: el surgimiento del hielo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/12875</link>
-      <description>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051816195489472.jpg"><br/><br/>De un océano de hielo, surge una imponente y repentina ola. Con el choque de una espada, llega el estallido de esa ola, la cual lanza un golpe frío y penetrante que elimina las innumerables amenazas en Mondstadt.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/12875">Genshin Impact - Eula: el surgimiento del hielo</a>]]></content:encoded>
-      <guid isPermaLink="false">12875</guid>
-      <pubDate>Tue, 18 May 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Sep 2021 04:11:04 +0000</lastBuildDate>
     <item>
       <title>Charla con los desarrolladores (24 de mayo) - Optimizaciones de carga del mundo interior y espíritu de la tetera. ¡Que no te las cuenten!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/12973</link>
@@ -800,6 +792,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417330945311.jpg"><br/><br/>¡Hola, viajeros! El personaje que les presentaremos hoy es Sangonomiya Kokomi, la Sacerdotisa Divina de la Isla Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15843">"Para superar las adversidades, hay que prepararse para ellas". - Sangonomiya Kokomi, "la Perla de la Sabiduría"</a>]]></content:encoded>
       <guid isPermaLink="false">15843</guid>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Video conmemorativo del 1er aniversario de aventuras en Teyvat: Un año de grandes aventuras</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/15875</link>
+      <description>Durante este último año, avanzamos sin descanso, cruzamos ríos y montañas, escuchamos la melodía de la naturaleza...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515332241870.jpg"><br/><br/>Durante este último año, avanzamos sin descanso, cruzamos ríos y montañas, escuchamos la melodía de la naturaleza...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15875">Video conmemorativo del 1er aniversario de aventuras en Teyvat: Un año de grandes aventuras</a>]]></content:encoded>
+      <guid isPermaLink="false">15875</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

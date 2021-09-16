@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-09-16T03:09:30.271253+00:00</updated>
+  <updated>2021-09-16T04:11:40.146359+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -250,15 +250,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13272</id>
-    <title>Об обновлении 1.6 «Лето! Остров? Приключение!»</title>
-    <updated>2021-06-07T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060709411212795.jpg"><br/><br/>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13272">Об обновлении 1.6 «Лето! Остров? Приключение!»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13272" rel="alternate"/>
-    <summary>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</summary>
-    <published>2021-06-07T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>13276</id>
@@ -1157,13 +1148,13 @@
     <published>2021-09-15T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>13282</id>
-    <title>Событие «Эхо легенд»: примите участие и получите костюм Барбары «Летний блеск»</title>
-    <updated>2021-06-07T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710370280978.png"><br/><br/>В период события соберите определённое количество раковин эха, чтобы получить костюм Барбары «Летний блеск», Камни Истока и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13282">Событие «Эхо легенд»: примите участие и получите костюм Барбары «Летний блеск»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13282" rel="alternate"/>
-    <summary>В период события соберите определённое количество раковин эха, чтобы получить костюм Барбары «Летний блеск», Камни Истока и другие награды.</summary>
-    <published>2021-06-07T12:00:00+03:00</published>
+    <id>15880</id>
+    <title>Genshin Impact | Памятное видео о приключениях в Тейвате: письмо годовщины путешествий</title>
+    <updated>2021-09-16T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515351297056.jpg"><br/><br/>Мы продолжаем наш путь, преодолеваем горы и реки, слушаем пение птиц.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15880">Genshin Impact | Памятное видео о приключениях в Тейвате: письмо годовщины путешествий</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15880" rel="alternate"/>
+    <summary>Мы продолжаем наш путь, преодолеваем горы и реки, слушаем пение птиц.</summary>
+    <published>2021-09-16T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>13284</id>
@@ -2059,5 +2050,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15840" rel="alternate"/>
     <summary>Как наследница Сангономии, она должна прислушиваться к пожеланиям жителей Ватацуми.</summary>
     <published>2021-09-15T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15880</id>
+    <title>Genshin Impact | Памятное видео о приключениях в Тейвате: письмо годовщины путешествий</title>
+    <updated>2021-09-16T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515351297056.jpg"><br/><br/>Мы продолжаем наш путь, преодолеваем горы и реки, слушаем пение птиц.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15880">Genshin Impact | Памятное видео о приключениях в Тейвате: письмо годовщины путешествий</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15880" rel="alternate"/>
+    <summary>Мы продолжаем наш путь, преодолеваем горы и реки, слушаем пение птиц.</summary>
+    <published>2021-09-16T12:00:00+03:00</published>
   </entry>
 </feed>

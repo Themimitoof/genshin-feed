@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 16 Sep 2021 03:09:07 +0000</lastBuildDate>
-    <item>
-      <title>L'aperçu de la version 1.6 « Odyssée estivale dans les îles » est disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13206</link>
-      <description>La nouvelle version sera bientôt disponible ! De nombreuses nouveautés vous attendent : une nouvelle zone à explorer, de nouvelles énigmes et des tenues d'été. Rejoignez vite l'odyssée estivale !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060312350553833.jpg"><br/><br/>La nouvelle version sera bientôt disponible ! De nombreuses nouveautés vous attendent : une nouvelle zone à explorer, de nouvelles énigmes et des tenues d'été. Rejoignez vite l'odyssée estivale !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13206">L'aperçu de la version 1.6 « Odyssée estivale dans les îles » est disponible !</a>]]></content:encoded>
-      <guid isPermaLink="false">13206</guid>
-      <pubDate>Thu, 03 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Sep 2021 04:10:45 +0000</lastBuildDate>
     <item>
       <title>Notification de la mise à jour de version 1.6 « Odyssée estivale dans les îles »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13293</link>
@@ -842,6 +834,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417311394529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15842">« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</a>]]></description>
       <guid isPermaLink="false">15842</guid>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15901</link>
+      <description>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518181732431.jpg"><br/><br/>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15901">Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</a>]]></content:encoded>
+      <guid isPermaLink="false">15901</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

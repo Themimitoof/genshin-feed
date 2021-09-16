@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-09-16T03:09:07.121509+00:00</updated>
+  <updated>2021-09-16T04:10:45.595344+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -273,15 +273,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>13043</id>
-    <title>"Mimi Tomo" Gameplay Details</title>
-    <updated>2021-05-26T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052517293642311.jpg"><br/><br/>Hey there, Travelers~ The Mimi Tomo event is about to begin!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13043">"Mimi Tomo" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13043" rel="alternate"/>
-    <summary>Hey there, Travelers~ The Mimi Tomo event is about to begin!</summary>
-    <published>2021-05-26T10:30:00-04:00</published>
   </entry>
   <entry>
     <id>13120</id>
@@ -1278,17 +1269,15 @@ Just as how the situation in battle can change a lot, so too can people's hearts
     <published>2021-09-15T12:00:00-04:00</published>
   </entry>
   <entry>
-    <id>13167</id>
-    <title>Version 1.6 Update to the Serenitea Pot System: Companion Move-In Feature</title>
-    <updated>2021-06-02T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210601/2021060117271750309.jpg"><br/><br/>Dear Travelers~ Version 1.6 will introduce the new Companion Move-In feature to the Serenitea Pot. Let's see how it works~
-
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13167">Version 1.6 Update to the Serenitea Pot System: Companion Move-In Feature</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13167" rel="alternate"/>
-    <summary>Dear Travelers~ Version 1.6 will introduce the new Companion Move-In feature to the Serenitea Pot. Let's see how it works~
-
-</summary>
-    <published>2021-06-02T10:30:00-04:00</published>
+    <id>15872</id>
+    <title>Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</title>
+    <updated>2021-09-16T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515320980736.jpg"><br/><br/>We have come a long way, over mountains, across seas and rivers, listening to the various songs of nature.
+As the sun and moon rise and fall, all these moments will be part of a song of adventure that will remain in our hearts forever.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15872">Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15872" rel="alternate"/>
+    <summary>We have come a long way, over mountains, across seas and rivers, listening to the various songs of nature.
+As the sun and moon rise and fall, all these moments will be part of a song of adventure that will remain in our hearts forever.</summary>
+    <published>2021-09-16T12:00:00-04:00</published>
   </entry>
   <entry>
     <id>13195</id>
@@ -2279,5 +2268,16 @@ Just as how the situation in battle can change a lot, so too can people's hearts
     <summary>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
 Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.</summary>
     <published>2021-09-15T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15872</id>
+    <title>Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</title>
+    <updated>2021-09-16T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515320980736.jpg"><br/><br/>We have come a long way, over mountains, across seas and rivers, listening to the various songs of nature.
+As the sun and moon rise and fall, all these moments will be part of a song of adventure that will remain in our hearts forever.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15872">Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15872" rel="alternate"/>
+    <summary>We have come a long way, over mountains, across seas and rivers, listening to the various songs of nature.
+As the sun and moon rise and fall, all these moments will be part of a song of adventure that will remain in our hearts forever.</summary>
+    <published>2021-09-16T12:00:00-04:00</published>
   </entry>
 </feed>

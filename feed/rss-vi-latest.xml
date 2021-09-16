@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 16 Sep 2021 03:09:32 +0000</lastBuildDate>
-    <item>
-      <title>Thông báo cập nhật phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/13248</link>
-      <description>Nhà Lữ Hành thân mến:
-Để giúp Nhà Lữ Hành có được trải nghiệm tốt hơn, sắp tới tổ chế tác sẽ tiến hành đóng server cập nhật và bảo trì. Sau khi bảo trì hoàn tất, trò chơi sẽ được cập nhật lên phiên bản mới nhất.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060512280286805.jpg"><br/><br/>Nhà Lữ Hành thân mến:
-Để giúp Nhà Lữ Hành có được trải nghiệm tốt hơn, sắp tới tổ chế tác sẽ tiến hành đóng server cập nhật và bảo trì. Sau khi bảo trì hoàn tất, trò chơi sẽ được cập nhật lên phiên bản mới nhất.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13248">Thông báo cập nhật phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</a>]]></content:encoded>
-      <guid isPermaLink="false">13248</guid>
-      <pubDate>Mon, 07 Jun 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Sep 2021 04:11:45 +0000</lastBuildDate>
     <item>
       <title>Đã Mở Tính Năng Tải Trước</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/13249</link>
@@ -831,6 +821,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417235073237.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15839">[Genshin Impact] Video nhân vật Sangonomiya Kokomi - Ý Nguyện Biển Xanh</a>]]></description>
       <guid isPermaLink="false">15839</guid>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] Video kỷ niệm cuộc mạo hiểm trên đại lục Teyvat: Thư Kỷ Niệm Một Năm Hành Trình</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/15890</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515592343539.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15890">[Genshin Impact] Video kỷ niệm cuộc mạo hiểm trên đại lục Teyvat: Thư Kỷ Niệm Một Năm Hành Trình</a>]]></description>
+      <guid isPermaLink="false">15890</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-09-16T03:09:14.891183+00:00</updated>
+  <updated>2021-09-16T04:11:02.899830+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>13172</id>
-    <title>Nuevo sistema de la versión 1.6 «Relajatetera»: visitas al mundo interior</title>
-    <updated>2021-06-02T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210602/2021060211570294057.jpg"><br/><br/>¡Hola viajeros! En la versión 1.6, la "Relajatetera" se actualizará con las visitas al mundo interior, y hoy vamos a presentarla~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13172">Nuevo sistema de la versión 1.6 «Relajatetera»: visitas al mundo interior</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13172" rel="alternate"/>
-    <summary>¡Hola viajeros! En la versión 1.6, la "Relajatetera" se actualizará con las visitas al mundo interior, y hoy vamos a presentarla~</summary>
-    <published>2021-06-02T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>13203</id>
     <title>¡Vista previa de la versión 1.6 «¡Verano, islas, aventuras!» ya disponible!</title>
@@ -907,5 +898,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15843" rel="alternate"/>
     <summary>¡Hola, viajeros! El personaje que les presentaremos hoy es Sangonomiya Kokomi, la Sacerdotisa Divina de la Isla Watatsumi.</summary>
     <published>2021-09-15T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15875</id>
+    <title>Video conmemorativo del 1er aniversario de aventuras en Teyvat: Un año de grandes aventuras</title>
+    <updated>2021-09-16T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515332241870.jpg"><br/><br/>Durante este último año, avanzamos sin descanso, cruzamos ríos y montañas, escuchamos la melodía de la naturaleza...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15875">Video conmemorativo del 1er aniversario de aventuras en Teyvat: Un año de grandes aventuras</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15875" rel="alternate"/>
+    <summary>Durante este último año, avanzamos sin descanso, cruzamos ríos y montañas, escuchamos la melodía de la naturaleza...</summary>
+    <published>2021-09-16T12:00:00+02:00</published>
   </entry>
 </feed>

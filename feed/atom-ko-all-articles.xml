@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-09-16T03:09:25.029818+00:00</updated>
+  <updated>2021-09-16T04:11:29.476805+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -293,15 +293,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>13269</id>
-    <title>「여름! 섬? 모험!」 1.6 버전 업데이트 공지</title>
-    <updated>2021-06-07T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13269">「여름! 섬? 모험!」 1.6 버전 업데이트 공지</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13269" rel="alternate"/>
-    <summary>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다.</summary>
-    <published>2021-06-07T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>13275</id>
@@ -1265,13 +1256,15 @@
     <published>2021-09-15T12:01:00+09:00</published>
   </entry>
   <entry>
-    <id>13307</id>
-    <title>「기억의 메아리」 이벤트 참여하고 바바라 코스튬 「빛나는 협주」 획득</title>
-    <updated>2021-06-07T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060712332115600.png"><br/><br/>이벤트 기간에 일정 개수의 「메아리 소라」를 수집하면 바바라 코스튬 「빛나는 협주」, 원석 등 보상을 획득할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13307">「기억의 메아리」 이벤트 참여하고 바바라 코스튬 「빛나는 협주」 획득</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13307" rel="alternate"/>
-    <summary>이벤트 기간에 일정 개수의 「메아리 소라」를 수집하면 바바라 코스튬 「빛나는 협주」, 원석 등 보상을 획득할 수 있습니다</summary>
-    <published>2021-06-07T12:00:00+09:00</published>
+    <id>15902</id>
+    <title>&lt;원신&gt; 티바트 모험 기념 영상: 여행 1주년 편지</title>
+    <updated>2021-09-16T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518212460015.jpg"><br/><br/>산과 바다를 건너 새와 벌레 소리를 들으며 걸어왔습니다.
+해와 달의 순환 속, 마음속에 영원히 남을 모험의 노래를 써보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15902"><원신> 티바트 모험 기념 영상: 여행 1주년 편지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15902" rel="alternate"/>
+    <summary>산과 바다를 건너 새와 벌레 소리를 들으며 걸어왔습니다.
+해와 달의 순환 속, 마음속에 영원히 남을 모험의 노래를 써보세요</summary>
+    <published>2021-09-16T12:01:00+09:00</published>
   </entry>
   <entry>
     <id>13308</id>
@@ -2233,5 +2226,16 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/15858" rel="alternate"/>
     <summary>산고노미야의 혈통을 물려받은 소녀는 와타츠미섬 주민들의 염원에 귀 기울여야 할 숙명을 타고났다.</summary>
     <published>2021-09-15T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15902</id>
+    <title>&lt;원신&gt; 티바트 모험 기념 영상: 여행 1주년 편지</title>
+    <updated>2021-09-16T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518212460015.jpg"><br/><br/>산과 바다를 건너 새와 벌레 소리를 들으며 걸어왔습니다.
+해와 달의 순환 속, 마음속에 영원히 남을 모험의 노래를 써보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15902"><원신> 티바트 모험 기념 영상: 여행 1주년 편지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/15902" rel="alternate"/>
+    <summary>산과 바다를 건너 새와 벌레 소리를 들으며 걸어왔습니다.
+해와 달의 순환 속, 마음속에 영원히 남을 모험의 노래를 써보세요</summary>
+    <published>2021-09-16T12:01:00+09:00</published>
   </entry>
 </feed>

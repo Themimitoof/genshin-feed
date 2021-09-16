@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-09-16T03:09:17.456302+00:00</updated>
+  <updated>2021-09-16T04:11:08.414185+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13270</id>
-    <title>Pengumuman Update v1.6 "Petualangan Pulau Musim Panas</title>
-    <updated>2021-06-07T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13270">Pengumuman Update v1.6 "Petualangan Pulau Musim Panas</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13270" rel="alternate"/>
-    <summary>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.</summary>
-    <published>2021-06-07T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>13277</id>
     <title>Fitur Pra-Unduh Telah Dibuka</title>
@@ -909,5 +900,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15844" rel="alternate"/>
     <summary>Gadis yang mewarisi darah Sangonomiya ditakdirkan untuk mendengar harapan para penduduk Watatsumi.</summary>
     <published>2021-09-15T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15894</id>
+    <title>Video Kenangan Petualangan Teyvat: Surat Anniversary Perjalanan | Genshin Impact</title>
+    <updated>2021-09-16T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091516320023913.jpg"><br/><br/>Di sepanjang perjalanan ini, kita telah melintasi gunung dan lembah, sungai dan lautan, serta mendengar kicau burung dan nyanyian alam.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15894">Video Kenangan Petualangan Teyvat: Surat Anniversary Perjalanan | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15894" rel="alternate"/>
+    <summary>Di sepanjang perjalanan ini, kita telah melintasi gunung dan lembah, sungai dan lautan, serta mendengar kicau burung dan nyanyian alam.</summary>
+    <published>2021-09-16T12:00:00+07:00</published>
   </entry>
 </feed>

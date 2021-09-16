@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Sep 2021 03:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 04:10:56 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -207,13 +207,6 @@
       <pubDate>Mon, 01 Feb 2021 10:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>1.6版本預告：「盛夏！海島？大冒險！」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/13136</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052819090049355.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13136">1.6版本預告：「盛夏！海島？大冒險！」｜原神</a>]]></description>
-      <guid isPermaLink="false">13136</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0800</pubDate>
-    </item>
-    <item>
       <title>1.6版本「塵歌壺」系統更新快報：「入駐」玩法</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/13162</link>
       <description>在1.6版本中，「塵歌壺」將會更新「入駐」玩法。今天就來為大家介紹一下吧~</description>
@@ -984,12 +977,12 @@
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>1.6版本「塵歌壺」系統更新快報：「入駐」玩法</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/13162</link>
-      <description>在1.6版本中，「塵歌壺」將會更新「入駐」玩法。今天就來為大家介紹一下吧~</description>
-      <content:encoded><![CDATA[在1.6版本中，「塵歌壺」將會更新「入駐」玩法。今天就來為大家介紹一下吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13162">1.6版本「塵歌壺」系統更新快報：「入駐」玩法</a>]]></content:encoded>
-      <guid isPermaLink="false">13162</guid>
-      <pubDate>Wed, 02 Jun 2021 10:30:00 +0800</pubDate>
+      <title>提瓦特冒險紀念影片：旅行週年手札｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15897</link>
+      <description>我們一路走來，越過山海河川，傾聽鳥語蟲鳴。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091516510375644.jpg"><br/><br/>我們一路走來，越過山海河川，傾聽鳥語蟲鳴。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15897">提瓦特冒險紀念影片：旅行週年手札｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">15897</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0800</pubDate>
     </item>
     <item>
       <title>1.6新版本「盛夏！海島？大冒險！」先行展示頁面現已上線！</title>
@@ -1760,6 +1753,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417212450921.png"><br/><br/>繼承了珊瑚宮血脈的少女，命中註定需要傾聽海祇島住民的願望。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15835">珊瑚宮心海角色預告——「滄海一意」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">15835</guid>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>提瓦特冒險紀念影片：旅行週年手札｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15897</link>
+      <description>我們一路走來，越過山海河川，傾聽鳥語蟲鳴。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091516510375644.jpg"><br/><br/>我們一路走來，越過山海河川，傾聽鳥語蟲鳴。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15897">提瓦特冒險紀念影片：旅行週年手札｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">15897</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

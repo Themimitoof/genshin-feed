@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Sep 2021 03:09:05 +0000</lastBuildDate>
-    <item>
-      <title>"Mimi Tomo" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13043</link>
-      <description>Hey there, Travelers~ The Mimi Tomo event is about to begin!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052517293642311.jpg"><br/><br/>Hey there, Travelers~ The Mimi Tomo event is about to begin!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13043">"Mimi Tomo" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">13043</guid>
-      <pubDate>Wed, 26 May 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Sep 2021 04:10:41 +0000</lastBuildDate>
     <item>
       <title>Version 1.6 "Midsummer Island Adventure" Trailer | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13120</link>
@@ -911,6 +903,16 @@ Just as how the situation in battle can change a lot, so too can people's hearts
 Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15824">Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15824</guid>
       <pubDate>Wed, 15 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15872</link>
+      <description>We have come a long way, over mountains, across seas and rivers, listening to the various songs of nature.
+As the sun and moon rise and fall, all these moments will be part of a song of adventure that will remain in our hearts forever.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515320980736.jpg"><br/><br/>We have come a long way, over mountains, across seas and rivers, listening to the various songs of nature.
+As the sun and moon rise and fall, all these moments will be part of a song of adventure that will remain in our hearts forever.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15872">Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15872</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

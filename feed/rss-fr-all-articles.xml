@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 16 Sep 2021 03:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 04:10:51 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -216,14 +216,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13138</link>
-      <description>Dans la chaleur de l'été, une mystérieuse lettre est retrouvée sur le rebord d'une fenêtre, alors qu'un étrange brouillard tournoie au loin.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210528/2021052820364384629.jpg"><br/><br/>Dans la chaleur de l'été, une mystérieuse lettre est retrouvée sur le rebord d'une fenêtre, alors qu'un étrange brouillard tournoie au loin.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13138">Genshin Impact - Bande-annonce de la version 1.6 « Odyssée estivale dans les îles »</a>]]></content:encoded>
-      <guid isPermaLink="false">13138</guid>
-      <pubDate>Fri, 28 May 2021 20:45:00 +0200</pubDate>
     </item>
     <item>
       <title>Mise à jour du système la Sérénithéière (version 1.6) : Séjour de compagnons</title>
@@ -1053,12 +1045,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>L'aperçu de la version 1.6 « Odyssée estivale dans les îles » est disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13206</link>
-      <description>La nouvelle version sera bientôt disponible ! De nombreuses nouveautés vous attendent : une nouvelle zone à explorer, de nouvelles énigmes et des tenues d'été. Rejoignez vite l'odyssée estivale !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060312350553833.jpg"><br/><br/>La nouvelle version sera bientôt disponible ! De nombreuses nouveautés vous attendent : une nouvelle zone à explorer, de nouvelles énigmes et des tenues d'été. Rejoignez vite l'odyssée estivale !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13206">L'aperçu de la version 1.6 « Odyssée estivale dans les îles » est disponible !</a>]]></content:encoded>
-      <guid isPermaLink="false">13206</guid>
-      <pubDate>Thu, 03 Jun 2021 12:00:00 +0200</pubDate>
+      <title>Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15901</link>
+      <description>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518181732431.jpg"><br/><br/>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15901">Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</a>]]></content:encoded>
+      <guid isPermaLink="false">15901</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Notification de la mise à jour de version 1.6 « Odyssée estivale dans les îles »</title>
@@ -1885,6 +1877,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417311394529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15842">« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</a>]]></description>
       <guid isPermaLink="false">15842</guid>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/15901</link>
+      <description>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518181732431.jpg"><br/><br/>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15901">Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</a>]]></content:encoded>
+      <guid isPermaLink="false">15901</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

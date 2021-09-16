@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 16 Sep 2021 03:09:25 +0000</lastBuildDate>
-    <item>
-      <title>Pré-download disponível</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/13273</link>
-      <description>Pré-Download agora disponível para PC e dispositivos móveis.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060709520297889.jpg"><br/><br/>Pré-Download agora disponível para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13273">Pré-download disponível</a>]]></content:encoded>
-      <guid isPermaLink="false">13273</guid>
-      <pubDate>Mon, 07 Jun 2021 11:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Sep 2021 04:11:29 +0000</lastBuildDate>
     <item>
       <title>Evento "Ecos Narradores": Participe para obter Vestuário de Barbara "Performance Brilhante"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/13280</link>
@@ -814,6 +806,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417105676330.png"><br/><br/>Como herdeira da linhagem Sangonomiya, ela está destinada a ter que atender aos desejos do povo da Ilha Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15826">Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15826</guid>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vídeo Comemorativo das Aventura em Teyvat: Carta de Aniversário de Viagens | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/15874</link>
+      <description>Percorremos um longo caminho, através de montanhas, mares e rios, ouvindo as várias canções da natureza.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515331487583.jpg"><br/><br/>Percorremos um longo caminho, através de montanhas, mares e rios, ouvindo as várias canções da natureza.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15874">Vídeo Comemorativo das Aventura em Teyvat: Carta de Aniversário de Viagens | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">15874</guid>
+      <pubDate>Thu, 16 Sep 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
