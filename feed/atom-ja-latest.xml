@@ -2,13 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-09-19T04:11:24.232396+00:00</updated>
+  <updated>2021-09-19T05:08:09.184682+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
+  <entry>
+    <id>11686</id>
+    <title>原神Ver.1.5アップデート記念 パイモンを探せ！キャンペーン 詳細</title>
+    <updated>2021-04-20T22:45:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041218270816416.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11686">原神Ver.1.5アップデート記念 パイモンを探せ！キャンペーン 詳細</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/11686" rel="alternate"/>
+    <published>2021-04-20T22:45:00+09:00</published>
+  </entry>
+  <entry>
+    <id>12144</id>
+    <title>Ver.1.5事前ダウンロードが間もなく開始</title>
+    <updated>2021-04-23T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042117461431802.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12144">Ver.1.5事前ダウンロードが間もなく開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/12144" rel="alternate"/>
+    <summary/>
+    <published>2021-04-23T11:00:00+09:00</published>
+  </entry>
   <entry>
     <id>12250</id>
     <title>Ver.1.5「塵歌を纏いし扉」バージョンアップのお知らせ</title>
@@ -872,24 +889,6 @@
     <updated>2021-09-19T12:00:00+09:00</updated>
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091810421085512.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15968">「睡竜の章」任務予告</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/15968" rel="alternate"/>
-    <published>2021-09-19T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>16018</id>
-    <title>「산악에 뜬 구슬」 기원: 「진주의 지혜·산고노미야 코코미(물)」 확률 UP!</title>
-    <updated>2021-09-19T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091818480236560.jpg"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16018">「산악에 뜬 구슬」 기원: 「진주의 지혜·산고노미야 코코미(물)」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/16018" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</summary>
-    <published>2021-09-19T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>16020</id>
-    <title>「잠든 용의 장」 전설 임무 안내</title>
-    <updated>2021-09-19T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091818573912948.jpg"><br/><br/>여행자가 상응하는 모험 등급에 도달하고 선행 임무를 완료하면 「전설의 열쇠」를 사용해 산고노미야 코코미의 전설 임무 「잠든 용의 장」을 개방할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16020">「잠든 용의 장」 전설 임무 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/16020" rel="alternate"/>
-    <summary>여행자가 상응하는 모험 등급에 도달하고 선행 임무를 완료하면 「전설의 열쇠」를 사용해 산고노미야 코코미의 전설 임무 「잠든 용의 장」을 개방할 수 있습니다</summary>
     <published>2021-09-19T12:00:00+09:00</published>
   </entry>
 </feed>
