@@ -2,42 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-09-19T03:09:27.598822+00:00</updated>
+  <updated>2021-09-19T04:11:49.825118+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>13249</id>
-    <title>Đã Mở Tính Năng Tải Trước</title>
-    <updated>2021-06-07T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060513462695367.jpg"><br/><br/>Nhà Lữ Hành thân mến:
-Tính năng tải trước hiện đã có trên PC và di động.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13249">Đã Mở Tính Năng Tải Trước</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13249" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến:
-Tính năng tải trước hiện đã có trên PC và di động.</summary>
-    <published>2021-06-07T11:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13252</id>
-    <title>Sự kiện "Âm Thanh Vang Vọng": Tham gia để nhận được trang phục Barbara "Mùa Hè Rực Rỡ"</title>
-    <updated>2021-06-07T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060514394131084.png"><br/><br/>Trong thời gian sự kiện, thu thập "Ốc Biển Vọng Âm" đạt số lượng chỉ định sẽ nhận được trang phục Barbara "Mùa Hè Rực Rỡ", Nguyên Thạch và các phần thưởng khác.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13252">Sự kiện "Âm Thanh Vang Vọng": Tham gia để nhận được trang phục Barbara "Mùa Hè Rực Rỡ"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13252" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, thu thập "Ốc Biển Vọng Âm" đạt số lượng chỉ định sẽ nhận được trang phục Barbara "Mùa Hè Rực Rỡ", Nguyên Thạch và các phần thưởng khác.</summary>
-    <published>2021-06-07T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13253</id>
-    <title>Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá trong thời gian giới hạn!</title>
-    <updated>2021-06-07T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060514443612426.png"><br/><br/>Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá hạn giờ đã có mặt trong cửa hàng rồi!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13253">Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá trong thời gian giới hạn!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13253" rel="alternate"/>
-    <summary>Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá hạn giờ đã có mặt trong cửa hàng rồi!</summary>
-    <published>2021-06-07T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>13255</id>
     <title>Cầu nguyện Dấu Chân Của Lửa: UP xác suất Mặt Trời Chạy Trốn - Klee (Hỏa)!</title>
@@ -933,5 +904,29 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515592343539.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15890">[Genshin Impact] Video kỷ niệm cuộc mạo hiểm trên đại lục Teyvat: Thư Kỷ Niệm Một Năm Hành Trình</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/15890" rel="alternate"/>
     <published>2021-09-16T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15993</id>
+    <title>Cầu nguyện "Hồng Châu Trôi Nổi": UP xác suất Trí Tuệ Trân Châu - Sangonomiya Kokomi (Thuỷ)!</title>
+    <updated>2021-09-19T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817075264476.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15993">Cầu nguyện "Hồng Châu Trôi Nổi": UP xác suất Trí Tuệ Trân Châu - Sangonomiya Kokomi (Thuỷ)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15993" rel="alternate"/>
+    <published>2021-09-19T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15997</id>
+    <title>Cầu nguyện "Thân Hình Thần Đúc": UP xác suất Pháp Khí - Vầng Trăng Bất Diệt, Kiếm Đơn - Bàn Nham Kết Lục!</title>
+    <updated>2021-09-19T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817142684609.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15997">Cầu nguyện "Thân Hình Thần Đúc": UP xác suất Pháp Khí - Vầng Trăng Bất Diệt, Kiếm Đơn - Bàn Nham Kết Lục!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15997" rel="alternate"/>
+    <published>2021-09-19T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15999</id>
+    <title>Hướng Dẫn Nhiệm Vụ Truyền Thuyết "Chương Rồng Ngủ"</title>
+    <updated>2021-09-19T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817190996981.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15999">Hướng Dẫn Nhiệm Vụ Truyền Thuyết "Chương Rồng Ngủ"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15999" rel="alternate"/>
+    <published>2021-09-19T12:00:00+07:00</published>
   </entry>
 </feed>

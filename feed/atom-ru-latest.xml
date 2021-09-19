@@ -2,49 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-09-19T03:09:22.366755+00:00</updated>
+  <updated>2021-09-19T04:11:39.722424+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13284</id>
-    <title>Костюм Джинн «Сон морского бриза» доступен на ограниченный период со скидкой</title>
-    <updated>2021-06-07T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710383790729.png"><br/><br/>Костюм Джинн «Сон морского бриза» уже доступен в магазине со скидкой в течение ограниченного времени!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13284">Костюм Джинн «Сон морского бриза» доступен на ограниченный период со скидкой</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13284" rel="alternate"/>
-    <summary>Костюм Джинн «Сон морского бриза» уже доступен в магазине со скидкой в течение ограниченного времени!</summary>
-    <published>2021-06-07T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13289</id>
-    <title>Молитва «Воплощение божества»: повышен шанс получить Молитва святым ветрам (Катализатор), Небесное величие (Двуручное) и другое оружие!</title>
-    <updated>2021-06-07T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710520512452.png"><br/><br/>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13289">Молитва «Воплощение божества»: повышен шанс получить Молитва святым ветрам (Катализатор), Небесное величие (Двуручное) и другое оружие!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13289" rel="alternate"/>
-    <summary>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-06-07T12:01:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13292</id>
-    <title>Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</title>
-    <updated>2021-06-07T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710564452942.png"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13292">Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13292" rel="alternate"/>
-    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-06-07T12:01:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13319</id>
-    <title>Предварительный обзор событий версии 1.6 (Часть 1)</title>
-    <updated>2021-06-07T16:26:56+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060716275737803.png"><br/><br/>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13319">Предварительный обзор событий версии 1.6 (Часть 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13319" rel="alternate"/>
-    <summary>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.</summary>
-    <published>2021-06-07T16:26:56+03:00</published>
-  </entry>
   <entry>
     <id>13333</id>
     <title>Описание события «Лето! Остров? Приключение!»</title>
@@ -912,5 +876,43 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15880" rel="alternate"/>
     <summary>Мы продолжаем наш путь, преодолеваем горы и реки, слушаем пение птиц.</summary>
     <published>2021-09-16T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15976</id>
+    <title>Молитва «Дрейфующее свечение» - повышен шанс получить персонажа «Жемчужина мудрости» Сангономия Кокоми (Электро) и других!</title>
+    <updated>2021-09-19T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15976">Молитва «Дрейфующее свечение» - повышен шанс получить персонажа «Жемчужина мудрости» Сангономия Кокоми (Электро) и других!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15976" rel="alternate"/>
+    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
+    <published>2021-09-19T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16006</id>
+    <title>Молитва «Воплощение божества»: повышен шанс получить оружие Вечное лунное сияние (Катализатор), Драгоценный омут (Одноручное) и другое оружие!</title>
+    <updated>2021-09-19T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16006">Молитва «Воплощение божества»: повышен шанс получить оружие Вечное лунное сияние (Катализатор), Драгоценный омут (Одноручное) и другое оружие!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16006" rel="alternate"/>
+    <summary>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
+    <published>2021-09-19T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16012</id>
+    <title>Задание легенд «Спящий Дракон»</title>
+    <updated>2021-09-19T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[После достижения необходимого Ранга приключений и завершения соответствующих заданий Путешественники могут использовать Ключ легенд, чтобы разблокировать задание легенд Сангономии Кокоми «Спящий Дракон».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16012">Задание легенд «Спящий Дракон»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16012" rel="alternate"/>
+    <summary>После достижения необходимого Ранга приключений и завершения соответствующих заданий Путешественники могут использовать Ключ легенд, чтобы разблокировать задание легенд Сангономии Кокоми «Спящий Дракон».</summary>
+    <published>2021-09-19T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15941</id>
+    <title>Обзор событий версии 2.1 - Выпуск II</title>
+    <updated>2021-09-19T12:10:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091710542814737.jpg"><br/><br/>Привет, Путешественники! Сегодня начинается событие «Призрачные тайны». Не пропустите его!
+Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15941">Обзор событий версии 2.1 - Выпуск II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15941" rel="alternate"/>
+    <summary>Привет, Путешественники! Сегодня начинается событие «Призрачные тайны». Не пропустите его!
+Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.</summary>
+    <published>2021-09-19T12:10:00+03:00</published>
   </entry>
 </feed>

@@ -2,42 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-09-19T03:09:07.802011+00:00</updated>
+  <updated>2021-09-19T04:11:10.380459+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>13239</id>
-    <title>Vorzeitiges Herunterladen jetzt verfügbar</title>
-    <updated>2021-06-07T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060511070160855.png"><br/><br/>Lieber Reisender,
-die Funktion zum vorzeitigen Herunterladen ist jetzt für PC und mobile Geräte verfügbar.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13239">Vorzeitiges Herunterladen jetzt verfügbar</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13239" rel="alternate"/>
-    <summary>Lieber Reisender,
-die Funktion zum vorzeitigen Herunterladen ist jetzt für PC und mobile Geräte verfügbar.</summary>
-    <published>2021-06-07T11:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13241</id>
-    <title>Aktion „Klang des Echos“: Nimm teil und erhalte Barbaras Kleidung „Glänzende Darbietung“.</title>
-    <updated>2021-06-07T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060511190347620.png"><br/><br/>Sammle während des Aktionszeitraums eine vorgegebene Menge an „Echoschnecken“, um Barbaras Kleidung „Glänzende Darbietung“, Urgestein und andere Belohnungen zu erhalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13241">Aktion „Klang des Echos“: Nimm teil und erhalte Barbaras Kleidung „Glänzende Darbietung“.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13241" rel="alternate"/>
-    <summary>Sammle während des Aktionszeitraums eine vorgegebene Menge an „Echoschnecken“, um Barbaras Kleidung „Glänzende Darbietung“, Urgestein und andere Belohnungen zu erhalten.</summary>
-    <published>2021-06-07T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13243</id>
-    <title>Jeans Kleidung „Traum von der Meeresbrise“ limitiert mit Rabatt</title>
-    <updated>2021-06-07T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060511293370804.png"><br/><br/>Jeans Kleidung „Traum von der Meeresbrise“ ist jetzt limitiert mit Rabatt beim Händler erhältlich!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13243">Jeans Kleidung „Traum von der Meeresbrise“ limitiert mit Rabatt</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13243" rel="alternate"/>
-    <summary>Jeans Kleidung „Traum von der Meeresbrise“ ist jetzt limitiert mit Rabatt beim Händler erhältlich!</summary>
-    <published>2021-06-07T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13244</id>
     <title>Gebet „Flammende Schritte“: Höhere Wahrscheinlichkeit für „Fliehende Sonne – Klee (Pyro)“!</title>
@@ -936,5 +907,32 @@ Wie sich die Situation im Kampf stark verändern kann, so können auch die Herze
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091516313385974.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15893">Gedenkvideo zu den Abenteuern auf Teyvat bei Genshin Impact: Aufzeichnungen zum Jahrestag der Reise</a>]]></content>
     <link href="https://genshin.mihoyo.com/de/news/detail/15893" rel="alternate"/>
     <published>2021-09-16T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15984</id>
+    <title>Gebet „Treibende Perle“: Höhere Wahrscheinlichkeit für „Perle der Weisheit – Sangonomiya Kokomi (Hydro)“!</title>
+    <updated>2021-09-19T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816553196755.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15984">Gebet „Treibende Perle“: Höhere Wahrscheinlichkeit für „Perle der Weisheit – Sangonomiya Kokomi (Hydro)“!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15984" rel="alternate"/>
+    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</summary>
+    <published>2021-09-19T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15985</id>
+    <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Katalysator – Ewiger Mondschein“ und „Einhänder – Moosgrüner Fels“!</title>
+    <updated>2021-09-19T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816564262649.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15985">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Katalysator – Ewiger Mondschein“ und „Einhänder – Moosgrüner Fels“!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15985" rel="alternate"/>
+    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</summary>
+    <published>2021-09-19T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15986</id>
+    <title>Erläuterungen zum Legendenauftrag „Dracaena Somnolenta“</title>
+    <updated>2021-09-19T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816575046616.jpg"><br/><br/>Sobald du die erforderliche Abenteuerstufe erreicht und den jeweiligen Auftrag davor ausgeführt hast, kannst du „Legendenschlüssel“ verbrauchen, um Sangonomiya Kokomis Legendenauftrag „Dracaena Somnolenta“ zu aktivieren.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15986">Erläuterungen zum Legendenauftrag „Dracaena Somnolenta“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/15986" rel="alternate"/>
+    <summary>Sobald du die erforderliche Abenteuerstufe erreicht und den jeweiligen Auftrag davor ausgeführt hast, kannst du „Legendenschlüssel“ verbrauchen, um Sangonomiya Kokomis Legendenauftrag „Dracaena Somnolenta“ zu aktivieren.</summary>
+    <published>2021-09-19T12:00:00+02:00</published>
   </entry>
 </feed>

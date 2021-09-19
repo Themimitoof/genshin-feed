@@ -2,51 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-19T03:09:02.066389+00:00</updated>
+  <updated>2021-09-19T04:10:57.767941+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>13293</id>
-    <title>Notification de la mise à jour de version 1.6 « Odyssée estivale dans les îles »</title>
-    <updated>2021-06-07T10:52:58+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710564375645.jpg"><br/><br/>Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13293">Notification de la mise à jour de version 1.6 « Odyssée estivale dans les îles »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13293" rel="alternate"/>
-    <summary>Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.</summary>
-    <published>2021-06-07T10:52:58+02:00</published>
-  </entry>
-  <entry>
-    <id>13297</id>
-    <title>Le pré-téléchargement est disponible</title>
-    <updated>2021-06-07T11:05:52+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060711122512501.jpg"><br/><br/>La fonctionnalité de pré-téléchargement est désormais disponible sur les plateformes mobile et PC.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13297">Le pré-téléchargement est disponible</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13297" rel="alternate"/>
-    <summary>La fonctionnalité de pré-téléchargement est désormais disponible sur les plateformes mobile et PC.</summary>
-    <published>2021-06-07T11:05:52+02:00</published>
-  </entry>
-  <entry>
-    <id>13315</id>
-    <title>« Rêve de la brise marine » : tenue de Jean à prix réduit</title>
-    <updated>2021-06-07T12:00:28+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060715551169377.png"><br/><br/>La tenue de Jean « Rêve de la brise marine » est bientôt disponible dans la boutique à prix réduit pour une durée limitée !
- <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13315">« Rêve de la brise marine » : tenue de Jean à prix réduit</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13315" rel="alternate"/>
-    <summary>La tenue de Jean « Rêve de la brise marine » est bientôt disponible dans la boutique à prix réduit pour une durée limitée !
- </summary>
-    <published>2021-06-07T12:00:28+02:00</published>
-  </entry>
-  <entry>
-    <id>13316</id>
-    <title>« Échos du passé » : participez pour obtenir la tenue de Barbara « Été radieux »</title>
-    <updated>2021-06-07T12:00:55+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060715573574452.png"><br/><br/>Pendant l'événement, collectez le nombre requis de conques d'écho pour obtenir des récompenses, comme la tenue de Barbara « Été radieux » et des primo-gemmes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13316">« Échos du passé » : participez pour obtenir la tenue de Barbara « Été radieux »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13316" rel="alternate"/>
-    <summary>Pendant l'événement, collectez le nombre requis de conques d'écho pour obtenir des récompenses, comme la tenue de Barbara « Été radieux » et des primo-gemmes.</summary>
-    <published>2021-06-07T12:00:55+02:00</published>
-  </entry>
   <entry>
     <id>13317</id>
     <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour L'origine des Quatre Vents (Catalyseur) et Fierté de la Voûte d'Azur (Épée à deux mains) !</title>
@@ -945,5 +907,37 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/15901" rel="alternate"/>
     <summary>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.</summary>
     <published>2021-09-16T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16039</id>
+    <title>Présentation de la quête d'histoire « Dracaena Somnolenta »</title>
+    <updated>2021-09-19T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819282653706.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16039">Présentation de la quête d'histoire « Dracaena Somnolenta »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16039" rel="alternate"/>
+    <published>2021-09-19T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16040</id>
+    <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Lueur de la lune éternelle (Catalyseur) et Coupeur de jade primordial (Épée à une main) !</title>
+    <updated>2021-09-19T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819305272613.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16040">Vœux « Incarnation divine » : taux d'obtention boosté pour Lueur de la lune éternelle (Catalyseur) et Coupeur de jade primordial (Épée à une main) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16040" rel="alternate"/>
+    <published>2021-09-19T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16041</id>
+    <title>Vœux « Luminescence à la dérive » : taux d'obtention boosté pour Sangonomiya Kokomi · Perle de connaissance (Hydro) !</title>
+    <updated>2021-09-19T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819333893227.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16041">Vœux « Luminescence à la dérive » : taux d'obtention boosté pour Sangonomiya Kokomi · Perle de connaissance (Hydro) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16041" rel="alternate"/>
+    <published>2021-09-19T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15943</id>
+    <title>Paimon vous présente un aperçu des événements de la version 2.1 - Partie II</title>
+    <updated>2021-09-19T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091715591426241.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15943">Paimon vous présente un aperçu des événements de la version 2.1 - Partie II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15943" rel="alternate"/>
+    <published>2021-09-19T12:10:00+02:00</published>
   </entry>
 </feed>
