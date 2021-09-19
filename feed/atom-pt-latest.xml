@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-09-19T05:08:18.459588+00:00</updated>
+  <updated>2021-09-19T06:10:42.004592+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>13301</id>
-    <title>Oração "Encarnação Divina": "Oração Perdida aos Ventos Sagrados (Catalisador)" e "Orgulho Celestial (Espadão)" com a taxa de drop aumentada!</title>
-    <updated>2021-06-07T12:01:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060711300283668.png"><br/><br/>Durante o período do Evento, o Viajante poderá na Oração "Encarnação Divina" obter mais armas e personagens, aumentando a força de combate da equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13301">Oração "Encarnação Divina": "Oração Perdida aos Ventos Sagrados (Catalisador)" e "Orgulho Celestial (Espadão)" com a taxa de drop aumentada!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13301" rel="alternate"/>
-    <summary>Durante o período do Evento, o Viajante poderá na Oração "Encarnação Divina" obter mais armas e personagens, aumentando a força de combate da equipe!</summary>
-    <published>2021-06-07T12:01:00+01:00</published>
-  </entry>
   <entry>
     <id>13338</id>
     <title>Descrição do Modo de Jogo "Verão! Ilha? Grandes Aventuras!"</title>
@@ -914,5 +905,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16004" rel="alternate"/>
     <summary>Ao alcançar o Rank de Aventura correspondente e ter concluído as Missões de Pré-Requisito correspondentes, o Viajante poderá usar a Chave de Lendas para desbloquear a Missão Lendária da Sangonomiya Kokomi: Capítulo de Dracaena Somnolenta.</summary>
     <published>2021-09-19T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16056</id>
+    <title>Venha conferir a "Visão Geral do Evento da Versão 2.1 - Edição II" junto com a Paimon!</title>
+    <updated>2021-09-19T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091913105535814.jpg"><br/><br/>Olá, Viajantes~ "No Rastro dos Espectros" está disponível agora, não perca!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16056">Venha conferir a "Visão Geral do Evento da Versão 2.1 - Edição II" junto com a Paimon!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16056" rel="alternate"/>
+    <summary>Olá, Viajantes~ "No Rastro dos Espectros" está disponível agora, não perca!</summary>
+    <published>2021-09-19T12:10:00+01:00</published>
   </entry>
 </feed>
