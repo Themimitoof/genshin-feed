@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-09-20T09:09:21.957791+00:00</updated>
+  <updated>2021-09-20T10:10:11.856652+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>13256</id>
-    <title>Cầu nguyện "Thân Hình Thần Đúc": UP xác suất Pháp Khí - Điển Tích Tây Phong, Trọng Kiếm - Thiên Không Kiêu Ngạo!</title>
-    <updated>2021-06-07T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060515334177532.png"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện "Thân Hình Thần Đúc" để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13256">Cầu nguyện "Thân Hình Thần Đúc": UP xác suất Pháp Khí - Điển Tích Tây Phong, Trọng Kiếm - Thiên Không Kiêu Ngạo!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13256" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện "Thân Hình Thần Đúc" để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-06-07T12:01:00+07:00</published>
-  </entry>
   <entry>
     <id>13257</id>
     <title>Hình ảnh giới thiệu sự kiện phiên bản 1.6 (Kỳ 1)</title>
@@ -928,5 +919,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/16055" rel="alternate"/>
     <summary/>
     <published>2021-09-20T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15977</id>
+    <title>Thông Báo Phúc Lợi Sự Kiện Cộng Đồng Mừng Kỷ Niệm 1 Năm Của Genshin Impact</title>
+    <updated>2021-09-20T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816411725890.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15977">Thông Báo Phúc Lợi Sự Kiện Cộng Đồng Mừng Kỷ Niệm 1 Năm Của Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/15977" rel="alternate"/>
+    <summary/>
+    <published>2021-09-20T18:00:00+07:00</published>
   </entry>
 </feed>

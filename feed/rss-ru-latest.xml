@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Sep 2021 09:09:18 +0000</lastBuildDate>
-    <item>
-      <title>Событие «Эхо легенд»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13340</link>
-      <description>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060720130628050.png"><br/><br/>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13340">Событие «Эхо легенд»</a>]]></content:encoded>
-      <guid isPermaLink="false">13340</guid>
-      <pubDate>Tue, 08 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Sep 2021 10:10:03 +0000</lastBuildDate>
     <item>
       <title>Обзор костюмов: Песнь о романтике побережья | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13349</link>
@@ -811,6 +803,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091918172919179.png"><br/><br/>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16065">«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16065</guid>
       <pubDate>Mon, 20 Sep 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Годовщина Genshin Impact - Обзор наград событий сообщества</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/15996</link>
+      <description>Привет, Путешественники! С вами Ассоциация Туризма Тейвата (｡･ω･)ﾉﾞ</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817130710986.jpg"><br/><br/>Привет, Путешественники! С вами Ассоциация Туризма Тейвата (｡･ω･)ﾉﾞ<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15996">Годовщина Genshin Impact - Обзор наград событий сообщества</a>]]></content:encoded>
+      <guid isPermaLink="false">15996</guid>
+      <pubDate>Mon, 20 Sep 2021 18:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

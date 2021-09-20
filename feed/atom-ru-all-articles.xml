@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-09-20T09:09:20.289444+00:00</updated>
+  <updated>2021-09-20T10:10:07.734450+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -250,15 +250,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13319</id>
-    <title>Предварительный обзор событий версии 1.6 (Часть 1)</title>
-    <updated>2021-06-07T16:26:56+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060716275737803.png"><br/><br/>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13319">Предварительный обзор событий версии 1.6 (Часть 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13319" rel="alternate"/>
-    <summary>Приближается новая звезда, и вместе с ней приближаются новые события… Вы готовы, Путешественники? Ниже вы найдёте подробную информацию о грядущих событиях.</summary>
-    <published>2021-06-07T16:26:56+03:00</published>
   </entry>
   <entry>
     <id>13333</id>
@@ -1159,13 +1150,13 @@
     <published>2021-09-20T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>13340</id>
-    <title>Событие «Эхо легенд»</title>
-    <updated>2021-06-08T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060720130628050.png"><br/><br/>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13340">Событие «Эхо легенд»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13340" rel="alternate"/>
-    <summary>Привет, Путешественники! Давайте вместе посмотрим на правила события «Эхо легенд»!</summary>
-    <published>2021-06-08T10:30:00+03:00</published>
+    <id>15996</id>
+    <title>Годовщина Genshin Impact - Обзор наград событий сообщества</title>
+    <updated>2021-09-20T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817130710986.jpg"><br/><br/>Привет, Путешественники! С вами Ассоциация Туризма Тейвата (｡･ω･)ﾉﾞ<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15996">Годовщина Genshin Impact - Обзор наград событий сообщества</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15996" rel="alternate"/>
+    <summary>Привет, Путешественники! С вами Ассоциация Туризма Тейвата (｡･ω･)ﾉﾞ</summary>
+    <published>2021-09-20T18:00:00+03:00</published>
   </entry>
   <entry>
     <id>13349</id>
@@ -2061,5 +2052,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16065" rel="alternate"/>
     <summary>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.</summary>
     <published>2021-09-20T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>15996</id>
+    <title>Годовщина Genshin Impact - Обзор наград событий сообщества</title>
+    <updated>2021-09-20T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817130710986.jpg"><br/><br/>Привет, Путешественники! С вами Ассоциация Туризма Тейвата (｡･ω･)ﾉﾞ<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15996">Годовщина Genshin Impact - Обзор наград событий сообщества</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/15996" rel="alternate"/>
+    <summary>Привет, Путешественники! С вами Ассоциация Туризма Тейвата (｡･ω･)ﾉﾞ</summary>
+    <published>2021-09-20T18:00:00+03:00</published>
   </entry>
 </feed>

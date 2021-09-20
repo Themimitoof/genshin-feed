@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 20 Sep 2021 09:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 10:09:32 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -216,14 +216,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>« Échos du passé » : participez pour obtenir la tenue de Barbara « Été radieux »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13316</link>
-      <description>Pendant l'événement, collectez le nombre requis de conques d'écho pour obtenir des récompenses, comme la tenue de Barbara « Été radieux » et des primo-gemmes.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060715573574452.png"><br/><br/>Pendant l'événement, collectez le nombre requis de conques d'écho pour obtenir des récompenses, comme la tenue de Barbara « Été radieux » et des primo-gemmes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13316">« Échos du passé » : participez pour obtenir la tenue de Barbara « Été radieux »</a>]]></content:encoded>
-      <guid isPermaLink="false">13316</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:55 +0200</pubDate>
     </item>
     <item>
       <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour L'origine des Quatre Vents (Catalyseur) et Fierté de la Voûte d'Azur (Épée à deux mains) !</title>
@@ -1046,12 +1038,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13309</link>
-      <description>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060712490952510.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13309">Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</a>]]></content:encoded>
-      <guid isPermaLink="false">13309</guid>
-      <pubDate>Mon, 07 Jun 2021 12:41:02 +0200</pubDate>
+      <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16042</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></description>
+      <guid isPermaLink="false">16042</guid>
+      <pubDate>Mon, 20 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Aperçu des nouveaux événements de la version 1.6 (Partie I)</title>
@@ -1871,6 +1862,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912063243676.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16049">Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</a>]]></description>
       <guid isPermaLink="false">16049</guid>
       <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16042</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></description>
+      <guid isPermaLink="false">16042</guid>
+      <pubDate>Mon, 20 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

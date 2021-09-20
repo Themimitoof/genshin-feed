@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-09-20T09:09:12.648327+00:00</updated>
+  <updated>2021-09-20T10:09:46.944560+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13304</id>
-    <title>Event Permohonan "Percikan Langkah Api": Persentase Perolehan Klee (Pyro) Meningkat!</title>
-    <updated>2021-06-07T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060711534022979.png"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13304">Event Permohonan "Percikan Langkah Api": Persentase Perolehan Klee (Pyro) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13304" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-06-07T12:01:00+07:00</published>
-  </entry>
   <entry>
     <id>13341</id>
     <title>Cara Bermain "Petualangan Pulau Musim Panas"</title>
@@ -909,5 +900,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16058" rel="alternate"/>
     <summary>Menemukan waktu dan lokasi yang tepat adalah hal yang langka, namun menyatukan orang-orang dengan tujuan yang sama jauh lebih berharga.</summary>
     <published>2021-09-20T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15988</id>
+    <title>Preview Hadiah Event Komunitas Anniversary Satu Tahun Genshin Impact</title>
+    <updated>2021-09-20T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817030314598.jpg"><br/><br/>Waktu berlalu dengan cepat, tak terasa sudah satu tahun terlewati, dan Genshin Impact akan segera merayakan anniversary satu tahun! Kali ini Asosiasi Pendaki Teyvat mau umumkan Preview Hadiah Event Komunitas Anniversary Satu Tahun Genshin Impact dulu~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15988">Preview Hadiah Event Komunitas Anniversary Satu Tahun Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15988" rel="alternate"/>
+    <summary>Waktu berlalu dengan cepat, tak terasa sudah satu tahun terlewati, dan Genshin Impact akan segera merayakan anniversary satu tahun! Kali ini Asosiasi Pendaki Teyvat mau umumkan Preview Hadiah Event Komunitas Anniversary Satu Tahun Genshin Impact dulu~</summary>
+    <published>2021-09-20T18:00:00+07:00</published>
   </entry>
 </feed>

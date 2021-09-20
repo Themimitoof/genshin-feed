@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 20 Sep 2021 09:09:15 +0000</lastBuildDate>
-    <item>
-      <title>「신의 주조」 기원,「법구·사풍 원서」「양손검·천공의 긍지」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13312</link>
-      <description>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060712481168411.png"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13312">「신의 주조」 기원,「법구·사풍 원서」「양손검·천공의 긍지」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">13312</guid>
-      <pubDate>Mon, 07 Jun 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Sep 2021 10:09:56 +0000</lastBuildDate>
     <item>
       <title>1.6 버전 신규 이벤트 알아보기</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13331</link>
@@ -878,6 +870,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092009383634435.png"><br/><br/>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16067"><원신> 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</a>]]></content:encoded>
       <guid isPermaLink="false">16067</guid>
       <pubDate>Mon, 20 Sep 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 1주년 커뮤니티 이벤트 혜택 예고</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16051</link>
+      <description>어느덧 1년이라는 시간이 훌쩍 지나 &lt;원신&gt;이 1주년을 맞이하게 됐어! 오늘 뚜벅이가 여행자에게 1주년 커뮤니티 이벤트 보상을 알려줄게~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912425578413.jpg"><br/><br/>어느덧 1년이라는 시간이 훌쩍 지나 <원신>이 1주년을 맞이하게 됐어! 오늘 뚜벅이가 여행자에게 1주년 커뮤니티 이벤트 보상을 알려줄게~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16051"><원신> 1주년 커뮤니티 이벤트 혜택 예고</a>]]></content:encoded>
+      <guid isPermaLink="false">16051</guid>
+      <pubDate>Mon, 20 Sep 2021 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

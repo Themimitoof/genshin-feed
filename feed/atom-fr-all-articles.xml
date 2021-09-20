@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-09-20T09:09:05.119193+00:00</updated>
+  <updated>2021-09-20T10:09:32.605894+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -243,15 +243,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>13316</id>
-    <title>« Échos du passé » : participez pour obtenir la tenue de Barbara « Été radieux »</title>
-    <updated>2021-06-07T12:00:55+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060715573574452.png"><br/><br/>Pendant l'événement, collectez le nombre requis de conques d'écho pour obtenir des récompenses, comme la tenue de Barbara « Été radieux » et des primo-gemmes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13316">« Échos du passé » : participez pour obtenir la tenue de Barbara « Été radieux »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13316" rel="alternate"/>
-    <summary>Pendant l'événement, collectez le nombre requis de conques d'écho pour obtenir des récompenses, comme la tenue de Barbara « Été radieux » et des primo-gemmes.</summary>
-    <published>2021-06-07T12:00:55+02:00</published>
   </entry>
   <entry>
     <id>13317</id>
@@ -1176,13 +1167,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-09-20T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13309</id>
-    <title>Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</title>
-    <updated>2021-06-07T12:41:02+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060712490952510.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13309">Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13309" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</summary>
-    <published>2021-06-07T12:41:02+02:00</published>
+    <id>16042</id>
+    <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
+    <updated>2021-09-20T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16042" rel="alternate"/>
+    <published>2021-09-20T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>13322</id>
@@ -2104,5 +2094,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912063243676.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16049">Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16049" rel="alternate"/>
     <published>2021-09-20T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16042</id>
+    <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
+    <updated>2021-09-20T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16042" rel="alternate"/>
+    <published>2021-09-20T18:00:00+02:00</published>
   </entry>
 </feed>

@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Sep 2021 09:09:00 +0000</lastBuildDate>
-    <item>
-      <title>Pre-Installation Function Coming Soon</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13278</link>
-      <description>The pre-installation function is now available on both PC and mobile platforms.
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710153998700.jpg"><br/><br/>The pre-installation function is now available on both PC and mobile platforms.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13278">Pre-Installation Function Coming Soon</a>]]></content:encoded>
-      <guid isPermaLink="false">13278</guid>
-      <pubDate>Mon, 07 Jun 2021 11:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Sep 2021 10:09:25 +0000</lastBuildDate>
     <item>
       <title>"Echoing Tales" Event: Take Part to Obtain Barbara's Outfit, Summertime Sparkle</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13285</link>
@@ -911,6 +901,14 @@ If the power of all living beings came together, even the creatures of the deep 
 If the power of all living beings came together, even the creatures of the deep sea can see the stars.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16063">Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16063</guid>
       <pubDate>Mon, 20 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact One Year Anniversary Community Event Rewards Preview</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/15980</link>
+      <description>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816470183231.jpg"><br/><br/>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15980">Genshin Impact One Year Anniversary Community Event Rewards Preview</a>]]></content:encoded>
+      <guid isPermaLink="false">15980</guid>
+      <pubDate>Mon, 20 Sep 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

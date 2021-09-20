@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-09-20T09:09:02.851302+00:00</updated>
+  <updated>2021-09-20T10:09:28.190292+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -273,17 +273,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>13278</id>
-    <title>Pre-Installation Function Coming Soon</title>
-    <updated>2021-06-07T11:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710153998700.jpg"><br/><br/>The pre-installation function is now available on both PC and mobile platforms.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13278">Pre-Installation Function Coming Soon</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13278" rel="alternate"/>
-    <summary>The pre-installation function is now available on both PC and mobile platforms.
-</summary>
-    <published>2021-06-07T11:00:00-04:00</published>
   </entry>
   <entry>
     <id>13285</id>
@@ -1278,15 +1267,13 @@ If the power of all living beings came together, even the creatures of the deep 
     <published>2021-09-20T12:00:00-04:00</published>
   </entry>
   <entry>
-    <id>13286</id>
-    <title>Jean's Outfit "Sea Breeze Dandelion" Available at a Limited-Time Discount</title>
-    <updated>2021-06-07T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710401620487.png"><br/><br/>Jean's outfit "Sea Breeze Dandelion" is available at a limited-time discount in the Shop!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13286">Jean's Outfit "Sea Breeze Dandelion" Available at a Limited-Time Discount</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13286" rel="alternate"/>
-    <summary>Jean's outfit "Sea Breeze Dandelion" is available at a limited-time discount in the Shop!
-</summary>
-    <published>2021-06-07T12:00:00-04:00</published>
+    <id>15980</id>
+    <title>Genshin Impact One Year Anniversary Community Event Rewards Preview</title>
+    <updated>2021-09-20T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816470183231.jpg"><br/><br/>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15980">Genshin Impact One Year Anniversary Community Event Rewards Preview</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15980" rel="alternate"/>
+    <summary>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~</summary>
+    <published>2021-09-20T18:00:00-04:00</published>
   </entry>
   <entry>
     <id>13294</id>
@@ -2277,5 +2264,14 @@ If the power of all living beings came together, even the creatures of the deep 
     <summary>Finding the right time and place is difficult, but bringing people together is more valuable.
 If the power of all living beings came together, even the creatures of the deep sea can see the stars.</summary>
     <published>2021-09-20T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15980</id>
+    <title>Genshin Impact One Year Anniversary Community Event Rewards Preview</title>
+    <updated>2021-09-20T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816470183231.jpg"><br/><br/>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15980">Genshin Impact One Year Anniversary Community Event Rewards Preview</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15980" rel="alternate"/>
+    <summary>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~</summary>
+    <published>2021-09-20T18:00:00-04:00</published>
   </entry>
 </feed>
