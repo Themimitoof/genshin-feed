@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-20T03:09:29.901208+00:00</updated>
+  <updated>2021-09-20T04:11:04.107242+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>13317</id>
-    <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour L'origine des Quatre Vents (Catalyseur) et Fierté de la Voûte d'Azur (Épée à deux mains) !</title>
-    <updated>2021-06-07T12:01:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060716021789608.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13317">Vœux : « Incarnation divine » ! Taux d'obtention boosté pour L'origine des Quatre Vents (Catalyseur) et Fierté de la Voûte d'Azur (Épée à deux mains) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13317" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !</summary>
-    <published>2021-06-07T12:01:00+02:00</published>
-  </entry>
   <entry>
     <id>13309</id>
     <title>Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</title>
@@ -939,5 +930,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091715591426241.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15943">Paimon vous présente un aperçu des événements de la version 2.1 - Partie II</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15943" rel="alternate"/>
     <published>2021-09-19T12:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16049</id>
+    <title>Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</title>
+    <updated>2021-09-20T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912063243676.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16049">Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16049" rel="alternate"/>
+    <published>2021-09-20T12:00:00+02:00</published>
   </entry>
 </feed>

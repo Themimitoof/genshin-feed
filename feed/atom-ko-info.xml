@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-09-20T03:09:42.917613+00:00</updated>
+  <updated>2021-09-20T04:11:44.302866+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13310</id>
-    <title>「번쩍이는 화염」 기원, 「도망치는 태양·클레(불)」 확률 UP!</title>
-    <updated>2021-06-07T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060712421353151.png"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13310">「번쩍이는 화염」 기원, 「도망치는 태양·클레(불)」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13310" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</summary>
-    <published>2021-06-07T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>13312</id>
     <title>「신의 주조」 기원,「법구·사풍 원서」「양손검·천공의 긍지」 확률 UP!</title>
@@ -980,5 +971,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16020" rel="alternate"/>
     <summary>여행자가 상응하는 모험 등급에 도달하고 선행 임무를 완료하면 「전설의 열쇠」를 사용해 산고노미야 코코미의 전설 임무 「잠든 용의 장」을 개방할 수 있습니다</summary>
     <published>2021-09-19T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16067</id>
+    <title>&lt;원신&gt; 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</title>
+    <updated>2021-09-20T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092009383634435.png"><br/><br/>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16067"><원신> 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16067" rel="alternate"/>
+    <summary>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...</summary>
+    <published>2021-09-20T12:00:00+09:00</published>
   </entry>
 </feed>

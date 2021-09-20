@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Sep 2021 03:09:27 +0000</lastBuildDate>
-    <item>
-      <title>"Echoing Tales" Event: Take Part to Obtain Barbara's Outfit, Summertime Sparkle</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13285</link>
-      <description>During the event, Travelers who collect a designated number of Echoing Conches can obtain rewards such as Barbara's outfit "Summertime Sparkle" and Primogems.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710383710274.png"><br/><br/>During the event, Travelers who collect a designated number of Echoing Conches can obtain rewards such as Barbara's outfit "Summertime Sparkle" and Primogems.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13285">"Echoing Tales" Event: Take Part to Obtain Barbara's Outfit, Summertime Sparkle</a>]]></content:encoded>
-      <guid isPermaLink="false">13285</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Sep 2021 04:10:56 +0000</lastBuildDate>
     <item>
       <title>Jean's Outfit "Sea Breeze Dandelion" Available at a Limited-Time Discount</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13286</link>
@@ -907,6 +899,16 @@ As the sun and moon rise and fall, all these moments will be part of a song of a
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817075344996.jpg"><br/><br/>Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Sangonomiya Kokomi's Story Quest Dracaena Somnolenta Chapter.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15992">"Dracaena Somnolenta Chapter" Story Quest Overview</a>]]></content:encoded>
       <guid isPermaLink="false">15992</guid>
       <pubDate>Sun, 19 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16063</link>
+      <description>Finding the right time and place is difficult, but bringing people together is more valuable.
+If the power of all living beings came together, even the creatures of the deep sea can see the stars.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091914324075824.png"><br/><br/>Finding the right time and place is difficult, but bringing people together is more valuable.
+If the power of all living beings came together, even the creatures of the deep sea can see the stars.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16063">Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16063</guid>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

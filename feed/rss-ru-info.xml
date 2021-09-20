@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 20 Sep 2021 03:09:46 +0000</lastBuildDate>
-    <item>
-      <title>Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13292</link>
-      <description>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710564452942.png"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13292">Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">13292</guid>
-      <pubDate>Mon, 07 Jun 2021 12:01:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Sep 2021 04:11:56 +0000</lastBuildDate>
     <item>
       <title>Предварительный обзор событий версии 1.6 (Часть 1)</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13319</link>
@@ -814,6 +806,14 @@
 Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15941">Обзор событий версии 2.1 - Выпуск II</a>]]></content:encoded>
       <guid isPermaLink="false">15941</guid>
       <pubDate>Sun, 19 Sep 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16065</link>
+      <description>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091918172919179.png"><br/><br/>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16065">«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16065</guid>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

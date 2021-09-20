@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-09-20T03:09:47.606046+00:00</updated>
+  <updated>2021-09-20T04:12:01.479826+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -250,15 +250,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13292</id>
-    <title>Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</title>
-    <updated>2021-06-07T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710564452942.png"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13292">Молитва: Сверкающая поступь - повышен шанс получить «Ускользающее солнце» Кли (Пиро) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13292" rel="alternate"/>
-    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-06-07T12:01:00+03:00</published>
   </entry>
   <entry>
     <id>13319</id>
@@ -1159,15 +1150,13 @@
     <published>2021-09-19T12:10:00+03:00</published>
   </entry>
   <entry>
-    <id>13333</id>
-    <title>Описание события «Лето! Остров? Приключение!»</title>
-    <updated>2021-06-08T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719271948465.jpg"><br/><br/>Скоро начнётся новое событие «Лето! Остров? Приключение!»
-Однажды знойным летним днём Кли получила письмо от загадочного Додокороля с угрозами отнять у неё Додоко! Путешественники, давайте поможем ей узнать правду!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13333">Описание события «Лето! Остров? Приключение!»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13333" rel="alternate"/>
-    <summary>Скоро начнётся новое событие «Лето! Остров? Приключение!»
-Однажды знойным летним днём Кли получила письмо от загадочного Додокороля с угрозами отнять у неё Додоко! Путешественники, давайте поможем ей узнать правду!</summary>
-    <published>2021-06-08T10:30:00+03:00</published>
+    <id>16065</id>
+    <title>«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</title>
+    <updated>2021-09-20T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091918172919179.png"><br/><br/>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16065">«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16065" rel="alternate"/>
+    <summary>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.</summary>
+    <published>2021-09-20T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>13340</id>
@@ -2063,5 +2052,14 @@
     <summary>Привет, Путешественники! Сегодня начинается событие «Призрачные тайны». Не пропустите его!
 Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.</summary>
     <published>2021-09-19T12:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16065</id>
+    <title>«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</title>
+    <updated>2021-09-20T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091918172919179.png"><br/><br/>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16065">«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16065" rel="alternate"/>
+    <summary>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.</summary>
+    <published>2021-09-20T12:00:00+03:00</published>
   </entry>
 </feed>

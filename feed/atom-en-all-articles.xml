@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-09-20T03:09:29.841923+00:00</updated>
+  <updated>2021-09-20T04:11:04.062899+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -273,15 +273,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>13274</id>
-    <title>"Midsummer Island Adventure" Version 1.6 Update Notice</title>
-    <updated>2021-06-07T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710001033753.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13274">"Midsummer Island Adventure" Version 1.6 Update Notice</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13274" rel="alternate"/>
-    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
-    <published>2021-06-07T10:30:00-04:00</published>
   </entry>
   <entry>
     <id>13278</id>
@@ -1276,13 +1267,15 @@ As the sun and moon rise and fall, all these moments will be part of a song of a
     <published>2021-09-19T12:00:00-04:00</published>
   </entry>
   <entry>
-    <id>13285</id>
-    <title>"Echoing Tales" Event: Take Part to Obtain Barbara's Outfit, Summertime Sparkle</title>
-    <updated>2021-06-07T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710383710274.png"><br/><br/>During the event, Travelers who collect a designated number of Echoing Conches can obtain rewards such as Barbara's outfit "Summertime Sparkle" and Primogems.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13285">"Echoing Tales" Event: Take Part to Obtain Barbara's Outfit, Summertime Sparkle</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13285" rel="alternate"/>
-    <summary>During the event, Travelers who collect a designated number of Echoing Conches can obtain rewards such as Barbara's outfit "Summertime Sparkle" and Primogems.</summary>
-    <published>2021-06-07T12:00:00-04:00</published>
+    <id>16063</id>
+    <title>Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</title>
+    <updated>2021-09-20T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091914324075824.png"><br/><br/>Finding the right time and place is difficult, but bringing people together is more valuable.
+If the power of all living beings came together, even the creatures of the deep sea can see the stars.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16063">Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16063" rel="alternate"/>
+    <summary>Finding the right time and place is difficult, but bringing people together is more valuable.
+If the power of all living beings came together, even the creatures of the deep sea can see the stars.</summary>
+    <published>2021-09-20T12:00:00-04:00</published>
   </entry>
   <entry>
     <id>13286</id>
@@ -2273,5 +2266,16 @@ As the sun and moon rise and fall, all these moments will be part of a song of a
     <link href="https://genshin.mihoyo.com/en/news/detail/15992" rel="alternate"/>
     <summary>Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Sangonomiya Kokomi's Story Quest Dracaena Somnolenta Chapter.</summary>
     <published>2021-09-19T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16063</id>
+    <title>Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</title>
+    <updated>2021-09-20T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091914324075824.png"><br/><br/>Finding the right time and place is difficult, but bringing people together is more valuable.
+If the power of all living beings came together, even the creatures of the deep sea can see the stars.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16063">Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16063" rel="alternate"/>
+    <summary>Finding the right time and place is difficult, but bringing people together is more valuable.
+If the power of all living beings came together, even the creatures of the deep sea can see the stars.</summary>
+    <published>2021-09-20T12:00:00-04:00</published>
   </entry>
 </feed>

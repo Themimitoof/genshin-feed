@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 20 Sep 2021 03:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 04:11:29 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -211,14 +211,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>¡Vista previa de la versión 1.6 «¡Verano, islas, aventuras!» ya disponible!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13203</link>
-      <description>La nueva versión estará disponible pronto. Nuevos mapas, nuevos acertijos, atuendos ligeros para el verano... ¡Adéntrate en esta gran aventura isleña!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210603/2021060311360513002.jpg"><br/><br/>La nueva versión estará disponible pronto. Nuevos mapas, nuevos acertijos, atuendos ligeros para el verano... ¡Adéntrate en esta gran aventura isleña!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13203">¡Vista previa de la versión 1.6 «¡Verano, islas, aventuras!» ya disponible!</a>]]></content:encoded>
-      <guid isPermaLink="false">13203</guid>
-      <pubDate>Thu, 03 Jun 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Función de predescarga ya disponible</title>
@@ -1005,12 +997,12 @@
       <pubDate>Sun, 19 Sep 2021 12:10:00 +0200</pubDate>
     </item>
     <item>
-      <title>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13434</link>
-      <description>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909194851561.png"><br/><br/>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13434">Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">13434</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0200</pubDate>
+      <title>Demo de personaje de Genshin Impact - Sangonomiya Kokomi: Miles de olas a la luz de la luna</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16057</link>
+      <description>Encontrar el tiempo y el lugar adecuados es difícil, pero lograr unir a personas es aún más preciado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091913131542972.png"><br/><br/>Encontrar el tiempo y el lugar adecuados es difícil, pero lograr unir a personas es aún más preciado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16057">Demo de personaje de Genshin Impact - Sangonomiya Kokomi: Miles de olas a la luz de la luna</a>]]></content:encoded>
+      <guid isPermaLink="false">16057</guid>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>¡El gachapón «Encarnación divina» ya está disponible! ¡Probabilidad de obtención de Oración Perdida a los Vientos Sagrados y Orgullo Celestial aumentada!</title>
@@ -1796,6 +1788,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091711375150684.jpg"><br/><br/>¡Hola, viajero/a! El evento «Secretos espectrales» ya está disponible, ¡no te lo pierdas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15942">Paimon te trae una recopilación de los eventos de la versión 2.1 (II)</a>]]></content:encoded>
       <guid isPermaLink="false">15942</guid>
       <pubDate>Sun, 19 Sep 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de personaje de Genshin Impact - Sangonomiya Kokomi: Miles de olas a la luz de la luna</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16057</link>
+      <description>Encontrar el tiempo y el lugar adecuados es difícil, pero lograr unir a personas es aún más preciado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091913131542972.png"><br/><br/>Encontrar el tiempo y el lugar adecuados es difícil, pero lograr unir a personas es aún más preciado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16057">Demo de personaje de Genshin Impact - Sangonomiya Kokomi: Miles de olas a la luz de la luna</a>]]></content:encoded>
+      <guid isPermaLink="false">16057</guid>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 20 Sep 2021 03:09:42 +0000</lastBuildDate>
-    <item>
-      <title>「번쩍이는 화염」 기원, 「도망치는 태양·클레(불)」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13310</link>
-      <description>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060712421353151.png"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13310">「번쩍이는 화염」 기원, 「도망치는 태양·클레(불)」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">13310</guid>
-      <pubDate>Mon, 07 Jun 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Sep 2021 04:11:44 +0000</lastBuildDate>
     <item>
       <title>「신의 주조」 기원,「법구·사풍 원서」「양손검·천공의 긍지」 확률 UP!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13312</link>
@@ -878,6 +870,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091818573912948.jpg"><br/><br/>여행자가 상응하는 모험 등급에 도달하고 선행 임무를 완료하면 「전설의 열쇠」를 사용해 산고노미야 코코미의 전설 임무 「잠든 용의 장」을 개방할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16020">「잠든 용의 장」 전설 임무 안내</a>]]></content:encoded>
       <guid isPermaLink="false">16020</guid>
       <pubDate>Sun, 19 Sep 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16067</link>
+      <description>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092009383634435.png"><br/><br/>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16067"><원신> 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</a>]]></content:encoded>
+      <guid isPermaLink="false">16067</guid>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

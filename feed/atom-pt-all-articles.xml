@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-09-20T03:09:45.871342+00:00</updated>
+  <updated>2021-09-20T04:11:54.626164+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -241,15 +241,6 @@
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>13290</id>
-    <title>Oração - Passos Flamejantes: Probabilidade Aumentada de Obtenção de "Sol Fugitivo - Klee (Pyro)"!</title>
-    <updated>2021-06-07T12:01:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710523697862.png"><br/><br/>Durante o evento, os viajantes podem obter mais armas e personagens através das orações, trazendo grande melhorias!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13290">Oração - Passos Flamejantes: Probabilidade Aumentada de Obtenção de "Sol Fugitivo - Klee (Pyro)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13290" rel="alternate"/>
-    <summary>Durante o evento, os viajantes podem obter mais armas e personagens através das orações, trazendo grande melhorias!</summary>
-    <published>2021-06-07T12:01:00+01:00</published>
   </entry>
   <entry>
     <id>13301</id>
@@ -1149,13 +1140,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-09-19T12:10:00+01:00</published>
   </entry>
   <entry>
-    <id>13338</id>
-    <title>Descrição do Modo de Jogo "Verão! Ilha? Grandes Aventuras!"</title>
-    <updated>2021-06-08T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719472769589.jpg"><br/><br/>Novo evento "Verão! Ilha? Grandes Aventuras!" disponível em breve!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13338">Descrição do Modo de Jogo "Verão! Ilha? Grandes Aventuras!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13338" rel="alternate"/>
-    <summary>Novo evento "Verão! Ilha? Grandes Aventuras!" disponível em breve!</summary>
-    <published>2021-06-08T10:30:00+01:00</published>
+    <id>16047</id>
+    <title>Demo da Nova Personagem de Genshin Impact - "Sangonomiya Kokomi: Infinitas Ondas ao Toque da Lua"</title>
+    <updated>2021-09-20T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091911562536364.png"><br/><br/>Não é fácil de encontrar o tempo e local correto, mas a compreensão entre as pessoas é algo mais precioso. Unindo a força de todos os seres, até os peixes do mar profundo podem apreciar o brilho das estrelas do céu.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16047">Demo da Nova Personagem de Genshin Impact - "Sangonomiya Kokomi: Infinitas Ondas ao Toque da Lua"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16047" rel="alternate"/>
+    <summary>Não é fácil de encontrar o tempo e local correto, mas a compreensão entre as pessoas é algo mais precioso. Unindo a força de todos os seres, até os peixes do mar profundo podem apreciar o brilho das estrelas do céu.</summary>
+    <published>2021-09-20T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>13361</id>
@@ -2053,5 +2044,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16056" rel="alternate"/>
     <summary>Olá, Viajantes~ "No Rastro dos Espectros" está disponível agora, não perca!</summary>
     <published>2021-09-19T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16047</id>
+    <title>Demo da Nova Personagem de Genshin Impact - "Sangonomiya Kokomi: Infinitas Ondas ao Toque da Lua"</title>
+    <updated>2021-09-20T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091911562536364.png"><br/><br/>Não é fácil de encontrar o tempo e local correto, mas a compreensão entre as pessoas é algo mais precioso. Unindo a força de todos os seres, até os peixes do mar profundo podem apreciar o brilho das estrelas do céu.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16047">Demo da Nova Personagem de Genshin Impact - "Sangonomiya Kokomi: Infinitas Ondas ao Toque da Lua"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16047" rel="alternate"/>
+    <summary>Não é fácil de encontrar o tempo e local correto, mas a compreensão entre as pessoas é algo mais precioso. Unindo a força de todos os seres, até os peixes do mar profundo podem apreciar o brilho das estrelas do céu.</summary>
+    <published>2021-09-20T12:00:00+01:00</published>
   </entry>
 </feed>

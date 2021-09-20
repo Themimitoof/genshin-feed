@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-09-20T03:09:34.497048+00:00</updated>
+  <updated>2021-09-20T04:11:17.429508+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -235,15 +235,6 @@
     <published>2021-02-01T10:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13246</id>
-    <title>「回聲輕敘」活動：參與得芭芭拉衣裝「閃耀協奏」</title>
-    <updated>2021-06-07T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[活動期間，收集指定數量的「回聲海螺」，即可獲得芭芭拉衣裝「閃耀協奏」、原石等獎勵。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13246">「回聲輕敘」活動：參與得芭芭拉衣裝「閃耀協奏」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13246" rel="alternate"/>
-    <summary>活動期間，收集指定數量的「回聲海螺」，即可獲得芭芭拉衣裝「閃耀協奏」、原石等獎勵。</summary>
-    <published>2021-06-07T12:00:00+08:00</published>
-  </entry>
-  <entry>
     <id>13250</id>
     <title>「閃焰的駐足」祈願：「逃跑的太陽·可莉(火)」機率UP！</title>
     <updated>2021-06-07T12:01:00+08:00</updated>
@@ -1116,13 +1107,13 @@
     <published>2021-09-19T12:10:00+08:00</published>
   </entry>
   <entry>
-    <id>13250</id>
-    <title>「閃焰的駐足」祈願：「逃跑的太陽·可莉(火)」機率UP！</title>
-    <updated>2021-06-07T12:01:00+08:00</updated>
-    <content type="CDATA"><![CDATA[活動期間，旅行者可以在活動祈願中獲得更多角色與武器，組建強大的隊伍！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13250">「閃焰的駐足」祈願：「逃跑的太陽·可莉(火)」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13250" rel="alternate"/>
-    <summary>活動期間，旅行者可以在活動祈願中獲得更多角色與武器，組建強大的隊伍！</summary>
-    <published>2021-06-07T12:01:00+08:00</published>
+    <id>16045</id>
+    <title>角色展示-「珊瑚宮心海：千濤觸月」｜原神</title>
+    <updated>2021-09-20T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091911331888470.png"><br/><br/>天時地利不可多得，人和同心更是是彌足珍貴。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16045">角色展示-「珊瑚宮心海：千濤觸月」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16045" rel="alternate"/>
+    <summary>天時地利不可多得，人和同心更是是彌足珍貴。</summary>
+    <published>2021-09-20T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>13251</id>
@@ -1995,5 +1986,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716141940624.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15944">派蒙帶你一圖流看活動——2.1版本活動快報第二期</a>]]></content>
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15944" rel="alternate"/>
     <published>2021-09-19T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16045</id>
+    <title>角色展示-「珊瑚宮心海：千濤觸月」｜原神</title>
+    <updated>2021-09-20T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091911331888470.png"><br/><br/>天時地利不可多得，人和同心更是是彌足珍貴。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16045">角色展示-「珊瑚宮心海：千濤觸月」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16045" rel="alternate"/>
+    <summary>天時地利不可多得，人和同心更是是彌足珍貴。</summary>
+    <published>2021-09-20T12:00:00+08:00</published>
   </entry>
 </feed>

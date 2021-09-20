@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 20 Sep 2021 03:09:42 +0000</lastBuildDate>
-    <item>
-      <title>1.6 버전 신규 이벤트 알아보기</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13331</link>
-      <description>1.6 버전의 신규 이벤트가 오픈될 예정이야! 여행자들 우리 같이 오픈될 이벤트를 같이 확인해 보자구~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719124113838.png"><br/><br/>1.6 버전의 신규 이벤트가 오픈될 예정이야! 여행자들 우리 같이 오픈될 이벤트를 같이 확인해 보자구~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13331">1.6 버전 신규 이벤트 알아보기</a>]]></content:encoded>
-      <guid isPermaLink="false">13331</guid>
-      <pubDate>Mon, 07 Jun 2021 18:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Sep 2021 04:11:42 +0000</lastBuildDate>
     <item>
       <title>「여름! 섬? 모험!」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13344</link>
@@ -878,6 +870,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091818573912948.jpg"><br/><br/>여행자가 상응하는 모험 등급에 도달하고 선행 임무를 완료하면 「전설의 열쇠」를 사용해 산고노미야 코코미의 전설 임무 「잠든 용의 장」을 개방할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16020">「잠든 용의 장」 전설 임무 안내</a>]]></content:encoded>
       <guid isPermaLink="false">16020</guid>
       <pubDate>Sun, 19 Sep 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16067</link>
+      <description>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092009383634435.png"><br/><br/>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16067"><원신> 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</a>]]></content:encoded>
+      <guid isPermaLink="false">16067</guid>
+      <pubDate>Mon, 20 Sep 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-09-20T03:09:51.986235+00:00</updated>
+  <updated>2021-09-20T04:12:13.712280+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -213,15 +213,6 @@
     <published>2020-12-20T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13253</id>
-    <title>Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá trong thời gian giới hạn!</title>
-    <updated>2021-06-07T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060514443612426.png"><br/><br/>Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá hạn giờ đã có mặt trong cửa hàng rồi!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13253">Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá trong thời gian giới hạn!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13253" rel="alternate"/>
-    <summary>Trang phục của Jean "Giấc Mộng Gió Biển" giảm giá hạn giờ đã có mặt trong cửa hàng rồi!</summary>
-    <published>2021-06-07T12:00:00+07:00</published>
-  </entry>
-  <entry>
     <id>13255</id>
     <title>Cầu nguyện Dấu Chân Của Lửa: UP xác suất Mặt Trời Chạy Trốn - Klee (Hỏa)!</title>
     <updated>2021-06-07T12:01:00+07:00</updated>
@@ -1134,13 +1125,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-09-19T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13255</id>
-    <title>Cầu nguyện Dấu Chân Của Lửa: UP xác suất Mặt Trời Chạy Trốn - Klee (Hỏa)!</title>
-    <updated>2021-06-07T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060515110356273.png"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13255">Cầu nguyện Dấu Chân Của Lửa: UP xác suất Mặt Trời Chạy Trốn - Klee (Hỏa)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13255" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-06-07T12:01:00+07:00</published>
+    <id>16055</id>
+    <title>Giới thiệu nhân vật trong Genshin Impact - Sangonomiya Kokomi: Ngàn Sóng Dưới Trăng</title>
+    <updated>2021-09-20T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912490981819.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16055">Giới thiệu nhân vật trong Genshin Impact - Sangonomiya Kokomi: Ngàn Sóng Dưới Trăng</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16055" rel="alternate"/>
+    <summary/>
+    <published>2021-09-20T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>13256</id>
@@ -2052,5 +2043,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817190996981.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15999">Hướng Dẫn Nhiệm Vụ Truyền Thuyết "Chương Rồng Ngủ"</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/15999" rel="alternate"/>
     <published>2021-09-19T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16055</id>
+    <title>Giới thiệu nhân vật trong Genshin Impact - Sangonomiya Kokomi: Ngàn Sóng Dưới Trăng</title>
+    <updated>2021-09-20T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912490981819.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16055">Giới thiệu nhân vật trong Genshin Impact - Sangonomiya Kokomi: Ngàn Sóng Dưới Trăng</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16055" rel="alternate"/>
+    <summary/>
+    <published>2021-09-20T12:00:00+07:00</published>
   </entry>
 </feed>

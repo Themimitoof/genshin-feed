@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-09-20T03:09:38.863558+00:00</updated>
+  <updated>2021-09-20T04:11:29.738259+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13304</id>
-    <title>Event Permohonan "Percikan Langkah Api": Persentase Perolehan Klee (Pyro) Meningkat!</title>
-    <updated>2021-06-07T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060711534022979.png"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13304">Event Permohonan "Percikan Langkah Api": Persentase Perolehan Klee (Pyro) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13304" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-06-07T12:01:00+07:00</published>
-  </entry>
   <entry>
     <id>13341</id>
     <title>Cara Bermain "Petualangan Pulau Musim Panas"</title>
@@ -909,5 +900,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15951" rel="alternate"/>
     <summary>Halo, Traveler~ Event "Rahasia Specter" sudah dimulai hari ini, jangan sampai terlewatkan ya!</summary>
     <published>2021-09-19T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16058</id>
+    <title>Demo Karakter — "Sangonomiya Kokomi: Ribuan Ombak Menyentuh Bulan" | Genshin Impact</title>
+    <updated>2021-09-20T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091913135946314.png"><br/><br/>Menemukan waktu dan lokasi yang tepat adalah hal yang langka, namun menyatukan orang-orang dengan tujuan yang sama jauh lebih berharga.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16058">Demo Karakter — "Sangonomiya Kokomi: Ribuan Ombak Menyentuh Bulan" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16058" rel="alternate"/>
+    <summary>Menemukan waktu dan lokasi yang tepat adalah hal yang langka, namun menyatukan orang-orang dengan tujuan yang sama jauh lebih berharga.</summary>
+    <published>2021-09-20T12:00:00+07:00</published>
   </entry>
 </feed>
