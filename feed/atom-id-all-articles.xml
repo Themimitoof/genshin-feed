@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-09-21T09:09:03.127565+00:00</updated>
+  <updated>2021-09-21T10:09:47.075237+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -250,15 +250,6 @@
     <published>2020-12-20T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13363</id>
-    <title>Cara Bermain "Gema Sebuah Cerita"</title>
-    <updated>2021-06-08T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810453932666.png"><br/><br/>Halo Traveler semua! Yuk kita lihat sama-sama cara bermain Event Gema Sebuah Cerita!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13363">Cara Bermain "Gema Sebuah Cerita"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13363" rel="alternate"/>
-    <summary>Halo Traveler semua! Yuk kita lihat sama-sama cara bermain Event Gema Sebuah Cerita!</summary>
-    <published>2021-06-08T10:30:00+07:00</published>
-  </entry>
-  <entry>
     <id>13379</id>
     <title>Teaser Kostum: Fashion Teyvat — Lagu Roman di Pesisir Pantai | Genshin Impact</title>
     <updated>2021-06-08T12:00:00+07:00</updated>
@@ -1151,15 +1142,13 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <published>2021-09-21T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13379</id>
-    <title>Teaser Kostum: Fashion Teyvat — Lagu Roman di Pesisir Pantai | Genshin Impact</title>
-    <updated>2021-06-08T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812135497869.jpg"><br/><br/>Musim panas yang kuidamkan,
-ada embusan angin pantai yang menyejukkan...<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13379">Teaser Kostum: Fashion Teyvat — Lagu Roman di Pesisir Pantai | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13379" rel="alternate"/>
-    <summary>Musim panas yang kuidamkan,
-ada embusan angin pantai yang menyejukkan...</summary>
-    <published>2021-06-08T12:00:00+07:00</published>
+    <id>15956</id>
+    <title>Aneka Koleksi Genshin Impact — "Sangonomiya Kokomi: Riak Gelombang dalam Hati"</title>
+    <updated>2021-09-21T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091717563730066.png"><br/><br/>Kemilau air laut memantulkan pesona alam Pulau Watatsumi dan sosok Kokomi yang tenggelam dalam pikirannya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15956">Aneka Koleksi Genshin Impact — "Sangonomiya Kokomi: Riak Gelombang dalam Hati"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15956" rel="alternate"/>
+    <summary>Kemilau air laut memantulkan pesona alam Pulau Watatsumi dan sosok Kokomi yang tenggelam dalam pikirannya.</summary>
+    <published>2021-09-21T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>13393</id>
@@ -2050,5 +2039,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16037" rel="alternate"/>
     <summary>MV Tema Pertarungan OST Inazuma — Duel in the Mist, dimainkan oleh musisi musik rakyat Jepang terbaik.</summary>
     <published>2021-09-21T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>15956</id>
+    <title>Aneka Koleksi Genshin Impact — "Sangonomiya Kokomi: Riak Gelombang dalam Hati"</title>
+    <updated>2021-09-21T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091717563730066.png"><br/><br/>Kemilau air laut memantulkan pesona alam Pulau Watatsumi dan sosok Kokomi yang tenggelam dalam pikirannya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15956">Aneka Koleksi Genshin Impact — "Sangonomiya Kokomi: Riak Gelombang dalam Hati"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/15956" rel="alternate"/>
+    <summary>Kemilau air laut memantulkan pesona alam Pulau Watatsumi dan sosok Kokomi yang tenggelam dalam pikirannya.</summary>
+    <published>2021-09-21T18:00:00+07:00</published>
   </entry>
 </feed>

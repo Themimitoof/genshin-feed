@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-09-21T09:08:54.542371+00:00</updated>
+  <updated>2021-09-21T10:09:30.080287+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -243,15 +243,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>13309</id>
-    <title>Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</title>
-    <updated>2021-06-07T12:41:02+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060712490952510.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13309">Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13309" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</summary>
-    <published>2021-06-07T12:41:02+02:00</published>
   </entry>
   <entry>
     <id>13322</id>
@@ -1174,13 +1165,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-09-21T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13345</id>
-    <title>Détails de l'événement « Échos du passé »</title>
-    <updated>2021-06-08T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060721585267298.png"><br/><br/>Bonjour, chers voyageurs ! Voyons ensemble les détails de l'événement « Échos du passé » ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13345">Détails de l'événement « Échos du passé »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13345" rel="alternate"/>
-    <summary>Bonjour, chers voyageurs ! Voyons ensemble les détails de l'événement « Échos du passé » ~</summary>
-    <published>2021-06-08T10:30:00+02:00</published>
+    <id>15967</id>
+    <title>Genshin Impact - Sangonomiya Kokomi : Marée ondulante</title>
+    <updated>2021-09-21T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091719515236528.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15967">Genshin Impact - Sangonomiya Kokomi : Marée ondulante</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15967" rel="alternate"/>
+    <published>2021-09-21T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>13346</id>
@@ -2100,5 +2090,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819135283247.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16029">Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16029" rel="alternate"/>
     <published>2021-09-21T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15967</id>
+    <title>Genshin Impact - Sangonomiya Kokomi : Marée ondulante</title>
+    <updated>2021-09-21T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091719515236528.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15967">Genshin Impact - Sangonomiya Kokomi : Marée ondulante</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/15967" rel="alternate"/>
+    <published>2021-09-21T18:00:00+02:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-09-21T09:09:06.937197+00:00</updated>
+  <updated>2021-09-21T10:09:55.811041+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>13361</id>
-    <title>Detalhes do Modo de Jogo "Ecos Narradores"</title>
-    <updated>2021-06-08T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810411424773.png"><br/><br/>Olá, Viajantes! Venham conferir com a gente detalhes do evento "Ecos Narradores"~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13361">Detalhes do Modo de Jogo "Ecos Narradores"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13361" rel="alternate"/>
-    <summary>Olá, Viajantes! Venham conferir com a gente detalhes do evento "Ecos Narradores"~</summary>
-    <published>2021-06-08T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>13375</id>
     <title>Teaser do Vestuário a estilo Teyvat de Genshin Impact - Canções na Praia</title>
@@ -914,5 +905,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16027" rel="alternate"/>
     <summary>Interpretado por alguns dos principais músicos de instrumentos tradicionais japoneses, HOYO-MiX em parceria com a Sony Music Entertainment (Japan) Inc. têm o orgulho de apresentar o vídeo oficial da trilha sonora de batalha de Inazuma, "Duel in the Mist".</summary>
     <published>2021-09-21T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>15969</id>
+    <title>Coleção Variada de Genshin Impact - "Sangonomiya Kokomi: Marés Reluzentes"</title>
+    <updated>2021-09-21T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091811300556980.png"><br/><br/>O mar cintilante reflete as belas paisagens da Ilha Watatsumi, onde se vê a silhueta da Kokomi pensativa.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15969">Coleção Variada de Genshin Impact - "Sangonomiya Kokomi: Marés Reluzentes"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/15969" rel="alternate"/>
+    <summary>O mar cintilante reflete as belas paisagens da Ilha Watatsumi, onde se vê a silhueta da Kokomi pensativa.</summary>
+    <published>2021-09-21T18:00:00+01:00</published>
   </entry>
 </feed>

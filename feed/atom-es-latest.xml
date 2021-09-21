@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-09-21T09:08:59.018080+00:00</updated>
+  <updated>2021-09-21T10:09:38.199273+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>13381</id>
-    <title>Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</title>
-    <updated>2021-06-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812191152437.jpg"><br/><br/>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13381">Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13381" rel="alternate"/>
-    <summary>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.</summary>
-    <published>2021-06-08T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13437</id>
     <title>Presentación de "Sueño de la brisa marina". ¡El nuevo vestuario de Jean estará disponible pronto!</title>
@@ -907,5 +898,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/16021" rel="alternate"/>
     <summary>El video de la BSO de combate de Inazuma «Duelo en la niebla» está interpretado por célebres artistas de música folclore japonesa.</summary>
     <published>2021-09-21T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15949</id>
+    <title>Genshin Impact - Sangonomiya Kokomi: Mareas resplandecientes</title>
+    <updated>2021-09-21T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716570981050.png"><br/><br/>El brillo de las olas refleja el paisaje de la isla Watatsumi y la silueta pensativa de Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15949">Genshin Impact - Sangonomiya Kokomi: Mareas resplandecientes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15949" rel="alternate"/>
+    <summary>El brillo de las olas refleja el paisaje de la isla Watatsumi y la silueta pensativa de Kokomi.</summary>
+    <published>2021-09-21T18:00:00+02:00</published>
   </entry>
 </feed>

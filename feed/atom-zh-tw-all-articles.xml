@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-09-21T09:08:56.483659+00:00</updated>
+  <updated>2021-09-21T10:09:34.373616+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -235,15 +235,6 @@
     <published>2021-02-01T10:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13254</id>
-    <title>1.6版本更新快報</title>
-    <updated>2021-06-07T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060514533335136.png"><br/><br/>1.6版本全新活動來襲，旅行者們準備好了嗎！近期和即將開放的活動總結如下，請跟隨下方長圖了解吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13254">1.6版本更新快報</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13254" rel="alternate"/>
-    <summary>1.6版本全新活動來襲，旅行者們準備好了嗎！近期和即將開放的活動總結如下，請跟隨下方長圖了解吧~</summary>
-    <published>2021-06-07T18:00:00+08:00</published>
-  </entry>
-  <entry>
     <id>13342</id>
     <title>「盛夏！海島？大冒險！」玩法說明</title>
     <updated>2021-06-08T10:30:00+08:00</updated>
@@ -1116,13 +1107,13 @@
     <published>2021-09-21T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13342</id>
-    <title>「盛夏！海島？大冒險！」玩法說明</title>
-    <updated>2021-06-08T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060721433685564.jpg"><br/><br/>全新活動「盛夏！海島？大冒險！」即將開啟！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13342">「盛夏！海島？大冒險！」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13342" rel="alternate"/>
-    <summary>全新活動「盛夏！海島？大冒險！」即將開啟！</summary>
-    <published>2021-06-08T10:30:00+08:00</published>
+    <id>15962</id>
+    <title>拾枝雜談-「珊瑚宮心海：瀲灩海汐」｜原神</title>
+    <updated>2021-09-21T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718313833005.png"><br/><br/>粼粼波光映照著海祇島的風景，也映出心海駐足思慮的身影。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15962">拾枝雜談-「珊瑚宮心海：瀲灩海汐」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15962" rel="alternate"/>
+    <summary>粼粼波光映照著海祇島的風景，也映出心海駐足思慮的身影。</summary>
+    <published>2021-09-21T18:00:00+08:00</published>
   </entry>
   <entry>
     <id>13343</id>
@@ -1995,5 +1986,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16043" rel="alternate"/>
     <summary>本次稻妻原聲帶戰鬥音樂MV《Duel in the Mist 斬霧破竹》由日本頂尖民樂演奏家們共同演繹。</summary>
     <published>2021-09-21T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>15962</id>
+    <title>拾枝雜談-「珊瑚宮心海：瀲灩海汐」｜原神</title>
+    <updated>2021-09-21T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718313833005.png"><br/><br/>粼粼波光映照著海祇島的風景，也映出心海駐足思慮的身影。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15962">拾枝雜談-「珊瑚宮心海：瀲灩海汐」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15962" rel="alternate"/>
+    <summary>粼粼波光映照著海祇島的風景，也映出心海駐足思慮的身影。</summary>
+    <published>2021-09-21T18:00:00+08:00</published>
   </entry>
 </feed>

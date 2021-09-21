@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Sep 2021 09:08:56 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zur Spielweise von „Sommer! Inseln? Abenteuer!“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13335</link>
-      <description>Neue Aktion „Sommer! Inseln? Abenteuer!“ ist bald verfügbar!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719382471623.jpg"><br/><br/>Neue Aktion „Sommer! Inseln? Abenteuer!“ ist bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13335">Erläuterungen zur Spielweise von „Sommer! Inseln? Abenteuer!“</a>]]></content:encoded>
-      <guid isPermaLink="false">13335</guid>
-      <pubDate>Tue, 08 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Sep 2021 10:09:35 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zur Spielweise von „Klang des Echos“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13354</link>
@@ -836,6 +828,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819163349963.png"><br/><br/>In diesem Musikvideo „Duel in the Mist“ wird die spannende Inazuma-Kampfmusik von Genshin Impact von Japans besten Volksmusikern aufgeführt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16032">„Duel in the Mist“ – Musikvideo zur Kampfmusik von Inazuma von Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16032</guid>
       <pubDate>Tue, 21 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Sangonomiya Kokomi: Heimliche Gezeiten</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/15964</link>
+      <description>Die funkelnden Wellen spiegeln die Landschaft von Watatsumi wider, wie auch den Geist des Meeres.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718402241083.png"><br/><br/>Die funkelnden Wellen spiegeln die Landschaft von Watatsumi wider, wie auch den Geist des Meeres.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15964">Fähigkeiten bei Genshin Impact – Sangonomiya Kokomi: Heimliche Gezeiten</a>]]></content:encoded>
+      <guid isPermaLink="false">15964</guid>
+      <pubDate>Tue, 21 Sep 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

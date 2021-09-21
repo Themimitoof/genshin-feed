@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-09-21T09:09:04.933191+00:00</updated>
+  <updated>2021-09-21T10:09:51.143488+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13360</id>
-    <title>&lt;원신&gt; 티바트 스타일·코스튬PV - 해변의 노래</title>
-    <updated>2021-06-08T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810421376227.jpg"><br/><br/>이상적인 여름날은 시원한 바닷바람과 함께 눈부신 햇살 그리고 신나는 음악이 있어야 한다.
-그리고… 소중한 사람과 손잡고 노래를 부르며 함께 물보라가 피어오르는 금빛 백사장을 걷는 것이다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13360"><원신> 티바트 스타일·코스튬PV - 해변의 노래</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13360" rel="alternate"/>
-    <summary>이상적인 여름날은 시원한 바닷바람과 함께 눈부신 햇살 그리고 신나는 음악이 있어야 한다.
-그리고… 소중한 사람과 손잡고 노래를 부르며 함께 물보라가 피어오르는 금빛 백사장을 걷는 것이다.</summary>
-    <published>2021-06-08T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>13385</id>
     <title>[코스튬 이미지] 「바닷바람의 꿈」 - 진 신규 코스튬 출시 예정!</title>
@@ -980,5 +969,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16069" rel="alternate"/>
     <summary>이번 이나즈마 OST 전투 음악 MV 〈Duel in the Mist 안갯속의 결투〉 는 일본 최고의 민속 음악 연주가들이 참여했습니다.</summary>
     <published>2021-09-21T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16071</id>
+    <title>&lt;원신&gt; 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</title>
+    <updated>2021-09-21T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092010511571258.png"><br/><br/>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16071"><원신> 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16071" rel="alternate"/>
+    <summary>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.</summary>
+    <published>2021-09-21T18:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-09-21T09:08:50.840686+00:00</updated>
+  <updated>2021-09-21T10:09:22.377201+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13286</id>
-    <title>Jean's Outfit "Sea Breeze Dandelion" Available at a Limited-Time Discount</title>
-    <updated>2021-06-07T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710401620487.png"><br/><br/>Jean's outfit "Sea Breeze Dandelion" is available at a limited-time discount in the Shop!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13286">Jean's Outfit "Sea Breeze Dandelion" Available at a Limited-Time Discount</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13286" rel="alternate"/>
-    <summary>Jean's outfit "Sea Breeze Dandelion" is available at a limited-time discount in the Shop!
-</summary>
-    <published>2021-06-07T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>13294</id>
     <title>Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!</title>
@@ -1009,5 +998,18 @@ If the power of all living beings came together, even the creatures of the deep 
     <link href="https://genshin.mihoyo.com/en/news/detail/16023" rel="alternate"/>
     <summary>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.</summary>
     <published>2021-09-21T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>15945</id>
+    <title>Collected Miscellany - "Sangonomiya Kokomi: Secret Tides of the Heart" | Genshin Impact</title>
+    <updated>2021-09-21T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716360526719.png"><br/><br/>The scenery of Watatsumi Island is reflected on the surface of the sparkling waves, as is the pensive silhouette of Kokomi.
+Having a plan is not just for ensuring victory but also a way of defense.
+This is her duty as the Divine Priestess, and also Sangonomiya Kokomi's own determination.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15945">Collected Miscellany - "Sangonomiya Kokomi: Secret Tides of the Heart" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/15945" rel="alternate"/>
+    <summary>The scenery of Watatsumi Island is reflected on the surface of the sparkling waves, as is the pensive silhouette of Kokomi.
+Having a plan is not just for ensuring victory but also a way of defense.
+This is her duty as the Divine Priestess, and also Sangonomiya Kokomi's own determination.</summary>
+    <published>2021-09-21T18:00:00-04:00</published>
   </entry>
 </feed>

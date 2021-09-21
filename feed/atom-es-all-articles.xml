@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-09-21T09:09:01.285924+00:00</updated>
+  <updated>2021-09-21T10:09:43.583960+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -241,15 +241,6 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13433</id>
-    <title>Evento «¡Verano, islas, aventuras!»: Participa y consigue el arma exclusiva del evento Cuentos de Dodoco (catalizador)</title>
-    <updated>2021-06-07T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909170956574.png"><br/><br/>Durante el evento, explora el archipiélago y completa todos los desafíos para conseguir Caracolas a la deriva y Miniharpastum que se pueden canjear por otros objetos en la Tienda del evento, como Cuentos de Dodoco (catalizador), Cofre de prototipos del Norte, Corona de la sabiduría y planos de decoración, ¡entre otras recompensas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13433">Evento «¡Verano, islas, aventuras!»: Participa y consigue el arma exclusiva del evento Cuentos de Dodoco (catalizador)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13433" rel="alternate"/>
-    <summary>Durante el evento, explora el archipiélago y completa todos los desafíos para conseguir Caracolas a la deriva y Miniharpastum que se pueden canjear por otros objetos en la Tienda del evento, como Cuentos de Dodoco (catalizador), Cofre de prototipos del Norte, Corona de la sabiduría y planos de decoración, ¡entre otras recompensas!</summary>
-    <published>2021-06-07T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>13434</id>
@@ -1142,13 +1133,13 @@
     <published>2021-09-21T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13381</id>
-    <title>Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</title>
-    <updated>2021-06-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812191152437.jpg"><br/><br/>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13381">Avance de la trama de Genshin Impact - La moda de Teyvat: Baladas en la costa</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13381" rel="alternate"/>
-    <summary>Un verano utópico es ese en el que sopla una brisa fresca, hace un sol deslumbrante y flota una melodía vibrante en el aire.</summary>
-    <published>2021-06-08T12:00:00+02:00</published>
+    <id>15949</id>
+    <title>Genshin Impact - Sangonomiya Kokomi: Mareas resplandecientes</title>
+    <updated>2021-09-21T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716570981050.png"><br/><br/>El brillo de las olas refleja el paisaje de la isla Watatsumi y la silueta pensativa de Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15949">Genshin Impact - Sangonomiya Kokomi: Mareas resplandecientes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15949" rel="alternate"/>
+    <summary>El brillo de las olas refleja el paisaje de la isla Watatsumi y la silueta pensativa de Kokomi.</summary>
+    <published>2021-09-21T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>13437</id>
@@ -2039,5 +2030,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/16021" rel="alternate"/>
     <summary>El video de la BSO de combate de Inazuma «Duelo en la niebla» está interpretado por célebres artistas de música folclore japonesa.</summary>
     <published>2021-09-21T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>15949</id>
+    <title>Genshin Impact - Sangonomiya Kokomi: Mareas resplandecientes</title>
+    <updated>2021-09-21T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716570981050.png"><br/><br/>El brillo de las olas refleja el paisaje de la isla Watatsumi y la silueta pensativa de Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15949">Genshin Impact - Sangonomiya Kokomi: Mareas resplandecientes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/15949" rel="alternate"/>
+    <summary>El brillo de las olas refleja el paisaje de la isla Watatsumi y la silueta pensativa de Kokomi.</summary>
+    <published>2021-09-21T18:00:00+02:00</published>
   </entry>
 </feed>
