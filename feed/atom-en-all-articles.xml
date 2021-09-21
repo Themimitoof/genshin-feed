@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-09-21T03:09:35.971180+00:00</updated>
+  <updated>2021-09-21T04:11:31.124781+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -273,15 +273,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>13285</id>
-    <title>"Echoing Tales" Event: Take Part to Obtain Barbara's Outfit, Summertime Sparkle</title>
-    <updated>2021-06-07T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710383710274.png"><br/><br/>During the event, Travelers who collect a designated number of Echoing Conches can obtain rewards such as Barbara's outfit "Summertime Sparkle" and Primogems.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13285">"Echoing Tales" Event: Take Part to Obtain Barbara's Outfit, Summertime Sparkle</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13285" rel="alternate"/>
-    <summary>During the event, Travelers who collect a designated number of Echoing Conches can obtain rewards such as Barbara's outfit "Summertime Sparkle" and Primogems.</summary>
-    <published>2021-06-07T12:00:00-04:00</published>
   </entry>
   <entry>
     <id>13286</id>
@@ -1276,15 +1267,13 @@ If the power of all living beings came together, even the creatures of the deep 
     <published>2021-09-20T18:00:00-04:00</published>
   </entry>
   <entry>
-    <id>13294</id>
-    <title>Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!</title>
-    <updated>2021-06-07T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710572133186.png"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13294">Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13294" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-</summary>
-    <published>2021-06-07T12:01:00-04:00</published>
+    <id>16023</id>
+    <title>Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</title>
+    <updated>2021-09-21T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819063491168.png"><br/><br/>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16023">Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16023" rel="alternate"/>
+    <summary>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.</summary>
+    <published>2021-09-21T12:00:00-04:00</published>
   </entry>
   <entry>
     <id>13295</id>
@@ -2273,5 +2262,14 @@ If the power of all living beings came together, even the creatures of the deep 
     <link href="https://genshin.mihoyo.com/en/news/detail/15980" rel="alternate"/>
     <summary>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~</summary>
     <published>2021-09-20T18:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16023</id>
+    <title>Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</title>
+    <updated>2021-09-21T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819063491168.png"><br/><br/>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16023">Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16023" rel="alternate"/>
+    <summary>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.</summary>
+    <published>2021-09-21T12:00:00-04:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-21T03:09:36.014611+00:00</updated>
+  <updated>2021-09-21T04:11:31.175492+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>13322</id>
-    <title>Aperçu des nouveaux événements de la version 1.6 (Partie I)</title>
-    <updated>2021-06-07T18:01:15+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060718021827690.png"><br/><br/>Les nouveaux événements de la version 1.6 sont sur le point de commencer ! Êtes-vous prêts, voyageurs ? Allez jeter un coup d'œil sur le résumé de ces événements dans l'image ci-dessous ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13322">Aperçu des nouveaux événements de la version 1.6 (Partie I)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13322" rel="alternate"/>
-    <summary>Les nouveaux événements de la version 1.6 sont sur le point de commencer ! Êtes-vous prêts, voyageurs ? Allez jeter un coup d'œil sur le résumé de ces événements dans l'image ci-dessous ~</summary>
-    <published>2021-06-07T18:01:15+02:00</published>
-  </entry>
   <entry>
     <id>13345</id>
     <title>Détails de l'événement « Échos du passé »</title>
@@ -937,5 +928,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16042" rel="alternate"/>
     <published>2021-09-20T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16029</id>
+    <title>Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</title>
+    <updated>2021-09-21T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819135283247.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16029">Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16029" rel="alternate"/>
+    <published>2021-09-21T12:00:00+02:00</published>
   </entry>
 </feed>

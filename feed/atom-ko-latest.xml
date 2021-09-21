@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-09-21T03:09:52.002521+00:00</updated>
+  <updated>2021-09-21T04:11:55.063970+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13347</id>
-    <title>「기억의 메아리」 콘텐츠 안내</title>
-    <updated>2021-06-08T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060809092653773.jpg"><br/><br/>우리 함께 「기억의 메아리」 이벤트 콘텐츠 안내를 확인해보아요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13347">「기억의 메아리」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13347" rel="alternate"/>
-    <summary>우리 함께 「기억의 메아리」 이벤트 콘텐츠 안내를 확인해보아요</summary>
-    <published>2021-06-08T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>13360</id>
     <title>&lt;원신&gt; 티바트 스타일·코스튬PV - 해변의 노래</title>
@@ -980,5 +971,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16051" rel="alternate"/>
     <summary>어느덧 1년이라는 시간이 훌쩍 지나 &lt;원신&gt;이 1주년을 맞이하게 됐어! 오늘 뚜벅이가 여행자에게 1주년 커뮤니티 이벤트 보상을 알려줄게~</summary>
     <published>2021-09-20T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16069</id>
+    <title>「안갯속의 결투」——〈원신〉 이나즈마 OST 전투 음악 MV</title>
+    <updated>2021-09-21T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092010454597570.png"><br/><br/>이번 이나즈마 OST 전투 음악 MV 〈Duel in the Mist 안갯속의 결투〉 는 일본 최고의 민속 음악 연주가들이 참여했습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16069">「안갯속의 결투」——〈원신〉 이나즈마 OST 전투 음악 MV</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16069" rel="alternate"/>
+    <summary>이번 이나즈마 OST 전투 음악 MV 〈Duel in the Mist 안갯속의 결투〉 는 일본 최고의 민속 음악 연주가들이 참여했습니다.</summary>
+    <published>2021-09-21T12:00:00+09:00</published>
   </entry>
 </feed>

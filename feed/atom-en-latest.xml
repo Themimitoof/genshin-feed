@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-09-21T03:09:32.979137+00:00</updated>
+  <updated>2021-09-21T04:11:26.632316+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13294</id>
-    <title>Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!</title>
-    <updated>2021-06-07T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710572133186.png"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13294">Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13294" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-</summary>
-    <published>2021-06-07T12:01:00-04:00</published>
-  </entry>
   <entry>
     <id>13295</id>
     <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Lost Prayer to the Sacred Winds (Catalyst) and Skyward Pride (Claymore)!</title>
@@ -1007,5 +996,14 @@ If the power of all living beings came together, even the creatures of the deep 
     <link href="https://genshin.mihoyo.com/en/news/detail/15980" rel="alternate"/>
     <summary>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~</summary>
     <published>2021-09-20T18:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16023</id>
+    <title>Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</title>
+    <updated>2021-09-21T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819063491168.png"><br/><br/>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16023">Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16023" rel="alternate"/>
+    <summary>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.</summary>
+    <published>2021-09-21T12:00:00-04:00</published>
   </entry>
 </feed>

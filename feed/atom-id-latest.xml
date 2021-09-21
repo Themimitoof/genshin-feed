@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-09-21T03:09:46.508047+00:00</updated>
+  <updated>2021-09-21T04:11:47.750451+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13363</id>
-    <title>Cara Bermain "Gema Sebuah Cerita"</title>
-    <updated>2021-06-08T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810453932666.png"><br/><br/>Halo Traveler semua! Yuk kita lihat sama-sama cara bermain Event Gema Sebuah Cerita!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13363">Cara Bermain "Gema Sebuah Cerita"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13363" rel="alternate"/>
-    <summary>Halo Traveler semua! Yuk kita lihat sama-sama cara bermain Event Gema Sebuah Cerita!</summary>
-    <published>2021-06-08T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>13379</id>
     <title>Teaser Kostum: Fashion Teyvat — Lagu Roman di Pesisir Pantai | Genshin Impact</title>
@@ -909,5 +900,14 @@ ada embusan angin pantai yang menyejukkan...</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/15988" rel="alternate"/>
     <summary>Waktu berlalu dengan cepat, tak terasa sudah satu tahun terlewati, dan Genshin Impact akan segera merayakan anniversary satu tahun! Kali ini Asosiasi Pendaki Teyvat mau umumkan Preview Hadiah Event Komunitas Anniversary Satu Tahun Genshin Impact dulu~</summary>
     <published>2021-09-20T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16037</id>
+    <title>MV Tema Pertarungan OST Inazuma: Duel in the Mist｜Genshin Impact</title>
+    <updated>2021-09-21T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819191381498.png"><br/><br/>MV Tema Pertarungan OST Inazuma — Duel in the Mist, dimainkan oleh musisi musik rakyat Jepang terbaik.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16037">MV Tema Pertarungan OST Inazuma: Duel in the Mist｜Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16037" rel="alternate"/>
+    <summary>MV Tema Pertarungan OST Inazuma — Duel in the Mist, dimainkan oleh musisi musik rakyat Jepang terbaik.</summary>
+    <published>2021-09-21T12:00:00+07:00</published>
   </entry>
 </feed>

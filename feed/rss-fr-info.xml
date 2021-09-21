@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 21 Sep 2021 03:09:36 +0000</lastBuildDate>
-    <item>
-      <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour L'origine des Quatre Vents (Catalyseur) et Fierté de la Voûte d'Azur (Épée à deux mains) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13317</link>
-      <description>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060716021789608.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13317">Vœux : « Incarnation divine » ! Taux d'obtention boosté pour L'origine des Quatre Vents (Catalyseur) et Fierté de la Voûte d'Azur (Épée à deux mains) !</a>]]></content:encoded>
-      <guid isPermaLink="false">13317</guid>
-      <pubDate>Mon, 07 Jun 2021 12:01:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Sep 2021 04:11:32 +0000</lastBuildDate>
     <item>
       <title>Vœux : « Foulées étincelantes » ! Taux d'obtention boosté pour Klee · Soleil fuyant (Pyro) !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13309</link>
@@ -835,6 +827,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></description>
       <guid isPermaLink="false">16042</guid>
       <pubDate>Mon, 20 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16029</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819135283247.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16029">Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</a>]]></description>
+      <guid isPermaLink="false">16029</guid>
+      <pubDate>Tue, 21 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

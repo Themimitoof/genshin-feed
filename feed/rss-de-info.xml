@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 21 Sep 2021 03:09:41 +0000</lastBuildDate>
-    <item>
-      <title>Neue Aktionen von Version 1.6 auf einen Blick (Teil 1)</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13247</link>
-      <description>Die neue Version 1.6 ist auf dem Weg und bringt neue Aktionen! Was demnächst alles bevorsteht, könnt ihr dem Bild unten entnehmen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210605/2021060512051064433.png"><br/><br/>Die neue Version 1.6 ist auf dem Weg und bringt neue Aktionen! Was demnächst alles bevorsteht, könnt ihr dem Bild unten entnehmen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13247">Neue Aktionen von Version 1.6 auf einen Blick (Teil 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">13247</guid>
-      <pubDate>Mon, 07 Jun 2021 17:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Sep 2021 04:11:39 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zur Spielweise von „Sommer! Inseln? Abenteuer!“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13335</link>
@@ -836,6 +828,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817100696330.jpg"><br/><br/>Hallo Reisende! Dies ist der Wanderverein Teyvat (｡･ω･)ﾉﾞ<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15994">Vorschau auf die Community-Belohnungsaktionen zum 1. Jahrestag von Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15994</guid>
       <pubDate>Mon, 20 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>„Duel in the Mist“ – Musikvideo zur Kampfmusik von Inazuma von Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16032</link>
+      <description>In diesem Musikvideo „Duel in the Mist“ wird die spannende Inazuma-Kampfmusik von Genshin Impact von Japans besten Volksmusikern aufgeführt.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819163349963.png"><br/><br/>In diesem Musikvideo „Duel in the Mist“ wird die spannende Inazuma-Kampfmusik von Genshin Impact von Japans besten Volksmusikern aufgeführt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16032">„Duel in the Mist“ – Musikvideo zur Kampfmusik von Inazuma von Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16032</guid>
+      <pubDate>Tue, 21 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
