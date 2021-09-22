@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 22 Sep 2021 03:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 04:11:25 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -215,16 +215,6 @@
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Teaser Kostum: Fashion Teyvat — Lagu Roman di Pesisir Pantai | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/13379</link>
-      <description>Musim panas yang kuidamkan,
-ada embusan angin pantai yang menyejukkan...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812135497869.jpg"><br/><br/>Musim panas yang kuidamkan,
-ada embusan angin pantai yang menyejukkan...<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13379">Teaser Kostum: Fashion Teyvat — Lagu Roman di Pesisir Pantai | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13379</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0700</pubDate>
-    </item>
-    <item>
       <title>[Kostum] Sea Breeze Dandelion: Kostum Baru Jean Segera Hadir!</title>
       <link>https://genshin.mihoyo.com/id/news/detail/13393</link>
       <description>Kostum baru Jean "Sea Breeze Dandelion" akan segera hadir di dalam game, Traveler dapat membelinya di Toko Kostum Karakter loh!</description>
@@ -1016,12 +1006,12 @@ ada embusan angin pantai yang menyejukkan...<br><br>Read more on <a href="https:
       <pubDate>Tue, 21 Sep 2021 18:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>[Kostum] Sea Breeze Dandelion: Kostum Baru Jean Segera Hadir!</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/13393</link>
-      <description>Kostum baru Jean "Sea Breeze Dandelion" akan segera hadir di dalam game, Traveler dapat membelinya di Toko Kostum Karakter loh!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060814235082931.png"><br/><br/>Kostum baru Jean "Sea Breeze Dandelion" akan segera hadir di dalam game, Traveler dapat membelinya di Toko Kostum Karakter loh!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13393">[Kostum] Sea Breeze Dandelion: Kostum Baru Jean Segera Hadir!</a>]]></content:encoded>
-      <guid isPermaLink="false">13393</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0700</pubDate>
+      <title>Album OST Genshin Impact — Realm of Tranquil Eternity</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/16079</link>
+      <description>OST Chapter Inazuma dalam Genshin Impact — "Realm of Tranquil Eternity" resmi dirilis.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018051050342.jpg"><br/><br/>OST Chapter Inazuma dalam Genshin Impact — "Realm of Tranquil Eternity" resmi dirilis.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16079">Album OST Genshin Impact — Realm of Tranquil Eternity</a>]]></content:encoded>
+      <guid isPermaLink="false">16079</guid>
+      <pubDate>Wed, 22 Sep 2021 12:00:00 +0700</pubDate>
     </item>
     <item>
       <title>[Kostum] Summertime Sparkle: Kostum Baru Barbara Segera Hadir!</title>
@@ -1813,6 +1803,14 @@ ada embusan angin pantai yang menyejukkan...<br><br>Read more on <a href="https:
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091717563730066.png"><br/><br/>Kemilau air laut memantulkan pesona alam Pulau Watatsumi dan sosok Kokomi yang tenggelam dalam pikirannya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15956">Aneka Koleksi Genshin Impact — "Sangonomiya Kokomi: Riak Gelombang dalam Hati"</a>]]></content:encoded>
       <guid isPermaLink="false">15956</guid>
       <pubDate>Tue, 21 Sep 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Album OST Genshin Impact — Realm of Tranquil Eternity</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/16079</link>
+      <description>OST Chapter Inazuma dalam Genshin Impact — "Realm of Tranquil Eternity" resmi dirilis.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018051050342.jpg"><br/><br/>OST Chapter Inazuma dalam Genshin Impact — "Realm of Tranquil Eternity" resmi dirilis.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16079">Album OST Genshin Impact — Realm of Tranquil Eternity</a>]]></content:encoded>
+      <guid isPermaLink="false">16079</guid>
+      <pubDate>Wed, 22 Sep 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

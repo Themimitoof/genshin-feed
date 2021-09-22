@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-09-22T03:10:22.237186+00:00</updated>
+  <updated>2021-09-22T04:11:41.533677+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -250,17 +250,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13349</id>
-    <title>Обзор костюмов: Песнь о романтике побережья | Genshin Impact</title>
-    <updated>2021-06-08T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060809435145086.jpg"><br/><br/>Идеальное лето - это освежающий морской бриз, ослепительное солнце и ритмичная музыка.
-А ещё... Гулять по золотому песку, держа за руку дорогих людей и напевая песни.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13349">Обзор костюмов: Песнь о романтике побережья | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13349" rel="alternate"/>
-    <summary>Идеальное лето - это освежающий морской бриз, ослепительное солнце и ритмичная музыка.
-А ещё... Гулять по золотому песку, держа за руку дорогих людей и напевая песни.</summary>
-    <published>2021-06-08T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>13373</id>
@@ -1157,13 +1146,13 @@
     <published>2021-09-21T18:00:00+03:00</published>
   </entry>
   <entry>
-    <id>13376</id>
-    <title>Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</title>
-    <updated>2021-06-08T12:08:16+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812464312289.png"><br/><br/>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13376">Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13376" rel="alternate"/>
-    <summary>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!</summary>
-    <published>2021-06-08T12:08:16+03:00</published>
+    <id>16091</id>
+    <title>Realm of Tranquil Eternity | Genshin Impact</title>
+    <updated>2021-09-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018292179487.jpg"><br/><br/>Вышел OST Genshin Impact Инадзумы «Realm of Tranquil Eternity»! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16091">Realm of Tranquil Eternity | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16091" rel="alternate"/>
+    <summary>Вышел OST Genshin Impact Инадзумы «Realm of Tranquil Eternity»! </summary>
+    <published>2021-09-22T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>13418</id>
@@ -2057,5 +2046,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/15947" rel="alternate"/>
     <summary>В сверкающих волнах отражался пейзаж Ватацуми и силуэт задумавшейся Кокоми.</summary>
     <published>2021-09-21T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16091</id>
+    <title>Realm of Tranquil Eternity | Genshin Impact</title>
+    <updated>2021-09-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018292179487.jpg"><br/><br/>Вышел OST Genshin Impact Инадзумы «Realm of Tranquil Eternity»! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16091">Realm of Tranquil Eternity | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16091" rel="alternate"/>
+    <summary>Вышел OST Genshin Impact Инадзумы «Realm of Tranquil Eternity»! </summary>
+    <published>2021-09-22T12:00:00+03:00</published>
   </entry>
 </feed>

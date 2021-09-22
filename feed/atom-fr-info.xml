@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-09-22T03:09:27.349820+00:00</updated>
+  <updated>2021-09-22T04:11:06.811448+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>13322</id>
-    <title>Aperçu des nouveaux événements de la version 1.6 (Partie I)</title>
-    <updated>2021-06-07T18:01:15+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060718021827690.png"><br/><br/>Les nouveaux événements de la version 1.6 sont sur le point de commencer ! Êtes-vous prêts, voyageurs ? Allez jeter un coup d'œil sur le résumé de ces événements dans l'image ci-dessous ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13322">Aperçu des nouveaux événements de la version 1.6 (Partie I)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13322" rel="alternate"/>
-    <summary>Les nouveaux événements de la version 1.6 sont sur le point de commencer ! Êtes-vous prêts, voyageurs ? Allez jeter un coup d'œil sur le résumé de ces événements dans l'image ci-dessous ~</summary>
-    <published>2021-06-07T18:01:15+02:00</published>
-  </entry>
   <entry>
     <id>13345</id>
     <title>Détails de l'événement « Échos du passé »</title>
@@ -936,5 +927,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091719515236528.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15967">Genshin Impact - Sangonomiya Kokomi : Marée ondulante</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/15967" rel="alternate"/>
     <published>2021-09-21T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16085</id>
+    <title>Bande-son de Genshin Impact: Realm of Tranquil Eternity</title>
+    <updated>2021-09-22T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018204057885.jpg"><br/><br/>La bande originale d'Inazuma de Genshin Impact « Realm of Tranquil Eternity » est désormais disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16085">Bande-son de Genshin Impact: Realm of Tranquil Eternity</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16085" rel="alternate"/>
+    <summary>La bande originale d'Inazuma de Genshin Impact « Realm of Tranquil Eternity » est désormais disponible.</summary>
+    <published>2021-09-22T12:00:00+02:00</published>
   </entry>
 </feed>

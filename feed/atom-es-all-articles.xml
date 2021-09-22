@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-09-22T03:09:51.878864+00:00</updated>
+  <updated>2021-09-22T04:11:21.106352+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -241,15 +241,6 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13434</id>
-    <title>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</title>
-    <updated>2021-06-07T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909194851561.png"><br/><br/>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13434">Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13434" rel="alternate"/>
-    <summary>Nuevo gachapón «Pasos centelleantes»: ¡Probabilidad de obtención de Klee aumentada!</summary>
-    <published>2021-06-07T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>13435</id>
@@ -1142,13 +1133,13 @@
     <published>2021-09-21T18:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13437</id>
-    <title>Presentación de "Sueño de la brisa marina". ¡El nuevo vestuario de Jean estará disponible pronto!</title>
-    <updated>2021-06-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909310268648.png"><br/><br/>El nuevo vestuario de Jean "Sueño de la brisa marina" estará disponible pronto. ¡Los viajeros podrán conseguirlo en la Tienda del Armario!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13437">Presentación de "Sueño de la brisa marina". ¡El nuevo vestuario de Jean estará disponible pronto!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13437" rel="alternate"/>
-    <summary>El nuevo vestuario de Jean "Sueño de la brisa marina" estará disponible pronto. ¡Los viajeros podrán conseguirlo en la Tienda del Armario!</summary>
-    <published>2021-06-08T12:00:00+02:00</published>
+    <id>16087</id>
+    <title>Realm of Tranquil Eternity | Genshin Impact</title>
+    <updated>2021-09-22T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018233937823.jpg"><br/><br/>La banda sonora de la región Inazuma de Genshin Impact «Mundo de calma eterna» (Realm of Tranquil Eternity) ya está disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16087">Realm of Tranquil Eternity | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16087" rel="alternate"/>
+    <summary>La banda sonora de la región Inazuma de Genshin Impact «Mundo de calma eterna» (Realm of Tranquil Eternity) ya está disponible.</summary>
+    <published>2021-09-22T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>13440</id>
@@ -2039,5 +2030,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/15949" rel="alternate"/>
     <summary>El brillo de las olas refleja el paisaje de la isla Watatsumi y la silueta pensativa de Kokomi.</summary>
     <published>2021-09-21T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16087</id>
+    <title>Realm of Tranquil Eternity | Genshin Impact</title>
+    <updated>2021-09-22T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018233937823.jpg"><br/><br/>La banda sonora de la región Inazuma de Genshin Impact «Mundo de calma eterna» (Realm of Tranquil Eternity) ya está disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16087">Realm of Tranquil Eternity | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16087" rel="alternate"/>
+    <summary>La banda sonora de la región Inazuma de Genshin Impact «Mundo de calma eterna» (Realm of Tranquil Eternity) ya está disponible.</summary>
+    <published>2021-09-22T12:00:00+02:00</published>
   </entry>
 </feed>

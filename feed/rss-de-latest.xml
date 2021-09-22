@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 22 Sep 2021 03:09:39 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zur Spielweise von „Klang des Echos“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13354</link>
-      <description>Hallo, Reisende, sehen wir uns die Erläuterungen zur Spielweise der Aktion „Klang des Echos“ an!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810302782201.png"><br/><br/>Hallo, Reisende, sehen wir uns die Erläuterungen zur Spielweise der Aktion „Klang des Echos“ an!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13354">Erläuterungen zur Spielweise von „Klang des Echos“</a>]]></content:encoded>
-      <guid isPermaLink="false">13354</guid>
-      <pubDate>Tue, 08 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Sep 2021 04:11:13 +0000</lastBuildDate>
     <item>
       <title>Vorschauvideo zur modischen Kleidung in Teyvat bei Genshin Impact – Strandballade</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13365</link>
@@ -836,6 +828,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718402241083.png"><br/><br/>Die funkelnden Wellen spiegeln die Landschaft von Watatsumi wider, wie auch den Geist des Meeres.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15964">Fähigkeiten bei Genshin Impact – Sangonomiya Kokomi: Heimliche Gezeiten</a>]]></content:encoded>
       <guid isPermaLink="false">15964</guid>
       <pubDate>Tue, 21 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Realm of Tranquil Eternity | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16083</link>
+      <description>Die Musik zu Inazuma von Genshin Impact „Realm of Tranquil Eternity“ ist offiziell online.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018173394770.jpg"><br/><br/>Die Musik zu Inazuma von Genshin Impact „Realm of Tranquil Eternity“ ist offiziell online.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16083">Realm of Tranquil Eternity | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16083</guid>
+      <pubDate>Wed, 22 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Sep 2021 03:09:20 +0000</lastBuildDate>
-    <item>
-      <title>Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13294</link>
-      <description>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060710572133186.png"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13294">Event Wish "Sparkling Steps" - Boosted Drop Rate for "Fleeing Sunlight" Klee (Pyro)!</a>]]></content:encoded>
-      <guid isPermaLink="false">13294</guid>
-      <pubDate>Mon, 07 Jun 2021 12:01:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 22 Sep 2021 04:11:02 +0000</lastBuildDate>
     <item>
       <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Lost Prayer to the Sacred Winds (Catalyst) and Skyward Pride (Claymore)!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13295</link>
@@ -911,6 +901,14 @@ Having a plan is not just for ensuring victory but also a way of defense.
 This is her duty as the Divine Priestess, and also Sangonomiya Kokomi's own determination.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15945">Collected Miscellany - "Sangonomiya Kokomi: Secret Tides of the Heart" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">15945</guid>
       <pubDate>Tue, 21 Sep 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact OST Album - Realm of Tranquil Eternity </title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16077</link>
+      <description>Genshin Impact's Inazuma Chapter OST — "Realm of Tranquil Eternity" is out now.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092017423183911.jpg"><br/><br/>Genshin Impact's Inazuma Chapter OST — "Realm of Tranquil Eternity" is out now.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16077">Genshin Impact OST Album - Realm of Tranquil Eternity </a>]]></content:encoded>
+      <guid isPermaLink="false">16077</guid>
+      <pubDate>Wed, 22 Sep 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
