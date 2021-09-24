@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-09-24T09:09:04.057743+00:00</updated>
+  <updated>2021-09-24T10:09:56.892050+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>13356</id>
-    <title>Genshin Impact - Aperçu de la mode de Teyvat : Chanson romantique de la plage</title>
-    <updated>2021-06-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810312074154.jpg"><br/><br/>Un jour d'été idéal, c'est une douce brise marine, un soleil rayonnant et le son d'une jolie mélodie qui joue dans nos oreilles. Et puis... du sable doré sur lequel on se promène, main dans la main en fredonnant une chanson.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13356">Genshin Impact - Aperçu de la mode de Teyvat : Chanson romantique de la plage</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13356" rel="alternate"/>
-    <summary>Un jour d'été idéal, c'est une douce brise marine, un soleil rayonnant et le son d'une jolie mélodie qui joue dans nos oreilles. Et puis... du sable doré sur lequel on se promène, main dans la main en fredonnant une chanson.</summary>
-    <published>2021-06-08T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13386</id>
     <title>Présentation de tenue : « Rêve de la brise marine » | La nouvelle tenue de Jean sera bientôt disponible !</title>
@@ -935,5 +926,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/16085" rel="alternate"/>
     <summary>La bande originale d'Inazuma de Genshin Impact « Realm of Tranquil Eternity » est désormais disponible.</summary>
     <published>2021-09-22T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16154</id>
+    <title>Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</title>
+    <updated>2021-09-24T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416431653350.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16154">Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16154" rel="alternate"/>
+    <published>2021-09-24T18:00:00+02:00</published>
   </entry>
 </feed>

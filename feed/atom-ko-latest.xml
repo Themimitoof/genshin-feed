@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-09-24T09:09:09.343540+00:00</updated>
+  <updated>2021-09-24T10:10:30.505379+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13390</id>
-    <title>[코스튬 이미지] 「빛나는 협주」| 바바라 신규 코스튬 출시 예정!</title>
-    <updated>2021-06-08T12:15:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812534655411.png"><br/><br/>바바라의 신규 코스튬 - 「빛나는 협주」가 게임에서 출시될 예정입니다. 「기억의 메아리」 이벤트를 완료하면 해당 코스튬을 무료로 획득할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13390">[코스튬 이미지] 「빛나는 협주」| 바바라 신규 코스튬 출시 예정!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13390" rel="alternate"/>
-    <summary>바바라의 신규 코스튬 - 「빛나는 협주」가 게임에서 출시될 예정입니다. 「기억의 메아리」 이벤트를 완료하면 해당 코스튬을 무료로 획득할 수 있습니다!</summary>
-    <published>2021-06-08T12:15:00+09:00</published>
-  </entry>
   <entry>
     <id>13428</id>
     <title>「여름! 섬? 모험!」 1.6 버전 업데이트 상세안내</title>
@@ -978,5 +969,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16075" rel="alternate"/>
     <summary>〈원신〉 이나즈마 편 OST 〈고요한 무망의 국가 Realm of Tranquil Eternity〉 출시. </summary>
     <published>2021-09-22T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16159</id>
+    <title>&lt;원신&gt; 여행자의 깊은 생각 - 이나즈마 음악 비하인드</title>
+    <updated>2021-09-24T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416535331543.png"><br/><br/><원신> 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16159"><원신> 여행자의 깊은 생각 - 이나즈마 음악 비하인드</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16159" rel="alternate"/>
+    <summary>&lt;원신&gt; 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다</summary>
+    <published>2021-09-24T18:01:00+09:00</published>
   </entry>
 </feed>

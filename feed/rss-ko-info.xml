@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 24 Sep 2021 09:09:09 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 티바트 스타일·코스튬PV - 해변의 노래</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13360</link>
-      <description>이상적인 여름날은 시원한 바닷바람과 함께 눈부신 햇살 그리고 신나는 음악이 있어야 한다.
-그리고… 소중한 사람과 손잡고 노래를 부르며 함께 물보라가 피어오르는 금빛 백사장을 걷는 것이다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810421376227.jpg"><br/><br/>이상적인 여름날은 시원한 바닷바람과 함께 눈부신 햇살 그리고 신나는 음악이 있어야 한다.
-그리고… 소중한 사람과 손잡고 노래를 부르며 함께 물보라가 피어오르는 금빛 백사장을 걷는 것이다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13360"><원신> 티바트 스타일·코스튬PV - 해변의 노래</a>]]></content:encoded>
-      <guid isPermaLink="false">13360</guid>
-      <pubDate>Tue, 08 Jun 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Sep 2021 10:10:31 +0000</lastBuildDate>
     <item>
       <title>[코스튬 이미지] 「바닷바람의 꿈」 - 진 신규 코스튬 출시 예정!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13385</link>
@@ -878,6 +868,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092017321072736.jpg"><br/><br/>〈원신〉 이나즈마 편 OST 〈고요한 무망의 국가 Realm of Tranquil Eternity〉 출시. <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16075"><원신> OST - <고요한 무망의 국가  Realm of Tranquil Eternity></a>]]></content:encoded>
       <guid isPermaLink="false">16075</guid>
       <pubDate>Wed, 22 Sep 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 여행자의 깊은 생각 - 이나즈마 음악 비하인드</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16159</link>
+      <description>&lt;원신&gt; 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416535331543.png"><br/><br/><원신> 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16159"><원신> 여행자의 깊은 생각 - 이나즈마 음악 비하인드</a>]]></content:encoded>
+      <guid isPermaLink="false">16159</guid>
+      <pubDate>Fri, 24 Sep 2021 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

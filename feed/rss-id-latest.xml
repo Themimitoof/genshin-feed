@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 24 Sep 2021 09:09:07 +0000</lastBuildDate>
-    <item>
-      <title>[Kostum] Summertime Sparkle: Kostum Baru Barbara Segera Hadir!</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/13395</link>
-      <description>Kostum baru Barbara "Summertime Sparkle" akan segera hadir di dalam game. Selesaikan Event "Gema Sebuah Cerita" untuk mendapatkan Kostum Barbara secara cuma-cuma!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060814440847686.png"><br/><br/>Kostum baru Barbara "Summertime Sparkle" akan segera hadir di dalam game. Selesaikan Event "Gema Sebuah Cerita" untuk mendapatkan Kostum Barbara secara cuma-cuma!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13395">[Kostum] Summertime Sparkle: Kostum Baru Barbara Segera Hadir!</a>]]></content:encoded>
-      <guid isPermaLink="false">13395</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Sep 2021 10:10:15 +0000</lastBuildDate>
     <item>
       <title>Rincian Update v1.6 "Petualangan Pulau Musim Panas"</title>
       <link>https://genshin.mihoyo.com/id/news/detail/13427</link>
@@ -807,6 +799,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018051050342.jpg"><br/><br/>OST Chapter Inazuma dalam Genshin Impact — "Realm of Tranquil Eternity" resmi dirilis.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16079">Album OST Genshin Impact — Realm of Tranquil Eternity</a>]]></content:encoded>
       <guid isPermaLink="false">16079</guid>
       <pubDate>Wed, 22 Sep 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Renungan Sang Pengembara — Di Balik Layar Pembuatan Musik Inazuma | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/16147</link>
+      <description>OST Inazuma di Genshin Impact diciptakan oleh Yu-Peng Chen dari tim @HOYO-MiX, direkam oleh Tokyo Philharmonic Orchestra beserta musisi musik rakyat Jepang terbaik, serta diproduksi oleh tim HOYO-MiX dan Sony Music Entertainment (Japan) Inc. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415560736262.png"><br/><br/>OST Inazuma di Genshin Impact diciptakan oleh Yu-Peng Chen dari tim @HOYO-MiX, direkam oleh Tokyo Philharmonic Orchestra beserta musisi musik rakyat Jepang terbaik, serta diproduksi oleh tim HOYO-MiX dan Sony Music Entertainment (Japan) Inc. <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16147">Renungan Sang Pengembara — Di Balik Layar Pembuatan Musik Inazuma | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16147</guid>
+      <pubDate>Fri, 24 Sep 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
