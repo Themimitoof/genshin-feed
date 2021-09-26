@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 26 Sep 2021 02:22:20 +0000</lastBuildDate>
-    <item>
-      <title>Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13376</link>
-      <description>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812464312289.png"><br/><br/>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13376">Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</a>]]></content:encoded>
-      <guid isPermaLink="false">13376</guid>
-      <pubDate>Tue, 08 Jun 2021 12:08:16 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 03:09:50 +0000</lastBuildDate>
     <item>
       <title>Описание версии 1.6 «Лето! Остров? Приключение!»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13418</link>
@@ -810,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415531880539.png"><br/><br/>OST Genshin Impact Инадзумы был создан Yu-Peng Chen и @HOYO-MiX, записан Токийским филармоническим оркестром вместе с лучшими фолк-музыкантами Японии и спродюсирован @HOYO-MiX совместно с Sony Music Entertainment (Japan) Inc.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16139">Размышления Путешественников | Запись OST Инадзумы</a>]]></content:encoded>
       <guid isPermaLink="false">16139</guid>
       <pubDate>Fri, 24 Sep 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Лунное утешение»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16131</link>
+      <description>Новое событие «Лунное утешение» скоро начнётся!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414054446291.jpg"><br/><br/>Новое событие «Лунное утешение» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16131">Описание события «Лунное утешение»</a>]]></content:encoded>
+      <guid isPermaLink="false">16131</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

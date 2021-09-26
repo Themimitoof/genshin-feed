@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Sep 2021 02:22:11 +0000</lastBuildDate>
-    <item>
-      <title>Présentation de tenue : « Rêve de la brise marine » | La nouvelle tenue de Jean sera bientôt disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13386</link>
-      <description>La nouvelle tenue de Jean « Rêve de la brise marine » sera bientôt disponible. Vous pourrez vous la procurer dans la boutique !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812501546721.png"><br/><br/>La nouvelle tenue de Jean « Rêve de la brise marine » sera bientôt disponible. Vous pourrez vous la procurer dans la boutique !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13386">Présentation de tenue : « Rêve de la brise marine » | La nouvelle tenue de Jean sera bientôt disponible !</a>]]></content:encoded>
-      <guid isPermaLink="false">13386</guid>
-      <pubDate>Tue, 08 Jun 2021 12:31:24 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 03:09:15 +0000</lastBuildDate>
     <item>
       <title>Présentation de tenue : « Été radieux » | La nouvelle tenue de Barbara sera bientôt disponible !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13388</link>
@@ -831,6 +823,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416431653350.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16154">Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</a>]]></description>
       <guid isPermaLink="false">16154</guid>
       <pubDate>Fri, 24 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Liesse au clair de lune »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16134</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414050317358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16134">Détails de l'événement « Liesse au clair de lune »</a>]]></description>
+      <guid isPermaLink="false">16134</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

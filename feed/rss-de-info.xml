@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 26 Sep 2021 02:22:14 +0000</lastBuildDate>
-    <item>
-      <title>Kleidungspräsentation: Jeans neue Kleidung „Traum von der Meeresbrise“ bald verfügbar!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13389</link>
-      <description>Hallo, Reisende!
-Seid ihr auch schon aufgeregt? Jeans neue Kleidung „Traum von der Meeresbrise“ ist bald im Spiel beim Händler erhältlich!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060814375076430.png"><br/><br/>Hallo, Reisende!
-Seid ihr auch schon aufgeregt? Jeans neue Kleidung „Traum von der Meeresbrise“ ist bald im Spiel beim Händler erhältlich!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13389">Kleidungspräsentation: Jeans neue Kleidung „Traum von der Meeresbrise“ bald verfügbar!</a>]]></content:encoded>
-      <guid isPermaLink="false">13389</guid>
-      <pubDate>Tue, 08 Jun 2021 13:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 03:09:25 +0000</lastBuildDate>
     <item>
       <title>Kleidungspräsentation: Barbaras neue Kleidung „Glänzende Darbietung“ bald verfügbar!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13396</link>
@@ -836,6 +826,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416031027698.png"><br/><br/>Dieses Video gewährt euch einen Einblick in die künstlerische Philosophie hinter der Originalmusik zu Inazuma und dokumentiert die anderthalbmonatige kultur- und sprachübergreifende Zusammenarbeit zwischen dem chinesischen und dem japanischen Team.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16149">Gedanken der Reisenden – Hinter den Kulissen der Spielmusik zu Inazuma von Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16149</guid>
       <pubDate>Fri, 24 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Mondlichtfreude“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16135</link>
+      <description>Neue Aktion „Mondlichtfreude“ bald verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414044572848.jpg"><br/><br/>Neue Aktion „Mondlichtfreude“ bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16135">Erläuterungen zur Spielweise von „Mondlichtfreude“</a>]]></content:encoded>
+      <guid isPermaLink="false">16135</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

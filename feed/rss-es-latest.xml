@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Sep 2021 02:22:15 +0000</lastBuildDate>
-    <item>
-      <title>Detalles de la versión 1.6 «¡Verano, islas, aventuras!»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13429</link>
-      <description>Aquí encontrarás los detalles del contenido de la versión 1.6 «¡Verano, islas, aventuras!» y las compensaciones por actualización.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060908585856294.jpg"><br/><br/>Aquí encontrarás los detalles del contenido de la versión 1.6 «¡Verano, islas, aventuras!» y las compensaciones por actualización.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13429">Detalles de la versión 1.6 «¡Verano, islas, aventuras!»</a>]]></content:encoded>
-      <guid isPermaLink="false">13429</guid>
-      <pubDate>Wed, 09 Jun 2021 07:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 03:09:28 +0000</lastBuildDate>
     <item>
       <title>Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13430</link>
@@ -800,6 +792,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415513526541.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16137">Reflexiones de los viajeros - Detrás de las escenas de la banda sonora de Inazuma</a>]]></description>
       <guid isPermaLink="false">16137</guid>
       <pubDate>Fri, 24 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego del evento «Festival de la Luna»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16133</link>
+      <description>¡El nuevo evento «Festival de la Luna» estará disponible pronto!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210923/2021092315463853842.jpg"><br/><br/>¡El nuevo evento «Festival de la Luna» estará disponible pronto!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16133">Modo de juego del evento «Festival de la Luna»</a>]]></content:encoded>
+      <guid isPermaLink="false">16133</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

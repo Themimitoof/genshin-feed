@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Sep 2021 02:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 03:09:19 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -216,14 +216,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Détails de l'événement « Odyssée estivale dans les îles »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13346</link>
-      <description>Nouvel événement « Odyssée estivale dans les îles » bientôt disponible !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060722122171270.jpg"><br/><br/>Nouvel événement « Odyssée estivale dans les îles » bientôt disponible !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13346">Détails de l'événement « Odyssée estivale dans les îles »</a>]]></content:encoded>
-      <guid isPermaLink="false">13346</guid>
-      <pubDate>Tue, 08 Jun 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Aperçu de la mode de Teyvat : Chanson romantique de la plage</title>
@@ -1042,12 +1034,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Fri, 24 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Présentation de tenue : « Rêve de la brise marine » | La nouvelle tenue de Jean sera bientôt disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13386</link>
-      <description>La nouvelle tenue de Jean « Rêve de la brise marine » sera bientôt disponible. Vous pourrez vous la procurer dans la boutique !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812501546721.png"><br/><br/>La nouvelle tenue de Jean « Rêve de la brise marine » sera bientôt disponible. Vous pourrez vous la procurer dans la boutique !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13386">Présentation de tenue : « Rêve de la brise marine » | La nouvelle tenue de Jean sera bientôt disponible !</a>]]></content:encoded>
-      <guid isPermaLink="false">13386</guid>
-      <pubDate>Tue, 08 Jun 2021 12:31:24 +0200</pubDate>
+      <title>Détails de l'événement « Liesse au clair de lune »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16134</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414050317358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16134">Détails de l'événement « Liesse au clair de lune »</a>]]></description>
+      <guid isPermaLink="false">16134</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Présentation de tenue : « Été radieux » | La nouvelle tenue de Barbara sera bientôt disponible !</title>
@@ -1863,6 +1854,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416431653350.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16154">Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</a>]]></description>
       <guid isPermaLink="false">16154</guid>
       <pubDate>Fri, 24 Sep 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Liesse au clair de lune »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16134</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414050317358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16134">Détails de l'événement « Liesse au clair de lune »</a>]]></description>
+      <guid isPermaLink="false">16134</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

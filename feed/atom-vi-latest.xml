@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-09-26T02:22:22.426441+00:00</updated>
+  <updated>2021-09-26T03:09:56.770683+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>13394</id>
-    <title>[Trang phục] "Giấc Mộng Gió Biển" | Trang phục mới của Jean sắp ra mắt!</title>
-    <updated>2021-06-08T14:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060814370755090.png"><br/><br/>Nhà Lữ Hành thân mến!
-Trang phục mới của Jean - "Giấc Mộng Gió Biển" sắp ra mắt trong game, Nhà Lữ Hành có thể mua tại cửa hàng thời trang nhân vật!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13394">[Trang phục] "Giấc Mộng Gió Biển" | Trang phục mới của Jean sắp ra mắt!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13394" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến!
-Trang phục mới của Jean - "Giấc Mộng Gió Biển" sắp ra mắt trong game, Nhà Lữ Hành có thể mua tại cửa hàng thời trang nhân vật!</summary>
-    <published>2021-06-08T14:30:00+07:00</published>
-  </entry>
   <entry>
     <id>13397</id>
     <title>[Trang phục] "Mùa Hè Rực Rỡ" | Trang phục mới của Barbara sắp ra mắt!	</title>
@@ -925,5 +914,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416444389289.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16156">Hậu Trường Âm Nhạc Inazuma Của Genshin Impact - Nỗi Lòng Người Lữ Khách</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16156" rel="alternate"/>
     <published>2021-09-24T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16132</id>
+    <title>Hướng Dẫn Cách Chơi "Trăng Thu Soi Sáng"	</title>
+    <updated>2021-09-26T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414052755742.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16132">Hướng Dẫn Cách Chơi "Trăng Thu Soi Sáng"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16132" rel="alternate"/>
+    <summary/>
+    <published>2021-09-26T10:30:00+07:00</published>
   </entry>
 </feed>

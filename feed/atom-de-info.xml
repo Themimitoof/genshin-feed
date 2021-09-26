@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-09-26T02:22:14.124881+00:00</updated>
+  <updated>2021-09-26T03:09:25.126461+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>13389</id>
-    <title>Kleidungspräsentation: Jeans neue Kleidung „Traum von der Meeresbrise“ bald verfügbar!</title>
-    <updated>2021-06-08T13:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060814375076430.png"><br/><br/>Hallo, Reisende!
-Seid ihr auch schon aufgeregt? Jeans neue Kleidung „Traum von der Meeresbrise“ ist bald im Spiel beim Händler erhältlich!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13389">Kleidungspräsentation: Jeans neue Kleidung „Traum von der Meeresbrise“ bald verfügbar!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13389" rel="alternate"/>
-    <summary>Hallo, Reisende!
-Seid ihr auch schon aufgeregt? Jeans neue Kleidung „Traum von der Meeresbrise“ ist bald im Spiel beim Händler erhältlich!</summary>
-    <published>2021-06-08T13:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13396</id>
     <title>Kleidungspräsentation: Barbaras neue Kleidung „Glänzende Darbietung“ bald verfügbar!</title>
@@ -936,5 +925,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
     <link href="https://genshin.mihoyo.com/de/news/detail/16149" rel="alternate"/>
     <summary>Dieses Video gewährt euch einen Einblick in die künstlerische Philosophie hinter der Originalmusik zu Inazuma und dokumentiert die anderthalbmonatige kultur- und sprachübergreifende Zusammenarbeit zwischen dem chinesischen und dem japanischen Team.</summary>
     <published>2021-09-24T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16135</id>
+    <title>Erläuterungen zur Spielweise von „Mondlichtfreude“</title>
+    <updated>2021-09-26T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414044572848.jpg"><br/><br/>Neue Aktion „Mondlichtfreude“ bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16135">Erläuterungen zur Spielweise von „Mondlichtfreude“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16135" rel="alternate"/>
+    <summary>Neue Aktion „Mondlichtfreude“ bald verfügbar!</summary>
+    <published>2021-09-26T10:30:00+02:00</published>
   </entry>
 </feed>

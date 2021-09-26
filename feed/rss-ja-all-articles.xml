@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Sep 2021 02:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 03:09:40 +0000</lastBuildDate>
     <item>
       <title>Webイベント・「岩港珍奇行紀」開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6712</link>
@@ -706,6 +706,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091810421085512.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15968">「睡竜の章」任務予告</a>]]></description>
       <guid isPermaLink="false">15968</guid>
       <pubDate>Sun, 19 Sep 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「韶光撫月」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16136</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414393330960.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16136">「韶光撫月」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">16136</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>補給パック「空月の祝福」が抽選で当たるキャンペーン開催！</title>
@@ -1504,13 +1511,6 @@
       <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>原神Ver.1.5アップデート記念 パイモンを探せ！キャンペーン 詳細</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/11686</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210412/2021041218270816416.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/11686">原神Ver.1.5アップデート記念 パイモンを探せ！キャンペーン 詳細</a>]]></description>
-      <guid isPermaLink="false">11686</guid>
-      <pubDate>Tue, 20 Apr 2021 22:45:00 +0900</pubDate>
-    </item>
-    <item>
       <title>Ver.1.5事前ダウンロードが間もなく開始</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12144</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210421/2021042117461431802.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12144">Ver.1.5事前ダウンロードが間もなく開始</a>]]></description>
@@ -2215,6 +2215,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091810421085512.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15968">「睡竜の章」任務予告</a>]]></description>
       <guid isPermaLink="false">15968</guid>
       <pubDate>Sun, 19 Sep 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「韶光撫月」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16136</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414393330960.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16136">「韶光撫月」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">16136</guid>
+      <pubDate>Sun, 26 Sep 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

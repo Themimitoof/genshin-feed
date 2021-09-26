@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-09-26T02:22:21.527530+00:00</updated>
+  <updated>2021-09-26T03:09:53.193716+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -250,15 +250,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13376</id>
-    <title>Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</title>
-    <updated>2021-06-08T12:08:16+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060812464312289.png"><br/><br/>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13376">Обзор костюма «Летний блеск»: новый костюм Барбары скоро в игре!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13376" rel="alternate"/>
-    <summary>Новый костюм Барбары «Летний блеск» скоро появится в игре! Его можно будет получить бесплатно, выполнив испытания события «Эхо легенд»!</summary>
-    <published>2021-06-08T12:08:16+03:00</published>
   </entry>
   <entry>
     <id>13418</id>
@@ -1155,17 +1146,13 @@
     <published>2021-09-24T18:00:00+03:00</published>
   </entry>
   <entry>
-    <id>13399</id>
-    <title>«Сокровища знойного лета» | Мини-альбом Genshin Impact</title>
-    <updated>2021-06-09T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060815082611842.jpg"><br/><br/>Украдкой уходит багровое солнце, пытаясь сбежать к летним равнинам.
-Гений взрывов, высоко подняв голову, ищет сокровище Рыцаря Искорки.
-Недолго осталось рыбе спокойно плавать в кристальных ручьях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13399">«Сокровища знойного лета» | Мини-альбом Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13399" rel="alternate"/>
-    <summary>Украдкой уходит багровое солнце, пытаясь сбежать к летним равнинам.
-Гений взрывов, высоко подняв голову, ищет сокровище Рыцаря Искорки.
-Недолго осталось рыбе спокойно плавать в кристальных ручьях.</summary>
-    <published>2021-06-09T12:00:00+03:00</published>
+    <id>16131</id>
+    <title>Описание события «Лунное утешение»</title>
+    <updated>2021-09-26T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414054446291.jpg"><br/><br/>Новое событие «Лунное утешение» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16131">Описание события «Лунное утешение»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16131" rel="alternate"/>
+    <summary>Новое событие «Лунное утешение» скоро начнётся!</summary>
+    <published>2021-09-26T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>13462</id>
@@ -2055,5 +2042,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16139" rel="alternate"/>
     <summary>OST Genshin Impact Инадзумы был создан Yu-Peng Chen и @HOYO-MiX, записан Токийским филармоническим оркестром вместе с лучшими фолк-музыкантами Японии и спродюсирован @HOYO-MiX совместно с Sony Music Entertainment (Japan) Inc.</summary>
     <published>2021-09-24T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16131</id>
+    <title>Описание события «Лунное утешение»</title>
+    <updated>2021-09-26T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414054446291.jpg"><br/><br/>Новое событие «Лунное утешение» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16131">Описание события «Лунное утешение»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16131" rel="alternate"/>
+    <summary>Новое событие «Лунное утешение» скоро начнётся!</summary>
+    <published>2021-09-26T10:30:00+03:00</published>
   </entry>
 </feed>
