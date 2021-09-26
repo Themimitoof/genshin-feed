@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Sep 2021 10:09:19 +0000</lastBuildDate>
-    <item>
-      <title>Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13430</link>
-      <description>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909015136453.jpg"><br/><br/>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13430">Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</a>]]></content:encoded>
-      <guid isPermaLink="false">13430</guid>
-      <pubDate>Wed, 09 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 11:08:19 +0000</lastBuildDate>
     <item>
       <title>Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13572</link>
@@ -800,6 +792,13 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210923/2021092315463853842.jpg"><br/><br/>¡El nuevo evento «Festival de la Luna» estará disponible pronto!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16133">Modo de juego del evento «Festival de la Luna»</a>]]></content:encoded>
       <guid isPermaLink="false">16133</guid>
       <pubDate>Sun, 26 Sep 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16173</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618334960106.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16173">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></description>
+      <guid isPermaLink="false">16173</guid>
+      <pubDate>Sun, 26 Sep 2021 19:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

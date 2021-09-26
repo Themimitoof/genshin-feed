@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 26 Sep 2021 10:09:23 +0000</lastBuildDate>
-    <item>
-      <title>Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13462</link>
-      <description>Здравствуйте, Путешественники! \(^o^)/ Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017370080178.jpg"><br/><br/>Здравствуйте, Путешественники! \(^o^)/ Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13462">Страница версии 1.6 «Лето! Остров? Приключение!» уже онлайн!</a>]]></content:encoded>
-      <guid isPermaLink="false">13462</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 11:08:39 +0000</lastBuildDate>
     <item>
       <title>«Ветер под луной» Каэдэхара Кадзуха - Истории персонажей | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13550</link>
@@ -805,6 +797,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414054446291.jpg"><br/><br/>Новое событие «Лунное утешение» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16131">Описание события «Лунное утешение»</a>]]></content:encoded>
       <guid isPermaLink="false">16131</guid>
       <pubDate>Sun, 26 Sep 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16170</link>
+      <description>Музыкальные таланты из Бельгии, Южной Кореи, США и других стран раскроют самобытное очарование симфонической, поп и музыки а капелла в собственной изящной интерпретации саундтрека Genshin Impact.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618301447803.jpg"><br/><br/>Музыкальные таланты из Бельгии, Южной Кореи, США и других стран раскроют самобытное очарование симфонической, поп и музыки а капелла в собственной изящной интерпретации саундтрека Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16170">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></content:encoded>
+      <guid isPermaLink="false">16170</guid>
+      <pubDate>Sun, 26 Sep 2021 19:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

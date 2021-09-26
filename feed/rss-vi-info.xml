@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 26 Sep 2021 10:09:26 +0000</lastBuildDate>
-    <item>
-      <title>[Trang phục] "Giấc Mộng Gió Biển" | Trang phục mới của Jean sắp ra mắt!</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/13394</link>
-      <description>Nhà Lữ Hành thân mến!
-Trang phục mới của Jean - "Giấc Mộng Gió Biển" sắp ra mắt trong game, Nhà Lữ Hành có thể mua tại cửa hàng thời trang nhân vật!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060814370755090.png"><br/><br/>Nhà Lữ Hành thân mến!
-Trang phục mới của Jean - "Giấc Mộng Gió Biển" sắp ra mắt trong game, Nhà Lữ Hành có thể mua tại cửa hàng thời trang nhân vật!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13394">[Trang phục] "Giấc Mộng Gió Biển" | Trang phục mới của Jean sắp ra mắt!</a>]]></content:encoded>
-      <guid isPermaLink="false">13394</guid>
-      <pubDate>Tue, 08 Jun 2021 14:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Sep 2021 11:08:48 +0000</lastBuildDate>
     <item>
       <title>[Trang phục] "Mùa Hè Rực Rỡ" | Trang phục mới của Barbara sắp ra mắt!	</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/13397</link>
@@ -818,6 +808,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414052755742.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16132">Hướng Dẫn Cách Chơi "Trăng Thu Soi Sáng"	</a>]]></description>
       <guid isPermaLink="false">16132</guid>
       <pubDate>Sun, 26 Sep 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16184</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618374145992.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16184">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></description>
+      <guid isPermaLink="false">16184</guid>
+      <pubDate>Sun, 26 Sep 2021 19:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-09-26T10:09:16.165521+00:00</updated>
+  <updated>2021-09-26T11:08:08.960931+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>13356</id>
-    <title>Genshin Impact - Aperçu de la mode de Teyvat : Chanson romantique de la plage</title>
-    <updated>2021-06-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060810312074154.jpg"><br/><br/>Un jour d'été idéal, c'est une douce brise marine, un soleil rayonnant et le son d'une jolie mélodie qui joue dans nos oreilles. Et puis... du sable doré sur lequel on se promène, main dans la main en fredonnant une chanson.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13356">Genshin Impact - Aperçu de la mode de Teyvat : Chanson romantique de la plage</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13356" rel="alternate"/>
-    <summary>Un jour d'été idéal, c'est une douce brise marine, un soleil rayonnant et le son d'une jolie mélodie qui joue dans nos oreilles. Et puis... du sable doré sur lequel on se promène, main dans la main en fredonnant une chanson.</summary>
-    <published>2021-06-08T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13386</id>
     <title>Présentation de tenue : « Rêve de la brise marine » | La nouvelle tenue de Jean sera bientôt disponible !</title>
@@ -936,5 +927,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/16134" rel="alternate"/>
     <summary/>
     <published>2021-09-26T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16188</id>
+    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
+    <updated>2021-09-26T19:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618574752785.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16188">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16188" rel="alternate"/>
+    <published>2021-09-26T19:00:00+02:00</published>
   </entry>
 </feed>

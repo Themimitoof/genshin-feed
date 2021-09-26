@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-09-26T10:09:14.568909+00:00</updated>
+  <updated>2021-09-26T11:08:04.572902+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13334</id>
-    <title>"Midsummer Island Adventure" Gameplay Details</title>
-    <updated>2021-06-08T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719344967548.jpg"><br/><br/>One summer day, Klee suddenly receives a letter from the mysterious Dodo-King, threatening to take Dodoco away? Help her discover the truth!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13334">"Midsummer Island Adventure" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13334" rel="alternate"/>
-    <summary>One summer day, Klee suddenly receives a letter from the mysterious Dodo-King, threatening to take Dodoco away? Help her discover the truth!</summary>
-    <published>2021-06-08T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>13351</id>
     <title>Outfit Teaser: Teyvat Style – Beachside Ballad | Genshin Impact</title>
@@ -1009,5 +1000,14 @@ The autumn moon shines bright, and Liyue Harbor is hard at work preparing for th
     <summary>The new event "Moonlight Merriment" is about to begin!
 The autumn moon shines bright, and Liyue Harbor is hard at work preparing for the traditional Moonchase Festival. The preparations for various activities based on the festival's theme are well underway.</summary>
     <published>2021-09-26T10:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16174</id>
+    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
+    <updated>2021-09-26T19:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618335149374.jpg"><br/><br/>Talented musicians from around the world, including Belgium, South Korea, and the United States, will showcase the unique charm of symphonic, pop and a cappella music, respectively, with their renditions of the melodious Genshin Impact soundtrack.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16174">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16174" rel="alternate"/>
+    <summary>Talented musicians from around the world, including Belgium, South Korea, and the United States, will showcase the unique charm of symphonic, pop and a cappella music, respectively, with their renditions of the melodious Genshin Impact soundtrack.</summary>
+    <published>2021-09-26T19:00:00-04:00</published>
   </entry>
 </feed>
