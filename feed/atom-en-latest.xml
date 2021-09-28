@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-09-28T03:09:55.519549+00:00</updated>
+  <updated>2021-09-28T04:11:13.341817+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13398</id>
-    <title>Outfit Showcase: Summertime Sparkle | Barbara's New Outfit Available Soon!</title>
-    <updated>2021-06-08T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060813555529391.png"><br/><br/>Barbara's new outfit "Summertime Sparkle" will be coming soon to the game. Travelers can obtain this outfit for free after completing the "Echoing Tales" event.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13398">Outfit Showcase: Summertime Sparkle | Barbara's New Outfit Available Soon!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13398" rel="alternate"/>
-    <summary>Barbara's new outfit "Summertime Sparkle" will be coming soon to the game. Travelers can obtain this outfit for free after completing the "Echoing Tales" event.</summary>
-    <published>2021-06-08T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>13423</id>
-    <title>"Midsummer Island Adventure" Version 1.6 Update Details</title>
-    <updated>2021-06-09T07:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060819485032662.jpg"><br/><br/>Below are the details of the Version 1.6 update "Midsummer Island Adventure" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13423">"Midsummer Island Adventure" Version 1.6 Update Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13423" rel="alternate"/>
-    <summary>Below are the details of the Version 1.6 update "Midsummer Island Adventure" and the update compensation.</summary>
-    <published>2021-06-09T07:00:00-04:00</published>
-  </entry>
   <entry>
     <id>13413</id>
     <title>Genshin Impact EP - Trail of the Scorching Summer Treasure</title>
@@ -1007,5 +989,27 @@ The autumn moon shines bright, and Liyue Harbor is hard at work preparing for th
     <link href="https://genshin.mihoyo.com/en/news/detail/16174" rel="alternate"/>
     <summary>Talented musicians from around the world, including Belgium, South Korea, and the United States, will showcase the unique charm of symphonic, pop and a cappella music, respectively, with their renditions of the melodious Genshin Impact soundtrack.</summary>
     <published>2021-09-26T19:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16230</id>
+    <title>Anniversary Web Event "An Unforgettable Journey" Now Online: Watch your own anniversary theater to obtain Primogems and other rewards</title>
+    <updated>2021-09-28T11:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092810593223638.jpg"><br/><br/>365 days and nights have passed, and the curtain is about to rise on the Anniversary Theater dedicated to you...
+Travelers can watch their personalized Anniversary Theater on the event page. After watching during the event period, Travelers will receive a viewing gift.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16230">Anniversary Web Event "An Unforgettable Journey" Now Online: Watch your own anniversary theater to obtain Primogems and other rewards</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16230" rel="alternate"/>
+    <summary>365 days and nights have passed, and the curtain is about to rise on the Anniversary Theater dedicated to you...
+Travelers can watch their personalized Anniversary Theater on the event page. After watching during the event period, Travelers will receive a viewing gift.</summary>
+    <published>2021-09-28T11:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16215</id>
+    <title>Promotional Video - Together on a Long Journey | Genshin Impact</title>
+    <updated>2021-09-28T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092718002257207.jpg"><br/><br/>The first ray of sun shines on the horizon, while the stars sparkle brightly.
+We went on a long journey in Teyvat together, and now a new adventure awaits us.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16215">Promotional Video - Together on a Long Journey | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16215" rel="alternate"/>
+    <summary>The first ray of sun shines on the horizon, while the stars sparkle brightly.
+We went on a long journey in Teyvat together, and now a new adventure awaits us.</summary>
+    <published>2021-09-28T12:00:00-04:00</published>
   </entry>
 </feed>

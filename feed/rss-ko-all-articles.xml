@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 28 Sep 2021 03:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 04:12:01 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -256,14 +256,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「여름! 섬? 모험!」 1.6 버전 업데이트 상세안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13428</link>
-      <description>1.6 버전 업데이트 안내</description>
-      <content:encoded><![CDATA[1.6 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13428">「여름! 섬? 모험!」 1.6 버전 업데이트 상세안내</a>]]></content:encoded>
-      <guid isPermaLink="false">13428</guid>
-      <pubDate>Wed, 09 Jun 2021 07:00:00 +0900</pubDate>
     </item>
     <item>
       <title>&lt;원신&gt; EP - 뜨거운 여름날 보물찾기</title>
@@ -1126,12 +1118,12 @@
       <pubDate>Sun, 26 Sep 2021 19:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13466</link>
-      <description>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061018143441018.jpg"><br/><br/>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13466">1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</a>]]></content:encoded>
-      <guid isPermaLink="false">13466</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0900</pubDate>
+      <title>&lt;원신&gt; 홍보 영상 - 머나먼 여정의 동행</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16217</link>
+      <description>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092720500296031.jpg"><br/><br/>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16217"><원신> 홍보 영상 - 머나먼 여정의 동행</a>]]></content:encoded>
+      <guid isPermaLink="false">16217</guid>
+      <pubDate>Tue, 28 Sep 2021 12:01:00 +0900</pubDate>
     </item>
     <item>
       <title>&lt;원신&gt; 카에데하라 카즈하 캐릭터 PV - 「달빛 아래 불어오는 바람」</title>
@@ -1988,6 +1980,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618350530240.jpg"><br/><br/>﻿한국, 미국, 벨기에 등 세계 각국의 실력파 뮤지션들이 클래식 교향곡, 팝송, 아카펠라의 형식으로 <원신>의 감미롭고 선율적인 BGM을 재해석해 특유의 매력을 선보일 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16179">원신 콘서트 2021 - Melodies of an Endless Journey (티저 3)</a>]]></content:encoded>
       <guid isPermaLink="false">16179</guid>
       <pubDate>Sun, 26 Sep 2021 19:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 홍보 영상 - 머나먼 여정의 동행</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16217</link>
+      <description>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092720500296031.jpg"><br/><br/>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16217"><원신> 홍보 영상 - 머나먼 여정의 동행</a>]]></content:encoded>
+      <guid isPermaLink="false">16217</guid>
+      <pubDate>Tue, 28 Sep 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

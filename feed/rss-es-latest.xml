@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 28 Sep 2021 03:10:10 +0000</lastBuildDate>
-    <item>
-      <title>Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13572</link>
-      <description>La travesía hacia Inazuma será larga y rebosante de amenazas, pero Kaedehara Kazuha se mantiene sereno.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062311241920483.jpg"><br/><br/>La travesía hacia Inazuma será larga y rebosante de amenazas, pero Kaedehara Kazuha se mantiene sereno.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13572">Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</a>]]></content:encoded>
-      <guid isPermaLink="false">13572</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Evento web «Larga travesía» ya disponible</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13639</link>
-      <description>El sonido de una flauta tocada por un joven fluye a través del viento...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411453178423.jpg"><br/><br/>El sonido de una flauta tocada por un joven fluye a través del viento...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13639">Evento web «Larga travesía» ya disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">13639</guid>
-      <pubDate>Thu, 24 Jun 2021 13:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Sep 2021 04:11:38 +0000</lastBuildDate>
     <item>
       <title>Modo de juego del evento «Leyenda de la espada errante»</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13644</link>
@@ -799,6 +783,22 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618334960106.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16173">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></description>
       <guid isPermaLink="false">16173</guid>
       <pubDate>Sun, 26 Sep 2021 19:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡El evento web de aniversario «Un viaje inolvidable» ya está disponible! Mira tu teatro de aniversario para obtener Protogemas y otras recompensas.</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16228</link>
+      <description>El tiempo se pasa volando en Teyvat.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092810552138743.jpg"><br/><br/>El tiempo se pasa volando en Teyvat.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16228">¡El evento web de aniversario «Un viaje inolvidable» ya está disponible! Mira tu teatro de aniversario para obtener Protogemas y otras recompensas.</a>]]></content:encoded>
+      <guid isPermaLink="false">16228</guid>
+      <pubDate>Tue, 28 Sep 2021 11:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de Genshin Impact: Juntos en este largo viaje</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16200</link>
+      <description>Una luz difusa se alza en el horizonte; las estrellas resplandecen intensamente.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715435853202.jpg"><br/><br/>Una luz difusa se alza en el horizonte; las estrellas resplandecen intensamente.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16200">Avance de Genshin Impact: Juntos en este largo viaje</a>]]></content:encoded>
+      <guid isPermaLink="false">16200</guid>
+      <pubDate>Tue, 28 Sep 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 28 Sep 2021 03:10:30 +0000</lastBuildDate>
-    <item>
-      <title>«Ветер под луной» Каэдэхара Кадзуха - Истории персонажей | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13550</link>
-      <description>Каэдэхара Кадзуха</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062218473627600.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13550">«Ветер под луной» Каэдэхара Кадзуха - Истории персонажей | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13550</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету.</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13566</link>
-      <description>Каэдэхара Кадзуха</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062310145650966.png"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13566">Меня зовут Каэдэхара Кадзуха. Я скиталец, странствующий по всему свету.</a>]]></content:encoded>
-      <guid isPermaLink="false">13566</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Sep 2021 04:12:07 +0000</lastBuildDate>
     <item>
       <title>Описание события «Легенда о мече ветра»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13589</link>
@@ -805,6 +789,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618301447803.jpg"><br/><br/>Музыкальные таланты из Бельгии, Южной Кореи, США и других стран раскроют самобытное очарование симфонической, поп и музыки а капелла в собственной изящной интерпретации саундтрека Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16170">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></content:encoded>
       <guid isPermaLink="false">16170</guid>
       <pubDate>Sun, 26 Sep 2021 19:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Браузерное событие в честь годовщины «Путешествие воспоминаний» стартовало: посмотрите театр годовщины и получите подарки.</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16227</link>
+      <description>Время, проведённое в Тейвате, кажется, всегда пролетает незаметно.
+Прошло 365 дней и ночей, медленно открывается посвящённый вам театр годовщины...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092810531761013.jpg"><br/><br/>Время, проведённое в Тейвате, кажется, всегда пролетает незаметно.
+Прошло 365 дней и ночей, медленно открывается посвящённый вам театр годовщины...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16227">Браузерное событие в честь годовщины «Путешествие воспоминаний» стартовало: посмотрите театр годовщины и получите подарки.</a>]]></content:encoded>
+      <guid isPermaLink="false">16227</guid>
+      <pubDate>Tue, 28 Sep 2021 11:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Обзорное видео Genshin Impact - Совместное путешествие</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16196</link>
+      <description>Уже начинают появляться первые солнечные лучи, а звёзды всё ещё сверкают на небосводе.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715244137864.jpg"><br/><br/>Уже начинают появляться первые солнечные лучи, а звёзды всё ещё сверкают на небосводе.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16196">Обзорное видео Genshin Impact - Совместное путешествие</a>]]></content:encoded>
+      <guid isPermaLink="false">16196</guid>
+      <pubDate>Tue, 28 Sep 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

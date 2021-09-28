@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-09-28T03:10:14.892778+00:00</updated>
+  <updated>2021-09-28T04:11:44.255308+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13459</id>
-    <title>Halaman Preview v1.6 "Petualangan Pulau Musim Panas" telah hadir!</title>
-    <updated>2021-06-10T19:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017304036100.jpg"><br/><br/>Halo Traveler semua! \(^o^)/~ Halaman preview v1.6 "Petualangan Pulau Musim Panas" sudah hadir nih~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13459">Halaman Preview v1.6 "Petualangan Pulau Musim Panas" telah hadir!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13459" rel="alternate"/>
-    <summary>Halo Traveler semua! \(^o^)/~ Halaman preview v1.6 "Petualangan Pulau Musim Panas" sudah hadir nih~</summary>
-    <published>2021-06-10T19:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13561</id>
-    <title>Kisah Karakter: "Kaedehara Kazuha — Angin di Bawah Sinar Rembulan" | Genshin Impact</title>
-    <updated>2021-06-23T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062222595750929.jpg"><br/><br/>Perjalanan ke Inazuma, pasti akan menjadi perjalanan yang panjang dan sulit. Tapi hati Kaedehara Kazuha sadar dan siap akan semua itu.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13561">Kisah Karakter: "Kaedehara Kazuha — Angin di Bawah Sinar Rembulan" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13561" rel="alternate"/>
-    <summary>Perjalanan ke Inazuma, pasti akan menjadi perjalanan yang panjang dan sulit. Tapi hati Kaedehara Kazuha sadar dan siap akan semua itu.</summary>
-    <published>2021-06-23T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>13559</id>
     <title>"Namaku Kaedehara Kazuha, seseorang yang mengembara ke seluruh penjuru."</title>
@@ -907,5 +889,23 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/16186" rel="alternate"/>
     <summary>Para musisi berbakat dari Belgia, Korea Selatan, Amerika Serikat, dan negara lainnya masing-masing akan menampilkan pesona unik dari musik simfoni, pop, dan akapela, dengan membawakan soundtrack Genshin Impact yang anggun dan merdu.</summary>
     <published>2021-09-26T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16232</id>
+    <title>Event Web Anniversary "Perjalanan Tak Terlupakan" telah hadir. Tonton teater anniversary eksklusifmu untuk mendapatkan Primogem dan hadiah lainnya.</title>
+    <updated>2021-09-28T11:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811004066348.jpg"><br/><br/>Waktu yang dilewati di Teyvat berlalu dalam sekejap mata.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16232">Event Web Anniversary "Perjalanan Tak Terlupakan" telah hadir. Tonton teater anniversary eksklusifmu untuk mendapatkan Primogem dan hadiah lainnya.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16232" rel="alternate"/>
+    <summary>Waktu yang dilewati di Teyvat berlalu dalam sekejap mata.</summary>
+    <published>2021-09-28T11:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16205</id>
+    <title>Video Promosi: Bersama dalam Perjalanan Panjang | Genshin Impact</title>
+    <updated>2021-09-28T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092716065973579.jpg"><br/><br/>Sinar matahari terpancar dari cakrawala, dan bintang terlihat berkelap-kelip di langit.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16205">Video Promosi: Bersama dalam Perjalanan Panjang | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16205" rel="alternate"/>
+    <summary>Sinar matahari terpancar dari cakrawala, dan bintang terlihat berkelap-kelip di langit.</summary>
+    <published>2021-09-28T12:00:00+07:00</published>
   </entry>
 </feed>

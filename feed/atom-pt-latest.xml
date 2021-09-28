@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-09-28T03:10:26.224602+00:00</updated>
+  <updated>2021-09-28T04:12:01.988229+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>13563</id>
-    <title>Teaser do Personagem Kaedehara Kazuha de Genshin Impact - "A Brisa da Luz Lunar"</title>
-    <updated>2021-06-23T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062223051355260.jpg"><br/><br/>A jornada para Inazuma será longa e cheia de perigos, mas Kaedehara Kazuha está ciente.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13563">Teaser do Personagem Kaedehara Kazuha de Genshin Impact - "A Brisa da Luz Lunar"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13563" rel="alternate"/>
-    <summary>A jornada para Inazuma será longa e cheia de perigos, mas Kaedehara Kazuha está ciente.</summary>
-    <published>2021-06-23T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>13558</id>
-    <title>O meu nome é Kaedehara Kazuha, e sou um Ronin.</title>
-    <updated>2021-06-23T12:05:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062221450337590.png"><br/><br/>Hoje, vamos aprensentar para vocês Kaedehara Kazuha, um samurai de Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13558">O meu nome é Kaedehara Kazuha, e sou um Ronin.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13558" rel="alternate"/>
-    <summary>Hoje, vamos aprensentar para vocês Kaedehara Kazuha, um samurai de Inazuma.</summary>
-    <published>2021-06-23T12:05:00+01:00</published>
-  </entry>
   <entry>
     <id>13608</id>
     <title>Descrição do Modo de Jogo de Lenda Marcial do Vento</title>
@@ -914,5 +896,23 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16172" rel="alternate"/>
     <summary>Músicos talentosos da Bélgica, Coreia do Sul e Estados Unidos apresentarão a você a beleza e o charme da música sinfônica, pop e até mesmo a cappella por meio de suas interpretações da trilha sonora de Genshin Impact.</summary>
     <published>2021-09-26T19:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16237</id>
+    <title>O evento Web de Aniversário "Em Busca das Lembranças" já se encontra disponível - assista ao seu Teatro de Aniversário personalizado para ganhar Gemas Essenciais e outras recompensas</title>
+    <updated>2021-09-28T11:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811074713642.jpg"><br/><br/>Durante o período do evento, assista ao seu próprio Teatro de Aniversário até o final, na página de evento, e ganhe um presente de visualização exclusivo.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16237">O evento Web de Aniversário "Em Busca das Lembranças" já se encontra disponível - assista ao seu Teatro de Aniversário personalizado para ganhar Gemas Essenciais e outras recompensas</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16237" rel="alternate"/>
+    <summary>Durante o período do evento, assista ao seu próprio Teatro de Aniversário até o final, na página de evento, e ganhe um presente de visualização exclusivo.</summary>
+    <published>2021-09-28T11:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16195</id>
+    <title>Vídeo Promocional - Companheiros de Viagem | Genshin Impact</title>
+    <updated>2021-09-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715243787492.jpg"><br/><br/>Uma luminância difusa surge no horizonte, onde estrelas brilham intensamente. Nossos caminhos se cruzaram em Teyvat, onde embarcamos juntos para uma nova jornada.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16195">Vídeo Promocional - Companheiros de Viagem | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16195" rel="alternate"/>
+    <summary>Uma luminância difusa surge no horizonte, onde estrelas brilham intensamente. Nossos caminhos se cruzaram em Teyvat, onde embarcamos juntos para uma nova jornada.</summary>
+    <published>2021-09-28T12:00:00+01:00</published>
   </entry>
 </feed>

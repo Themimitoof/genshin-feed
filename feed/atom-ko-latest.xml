@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-09-28T03:10:22.421435+00:00</updated>
+  <updated>2021-09-28T04:11:55.649710+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13466</id>
-    <title>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</title>
-    <updated>2021-06-10T19:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061018143441018.jpg"><br/><br/>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13466">1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13466" rel="alternate"/>
-    <summary>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~</summary>
-    <published>2021-06-10T19:00:00+09:00</published>
-  </entry>
   <entry>
     <id>13554</id>
     <title>&lt;원신&gt; 카에데하라 카즈하 캐릭터 PV - 「달빛 아래 불어오는 바람」</title>
@@ -974,5 +965,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16179" rel="alternate"/>
     <summary>﻿한국, 미국, 벨기에 등 세계 각국의 실력파 뮤지션들이 클래식 교향곡, 팝송, 아카펠라의 형식으로 &lt;원신&gt;의 감미롭고 선율적인 BGM을 재해석해 특유의 매력을 선보일 예정입니다</summary>
     <published>2021-09-26T19:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16217</id>
+    <title>&lt;원신&gt; 홍보 영상 - 머나먼 여정의 동행</title>
+    <updated>2021-09-28T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092720500296031.jpg"><br/><br/>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16217"><원신> 홍보 영상 - 머나먼 여정의 동행</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16217" rel="alternate"/>
+    <summary>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.</summary>
+    <published>2021-09-28T12:01:00+09:00</published>
   </entry>
 </feed>
