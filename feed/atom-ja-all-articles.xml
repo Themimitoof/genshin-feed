@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-09-29T02:19:09.183826+00:00</updated>
+  <updated>2021-09-29T03:10:25.120592+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -884,6 +884,15 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16199" rel="alternate"/>
     <summary>1周年Webイベント「忘れがたき旅」——自分の1周年劇場を鑑賞して、原石などの報酬を獲得しましょう</summary>
     <published>2021-09-28T11:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16268</id>
+    <title>「時の手紙」イベント紹介</title>
+    <updated>2021-09-29T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210929/2021092910141123084.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16268">「時の手紙」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16268" rel="alternate"/>
+    <summary/>
+    <published>2021-09-29T11:00:00+09:00</published>
   </entry>
   <entry>
     <id>5861</id>
@@ -1874,15 +1883,6 @@
     <published>2021-06-30T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>12250</id>
-    <title>Ver.1.5「塵歌を纏いし扉」バージョンアップのお知らせ</title>
-    <updated>2021-04-25T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042510222022332.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12250">Ver.1.5「塵歌を纏いし扉」バージョンアップのお知らせ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12250" rel="alternate"/>
-    <summary/>
-    <published>2021-04-25T10:30:00+09:00</published>
-  </entry>
-  <entry>
     <id>12254</id>
     <title>Ver.1.5新魔物紹介</title>
     <updated>2021-04-25T12:00:00+09:00</updated>
@@ -2754,5 +2754,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16199" rel="alternate"/>
     <summary>1周年Webイベント「忘れがたき旅」——自分の1周年劇場を鑑賞して、原石などの報酬を獲得しましょう</summary>
     <published>2021-09-28T11:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16268</id>
+    <title>「時の手紙」イベント紹介</title>
+    <updated>2021-09-29T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210929/2021092910141123084.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16268">「時の手紙」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16268" rel="alternate"/>
+    <summary/>
+    <published>2021-09-29T11:00:00+09:00</published>
   </entry>
 </feed>
