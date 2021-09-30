@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2021-09-30T15:09:51.046797+00:00</updated>
+  <updated>2021-09-30T16:13:09.908988+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>events feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>6712</id>
-    <title>Webイベント・「岩港珍奇行紀」開始！</title>
-    <updated>2020-11-13T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201113/2020111311003536642.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6712">Webイベント・「岩港珍奇行紀」開始！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/6712" rel="alternate"/>
-    <summary/>
-    <published>2020-11-13T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>6755</id>
     <title>「帰らぬ熄星」イベント予告</title>
@@ -893,5 +884,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16268" rel="alternate"/>
     <summary/>
     <published>2021-09-29T12:23:00+09:00</published>
+  </entry>
+  <entry>
+    <id>15870</id>
+    <title>原神 Ver.2.2アップデート記念キャンペーン 参加規約</title>
+    <updated>2021-09-30T23:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15870">原神 Ver.2.2アップデート記念キャンペーン 参加規約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/15870" rel="alternate"/>
+    <published>2021-09-30T23:50:00+09:00</published>
   </entry>
 </feed>
