@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Sat, 02 Oct 2021 09:08:23 +0000</lastBuildDate>
-    <item>
-      <title>Descrição do Modo de Jogo de Lenda Marcial do Vento</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/13608</link>
-      <description>A porta que leva para um Domínio desconhecido já abriu. O que está dentro dela é um inimigo formidável nunca antes visto!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062319164314913.jpg"><br/><br/>A porta que leva para um Domínio desconhecido já abriu. O que está dentro dela é um inimigo formidável nunca antes visto!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13608">Descrição do Modo de Jogo de Lenda Marcial do Vento</a>]]></content:encoded>
-      <guid isPermaLink="false">13608</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Oct 2021 10:10:32 +0000</lastBuildDate>
     <item>
       <title>Evento web Com Recompensa "Viagem a ser concluída" Disponível</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/13634</link>
@@ -814,6 +806,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715243787492.jpg"><br/><br/>Uma luminância difusa surge no horizonte, onde estrelas brilham intensamente. Nossos caminhos se cruzaram em Teyvat, onde embarcamos juntos para uma nova jornada.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16195">Vídeo Promocional - Companheiros de Viagem | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16195</guid>
       <pubDate>Tue, 28 Sep 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16258</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818482678688.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16258">Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</a>]]></description>
+      <guid isPermaLink="false">16258</guid>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

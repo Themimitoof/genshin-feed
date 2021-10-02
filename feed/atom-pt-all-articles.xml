@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-10-02T09:08:23.980870+00:00</updated>
+  <updated>2021-10-02T10:10:37.614801+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -241,15 +241,6 @@
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>13563</id>
-    <title>Teaser do Personagem Kaedehara Kazuha de Genshin Impact - "A Brisa da Luz Lunar"</title>
-    <updated>2021-06-23T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062223051355260.jpg"><br/><br/>A jornada para Inazuma será longa e cheia de perigos, mas Kaedehara Kazuha está ciente.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13563">Teaser do Personagem Kaedehara Kazuha de Genshin Impact - "A Brisa da Luz Lunar"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13563" rel="alternate"/>
-    <summary>A jornada para Inazuma será longa e cheia de perigos, mas Kaedehara Kazuha está ciente.</summary>
-    <published>2021-06-23T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>13558</id>
@@ -1149,13 +1140,12 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-09-28T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>13608</id>
-    <title>Descrição do Modo de Jogo de Lenda Marcial do Vento</title>
-    <updated>2021-06-24T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062319164314913.jpg"><br/><br/>A porta que leva para um Domínio desconhecido já abriu. O que está dentro dela é um inimigo formidável nunca antes visto!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13608">Descrição do Modo de Jogo de Lenda Marcial do Vento</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13608" rel="alternate"/>
-    <summary>A porta que leva para um Domínio desconhecido já abriu. O que está dentro dela é um inimigo formidável nunca antes visto!</summary>
-    <published>2021-06-24T10:30:00+01:00</published>
+    <id>16258</id>
+    <title>Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</title>
+    <updated>2021-10-02T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818482678688.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16258">Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16258" rel="alternate"/>
+    <published>2021-10-02T18:00:00+01:00</published>
   </entry>
   <entry>
     <id>13634</id>
@@ -2053,5 +2043,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16195" rel="alternate"/>
     <summary>Uma luminância difusa surge no horizonte, onde estrelas brilham intensamente. Nossos caminhos se cruzaram em Teyvat, onde embarcamos juntos para uma nova jornada.</summary>
     <published>2021-09-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16258</id>
+    <title>Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</title>
+    <updated>2021-10-02T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818482678688.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16258">Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16258" rel="alternate"/>
+    <published>2021-10-02T18:00:00+01:00</published>
   </entry>
 </feed>

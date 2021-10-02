@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Oct 2021 09:08:18 +0000</lastBuildDate>
-    <item>
-      <title>Outfit Showcase: Summertime Sparkle | Barbara's New Outfit Available Soon!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13398</link>
-      <description>Barbara's new outfit "Summertime Sparkle" will be coming soon to the game. Travelers can obtain this outfit for free after completing the "Echoing Tales" event.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060813555529391.png"><br/><br/>Barbara's new outfit "Summertime Sparkle" will be coming soon to the game. Travelers can obtain this outfit for free after completing the "Echoing Tales" event.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13398">Outfit Showcase: Summertime Sparkle | Barbara's New Outfit Available Soon!</a>]]></content:encoded>
-      <guid isPermaLink="false">13398</guid>
-      <pubDate>Tue, 08 Jun 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Oct 2021 10:09:37 +0000</lastBuildDate>
     <item>
       <title>"Midsummer Island Adventure" Version 1.6 Update Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13423</link>
@@ -911,6 +903,16 @@ We went on a long journey in Teyvat together, and now a new adventure awaits us.
 We went on a long journey in Teyvat together, and now a new adventure awaits us.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16215">Promotional Video - Together on a Long Journey | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16215</guid>
       <pubDate>Tue, 28 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Story Teaser: Flavors of the World | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16248</link>
+      <description>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
+Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818135586153.jpg"><br/><br/>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
+Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16248">Story Teaser: Flavors of the World | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16248</guid>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

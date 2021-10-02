@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-10-02T09:08:20.817095+00:00</updated>
+  <updated>2021-10-02T10:09:50.703155+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -235,15 +235,6 @@
     <published>2021-02-01T10:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13401</id>
-    <title>《原神》EP - 炎夏熾寶之蹤</title>
-    <updated>2021-06-09T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060815110237380.jpg"><br/><br/>赤紅的太陽躡手躡腳，只為一場奔赴夏日原野的逃逸。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13401">《原神》EP - 炎夏熾寶之蹤</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13401" rel="alternate"/>
-    <summary>赤紅的太陽躡手躡腳，只為一場奔赴夏日原野的逃逸。</summary>
-    <published>2021-06-09T12:00:00+08:00</published>
-  </entry>
-  <entry>
     <id>13463</id>
     <title>1.6版本「盛夏！海島？大冒險！」內容專題網頁上線！</title>
     <updated>2021-06-10T19:00:00+08:00</updated>
@@ -1116,12 +1107,13 @@
     <published>2021-09-28T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13463</id>
-    <title>1.6版本「盛夏！海島？大冒險！」內容專題網頁上線！</title>
-    <updated>2021-06-10T19:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017434693717.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13463">1.6版本「盛夏！海島？大冒險！」內容專題網頁上線！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13463" rel="alternate"/>
-    <published>2021-06-10T19:00:00+08:00</published>
+    <id>16251</id>
+    <title>劇情預告-「人間至味」｜原神</title>
+    <updated>2021-10-02T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818174360517.jpg"><br/><br/>年歲一箸，山海一壺。閱古話今，幾度春秋。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16251">劇情預告-「人間至味」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16251" rel="alternate"/>
+    <summary>年歲一箸，山海一壺。閱古話今，幾度春秋。</summary>
+    <published>2021-10-02T18:00:00+08:00</published>
   </entry>
   <entry>
     <id>13548</id>
@@ -1995,5 +1987,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16207" rel="alternate"/>
     <summary>霞光從天際升起，星輝於蒼穹閃爍。我們在提瓦特大陸一路同行，並於此踏上新的旅程。</summary>
     <published>2021-09-28T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16251</id>
+    <title>劇情預告-「人間至味」｜原神</title>
+    <updated>2021-10-02T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818174360517.jpg"><br/><br/>年歲一箸，山海一壺。閱古話今，幾度春秋。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16251">劇情預告-「人間至味」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16251" rel="alternate"/>
+    <summary>年歲一箸，山海一壺。閱古話今，幾度春秋。</summary>
+    <published>2021-10-02T18:00:00+08:00</published>
   </entry>
 </feed>

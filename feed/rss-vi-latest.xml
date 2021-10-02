@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 02 Oct 2021 09:08:25 +0000</lastBuildDate>
-    <item>
-      <title>Ra mắt trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/13457</link>
-      <description>Xin chào Nhà Lữ Hành \(^o^)/! Trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!" đã lên sóng rồi!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017275061276.jpg"><br/><br/>Xin chào Nhà Lữ Hành \(^o^)/! Trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!" đã lên sóng rồi!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13457">Ra mắt trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</a>]]></content:encoded>
-      <guid isPermaLink="false">13457</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Oct 2021 10:10:44 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] Video nhân vật Kaedehara Kazuha - Gió Thổi Dưới Trăng</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/13533</link>
@@ -808,6 +800,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092717572112463.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16214">Video Tuyên Truyền Cho Genshin Impact - Cùng Nhau Trên Chặng Đường Dài</a>]]></description>
       <guid isPermaLink="false">16214</guid>
       <pubDate>Tue, 28 Sep 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Video cốt truyện Genshin Impact - Hương Vị Nhân Gian</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16273</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210929/2021092912120487554.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16273">Video cốt truyện Genshin Impact - Hương Vị Nhân Gian</a>]]></description>
+      <guid isPermaLink="false">16273</guid>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

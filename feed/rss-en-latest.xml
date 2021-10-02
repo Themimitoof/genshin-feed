@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Oct 2021 09:08:18 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact EP - Trail of the Scorching Summer Treasure</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13413</link>
-      <description>The crimson sun tiptoes around stealthily, all for an escape to the summer outdoors.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060816001683678.jpg"><br/><br/>The crimson sun tiptoes around stealthily, all for an escape to the summer outdoors.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13413">Genshin Impact EP - Trail of the Scorching Summer Treasure</a>]]></content:encoded>
-      <guid isPermaLink="false">13413</guid>
-      <pubDate>Wed, 09 Jun 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Oct 2021 10:09:35 +0000</lastBuildDate>
     <item>
       <title>Version 1.6 "Midsummer Island Adventure" Preview Page Now Online!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13464</link>
@@ -911,6 +903,16 @@ We went on a long journey in Teyvat together, and now a new adventure awaits us.
 We went on a long journey in Teyvat together, and now a new adventure awaits us.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16215">Promotional Video - Together on a Long Journey | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16215</guid>
       <pubDate>Tue, 28 Sep 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Story Teaser: Flavors of the World | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16248</link>
+      <description>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
+Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818135586153.jpg"><br/><br/>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
+Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16248">Story Teaser: Flavors of the World | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16248</guid>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

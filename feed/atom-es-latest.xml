@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-10-02T09:08:21.384918+00:00</updated>
+  <updated>2021-10-02T10:09:55.415279+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>13644</id>
-    <title>Modo de juego del evento «Leyenda de la espada errante»</title>
-    <updated>2021-06-24T15:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062415003487520.jpg"><br/><br/>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13644">Modo de juego del evento «Leyenda de la espada errante»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13644" rel="alternate"/>
-    <summary>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!</summary>
-    <published>2021-06-24T15:10:00+02:00</published>
-  </entry>
   <entry>
     <id>13662</id>
     <title>Gachapón «Hojas en el viento»: ¡probabilidad de obtención de Kaedehara Kazuha aumentada!</title>
@@ -905,5 +896,14 @@
     <link href="https://genshin.mihoyo.com/es/news/detail/16200" rel="alternate"/>
     <summary>Una luz difusa se alza en el horizonte; las estrellas resplandecen intensamente.</summary>
     <published>2021-09-28T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16254</id>
+    <title>Avance de la trama de Genshin Impact: Sabores del mundo</title>
+    <updated>2021-10-02T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818181022246.jpg"><br/><br/>La comida y bebida que nos traen alegrías marcan el paso del tiempo, siendo bendecidos por la gracia de la naturaleza. Del pasado al presente, los años pasan en un abrir y cerrar de ojos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16254">Avance de la trama de Genshin Impact: Sabores del mundo</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16254" rel="alternate"/>
+    <summary>La comida y bebida que nos traen alegrías marcan el paso del tiempo, siendo bendecidos por la gracia de la naturaleza. Del pasado al presente, los años pasan en un abrir y cerrar de ojos.</summary>
+    <published>2021-10-02T18:00:00+02:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 02 Oct 2021 09:08:21 +0000</lastBuildDate>
-    <item>
-      <title>Die Übersichtsseite zu den neuen Inhalten von Version 1.6 „Sommer! Inseln? Abenteuer!“ ist jetzt online!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13461</link>
-      <description>Seid gegrüßt, werte Reisende! \(^o^)/ Die Seite zu den Inhalten von Version 1.6 „Sommer! Inseln? Abenteuer!“ ist online!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017335894259.jpg"><br/><br/>Seid gegrüßt, werte Reisende! \(^o^)/ Die Seite zu den Inhalten von Version 1.6 „Sommer! Inseln? Abenteuer!“ ist online!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13461">Die Übersichtsseite zu den neuen Inhalten von Version 1.6 „Sommer! Inseln? Abenteuer!“ ist jetzt online!</a>]]></content:encoded>
-      <guid isPermaLink="false">13461</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Oct 2021 10:09:52 +0000</lastBuildDate>
     <item>
       <title>Figurenvorschau von Genshin Impact für Kaedehara Kazuha – „Brise im Mondlicht“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13552</link>
@@ -832,6 +824,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715441113417.jpg"><br/><br/>Am Horizont glänzt schon der erste Morgenstrahl, während die Sterne noch am Firmament funkeln.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16201">Werbevideo von Genshin Impact – Gemeinsam auf langen Reisen</a>]]></content:encoded>
       <guid isPermaLink="false">16201</guid>
       <pubDate>Tue, 28 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Handlungsvorschau von Genshin Impact – „Geschmäcke der Welt“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16250</link>
+      <description>Zeitlose Mahle und weite Tränke: Von der Vergangenheit bis zur Gegenwart befinden sich die Zeiten in einem ständigen Zustand der Erneuerung.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818171915667.jpg"><br/><br/>Zeitlose Mahle und weite Tränke: Von der Vergangenheit bis zur Gegenwart befinden sich die Zeiten in einem ständigen Zustand der Erneuerung.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16250">Handlungsvorschau von Genshin Impact – „Geschmäcke der Welt“</a>]]></content:encoded>
+      <guid isPermaLink="false">16250</guid>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

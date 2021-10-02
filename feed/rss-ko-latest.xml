@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 02 Oct 2021 09:08:22 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 카에데하라 카즈하 캐릭터 PV - 「달빛 아래 불어오는 바람」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13554</link>
-      <description>이번에 이나즈마를 떠나는 길은 아주 멀고 쉽지 않은 길이란 걸 카에데하라 카즈하는 잘 알고 있다.
-밝은 달이 하늘에 떠 있고 희미하게 바람이 불어온다. 폭풍우가 몰아칠 걸 알지만 술과 노래를 벗삼아 나아간다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062219090384609.jpg"><br/><br/>이번에 이나즈마를 떠나는 길은 아주 멀고 쉽지 않은 길이란 걸 카에데하라 카즈하는 잘 알고 있다.
-밝은 달이 하늘에 떠 있고 희미하게 바람이 불어온다. 폭풍우가 몰아칠 걸 알지만 술과 노래를 벗삼아 나아간다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13554"><원신> 카에데하라 카즈하 캐릭터 PV - 「달빛 아래 불어오는 바람」</a>]]></content:encoded>
-      <guid isPermaLink="false">13554</guid>
-      <pubDate>Wed, 23 Jun 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 02 Oct 2021 10:10:13 +0000</lastBuildDate>
     <item>
       <title>「내 이름은 카에데하라 카즈하, 사방을 떠도는 낭인이지」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13565</link>
@@ -872,6 +862,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092720500296031.jpg"><br/><br/>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16217"><원신> 홍보 영상 - 머나먼 여정의 동행</a>]]></content:encoded>
       <guid isPermaLink="false">16217</guid>
       <pubDate>Tue, 28 Sep 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 스토리 PV - 「속세의 맛」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16324</link>
+      <description>세월을 반찬 삼고 강산을 안주 삼아, 끝없이 윤회하는 세월을 논하도다.
+연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100118430652994.jpg"><br/><br/>세월을 반찬 삼고 강산을 안주 삼아, 끝없이 윤회하는 세월을 논하도다.
+연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16324"><원신> 스토리 PV - 「속세의 맛」</a>]]></content:encoded>
+      <guid isPermaLink="false">16324</guid>
+      <pubDate>Sat, 02 Oct 2021 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

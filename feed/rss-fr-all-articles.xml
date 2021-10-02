@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 02 Oct 2021 09:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Oct 2021 10:09:46 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -216,16 +216,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Détails de la mise à jour de version 1.6 « Odyssée estivale dans les îles »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13425</link>
-      <description>Chers voyageurs,
-Voici les détails de la mise à jour et de la compensation de la version 1.6 « Odyssée estivale dans les îles ».</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060820090025001.jpg"><br/><br/>Chers voyageurs,
-Voici les détails de la mise à jour et de la compensation de la version 1.6 « Odyssée estivale dans les îles ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13425">Détails de la mise à jour de version 1.6 « Odyssée estivale dans les îles »</a>]]></content:encoded>
-      <guid isPermaLink="false">13425</guid>
-      <pubDate>Wed, 09 Jun 2021 07:00:00 +0200</pubDate>
     </item>
     <item>
       <title>« Genshin Impact », la bande-son : Chasse au trésor sous le soleil ardent</title>
@@ -1038,12 +1028,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Tue, 28 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est en ligne !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13460</link>
-      <description>Salutations, voyageurs ! \(^o^)/~ La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est désormais en ligne !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017305431035.jpg"><br/><br/>Salutations, voyageurs ! \(^o^)/~ La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est désormais en ligne !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13460">La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est en ligne !</a>]]></content:encoded>
-      <guid isPermaLink="false">13460</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0200</pubDate>
+      <title>Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16266</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092822273742705.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16266">Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</a>]]></description>
+      <guid isPermaLink="false">16266</guid>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Histoire de personnage | Kaedehara Kazuha : « Brise au clair de lune »</title>
@@ -1853,6 +1842,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092722312628953.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16221">Genshin Impact - Bande-annonce : Ensemble pour ce long voyage</a>]]></description>
       <guid isPermaLink="false">16221</guid>
       <pubDate>Tue, 28 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16266</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092822273742705.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16266">Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</a>]]></description>
+      <guid isPermaLink="false">16266</guid>
+      <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
