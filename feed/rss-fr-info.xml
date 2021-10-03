@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:07:59 +0000</lastBuildDate>
-    <item>
-      <title>« Genshin Impact », la bande-son : Chasse au trésor sous le soleil ardent</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13411</link>
-      <description>Le soleil flamboyant se faufile, il profite d'une escapade dans la nature en cette chaude journée d'été.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060815433992924.jpg"><br/><br/>Le soleil flamboyant se faufile, il profite d'une escapade dans la nature en cette chaude journée d'été.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13411">« Genshin Impact », la bande-son : Chasse au trésor sous le soleil ardent</a>]]></content:encoded>
-      <guid isPermaLink="false">13411</guid>
-      <pubDate>Wed, 09 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Oct 2021 15:09:02 +0000</lastBuildDate>
     <item>
       <title>La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est en ligne !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13460</link>
@@ -825,6 +817,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092822273742705.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16266">Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</a>]]></description>
       <guid isPermaLink="false">16266</guid>
       <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16310</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017360017556.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16310">Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</a>]]></description>
+      <guid isPermaLink="false">16310</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:08:20 +0000</lastBuildDate>
-    <item>
-      <title>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13466</link>
-      <description>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061018143441018.jpg"><br/><br/>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13466">1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</a>]]></content:encoded>
-      <guid isPermaLink="false">13466</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Oct 2021 15:09:24 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 카에데하라 카즈하 캐릭터 PV - 「달빛 아래 불어오는 바람」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13554</link>
@@ -874,6 +866,14 @@
 연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16324"><원신> 스토리 PV - 「속세의 맛」</a>]]></content:encoded>
       <guid isPermaLink="false">16324</guid>
       <pubDate>Sat, 02 Oct 2021 18:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 2.2 버전 PV: 「안개의 미궁 속으로」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16327</link>
+      <description>비경에 감춰진 병사들의 시련, 안개 속에 감춰진 처연한 과거...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211002/2021100218234010740.jpg"><br/><br/>비경에 감춰진 병사들의 시련, 안개 속에 감춰진 처연한 과거...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16327"><원신> 2.2 버전 PV: 「안개의 미궁 속으로」</a>]]></content:encoded>
+      <guid isPermaLink="false">16327</guid>
+      <pubDate>Sun, 03 Oct 2021 22:31:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

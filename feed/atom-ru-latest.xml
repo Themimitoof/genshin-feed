@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-10-03T14:08:27.320779+00:00</updated>
+  <updated>2021-10-03T15:09:29.874778+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13627</id>
-    <title>Браузерное событие «Дальнее плавание» стартовало!</title>
-    <updated>2021-06-24T13:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062410480034321.jpg"><br/><br/>Дальнее плавание<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13627">Браузерное событие «Дальнее плавание» стартовало!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13627" rel="alternate"/>
-    <summary>Дальнее плавание</summary>
-    <published>2021-06-24T13:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13665</id>
-    <title>Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</title>
-    <updated>2021-06-27T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Задание Архонтов<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13665">Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13665" rel="alternate"/>
-    <summary>Задание Архонтов</summary>
-    <published>2021-06-27T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>13667</id>
     <title>Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</title>
@@ -908,5 +890,25 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16256" rel="alternate"/>
     <summary>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.</summary>
     <published>2021-10-02T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16300</id>
+    <title>Genshin Impact | Версия 2.2 - Тайны туманного моря</title>
+    <updated>2021-10-03T22:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017153859038.jpg"><br/><br/>В таинственном месте ждут испытания, а печальные события прошлого прячутся среди тумана.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16300">Genshin Impact | Версия 2.2 - Тайны туманного моря</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16300" rel="alternate"/>
+    <summary>В таинственном месте ждут испытания, а печальные события прошлого прячутся среди тумана.</summary>
+    <published>2021-10-03T22:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16323</id>
+    <title>Genshin Impact | Специальный розыгрыш</title>
+    <updated>2021-10-03T22:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100322591880808.jpg"><br/><br/>Время в Тейвате летит незаметно.
+Но с тобой даже будни наполняются теплом и светом.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16323">Genshin Impact | Специальный розыгрыш</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16323" rel="alternate"/>
+    <summary>Время в Тейвате летит незаметно.
+Но с тобой даже будни наполняются теплом и светом.</summary>
+    <published>2021-10-03T22:30:00+03:00</published>
   </entry>
 </feed>

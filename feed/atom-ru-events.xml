@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2021-10-03T14:08:30.342346+00:00</updated>
+  <updated>2021-10-03T15:09:33.159322+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -88,5 +88,16 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711524442206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15737">Высеченные пожелания</a>]]></content>
     <link href="https://genshin.mihoyo.com/ru/news/detail/15737" rel="alternate"/>
     <published>2021-09-07T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16323</id>
+    <title>Genshin Impact | Специальный розыгрыш</title>
+    <updated>2021-10-03T22:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100322591880808.jpg"><br/><br/>Время в Тейвате летит незаметно.
+Но с тобой даже будни наполняются теплом и светом.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16323">Genshin Impact | Специальный розыгрыш</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16323" rel="alternate"/>
+    <summary>Время в Тейвате летит незаметно.
+Но с тобой даже будни наполняются теплом и светом.</summary>
+    <published>2021-10-03T22:30:00+03:00</published>
   </entry>
 </feed>

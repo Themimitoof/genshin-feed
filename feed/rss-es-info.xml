@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:08:10 +0000</lastBuildDate>
-    <item>
-      <title>Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13430</link>
-      <description>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210609/2021060909015136453.jpg"><br/><br/>El sol avanza con cautela, escapando del sofoco que se adueña de los campos en el verano.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13430">Mini álbum de Genshin Impact - El rastro del tesoro abrasador del verano (Trail of the Scorching Summer Treasure)</a>]]></content:encoded>
-      <guid isPermaLink="false">13430</guid>
-      <pubDate>Wed, 09 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Oct 2021 15:09:13 +0000</lastBuildDate>
     <item>
       <title>Avance de Genshin Impact - Kaedehara Kazuha: Brisa que corre bajo la luna</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13572</link>
@@ -799,6 +791,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818181022246.jpg"><br/><br/>La comida y bebida que nos traen alegrías marcan el paso del tiempo, siendo bendecidos por la gracia de la naturaleza. Del pasado al presente, los años pasan en un abrir y cerrar de ojos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16254">Avance de la trama de Genshin Impact: Sabores del mundo</a>]]></content:encoded>
       <guid isPermaLink="false">16254</guid>
       <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Avance de la versión 2.2 de Genshin Impact: «El laberinto de niebla»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16299</link>
+      <description>Las pruebas de los guerreros se encuentran en los dominios, los eventos del pasado se esconden entre la niebla.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017153975166.jpg"><br/><br/>Las pruebas de los guerreros se encuentran en los dominios, los eventos del pasado se esconden entre la niebla.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16299">Avance de la versión 2.2 de Genshin Impact: «El laberinto de niebla»</a>]]></content:encoded>
+      <guid isPermaLink="false">16299</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

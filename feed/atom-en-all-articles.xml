@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-10-03T14:07:58.363453+00:00</updated>
+  <updated>2021-10-03T15:09:00.601651+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -100,6 +100,15 @@ The web event "Wish Upon a Lantern" has begun!</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/15731" rel="alternate"/>
     <summary>The first anniversary of Genshin Impact is approaching. Click the link below to send your Wishes and you will have the opportunity to engrave your own message on Paimon's blocks.</summary>
     <published>2021-09-07T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16164</id>
+    <title>Genshin Impact Raffle Event</title>
+    <updated>2021-10-03T22:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092617320491058.jpg"><br/><br/>To thank everyone for their constant support and companionship, Paimon has specially prepared a raffle event that you can take part in by sharing posts. During the event, share this post for a chance to win great rewards~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16164">Genshin Impact Raffle Event</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16164" rel="alternate"/>
+    <summary>To thank everyone for their constant support and companionship, Paimon has specially prepared a raffle event that you can take part in by sharing posts. During the event, share this post for a chance to win great rewards~</summary>
+    <published>2021-10-03T22:30:00-04:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -273,15 +282,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>13413</id>
-    <title>Genshin Impact EP - Trail of the Scorching Summer Treasure</title>
-    <updated>2021-06-09T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060816001683678.jpg"><br/><br/>The crimson sun tiptoes around stealthily, all for an escape to the summer outdoors.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13413">Genshin Impact EP - Trail of the Scorching Summer Treasure</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13413" rel="alternate"/>
-    <summary>The crimson sun tiptoes around stealthily, all for an escape to the summer outdoors.</summary>
-    <published>2021-06-09T12:00:00-04:00</published>
   </entry>
   <entry>
     <id>13464</id>
@@ -1280,24 +1280,17 @@ Smoke of hearths brings us joy and domesticity paints a picture of everyday life
     <published>2021-10-03T09:00:00-04:00</published>
   </entry>
   <entry>
-    <id>13538</id>
-    <title>Character Teaser - "Kaedehara Kazuha: Moonlit Breeze" | Genshin Impact</title>
-    <updated>2021-06-23T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062217581146809.jpg"><br/><br/>The journey following his escape from Inazuma will be long and fraught with peril, something Kaedehara Kazuha is well aware of.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13538">Character Teaser - "Kaedehara Kazuha: Moonlit Breeze" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13538" rel="alternate"/>
-    <summary>The journey following his escape from Inazuma will be long and fraught with peril, something Kaedehara Kazuha is well aware of.</summary>
-    <published>2021-06-23T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>13569</id>
-    <title>"I am Kaedehara Kazuha, a wanderer who roams the land."</title>
-    <updated>2021-06-23T12:05:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062310185191851.png"><br/><br/>Today, let's get to know the Ronin from Inazuma — Kaedehara Kazuha!
-This young man's calm personality belies a razor sharp blade that has seen many battles. Who knows if it was the storms of life that smoothed out his rough edges, or if his natural restraint has kept his edge sheathed...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13569">"I am Kaedehara Kazuha, a wanderer who roams the land."</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13569" rel="alternate"/>
-    <summary>Today, let's get to know the Ronin from Inazuma — Kaedehara Kazuha!
-This young man's calm personality belies a razor sharp blade that has seen many battles. Who knows if it was the storms of life that smoothed out his rough edges, or if his natural restraint has kept his edge sheathed...</summary>
-    <published>2021-06-23T12:05:00-04:00</published>
+    <id>16308</id>
+    <title>Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</title>
+    <updated>2021-10-03T22:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017313156468.jpg"><br/><br/>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
+When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
+or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16308">Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16308" rel="alternate"/>
+    <summary>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
+When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
+or a Traveler from a distant land, all will be revealed.</summary>
+    <published>2021-10-03T22:30:00-04:00</published>
   </entry>
   <entry>
     <id>13588</id>
@@ -2283,5 +2276,27 @@ Smoke of hearths brings us joy and domesticity paints a picture of everyday life
     <link href="https://genshin.mihoyo.com/en/news/detail/16340" rel="alternate"/>
     <summary>Dear Travelers, Genshin Impact and Razer's collaboration is about to launch!</summary>
     <published>2021-10-03T09:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16164</id>
+    <title>Genshin Impact Raffle Event</title>
+    <updated>2021-10-03T22:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092617320491058.jpg"><br/><br/>To thank everyone for their constant support and companionship, Paimon has specially prepared a raffle event that you can take part in by sharing posts. During the event, share this post for a chance to win great rewards~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16164">Genshin Impact Raffle Event</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16164" rel="alternate"/>
+    <summary>To thank everyone for their constant support and companionship, Paimon has specially prepared a raffle event that you can take part in by sharing posts. During the event, share this post for a chance to win great rewards~</summary>
+    <published>2021-10-03T22:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16308</id>
+    <title>Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</title>
+    <updated>2021-10-03T22:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017313156468.jpg"><br/><br/>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
+When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
+or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16308">Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16308" rel="alternate"/>
+    <summary>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
+When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
+or a Traveler from a distant land, all will be revealed.</summary>
+    <published>2021-10-03T22:30:00-04:00</published>
   </entry>
 </feed>

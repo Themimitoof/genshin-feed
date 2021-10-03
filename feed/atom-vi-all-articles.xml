@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-10-03T14:08:39.741848+00:00</updated>
+  <updated>2021-10-03T15:09:41.996200+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -213,15 +213,6 @@
     <published>2020-12-20T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13457</id>
-    <title>Ra mắt trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</title>
-    <updated>2021-06-10T19:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017275061276.jpg"><br/><br/>Xin chào Nhà Lữ Hành \(^o^)/! Trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!" đã lên sóng rồi!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13457">Ra mắt trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13457" rel="alternate"/>
-    <summary>Xin chào Nhà Lữ Hành \(^o^)/! Trang chuyên đề về nội dung phiên bản 1.6 "Mùa Hè! Hải Đảo? Cuộc Mạo Hiểm!" đã lên sóng rồi!</summary>
-    <published>2021-06-10T19:00:00+07:00</published>
-  </entry>
-  <entry>
     <id>13533</id>
     <title>[Genshin Impact] Video nhân vật Kaedehara Kazuha - Gió Thổi Dưới Trăng</title>
     <updated>2021-06-23T12:00:00+07:00</updated>
@@ -1121,15 +1112,12 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-10-02T18:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13533</id>
-    <title>[Genshin Impact] Video nhân vật Kaedehara Kazuha - Gió Thổi Dưới Trăng</title>
-    <updated>2021-06-23T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062217531451522.jpg"><br/><br/>Chuyến này rời khỏi Inazuma, con đường phía trước còn dài và chắc chắn sẽ không dễ dàng. Về điểm này, Kaedehara Kazuha hiểu rõ trong lòng.
-Trăng sáng trên trời, gió thổi hiu hiu, biết rằng mưa giông chực gầm thét, tay nâng rượu nồng vẫn múa ca.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13533">[Genshin Impact] Video nhân vật Kaedehara Kazuha - Gió Thổi Dưới Trăng</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13533" rel="alternate"/>
-    <summary>Chuyến này rời khỏi Inazuma, con đường phía trước còn dài và chắc chắn sẽ không dễ dàng. Về điểm này, Kaedehara Kazuha hiểu rõ trong lòng.
-Trăng sáng trên trời, gió thổi hiu hiu, biết rằng mưa giông chực gầm thét, tay nâng rượu nồng vẫn múa ca.</summary>
-    <published>2021-06-23T12:00:00+07:00</published>
+    <id>16306</id>
+    <title>[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</title>
+    <updated>2021-10-03T22:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017212442517.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16306">[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16306" rel="alternate"/>
+    <published>2021-10-03T22:30:00+07:00</published>
   </entry>
   <entry>
     <id>13567</id>
@@ -2026,5 +2014,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210929/2021092912120487554.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16273">Video cốt truyện Genshin Impact - Hương Vị Nhân Gian</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16273" rel="alternate"/>
     <published>2021-10-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16306</id>
+    <title>[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</title>
+    <updated>2021-10-03T22:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017212442517.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16306">[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16306" rel="alternate"/>
+    <published>2021-10-03T22:30:00+07:00</published>
   </entry>
 </feed>

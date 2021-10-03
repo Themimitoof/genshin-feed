@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:08:05 +0000</lastBuildDate>
-    <item>
-      <title>Figurenvorschau von Genshin Impact für Kaedehara Kazuha – „Brise im Mondlicht“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13552</link>
-      <description>Die Reise nach Inazuma wird lang und voller Gefahren sein, dessen ist sich Kaedehara Kazuha bewusst.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062218565478709.jpg"><br/><br/>Die Reise nach Inazuma wird lang und voller Gefahren sein, dessen ist sich Kaedehara Kazuha bewusst.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13552">Figurenvorschau von Genshin Impact für Kaedehara Kazuha – „Brise im Mondlicht“</a>]]></content:encoded>
-      <guid isPermaLink="false">13552</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Oct 2021 15:09:09 +0000</lastBuildDate>
     <item>
       <title>„Ich bin Kaedehara Kazuha, ein Wanderer, der das Land durchstreift.“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13560</link>
@@ -832,6 +824,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818171915667.jpg"><br/><br/>Zeitlose Mahle und weite Tränke: Von der Vergangenheit bis zur Gegenwart befinden sich die Zeiten in einem ständigen Zustand der Erneuerung.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16250">Handlungsvorschau von Genshin Impact – „Geschmäcke der Welt“</a>]]></content:encoded>
       <guid isPermaLink="false">16250</guid>
       <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vorschauvideo zu Version 2.2 von Genshin Impact: „Hinein ins Labyrinth des Nebels“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16329</link>
+      <description>Die Prüfungen der Krieger sind in der Sphäre verborgen, während die traurige Vergangenheit im Dunst begraben liegt.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100310184196517.jpg"><br/><br/>Die Prüfungen der Krieger sind in der Sphäre verborgen, während die traurige Vergangenheit im Dunst begraben liegt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16329">Vorschauvideo zu Version 2.2 von Genshin Impact: „Hinein ins Labyrinth des Nebels“</a>]]></content:encoded>
+      <guid isPermaLink="false">16329</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

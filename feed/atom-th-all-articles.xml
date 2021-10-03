@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2021-10-03T14:08:34.945772+00:00</updated>
+  <updated>2021-10-03T15:09:38.118239+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -214,15 +214,6 @@
     <published>2020-12-20T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13544</id>
-    <title>[Genshin Impact] ธีมวิดีโอตัวละคร Kaedehara Kazuha</title>
-    <updated>2021-06-23T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062218053852938.jpg"><br/><br/>การเดินทางไปยัง Inazuma นั้นช่างยาวไกลและยากลำบากนัก สำหรับเรื่องนี้ Kaedehara Kazuha รู้ดีกว่าใคร<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/13544">[Genshin Impact] ธีมวิดีโอตัวละคร Kaedehara Kazuha</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/13544" rel="alternate"/>
-    <summary>การเดินทางไปยัง Inazuma นั้นช่างยาวไกลและยากลำบากนัก สำหรับเรื่องนี้ Kaedehara Kazuha รู้ดีกว่าใคร</summary>
-    <published>2021-06-23T12:00:00+07:00</published>
-  </entry>
-  <entry>
     <id>13570</id>
     <title>"ฉันชื่อ Kaedehara Kazuha เป็นซามูไรที่เดินทางไปทั่วโลก"</title>
     <updated>2021-06-23T12:05:00+07:00</updated>
@@ -1087,13 +1078,12 @@
     <published>2021-10-02T18:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13570</id>
-    <title>"ฉันชื่อ Kaedehara Kazuha เป็นซามูไรที่เดินทางไปทั่วโลก"</title>
-    <updated>2021-06-23T12:05:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062310295593914.png"><br/><br/>วันนี้ขอแนะนำให้ทุกคนรู้จักกับซามูไรพเนจรผู้มาจาก Inazuma - Kaedehara Kazuha<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/13570">"ฉันชื่อ Kaedehara Kazuha เป็นซามูไรที่เดินทางไปทั่วโลก"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/13570" rel="alternate"/>
-    <summary>วันนี้ขอแนะนำให้ทุกคนรู้จักกับซามูไรพเนจรผู้มาจาก Inazuma - Kaedehara Kazuha</summary>
-    <published>2021-06-23T12:05:00+07:00</published>
+    <id>16303</id>
+    <title>ตัวอย่าง Genshin Impact เวอร์ชัน 2.2: "วังวนม่านหมอกมายา"</title>
+    <updated>2021-10-03T22:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017183060368.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16303">ตัวอย่าง Genshin Impact เวอร์ชัน 2.2: "วังวนม่านหมอกมายา"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/16303" rel="alternate"/>
+    <published>2021-10-03T22:30:00+07:00</published>
   </entry>
   <entry>
     <id>13616</id>
@@ -1957,5 +1947,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210929/2021092912024928495.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16270">ธีมวิดีโอ Genshin Impact - "รสชาติอันโอชะของโลก"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/16270" rel="alternate"/>
     <published>2021-10-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16303</id>
+    <title>ตัวอย่าง Genshin Impact เวอร์ชัน 2.2: "วังวนม่านหมอกมายา"</title>
+    <updated>2021-10-03T22:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017183060368.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16303">ตัวอย่าง Genshin Impact เวอร์ชัน 2.2: "วังวนม่านหมอกมายา"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/16303" rel="alternate"/>
+    <published>2021-10-03T22:30:00+07:00</published>
   </entry>
 </feed>

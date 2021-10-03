@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2021-10-03T14:08:26.849726+00:00</updated>
+  <updated>2021-10-03T15:09:29.366311+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -107,5 +107,14 @@
     <link href="https://genshin.mihoyo.com/pt/news/detail/15734" rel="alternate"/>
     <summary>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!</summary>
     <published>2021-09-07T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16165</id>
+    <title>Evento de Sorteio de Genshin Impact</title>
+    <updated>2021-10-03T22:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092617415164234.jpg"><br/><br/>O tempo em Teyvat parece sempre voar. Mas com sua companhia, até mesmo dias comuns brilham como fragmentos de luz.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16165">Evento de Sorteio de Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16165" rel="alternate"/>
+    <summary>O tempo em Teyvat parece sempre voar. Mas com sua companhia, até mesmo dias comuns brilham como fragmentos de luz.</summary>
+    <published>2021-10-03T22:30:00+01:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 15:09:05 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -81,6 +81,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711403779067.jpg"><br/><br/>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15733">Gravures de vœux</a>]]></content:encoded>
       <guid isPermaLink="false">15733</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Partager cette publication pour avoir une chance d'obtenir de belles récompenses</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16166</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016562677239.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16166">Partager cette publication pour avoir une chance d'obtenir de belles récompenses</a>]]></description>
+      <guid isPermaLink="false">16166</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -216,14 +223,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>« Genshin Impact », la bande-son : Chasse au trésor sous le soleil ardent</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13411</link>
-      <description>Le soleil flamboyant se faufile, il profite d'une escapade dans la nature en cette chaude journée d'été.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060815433992924.jpg"><br/><br/>Le soleil flamboyant se faufile, il profite d'une escapade dans la nature en cette chaude journée d'été.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13411">« Genshin Impact », la bande-son : Chasse au trésor sous le soleil ardent</a>]]></content:encoded>
-      <guid isPermaLink="false">13411</guid>
-      <pubDate>Wed, 09 Jun 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est en ligne !</title>
@@ -1035,26 +1034,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Histoire de personnage | Kaedehara Kazuha : « Brise au clair de lune »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13556</link>
-      <description>La traversée jusqu'à Inazuma s'annonce longue et semée d'embûches. Kazuha en a conscience.
-La lune est suspendue dans le ciel, la brise se lève. Une tempête approche, il la bravera une bouteille à la main et une chanson aux lèvres.</description>
-      <content:encoded><![CDATA[La traversée jusqu'à Inazuma s'annonce longue et semée d'embûches. Kazuha en a conscience.
-La lune est suspendue dans le ciel, la brise se lève. Une tempête approche, il la bravera une bouteille à la main et une chanson aux lèvres.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13556">Genshin Impact - Histoire de personnage | Kaedehara Kazuha : « Brise au clair de lune »</a>]]></content:encoded>
-      <guid isPermaLink="false">13556</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>"Mon nom est Kaedehara Kazuha, samouraï errant."</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13571</link>
-      <description>Aujourd'hui nous vous présentons Kazuha, le samouraï errant d'Inazuma !
-
-Ce jeune homme au caractère paisible est un épéiste agile qui a combattu de nombreuses batailles. Nul ne sait si son attitude calme résulte des épreuves qu'il a traversées ou s'il dissimule le tranchant de sa vraie nature.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062412200876431.png"><br/><br/>Aujourd'hui nous vous présentons Kazuha, le samouraï errant d'Inazuma !
-
-Ce jeune homme au caractère paisible est un épéiste agile qui a combattu de nombreuses batailles. Nul ne sait si son attitude calme résulte des épreuves qu'il a traversées ou s'il dissimule le tranchant de sa vraie nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13571">"Mon nom est Kaedehara Kazuha, samouraï errant."</a>]]></content:encoded>
-      <guid isPermaLink="false">13571</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 +0200</pubDate>
+      <title>Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16310</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017360017556.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16310">Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</a>]]></description>
+      <guid isPermaLink="false">16310</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Légende martiale du vent »</title>
@@ -1849,6 +1833,20 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092822273742705.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16266">Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</a>]]></description>
       <guid isPermaLink="false">16266</guid>
       <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Partager cette publication pour avoir une chance d'obtenir de belles récompenses</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16166</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016562677239.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16166">Partager cette publication pour avoir une chance d'obtenir de belles récompenses</a>]]></description>
+      <guid isPermaLink="false">16166</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16310</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017360017556.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16310">Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</a>]]></description>
+      <guid isPermaLink="false">16310</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

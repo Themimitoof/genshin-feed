@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 15:09:14 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -96,6 +96,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711334671606.jpg"><br/><br/>El evento web «Grabado de deseos» está a punto de comenzar. Viajeros, ¡creemos juntos su recuerdo personal de aniversario!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15730">Grabado de deseos</a>]]></content:encoded>
       <guid isPermaLink="false">15730</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento de Sorteo de Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16292</link>
+      <description>El tiempo siempre pasa volando en Teyvat.
+Pero teniendo compañeros tan especiales, los detalles del día a día brillan como pequeños fragmentos de luz.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016405657037.jpg"><br/><br/>El tiempo siempre pasa volando en Teyvat.
+Pero teniendo compañeros tan especiales, los detalles del día a día brillan como pequeños fragmentos de luz.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16292">Evento de Sorteo de Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16292</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-10-03T14:08:02.590913+00:00</updated>
+  <updated>2021-10-03T15:09:05.165764+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>13548</id>
-    <title>楓原萬葉角色預告 -「月下風來」｜原神</title>
-    <updated>2021-06-23T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062218243234930.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13548">楓原萬葉角色預告 -「月下風來」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13548" rel="alternate"/>
-    <published>2021-06-23T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>13568</id>
     <title>「我的名字是楓原萬葉，遊歷四方的浪人。」</title>
@@ -890,5 +882,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16251" rel="alternate"/>
     <summary>年歲一箸，山海一壺。閱古話今，幾度春秋。</summary>
     <published>2021-10-02T18:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16297</id>
+    <title>2.2版本預告：「霧海懸謎境」｜原神</title>
+    <updated>2021-10-03T22:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017145572227.jpg"><br/><br/>秘境內潛藏兵戈的試煉，霧靄中深掩淒然的往事。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16297">2.2版本預告：「霧海懸謎境」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16297" rel="alternate"/>
+    <summary>秘境內潛藏兵戈的試煉，霧靄中深掩淒然的往事。</summary>
+    <published>2021-10-03T22:30:00+08:00</published>
   </entry>
 </feed>

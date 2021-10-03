@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-10-03T14:08:24.858743+00:00</updated>
+  <updated>2021-10-03T15:09:26.594926+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -98,6 +98,17 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/15729" rel="alternate"/>
     <summary>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!</summary>
     <published>2021-09-07T12:05:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16334</id>
+    <title>원신 추첨 이벤트</title>
+    <updated>2021-10-03T22:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100314560584730.jpg"><br/><br/>티바트의 시간은 늘 쏜살같이 지나갑니다.
+하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16334">원신 추첨 이벤트</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16334" rel="alternate"/>
+    <summary>티바트의 시간은 늘 쏜살같이 지나갑니다.
+하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.</summary>
+    <published>2021-10-03T22:30:00+09:00</published>
   </entry>
   <entry>
     <id>693</id>
@@ -293,15 +304,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>13466</id>
-    <title>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</title>
-    <updated>2021-06-10T19:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061018143441018.jpg"><br/><br/>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13466">1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13466" rel="alternate"/>
-    <summary>1.6 버전 「여름! 섬? 모험!」 내용 전용 페이지 오픈됐어~</summary>
-    <published>2021-06-10T19:00:00+09:00</published>
   </entry>
   <entry>
     <id>13554</id>
@@ -1263,24 +1265,13 @@
     <published>2021-10-02T18:01:00+09:00</published>
   </entry>
   <entry>
-    <id>13565</id>
-    <title>「내 이름은 카에데하라 카즈하, 사방을 떠도는 낭인이지」</title>
-    <updated>2021-06-23T12:05:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062309420852074.png"><br/><br/>오늘 소개할 캐릭터는 이나즈마에서 온 떠돌이 무사 - 카에데하라 카즈하야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13565">「내 이름은 카에데하라 카즈하, 사방을 떠도는 낭인이지」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13565" rel="alternate"/>
-    <summary>오늘 소개할 캐릭터는 이나즈마에서 온 떠돌이 무사 - 카에데하라 카즈하야</summary>
-    <published>2021-06-23T12:05:00+09:00</published>
-  </entry>
-  <entry>
-    <id>13613</id>
-    <title>「바람 타고 온 검투 전설」 콘텐츠 안내</title>
-    <updated>2021-06-24T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062410023221172.jpg"><br/><br/>미지의 비경으로 통하는 문이 열렸다. 그 안에는 전대미문의 강적이 도사리고 있습니다.
-두려움 없는 바람의 기사의 기세로 당신 만의 검투 전설을 만들어 보세요.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13613">「바람 타고 온 검투 전설」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13613" rel="alternate"/>
-    <summary>미지의 비경으로 통하는 문이 열렸다. 그 안에는 전대미문의 강적이 도사리고 있습니다.
-두려움 없는 바람의 기사의 기세로 당신 만의 검투 전설을 만들어 보세요.</summary>
-    <published>2021-06-24T10:30:00+09:00</published>
+    <id>16327</id>
+    <title>&lt;원신&gt; 2.2 버전 PV: 「안개의 미궁 속으로」</title>
+    <updated>2021-10-03T22:31:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211002/2021100218234010740.jpg"><br/><br/>비경에 감춰진 병사들의 시련, 안개 속에 감춰진 처연한 과거...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16327"><원신> 2.2 버전 PV: 「안개의 미궁 속으로」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16327" rel="alternate"/>
+    <summary>비경에 감춰진 병사들의 시련, 안개 속에 감춰진 처연한 과거...</summary>
+    <published>2021-10-03T22:31:00+09:00</published>
   </entry>
   <entry>
     <id>13641</id>
@@ -2227,5 +2218,25 @@
     <summary>세월을 반찬 삼고 강산을 안주 삼아, 끝없이 윤회하는 세월을 논하도다.
 연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.</summary>
     <published>2021-10-02T18:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16334</id>
+    <title>원신 추첨 이벤트</title>
+    <updated>2021-10-03T22:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100314560584730.jpg"><br/><br/>티바트의 시간은 늘 쏜살같이 지나갑니다.
+하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16334">원신 추첨 이벤트</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16334" rel="alternate"/>
+    <summary>티바트의 시간은 늘 쏜살같이 지나갑니다.
+하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.</summary>
+    <published>2021-10-03T22:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16327</id>
+    <title>&lt;원신&gt; 2.2 버전 PV: 「안개의 미궁 속으로」</title>
+    <updated>2021-10-03T22:31:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211002/2021100218234010740.jpg"><br/><br/>비경에 감춰진 병사들의 시련, 안개 속에 감춰진 처연한 과거...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16327"><원신> 2.2 버전 PV: 「안개의 미궁 속으로」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16327" rel="alternate"/>
+    <summary>비경에 감춰진 병사들의 시련, 안개 속에 감춰진 처연한 과거...</summary>
+    <published>2021-10-03T22:31:00+09:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 Oct 2021 14:08:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 15:09:26 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -88,6 +88,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711333317367.jpg"><br/><br/>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15729">각인의 축복 웹이벤트</a>]]></content:encoded>
       <guid isPermaLink="false">15729</guid>
       <pubDate>Tue, 07 Sep 2021 12:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 추첨 이벤트</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16334</link>
+      <description>티바트의 시간은 늘 쏜살같이 지나갑니다.
+하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100314560584730.jpg"><br/><br/>티바트의 시간은 늘 쏜살같이 지나갑니다.
+하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16334">원신 추첨 이벤트</a>]]></content:encoded>
+      <guid isPermaLink="false">16334</guid>
+      <pubDate>Sun, 03 Oct 2021 22:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
