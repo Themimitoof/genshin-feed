@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Oct 2021 13:13:54 +0000</lastBuildDate>
-    <item>
-      <title>Version 1.6 "Midsummer Island Adventure" Preview Page Now Online!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13464</link>
-      <description>This preview page contains all kinds of official information and event details related to Version 1.6. Want to find out more about the upcoming version main event, new gameplay, new characters, and other interesting content? Come take a look at the preview page with us~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017442118327.jpg"><br/><br/>This preview page contains all kinds of official information and event details related to Version 1.6. Want to find out more about the upcoming version main event, new gameplay, new characters, and other interesting content? Come take a look at the preview page with us~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13464">Version 1.6 "Midsummer Island Adventure" Preview Page Now Online!</a>]]></content:encoded>
-      <guid isPermaLink="false">13464</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Oct 2021 14:07:52 +0000</lastBuildDate>
     <item>
       <title>Character Teaser - "Kaedehara Kazuha: Moonlit Breeze" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13538</link>
@@ -913,6 +905,14 @@ Smoke of hearths brings us joy and domesticity paints a picture of everyday life
 Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16248">Story Teaser: Flavors of the World | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16248</guid>
       <pubDate>Sat, 02 Oct 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact X Razer Collaboration Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16340</link>
+      <description>Dear Travelers, Genshin Impact and Razer's collaboration is about to launch!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100321344381334.png"><br/><br/>Dear Travelers, Genshin Impact and Razer's collaboration is about to launch!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16340">Genshin Impact X Razer Collaboration Details</a>]]></content:encoded>
+      <guid isPermaLink="false">16340</guid>
+      <pubDate>Sun, 03 Oct 2021 09:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
