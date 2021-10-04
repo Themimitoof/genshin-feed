@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-10-04T03:09:48.986462+00:00</updated>
+  <updated>2021-10-04T04:11:57.157563+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>12357</id>
-    <title>Ver.1.5「塵歌を纏いし扉」更新内容について</title>
-    <updated>2021-04-28T07:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210427/2021042718311670791.jpg"><br/><br/>「塵歌を纏いし扉」へようこそ！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12357">Ver.1.5「塵歌を纏いし扉」更新内容について</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12357" rel="alternate"/>
-    <summary>「塵歌を纏いし扉」へようこそ！</summary>
-    <published>2021-04-28T07:00:00+09:00</published>
-  </entry>
   <entry>
     <id>12374</id>
     <title>ヒルチャール百科事典001期</title>
@@ -889,5 +880,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16336" rel="alternate"/>
     <summary/>
     <published>2021-10-03T22:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16337</id>
+    <title>Ver.2.2「霧の海と謎の秘境」特設ページ</title>
+    <updated>2021-10-04T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100318395267157.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16337">Ver.2.2「霧の海と謎の秘境」特設ページ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16337" rel="alternate"/>
+    <summary/>
+    <published>2021-10-04T12:00:00+09:00</published>
   </entry>
 </feed>

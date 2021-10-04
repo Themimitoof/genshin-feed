@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 04 Oct 2021 03:09:40 +0000</lastBuildDate>
-    <item>
-      <title>「我的名字是楓原萬葉，遊歷四方的浪人。」</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/13568</link>
-      <description>今天為大家介紹的是來自稻妻的浪人武士——楓原萬葉。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062310174351808.png"><br/><br/>今天為大家介紹的是來自稻妻的浪人武士——楓原萬葉。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13568">「我的名字是楓原萬葉，遊歷四方的浪人。」</a>]]></content:encoded>
-      <guid isPermaLink="false">13568</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 04:11:32 +0000</lastBuildDate>
     <item>
       <title>「風來人劍鬥綺譚」玩法說明</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/13607</link>
@@ -787,6 +779,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017145572227.jpg"><br/><br/>秘境內潛藏兵戈的試煉，霧靄中深掩淒然的往事。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16297">2.2版本預告：「霧海懸謎境」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">16297</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2.2新版本「霧海懸謎境」先行展示頁面現已上線！</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16293</link>
+      <description>2.2新版本「霧海懸謎境」先行展示頁面現已上線！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016500265183.jpg"><br/><br/>2.2新版本「霧海懸謎境」先行展示頁面現已上線！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16293">2.2新版本「霧海懸謎境」先行展示頁面現已上線！</a>]]></content:encoded>
+      <guid isPermaLink="false">16293</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

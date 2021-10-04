@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 04 Oct 2021 03:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 04:11:58 +0000</lastBuildDate>
     <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
@@ -110,6 +110,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100318370593566.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16336">『原神』オンラインコンサート グッズセット期間限定予約開始</a>]]></description>
       <guid isPermaLink="false">16336</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.2「霧の海と謎の秘境」特設ページ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16337</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100318395267157.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16337">Ver.2.2「霧の海と謎の秘境」特設ページ</a>]]></description>
+      <guid isPermaLink="false">16337</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

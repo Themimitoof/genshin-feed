@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Oct 2021 03:09:36 +0000</lastBuildDate>
-    <item>
-      <title>Version 1.6 "Midsummer Island Adventure" Preview Page Now Online!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13464</link>
-      <description>This preview page contains all kinds of official information and event details related to Version 1.6. Want to find out more about the upcoming version main event, new gameplay, new characters, and other interesting content? Come take a look at the preview page with us~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017442118327.jpg"><br/><br/>This preview page contains all kinds of official information and event details related to Version 1.6. Want to find out more about the upcoming version main event, new gameplay, new characters, and other interesting content? Come take a look at the preview page with us~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13464">Version 1.6 "Midsummer Island Adventure" Preview Page Now Online!</a>]]></content:encoded>
-      <guid isPermaLink="false">13464</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 04:11:21 +0000</lastBuildDate>
     <item>
       <title>Character Teaser - "Kaedehara Kazuha: Moonlit Breeze" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13538</link>
@@ -917,6 +909,14 @@ When the veil of mystery is lifted, regardless if you are a martial artist cravi
 or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16308">Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16308</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16290</link>
+      <description>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016363752950.jpg"><br/><br/>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16290">The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</a>]]></content:encoded>
+      <guid isPermaLink="false">16290</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

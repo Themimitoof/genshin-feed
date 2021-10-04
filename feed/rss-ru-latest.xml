@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 04 Oct 2021 03:09:54 +0000</lastBuildDate>
-    <item>
-      <title>Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13667</link>
-      <description>Молитва: Листья на ветру</description>
-      <content:encoded><![CDATA[Молитва: Листья на ветру<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13667">Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">13667</guid>
-      <pubDate>Sun, 27 Jun 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 04:12:14 +0000</lastBuildDate>
     <item>
       <title>Обзор событий версии 1.6 - Выпуск II</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13678</link>
@@ -809,6 +801,14 @@
 Но с тобой даже будни наполняются теплом и светом.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16323">Genshin Impact | Специальный розыгрыш</a>]]></content:encoded>
       <guid isPermaLink="false">16323</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16331</link>
+      <description>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100311152229914.jpg"><br/><br/>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16331">Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</a>]]></content:encoded>
+      <guid isPermaLink="false">16331</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

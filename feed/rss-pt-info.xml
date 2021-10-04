@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 04 Oct 2021 03:09:52 +0000</lastBuildDate>
-    <item>
-      <title>Descrição do Modo de Jogo de Lenda Marcial do Vento</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/13608</link>
-      <description>A porta que leva para um Domínio desconhecido já abriu. O que está dentro dela é um inimigo formidável nunca antes visto!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062319164314913.jpg"><br/><br/>A porta que leva para um Domínio desconhecido já abriu. O que está dentro dela é um inimigo formidável nunca antes visto!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13608">Descrição do Modo de Jogo de Lenda Marcial do Vento</a>]]></content:encoded>
-      <guid isPermaLink="false">13608</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 04:12:10 +0000</lastBuildDate>
     <item>
       <title>Evento web Com Recompensa "Viagem a ser concluída" Disponível</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/13634</link>
@@ -813,6 +805,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017450224668.jpg"><br/><br/>Os julgamentos dos guerreiros estão escondidos no domínio, o passado miserável enterrado na névoa.Quando o mistério for revelado, não importa se trata-se de um guerreiro pronto para lutar, ou de um viajante de uma terra distante, todos encontrarão a sua própria resposta.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16312">Teaser Versão 2.2: "Mistério do Mar de Névoa" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16312</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Disponível Agora, Prévia da Versão 2.2 "Mistério do Mar de Névoa"!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16307</link>
+      <description>Vá para a página do evento dentro do jogo e compartilhe o evento para obter 20.000 Mora</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017253926612.jpg"><br/><br/>Vá para a página do evento dentro do jogo e compartilhe o evento para obter 20.000 Mora<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16307">Disponível Agora, Prévia da Versão 2.2 "Mistério do Mar de Névoa"!</a>]]></content:encoded>
+      <guid isPermaLink="false">16307</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-10-04T03:09:55.893081+00:00</updated>
+  <updated>2021-10-04T04:12:20.636963+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -261,15 +261,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13589</id>
-    <title>Описание события «Легенда о мече ветра»</title>
-    <updated>2021-06-24T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062316471065797.jpg"><br/><br/>Легенда о мече ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13589">Описание события «Легенда о мече ветра»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13589" rel="alternate"/>
-    <summary>Легенда о мече ветра</summary>
-    <published>2021-06-24T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>13627</id>
@@ -1164,13 +1155,13 @@
     <published>2021-10-03T22:30:00+03:00</published>
   </entry>
   <entry>
-    <id>13667</id>
-    <title>Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</title>
-    <updated>2021-06-27T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Молитва: Листья на ветру<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13667">Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13667" rel="alternate"/>
-    <summary>Молитва: Листья на ветру</summary>
-    <published>2021-06-27T12:00:00+03:00</published>
+    <id>16331</id>
+    <title>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</title>
+    <updated>2021-10-04T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100311152229914.jpg"><br/><br/>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16331">Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16331" rel="alternate"/>
+    <summary>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</summary>
+    <published>2021-10-04T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>13678</id>
@@ -2064,5 +2055,14 @@
     <summary>Время в Тейвате летит незаметно.
 Но с тобой даже будни наполняются теплом и светом.</summary>
     <published>2021-10-03T22:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16331</id>
+    <title>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</title>
+    <updated>2021-10-04T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100311152229914.jpg"><br/><br/>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16331">Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16331" rel="alternate"/>
+    <summary>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</summary>
+    <published>2021-10-04T12:00:00+03:00</published>
   </entry>
 </feed>

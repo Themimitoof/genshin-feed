@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 04 Oct 2021 03:09:43 +0000</lastBuildDate>
-    <item>
-      <title>„Ich bin Kaedehara Kazuha, ein Wanderer, der das Land durchstreift.“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13560</link>
-      <description>Heute stellen wir euch einen wandernden Samurai aus Inazuma vor, Kaedehara Kazuha!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062222272561395.png"><br/><br/>Heute stellen wir euch einen wandernden Samurai aus Inazuma vor, Kaedehara Kazuha!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13560">„Ich bin Kaedehara Kazuha, ein Wanderer, der das Land durchstreift.“</a>]]></content:encoded>
-      <guid isPermaLink="false">13560</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 04 Oct 2021 04:11:38 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zur Spielweise von „Kampflegenden des Windes“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13595</link>
@@ -832,6 +824,14 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100310184196517.jpg"><br/><br/>Die Prüfungen der Krieger sind in der Sphäre verborgen, während die traurige Vergangenheit im Dunst begraben liegt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16329">Vorschauvideo zu Version 2.2 von Genshin Impact: „Hinein ins Labyrinth des Nebels“</a>]]></content:encoded>
       <guid isPermaLink="false">16329</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16288</link>
+      <description>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016162642438.jpg"><br/><br/>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16288">Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</a>]]></content:encoded>
+      <guid isPermaLink="false">16288</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

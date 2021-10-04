@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-10-04T03:09:35.492921+00:00</updated>
+  <updated>2021-10-04T04:11:20.342436+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13588</id>
-    <title>"Legend of the Vagabond Sword" Gameplay Details</title>
-    <updated>2021-06-24T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062316330932610.jpg"><br/><br/>The gate to an unknown domain has opened, and within it await powerful, heretofore unseen foes.
-
-Draw your sword and enact your legend with the fearless spirit of a wandering warrior!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13588">"Legend of the Vagabond Sword" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13588" rel="alternate"/>
-    <summary>The gate to an unknown domain has opened, and within it await powerful, heretofore unseen foes.
-
-Draw your sword and enact your legend with the fearless spirit of a wandering warrior!</summary>
-    <published>2021-06-24T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>13615</id>
     <title>The "Distant Voyage" Web Event Has Begun</title>
@@ -1015,5 +1002,14 @@ or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a 
 When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
 or a Traveler from a distant land, all will be revealed.</summary>
     <published>2021-10-03T22:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16290</id>
+    <title>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</title>
+    <updated>2021-10-04T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016363752950.jpg"><br/><br/>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16290">The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16290" rel="alternate"/>
+    <summary>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</summary>
+    <published>2021-10-04T12:00:00-04:00</published>
   </entry>
 </feed>

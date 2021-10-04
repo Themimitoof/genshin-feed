@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 04 Oct 2021 03:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 04:11:32 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -223,14 +223,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est en ligne !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13460</link>
-      <description>Salutations, voyageurs ! \(^o^)/~ La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est désormais en ligne !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210610/2021061017305431035.jpg"><br/><br/>Salutations, voyageurs ! \(^o^)/~ La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est désormais en ligne !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13460">La page d'aperçu du contenu de la version 1.6 « Odyssée estivale dans les îles » est en ligne !</a>]]></content:encoded>
-      <guid isPermaLink="false">13460</guid>
-      <pubDate>Thu, 10 Jun 2021 19:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Histoire de personnage | Kaedehara Kazuha : « Brise au clair de lune »</title>
@@ -1041,14 +1033,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
     <item>
-      <title>Détails de l'événement « Légende martiale du vent »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13611</link>
-      <description>Les portes d'un donjon inconnu se sont ouvertes, derrière lesquelles vous attendent des monstres que nul n'a jamais vus.
-Affrontez-les avec l'intrépidité du vent et écrivez votre propre légende.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062321592843939.jpg"><br/><br/>Les portes d'un donjon inconnu se sont ouvertes, derrière lesquelles vous attendent des monstres que nul n'a jamais vus.
-Affrontez-les avec l'intrépidité du vent et écrivez votre propre légende.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13611">Détails de l'événement « Légende martiale du vent »</a>]]></content:encoded>
-      <guid isPermaLink="false">13611</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:00 +0200</pubDate>
+      <title>L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16286</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015172476583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16286">L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</a>]]></description>
+      <guid isPermaLink="false">16286</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>L'événement web « Long voyage » est désormais disponible.</title>
@@ -1847,6 +1836,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017360017556.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16310">Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</a>]]></description>
       <guid isPermaLink="false">16310</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16286</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015172476583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16286">L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</a>]]></description>
+      <guid isPermaLink="false">16286</guid>
+      <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
