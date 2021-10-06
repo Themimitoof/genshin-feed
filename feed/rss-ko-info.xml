@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:24:06 +0000</lastBuildDate>
-    <item>
-      <title>「내 이름은 카에데하라 카즈하, 사방을 떠도는 낭인이지」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13565</link>
-      <description>오늘 소개할 캐릭터는 이나즈마에서 온 떠돌이 무사 - 카에데하라 카즈하야</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062309420852074.png"><br/><br/>오늘 소개할 캐릭터는 이나즈마에서 온 떠돌이 무사 - 카에데하라 카즈하야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13565">「내 이름은 카에데하라 카즈하, 사방을 떠도는 낭인이지」</a>]]></content:encoded>
-      <guid isPermaLink="false">13565</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「바람 타고 온 검투 전설」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13613</link>
-      <description>미지의 비경으로 통하는 문이 열렸다. 그 안에는 전대미문의 강적이 도사리고 있습니다.
-두려움 없는 바람의 기사의 기세로 당신 만의 검투 전설을 만들어 보세요.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062410023221172.jpg"><br/><br/>미지의 비경으로 통하는 문이 열렸다. 그 안에는 전대미문의 강적이 도사리고 있습니다.
-두려움 없는 바람의 기사의 기세로 당신 만의 검투 전설을 만들어 보세요.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13613">「바람 타고 온 검투 전설」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">13613</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:10:22 +0000</lastBuildDate>
     <item>
       <title>「머지않아 시작될 먼 길」보상 웹이벤트 오픈</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13641</link>
@@ -872,6 +854,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100317011856051.jpg"><br/><br/>2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16338">2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">16338</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이나즈마 수첩] 츠루미 편</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16339</link>
+      <description>2.2 버전에서 이나즈마 지역 신규 섬 - 「츠루미」가 오픈될 거야. 안개로 가득한 이 섬에 대해 함께 알아보자~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100319145762807.jpg"><br/><br/>2.2 버전에서 이나즈마 지역 신규 섬 - 「츠루미」가 오픈될 거야. 안개로 가득한 이 섬에 대해 함께 알아보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16339">[이나즈마 수첩] 츠루미 편</a>]]></content:encoded>
+      <guid isPermaLink="false">16339</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[10.06] 개발진 간담회 - 짜잔! 간편 아이템 「바람의 노래 하프」 재등장~</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16348</link>
+      <description>﻿따끈따끈한 개발진 간담회 시간이 돌아왔어~
+이번엔 개발진에서 어떤내용을 알려줬는지 페이몬이 여행자들에게 하나하나 알려줄게~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211005/2021100521082353880.jpg"><br/><br/>﻿따끈따끈한 개발진 간담회 시간이 돌아왔어~
+이번엔 개발진에서 어떤내용을 알려줬는지 페이몬이 여행자들에게 하나하나 알려줄게~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16348">[10.06] 개발진 간담회 - 짜잔! 간편 아이템 「바람의 노래 하프」 재등장~</a>]]></content:encoded>
+      <guid isPermaLink="false">16348</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

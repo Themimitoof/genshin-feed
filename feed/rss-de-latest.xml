@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:24:01 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zur Spielweise von „Kampflegenden des Windes“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13595</link>
-      <description>Das Tor zu einer noch unbekannten Sphäre ist offen. Dahinter warten starke Gegner auf dich, die noch nie zuvor jemand gesehen hat!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062316575185769.jpg"><br/><br/>Das Tor zu einer noch unbekannten Sphäre ist offen. Dahinter warten starke Gegner auf dich, die noch nie zuvor jemand gesehen hat!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13595">Erläuterungen zur Spielweise von „Kampflegenden des Windes“</a>]]></content:encoded>
-      <guid isPermaLink="false">13595</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Die Webaktion mit Belohnungen „Beschwerliche Reise“ ist jetzt verfügbar</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13631</link>
-      <description>Der Klang einer Flöte, die von einem Jungen gespielt wird, treibt durch den Wind ...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411212265288.jpg"><br/><br/>Der Klang einer Flöte, die von einem Jungen gespielt wird, treibt durch den Wind ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13631">Die Webaktion mit Belohnungen „Beschwerliche Reise“ ist jetzt verfügbar</a>]]></content:encoded>
-      <guid isPermaLink="false">13631</guid>
-      <pubDate>Thu, 24 Jun 2021 13:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:09:54 +0000</lastBuildDate>
     <item>
       <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Einhänder – Blasser Schwur der Freiheit“ und „Katalysator – Himmelsatlas“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13659</link>
@@ -832,6 +816,22 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016162642438.jpg"><br/><br/>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16288">Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">16288</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Notizen über Inazuma – Tsurumi</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16281</link>
+      <description>In Version 2.2 wird es im Gebiet von Inazuma die neue Insel „Tsurumi“ geben. Sehen wir uns doch an, was es so über diese Insel im Nebel zu wissen gibt!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014251449610.jpg"><br/><br/>In Version 2.2 wird es im Gebiet von Inazuma die neue Insel „Tsurumi“ geben. Sehen wir uns doch an, was es so über diese Insel im Nebel zu wissen gibt!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16281">Notizen über Inazuma – Tsurumi</a>]]></content:encoded>
+      <guid isPermaLink="false">16281</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fragerunde mit den Entwicklern vom 6. Oktober: Das Hilfsmittel „Landschaftliche Leier“ ist erneut verfügbar!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16333</link>
+      <description>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100311345961790.png"><br/><br/>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16333">Fragerunde mit den Entwicklern vom 6. Oktober: Das Hilfsmittel „Landschaftliche Leier“ ist erneut verfügbar!</a>]]></content:encoded>
+      <guid isPermaLink="false">16333</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,29 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:23:58 +0000</lastBuildDate>
-    <item>
-      <title>L'événement web « Long voyage » est désormais disponible.</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13618</link>
-      <description>Un jeune homme joue de la flûte, une douce mélodie virevolte dans la brise...
-
-L'événement web « Long voyage » dédié à Kaedehara Kazuha, le nouveau personnage de Genshin Impact, est désormais disponible.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062412213531531.jpg"><br/><br/>Un jeune homme joue de la flûte, une douce mélodie virevolte dans la brise...
-
-L'événement web « Long voyage » dédié à Kaedehara Kazuha, le nouveau personnage de Genshin Impact, est désormais disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13618">L'événement web « Long voyage » est désormais disponible.</a>]]></content:encoded>
-      <guid isPermaLink="false">13618</guid>
-      <pubDate>Thu, 24 Jun 2021 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vœux : « Feuilles dans le vent » ! Taux d'obtention boosté pour Kaedehara Kazuha · Tourbillon de feuilles écarlates (Anémo) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13651</link>
-      <description>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518411475479.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !
-<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13651">Vœux : « Feuilles dans le vent » ! Taux d'obtention boosté pour Kaedehara Kazuha · Tourbillon de feuilles écarlates (Anémo) !</a>]]></content:encoded>
-      <guid isPermaLink="false">13651</guid>
-      <pubDate>Sun, 27 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:09:42 +0000</lastBuildDate>
     <item>
       <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Atlas de la Voûte d'Azur (Catalyseur) !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13655</link>
@@ -813,6 +791,20 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015172476583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16286">L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</a>]]></description>
       <guid isPermaLink="false">16286</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Les carnets d'Inazuma : Île de Tsurumi</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16282</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014411973413.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16282">Les carnets d'Inazuma : Île de Tsurumi</a>]]></description>
+      <guid isPermaLink="false">16282</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Discussion avec les développeurs (06/10) : retour du gadget « Lyre de la brise » !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16320</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100109575298538.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16320">Discussion avec les développeurs (06/10) : retour du gadget « Lyre de la brise » !</a>]]></description>
+      <guid isPermaLink="false">16320</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

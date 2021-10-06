@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:23:57 +0000</lastBuildDate>
-    <item>
-      <title>Character Teaser - "Kaedehara Kazuha: Moonlit Breeze" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13538</link>
-      <description>The journey following his escape from Inazuma will be long and fraught with peril, something Kaedehara Kazuha is well aware of.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062217581146809.jpg"><br/><br/>The journey following his escape from Inazuma will be long and fraught with peril, something Kaedehara Kazuha is well aware of.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13538">Character Teaser - "Kaedehara Kazuha: Moonlit Breeze" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13538</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>"I am Kaedehara Kazuha, a wanderer who roams the land."</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13569</link>
-      <description>Today, let's get to know the Ronin from Inazuma — Kaedehara Kazuha!
-This young man's calm personality belies a razor sharp blade that has seen many battles. Who knows if it was the storms of life that smoothed out his rough edges, or if his natural restraint has kept his edge sheathed...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062310185191851.png"><br/><br/>Today, let's get to know the Ronin from Inazuma — Kaedehara Kazuha!
-This young man's calm personality belies a razor sharp blade that has seen many battles. Who knows if it was the storms of life that smoothed out his rough edges, or if his natural restraint has kept his edge sheathed...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13569">"I am Kaedehara Kazuha, a wanderer who roams the land."</a>]]></content:encoded>
-      <guid isPermaLink="false">13569</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:09:38 +0000</lastBuildDate>
     <item>
       <title>"Legend of the Vagabond Sword" Gameplay Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13588</link>
@@ -917,6 +899,22 @@ or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016363752950.jpg"><br/><br/>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16290">The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">16290</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Inazuma Diaries: Tsurumi Island</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16287</link>
+      <description>In Version 2.2, a new island will be introduced in Inazuma, Tsurumi Island! Let's find out more about this island shrouded in a sea of fog~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015465931580.jpg"><br/><br/>In Version 2.2, a new island will be introduced in Inazuma, Tsurumi Island! Let's find out more about this island shrouded in a sea of fog~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16287">The Inazuma Diaries: Tsurumi Island</a>]]></content:encoded>
+      <guid isPermaLink="false">16287</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Ta-da! The Gadget Windsong Lyre Is Back~ | Developers Discussion – 10/06</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16321</link>
+      <description>A new Developers Discussion is here~ Let's see what they have in store for us!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100110192224064.png"><br/><br/>A new Developers Discussion is here~ Let's see what they have in store for us!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16321">Ta-da! The Gadget Windsong Lyre Is Back~ | Developers Discussion – 10/06</a>]]></content:encoded>
+      <guid isPermaLink="false">16321</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

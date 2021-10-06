@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-10-06T02:24:04.219682+00:00</updated>
+  <updated>2021-10-06T03:10:07.783537+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13685</id>
-    <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Freedom-Sworn (Sword) dan Skyward Atlas (Catalyst) Meningkat!</title>
-    <updated>2021-06-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210627/2021062711521885811.png"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13685">Event Permohonan "Epitome Invocation": Persentase Perolehan Freedom-Sworn (Sword) dan Skyward Atlas (Catalyst) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13685" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-06-27T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13687</id>
-    <title>Ikuti Paimon Intip Preview Event v1.6 Edisi 2</title>
-    <updated>2021-06-27T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210627/2021062711573992697.jpg"><br/><br/>Tekan gambar di bawah ini untuk melihat informasi lebih lanjut tentang event-event terdekat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13687">Ikuti Paimon Intip Preview Event v1.6 Edisi 2</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13687" rel="alternate"/>
-    <summary>Tekan gambar di bawah ini untuk melihat informasi lebih lanjut tentang event-event terdekat!</summary>
-    <published>2021-06-27T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>13726</id>
     <title>Demo Karakter — "Kaedehara Kazuha: Wujud Angin yang Menawan" | Genshin Impact</title>
@@ -907,5 +889,23 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/16315" rel="alternate"/>
     <summary>Buka situs event dari dalam game, dan dapatkan 20.000 Mora dengan membagikan halaman tersebut</summary>
     <published>2021-10-04T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16279</id>
+    <title>Seluk-beluk Inazuma: Tsurumi Island</title>
+    <updated>2021-10-06T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093012132086687.jpg"><br/><br/>Sebuah pulau baru di wilayah Inazuma akan diperkenalkan di v2.2, yaitu Tsurumi Island! Mari kita lihat beberapa informasi tentang pulau yang diselimuti lautan kabut ini~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16279">Seluk-beluk Inazuma: Tsurumi Island</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16279" rel="alternate"/>
+    <summary>Sebuah pulau baru di wilayah Inazuma akan diperkenalkan di v2.2, yaitu Tsurumi Island! Mari kita lihat beberapa informasi tentang pulau yang diselimuti lautan kabut ini~</summary>
+    <published>2021-10-06T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16342</id>
+    <title>Tanya Jawab dengan Tim Pengembang 6 Oktober | Jeng-jeng! Peralatan "Windsong Lyre" Hadir Kembali!~</title>
+    <updated>2021-10-06T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211004/2021100421574849313.png"><br/><br/>Waktunya Sesi Tanya Jawab Dengan Tim Pengembang! Ayo kita simak sama-sama~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16342">Tanya Jawab dengan Tim Pengembang 6 Oktober | Jeng-jeng! Peralatan "Windsong Lyre" Hadir Kembali!~</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16342" rel="alternate"/>
+    <summary>Waktunya Sesi Tanya Jawab Dengan Tim Pengembang! Ayo kita simak sama-sama~</summary>
+    <published>2021-10-06T10:30:00+07:00</published>
   </entry>
 </feed>

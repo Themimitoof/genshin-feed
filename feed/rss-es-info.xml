@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:24:03 +0000</lastBuildDate>
-    <item>
-      <title>Evento web «Larga travesía» ya disponible</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13639</link>
-      <description>El sonido de una flauta tocada por un joven fluye a través del viento...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411453178423.jpg"><br/><br/>El sonido de una flauta tocada por un joven fluye a través del viento...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13639">Evento web «Larga travesía» ya disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">13639</guid>
-      <pubDate>Thu, 24 Jun 2021 13:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Modo de juego del evento «Leyenda de la espada errante»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13644</link>
-      <description>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062415003487520.jpg"><br/><br/>¡Las puertas a un dominio desconocido se han abierto! ¡Tras ellas aguardan enemigos nunca antes vistos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13644">Modo de juego del evento «Leyenda de la espada errante»</a>]]></content:encoded>
-      <guid isPermaLink="false">13644</guid>
-      <pubDate>Thu, 24 Jun 2021 15:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:10:03 +0000</lastBuildDate>
     <item>
       <title>Gachapón «Hojas en el viento»: ¡probabilidad de obtención de Kaedehara Kazuha aumentada!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13662</link>
@@ -799,6 +783,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017091393257.jpg"><br/><br/>Querido/a viajero/a: ¡Vista previa de la versión 2.2 «El laberinto de niebla» ya disponible!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16296">¡Vista previa de la versión 2.2 «El laberinto de niebla» ya disponible!</a>]]></content:encoded>
       <guid isPermaLink="false">16296</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Diario de Inazuma - Isla Tsurumi</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16285</link>
+      <description>En la versión 2.2, se desbloqueará una nueva isla en Inazuma, la Isla Tsurumi. ¡Ven a descubrir más sobre esta isla que se encuentra en un mar de niebla!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015173218939.jpg"><br/><br/>En la versión 2.2, se desbloqueará una nueva isla en Inazuma, la Isla Tsurumi. ¡Ven a descubrir más sobre esta isla que se encuentra en un mar de niebla!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16285">Diario de Inazuma - Isla Tsurumi</a>]]></content:encoded>
+      <guid isPermaLink="false">16285</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Charla con los desarrolladores (6 de oct.) - Llega de nuevo el artilugio "Lira de la brisa"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16318</link>
+      <description>Ya está disponible una nueva charla con los desarrolladores. ¡Vamos a echarle un vistazo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093021193869620.png"><br/><br/>Ya está disponible una nueva charla con los desarrolladores. ¡Vamos a echarle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16318">Charla con los desarrolladores (6 de oct.) - Llega de nuevo el artilugio "Lira de la brisa"</a>]]></content:encoded>
+      <guid isPermaLink="false">16318</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-10-06T02:24:00.129435+00:00</updated>
+  <updated>2021-10-06T03:09:47.496787+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>13607</id>
-    <title>「風來人劍鬥綺譚」玩法說明</title>
-    <updated>2021-06-24T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062318320763105.jpg"><br/><br/>通往未知秘境的門扉已開啟，踞身其中的是前所未見的強敵。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13607">「風來人劍鬥綺譚」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13607" rel="alternate"/>
-    <summary>通往未知秘境的門扉已開啟，踞身其中的是前所未見的強敵。</summary>
-    <published>2021-06-24T10:30:00+08:00</published>
-  </entry>
-  <entry>
-    <id>13629</id>
-    <title>「將啟的遠行」有獎網頁活動已開啟</title>
-    <updated>2021-06-24T13:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411203186819.jpg"><br/><br/>風中傳來少年吹奏的葉笛之聲…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13629">「將啟的遠行」有獎網頁活動已開啟</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13629" rel="alternate"/>
-    <summary>風中傳來少年吹奏的葉笛之聲…</summary>
-    <published>2021-06-24T13:00:00+08:00</published>
-  </entry>
   <entry>
     <id>13658</id>
     <title>「葉落風隨」祈願：「紅葉逐荒波·楓原萬葉(風)」機率UP！</title>
@@ -891,5 +873,23 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16293" rel="alternate"/>
     <summary>2.2新版本「霧海懸謎境」先行展示頁面現已上線！</summary>
     <published>2021-10-04T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16280</id>
+    <title>稻妻手帳——鶴觀篇</title>
+    <updated>2021-10-06T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014234937226.jpg"><br/><br/>2.2版本中，稻妻區域將開啟全新島嶼——「鶴觀」，一起來瞭解一下這片霧海之中島嶼的一些資訊吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16280">稻妻手帳——鶴觀篇</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16280" rel="alternate"/>
+    <summary>2.2版本中，稻妻區域將開啟全新島嶼——「鶴觀」，一起來瞭解一下這片霧海之中島嶼的一些資訊吧~</summary>
+    <published>2021-10-06T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16322</id>
+    <title>10.06開發團隊座談會——鏘鏘！小道具「風物之詩琴」再次登場~</title>
+    <updated>2021-10-06T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100110354378134.png"><br/><br/>新鮮的開發團隊座談會來啦~一起往下看看吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16322">10.06開發團隊座談會——鏘鏘！小道具「風物之詩琴」再次登場~</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16322" rel="alternate"/>
+    <summary>新鮮的開發團隊座談會來啦~一起往下看看吧！</summary>
+    <published>2021-10-06T10:30:00+08:00</published>
   </entry>
 </feed>

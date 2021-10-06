@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-10-06T02:24:04.509765+00:00</updated>
+  <updated>2021-10-06T03:10:09.596677+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>13637</id>
-    <title>Event Web Berhadiah "Perjalanan Ribuan Mil" Dimulai</title>
-    <updated>2021-06-24T13:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411321447018.jpg"><br/><br/>Sayup-sayup terdengar suara seruling seorang pemuda yang terbawa angin...<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13637">Event Web Berhadiah "Perjalanan Ribuan Mil" Dimulai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13637" rel="alternate"/>
-    <summary>Sayup-sayup terdengar suara seruling seorang pemuda yang terbawa angin...</summary>
-    <published>2021-06-24T13:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13653</id>
-    <title>Event Permohonan "Dedaunan di Tengah Angin": Persentase Perolehan "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) Meningkat!</title>
-    <updated>2021-06-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518260345544.png"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13653">Event Permohonan "Dedaunan di Tengah Angin": Persentase Perolehan "Scarlet Leaves Pursue Wild Waves" Kaedehara Kazuha (Anemo) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13653" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-06-27T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>13685</id>
     <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Freedom-Sworn (Sword) dan Skyward Atlas (Catalyst) Meningkat!</title>
@@ -907,5 +889,23 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/16315" rel="alternate"/>
     <summary>Buka situs event dari dalam game, dan dapatkan 20.000 Mora dengan membagikan halaman tersebut</summary>
     <published>2021-10-04T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16279</id>
+    <title>Seluk-beluk Inazuma: Tsurumi Island</title>
+    <updated>2021-10-06T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093012132086687.jpg"><br/><br/>Sebuah pulau baru di wilayah Inazuma akan diperkenalkan di v2.2, yaitu Tsurumi Island! Mari kita lihat beberapa informasi tentang pulau yang diselimuti lautan kabut ini~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16279">Seluk-beluk Inazuma: Tsurumi Island</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16279" rel="alternate"/>
+    <summary>Sebuah pulau baru di wilayah Inazuma akan diperkenalkan di v2.2, yaitu Tsurumi Island! Mari kita lihat beberapa informasi tentang pulau yang diselimuti lautan kabut ini~</summary>
+    <published>2021-10-06T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16342</id>
+    <title>Tanya Jawab dengan Tim Pengembang 6 Oktober | Jeng-jeng! Peralatan "Windsong Lyre" Hadir Kembali!~</title>
+    <updated>2021-10-06T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211004/2021100421574849313.png"><br/><br/>Waktunya Sesi Tanya Jawab Dengan Tim Pengembang! Ayo kita simak sama-sama~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16342">Tanya Jawab dengan Tim Pengembang 6 Oktober | Jeng-jeng! Peralatan "Windsong Lyre" Hadir Kembali!~</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16342" rel="alternate"/>
+    <summary>Waktunya Sesi Tanya Jawab Dengan Tim Pengembang! Ayo kita simak sama-sama~</summary>
+    <published>2021-10-06T10:30:00+07:00</published>
   </entry>
 </feed>

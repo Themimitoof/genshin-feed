@@ -8,29 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:23:58 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Histoire de personnage | Kaedehara Kazuha : « Brise au clair de lune »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13556</link>
-      <description>La traversée jusqu'à Inazuma s'annonce longue et semée d'embûches. Kazuha en a conscience.
-La lune est suspendue dans le ciel, la brise se lève. Une tempête approche, il la bravera une bouteille à la main et une chanson aux lèvres.</description>
-      <content:encoded><![CDATA[La traversée jusqu'à Inazuma s'annonce longue et semée d'embûches. Kazuha en a conscience.
-La lune est suspendue dans le ciel, la brise se lève. Une tempête approche, il la bravera une bouteille à la main et une chanson aux lèvres.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13556">Genshin Impact - Histoire de personnage | Kaedehara Kazuha : « Brise au clair de lune »</a>]]></content:encoded>
-      <guid isPermaLink="false">13556</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>"Mon nom est Kaedehara Kazuha, samouraï errant."</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13571</link>
-      <description>Aujourd'hui nous vous présentons Kazuha, le samouraï errant d'Inazuma !
-
-Ce jeune homme au caractère paisible est un épéiste agile qui a combattu de nombreuses batailles. Nul ne sait si son attitude calme résulte des épreuves qu'il a traversées ou s'il dissimule le tranchant de sa vraie nature.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062412200876431.png"><br/><br/>Aujourd'hui nous vous présentons Kazuha, le samouraï errant d'Inazuma !
-
-Ce jeune homme au caractère paisible est un épéiste agile qui a combattu de nombreuses batailles. Nul ne sait si son attitude calme résulte des épreuves qu'il a traversées ou s'il dissimule le tranchant de sa vraie nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13571">"Mon nom est Kaedehara Kazuha, samouraï errant."</a>]]></content:encoded>
-      <guid isPermaLink="false">13571</guid>
-      <pubDate>Wed, 23 Jun 2021 12:05:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:09:44 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement « Légende martiale du vent »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13611</link>
@@ -823,6 +801,20 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015172476583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16286">L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</a>]]></description>
       <guid isPermaLink="false">16286</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Les carnets d'Inazuma : Île de Tsurumi</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16282</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014411973413.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16282">Les carnets d'Inazuma : Île de Tsurumi</a>]]></description>
+      <guid isPermaLink="false">16282</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Discussion avec les développeurs (06/10) : retour du gadget « Lyre de la brise » !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16320</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100109575298538.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16320">Discussion avec les développeurs (06/10) : retour du gadget « Lyre de la brise » !</a>]]></description>
+      <guid isPermaLink="false">16320</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

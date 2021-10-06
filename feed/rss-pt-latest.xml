@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:24:07 +0000</lastBuildDate>
-    <item>
-      <title>Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 1.6 - Fase II</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/13686</link>
-      <description>Consulte a imagem para saber mais informações sobre o evento!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210627/2021062711554514600.jpg"><br/><br/>Consulte a imagem para saber mais informações sobre o evento!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13686">Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 1.6 - Fase II</a>]]></content:encoded>
-      <guid isPermaLink="false">13686</guid>
-      <pubDate>Sun, 27 Jun 2021 12:10:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Demo do Novo Personagem de Genshin Impact - "Kaedehara Kazuha: Brisa Poética"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/13720</link>
-      <description>Nuvens flutuam sobre o topo das montanhas em um céu azul, o rio está calmo, é um lindo dia para criar poesias.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811412314674.jpg"><br/><br/>Nuvens flutuam sobre o topo das montanhas em um céu azul, o rio está calmo, é um lindo dia para criar poesias.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13720">Demo do Novo Personagem de Genshin Impact - "Kaedehara Kazuha: Brisa Poética"</a>]]></content:encoded>
-      <guid isPermaLink="false">13720</guid>
-      <pubDate>Mon, 28 Jun 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:10:27 +0000</lastBuildDate>
     <item>
       <title>Coleção Variada de Genshin Impact - Kaedehara Kazuha: Vento Espiritualmente Livre</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/13758</link>
@@ -813,6 +797,22 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017253926612.jpg"><br/><br/>Vá para a página do evento dentro do jogo e compartilhe o evento para obter 20.000 Mora<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16307">Disponível Agora, Prévia da Versão 2.2 "Mistério do Mar de Névoa"!</a>]]></content:encoded>
       <guid isPermaLink="false">16307</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Diário em Inazuma — Edição Ilha Tsurumi</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16278</link>
+      <description>Na versão 2.2, uma nova ilha, a Ilha Tsurumi, será desbloqueada em Inazuma. Viajantes, venham conhecer a ilha que fica neste mar enevoado~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093012093658506.jpg"><br/><br/>Na versão 2.2, uma nova ilha, a Ilha Tsurumi, será desbloqueada em Inazuma. Viajantes, venham conhecer a ilha que fica neste mar enevoado~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16278">Diário em Inazuma — Edição Ilha Tsurumi</a>]]></content:encoded>
+      <guid isPermaLink="false">16278</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Conversa com os Desenvolvedores de 6 de outubro: Item "Lira da Brisa" Disponível mais uma vez!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16319</link>
+      <description>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093021264149467.png"><br/><br/>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16319">Conversa com os Desenvolvedores de 6 de outubro: Item "Lira da Brisa" Disponível mais uma vez!</a>]]></content:encoded>
+      <guid isPermaLink="false">16319</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

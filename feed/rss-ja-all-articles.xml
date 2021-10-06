@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:24:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 03:10:20 +0000</lastBuildDate>
     <item>
       <title>「帰らぬ熄星」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6755</link>
@@ -1547,12 +1547,11 @@
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>ヒルチャール百科事典001期</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12374</link>
-      <description>塵歌壺基本操作篇</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513223881868.jpg"><br/><br/>塵歌壺基本操作篇<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12374">ヒルチャール百科事典001期</a>]]></content:encoded>
-      <guid isPermaLink="false">12374</guid>
-      <pubDate>Wed, 28 Apr 2021 11:00:00 +0900</pubDate>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16341</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211004/2021100416580684358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16341">運営チームからの手紙</a>]]></description>
+      <guid isPermaLink="false">16341</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>「星と深淵を再び」イベント紹介</title>
@@ -2256,6 +2255,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100318395267157.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16337">Ver.2.2「霧の海と謎の秘境」特設ページ</a>]]></description>
       <guid isPermaLink="false">16337</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>運営チームからの手紙</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16341</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211004/2021100416580684358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16341">運営チームからの手紙</a>]]></description>
+      <guid isPermaLink="false">16341</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

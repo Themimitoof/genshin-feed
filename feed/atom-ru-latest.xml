@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-10-06T02:24:08.796426+00:00</updated>
+  <updated>2021-10-06T03:10:33.652096+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13678</id>
-    <title>Обзор событий версии 1.6 - Выпуск II</title>
-    <updated>2021-06-27T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210626/2021062615374697619.jpg"><br/><br/>Легенда о мече ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13678">Обзор событий версии 1.6 - Выпуск II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13678" rel="alternate"/>
-    <summary>Легенда о мече ветра</summary>
-    <published>2021-06-27T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>13709</id>
     <title>«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</title>
@@ -910,5 +901,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16331" rel="alternate"/>
     <summary>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</summary>
     <published>2021-10-04T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16289</id>
+    <title>Записи об Инадзуме: Цуруми</title>
+    <updated>2021-10-06T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016254453686.jpg"><br/><br/>В версии 2.2 в Инадзуме появится новый остров Цуруми. Давайте вместе исследуем этот загадочный остров посреди туманного моря!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16289">Записи об Инадзуме: Цуруми</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16289" rel="alternate"/>
+    <summary>В версии 2.2 в Инадзуме появится новый остров Цуруми. Давайте вместе исследуем этот загадочный остров посреди туманного моря!</summary>
+    <published>2021-10-06T10:30:00+03:00</published>
   </entry>
 </feed>

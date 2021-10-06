@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 06 Oct 2021 02:24:10 +0000</lastBuildDate>
-    <item>
-      <title>Hướng dẫn cách chơi "Truyền Thuyết Thanh Kiếm Lãng Du"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/13587</link>
-      <description>Cánh cửa dẫn vào bí cảnh xa lạ đã mở ra, và trong đó là kẻ địch lớn mạnh chưa từng thấy.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062316281448021.jpg"><br/><br/>Cánh cửa dẫn vào bí cảnh xa lạ đã mở ra, và trong đó là kẻ địch lớn mạnh chưa từng thấy.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13587">Hướng dẫn cách chơi "Truyền Thuyết Thanh Kiếm Lãng Du"</a>]]></content:encoded>
-      <guid isPermaLink="false">13587</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 06 Oct 2021 03:10:45 +0000</lastBuildDate>
     <item>
       <title>Sự kiện web có thưởng "Hành Trình Đi Xa" đã mở</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/13614</link>
@@ -803,6 +795,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016534374840.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16295">Trang giới thiệu phiên bản mới 2.2 - Bí Ẩn Biển Sương Mù đã mở!</a>]]></description>
       <guid isPermaLink="false">16295</guid>
       <pubDate>Mon, 04 Oct 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sổ Tay Inazuma - Đảo Tsurumi</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16284</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015103028939.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16284">Sổ Tay Inazuma - Đảo Tsurumi</a>]]></description>
+      <guid isPermaLink="false">16284</guid>
+      <pubDate>Wed, 06 Oct 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
