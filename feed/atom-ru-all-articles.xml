@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-10-06T09:09:53.862637+00:00</updated>
+  <updated>2021-10-06T10:10:41.606118+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -261,15 +261,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13665</id>
-    <title>Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</title>
-    <updated>2021-06-27T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Задание Архонтов<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13665">Задание Архонтов «Том II. Пролог: Осенний ветер, багряные листья» скоро станет доступно</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13665" rel="alternate"/>
-    <summary>Задание Архонтов</summary>
-    <published>2021-06-27T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>13667</id>
@@ -1164,13 +1155,13 @@
     <published>2021-10-06T10:30:00+03:00</published>
   </entry>
   <entry>
-    <id>13709</id>
-    <title>«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-06-28T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811271831224.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13709">«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13709" rel="alternate"/>
-    <summary>Каэдэхара Кадзуха</summary>
-    <published>2021-06-28T12:00:00+03:00</published>
+    <id>16349</id>
+    <title>Беседы с разработчиками (6 октября) - Лира ветров снова доступна!</title>
+    <updated>2021-10-06T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211006/2021100617492111368.png"><br/><br/>Представляем вашему вниманию новый выпуск «Бесед с разработчиками»! Посмотрим, что они приготовили нам на этот раз!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16349">Беседы с разработчиками (6 октября) - Лира ветров снова доступна!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16349" rel="alternate"/>
+    <summary>Представляем вашему вниманию новый выпуск «Бесед с разработчиками»! Посмотрим, что они приготовили нам на этот раз!</summary>
+    <published>2021-10-06T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>13755</id>
@@ -2063,6 +2054,15 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016254453686.jpg"><br/><br/>В версии 2.2 в Инадзуме появится новый остров Цуруми. Давайте вместе исследуем этот загадочный остров посреди туманного моря!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16289">Записи об Инадзуме: Цуруми</a>]]></content>
     <link href="https://genshin.mihoyo.com/ru/news/detail/16289" rel="alternate"/>
     <summary>В версии 2.2 в Инадзуме появится новый остров Цуруми. Давайте вместе исследуем этот загадочный остров посреди туманного моря!</summary>
+    <published>2021-10-06T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16349</id>
+    <title>Беседы с разработчиками (6 октября) - Лира ветров снова доступна!</title>
+    <updated>2021-10-06T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211006/2021100617492111368.png"><br/><br/>Представляем вашему вниманию новый выпуск «Бесед с разработчиками»! Посмотрим, что они приготовили нам на этот раз!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16349">Беседы с разработчиками (6 октября) - Лира ветров снова доступна!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16349" rel="alternate"/>
+    <summary>Представляем вашему вниманию новый выпуск «Бесед с разработчиками»! Посмотрим, что они приготовили нам на этот раз!</summary>
     <published>2021-10-06T10:30:00+03:00</published>
   </entry>
 </feed>
