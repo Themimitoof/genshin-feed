@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 07 Oct 2021 15:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 16:11:03 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -81,13 +81,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711403779067.jpg"><br/><br/>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15733">Gravures de vœux</a>]]></content:encoded>
       <guid isPermaLink="false">15733</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Partager cette publication pour avoir une chance d'obtenir de belles récompenses</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16166</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016562677239.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16166">Partager cette publication pour avoir une chance d'obtenir de belles récompenses</a>]]></description>
-      <guid isPermaLink="false">16166</guid>
-      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

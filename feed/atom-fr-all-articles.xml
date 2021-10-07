@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-10-07T15:08:42.925444+00:00</updated>
+  <updated>2021-10-07T16:11:04.378420+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -90,15 +90,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/15733" rel="alternate"/>
     <summary>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !</summary>
     <published>2021-09-07T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>16166</id>
-    <title>Partager cette publication pour avoir une chance d'obtenir de belles récompenses</title>
-    <updated>2021-10-03T22:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016562677239.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16166">Partager cette publication pour avoir une chance d'obtenir de belles récompenses</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16166" rel="alternate"/>
-    <summary/>
-    <published>2021-10-03T22:30:00+02:00</published>
   </entry>
   <entry>
     <id>737</id>
@@ -1166,6 +1157,17 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-10-06T10:30:00+02:00</published>
   </entry>
   <entry>
+    <id>13651</id>
+    <title>Vœux : « Feuilles dans le vent » ! Taux d'obtention boosté pour Kaedehara Kazuha · Tourbillon de feuilles écarlates (Anémo) !</title>
+    <updated>2021-06-27T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518411475479.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !
+<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13651">Vœux : « Feuilles dans le vent » ! Taux d'obtention boosté pour Kaedehara Kazuha · Tourbillon de feuilles écarlates (Anémo) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/13651" rel="alternate"/>
+    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !
+</summary>
+    <published>2021-06-27T12:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>13655</id>
     <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Atlas de la Voûte d'Azur (Catalyseur) !</title>
     <updated>2021-06-27T12:00:00+02:00</updated>
@@ -2026,15 +2028,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092822273742705.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16266">Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16266" rel="alternate"/>
     <published>2021-10-02T18:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>16166</id>
-    <title>Partager cette publication pour avoir une chance d'obtenir de belles récompenses</title>
-    <updated>2021-10-03T22:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016562677239.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16166">Partager cette publication pour avoir une chance d'obtenir de belles récompenses</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16166" rel="alternate"/>
-    <summary/>
-    <published>2021-10-03T22:30:00+02:00</published>
   </entry>
   <entry>
     <id>16310</id>
