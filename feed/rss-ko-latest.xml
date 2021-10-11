@@ -8,43 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 11 Oct 2021 03:10:08 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 데인 여담 - 「카에데하라 카즈하: 자유로운 바람」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13770</link>
-      <description>비바람이 몰려올 것 같은 징조는 사람을 피하게 할 수도 앞으로 나아가게 할 수도 있다.
-검이 반짝이고 마음이 맑아질 때 폭풍우를 맞이할 준비는 모두 끝난 것이다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062912260751221.jpg"><br/><br/>비바람이 몰려올 것 같은 징조는 사람을 피하게 할 수도 앞으로 나아가게 할 수도 있다.
-검이 반짝이고 마음이 맑아질 때 폭풍우를 맞이할 준비는 모두 끝난 것이다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13770"><원신> 데인 여담 - 「카에데하라 카즈하: 자유로운 바람」</a>]]></content:encoded>
-      <guid isPermaLink="false">13770</guid>
-      <pubDate>Tue, 29 Jun 2021 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[6.30] 개발진 간담회 - 워프할 수 있는 장식 등장~</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13804</link>
-      <description>페이몬이 오늘 개발진 간담회를 가져왔어~~
-이번엔 개발진이 어떤 소식을 전해왔을지 궁금하지? 페이몬이 알려줄게~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063009594610388.png"><br/><br/>페이몬이 오늘 개발진 간담회를 가져왔어~~
-이번엔 개발진이 어떤 소식을 전해왔을지 궁금하지? 페이몬이 알려줄게~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13804">[6.30] 개발진 간담회 - 워프할 수 있는 장식 등장~</a>]]></content:encoded>
-      <guid isPermaLink="false">13804</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「펑펑 마구 대소동」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13810</link>
-      <description>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063011410890955.jpg"><br/><br/>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13810">「펑펑 마구 대소동」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">13810</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「여행 그림 지도」 이벤트! 지도를 완성하고 장식 도면 「꽃바다의 요람」 획득</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13905</link>
-      <description>여행의 추억은 아주 소중하기에 이를 기록해야만 영원히 간직할 수 있습니다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210703/2021070310203828399.jpg"><br/><br/>여행의 추억은 아주 소중하기에 이를 기록해야만 영원히 간직할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13905">「여행 그림 지도」 이벤트! 지도를 완성하고 장식 도면 「꽃바다의 요람」 획득</a>]]></content:encoded>
-      <guid isPermaLink="false">13905</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Oct 2021 04:12:23 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 스토리 PV - 「번개를 쫓는 고독한 여정」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13906</link>
@@ -869,6 +833,38 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110123669834.jpg"><br/><br/>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16372">사전 다운로드 기능 오픈</a>]]></content:encoded>
       <guid isPermaLink="false">16372</guid>
       <pubDate>Mon, 11 Oct 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「초대 이벤트·제3집」 전설 임무 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16403</link>
+      <description>전설 임무 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110480658565.jpg"><br/><br/>전설 임무 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16403">「초대 이벤트·제3집」 전설 임무 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">16403</guid>
+      <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「겨울 나라와의 이별」 기원: 「타르탈리아(물)」 확률 UP!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16416</link>
+      <description>이벤트 기간에 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화해보세요!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111085786382.jpg"><br/><br/>이벤트 기간에 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화해보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16416">「겨울 나라와의 이별」 기원: 「타르탈리아(물)」 확률 UP!</a>]]></content:encoded>
+      <guid isPermaLink="false">16416</guid>
+      <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「신의 주조」 기원: 「활·극지의 별」 「법구·속세의 자물쇠」 확률 UP!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16429</link>
+      <description>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화해보세요!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111300561955.jpg"><br/><br/>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화해보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16429">「신의 주조」 기원: 「활·극지의 별」 「법구·속세의 자물쇠」 확률 UP!</a>]]></content:encoded>
+      <guid isPermaLink="false">16429</guid>
+      <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「안개의 미궁 속으로」 2.2 버전 이벤트 알림 제1회</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16433</link>
+      <description>﻿2.2 버전이 곧 출시될 예정이야! 우리 함께 신규 이벤트 정보를 미리 알아보자구~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111572786976.jpg"><br/><br/>﻿2.2 버전이 곧 출시될 예정이야! 우리 함께 신규 이벤트 정보를 미리 알아보자구~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16433">「안개의 미궁 속으로」 2.2 버전 이벤트 알림 제1회</a>]]></content:encoded>
+      <guid isPermaLink="false">16433</guid>
+      <pubDate>Mon, 11 Oct 2021 12:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

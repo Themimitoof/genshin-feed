@@ -2,52 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-10-11T03:09:37.565745+00:00</updated>
+  <updated>2021-10-11T04:11:44.573047+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13715</id>
-    <title>New Character Demo - "Kaedehara Kazuha: Wandering Winds" | Genshin Impact</title>
-    <updated>2021-06-28T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811304248589.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13715">New Character Demo - "Kaedehara Kazuha: Wandering Winds" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13715" rel="alternate"/>
-    <published>2021-06-28T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>13767</id>
-    <title>Collected Miscellany - "Kaedehara Kazuha: Free Spirit" | Genshin Impact</title>
-    <updated>2021-06-29T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062910594482621.jpg"><br/><br/>The signs of a coming storm persuade some to seek shelter while urging others to press onward.
-It is with a sharp sword and clear mind, that one can truly be well prepared for the storm.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13767">Collected Miscellany - "Kaedehara Kazuha: Free Spirit" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13767" rel="alternate"/>
-    <summary>The signs of a coming storm persuade some to seek shelter while urging others to press onward.
-It is with a sharp sword and clear mind, that one can truly be well prepared for the storm.</summary>
-    <published>2021-06-29T18:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>13803</id>
-    <title>Teleportation Furnishing Incoming~ | Developers Discussion - 6/30</title>
-    <updated>2021-06-30T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063009502399871.png"><br/><br/>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13803">Teleportation Furnishing Incoming~ | Developers Discussion - 6/30</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13803" rel="alternate"/>
-    <summary>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-</summary>
-    <published>2021-06-30T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>13908</id>
-    <title>Traveler's Picture Book" Web Event: Complete the Painting to Obtain Furnishing Blueprint "Cradle of Flowers</title>
-    <updated>2021-07-03T11:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210703/2021070313313944522.jpg"><br/><br/>The memories of the journey are precious and can only be treasured forever if they are recorded.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13908">Traveler's Picture Book" Web Event: Complete the Painting to Obtain Furnishing Blueprint "Cradle of Flowers</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13908" rel="alternate"/>
-    <summary>The memories of the journey are precious and can only be treasured forever if they are recorded.</summary>
-    <published>2021-07-03T11:00:00-04:00</published>
-  </entry>
   <entry>
     <id>13894</id>
     <title>Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</title>
@@ -999,5 +960,41 @@ or a Traveler from a distant land, all will be revealed.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/16370" rel="alternate"/>
     <summary>The pre-installation function is now available on both PC and mobile platforms.</summary>
     <published>2021-10-11T11:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16386</id>
+    <title>"Hangout Events: Series III" - Story Quest Overview</title>
+    <updated>2021-10-11T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110364980650.jpg"><br/><br/>Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Hangout Events for Sayu and Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16386">"Hangout Events: Series III" - Story Quest Overview</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16386" rel="alternate"/>
+    <summary>Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Hangout Events for Sayu and Thoma.</summary>
+    <published>2021-10-11T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16388</id>
+    <title>Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!</title>
+    <updated>2021-10-11T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110374248508.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16388">Event Wish "Farewell of Snezhnaya" - Boosted Drop Rate for "Childe" Tartaglia (Hydro)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16388" rel="alternate"/>
+    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</summary>
+    <published>2021-10-11T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16391</id>
+    <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Polar Star (Bow) and Memory of Dust (Catalyst)!</title>
+    <updated>2021-10-11T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110383057880.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16391">Event Wish "Epitome Invocation" - Boosted Drop Rate for Polar Star (Bow) and Memory of Dust (Catalyst)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16391" rel="alternate"/>
+    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</summary>
+    <published>2021-10-11T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16356</id>
+    <title>Paimon's Sneak Peek at Version 2.2 New Events - Phase I</title>
+    <updated>2021-10-11T12:10:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101000213992615.jpg"><br/><br/>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16356">Paimon's Sneak Peek at Version 2.2 New Events - Phase I</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16356" rel="alternate"/>
+    <summary>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~</summary>
+    <published>2021-10-11T12:10:00-04:00</published>
   </entry>
 </feed>

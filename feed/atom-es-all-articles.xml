@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-10-11T03:10:00.678357+00:00</updated>
+  <updated>2021-10-11T04:12:13.600041+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -252,42 +252,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13732</id>
-    <title>Demo de nuevo personaje de Genshin Impact - Kaedehara Kazuha: encanto sin extravagancias</title>
-    <updated>2021-06-28T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062812094938705.jpg"><br/><br/>Las nubes blancas flotan sobre la cima de las montañas, el cielo luce despejado y el agua cristalina brilla con el sol. Es el mejor momento para saciar la sed de poesía.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13732">Demo de nuevo personaje de Genshin Impact - Kaedehara Kazuha: encanto sin extravagancias</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13732" rel="alternate"/>
-    <summary>Las nubes blancas flotan sobre la cima de las montañas, el cielo luce despejado y el agua cristalina brilla con el sol. Es el mejor momento para saciar la sed de poesía.</summary>
-    <published>2021-06-28T12:10:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13733</id>
-    <title>Paimon te trae una recopilación de los eventos de la versión 1.6 (II)</title>
-    <updated>2021-06-28T12:18:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062812160932287.jpg"><br/><br/>¡Hola, viajeros! El evento «Leyenda de la espada errante» ya está disponible, ¡vengan y desafíen a enemigos nunca antes vistos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13733">Paimon te trae una recopilación de los eventos de la versión 1.6 (II)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13733" rel="alternate"/>
-    <summary>¡Hola, viajeros! El evento «Leyenda de la espada errante» ya está disponible, ¡vengan y desafíen a enemigos nunca antes vistos!</summary>
-    <published>2021-06-28T12:18:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13772</id>
-    <title>Genshin Impact - Kaedehara Kazuha: libre como el viento</title>
-    <updated>2021-06-29T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914061288814.jpg"><br/><br/>El presagio de la tormenta inminente puede ser la razón por la que unos huyen y el motivo por el que otros siguen adelante.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13772">Genshin Impact - Kaedehara Kazuha: libre como el viento</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13772" rel="alternate"/>
-    <summary>El presagio de la tormenta inminente puede ser la razón por la que unos huyen y el motivo por el que otros siguen adelante.</summary>
-    <published>2021-06-29T18:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13801</id>
-    <title>Charla con los desarrolladores (30/06/2021): ¡ya están aquí las decoraciones transportables!</title>
-    <updated>2021-06-30T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923164096006.png"><br/><br/>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13801">Charla con los desarrolladores (30/06/2021): ¡ya están aquí las decoraciones transportables!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13801" rel="alternate"/>
-    <summary>Hoy Paimon volvió para traerles otra charla con los desarrolladores. (*＾-＾*) ¿Qué noticias nos traerán esta vez? ¡Vengan con Paimon para ver de qué se trata!</summary>
-    <published>2021-06-30T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>13780</id>
@@ -1155,40 +1119,42 @@ La función de predescarga ya está disponible para PC y dispositivos móviles.<
     <published>2021-10-11T11:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13897</id>
-    <title>Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</title>
-    <updated>2021-07-03T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222440365843.jpg"><br/><br/>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13897">Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13897" rel="alternate"/>
-    <summary>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.</summary>
-    <published>2021-07-03T11:00:00+02:00</published>
+    <id>16392</id>
+    <title>Detalles de la misión legendaria «Encuentros: Parte 3»</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110392334988.jpg"><br/><br/>Tras alcanzar el Rango de Aventura correspondiente y completar las misiones previas, podrás utilizar Llaves legendarias para desbloquear los encuentros con Sayu y Thoma por separado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16392">Detalles de la misión legendaria «Encuentros: Parte 3»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16392" rel="alternate"/>
+    <summary>Tras alcanzar el Rango de Aventura correspondiente y completar las misiones previas, podrás utilizar Llaves legendarias para desbloquear los encuentros con Sayu y Thoma por separado.</summary>
+    <published>2021-10-11T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13892</id>
-    <title>Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</title>
-    <updated>2021-07-04T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070219425787839.jpg"><br/><br/>"Siempre habrá quien se atreva a desafiar el destello del rayo".<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13892">Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13892" rel="alternate"/>
-    <summary>"Siempre habrá quien se atreva a desafiar el destello del rayo".</summary>
-    <published>2021-07-04T12:00:00+02:00</published>
+    <id>16399</id>
+    <title>Gachapón «El adiós de Snezhnaya»: ¡Probabilidad de obtención de Tartaglia aumentada!</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110443051168.jpg"><br/><br/>En este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16399">Gachapón «El adiós de Snezhnaya»: ¡Probabilidad de obtención de Tartaglia aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16399" rel="alternate"/>
+    <summary>En este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-10-11T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13964</id>
-    <title>Modo de juego del evento «Contienda eterna»</title>
-    <updated>2021-07-08T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717275741119.jpg"><br/><br/>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13964">Modo de juego del evento «Contienda eterna»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13964" rel="alternate"/>
-    <summary>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"</summary>
-    <published>2021-07-08T10:30:00+02:00</published>
+    <id>16405</id>
+    <title>Gachapón «Encarnación divina»: ¡Probabilidad de obtención de Estrella Invernal y Candado Terrenal aumentada!</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110520214528.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16405">Gachapón «Encarnación divina»: ¡Probabilidad de obtención de Estrella Invernal y Candado Terrenal aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16405" rel="alternate"/>
+    <summary>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-10-11T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>14007</id>
-    <title>Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</title>
-    <updated>2021-07-09T21:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914124942763.jpg"><br/><br/>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14007">Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14007" rel="alternate"/>
-    <summary>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.</summary>
-    <published>2021-07-09T21:30:00+02:00</published>
+    <id>16354</id>
+    <title>Paimon te trae una recopilación de los eventos de la versión 2.2 (I)</title>
+    <updated>2021-10-11T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211009/2021100919560855181.jpg"><br/><br/>Estimados viajeros:
+¡La versión 2.2 ya está aquí! ¡Haz clic en la imagen para ver la información de los eventos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16354">Paimon te trae una recopilación de los eventos de la versión 2.2 (I)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16354" rel="alternate"/>
+    <summary>Estimados viajeros:
+¡La versión 2.2 ya está aquí! ¡Haz clic en la imagen para ver la información de los eventos!</summary>
+    <published>2021-10-11T12:10:00+02:00</published>
   </entry>
   <entry>
     <id>14032</id>
@@ -2056,5 +2022,43 @@ La función de predescarga ya está disponible para PC y dispositivos móviles.<
     <summary>Querido/a viajero/a:
 La función de predescarga ya está disponible para PC y dispositivos móviles.</summary>
     <published>2021-10-11T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16392</id>
+    <title>Detalles de la misión legendaria «Encuentros: Parte 3»</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110392334988.jpg"><br/><br/>Tras alcanzar el Rango de Aventura correspondiente y completar las misiones previas, podrás utilizar Llaves legendarias para desbloquear los encuentros con Sayu y Thoma por separado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16392">Detalles de la misión legendaria «Encuentros: Parte 3»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16392" rel="alternate"/>
+    <summary>Tras alcanzar el Rango de Aventura correspondiente y completar las misiones previas, podrás utilizar Llaves legendarias para desbloquear los encuentros con Sayu y Thoma por separado.</summary>
+    <published>2021-10-11T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16399</id>
+    <title>Gachapón «El adiós de Snezhnaya»: ¡Probabilidad de obtención de Tartaglia aumentada!</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110443051168.jpg"><br/><br/>En este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16399">Gachapón «El adiós de Snezhnaya»: ¡Probabilidad de obtención de Tartaglia aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16399" rel="alternate"/>
+    <summary>En este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-10-11T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16405</id>
+    <title>Gachapón «Encarnación divina»: ¡Probabilidad de obtención de Estrella Invernal y Candado Terrenal aumentada!</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110520214528.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16405">Gachapón «Encarnación divina»: ¡Probabilidad de obtención de Estrella Invernal y Candado Terrenal aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16405" rel="alternate"/>
+    <summary>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-10-11T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16354</id>
+    <title>Paimon te trae una recopilación de los eventos de la versión 2.2 (I)</title>
+    <updated>2021-10-11T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211009/2021100919560855181.jpg"><br/><br/>Estimados viajeros:
+¡La versión 2.2 ya está aquí! ¡Haz clic en la imagen para ver la información de los eventos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16354">Paimon te trae una recopilación de los eventos de la versión 2.2 (I)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16354" rel="alternate"/>
+    <summary>Estimados viajeros:
+¡La versión 2.2 ya está aquí! ¡Haz clic en la imagen para ver la información de los eventos!</summary>
+    <published>2021-10-11T12:10:00+02:00</published>
   </entry>
 </feed>

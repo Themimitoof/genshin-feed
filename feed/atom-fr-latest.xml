@@ -2,51 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-10-11T03:09:41.799393+00:00</updated>
+  <updated>2021-10-11T04:11:50.682533+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>13655</id>
-    <title>Vœux : « Incarnation divine » ! Taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Atlas de la Voûte d'Azur (Catalyseur) !</title>
-    <updated>2021-06-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518342161562.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13655">Vœux : « Incarnation divine » ! Taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Atlas de la Voûte d'Azur (Catalyseur) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13655" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !</summary>
-    <published>2021-06-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13675</id>
-    <title>Paimon vous présente un aperçu des nouveaux événements de la version 1.6 - Partie II</title>
-    <updated>2021-06-27T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210626/2021062613132152981.jpg"><br/><br/>Bonjour, chers voyageurs !
-L'événement « Légende martiale du vent » bat son plein, venez affronter de puissants ennemis inconnus !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13675">Paimon vous présente un aperçu des nouveaux événements de la version 1.6 - Partie II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13675" rel="alternate"/>
-    <summary>Bonjour, chers voyageurs !
-L'événement « Légende martiale du vent » bat son plein, venez affronter de puissants ennemis inconnus !</summary>
-    <published>2021-06-27T12:10:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13723</id>
-    <title>Genshin Impact - Démo personnage : « Kaedehara Kazuha : Brise vagabonde »</title>
-    <updated>2021-06-28T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811434418748.jpg"><br/><br/>Les nuages flottent sur la cime des montagnes, le ciel est clair et les eaux sont calmes. Quelle belle journée pour s'adonner à la poésie.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13723">Genshin Impact - Démo personnage : « Kaedehara Kazuha : Brise vagabonde »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13723" rel="alternate"/>
-    <summary>Les nuages flottent sur la cime des montagnes, le ciel est clair et les eaux sont calmes. Quelle belle journée pour s'adonner à la poésie.</summary>
-    <published>2021-06-28T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13787</id>
-    <title>Genshin Impact - Kaedehara Kazuha : Esprit libre</title>
-    <updated>2021-06-29T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062916030143323.jpg"><br/><br/>Le présage d'une tempête qui approche peut nous pousser à la fuir ou à l'affronter.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13787">Genshin Impact - Kaedehara Kazuha : Esprit libre</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13787" rel="alternate"/>
-    <summary>Le présage d'une tempête qui approche peut nous pousser à la fuir ou à l'affronter.</summary>
-    <published>2021-06-29T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13800</id>
     <title>Discussion avec les développeurs (30/06) - Une décoration permettant de se télétransporter arrive !</title>
@@ -910,5 +872,37 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111020821310.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16411">Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16411" rel="alternate"/>
     <published>2021-10-11T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16417</id>
+    <title>Le pré-téléchargement est disponible</title>
+    <updated>2021-10-11T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111102616982.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16417">Le pré-téléchargement est disponible</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16417" rel="alternate"/>
+    <published>2021-10-11T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16422</id>
+    <title>Escapades - Partie III : présentation des quêtes d'histoire</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111125376996.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16422">Escapades - Partie III : présentation des quêtes d'histoire</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16422" rel="alternate"/>
+    <published>2021-10-11T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16425</id>
+    <title>Vœux « Adieux au Nord » : tentez d'obtenir Tartaglia · Jeune Sire (Hydro) !</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111224567595.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16425">Vœux « Adieux au Nord » : tentez d'obtenir Tartaglia · Jeune Sire (Hydro) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16425" rel="alternate"/>
+    <published>2021-10-11T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16426</id>
+    <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Étoile polaire (Arc) et Chaînes mortelles (Catalyseur) !</title>
+    <updated>2021-10-11T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111242767467.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16426">Vœux « Incarnation divine » : taux d'obtention boosté pour Étoile polaire (Arc) et Chaînes mortelles (Catalyseur) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16426" rel="alternate"/>
+    <published>2021-10-11T12:00:00+02:00</published>
   </entry>
 </feed>

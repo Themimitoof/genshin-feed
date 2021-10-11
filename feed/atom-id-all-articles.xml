@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-10-11T03:10:04.605020+00:00</updated>
+  <updated>2021-10-11T04:12:18.538840+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -259,42 +259,6 @@
     <published>2020-12-20T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13726</id>
-    <title>Demo Karakter — "Kaedehara Kazuha: Wujud Angin yang Menawan" | Genshin Impact</title>
-    <updated>2021-06-28T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811445487973.jpg"><br/><br/>Puncak gunung berselimutkan awan, langit yang biru, air yang tenang. Hari yang tepat untuk berpuisi.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13726">Demo Karakter — "Kaedehara Kazuha: Wujud Angin yang Menawan" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13726" rel="alternate"/>
-    <summary>Puncak gunung berselimutkan awan, langit yang biru, air yang tenang. Hari yang tepat untuk berpuisi.</summary>
-    <published>2021-06-28T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13756</id>
-    <title>Aneka Koleksi Genshin Impact - "Kaedehara Kazuha: Jiwa Seperti Angin"</title>
-    <updated>2021-06-29T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062910324471530.jpg"><br/><br/>Pertanda badai dapat diartikan sebagai peringatan agar orang-orang menghindarinya, dan juga suatu godaan agar orang-orang maju menembusnya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13756">Aneka Koleksi Genshin Impact - "Kaedehara Kazuha: Jiwa Seperti Angin"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13756" rel="alternate"/>
-    <summary>Pertanda badai dapat diartikan sebagai peringatan agar orang-orang menghindarinya, dan juga suatu godaan agar orang-orang maju menembusnya.</summary>
-    <published>2021-06-29T18:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13806</id>
-    <title>Tanya Jawab dengan Tim Pengembang 30 Juni: Perabotan Teleportasi Sudah Hadir Loh~</title>
-    <updated>2021-06-30T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063010135238979.png"><br/><br/>Hari ini Paimon bawa hasil obrolan sama tim pengembang lagi loh! ╰ (* ° ▽ ° *) ╯ Ada berita apa lagi nih dari mereka? Ayo ikut Paimon lihat sama-sama~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13806">Tanya Jawab dengan Tim Pengembang 30 Juni: Perabotan Teleportasi Sudah Hadir Loh~</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13806" rel="alternate"/>
-    <summary>Hari ini Paimon bawa hasil obrolan sama tim pengembang lagi loh! ╰ (* ° ▽ ° *) ╯ Ada berita apa lagi nih dari mereka? Ayo ikut Paimon lihat sama-sama~</summary>
-    <published>2021-06-30T10:30:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13775</id>
-    <title>Cara Bermain "Pertempuran Sengit Kaboomball"</title>
-    <updated>2021-06-30T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914285542532.jpg"><br/><br/>Dodofortress yang dapat menembakkan bola dengan cepat dan luar biasa kini telah aktif! Gunakan Dodoguard untuk memantulkan kembali Kaboomball yang datang dan kalahkan Dodofortress dalam Pertempuran Sengit Kaboomball!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13775">Cara Bermain "Pertempuran Sengit Kaboomball"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13775" rel="alternate"/>
-    <summary>Dodofortress yang dapat menembakkan bola dengan cepat dan luar biasa kini telah aktif! Gunakan Dodoguard untuk memantulkan kembali Kaboomball yang datang dan kalahkan Dodofortress dalam Pertempuran Sengit Kaboomball!</summary>
-    <published>2021-06-30T12:10:00+07:00</published>
-  </entry>
-  <entry>
     <id>13901</id>
     <title>Event Web "Buku Gambar Traveler": Selesaikan Gambar dan Dapatkan Blueprint Perabot "Lahirnya Lautan Bunga"</title>
     <updated>2021-07-03T11:00:00+07:00</updated>
@@ -1162,40 +1126,40 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <published>2021-10-11T11:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13806</id>
-    <title>Tanya Jawab dengan Tim Pengembang 30 Juni: Perabotan Teleportasi Sudah Hadir Loh~</title>
-    <updated>2021-06-30T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063010135238979.png"><br/><br/>Hari ini Paimon bawa hasil obrolan sama tim pengembang lagi loh! ╰ (* ° ▽ ° *) ╯ Ada berita apa lagi nih dari mereka? Ayo ikut Paimon lihat sama-sama~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13806">Tanya Jawab dengan Tim Pengembang 30 Juni: Perabotan Teleportasi Sudah Hadir Loh~</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13806" rel="alternate"/>
-    <summary>Hari ini Paimon bawa hasil obrolan sama tim pengembang lagi loh! ╰ (* ° ▽ ° *) ╯ Ada berita apa lagi nih dari mereka? Ayo ikut Paimon lihat sama-sama~</summary>
-    <published>2021-06-30T10:30:00+07:00</published>
+    <id>16398</id>
+    <title>Rincian Quest Story "Event Undangan: Seri III"</title>
+    <updated>2021-10-11T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110442484648.jpg"><br/><br/>Setelah mencapai Rank Adventure yang diperlukan dan menyelesaikan Quest prasyarat, Traveler dapat menggunakan "Kunci Story" untuk secara terpisah membuka Event Undangan Sayu dan Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16398">Rincian Quest Story "Event Undangan: Seri III"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16398" rel="alternate"/>
+    <summary>Setelah mencapai Rank Adventure yang diperlukan dan menyelesaikan Quest prasyarat, Traveler dapat menggunakan "Kunci Story" untuk secara terpisah membuka Event Undangan Sayu dan Thoma.</summary>
+    <published>2021-10-11T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13775</id>
-    <title>Cara Bermain "Pertempuran Sengit Kaboomball"</title>
-    <updated>2021-06-30T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914285542532.jpg"><br/><br/>Dodofortress yang dapat menembakkan bola dengan cepat dan luar biasa kini telah aktif! Gunakan Dodoguard untuk memantulkan kembali Kaboomball yang datang dan kalahkan Dodofortress dalam Pertempuran Sengit Kaboomball!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13775">Cara Bermain "Pertempuran Sengit Kaboomball"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13775" rel="alternate"/>
-    <summary>Dodofortress yang dapat menembakkan bola dengan cepat dan luar biasa kini telah aktif! Gunakan Dodoguard untuk memantulkan kembali Kaboomball yang datang dan kalahkan Dodofortress dalam Pertempuran Sengit Kaboomball!</summary>
-    <published>2021-06-30T12:10:00+07:00</published>
+    <id>16402</id>
+    <title>Event Permohonan "Sampai Jumpa Snezhnaya": Persentase Perolehan Karakter "Childe" Tartaglia (Hydro) Meningkat!</title>
+    <updated>2021-10-11T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110462752343.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16402">Event Permohonan "Sampai Jumpa Snezhnaya": Persentase Perolehan Karakter "Childe" Tartaglia (Hydro) Meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16402" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat party menjadi lebih kuat dalam pertarungan!</summary>
+    <published>2021-10-11T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13901</id>
-    <title>Event Web "Buku Gambar Traveler": Selesaikan Gambar dan Dapatkan Blueprint Perabot "Lahirnya Lautan Bunga"</title>
-    <updated>2021-07-03T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070223232968213.jpg"><br/><br/>Kenangan yang tercipta di sepanjang perjalanan sangatlah berharga dan hanya bisa kita apresiasi selamanya apabila kenangan tersebut diabadikan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13901">Event Web "Buku Gambar Traveler": Selesaikan Gambar dan Dapatkan Blueprint Perabot "Lahirnya Lautan Bunga"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13901" rel="alternate"/>
-    <summary>Kenangan yang tercipta di sepanjang perjalanan sangatlah berharga dan hanya bisa kita apresiasi selamanya apabila kenangan tersebut diabadikan.</summary>
-    <published>2021-07-03T11:00:00+07:00</published>
+    <id>16404</id>
+    <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Polar Star (Bow) dan Memory of Dust (Catalyst) Meningkat!</title>
+    <updated>2021-10-11T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110494422006.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16404">Event Permohonan "Epitome Invocation": Persentase Perolehan Polar Star (Bow) dan Memory of Dust (Catalyst) Meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16404" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!</summary>
+    <published>2021-10-11T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13878</id>
-    <title>Teaser Kisah: Mengejar Cemeti Langit dalam Kesendirian | Genshin Impact</title>
-    <updated>2021-07-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070218330024513.jpg"><br/><br/>"Akan selalu ada seseorang yang berani menghadapi kilatan petir."<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13878">Teaser Kisah: Mengejar Cemeti Langit dalam Kesendirian | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13878" rel="alternate"/>
-    <summary>"Akan selalu ada seseorang yang berani menghadapi kilatan petir."</summary>
-    <published>2021-07-04T12:00:00+07:00</published>
+    <id>16415</id>
+    <title>Intip Preview Event v2.2 Bersama Paimon - Edisi 1</title>
+    <updated>2021-10-11T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111044453267.jpg"><br/><br/>Halo Traveler semua! Versi 2.2 akan segera hadir, yuk tekan gambar di bawah untuk melihat info event-event terbaru~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16415">Intip Preview Event v2.2 Bersama Paimon - Edisi 1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16415" rel="alternate"/>
+    <summary>Halo Traveler semua! Versi 2.2 akan segera hadir, yuk tekan gambar di bawah untuk melihat info event-event terbaru~</summary>
+    <published>2021-10-11T12:10:00+07:00</published>
   </entry>
   <entry>
     <id>13962</id>
@@ -2063,5 +2027,41 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.<br><br>Read more on <a
     <summary>Dear Traveler:
 Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <published>2021-10-11T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16398</id>
+    <title>Rincian Quest Story "Event Undangan: Seri III"</title>
+    <updated>2021-10-11T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110442484648.jpg"><br/><br/>Setelah mencapai Rank Adventure yang diperlukan dan menyelesaikan Quest prasyarat, Traveler dapat menggunakan "Kunci Story" untuk secara terpisah membuka Event Undangan Sayu dan Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16398">Rincian Quest Story "Event Undangan: Seri III"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16398" rel="alternate"/>
+    <summary>Setelah mencapai Rank Adventure yang diperlukan dan menyelesaikan Quest prasyarat, Traveler dapat menggunakan "Kunci Story" untuk secara terpisah membuka Event Undangan Sayu dan Thoma.</summary>
+    <published>2021-10-11T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16402</id>
+    <title>Event Permohonan "Sampai Jumpa Snezhnaya": Persentase Perolehan Karakter "Childe" Tartaglia (Hydro) Meningkat!</title>
+    <updated>2021-10-11T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110462752343.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16402">Event Permohonan "Sampai Jumpa Snezhnaya": Persentase Perolehan Karakter "Childe" Tartaglia (Hydro) Meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16402" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat party menjadi lebih kuat dalam pertarungan!</summary>
+    <published>2021-10-11T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16404</id>
+    <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Polar Star (Bow) dan Memory of Dust (Catalyst) Meningkat!</title>
+    <updated>2021-10-11T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110494422006.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16404">Event Permohonan "Epitome Invocation": Persentase Perolehan Polar Star (Bow) dan Memory of Dust (Catalyst) Meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16404" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!</summary>
+    <published>2021-10-11T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16415</id>
+    <title>Intip Preview Event v2.2 Bersama Paimon - Edisi 1</title>
+    <updated>2021-10-11T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111044453267.jpg"><br/><br/>Halo Traveler semua! Versi 2.2 akan segera hadir, yuk tekan gambar di bawah untuk melihat info event-event terbaru~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16415">Intip Preview Event v2.2 Bersama Paimon - Edisi 1</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16415" rel="alternate"/>
+    <summary>Halo Traveler semua! Versi 2.2 akan segera hadir, yuk tekan gambar di bawah untuk melihat info event-event terbaru~</summary>
+    <published>2021-10-11T12:10:00+07:00</published>
   </entry>
 </feed>
