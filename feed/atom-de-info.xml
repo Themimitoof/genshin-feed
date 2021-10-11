@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-10-11T02:29:27.117976+00:00</updated>
+  <updated>2021-10-11T03:09:52.188732+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>13659</id>
-    <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Einhänder – Blasser Schwur der Freiheit“ und „Katalysator – Himmelsatlas“!</title>
-    <updated>2021-06-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518530085956.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13659">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Einhänder – Blasser Schwur der Freiheit“ und „Katalysator – Himmelsatlas“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13659" rel="alternate"/>
-    <published>2021-06-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13671</id>
-    <title>Gebet „Blätter im Wind“: Höhere Wahrscheinlichkeit für „Tiefrote Blätter jagen wilde Wellen – Kaedehara Kazuha (Anemo)“!</title>
-    <updated>2021-06-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062523232353799.png"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13671">Gebet „Blätter im Wind“: Höhere Wahrscheinlichkeit für „Tiefrote Blätter jagen wilde Wellen – Kaedehara Kazuha (Anemo)“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/13671" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</summary>
-    <published>2021-06-27T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13670</id>
     <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 1.6 – Teil 2</title>
@@ -932,5 +915,27 @@ Wenn die Kraft aller Lebewesen zusammenkäme, könnten sogar die Kreaturen der T
     <link href="https://genshin.mihoyo.com/de/news/detail/16333" rel="alternate"/>
     <summary>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!</summary>
     <published>2021-10-06T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16384</id>
+    <title>Mitteilung zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</title>
+    <updated>2021-10-11T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110322280689.jpg"><br/><br/>Lieber Reisender,
+um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16384">Mitteilung zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16384" rel="alternate"/>
+    <summary>Lieber Reisender,
+um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.</summary>
+    <published>2021-10-11T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16389</id>
+    <title>Vorzeitiges Herunterladen jetzt verfügbar</title>
+    <updated>2021-10-11T11:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110371594368.jpg"><br/><br/>Lieber Reisender,
+die Funktion zum vorzeitigen Herunterladen ist jetzt für PC und mobile Geräte verfügbar.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16389">Vorzeitiges Herunterladen jetzt verfügbar</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16389" rel="alternate"/>
+    <summary>Lieber Reisender,
+die Funktion zum vorzeitigen Herunterladen ist jetzt für PC und mobile Geräte verfügbar.</summary>
+    <published>2021-10-11T11:00:00+02:00</published>
   </entry>
 </feed>

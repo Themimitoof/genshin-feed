@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-10-11T02:29:18.988144+00:00</updated>
+  <updated>2021-10-11T03:09:41.754059+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -282,30 +282,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>13588</id>
-    <title>"Legend of the Vagabond Sword" Gameplay Details</title>
-    <updated>2021-06-24T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062316330932610.jpg"><br/><br/>The gate to an unknown domain has opened, and within it await powerful, heretofore unseen foes.
-
-Draw your sword and enact your legend with the fearless spirit of a wandering warrior!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13588">"Legend of the Vagabond Sword" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13588" rel="alternate"/>
-    <summary>The gate to an unknown domain has opened, and within it await powerful, heretofore unseen foes.
-
-Draw your sword and enact your legend with the fearless spirit of a wandering warrior!</summary>
-    <published>2021-06-24T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>13615</id>
-    <title>The "Distant Voyage" Web Event Has Begun</title>
-    <updated>2021-06-24T13:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062410274827771.jpg"><br/><br/>The sound of a flute being played by a young boy drifts through the wind...
-"Distant Voyage" — the web event for Genshin Impact's new character, Kaedehara Kazuha, is out now.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13615">The "Distant Voyage" Web Event Has Begun</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13615" rel="alternate"/>
-    <summary>The sound of a flute being played by a young boy drifts through the wind...
-"Distant Voyage" — the web event for Genshin Impact's new character, Kaedehara Kazuha, is out now.</summary>
-    <published>2021-06-24T13:00:00-04:00</published>
   </entry>
   <entry>
     <id>13657</id>
@@ -1291,28 +1267,22 @@ or a Traveler from a distant land, all will be revealed.</summary>
     <published>2021-10-06T10:30:00-04:00</published>
   </entry>
   <entry>
-    <id>13666</id>
-    <title>Event Wish "Epitome Invocation" - Boosted Drop Rates for Freedom-Sworn (Sword) and Skyward Atlas (Catalyst)!</title>
-    <updated>2021-06-27T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062519221733944.png"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13666">Event Wish "Epitome Invocation" - Boosted Drop Rates for Freedom-Sworn (Sword) and Skyward Atlas (Catalyst)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13666" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!
-
-</summary>
-    <published>2021-06-27T12:00:00-04:00</published>
+    <id>16369</id>
+    <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</title>
+    <updated>2021-10-11T10:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109301572535.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16369">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16369" rel="alternate"/>
+    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
+    <published>2021-10-11T10:30:00-04:00</published>
   </entry>
   <entry>
-    <id>13668</id>
-    <title>Paimon's Sneak Peek at Version 1.6 New Events - Phase II</title>
-    <updated>2021-06-27T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062521333171691.jpg"><br/><br/>Hello, Travelers~ The ""Legend of the Vagabond Sword"" event is currently underway. Come challenge an all-new powerful boss~
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13668">Paimon's Sneak Peek at Version 1.6 New Events - Phase II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13668" rel="alternate"/>
-    <summary>Hello, Travelers~ The ""Legend of the Vagabond Sword"" event is currently underway. Come challenge an all-new powerful boss~
-</summary>
-    <published>2021-06-27T12:10:00-04:00</published>
+    <id>16370</id>
+    <title>Pre-Installation Function Now Available</title>
+    <updated>2021-10-11T11:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109390896284.jpg"><br/><br/>The pre-installation function is now available on both PC and mobile platforms.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16370">Pre-Installation Function Now Available</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16370" rel="alternate"/>
+    <summary>The pre-installation function is now available on both PC and mobile platforms.</summary>
+    <published>2021-10-11T11:00:00-04:00</published>
   </entry>
   <entry>
     <id>13715</id>
@@ -2286,5 +2256,23 @@ or a Traveler from a distant land, all will be revealed.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/16321" rel="alternate"/>
     <summary>A new Developers Discussion is here~ Let's see what they have in store for us!</summary>
     <published>2021-10-06T10:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16369</id>
+    <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</title>
+    <updated>2021-10-11T10:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109301572535.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16369">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16369" rel="alternate"/>
+    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
+    <published>2021-10-11T10:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16370</id>
+    <title>Pre-Installation Function Now Available</title>
+    <updated>2021-10-11T11:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109390896284.jpg"><br/><br/>The pre-installation function is now available on both PC and mobile platforms.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16370">Pre-Installation Function Now Available</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16370" rel="alternate"/>
+    <summary>The pre-installation function is now available on both PC and mobile platforms.</summary>
+    <published>2021-10-11T11:00:00-04:00</published>
   </entry>
 </feed>

@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 Oct 2021 02:29:38 +0000</lastBuildDate>
-    <item>
-      <title>「星と深淵を再び」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12354</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042810282769420.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12354">「星と深淵を再び」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">12354</guid>
-      <pubDate>Wed, 28 Apr 2021 11:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「エネルギー原盤・序論」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12258</link>
-      <description>イベントに参加し、「キャッツテールスペシャル・ディオナ（氷）」などの報酬と交換できます！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042514573245377.jpg"><br/><br/>イベントに参加し、「キャッツテールスペシャル・ディオナ（氷）」などの報酬と交換できます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12258">「エネルギー原盤・序論」イベント予告</a>]]></content:encoded>
-      <guid isPermaLink="false">12258</guid>
-      <pubDate>Wed, 28 Apr 2021 12:15:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Oct 2021 03:10:04 +0000</lastBuildDate>
     <item>
       <title>Ver.1.5の更新に伴う一部不具合の修正について</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12330</link>
@@ -718,6 +703,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211004/2021100416580684358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16341">運営チームからの手紙</a>]]></description>
       <guid isPermaLink="false">16341</guid>
       <pubDate>Wed, 06 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16371</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109584367921.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16371">Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</a>]]></description>
+      <guid isPermaLink="false">16371</guid>
+      <pubDate>Mon, 11 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver2.2事前ダウンロード開始</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16375</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110164789254.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16375">Ver2.2事前ダウンロード開始</a>]]></description>
+      <guid isPermaLink="false">16375</guid>
+      <pubDate>Mon, 11 Oct 2021 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

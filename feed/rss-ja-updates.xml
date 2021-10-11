@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 11 Oct 2021 02:29:40 +0000</lastBuildDate>
-    <item>
-      <title>事前登録フレンド招待キャンペーン・抽選結果のお知らせ</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5876</link>
-      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5876">事前登録フレンド招待キャンペーン・抽選結果のお知らせ</a>]]></description>
-      <guid isPermaLink="false">5876</guid>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「刻晴（雷）」、「モナ（水）」 元素爆発スキルの効果異常について</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5883</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201009/2020100920150357972.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5883">「刻晴（雷）」、「モナ（水）」 元素爆発スキルの効果異常について</a>]]></description>
-      <guid isPermaLink="false">5883</guid>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Oct 2021 03:10:06 +0000</lastBuildDate>
     <item>
       <title>今後のイベント開催計画について</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5884</link>
@@ -716,6 +702,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083115163379743.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/15488">Ver.2.1「韶光撫月の浮世」更新内容について</a>]]></description>
       <guid isPermaLink="false">15488</guid>
       <pubDate>Wed, 01 Sep 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16371</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109584367921.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16371">Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</a>]]></description>
+      <guid isPermaLink="false">16371</guid>
+      <pubDate>Mon, 11 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver2.2事前ダウンロード開始</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16375</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110164789254.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16375">Ver2.2事前ダウンロード開始</a>]]></description>
+      <guid isPermaLink="false">16375</guid>
+      <pubDate>Mon, 11 Oct 2021 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

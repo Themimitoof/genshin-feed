@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-10-11T02:29:42.430013+00:00</updated>
+  <updated>2021-10-11T03:10:08.252339+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -894,24 +894,6 @@
     <published>2021-09-30T23:50:00+09:00</published>
   </entry>
   <entry>
-    <id>5876</id>
-    <title>事前登録フレンド招待キャンペーン・抽選結果のお知らせ</title>
-    <updated>2020-10-08T00:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5876">事前登録フレンド招待キャンペーン・抽選結果のお知らせ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/5876" rel="alternate"/>
-    <summary/>
-    <published>2020-10-08T00:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>5883</id>
-    <title>「刻晴（雷）」、「モナ（水）」 元素爆発スキルの効果異常について</title>
-    <updated>2020-10-09T00:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201009/2020100920150357972.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5883">「刻晴（雷）」、「モナ（水）」 元素爆発スキルの効果異常について</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/5883" rel="alternate"/>
-    <summary/>
-    <published>2020-10-09T00:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>5884</id>
     <title>今後のイベント開催計画について</title>
     <updated>2020-10-09T00:00:00+09:00</updated>
@@ -1783,6 +1765,23 @@
     <published>2021-09-01T07:00:00+09:00</published>
   </entry>
   <entry>
+    <id>16371</id>
+    <title>Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</title>
+    <updated>2021-10-11T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109584367921.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16371">Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16371" rel="alternate"/>
+    <summary/>
+    <published>2021-10-11T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16375</id>
+    <title>Ver2.2事前ダウンロード開始</title>
+    <updated>2021-10-11T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110164789254.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16375">Ver2.2事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16375" rel="alternate"/>
+    <published>2021-10-11T11:00:00+09:00</published>
+  </entry>
+  <entry>
     <id>3061</id>
     <title>親愛なる旅人さんへ</title>
     <updated>2020-04-12T00:00:00+09:00</updated>
@@ -1916,24 +1915,6 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16341" rel="alternate"/>
     <summary/>
     <published>2021-10-06T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12354</id>
-    <title>「星と深淵を再び」イベント紹介</title>
-    <updated>2021-04-28T11:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042810282769420.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12354">「星と深淵を再び」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12354" rel="alternate"/>
-    <summary/>
-    <published>2021-04-28T11:10:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12258</id>
-    <title>「エネルギー原盤・序論」イベント予告</title>
-    <updated>2021-04-28T12:15:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210425/2021042514573245377.jpg"><br/><br/>イベントに参加し、「キャッツテールスペシャル・ディオナ（氷）」などの報酬と交換できます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12258">「エネルギー原盤・序論」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12258" rel="alternate"/>
-    <summary>イベントに参加し、「キャッツテールスペシャル・ディオナ（氷）」などの報酬と交換できます！</summary>
-    <published>2021-04-28T12:15:00+09:00</published>
   </entry>
   <entry>
     <id>12330</id>
@@ -2797,5 +2778,22 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16341" rel="alternate"/>
     <summary/>
     <published>2021-10-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16371</id>
+    <title>Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</title>
+    <updated>2021-10-11T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109584367921.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16371">Ver.2.2「霧の海と謎の秘境」バージョンアップのお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16371" rel="alternate"/>
+    <summary/>
+    <published>2021-10-11T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16375</id>
+    <title>Ver2.2事前ダウンロード開始</title>
+    <updated>2021-10-11T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110164789254.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16375">Ver2.2事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16375" rel="alternate"/>
+    <published>2021-10-11T11:00:00+09:00</published>
   </entry>
 </feed>

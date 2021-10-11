@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-10-11T02:29:52.260299+00:00</updated>
+  <updated>2021-10-11T03:10:19.881306+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>13667</id>
-    <title>Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</title>
-    <updated>2021-06-27T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Молитва: Листья на ветру<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13667">Молитва: Листья на ветру - повышен шанс получить персонажа «Багряные листья и неистовые волны» Каэдэхара Кадзуха (Анемо) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13667" rel="alternate"/>
-    <summary>Молитва: Листья на ветру</summary>
-    <published>2021-06-27T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13678</id>
-    <title>Обзор событий версии 1.6 - Выпуск II</title>
-    <updated>2021-06-27T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210626/2021062615374697619.jpg"><br/><br/>Легенда о мече ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13678">Обзор событий версии 1.6 - Выпуск II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13678" rel="alternate"/>
-    <summary>Легенда о мече ветра</summary>
-    <published>2021-06-27T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>13709</id>
     <title>«Тихое изящество» Каэдэхара Кадзуха (Анемо) - Новый персонаж | Genshin Impact</title>
@@ -909,5 +891,25 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16349" rel="alternate"/>
     <summary>Представляем вашему вниманию новый выпуск «Бесед с разработчиками»! Посмотрим, что они приготовили нам на этот раз!</summary>
     <published>2021-10-06T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16366</id>
+    <title>Об обновлении 2.2 «Тайны туманного моря»</title>
+    <updated>2021-10-11T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16366">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16366" rel="alternate"/>
+    <summary>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</summary>
+    <published>2021-10-11T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16367</id>
+    <title>Функция предзагрузки уже доступна!</title>
+    <updated>2021-10-11T11:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[Дорогие Путешественники!
+Функция предзагрузки уже доступна на ПК и мобильных платформах.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16367">Функция предзагрузки уже доступна!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16367" rel="alternate"/>
+    <summary>Дорогие Путешественники!
+Функция предзагрузки уже доступна на ПК и мобильных платформах.</summary>
+    <published>2021-10-11T11:00:00+03:00</published>
   </entry>
 </feed>

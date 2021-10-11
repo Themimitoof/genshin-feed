@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-10-11T02:29:46.356881+00:00</updated>
+  <updated>2021-10-11T03:10:13.793388+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -304,24 +304,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>13641</id>
-    <title>「머지않아 시작될 먼 길」보상 웹이벤트 오픈</title>
-    <updated>2021-06-24T13:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210624/2021062411562665225.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13641">「머지않아 시작될 먼 길」보상 웹이벤트 오픈</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13641" rel="alternate"/>
-    <summary/>
-    <published>2021-06-24T13:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>13681</id>
-    <title>「바람에 지는 낙엽」 기원: 「파도를 쫓는 단풍·카에데하라 카즈하(바람)」 확률 UP!</title>
-    <updated>2021-06-27T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210627/2021062710242730438.png"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13681">「바람에 지는 낙엽」 기원: 「파도를 쫓는 단풍·카에데하라 카즈하(바람)」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13681" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</summary>
-    <published>2021-06-27T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>13682</id>
@@ -1272,28 +1254,22 @@
     <published>2021-10-06T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>13688</id>
-    <title>「여름! 섬? 모험!」 1.6 버전 이벤트 알림 제2회</title>
-    <updated>2021-06-27T19:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210627/2021062713502060070.jpg"><br/><br/>지금 「바람 타고 온 검투 전설」 이벤트가 진행 중이야. 어서 전대미문의 강력한 보스에게 도전해봐~
-그리고 더 많은 이벤트 정보를 같이 확인해 보자구~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13688">「여름! 섬? 모험!」 1.6 버전 이벤트 알림 제2회</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13688" rel="alternate"/>
-    <summary>지금 「바람 타고 온 검투 전설」 이벤트가 진행 중이야. 어서 전대미문의 강력한 보스에게 도전해봐~
-그리고 더 많은 이벤트 정보를 같이 확인해 보자구~</summary>
-    <published>2021-06-27T19:00:00+09:00</published>
+    <id>16368</id>
+    <title>「안개의 미궁 속으로」 2.2 버전 업데이트 공지</title>
+    <updated>2021-10-11T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109011483966.jpg"><br/><br/>여행자님께 보다 나은 게임 환경을 제공하기 위해 버전 업데이트 서버 점검을 진행할 예정이며, 서버 점검 종료 후 게임이 새로운 버전으로 업데이트됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16368">「안개의 미궁 속으로」 2.2 버전 업데이트 공지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16368" rel="alternate"/>
+    <summary>여행자님께 보다 나은 게임 환경을 제공하기 위해 버전 업데이트 서버 점검을 진행할 예정이며, 서버 점검 종료 후 게임이 새로운 버전으로 업데이트됩니다</summary>
+    <published>2021-10-11T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>13722</id>
-    <title>&lt;원신&gt; 신규 캐릭터 플레이-「카에데하라 카즈하: 풍류 무사」</title>
-    <updated>2021-06-28T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811425127007.jpg"><br/><br/>산은 높고 구름은 편안하네. 하늘은 푸르고 물은 고요하지. 시상이 떠오르기에 좋은 날이야.
-애석하지만 풍류를 모르는 사람들이 좀 있는 것 같네…
-됐어. 검풍이 잦아들고 낙엽이 날아오르면 시는 자연스럽게 지어지겠지.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13722"><원신> 신규 캐릭터 플레이-「카에데하라 카즈하: 풍류 무사」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13722" rel="alternate"/>
-    <summary>산은 높고 구름은 편안하네. 하늘은 푸르고 물은 고요하지. 시상이 떠오르기에 좋은 날이야.
-애석하지만 풍류를 모르는 사람들이 좀 있는 것 같네…
-됐어. 검풍이 잦아들고 낙엽이 날아오르면 시는 자연스럽게 지어지겠지.</summary>
-    <published>2021-06-28T12:00:00+09:00</published>
+    <id>16372</id>
+    <title>사전 다운로드 기능 오픈</title>
+    <updated>2021-10-11T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110123669834.jpg"><br/><br/>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16372">사전 다운로드 기능 오픈</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16372" rel="alternate"/>
+    <summary>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다</summary>
+    <published>2021-10-11T11:00:00+09:00</published>
   </entry>
   <entry>
     <id>13770</id>
@@ -2238,5 +2214,23 @@
     <summary>﻿따끈따끈한 개발진 간담회 시간이 돌아왔어~
 이번엔 개발진에서 어떤내용을 알려줬는지 페이몬이 여행자들에게 하나하나 알려줄게~</summary>
     <published>2021-10-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16368</id>
+    <title>「안개의 미궁 속으로」 2.2 버전 업데이트 공지</title>
+    <updated>2021-10-11T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109011483966.jpg"><br/><br/>여행자님께 보다 나은 게임 환경을 제공하기 위해 버전 업데이트 서버 점검을 진행할 예정이며, 서버 점검 종료 후 게임이 새로운 버전으로 업데이트됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16368">「안개의 미궁 속으로」 2.2 버전 업데이트 공지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16368" rel="alternate"/>
+    <summary>여행자님께 보다 나은 게임 환경을 제공하기 위해 버전 업데이트 서버 점검을 진행할 예정이며, 서버 점검 종료 후 게임이 새로운 버전으로 업데이트됩니다</summary>
+    <published>2021-10-11T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16372</id>
+    <title>사전 다운로드 기능 오픈</title>
+    <updated>2021-10-11T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110123669834.jpg"><br/><br/>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16372">사전 다운로드 기능 오픈</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16372" rel="alternate"/>
+    <summary>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다</summary>
+    <published>2021-10-11T11:00:00+09:00</published>
   </entry>
 </feed>

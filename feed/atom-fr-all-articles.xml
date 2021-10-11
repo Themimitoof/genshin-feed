@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-10-11T02:29:21.864770+00:00</updated>
+  <updated>2021-10-11T03:09:45.971182+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -243,17 +243,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>13611</id>
-    <title>Détails de l'événement « Légende martiale du vent »</title>
-    <updated>2021-06-24T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062321592843939.jpg"><br/><br/>Les portes d'un donjon inconnu se sont ouvertes, derrière lesquelles vous attendent des monstres que nul n'a jamais vus.
-Affrontez-les avec l'intrépidité du vent et écrivez votre propre légende.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13611">Détails de l'événement « Légende martiale du vent »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13611" rel="alternate"/>
-    <summary>Les portes d'un donjon inconnu se sont ouvertes, derrière lesquelles vous attendent des monstres que nul n'a jamais vus.
-Affrontez-les avec l'intrépidité du vent et écrivez votre propre légende.</summary>
-    <published>2021-06-24T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>13618</id>
@@ -1157,15 +1146,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-10-06T10:30:00+02:00</published>
   </entry>
   <entry>
-    <id>13651</id>
-    <title>Vœux : « Feuilles dans le vent » ! Taux d'obtention boosté pour Kaedehara Kazuha · Tourbillon de feuilles écarlates (Anémo) !</title>
-    <updated>2021-06-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210625/2021062518411475479.png"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !
-<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13651">Vœux : « Feuilles dans le vent » ! Taux d'obtention boosté pour Kaedehara Kazuha · Tourbillon de feuilles écarlates (Anémo) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13651" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !
-</summary>
-    <published>2021-06-27T12:00:00+02:00</published>
+    <id>16411</id>
+    <title>Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</title>
+    <updated>2021-10-11T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111020821310.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16411">Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16411" rel="alternate"/>
+    <published>2021-10-11T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>13655</id>
@@ -2060,5 +2046,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100109575298538.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16320">Discussion avec les développeurs (06/10) : retour du gadget « Lyre de la brise » !</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16320" rel="alternate"/>
     <published>2021-10-06T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16411</id>
+    <title>Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</title>
+    <updated>2021-10-11T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111020821310.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16411">Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16411" rel="alternate"/>
+    <published>2021-10-11T10:30:00+02:00</published>
   </entry>
 </feed>

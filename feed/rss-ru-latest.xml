@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 11 Oct 2021 02:29:51 +0000</lastBuildDate>
-    <item>
-      <title>Каэдэхара Кадзуха: Вольный дух ветра | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13755</link>
-      <description>Каэдэхара Кадзуха</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062910312546240.jpg"><br/><br/>Каэдэхара Кадзуха<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13755">Каэдэхара Кадзуха: Вольный дух ветра | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13755</guid>
-      <pubDate>Tue, 29 Jun 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Беседы с разработчиками (30 июня) - Скоро выйдет телепортационный предмет декора!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13799</link>
-      <description>Беседы с разработчиками</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923060433467.png"><br/><br/>Беседы с разработчиками<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13799">Беседы с разработчиками (30 июня) - Скоро выйдет телепортационный предмет декора!</a>]]></content:encoded>
-      <guid isPermaLink="false">13799</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 11 Oct 2021 03:10:18 +0000</lastBuildDate>
     <item>
       <title>Описание события «Война бабах-мячей»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13785</link>
@@ -809,6 +793,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211006/2021100617492111368.png"><br/><br/>Представляем вашему вниманию новый выпуск «Бесед с разработчиками»! Посмотрим, что они приготовили нам на этот раз!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16349">Беседы с разработчиками (6 октября) - Лира ветров снова доступна!</a>]]></content:encoded>
       <guid isPermaLink="false">16349</guid>
       <pubDate>Wed, 06 Oct 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Об обновлении 2.2 «Тайны туманного моря»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16366</link>
+      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
+      <content:encoded><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16366">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content:encoded>
+      <guid isPermaLink="false">16366</guid>
+      <pubDate>Mon, 11 Oct 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Функция предзагрузки уже доступна!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16367</link>
+      <description>Дорогие Путешественники!
+Функция предзагрузки уже доступна на ПК и мобильных платформах.</description>
+      <content:encoded><![CDATA[Дорогие Путешественники!
+Функция предзагрузки уже доступна на ПК и мобильных платформах.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16367">Функция предзагрузки уже доступна!</a>]]></content:encoded>
+      <guid isPermaLink="false">16367</guid>
+      <pubDate>Mon, 11 Oct 2021 11:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
