@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-10-12T22:09:02.959735+00:00</updated>
+  <updated>2021-10-12T23:09:43.830555+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -894,14 +894,6 @@
     <published>2021-10-11T12:00:00+09:00</published>
   </entry>
   <entry>
-    <id>5884</id>
-    <title>今後のイベント開催計画について</title>
-    <updated>2020-10-09T00:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201009/2020100921042835703.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5884">今後のイベント開催計画について</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/5884" rel="alternate"/>
-    <published>2020-10-09T00:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>5917</id>
     <title>ゲーム内一部のテキストの修正および調整について</title>
     <updated>2020-10-10T17:00:00+09:00</updated>
@@ -1782,6 +1774,15 @@
     <published>2021-10-11T11:00:00+09:00</published>
   </entry>
   <entry>
+    <id>16451</id>
+    <title>Ver.2.2「霧の海と謎の秘境」更新内容について</title>
+    <updated>2021-10-13T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16451" rel="alternate"/>
+    <summary/>
+    <published>2021-10-13T07:00:00+09:00</published>
+  </entry>
+  <entry>
     <id>3061</id>
     <title>親愛なる旅人さんへ</title>
     <updated>2020-04-12T00:00:00+09:00</updated>
@@ -1915,15 +1916,6 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16341" rel="alternate"/>
     <summary/>
     <published>2021-10-06T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12459</id>
-    <title>GW期間のサポートメールについてのご連絡</title>
-    <updated>2021-04-28T19:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042818455693534.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12459">GW期間のサポートメールについてのご連絡</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12459" rel="alternate"/>
-    <summary/>
-    <published>2021-04-28T19:30:00+09:00</published>
   </entry>
   <entry>
     <id>12455</id>
@@ -2795,5 +2787,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16383" rel="alternate"/>
     <summary/>
     <published>2021-10-11T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16451</id>
+    <title>Ver.2.2「霧の海と謎の秘境」更新内容について</title>
+    <updated>2021-10-13T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16451" rel="alternate"/>
+    <summary/>
+    <published>2021-10-13T07:00:00+09:00</published>
   </entry>
 </feed>

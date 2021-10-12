@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-10-12T22:09:00.986067+00:00</updated>
+  <updated>2021-10-12T23:09:28.957987+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>14032</id>
-    <title>Detalles del sistema de gachapones «Senda divina»</title>
-    <updated>2021-07-09T22:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919252268954.jpg"><br/><br/>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14032">Detalles del sistema de gachapones «Senda divina»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14032" rel="alternate"/>
-    <summary>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»</summary>
-    <published>2021-07-09T22:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14039</id>
     <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
@@ -913,5 +904,16 @@ La función de predescarga ya está disponible para PC y dispositivos móviles.<
     <summary>Estimados viajeros:
 ¡La versión 2.2 ya está aquí! ¡Haz clic en la imagen para ver la información de los eventos!</summary>
     <published>2021-10-11T12:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16510</id>
+    <title>Detalles de la versión 2.2 «El laberinto de niebla»</title>
+    <updated>2021-10-13T07:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221314013495.jpg"><br/><br/>Querido/a viajero/a:
+A continuación te presentamos el contenido de la nueva versión 2.2 «El laberinto de niebla» y la información relacionada con su actualización.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16510">Detalles de la versión 2.2 «El laberinto de niebla»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16510" rel="alternate"/>
+    <summary>Querido/a viajero/a:
+A continuación te presentamos el contenido de la nueva versión 2.2 «El laberinto de niebla» y la información relacionada con su actualización.</summary>
+    <published>2021-10-13T07:00:00+02:00</published>
   </entry>
 </feed>

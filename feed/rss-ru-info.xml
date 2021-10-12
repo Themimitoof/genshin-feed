@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:09:04 +0000</lastBuildDate>
-    <item>
-      <title>Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13902</link>
-      <description>Альбом путешествий</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070223290847170.jpg"><br/><br/>Альбом путешествий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13902">Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</a>]]></content:encoded>
-      <guid isPermaLink="false">13902</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:52 +0000</lastBuildDate>
     <item>
       <title>Тизер «Путешествие ловца молний» | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/13869</link>
@@ -810,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101023272692853.jpg"><br/><br/>Привет, Путешественники! Вот уже скоро выходит версия 2.2. Нажмите на изображение ниже, чтобы узнать больше о новых событиях!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16365">Обзор событий версии 2.2 - Выпуск I</a>]]></content:encoded>
       <guid isPermaLink="false">16365</guid>
       <pubDate>Mon, 11 Oct 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Об обновлении 2.2 «Тайны туманного моря»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16491</link>
+      <description>Ниже представлена информация об обновлении до версии 2.2 - «Тайны туманного моря» и о компенсации.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219284453606.jpg"><br/><br/>Ниже представлена информация об обновлении до версии 2.2 - «Тайны туманного моря» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16491">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content:encoded>
+      <guid isPermaLink="false">16491</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

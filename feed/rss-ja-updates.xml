@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:09:02 +0000</lastBuildDate>
-    <item>
-      <title>今後のイベント開催計画について</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5884</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201009/2020100921042835703.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5884">今後のイベント開催計画について</a>]]></description>
-      <guid isPermaLink="false">5884</guid>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:40 +0000</lastBuildDate>
     <item>
       <title>ゲーム内一部のテキストの修正および調整について</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5917</link>
@@ -716,6 +709,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110164789254.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16375">Ver2.2事前ダウンロード開始</a>]]></description>
       <guid isPermaLink="false">16375</guid>
       <pubDate>Mon, 11 Oct 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.2「霧の海と謎の秘境」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16451</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></description>
+      <guid isPermaLink="false">16451</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

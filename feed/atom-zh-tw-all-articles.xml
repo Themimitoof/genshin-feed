@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-10-12T22:08:59.022300+00:00</updated>
+  <updated>2021-10-12T23:09:25.678322+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -235,15 +235,6 @@
     <published>2021-02-01T10:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13807</id>
-    <title>0630開發團隊座談會—可傳送擺設要來啦~</title>
-    <updated>2021-06-30T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063010185721266.png"><br/><br/>今天派蒙帶著開發團隊座談會來啦~╰(*°▽°*)╯本期又有哪些來自開發團隊的消息呢？跟著派蒙一起往下看看吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13807">0630開發團隊座談會—可傳送擺設要來啦~</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13807" rel="alternate"/>
-    <summary>今天派蒙帶著開發團隊座談會來啦~╰(*°▽°*)╯本期又有哪些來自開發團隊的消息呢？跟著派蒙一起往下看看吧~</summary>
-    <published>2021-06-30T10:30:00+08:00</published>
-  </entry>
-  <entry>
     <id>13776</id>
     <title>「砰砰魔球總動員」玩法說明</title>
     <updated>2021-06-30T12:10:00+08:00</updated>
@@ -1120,13 +1111,13 @@
     <published>2021-10-11T12:10:00+08:00</published>
   </entry>
   <entry>
-    <id>13776</id>
-    <title>「砰砰魔球總動員」玩法說明</title>
-    <updated>2021-06-30T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914304674385.jpg"><br/><br/>妙趣橫生的發球機關「魔球嘟嘟堡」已然啟動！利用高速旋轉的「嘟嘟光盾」回擊「砰砰魔球」，戰勝「魔球嘟嘟堡」吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13776">「砰砰魔球總動員」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13776" rel="alternate"/>
-    <summary>妙趣橫生的發球機關「魔球嘟嘟堡」已然啟動！利用高速旋轉的「嘟嘟光盾」回擊「砰砰魔球」，戰勝「魔球嘟嘟堡」吧！</summary>
-    <published>2021-06-30T12:10:00+08:00</published>
+    <id>16487</id>
+    <title>「霧海懸謎境」2.2版本更新說明</title>
+    <updated>2021-10-13T07:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219200248344.jpg"><br/><br/>以下是2.2版本——「霧海懸謎境」更新與補償內容。    <br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16487">「霧海懸謎境」2.2版本更新說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16487" rel="alternate"/>
+    <summary>以下是2.2版本——「霧海懸謎境」更新與補償內容。    </summary>
+    <published>2021-10-13T07:00:00+08:00</published>
   </entry>
   <entry>
     <id>13898</id>
@@ -2003,5 +1994,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16357" rel="alternate"/>
     <summary>旅行者們好呀~2.2版本即將來臨，點擊下方長圖提前瞭解全新活動內容吧~</summary>
     <published>2021-10-11T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16487</id>
+    <title>「霧海懸謎境」2.2版本更新說明</title>
+    <updated>2021-10-13T07:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219200248344.jpg"><br/><br/>以下是2.2版本——「霧海懸謎境」更新與補償內容。    <br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16487">「霧海懸謎境」2.2版本更新說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16487" rel="alternate"/>
+    <summary>以下是2.2版本——「霧海懸謎境」更新與補償內容。    </summary>
+    <published>2021-10-13T07:00:00+08:00</published>
   </entry>
 </feed>

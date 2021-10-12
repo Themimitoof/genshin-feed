@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:21 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -216,14 +216,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Kaedehara Kazuha : Brise vagabonde »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13723</link>
-      <description>Les nuages flottent sur la cime des montagnes, le ciel est clair et les eaux sont calmes. Quelle belle journée pour s'adonner à la poésie.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062811434418748.jpg"><br/><br/>Les nuages flottent sur la cime des montagnes, le ciel est clair et les eaux sont calmes. Quelle belle journée pour s'adonner à la poésie.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13723">Genshin Impact - Démo personnage : « Kaedehara Kazuha : Brise vagabonde »</a>]]></content:encoded>
-      <guid isPermaLink="false">13723</guid>
-      <pubDate>Mon, 28 Jun 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Kaedehara Kazuha : Esprit libre</title>
@@ -1010,11 +1002,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Mon, 11 Oct 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Discussion avec les développeurs (30/06) - Une décoration permettant de se télétransporter arrive !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13800</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923131536486.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13800">Discussion avec les développeurs (30/06) - Une décoration permettant de se télétransporter arrive !</a>]]></description>
-      <guid isPermaLink="false">13800</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0200</pubDate>
+      <title>Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16497</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220100216236.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16497">Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></description>
+      <guid isPermaLink="false">16497</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Combadaboum »</title>
@@ -1799,6 +1791,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111242767467.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16426">Vœux « Incarnation divine » : taux d'obtention boosté pour Étoile polaire (Arc) et Chaînes mortelles (Catalyseur) !</a>]]></description>
       <guid isPermaLink="false">16426</guid>
       <pubDate>Mon, 11 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16497</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220100216236.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16497">Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></description>
+      <guid isPermaLink="false">16497</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

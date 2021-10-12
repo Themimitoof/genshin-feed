@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-10-12T22:09:03.983993+00:00</updated>
+  <updated>2021-10-12T23:09:50.444838+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -1157,15 +1157,6 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-10-06T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>14016</id>
-    <title>Genshin Impact - Teaser da Versão 2.0: "A Deusa Imóvel e a Utopia Eterna"</title>
-    <updated>2021-07-09T21:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914363593009.jpg"><br/><br/>Uma tempestade vinda de longe chega, dividindo a eternidade. Flashes de relâmpagos cortam a escuridão, a sensação de magia permanece no ar.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14016">Genshin Impact - Teaser da Versão 2.0: "A Deusa Imóvel e a Utopia Eterna"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14016" rel="alternate"/>
-    <summary>Uma tempestade vinda de longe chega, dividindo a eternidade. Flashes de relâmpagos cortam a escuridão, a sensação de magia permanece no ar.</summary>
-    <published>2021-07-09T21:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>14038</id>
     <title>Detalhes do Novo Sistema de Oração de Arma, "Caminho Divino"</title>
     <updated>2021-07-09T22:00:00+01:00</updated>
@@ -2060,5 +2051,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16355" rel="alternate"/>
     <summary>Olá Viajantes~ A versão 2.2 está chegando! Pressione nas imagens para conhecer as novidades da nova versão.</summary>
     <published>2021-10-11T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16492</id>
+    <title>Descrição da Atualização da Versão 2.2 "Mistério do Mar de Névoa"</title>
+    <updated>2021-10-13T07:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219370378261.jpg"><br/><br/>Caros Viajantes: Segue na publicação os detalhes de atualização e compensação da Versão 2.2 "Mistério do Mar de Névoa"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16492">Descrição da Atualização da Versão 2.2 "Mistério do Mar de Névoa"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16492" rel="alternate"/>
+    <summary>Caros Viajantes: Segue na publicação os detalhes de atualização e compensação da Versão 2.2 "Mistério do Mar de Névoa"</summary>
+    <published>2021-10-13T07:00:00+01:00</published>
   </entry>
 </feed>

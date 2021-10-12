@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-10-12T22:08:57.312117+00:00</updated>
+  <updated>2021-10-12T23:09:16.006115+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13767</id>
-    <title>Collected Miscellany - "Kaedehara Kazuha: Free Spirit" | Genshin Impact</title>
-    <updated>2021-06-29T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062910594482621.jpg"><br/><br/>The signs of a coming storm persuade some to seek shelter while urging others to press onward.
-It is with a sharp sword and clear mind, that one can truly be well prepared for the storm.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13767">Collected Miscellany - "Kaedehara Kazuha: Free Spirit" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13767" rel="alternate"/>
-    <summary>The signs of a coming storm persuade some to seek shelter while urging others to press onward.
-It is with a sharp sword and clear mind, that one can truly be well prepared for the storm.</summary>
-    <published>2021-06-29T18:00:00-04:00</published>
-  </entry>
   <entry>
     <id>13803</id>
     <title>Teleportation Furnishing Incoming~ | Developers Discussion - 6/30</title>
@@ -1000,5 +989,16 @@ or a Traveler from a distant land, all will be revealed.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/16356" rel="alternate"/>
     <summary>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~</summary>
     <published>2021-10-11T12:10:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16488</id>
+    <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</title>
+    <updated>2021-10-13T07:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219204240897.jpg"><br/><br/>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16488">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16488" rel="alternate"/>
+    <summary>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    </summary>
+    <published>2021-10-13T07:00:00-04:00</published>
   </entry>
 </feed>

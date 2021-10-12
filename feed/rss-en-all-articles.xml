@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:18 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -248,16 +248,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Collected Miscellany - "Kaedehara Kazuha: Free Spirit" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13767</link>
-      <description>The signs of a coming storm persuade some to seek shelter while urging others to press onward.
-It is with a sharp sword and clear mind, that one can truly be well prepared for the storm.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062910594482621.jpg"><br/><br/>The signs of a coming storm persuade some to seek shelter while urging others to press onward.
-It is with a sharp sword and clear mind, that one can truly be well prepared for the storm.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13767">Collected Miscellany - "Kaedehara Kazuha: Free Spirit" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13767</guid>
-      <pubDate>Tue, 29 Jun 2021 18:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Teleportation Furnishing Incoming~ | Developers Discussion - 6/30</title>
@@ -1142,12 +1132,14 @@ or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a 
       <pubDate>Mon, 11 Oct 2021 12:10:00 -0400</pubDate>
     </item>
     <item>
-      <title>Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13894</link>
-      <description>"There will always be those who dare to brave the lightning's glow."</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222011311966.jpg"><br/><br/>"There will always be those who dare to brave the lightning's glow."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13894">Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13894</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 -0400</pubDate>
+      <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16488</link>
+      <description>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219204240897.jpg"><br/><br/>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16488">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</a>]]></content:encoded>
+      <guid isPermaLink="false">16488</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 -0400</pubDate>
     </item>
     <item>
       <title>"Never-Ending Battle" Gameplay Details</title>
@@ -2028,6 +2020,16 @@ or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101000213992615.jpg"><br/><br/>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16356">Paimon's Sneak Peek at Version 2.2 New Events - Phase I</a>]]></content:encoded>
       <guid isPermaLink="false">16356</guid>
       <pubDate>Mon, 11 Oct 2021 12:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16488</link>
+      <description>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219204240897.jpg"><br/><br/>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16488">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</a>]]></content:encoded>
+      <guid isPermaLink="false">16488</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

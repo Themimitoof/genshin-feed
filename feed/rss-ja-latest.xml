@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:09:01 +0000</lastBuildDate>
-    <item>
-      <title>GW期間のサポートメールについてのご連絡</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12459</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042818455693534.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12459">GW期間のサポートメールについてのご連絡</a>]]></description>
-      <guid isPermaLink="false">12459</guid>
-      <pubDate>Wed, 28 Apr 2021 19:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:38 +0000</lastBuildDate>
     <item>
       <title>ヒルチャール百科事典002期</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12455</link>
@@ -717,6 +710,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110341263715.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16383">「デートイベント・3」任務予告</a>]]></description>
       <guid isPermaLink="false">16383</guid>
       <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.2「霧の海と謎の秘境」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16451</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></description>
+      <guid isPermaLink="false">16451</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

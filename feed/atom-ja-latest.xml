@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-10-12T22:09:01.987942+00:00</updated>
+  <updated>2021-10-12T23:09:38.329933+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>12459</id>
-    <title>GW期間のサポートメールについてのご連絡</title>
-    <updated>2021-04-28T19:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042818455693534.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12459">GW期間のサポートメールについてのご連絡</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12459" rel="alternate"/>
-    <summary/>
-    <published>2021-04-28T19:30:00+09:00</published>
-  </entry>
   <entry>
     <id>12455</id>
     <title>ヒルチャール百科事典002期</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16383" rel="alternate"/>
     <summary/>
     <published>2021-10-11T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16451</id>
+    <title>Ver.2.2「霧の海と謎の秘境」更新内容について</title>
+    <updated>2021-10-13T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16451" rel="alternate"/>
+    <summary/>
+    <published>2021-10-13T07:00:00+09:00</published>
   </entry>
 </feed>

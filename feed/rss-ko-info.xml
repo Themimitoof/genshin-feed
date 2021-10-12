@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:09:03 +0000</lastBuildDate>
-    <item>
-      <title>[6.30] 개발진 간담회 - 워프할 수 있는 장식 등장~</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13804</link>
-      <description>페이몬이 오늘 개발진 간담회를 가져왔어~~
-이번엔 개발진이 어떤 소식을 전해왔을지 궁금하지? 페이몬이 알려줄게~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063009594610388.png"><br/><br/>페이몬이 오늘 개발진 간담회를 가져왔어~~
-이번엔 개발진이 어떤 소식을 전해왔을지 궁금하지? 페이몬이 알려줄게~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13804">[6.30] 개발진 간담회 - 워프할 수 있는 장식 등장~</a>]]></content:encoded>
-      <guid isPermaLink="false">13804</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:46 +0000</lastBuildDate>
     <item>
       <title>「펑펑 마구 대소동」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13810</link>
@@ -865,6 +855,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111572786976.jpg"><br/><br/>﻿2.2 버전이 곧 출시될 예정이야! 우리 함께 신규 이벤트 정보를 미리 알아보자구~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16433">「안개의 미궁 속으로」 2.2 버전 이벤트 알림 제1회</a>]]></content:encoded>
       <guid isPermaLink="false">16433</guid>
       <pubDate>Mon, 11 Oct 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「안개의 미궁 속으로」 2.2 버전 업데이트 상세안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16501</link>
+      <description>2.2 버전 업데이트 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220561699589.jpg"><br/><br/>2.2 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16501">「안개의 미궁 속으로」 2.2 버전 업데이트 상세안내</a>]]></content:encoded>
+      <guid isPermaLink="false">16501</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

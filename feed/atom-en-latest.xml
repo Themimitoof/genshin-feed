@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-10-12T22:08:56.982462+00:00</updated>
+  <updated>2021-10-12T23:09:14.888742+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13894</id>
-    <title>Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</title>
-    <updated>2021-07-04T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222011311966.jpg"><br/><br/>"There will always be those who dare to brave the lightning's glow."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13894">Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13894" rel="alternate"/>
-    <summary>"There will always be those who dare to brave the lightning's glow."</summary>
-    <published>2021-07-04T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>13960</id>
     <title>"Never-Ending Battle" Gameplay Details</title>
@@ -996,5 +987,16 @@ or a Traveler from a distant land, all will be revealed.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/16356" rel="alternate"/>
     <summary>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~</summary>
     <published>2021-10-11T12:10:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16488</id>
+    <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</title>
+    <updated>2021-10-13T07:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219204240897.jpg"><br/><br/>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16488">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16488" rel="alternate"/>
+    <summary>Dear Travelers,    
+Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    </summary>
+    <published>2021-10-13T07:00:00-04:00</published>
   </entry>
 </feed>

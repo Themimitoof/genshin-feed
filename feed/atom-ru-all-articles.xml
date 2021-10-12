@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-10-12T22:09:05.136721+00:00</updated>
+  <updated>2021-10-12T23:09:54.574121+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -261,15 +261,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13902</id>
-    <title>Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</title>
-    <updated>2021-07-03T11:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070223290847170.jpg"><br/><br/>Альбом путешествий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13902">Событие «Альбом путешествий»: закончите рисунок, чтобы получить чертёж декора «Цветочная колыбель»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13902" rel="alternate"/>
-    <summary>Альбом путешествий</summary>
-    <published>2021-07-03T11:00:00+03:00</published>
   </entry>
   <entry>
     <id>13869</id>
@@ -1166,13 +1157,13 @@
     <published>2021-10-11T12:10:00+03:00</published>
   </entry>
   <entry>
-    <id>14011</id>
-    <title>Genshin Impact | Версия 2.0 - Незыблемый бог, гибель иллюзий</title>
-    <updated>2021-07-09T21:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914173185674.jpg"><br/><br/>Версия 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14011">Genshin Impact | Версия 2.0 - Незыблемый бог, гибель иллюзий</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14011" rel="alternate"/>
-    <summary>Версия 2.0</summary>
-    <published>2021-07-09T21:30:00+03:00</published>
+    <id>16491</id>
+    <title>Об обновлении 2.2 «Тайны туманного моря»</title>
+    <updated>2021-10-13T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219284453606.jpg"><br/><br/>Ниже представлена информация об обновлении до версии 2.2 - «Тайны туманного моря» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16491">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16491" rel="alternate"/>
+    <summary>Ниже представлена информация об обновлении до версии 2.2 - «Тайны туманного моря» и о компенсации.</summary>
+    <published>2021-10-13T07:00:00+03:00</published>
   </entry>
   <entry>
     <id>14051</id>
@@ -2068,5 +2059,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16365" rel="alternate"/>
     <summary>Привет, Путешественники! Вот уже скоро выходит версия 2.2. Нажмите на изображение ниже, чтобы узнать больше о новых событиях!</summary>
     <published>2021-10-11T12:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16491</id>
+    <title>Об обновлении 2.2 «Тайны туманного моря»</title>
+    <updated>2021-10-13T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219284453606.jpg"><br/><br/>Ниже представлена информация об обновлении до версии 2.2 - «Тайны туманного моря» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16491">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16491" rel="alternate"/>
+    <summary>Ниже представлена информация об обновлении до версии 2.2 - «Тайны туманного моря» и о компенсации.</summary>
+    <published>2021-10-13T07:00:00+03:00</published>
   </entry>
 </feed>

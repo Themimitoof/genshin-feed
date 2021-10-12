@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:09:01 +0000</lastBuildDate>
-    <item>
-      <title>Modo de juego de «¡Bomba va!»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/13780</link>
-      <description>¡Las ingeniosas máquinas lanzabolas de los Dodofuertes están activas! Usa los veloces Dodoescudos para devolver las Bombasbum y destruye los Dodofuertes.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914391194364.jpg"><br/><br/>¡Las ingeniosas máquinas lanzabolas de los Dodofuertes están activas! Usa los veloces Dodoescudos para devolver las Bombasbum y destruye los Dodofuertes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13780">Modo de juego de «¡Bomba va!»</a>]]></content:encoded>
-      <guid isPermaLink="false">13780</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:31 +0000</lastBuildDate>
     <item>
       <title>Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</title>
       <link>https://genshin.mihoyo.com/es/news/detail/13897</link>
@@ -805,6 +797,16 @@ La función de predescarga ya está disponible para PC y dispositivos móviles.<
 ¡La versión 2.2 ya está aquí! ¡Haz clic en la imagen para ver la información de los eventos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16354">Paimon te trae una recopilación de los eventos de la versión 2.2 (I)</a>]]></content:encoded>
       <guid isPermaLink="false">16354</guid>
       <pubDate>Mon, 11 Oct 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Detalles de la versión 2.2 «El laberinto de niebla»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16510</link>
+      <description>Querido/a viajero/a:
+A continuación te presentamos el contenido de la nueva versión 2.2 «El laberinto de niebla» y la información relacionada con su actualización.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221314013495.jpg"><br/><br/>Querido/a viajero/a:
+A continuación te presentamos el contenido de la nueva versión 2.2 «El laberinto de niebla» y la información relacionada con su actualización.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16510">Detalles de la versión 2.2 «El laberinto de niebla»</a>]]></content:encoded>
+      <guid isPermaLink="false">16510</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

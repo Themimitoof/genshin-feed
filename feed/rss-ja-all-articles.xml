@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 12 Oct 2021 22:09:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 23:09:43 +0000</lastBuildDate>
     <item>
       <title>「帰らぬ熄星」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6755</link>
@@ -730,13 +730,6 @@
       <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>今後のイベント開催計画について</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5884</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201009/2020100921042835703.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5884">今後のイベント開催計画について</a>]]></description>
-      <guid isPermaLink="false">5884</guid>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>ゲーム内一部のテキストの修正および調整について</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5917</link>
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5917">ゲーム内一部のテキストの修正および調整について</a>]]></description>
@@ -1438,6 +1431,13 @@
       <pubDate>Mon, 11 Oct 2021 11:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>Ver.2.2「霧の海と謎の秘境」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16451</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></description>
+      <guid isPermaLink="false">16451</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
       <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
@@ -1552,13 +1552,6 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211004/2021100416580684358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16341">運営チームからの手紙</a>]]></description>
       <guid isPermaLink="false">16341</guid>
       <pubDate>Wed, 06 Oct 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>GW期間のサポートメールについてのご連絡</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12459</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042818455693534.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12459">GW期間のサポートメールについてのご連絡</a>]]></description>
-      <guid isPermaLink="false">12459</guid>
-      <pubDate>Wed, 28 Apr 2021 19:30:00 +0900</pubDate>
     </item>
     <item>
       <title>ヒルチャール百科事典002期</title>
@@ -2261,6 +2254,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110341263715.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16383">「デートイベント・3」任務予告</a>]]></description>
       <guid isPermaLink="false">16383</guid>
       <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.2「霧の海と謎の秘境」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16451</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></description>
+      <guid isPermaLink="false">16451</guid>
+      <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
