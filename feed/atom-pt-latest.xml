@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-10-13T03:10:54.436779+00:00</updated>
+  <updated>2021-10-13T04:11:59.395359+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14038</id>
-    <title>Detalhes do Novo Sistema de Oração de Arma, "Caminho Divino"</title>
-    <updated>2021-07-09T22:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919390556050.jpg"><br/><br/>Com a atualização da Versão 2.0, a oração de arma receberá um novo sistema, o "Caminho Divino".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14038">Detalhes do Novo Sistema de Oração de Arma, "Caminho Divino"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14038" rel="alternate"/>
-    <summary>Com a atualização da Versão 2.0, a oração de arma receberá um novo sistema, o "Caminho Divino".</summary>
-    <published>2021-07-09T22:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14044</id>
-    <title>Comunicado sobre o suporte de salvamento cruzado para contas PSN e Contas miHoYo</title>
-    <updated>2021-07-09T22:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920063349951.jpg"><br/><br/>Caros Viajantes, como anunciado anteriormente, foi adicionado na versão 2.0 de Genshin Impact, o suporte de salvamento cruzado entre as plataformas PlayStation e iOS/Android/PC.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14044">Comunicado sobre o suporte de salvamento cruzado para contas PSN e Contas miHoYo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14044" rel="alternate"/>
-    <summary>Caros Viajantes, como anunciado anteriormente, foi adicionado na versão 2.0 de Genshin Impact, o suporte de salvamento cruzado entre as plataformas PlayStation e iOS/Android/PC.</summary>
-    <published>2021-07-09T22:00:00+01:00</published>
-  </entry>
   <entry>
     <id>14102</id>
     <title>Prévia da Atualização do Sistema da Versão 2.0 - Modo de Jogo de Plantação</title>
@@ -913,5 +895,23 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16492" rel="alternate"/>
     <summary>Caros Viajantes: Segue na publicação os detalhes de atualização e compensação da Versão 2.2 "Mistério do Mar de Névoa"</summary>
     <published>2021-10-13T07:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16472</id>
+    <title>EP - Convidado Despreocupado｜Genshin Impact</title>
+    <updated>2021-10-13T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217285016837.jpg"><br/><br/>Andando pelas ruas imersas nas pétalas de Sakura, uma preocupação que é raramente vista despertou no fundo do coração do jovem.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16472">EP - Convidado Despreocupado｜Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16472" rel="alternate"/>
+    <summary>Andando pelas ruas imersas nas pétalas de Sakura, uma preocupação que é raramente vista despertou no fundo do coração do jovem.</summary>
+    <published>2021-10-13T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16480</id>
+    <title>Disponível Evento Web com Recompensas - "Diário de Exploração da Aloy"! Venha explorar o território de Tevyat junto com a Aloy para obter recompensas!</title>
+    <updated>2021-10-13T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217571248961.jpg"><br/><br/>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16480">Disponível Evento Web com Recompensas - "Diário de Exploração da Aloy"! Venha explorar o território de Tevyat junto com a Aloy para obter recompensas!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16480" rel="alternate"/>
+    <summary>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?</summary>
+    <published>2021-10-13T12:00:00+01:00</published>
   </entry>
 </feed>

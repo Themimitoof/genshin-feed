@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:35 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement « Combadaboum »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13802</link>
-      <description>La terrible et surprenante Forteresse Dodo lanceuse de balles s'est réveillée ! Utilisez votre bouclier Dodo pour renvoyer les balles badaboum et en venir à bout.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923263737437.jpg"><br/><br/>La terrible et surprenante Forteresse Dodo lanceuse de balles s'est réveillée ! Utilisez votre bouclier Dodo pour renvoyer les balles badaboum et en venir à bout.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13802">Détails de l'événement « Combadaboum »</a>]]></content:encoded>
-      <guid isPermaLink="false">13802</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Événement web « Carnet de voyage » : terminez le coloriage pour obtenir le plan de décoration « Berceau de fleurs »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13912</link>
-      <description>Les souvenirs de voyage sont précieux, on ne peut les chérir que si l'on en garde une trace.
-Pendant l'événement, terminez le dessin du carnet de voyage pour obtenir des primo-gemmes, des plans de décorations et d'autres récompenses !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210705/2021070511125114675.jpg"><br/><br/>Les souvenirs de voyage sont précieux, on ne peut les chérir que si l'on en garde une trace.
-Pendant l'événement, terminez le dessin du carnet de voyage pour obtenir des primo-gemmes, des plans de décorations et d'autres récompenses !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13912">Événement web « Carnet de voyage » : terminez le coloriage pour obtenir le plan de décoration « Berceau de fleurs »</a>]]></content:encoded>
-      <guid isPermaLink="false">13912</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:32 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Aperçu de l'histoire : « Voyage solitaire et poursuite de l'éclair »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13888</link>
@@ -799,6 +781,20 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220100216236.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16497">Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></description>
       <guid isPermaLink="false">16497</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16505</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221215839502.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16505">L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</a>]]></description>
+      <guid isPermaLink="false">16505</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Invité désinvolte</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16507</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221285444945.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16507">Genshin Impact, la bande-son : Invité désinvolte</a>]]></description>
+      <guid isPermaLink="false">16507</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

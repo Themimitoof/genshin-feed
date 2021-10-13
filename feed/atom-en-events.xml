@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - events</title>
-  <updated>2021-10-13T03:10:35.319903+00:00</updated>
+  <updated>2021-10-13T04:11:32.027374+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -109,5 +109,16 @@ The web event "Wish Upon a Lantern" has begun!</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/16164" rel="alternate"/>
     <summary>To thank everyone for their constant support and companionship, Paimon has specially prepared a raffle event that you can take part in by sharing posts. During the event, share this post for a chance to win great rewards~</summary>
     <published>2021-10-03T22:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16485</id>
+    <title>The "Aloy's Exploration Journal" Web Event has begun, explore the land of Teyvat together with Aloy to obtain rewards!</title>
+    <updated>2021-10-13T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101218224686034.jpg"><br/><br/>When Aloy sets foot on Teyvat, what kind of adventure will this Savior from Another World experience?
+Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16485">The "Aloy's Exploration Journal" Web Event has begun, explore the land of Teyvat together with Aloy to obtain rewards!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16485" rel="alternate"/>
+    <summary>When Aloy sets foot on Teyvat, what kind of adventure will this Savior from Another World experience?
+Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!</summary>
+    <published>2021-10-13T12:00:00-04:00</published>
   </entry>
 </feed>

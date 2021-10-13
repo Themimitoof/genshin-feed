@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:34 +0000</lastBuildDate>
-    <item>
-      <title>Teleportation Furnishing Incoming~ | Developers Discussion - 6/30</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13803</link>
-      <description>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063009502399871.png"><br/><br/>Today Paimon had a chat with the developers~╰(*°▽°*)╯ Let's see what they have in store for us~
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13803">Teleportation Furnishing Incoming~ | Developers Discussion - 6/30</a>]]></content:encoded>
-      <guid isPermaLink="false">13803</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:30 +0000</lastBuildDate>
     <item>
       <title>Traveler's Picture Book" Web Event: Complete the Painting to Obtain Furnishing Blueprint "Cradle of Flowers</title>
       <link>https://genshin.mihoyo.com/en/news/detail/13908</link>
@@ -900,6 +890,16 @@ Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of 
 Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16488">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</a>]]></content:encoded>
       <guid isPermaLink="false">16488</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact EP - He Who Wanders Untrammeled</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16458</link>
+      <description>As he wandered through the streets and alleyways lined by cherry blossom trees, a rare and pensive thought came to the young martial artist's mind.
+The answer he seeks lies in both the fierce momentum of battles and the journey awaiting him.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216275773559.jpg"><br/><br/>As he wandered through the streets and alleyways lined by cherry blossom trees, a rare and pensive thought came to the young martial artist's mind.
+The answer he seeks lies in both the fierce momentum of battles and the journey awaiting him.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16458">Genshin Impact EP - He Who Wanders Untrammeled</a>]]></content:encoded>
+      <guid isPermaLink="false">16458</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

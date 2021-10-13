@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:32 +0000</lastBuildDate>
-    <item>
-      <title>"Never-Ending Battle" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13960</link>
-      <description>Enemies of unknown origin have come ashore the Golden Apple Archipelago, intent on taking this seaborne paradise for themselves.
-Use the mechanisms and the blessings from Momentum Discs to beat back the monsters in one fell swoop!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717142941766.jpg"><br/><br/>Enemies of unknown origin have come ashore the Golden Apple Archipelago, intent on taking this seaborne paradise for themselves.
-Use the mechanisms and the blessings from Momentum Discs to beat back the monsters in one fell swoop!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13960">"Never-Ending Battle" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">13960</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Version 2.0 "The Immovable God and the Eternal Euthymia" Trailer | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14005</link>
-      <description>A foreign thunderstorm tears the sky apart, splitting eternity. Flashes of lightning cut through the darkness, as a god's will manifests.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914080497216.jpg"><br/><br/>A foreign thunderstorm tears the sky apart, splitting eternity. Flashes of lightning cut through the darkness, as a god's will manifests.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14005">Version 2.0 "The Immovable God and the Eternal Euthymia" Trailer | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14005</guid>
-      <pubDate>Fri, 09 Jul 2021 21:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:28 +0000</lastBuildDate>
     <item>
       <title>Notice on Cross-Save Function Between Account for PSN and miHoYo Account</title>
       <link>https://genshin.mihoyo.com/en/news/detail/12389</link>
@@ -898,6 +880,26 @@ Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of 
 Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16488">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</a>]]></content:encoded>
       <guid isPermaLink="false">16488</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact EP - He Who Wanders Untrammeled</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16458</link>
+      <description>As he wandered through the streets and alleyways lined by cherry blossom trees, a rare and pensive thought came to the young martial artist's mind.
+The answer he seeks lies in both the fierce momentum of battles and the journey awaiting him.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216275773559.jpg"><br/><br/>As he wandered through the streets and alleyways lined by cherry blossom trees, a rare and pensive thought came to the young martial artist's mind.
+The answer he seeks lies in both the fierce momentum of battles and the journey awaiting him.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16458">Genshin Impact EP - He Who Wanders Untrammeled</a>]]></content:encoded>
+      <guid isPermaLink="false">16458</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>The "Aloy's Exploration Journal" Web Event has begun, explore the land of Teyvat together with Aloy to obtain rewards!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16485</link>
+      <description>When Aloy sets foot on Teyvat, what kind of adventure will this Savior from Another World experience?
+Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101218224686034.jpg"><br/><br/>When Aloy sets foot on Teyvat, what kind of adventure will this Savior from Another World experience?
+Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16485">The "Aloy's Exploration Journal" Web Event has begun, explore the land of Teyvat together with Aloy to obtain rewards!</a>]]></content:encoded>
+      <guid isPermaLink="false">16485</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

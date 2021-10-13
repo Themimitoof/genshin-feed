@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - info</title>
-  <updated>2021-10-13T03:10:44.529601+00:00</updated>
+  <updated>2021-10-13T04:11:45.617123+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>13897</id>
-    <title>Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</title>
-    <updated>2021-07-03T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222440365843.jpg"><br/><br/>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13897">Evento web «Ilustraciones de viaje»: Completa la ilustración del cuaderno para obtener el plano de decoración "Cuna de flores"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13897" rel="alternate"/>
-    <summary>Los recuerdos de tu travesía son tu tesoro más valioso. Solo podrás conservarlos si los rememoras.</summary>
-    <published>2021-07-03T11:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13892</id>
-    <title>Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</title>
-    <updated>2021-07-04T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070219425787839.jpg"><br/><br/>"Siempre habrá quien se atreva a desafiar el destello del rayo".<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13892">Avance la trama de Genshin Impact: El viaje solitario en busca de la luz del rayo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13892" rel="alternate"/>
-    <summary>"Siempre habrá quien se atreva a desafiar el destello del rayo".</summary>
-    <published>2021-07-04T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>13964</id>
     <title>Modo de juego del evento «Contienda eterna»</title>
@@ -913,5 +895,23 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <summary>Querido/a viajero/a:
 A continuación te presentamos el contenido de la nueva versión 2.2 «El laberinto de niebla» y la información relacionada con su actualización.</summary>
     <published>2021-10-13T07:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16465</id>
+    <title>Mini álbum de Genshin Impact - El invitado despreocupado</title>
+    <updated>2021-10-13T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216481485958.jpg"><br/><br/>Vagando sin rumbo por las calles cubiertas de pétalos de cerezo, un extraño desasosiego se atenaza el corazón del joven guerrero.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16465">Mini álbum de Genshin Impact - El invitado despreocupado</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16465" rel="alternate"/>
+    <summary>Vagando sin rumbo por las calles cubiertas de pétalos de cerezo, un extraño desasosiego se atenaza el corazón del joven guerrero.</summary>
+    <published>2021-10-13T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16482</id>
+    <title>El evento web con recompensa «Diario de exploración de Aloy» ya está disponible. ¡Explora Teyvat con Aloy para obtener recompensas!</title>
+    <updated>2021-10-13T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217593614329.jpg"><br/><br/>Diario de exploración de Aloy ¿Qué aventuras estarán esperando a Aloy, "la Salvadora de Otro Mundo", en su llegada a Teyvat?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16482">El evento web con recompensa «Diario de exploración de Aloy» ya está disponible. ¡Explora Teyvat con Aloy para obtener recompensas!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16482" rel="alternate"/>
+    <summary>Diario de exploración de Aloy ¿Qué aventuras estarán esperando a Aloy, "la Salvadora de Otro Mundo", en su llegada a Teyvat?</summary>
+    <published>2021-10-13T12:00:00+02:00</published>
   </entry>
 </feed>

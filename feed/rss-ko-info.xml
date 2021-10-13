@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:52 +0000</lastBuildDate>
-    <item>
-      <title>「펑펑 마구 대소동」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13810</link>
-      <description>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063011410890955.jpg"><br/><br/>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13810">「펑펑 마구 대소동」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">13810</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:56 +0000</lastBuildDate>
     <item>
       <title>「여행 그림 지도」 이벤트! 지도를 완성하고 장식 도면 「꽃바다의 요람」 획득</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13905</link>
@@ -863,6 +855,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220561699589.jpg"><br/><br/>2.2 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16501">「안개의 미궁 속으로」 2.2 버전 업데이트 상세안내</a>]]></content:encoded>
       <guid isPermaLink="false">16501</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 거침없는 손님</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16511</link>
+      <description>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content:encoded>
+      <guid isPermaLink="false">16511</guid>
+      <pubDate>Wed, 13 Oct 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

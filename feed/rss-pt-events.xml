@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 04:12:02 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -104,6 +104,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092617415164234.jpg"><br/><br/>O tempo em Teyvat parece sempre voar. Mas com sua companhia, até mesmo dias comuns brilham como fragmentos de luz.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16165">Evento de Sorteio de Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16165</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Disponível Evento Web com Recompensas - "Diário de Exploração da Aloy"! Venha explorar o território de Tevyat junto com a Aloy para obter recompensas!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16480</link>
+      <description>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217571248961.jpg"><br/><br/>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16480">Disponível Evento Web com Recompensas - "Diário de Exploração da Aloy"! Venha explorar o território de Tevyat junto com a Aloy para obter recompensas!</a>]]></content:encoded>
+      <guid isPermaLink="false">16480</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-10-13T03:10:38.494607+00:00</updated>
+  <updated>2021-10-13T04:11:36.452008+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -245,23 +245,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <published>2020-12-20T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>13787</id>
-    <title>Genshin Impact - Kaedehara Kazuha : Esprit libre</title>
-    <updated>2021-06-29T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062916030143323.jpg"><br/><br/>Le présage d'une tempête qui approche peut nous pousser à la fuir ou à l'affronter.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13787">Genshin Impact - Kaedehara Kazuha : Esprit libre</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13787" rel="alternate"/>
-    <summary>Le présage d'une tempête qui approche peut nous pousser à la fuir ou à l'affronter.</summary>
-    <published>2021-06-29T18:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13800</id>
-    <title>Discussion avec les développeurs (30/06) - Une décoration permettant de se télétransporter arrive !</title>
-    <updated>2021-06-30T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923131536486.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13800">Discussion avec les développeurs (30/06) - Une décoration permettant de se télétransporter arrive !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13800" rel="alternate"/>
-    <published>2021-06-30T10:30:00+02:00</published>
-  </entry>
-  <entry>
     <id>13802</id>
     <title>Détails de l'événement « Combadaboum »</title>
     <updated>2021-06-30T12:10:00+02:00</updated>
@@ -1141,24 +1124,20 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-10-13T07:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13802</id>
-    <title>Détails de l'événement « Combadaboum »</title>
-    <updated>2021-06-30T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923263737437.jpg"><br/><br/>La terrible et surprenante Forteresse Dodo lanceuse de balles s'est réveillée ! Utilisez votre bouclier Dodo pour renvoyer les balles badaboum et en venir à bout.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13802">Détails de l'événement « Combadaboum »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13802" rel="alternate"/>
-    <summary>La terrible et surprenante Forteresse Dodo lanceuse de balles s'est réveillée ! Utilisez votre bouclier Dodo pour renvoyer les balles badaboum et en venir à bout.</summary>
-    <published>2021-06-30T12:10:00+02:00</published>
+    <id>16505</id>
+    <title>L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</title>
+    <updated>2021-10-13T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221215839502.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16505">L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16505" rel="alternate"/>
+    <published>2021-10-13T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>13912</id>
-    <title>Événement web « Carnet de voyage » : terminez le coloriage pour obtenir le plan de décoration « Berceau de fleurs »</title>
-    <updated>2021-07-03T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210705/2021070511125114675.jpg"><br/><br/>Les souvenirs de voyage sont précieux, on ne peut les chérir que si l'on en garde une trace.
-Pendant l'événement, terminez le dessin du carnet de voyage pour obtenir des primo-gemmes, des plans de décorations et d'autres récompenses !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13912">Événement web « Carnet de voyage » : terminez le coloriage pour obtenir le plan de décoration « Berceau de fleurs »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/13912" rel="alternate"/>
-    <summary>Les souvenirs de voyage sont précieux, on ne peut les chérir que si l'on en garde une trace.
-Pendant l'événement, terminez le dessin du carnet de voyage pour obtenir des primo-gemmes, des plans de décorations et d'autres récompenses !</summary>
-    <published>2021-07-03T11:00:00+02:00</published>
+    <id>16507</id>
+    <title>Genshin Impact, la bande-son : Invité désinvolte</title>
+    <updated>2021-10-13T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221285444945.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16507">Genshin Impact, la bande-son : Invité désinvolte</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16507" rel="alternate"/>
+    <published>2021-10-13T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>13888</id>
@@ -2035,5 +2014,21 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220100216236.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16497">Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16497" rel="alternate"/>
     <published>2021-10-13T07:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16505</id>
+    <title>L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</title>
+    <updated>2021-10-13T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221215839502.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16505">L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16505" rel="alternate"/>
+    <published>2021-10-13T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16507</id>
+    <title>Genshin Impact, la bande-son : Invité désinvolte</title>
+    <updated>2021-10-13T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221285444945.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16507">Genshin Impact, la bande-son : Invité désinvolte</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16507" rel="alternate"/>
+    <published>2021-10-13T12:00:00+02:00</published>
   </entry>
 </feed>

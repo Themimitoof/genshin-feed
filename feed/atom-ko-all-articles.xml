@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-10-13T03:10:54.384216+00:00</updated>
+  <updated>2021-10-13T04:11:59.348873+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -109,6 +109,15 @@
     <summary>티바트의 시간은 늘 쏜살같이 지나갑니다.
 하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.</summary>
     <published>2021-10-03T22:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16513</id>
+    <title>[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</title>
+    <updated>2021-10-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310132944957.jpg"><br/><br/>[에일로이 탐색 일지]를 열어 모험을 시작하자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16513">[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16513" rel="alternate"/>
+    <summary>[에일로이 탐색 일지]를 열어 모험을 시작하자!</summary>
+    <published>2021-10-13T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>693</id>
@@ -304,15 +313,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>13810</id>
-    <title>「펑펑 마구 대소동」 콘텐츠 안내</title>
-    <updated>2021-06-30T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063011410890955.jpg"><br/><br/>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13810">「펑펑 마구 대소동」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13810" rel="alternate"/>
-    <summary>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!</summary>
-    <published>2021-06-30T12:10:00+09:00</published>
   </entry>
   <entry>
     <id>13905</id>
@@ -1262,26 +1262,13 @@
     <published>2021-10-13T07:00:00+09:00</published>
   </entry>
   <entry>
-    <id>13996</id>
-    <title>「끝없는 전투」 콘텐츠 안내</title>
-    <updated>2021-07-08T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070721023629050.jpg"><br/><br/>정체불명의 적이 금사과 제도에 상륙하여 해상 낙원을 점령하려고 해요.
-「장치」와 「기백의 과녁」의 축복을 이용해 통쾌한 전투를 펼쳐 단숨에 몬스터들을 물리쳐 보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13996">「끝없는 전투」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13996" rel="alternate"/>
-    <summary>정체불명의 적이 금사과 제도에 상륙하여 해상 낙원을 점령하려고 해요.
-「장치」와 「기백의 과녁」의 축복을 이용해 통쾌한 전투를 펼쳐 단숨에 몬스터들을 물리쳐 보세요!</summary>
-    <published>2021-07-08T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14013</id>
-    <title>&lt;원신&gt; 2.0 버전 PV - 「부동의 번개 신, 포영의 절멸」</title>
-    <updated>2021-07-09T21:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914232128820.jpg"><br/><br/>이국의 번개가 천공을 가르며 영원을 꿈꾼다. 천둥이 그림자를 끊고 신의 뜻을 따른다.
-끝없는 뇌우를 뚫고 벚꽃의 가호가 서린 열도에 들어서 위대하신 나루카미 쇼군이 추구하는 영원을 지켜보아라<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14013"><원신> 2.0 버전 PV - 「부동의 번개 신, 포영의 절멸」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14013" rel="alternate"/>
-    <summary>이국의 번개가 천공을 가르며 영원을 꿈꾼다. 천둥이 그림자를 끊고 신의 뜻을 따른다.
-끝없는 뇌우를 뚫고 벚꽃의 가호가 서린 열도에 들어서 위대하신 나루카미 쇼군이 추구하는 영원을 지켜보아라</summary>
-    <published>2021-07-09T21:30:00+09:00</published>
+    <id>16511</id>
+    <title>&lt;원신&gt; EP - 거침없는 손님</title>
+    <updated>2021-10-13T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16511" rel="alternate"/>
+    <summary>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.</summary>
+    <published>2021-10-13T12:01:00+09:00</published>
   </entry>
   <entry>
     <id>14030</id>
@@ -2216,5 +2203,23 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16501" rel="alternate"/>
     <summary>2.2 버전 업데이트 안내</summary>
     <published>2021-10-13T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16513</id>
+    <title>[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</title>
+    <updated>2021-10-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310132944957.jpg"><br/><br/>[에일로이 탐색 일지]를 열어 모험을 시작하자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16513">[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16513" rel="alternate"/>
+    <summary>[에일로이 탐색 일지]를 열어 모험을 시작하자!</summary>
+    <published>2021-10-13T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16511</id>
+    <title>&lt;원신&gt; EP - 거침없는 손님</title>
+    <updated>2021-10-13T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16511" rel="alternate"/>
+    <summary>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.</summary>
+    <published>2021-10-13T12:01:00+09:00</published>
   </entry>
 </feed>

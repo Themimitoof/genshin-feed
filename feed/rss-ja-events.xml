@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:51 +0000</lastBuildDate>
-    <item>
-      <title>「帰らぬ熄星」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6755</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201114/2020111411214881421.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6755">「帰らぬ熄星」イベント予告</a>]]></description>
-      <guid isPermaLink="false">6755</guid>
-      <pubDate>Sat, 14 Nov 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「帰らぬ熄星」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6765</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201116/2020111612491727856.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6765">「帰らぬ熄星」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">6765</guid>
-      <pubDate>Mon, 16 Nov 2020 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:54 +0000</lastBuildDate>
     <item>
       <title>「冒険者・集結」キャンペーン終了の予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6838</link>
@@ -728,6 +714,21 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110341263715.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16383">「デートイベント・3」任務予告</a>]]></description>
       <guid isPermaLink="false">16383</guid>
       <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「鏡花聴世」イベント予告</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16441</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101210232429461.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16441">「鏡花聴世」イベント予告</a>]]></description>
+      <guid isPermaLink="false">16441</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「アーロイの探索日記」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16452</link>
+      <description>Webイベント・「アーロイの探索日記」が開催されています。アーロイと一緒にテイワット大陸を探索し、報酬を獲得しよう！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101215151376957.jpg"><br/><br/>Webイベント・「アーロイの探索日記」が開催されています。アーロイと一緒にテイワット大陸を探索し、報酬を獲得しよう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16452">「アーロイの探索日記」イベント紹介</a>]]></content:encoded>
+      <guid isPermaLink="false">16452</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

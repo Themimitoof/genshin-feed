@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-10-13T03:10:49.266906+00:00</updated>
+  <updated>2021-10-13T04:11:51.844436+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -124,6 +124,15 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/16314" rel="alternate"/>
     <summary>Waktu di Teyvat berlalu begitu cepat. Namun ketika bersamamu, bahkan hari-hari biasa pun bersinar penuh kilauan.</summary>
     <published>2021-10-03T22:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16475</id>
+    <title>Event Web "Catatan Penjelajahan Aloy" Telah Dimulai. Jelajahi Teyvat bersama Aloy dan dapatkan hadiah menarik!</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217483790053.jpg"><br/><br/>Saat Aloy menginjakkan kaki di Dunia Teyvat, petualangan seperti apa yang menunggu sang "Savior From Another World" ini?<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16475">Event Web "Catatan Penjelajahan Aloy" Telah Dimulai. Jelajahi Teyvat bersama Aloy dan dapatkan hadiah menarik!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16475" rel="alternate"/>
+    <summary>Saat Aloy menginjakkan kaki di Dunia Teyvat, petualangan seperti apa yang menunggu sang "Savior From Another World" ini?</summary>
+    <published>2021-10-13T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>735</id>
@@ -257,15 +266,6 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13878</id>
-    <title>Teaser Kisah: Mengejar Cemeti Langit dalam Kesendirian | Genshin Impact</title>
-    <updated>2021-07-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070218330024513.jpg"><br/><br/>"Akan selalu ada seseorang yang berani menghadapi kilatan petir."<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13878">Teaser Kisah: Mengejar Cemeti Langit dalam Kesendirian | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13878" rel="alternate"/>
-    <summary>"Akan selalu ada seseorang yang berani menghadapi kilatan petir."</summary>
-    <published>2021-07-04T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>13962</id>
@@ -1162,22 +1162,13 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <published>2021-10-13T07:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14020</id>
-    <title>Trailer Versi 2.0 "Dewa Kekal dan Tanah Keabadian" | Genshin Impact</title>
-    <updated>2021-07-09T21:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914420047418.jpg"><br/><br/>Badai petir asing merobek langit, dan membelah keabadian. Kilat cahaya menembus kegelapan, dan kehendak langit terwujudkan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14020">Trailer Versi 2.0 "Dewa Kekal dan Tanah Keabadian" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14020" rel="alternate"/>
-    <summary>Badai petir asing merobek langit, dan membelah keabadian. Kilat cahaya menembus kegelapan, dan kehendak langit terwujudkan.</summary>
-    <published>2021-07-09T21:30:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14045</id>
-    <title>Penjelasan Sistem Baru Event Permohonan Senjata - "Epitomized Path"</title>
-    <updated>2021-07-09T22:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920235115758.jpg"><br/><br/>Setelah update v2.0, Event Permohonan Senjata akan mendapat tambahan sistem baru - "Epitomized Path".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14045">Penjelasan Sistem Baru Event Permohonan Senjata - "Epitomized Path"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14045" rel="alternate"/>
-    <summary>Setelah update v2.0, Event Permohonan Senjata akan mendapat tambahan sistem baru - "Epitomized Path".</summary>
-    <published>2021-07-09T22:00:00+07:00</published>
+    <id>16468</id>
+    <title>Mini Album: Pengelana Tanpa Ikatan | Genshin Impact</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216520719135.jpg"><br/><br/>Melangkah bebas di jalanan dan gang-gang yang berhiaskan pohon sakura, lahirlah sebuah pemikiran langka dari benak seorang ahli bela diri muda.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16468">Mini Album: Pengelana Tanpa Ikatan | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16468" rel="alternate"/>
+    <summary>Melangkah bebas di jalanan dan gang-gang yang berhiaskan pohon sakura, lahirlah sebuah pemikiran langka dari benak seorang ahli bela diri muda.</summary>
+    <published>2021-10-13T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14046</id>
@@ -2063,5 +2054,23 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16490" rel="alternate"/>
     <summary>Berikut adalah konten dan kompensasi Update v2.2 "Misteri Lautan Kabut".</summary>
     <published>2021-10-13T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16468</id>
+    <title>Mini Album: Pengelana Tanpa Ikatan | Genshin Impact</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216520719135.jpg"><br/><br/>Melangkah bebas di jalanan dan gang-gang yang berhiaskan pohon sakura, lahirlah sebuah pemikiran langka dari benak seorang ahli bela diri muda.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16468">Mini Album: Pengelana Tanpa Ikatan | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16468" rel="alternate"/>
+    <summary>Melangkah bebas di jalanan dan gang-gang yang berhiaskan pohon sakura, lahirlah sebuah pemikiran langka dari benak seorang ahli bela diri muda.</summary>
+    <published>2021-10-13T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16475</id>
+    <title>Event Web "Catatan Penjelajahan Aloy" Telah Dimulai. Jelajahi Teyvat bersama Aloy dan dapatkan hadiah menarik!</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217483790053.jpg"><br/><br/>Saat Aloy menginjakkan kaki di Dunia Teyvat, petualangan seperti apa yang menunggu sang "Savior From Another World" ini?<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16475">Event Web "Catatan Penjelajahan Aloy" Telah Dimulai. Jelajahi Teyvat bersama Aloy dan dapatkan hadiah menarik!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16475" rel="alternate"/>
+    <summary>Saat Aloy menginjakkan kaki di Dunia Teyvat, petualangan seperti apa yang menunggu sang "Savior From Another World" ini?</summary>
+    <published>2021-10-13T12:00:00+07:00</published>
   </entry>
 </feed>

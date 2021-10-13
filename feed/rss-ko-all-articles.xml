@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:59 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -98,6 +98,14 @@
 하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16334">원신 추첨 이벤트</a>]]></content:encoded>
       <guid isPermaLink="false">16334</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16513</link>
+      <description>[에일로이 탐색 일지]를 열어 모험을 시작하자!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310132944957.jpg"><br/><br/>[에일로이 탐색 일지]를 열어 모험을 시작하자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16513">[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</a>]]></content:encoded>
+      <guid isPermaLink="false">16513</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>프롤로그 PV: 바람 잡는 이방인</title>
@@ -266,14 +274,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「펑펑 마구 대소동」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13810</link>
-      <description>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063011410890955.jpg"><br/><br/>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13810">「펑펑 마구 대소동」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">13810</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0900</pubDate>
     </item>
     <item>
       <title>「여행 그림 지도」 이벤트! 지도를 완성하고 장식 도면 「꽃바다의 요람」 획득</title>
@@ -1123,24 +1123,12 @@
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「끝없는 전투」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13996</link>
-      <description>정체불명의 적이 금사과 제도에 상륙하여 해상 낙원을 점령하려고 해요.
-「장치」와 「기백의 과녁」의 축복을 이용해 통쾌한 전투를 펼쳐 단숨에 몬스터들을 물리쳐 보세요!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070721023629050.jpg"><br/><br/>정체불명의 적이 금사과 제도에 상륙하여 해상 낙원을 점령하려고 해요.
-「장치」와 「기백의 과녁」의 축복을 이용해 통쾌한 전투를 펼쳐 단숨에 몬스터들을 물리쳐 보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13996">「끝없는 전투」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">13996</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>&lt;원신&gt; 2.0 버전 PV - 「부동의 번개 신, 포영의 절멸」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14013</link>
-      <description>이국의 번개가 천공을 가르며 영원을 꿈꾼다. 천둥이 그림자를 끊고 신의 뜻을 따른다.
-끝없는 뇌우를 뚫고 벚꽃의 가호가 서린 열도에 들어서 위대하신 나루카미 쇼군이 추구하는 영원을 지켜보아라</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914232128820.jpg"><br/><br/>이국의 번개가 천공을 가르며 영원을 꿈꾼다. 천둥이 그림자를 끊고 신의 뜻을 따른다.
-끝없는 뇌우를 뚫고 벚꽃의 가호가 서린 열도에 들어서 위대하신 나루카미 쇼군이 추구하는 영원을 지켜보아라<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14013"><원신> 2.0 버전 PV - 「부동의 번개 신, 포영의 절멸」</a>]]></content:encoded>
-      <guid isPermaLink="false">14013</guid>
-      <pubDate>Fri, 09 Jul 2021 21:30:00 +0900</pubDate>
+      <title>&lt;원신&gt; EP - 거침없는 손님</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16511</link>
+      <description>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content:encoded>
+      <guid isPermaLink="false">16511</guid>
+      <pubDate>Wed, 13 Oct 2021 12:01:00 +0900</pubDate>
     </item>
     <item>
       <title>무기 기원 메커니즘 「신이 정한 궤도」 안내</title>
@@ -1976,6 +1964,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220561699589.jpg"><br/><br/>2.2 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16501">「안개의 미궁 속으로」 2.2 버전 업데이트 상세안내</a>]]></content:encoded>
       <guid isPermaLink="false">16501</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16513</link>
+      <description>[에일로이 탐색 일지]를 열어 모험을 시작하자!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310132944957.jpg"><br/><br/>[에일로이 탐색 일지]를 열어 모험을 시작하자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16513">[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</a>]]></content:encoded>
+      <guid isPermaLink="false">16513</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 거침없는 손님</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16511</link>
+      <description>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content:encoded>
+      <guid isPermaLink="false">16511</guid>
+      <pubDate>Wed, 13 Oct 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

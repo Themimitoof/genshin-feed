@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:43 +0000</lastBuildDate>
-    <item>
-      <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14039</link>
-      <description>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919510072795.jpg"><br/><br/>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14039">Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</a>]]></content:encoded>
-      <guid isPermaLink="false">14039</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14098</link>
-      <description>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317024945365.jpg"><br/><br/>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14098">Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</a>]]></content:encoded>
-      <guid isPermaLink="false">14098</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:44 +0000</lastBuildDate>
     <item>
       <title>Diario de Inazuma - 1ª edición: El misterioso elemento Electro</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14143</link>
@@ -809,6 +793,22 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
 A continuación te presentamos el contenido de la nueva versión 2.2 «El laberinto de niebla» y la información relacionada con su actualización.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16510">Detalles de la versión 2.2 «El laberinto de niebla»</a>]]></content:encoded>
       <guid isPermaLink="false">16510</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - El invitado despreocupado</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16465</link>
+      <description>Vagando sin rumbo por las calles cubiertas de pétalos de cerezo, un extraño desasosiego se atenaza el corazón del joven guerrero.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216481485958.jpg"><br/><br/>Vagando sin rumbo por las calles cubiertas de pétalos de cerezo, un extraño desasosiego se atenaza el corazón del joven guerrero.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16465">Mini álbum de Genshin Impact - El invitado despreocupado</a>]]></content:encoded>
+      <guid isPermaLink="false">16465</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>El evento web con recompensa «Diario de exploración de Aloy» ya está disponible. ¡Explora Teyvat con Aloy para obtener recompensas!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16482</link>
+      <description>Diario de exploración de Aloy ¿Qué aventuras estarán esperando a Aloy, "la Salvadora de Otro Mundo", en su llegada a Teyvat?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217593614329.jpg"><br/><br/>Diario de exploración de Aloy ¿Qué aventuras estarán esperando a Aloy, "la Salvadora de Otro Mundo", en su llegada a Teyvat?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16482">El evento web con recompensa «Diario de exploración de Aloy» ya está disponible. ¡Explora Teyvat con Aloy para obtener recompensas!</a>]]></content:encoded>
+      <guid isPermaLink="false">16482</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

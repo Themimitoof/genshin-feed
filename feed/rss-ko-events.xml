@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:58 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -98,6 +98,14 @@
 하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16334">원신 추첨 이벤트</a>]]></content:encoded>
       <guid isPermaLink="false">16334</guid>
       <pubDate>Sun, 03 Oct 2021 22:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16513</link>
+      <description>[에일로이 탐색 일지]를 열어 모험을 시작하자!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310132944957.jpg"><br/><br/>[에일로이 탐색 일지]를 열어 모험을 시작하자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16513">[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</a>]]></content:encoded>
+      <guid isPermaLink="false">16513</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

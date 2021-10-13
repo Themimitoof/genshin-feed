@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:11:02 +0000</lastBuildDate>
-    <item>
-      <title>Giới thiệu cách chơi "Hội Thao Bóng Bằng Bằng"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/13783</link>
-      <description>Cơ quan phát bóng "Pháo Đài Bóng Dodo" đã được khởi động! Hãy dùng "Khiên Dodo" xoay với tốc độ cao đánh trả "Bóng Bằng Bằng", chiến thắng "Pháo Đài Bóng Dodo"!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914491756910.jpg"><br/><br/>Cơ quan phát bóng "Pháo Đài Bóng Dodo" đã được khởi động! Hãy dùng "Khiên Dodo" xoay với tốc độ cao đánh trả "Bóng Bằng Bằng", chiến thắng "Pháo Đài Bóng Dodo"!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13783">Giới thiệu cách chơi "Hội Thao Bóng Bằng Bằng"</a>]]></content:encoded>
-      <guid isPermaLink="false">13783</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sự kiện H5 "Cuốn Sách Lữ Hành": Hoàn thành vẽ để nhận được bản vẽ đồ trang trí "Cội Nguồn Biển Hoa"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/13896</link>
-      <description>Những kỷ niệm trong cuộc hành trình rất quý giá và sẽ được lưu giữ mãi mãi nếu chúng được ghi lại.
-Trong thời gian sự kiện, hoàn thành vẽ Cuốn Sách Lữ Hành để nhận Nguyên Thạch, bản vẽ đồ trang trí và phần thưởng khác!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222395014860.jpg"><br/><br/>Những kỷ niệm trong cuộc hành trình rất quý giá và sẽ được lưu giữ mãi mãi nếu chúng được ghi lại.
-Trong thời gian sự kiện, hoàn thành vẽ Cuốn Sách Lữ Hành để nhận Nguyên Thạch, bản vẽ đồ trang trí và phần thưởng khác!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13896">Sự kiện H5 "Cuốn Sách Lữ Hành": Hoàn thành vẽ để nhận được bản vẽ đồ trang trí "Cội Nguồn Biển Hoa"</a>]]></content:encoded>
-      <guid isPermaLink="false">13896</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:12:11 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] Video - Độc Hành Đuổi Theo Ánh Chớp</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/13866</link>
@@ -787,6 +769,20 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219590050844.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16494">Giới Thiệu Cập Nhật Phiên Bản 2.2 "Bí Ẩn Biển Sương Mù"</a>]]></description>
       <guid isPermaLink="false">16494</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tuyển tập Genshin Impact - He Who Wanders Untrammeled</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16470</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216585610322.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16470">Tuyển tập Genshin Impact - He Who Wanders Untrammeled</a>]]></description>
+      <guid isPermaLink="false">16470</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16477</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217514847439.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16477">Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</a>]]></description>
+      <guid isPermaLink="false">16477</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

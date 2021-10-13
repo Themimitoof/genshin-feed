@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-10-13T03:10:52.417443+00:00</updated>
+  <updated>2021-10-13T04:11:56.718107+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>13810</id>
-    <title>「펑펑 마구 대소동」 콘텐츠 안내</title>
-    <updated>2021-06-30T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210630/2021063011410890955.jpg"><br/><br/>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13810">「펑펑 마구 대소동」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/13810" rel="alternate"/>
-    <summary>신비롭고 재밌는 볼 발사 장치 「마구 도도성」이 작동되었습니다! 빠르게 회전하는 「도도 빛쉴드」로 「펑펑 마구」에 반격해 「마구 도도성」을 이겨보세요!</summary>
-    <published>2021-06-30T12:10:00+09:00</published>
-  </entry>
   <entry>
     <id>13905</id>
     <title>「여행 그림 지도」 이벤트! 지도를 완성하고 장식 도면 「꽃바다의 요람」 획득</title>
@@ -964,5 +955,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16501" rel="alternate"/>
     <summary>2.2 버전 업데이트 안내</summary>
     <published>2021-10-13T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16511</id>
+    <title>&lt;원신&gt; EP - 거침없는 손님</title>
+    <updated>2021-10-13T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16511" rel="alternate"/>
+    <summary>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.</summary>
+    <published>2021-10-13T12:01:00+09:00</published>
   </entry>
 </feed>

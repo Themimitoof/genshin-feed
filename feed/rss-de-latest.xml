@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:41 +0000</lastBuildDate>
-    <item>
-      <title>Webaktion „Reiseillustrationen“: Vervollständige das Bild und erhalte den Dekorationsbauplan „Wiege im Blumenmeer“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13899</link>
-      <description>Die Erinnerungen an deine Reise sind wertvoll und müssen aufgezeichnet werden, damit du sie ewig behalten kannst.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222555420619.jpg"><br/><br/>Die Erinnerungen an deine Reise sind wertvoll und müssen aufgezeichnet werden, damit du sie ewig behalten kannst.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13899">Webaktion „Reiseillustrationen“: Vervollständige das Bild und erhalte den Dekorationsbauplan „Wiege im Blumenmeer“</a>]]></content:encoded>
-      <guid isPermaLink="false">13899</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Handlungsvorschau von Genshin Impact – „Einsame Verfolgung der Blitze“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13890</link>
-      <description>„Denn es gibt Wesen, die sich dem Blitz entgegenstellen.“</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070219172530419.jpg"><br/><br/>„Denn es gibt Wesen, die sich dem Blitz entgegenstellen.“<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13890">Handlungsvorschau von Genshin Impact – „Einsame Verfolgung der Blitze“</a>]]></content:encoded>
-      <guid isPermaLink="false">13890</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:40 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zur Spielweise von „Unaufhörliche Schlacht“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/13966</link>
@@ -838,6 +822,24 @@ hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrin
 hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16489">Erläuterungen zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</a>]]></content:encoded>
       <guid isPermaLink="false">16489</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Minialbum von Genshin Impact – He Who Wanders Untrammeled</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16481</link>
+      <description>Als er durch die von Kirschblüten gesäumten Straßen und Gassen wanderte, kam dem jungen Kampfkünstler ein seltener und tiefgehender Gedanke.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217591916763.jpg"><br/><br/>Als er durch die von Kirschblüten gesäumten Straßen und Gassen wanderte, kam dem jungen Kampfkünstler ein seltener und tiefgehender Gedanke.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16481">Minialbum von Genshin Impact – He Who Wanders Untrammeled</a>]]></content:encoded>
+      <guid isPermaLink="false">16481</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16484</link>
+      <description>Aloys Erkundungstagebuch
+Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101218035842194.jpg"><br/><br/>Aloys Erkundungstagebuch
+Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16484">Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</a>]]></content:encoded>
+      <guid isPermaLink="false">16484</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-10-13T03:11:05.651619+00:00</updated>
+  <updated>2021-10-13T04:12:15.296547+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -105,6 +105,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711543775687.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15738">Khắc Lên Lời Chúc</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/15738" rel="alternate"/>
     <published>2021-09-07T12:05:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16477</id>
+    <title>Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217514847439.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16477">Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16477" rel="alternate"/>
+    <published>2021-10-13T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>734</id>
@@ -213,15 +221,6 @@
     <published>2020-12-20T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13798</id>
-    <title>Buổi toạ đàm với nhóm phát triển 30/06 - Sắp có đồ trang trí dịch chuyển rồi!</title>
-    <updated>2021-06-30T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062922572237541.png"><br/><br/>Xin chào các Nhà Lữ Hành! Hôm nay Paimon mang đến cho mọi người buổi toạ đàm cùng với nhóm phát triển đây ~╰(*°▽°*)╯ Kỳ này nhóm phát triển sẽ mang đến những tin tức gì nhỉ? Chúng ta hãy cùng xem nhé!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13798">Buổi toạ đàm với nhóm phát triển 30/06 - Sắp có đồ trang trí dịch chuyển rồi!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13798" rel="alternate"/>
-    <summary>Xin chào các Nhà Lữ Hành! Hôm nay Paimon mang đến cho mọi người buổi toạ đàm cùng với nhóm phát triển đây ~╰(*°▽°*)╯ Kỳ này nhóm phát triển sẽ mang đến những tin tức gì nhỉ? Chúng ta hãy cùng xem nhé!</summary>
-    <published>2021-06-30T10:30:00+07:00</published>
-  </entry>
-  <entry>
     <id>13783</id>
     <title>Giới thiệu cách chơi "Hội Thao Bóng Bằng Bằng"</title>
     <updated>2021-06-30T12:10:00+07:00</updated>
@@ -1105,24 +1104,12 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-10-13T07:00:00+07:00</published>
   </entry>
   <entry>
-    <id>13783</id>
-    <title>Giới thiệu cách chơi "Hội Thao Bóng Bằng Bằng"</title>
-    <updated>2021-06-30T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914491756910.jpg"><br/><br/>Cơ quan phát bóng "Pháo Đài Bóng Dodo" đã được khởi động! Hãy dùng "Khiên Dodo" xoay với tốc độ cao đánh trả "Bóng Bằng Bằng", chiến thắng "Pháo Đài Bóng Dodo"!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13783">Giới thiệu cách chơi "Hội Thao Bóng Bằng Bằng"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13783" rel="alternate"/>
-    <summary>Cơ quan phát bóng "Pháo Đài Bóng Dodo" đã được khởi động! Hãy dùng "Khiên Dodo" xoay với tốc độ cao đánh trả "Bóng Bằng Bằng", chiến thắng "Pháo Đài Bóng Dodo"!</summary>
-    <published>2021-06-30T12:10:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13896</id>
-    <title>Sự kiện H5 "Cuốn Sách Lữ Hành": Hoàn thành vẽ để nhận được bản vẽ đồ trang trí "Cội Nguồn Biển Hoa"</title>
-    <updated>2021-07-03T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222395014860.jpg"><br/><br/>Những kỷ niệm trong cuộc hành trình rất quý giá và sẽ được lưu giữ mãi mãi nếu chúng được ghi lại.
-Trong thời gian sự kiện, hoàn thành vẽ Cuốn Sách Lữ Hành để nhận Nguyên Thạch, bản vẽ đồ trang trí và phần thưởng khác!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13896">Sự kiện H5 "Cuốn Sách Lữ Hành": Hoàn thành vẽ để nhận được bản vẽ đồ trang trí "Cội Nguồn Biển Hoa"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13896" rel="alternate"/>
-    <summary>Những kỷ niệm trong cuộc hành trình rất quý giá và sẽ được lưu giữ mãi mãi nếu chúng được ghi lại.
-Trong thời gian sự kiện, hoàn thành vẽ Cuốn Sách Lữ Hành để nhận Nguyên Thạch, bản vẽ đồ trang trí và phần thưởng khác!</summary>
-    <published>2021-07-03T11:00:00+07:00</published>
+    <id>16470</id>
+    <title>Tuyển tập Genshin Impact - He Who Wanders Untrammeled</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216585610322.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16470">Tuyển tập Genshin Impact - He Who Wanders Untrammeled</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16470" rel="alternate"/>
+    <published>2021-10-13T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>13866</id>
@@ -1994,5 +1981,21 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/16494" rel="alternate"/>
     <summary/>
     <published>2021-10-13T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16470</id>
+    <title>Tuyển tập Genshin Impact - He Who Wanders Untrammeled</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216585610322.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16470">Tuyển tập Genshin Impact - He Who Wanders Untrammeled</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16470" rel="alternate"/>
+    <published>2021-10-13T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16477</id>
+    <title>Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217514847439.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16477">Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16477" rel="alternate"/>
+    <published>2021-10-13T12:00:00+07:00</published>
   </entry>
 </feed>

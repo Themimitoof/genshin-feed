@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-10-13T03:10:51.647061+00:00</updated>
+  <updated>2021-10-13T04:11:55.313050+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>6755</id>
-    <title>「帰らぬ熄星」イベント予告</title>
-    <updated>2020-11-14T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201114/2020111411214881421.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6755">「帰らぬ熄星」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/6755" rel="alternate"/>
-    <summary/>
-    <published>2020-11-14T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>6765</id>
-    <title>「帰らぬ熄星」イベント紹介</title>
-    <updated>2020-11-16T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201116/2020111612491727856.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6765">「帰らぬ熄星」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/6765" rel="alternate"/>
-    <summary/>
-    <published>2020-11-16T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>6838</id>
     <title>「冒険者・集結」キャンペーン終了の予告</title>
@@ -892,6 +874,24 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16383" rel="alternate"/>
     <summary/>
     <published>2021-10-11T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16441</id>
+    <title>「鏡花聴世」イベント予告</title>
+    <updated>2021-10-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101210232429461.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16441">「鏡花聴世」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16441" rel="alternate"/>
+    <summary/>
+    <published>2021-10-13T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16452</id>
+    <title>「アーロイの探索日記」イベント紹介</title>
+    <updated>2021-10-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101215151376957.jpg"><br/><br/>Webイベント・「アーロイの探索日記」が開催されています。アーロイと一緒にテイワット大陸を探索し、報酬を獲得しよう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16452">「アーロイの探索日記」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16452" rel="alternate"/>
+    <summary>Webイベント・「アーロイの探索日記」が開催されています。アーロイと一緒にテイワット大陸を探索し、報酬を獲得しよう！</summary>
+    <published>2021-10-13T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>5917</id>
@@ -1918,24 +1918,6 @@
     <published>2021-10-06T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>12455</id>
-    <title>ヒルチャール百科事典002期</title>
-    <updated>2021-04-29T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513231488766.jpg"><br/><br/>信頼ランク篇<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12455">ヒルチャール百科事典002期</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12455" rel="alternate"/>
-    <summary>信頼ランク篇</summary>
-    <published>2021-04-29T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>12479</id>
-    <title>PS5版に関するFAQ</title>
-    <updated>2021-04-29T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042910392827931.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12479">PS5版に関するFAQ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12479" rel="alternate"/>
-    <summary/>
-    <published>2021-04-29T10:30:00+09:00</published>
-  </entry>
-  <entry>
     <id>12458</id>
     <title>「エネルギー原盤・序論」イベント紹介</title>
     <updated>2021-04-29T10:45:00+09:00</updated>
@@ -2796,5 +2778,23 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16451" rel="alternate"/>
     <summary/>
     <published>2021-10-13T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16441</id>
+    <title>「鏡花聴世」イベント予告</title>
+    <updated>2021-10-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101210232429461.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16441">「鏡花聴世」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16441" rel="alternate"/>
+    <summary/>
+    <published>2021-10-13T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16452</id>
+    <title>「アーロイの探索日記」イベント紹介</title>
+    <updated>2021-10-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101215151376957.jpg"><br/><br/>Webイベント・「アーロイの探索日記」が開催されています。アーロイと一緒にテイワット大陸を探索し、報酬を獲得しよう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16452">「アーロイの探索日記」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16452" rel="alternate"/>
+    <summary>Webイベント・「アーロイの探索日記」が開催されています。アーロイと一緒にテイワット大陸を探索し、報酬を獲得しよう！</summary>
+    <published>2021-10-13T12:00:00+09:00</published>
   </entry>
 </feed>

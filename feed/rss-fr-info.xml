@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 13 Oct 2021 03:10:36 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Kaedehara Kazuha : Esprit libre</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13787</link>
-      <description>Le présage d'une tempête qui approche peut nous pousser à la fuir ou à l'affronter.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062916030143323.jpg"><br/><br/>Le présage d'une tempête qui approche peut nous pousser à la fuir ou à l'affronter.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13787">Genshin Impact - Kaedehara Kazuha : Esprit libre</a>]]></content:encoded>
-      <guid isPermaLink="false">13787</guid>
-      <pubDate>Tue, 29 Jun 2021 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Discussion avec les développeurs (30/06) - Une décoration permettant de se télétransporter arrive !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13800</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923131536486.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13800">Discussion avec les développeurs (30/06) - Une décoration permettant de se télétransporter arrive !</a>]]></description>
-      <guid isPermaLink="false">13800</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 13 Oct 2021 04:11:33 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement « Combadaboum »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13802</link>
@@ -799,6 +784,20 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220100216236.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16497">Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></description>
       <guid isPermaLink="false">16497</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16505</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221215839502.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16505">L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</a>]]></description>
+      <guid isPermaLink="false">16505</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Invité désinvolte</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16507</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221285444945.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16507">Genshin Impact, la bande-son : Invité désinvolte</a>]]></description>
+      <guid isPermaLink="false">16507</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
