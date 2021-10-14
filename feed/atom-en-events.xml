@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - events</title>
-  <updated>2021-10-14T09:09:24.000364+00:00</updated>
+  <updated>2021-10-14T10:10:16.381861+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -120,5 +120,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <summary>When Aloy sets foot on Teyvat, what kind of adventure will this Savior from Another World experience?
 Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!</summary>
     <published>2021-10-13T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16531</id>
+    <title>[Event Result Announcement] Genshin Impact Raffle Event</title>
+    <updated>2021-10-14T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415130920097.jpg"><br/><br/>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16531">[Event Result Announcement] Genshin Impact Raffle Event</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16531" rel="alternate"/>
+    <summary>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑</summary>
+    <published>2021-10-14T18:00:00-04:00</published>
   </entry>
 </feed>

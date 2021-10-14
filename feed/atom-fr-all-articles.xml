@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-10-14T09:09:24.878721+00:00</updated>
+  <updated>2021-10-14T10:10:21.465451+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -90,6 +90,15 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/15733" rel="alternate"/>
     <summary>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !</summary>
     <published>2021-09-07T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16530</id>
+    <title>[Annonce des gagnants] Genshin Impact loterie</title>
+    <updated>2021-10-14T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101414571947662.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16530">[Annonce des gagnants] Genshin Impact loterie</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16530" rel="alternate"/>
+    <summary/>
+    <published>2021-10-14T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>737</id>
@@ -1140,19 +1149,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-10-14T10:30:00+02:00</published>
   </entry>
   <entry>
-    <id>14000</id>
-    <title>Détails de l'événement « Guerre sans fin »</title>
-    <updated>2021-07-08T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210708/2021070816194379054.jpg"><br/><br/>Bonjour, voyageurs ! L'événement « Guerre sans fin » est sur le point de commencer !
-
-Des monstres d'origine indéterminée ont débarqué sur l'Archipel de la pomme dorée avec la ferme intention de l'envahir.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14000">Détails de l'événement « Guerre sans fin »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14000" rel="alternate"/>
-    <summary>Bonjour, voyageurs ! L'événement « Guerre sans fin » est sur le point de commencer !
-
-Des monstres d'origine indéterminée ont débarqué sur l'Archipel de la pomme dorée avec la ferme intention de l'envahir.</summary>
-    <published>2021-07-08T10:30:00+02:00</published>
-  </entry>
-  <entry>
     <id>14009</id>
     <title>Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
     <updated>2021-07-09T21:30:00+02:00</updated>
@@ -2028,5 +2024,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/16504" rel="alternate"/>
     <summary/>
     <published>2021-10-14T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16530</id>
+    <title>[Annonce des gagnants] Genshin Impact loterie</title>
+    <updated>2021-10-14T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101414571947662.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16530">[Annonce des gagnants] Genshin Impact loterie</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16530" rel="alternate"/>
+    <summary/>
+    <published>2021-10-14T18:00:00+02:00</published>
   </entry>
 </feed>

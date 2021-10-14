@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Oct 2021 09:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:10:16 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -108,6 +108,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
 Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16485">The "Aloy's Exploration Journal" Web Event has begun, explore the land of Teyvat together with Aloy to obtain rewards!</a>]]></content:encoded>
       <guid isPermaLink="false">16485</guid>
       <pubDate>Wed, 13 Oct 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>[Event Result Announcement] Genshin Impact Raffle Event</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16531</link>
+      <description>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415130920097.jpg"><br/><br/>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16531">[Event Result Announcement] Genshin Impact Raffle Event</a>]]></content:encoded>
+      <guid isPermaLink="false">16531</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 14 Oct 2021 09:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:10:21 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -81,6 +81,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711403779067.jpg"><br/><br/>L'événement web « Gravures de vœux » sera bientôt disponible. Voyageurs, créons ensemble un souvenir d'anniversaire personnalisé !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15733">Gravures de vœux</a>]]></content:encoded>
       <guid isPermaLink="false">15733</guid>
       <pubDate>Tue, 07 Sep 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>[Annonce des gagnants] Genshin Impact loterie</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16530</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101414571947662.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16530">[Annonce des gagnants] Genshin Impact loterie</a>]]></description>
+      <guid isPermaLink="false">16530</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -1007,18 +1014,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
-      <title>Détails de l'événement « Guerre sans fin »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14000</link>
-      <description>Bonjour, voyageurs ! L'événement « Guerre sans fin » est sur le point de commencer !
-
-Des monstres d'origine indéterminée ont débarqué sur l'Archipel de la pomme dorée avec la ferme intention de l'envahir.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210708/2021070816194379054.jpg"><br/><br/>Bonjour, voyageurs ! L'événement « Guerre sans fin » est sur le point de commencer !
-
-Des monstres d'origine indéterminée ont débarqué sur l'Archipel de la pomme dorée avec la ferme intention de l'envahir.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14000">Détails de l'événement « Guerre sans fin »</a>]]></content:encoded>
-      <guid isPermaLink="false">14000</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14009</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914160329596.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14009">Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></description>
@@ -1789,6 +1784,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221151163054.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16504">Détails de l'événement « À l'écoute des sons du monde »</a>]]></description>
       <guid isPermaLink="false">16504</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>[Annonce des gagnants] Genshin Impact loterie</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16530</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101414571947662.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16530">[Annonce des gagnants] Genshin Impact loterie</a>]]></description>
+      <guid isPermaLink="false">16530</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

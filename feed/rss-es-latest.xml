@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 14 Oct 2021 09:09:25 +0000</lastBuildDate>
-    <item>
-      <title>Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14119</link>
-      <description>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418480892482.jpg"><br/><br/>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14119">Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</a>]]></content:encoded>
-      <guid isPermaLink="false">14119</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Oct 2021 10:10:27 +0000</lastBuildDate>
     <item>
       <title>¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14159</link>
@@ -809,6 +801,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101316011793126.jpg"><br/><br/>Tras lo ocurrido en Inazuma, Kazuha volvió a Liyue con la Flota Crux Meridianam. Pero mientras deambulaba por las montañas y bosques de aquel lugar, pidió a los miembros de la tripulación que le ayudaran a localizar el/la viajero/a. ¿Necesitará ayuda con algo?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16522">Modo de juego del evento «Los sonidos del mundo»</a>]]></content:encoded>
       <guid isPermaLink="false">16522</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>[Resultado Anunciado]Evento de Sorteo de Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16535</link>
+      <description>Muchas gracias por participar en el Evento de Sorteo de Genshin Impact. ¡Felicidades a nuestros afortunados ganadores!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415330071401.jpg"><br/><br/>Muchas gracias por participar en el Evento de Sorteo de Genshin Impact. ¡Felicidades a nuestros afortunados ganadores!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16535">[Resultado Anunciado]Evento de Sorteo de Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16535</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - events</title>
-  <updated>2021-10-14T09:09:27.580274+00:00</updated>
+  <updated>2021-10-14T10:10:41.475644+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -118,5 +118,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16513" rel="alternate"/>
     <summary>[에일로이 탐색 일지]를 열어 모험을 시작하자!</summary>
     <published>2021-10-13T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16538</id>
+    <title>원신 추첨 이벤트 당첨자 발표</title>
+    <updated>2021-10-14T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101417560080918.jpg"><br/><br/>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16538">원신 추첨 이벤트 당첨자 발표</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16538" rel="alternate"/>
+    <summary>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!</summary>
+    <published>2021-10-14T18:00:00+09:00</published>
   </entry>
 </feed>

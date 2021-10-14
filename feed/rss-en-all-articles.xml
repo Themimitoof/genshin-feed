@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Oct 2021 09:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:10:17 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -108,6 +108,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
 Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16485">The "Aloy's Exploration Journal" Web Event has begun, explore the land of Teyvat together with Aloy to obtain rewards!</a>]]></content:encoded>
       <guid isPermaLink="false">16485</guid>
       <pubDate>Wed, 13 Oct 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>[Event Result Announcement] Genshin Impact Raffle Event</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16531</link>
+      <description>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415130920097.jpg"><br/><br/>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16531">[Event Result Announcement] Genshin Impact Raffle Event</a>]]></content:encoded>
+      <guid isPermaLink="false">16531</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Manga Update: Chapter 9 Part 1 is Going to Update!</title>
@@ -1152,14 +1160,6 @@ The answer he seeks lies in both the fierce momentum of battles and the journey 
       <pubDate>Thu, 14 Oct 2021 10:30:00 -0400</pubDate>
     </item>
     <item>
-      <title>Weapon Wish Mechanic "Epitomized Path" Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14047</link>
-      <description>After the 2.0 update, a special wish mechanism will be added to the Weapon Wish —— Epitomized Path.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920381339195.jpg"><br/><br/>After the 2.0 update, a special wish mechanism will be added to the Weapon Wish —— Epitomized Path.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14047">Weapon Wish Mechanic "Epitomized Path" Details</a>]]></content:encoded>
-      <guid isPermaLink="false">14047</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 -0400</pubDate>
-    </item>
-    <item>
       <title>Version 2.0 System Update Preview: Gardening Gameplay</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14480</link>
       <description>Dear Travelers~ Version 2.0 will introduce new Gardening Gameplay. Let's see how it works~
@@ -2042,6 +2042,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220021488819.jpg"><br/><br/>With the end of the incident in Inazuma, Kazuha follows The Crux and returns to Liyue. However, he has suddenly passed a short message along, requesting that his fellow sailors keep an eye out for you. Might he be in some sort of trouble...?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16495">"Tuned to the World's Sounds" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">16495</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>[Event Result Announcement] Genshin Impact Raffle Event</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16531</link>
+      <description>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415130920097.jpg"><br/><br/>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16531">[Event Result Announcement] Genshin Impact Raffle Event</a>]]></content:encoded>
+      <guid isPermaLink="false">16531</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - events</title>
-  <updated>2021-10-14T09:09:25.972045+00:00</updated>
+  <updated>2021-10-14T10:10:30.726737+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -118,5 +118,14 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <summary>El tiempo siempre pasa volando en Teyvat.
 Pero teniendo compañeros tan especiales, los detalles del día a día brillan como pequeños fragmentos de luz.</summary>
     <published>2021-10-03T22:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16535</id>
+    <title>[Resultado Anunciado]Evento de Sorteo de Genshin Impact</title>
+    <updated>2021-10-14T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415330071401.jpg"><br/><br/>Muchas gracias por participar en el Evento de Sorteo de Genshin Impact. ¡Felicidades a nuestros afortunados ganadores!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16535">[Resultado Anunciado]Evento de Sorteo de Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16535" rel="alternate"/>
+    <summary>Muchas gracias por participar en el Evento de Sorteo de Genshin Impact. ¡Felicidades a nuestros afortunados ganadores!</summary>
+    <published>2021-10-14T18:00:00+02:00</published>
   </entry>
 </feed>

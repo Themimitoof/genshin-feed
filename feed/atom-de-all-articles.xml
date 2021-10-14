@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2021-10-14T09:09:25.747056+00:00</updated>
+  <updated>2021-10-14T10:10:27.162524+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -75,6 +75,19 @@ Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Wel
     <summary>Aloys Erkundungstagebuch
 Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?</summary>
     <published>2021-10-13T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16533</id>
+    <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
+    <updated>2021-10-14T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415272847248.jpg"><br/><br/>Liebe Reisende, 
+vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
+Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16533" rel="alternate"/>
+    <summary>Liebe Reisende, 
+vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
+Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</summary>
+    <published>2021-10-14T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>736</id>
@@ -1169,15 +1182,6 @@ hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrin
     <published>2021-10-14T10:30:00+02:00</published>
   </entry>
   <entry>
-    <id>14023</id>
-    <title>Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“ | Genshin Impact</title>
-    <updated>2021-07-09T21:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914532882052.jpg"><br/><br/>Ein fremdes Gewitter zerreißt den Himmel und spaltet die Ewigkeit. Blitze durchschneiden die Dunkelheit und ein magisches Gefühl liegt in der Luft.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14023">Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“ | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14023" rel="alternate"/>
-    <summary>Ein fremdes Gewitter zerreißt den Himmel und spaltet die Ewigkeit. Blitze durchschneiden die Dunkelheit und ein magisches Gefühl liegt in der Luft.</summary>
-    <published>2021-07-09T21:30:00+02:00</published>
-  </entry>
-  <entry>
     <id>14033</id>
     <title>Ankündigung über die Verknüpfung von Konten beim PSN und miHoYo-Pässen</title>
     <updated>2021-07-09T22:00:00+02:00</updated>
@@ -2099,5 +2103,18 @@ Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Wel
     <link href="https://genshin.mihoyo.com/de/news/detail/16515" rel="alternate"/>
     <summary>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?</summary>
     <published>2021-10-14T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16533</id>
+    <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
+    <updated>2021-10-14T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415272847248.jpg"><br/><br/>Liebe Reisende, 
+vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
+Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16533" rel="alternate"/>
+    <summary>Liebe Reisende, 
+vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
+Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</summary>
+    <published>2021-10-14T18:00:00+02:00</published>
   </entry>
 </feed>

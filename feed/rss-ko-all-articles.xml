@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 14 Oct 2021 09:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:10:42 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -106,6 +106,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310132944957.jpg"><br/><br/>[에일로이 탐색 일지]를 열어 모험을 시작하자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16513">[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</a>]]></content:encoded>
       <guid isPermaLink="false">16513</guid>
       <pubDate>Wed, 13 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 추첨 이벤트 당첨자 발표</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16538</link>
+      <description>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101417560080918.jpg"><br/><br/>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16538">원신 추첨 이벤트 당첨자 발표</a>]]></content:encoded>
+      <guid isPermaLink="false">16538</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 +0900</pubDate>
     </item>
     <item>
       <title>프롤로그 PV: 바람 잡는 이방인</title>
@@ -1131,14 +1139,6 @@
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>PSN 계정과 miHoYo 통행증 크로스 세이브 관련 공지</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14049</link>
-      <description>PSN 계정과 miHoYo 통행증 크로스 세이브 기능이 2.0 버전에 공개될 예정입니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921190467205.png"><br/><br/>PSN 계정과 miHoYo 통행증 크로스 세이브 기능이 2.0 버전에 공개될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14049">PSN 계정과 miHoYo 통행증 크로스 세이브 관련 공지</a>]]></content:encoded>
-      <guid isPermaLink="false">14049</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>2.0 버전 「속세의 주전자」 시스템 업데이트 속보: 「재배」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14107</link>
       <description>2.0 버전에서 「속세의 주전자」에 「재배」 콘텐츠가 업데이트될 거예요. 우리 같이 확인해 보아요~</description>
@@ -1980,6 +1980,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101320055035709.jpg"><br/><br/>콘텐츠 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16526">「거울 속 세계의 소리」콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">16526</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 추첨 이벤트 당첨자 발표</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16538</link>
+      <description>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101417560080918.jpg"><br/><br/>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16538">원신 추첨 이벤트 당첨자 발표</a>]]></content:encoded>
+      <guid isPermaLink="false">16538</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
