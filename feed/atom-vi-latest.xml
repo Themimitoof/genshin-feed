@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-10-14T03:10:37.126791+00:00</updated>
+  <updated>2021-10-14T04:12:14.154150+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>13866</id>
-    <title>[Genshin Impact] Video - Độc Hành Đuổi Theo Ánh Chớp</title>
-    <updated>2021-07-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070217554644882.jpg"><br/><br/>"Rồi sẽ có sinh linh trên trái đất dám đối mặt với hào quang của sấm sét"
-Trước khi bước vào giông tố bất tận, samurai lang thang đã kể một câu chuyện cũ...<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/13866">[Genshin Impact] Video - Độc Hành Đuổi Theo Ánh Chớp</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/13866" rel="alternate"/>
-    <summary>"Rồi sẽ có sinh linh trên trái đất dám đối mặt với hào quang của sấm sét"
-Trước khi bước vào giông tố bất tận, samurai lang thang đã kể một câu chuyện cũ...</summary>
-    <published>2021-07-04T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14003</id>
     <title>[Genshin Impact] Video giới thiệu phiên bản 2.0: "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt"</title>
@@ -895,5 +884,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217514847439.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16477">Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16477" rel="alternate"/>
     <published>2021-10-13T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16519</id>
+    <title>Hướng Dẫn Cách Chơi "Giai Điệu Vang Vọng"		</title>
+    <updated>2021-10-14T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310385662668.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16519">Hướng Dẫn Cách Chơi "Giai Điệu Vang Vọng"		</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16519" rel="alternate"/>
+    <summary/>
+    <published>2021-10-14T10:30:00+07:00</published>
   </entry>
 </feed>
