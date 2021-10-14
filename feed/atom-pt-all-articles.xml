@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-10-14T02:24:53.473797+00:00</updated>
+  <updated>2021-10-14T03:10:28.650141+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -259,15 +259,6 @@
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>13957</id>
-    <title>Descrição do Modo de Jogo de "Batalha Infinita"</title>
-    <updated>2021-07-08T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717014050425.jpg"><br/><br/>Olá, Viajantes! O evento "Batalha Infinita" está prestes a começar!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/13957">Descrição do Modo de Jogo de "Batalha Infinita"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/13957" rel="alternate"/>
-    <summary>Olá, Viajantes! O evento "Batalha Infinita" está prestes a começar!</summary>
-    <published>2021-07-08T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>14016</id>
@@ -1166,13 +1157,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-10-13T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14102</id>
-    <title>Prévia da Atualização do Sistema da Versão 2.0 - Modo de Jogo de Plantação</title>
-    <updated>2021-07-14T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317144473506.jpg"><br/><br/>Olá Viajantes~ Adicionamos na versão 2.0 o modo de jogo Plantação. Curiosos para conhecerem um pouco mais? Embarquem nesta aventura junto conosco que iremos te passar detalhes sobre esse novo modo de jogo.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14102">Prévia da Atualização do Sistema da Versão 2.0 - Modo de Jogo de Plantação</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14102" rel="alternate"/>
-    <summary>Olá Viajantes~ Adicionamos na versão 2.0 o modo de jogo Plantação. Curiosos para conhecerem um pouco mais? Embarquem nesta aventura junto conosco que iremos te passar detalhes sobre esse novo modo de jogo.</summary>
-    <published>2021-07-14T10:30:00+01:00</published>
+    <id>16498</id>
+    <title>Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</title>
+    <updated>2021-10-14T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220234495027.jpg"><br/><br/>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16498">Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16498" rel="alternate"/>
+    <summary>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?</summary>
+    <published>2021-10-14T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>14148</id>
@@ -2069,5 +2060,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16480" rel="alternate"/>
     <summary>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?</summary>
     <published>2021-10-13T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16498</id>
+    <title>Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</title>
+    <updated>2021-10-14T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220234495027.jpg"><br/><br/>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16498">Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16498" rel="alternate"/>
+    <summary>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?</summary>
+    <published>2021-10-14T10:30:00+01:00</published>
   </entry>
 </feed>

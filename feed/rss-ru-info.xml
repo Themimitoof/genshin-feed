@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 14 Oct 2021 02:24:53 +0000</lastBuildDate>
-    <item>
-      <title>Событие «Бесконечная битва»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/13967</link>
-      <description>Бесконечная битва</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717510291120.jpg"><br/><br/>Бесконечная битва<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13967">Событие «Бесконечная битва»</a>]]></content:encoded>
-      <guid isPermaLink="false">13967</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Oct 2021 03:10:29 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact | Версия 2.0 - Незыблемый бог, гибель иллюзий</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14011</link>
@@ -810,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216291541677.jpg"><br/><br/>Прогуливаясь по улочкам, над которыми кружились лепестки сакуры, юный воин ощутил странную задумчивость.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16460">«Вольный гость» | Мини-альбом Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16460</guid>
       <pubDate>Wed, 13 Oct 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Правила события «Слушая звуки мира»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16527</link>
+      <description>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101322131078518.jpg"><br/><br/>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16527">Правила события «Слушая звуки мира»</a>]]></content:encoded>
+      <guid isPermaLink="false">16527</guid>
+      <pubDate>Thu, 14 Oct 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

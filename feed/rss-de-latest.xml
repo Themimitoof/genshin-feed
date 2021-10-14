@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 14 Oct 2021 02:24:47 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zur Spielweise von „Unaufhörliche Schlacht“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13966</link>
-      <description>Hallo, Reisender! Die Aktion „Unaufhörliche Schlacht“ beginnt in Kürze!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717470631458.jpg"><br/><br/>Hallo, Reisender! Die Aktion „Unaufhörliche Schlacht“ beginnt in Kürze!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13966">Erläuterungen zur Spielweise von „Unaufhörliche Schlacht“</a>]]></content:encoded>
-      <guid isPermaLink="false">13966</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Oct 2021 03:10:06 +0000</lastBuildDate>
     <item>
       <title>Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“ | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14023</link>
@@ -840,6 +832,14 @@ Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Wel
 Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16484">Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</a>]]></content:encoded>
       <guid isPermaLink="false">16484</guid>
       <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Klänge der Welt“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16515</link>
+      <description>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310194912683.jpg"><br/><br/>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16515">Erläuterungen zur Spielweise von „Klänge der Welt“</a>]]></content:encoded>
+      <guid isPermaLink="false">16515</guid>
+      <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

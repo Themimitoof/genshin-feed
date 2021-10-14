@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 14 Oct 2021 02:24:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 03:10:24 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -274,14 +274,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「여행 그림 지도」 이벤트! 지도를 완성하고 장식 도면 「꽃바다의 요람」 획득</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13905</link>
-      <description>여행의 추억은 아주 소중하기에 이를 기록해야만 영원히 간직할 수 있습니다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210703/2021070310203828399.jpg"><br/><br/>여행의 추억은 아주 소중하기에 이를 기록해야만 영원히 간직할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13905">「여행 그림 지도」 이벤트! 지도를 완성하고 장식 도면 「꽃바다의 요람」 획득</a>]]></content:encoded>
-      <guid isPermaLink="false">13905</guid>
-      <pubDate>Sat, 03 Jul 2021 11:00:00 +0900</pubDate>
     </item>
     <item>
       <title>&lt;원신&gt; 스토리 PV - 「번개를 쫓는 고독한 여정」</title>
@@ -1131,12 +1123,12 @@
       <pubDate>Wed, 13 Oct 2021 12:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>무기 기원 메커니즘 「신이 정한 궤도」 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14030</link>
-      <description>2.0 버전 업데이트 후 무기 기원에 신규 기원 메커니즘——「신이 정한 궤도」가 추가됩니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921200065655.png"><br/><br/>2.0 버전 업데이트 후 무기 기원에 신규 기원 메커니즘——「신이 정한 궤도」가 추가됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14030">무기 기원 메커니즘 「신이 정한 궤도」 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">14030</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0900</pubDate>
+      <title>「거울 속 세계의 소리」콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16526</link>
+      <description>콘텐츠 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101320055035709.jpg"><br/><br/>콘텐츠 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16526">「거울 속 세계의 소리」콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">16526</guid>
+      <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>PSN 계정과 miHoYo 통행증 크로스 세이브 관련 공지</title>
@@ -1980,6 +1972,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content:encoded>
       <guid isPermaLink="false">16511</guid>
       <pubDate>Wed, 13 Oct 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「거울 속 세계의 소리」콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16526</link>
+      <description>콘텐츠 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101320055035709.jpg"><br/><br/>콘텐츠 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16526">「거울 속 세계의 소리」콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">16526</guid>
+      <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

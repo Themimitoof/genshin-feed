@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-10-14T02:24:46.441241+00:00</updated>
+  <updated>2021-10-14T03:10:03.831230+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>13898</id>
-    <title>「旅行繪本」網頁活動：完成繪製即可獲得擺設圖紙「花海的搖籃」</title>
-    <updated>2021-07-03T11:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222485290819.jpg"><br/><br/>旅途中的回憶彌足珍貴，只有記錄下來才能永久珍藏。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13898">「旅行繪本」網頁活動：完成繪製即可獲得擺設圖紙「花海的搖籃」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13898" rel="alternate"/>
-    <summary>旅途中的回憶彌足珍貴，只有記錄下來才能永久珍藏。</summary>
-    <published>2021-07-03T11:00:00+08:00</published>
-  </entry>
   <entry>
     <id>13865</id>
     <title>劇情預告-「追逐霆光的孤旅」｜原神</title>
@@ -893,5 +884,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16462" rel="alternate"/>
     <summary>流連於浸染櫻色的街頭巷末，年輕武人的心底泛起難得的思慮。</summary>
     <published>2021-10-13T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16514</id>
+    <title>「鏡花聽世」玩法說明</title>
+    <updated>2021-10-14T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310175470407.jpg"><br/><br/>稻妻事件結束後，萬葉隨南十字一同返回璃月。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16514">「鏡花聽世」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16514" rel="alternate"/>
+    <summary>稻妻事件結束後，萬葉隨南十字一同返回璃月。</summary>
+    <published>2021-10-14T10:30:00+08:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-10-14T02:24:49.172408+00:00</updated>
+  <updated>2021-10-14T03:10:13.926638+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -252,15 +252,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>13964</id>
-    <title>Modo de juego del evento «Contienda eterna»</title>
-    <updated>2021-07-08T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717275741119.jpg"><br/><br/>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/13964">Modo de juego del evento «Contienda eterna»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/13964" rel="alternate"/>
-    <summary>"Queridos viajeros: ¡El evento «Contienda eterna» está a punto de comenzar!"</summary>
-    <published>2021-07-08T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14007</id>
@@ -1159,13 +1150,13 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <published>2021-10-13T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>14143</id>
-    <title>Diario de Inazuma - 1ª edición: El misterioso elemento Electro</title>
-    <updated>2021-07-15T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420254533842.jpg"><br/><br/>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14143">Diario de Inazuma - 1ª edición: El misterioso elemento Electro</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14143" rel="alternate"/>
-    <summary>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!</summary>
-    <published>2021-07-15T10:30:00+02:00</published>
+    <id>16522</id>
+    <title>Modo de juego del evento «Los sonidos del mundo»</title>
+    <updated>2021-10-14T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101316011793126.jpg"><br/><br/>Tras lo ocurrido en Inazuma, Kazuha volvió a Liyue con la Flota Crux Meridianam. Pero mientras deambulaba por las montañas y bosques de aquel lugar, pidió a los miembros de la tripulación que le ayudaran a localizar el/la viajero/a. ¿Necesitará ayuda con algo?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16522">Modo de juego del evento «Los sonidos del mundo»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16522" rel="alternate"/>
+    <summary>Tras lo ocurrido en Inazuma, Kazuha volvió a Liyue con la Flota Crux Meridianam. Pero mientras deambulaba por las montañas y bosques de aquel lugar, pidió a los miembros de la tripulación que le ayudaran a localizar el/la viajero/a. ¿Necesitará ayuda con algo?</summary>
+    <published>2021-10-14T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14119</id>
@@ -2064,5 +2055,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <link href="https://genshin.mihoyo.com/es/news/detail/16482" rel="alternate"/>
     <summary>Diario de exploración de Aloy ¿Qué aventuras estarán esperando a Aloy, "la Salvadora de Otro Mundo", en su llegada a Teyvat?</summary>
     <published>2021-10-13T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16522</id>
+    <title>Modo de juego del evento «Los sonidos del mundo»</title>
+    <updated>2021-10-14T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101316011793126.jpg"><br/><br/>Tras lo ocurrido en Inazuma, Kazuha volvió a Liyue con la Flota Crux Meridianam. Pero mientras deambulaba por las montañas y bosques de aquel lugar, pidió a los miembros de la tripulación que le ayudaran a localizar el/la viajero/a. ¿Necesitará ayuda con algo?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16522">Modo de juego del evento «Los sonidos del mundo»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16522" rel="alternate"/>
+    <summary>Tras lo ocurrido en Inazuma, Kazuha volvió a Liyue con la Flota Crux Meridianam. Pero mientras deambulaba por las montañas y bosques de aquel lugar, pidió a los miembros de la tripulación que le ayudaran a localizar el/la viajero/a. ¿Necesitará ayuda con algo?</summary>
+    <published>2021-10-14T10:30:00+02:00</published>
   </entry>
 </feed>

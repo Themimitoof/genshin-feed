@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-10-14T02:24:50.202419+00:00</updated>
+  <updated>2021-10-14T03:10:17.642942+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -266,15 +266,6 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>13962</id>
-    <title>Cara Bermain "Pertempuran Tanpa Akhir"</title>
-    <updated>2021-07-08T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717235293425.jpg"><br/><br/>Hai Traveler semua! Event "Pertempuran Tanpa Akhir" sudah mau mulai loh!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/13962">Cara Bermain "Pertempuran Tanpa Akhir"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/13962" rel="alternate"/>
-    <summary>Hai Traveler semua! Event "Pertempuran Tanpa Akhir" sudah mau mulai loh!</summary>
-    <published>2021-07-08T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>14020</id>
@@ -1171,13 +1162,13 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <published>2021-10-13T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14046</id>
-    <title>Pengumuman Terkait Fitur Cross-Save Antar Akun PSN dan miHoYo</title>
-    <updated>2021-07-09T22:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920303471145.jpg"><br/><br/>Dear Traveler,Fitur cross-save di v2.0 antar akun PlayStation Network (PSN) dan Akun miHoYo sudah siap loh! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14046">Pengumuman Terkait Fitur Cross-Save Antar Akun PSN dan miHoYo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14046" rel="alternate"/>
-    <summary>Dear Traveler,Fitur cross-save di v2.0 antar akun PlayStation Network (PSN) dan Akun miHoYo sudah siap loh! </summary>
-    <published>2021-07-09T22:00:00+07:00</published>
+    <id>16523</id>
+    <title>Cara Bermain "Dengarkan Suara Alam"</title>
+    <updated>2021-10-14T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101316375276281.jpg"><br/><br/>Setelah masalah di Inazuma sudah selesai, Kazuha pulang ke Liyue bersama Crux Fleet. Tapi baru-baru ini, saat Kazuha sedang berjalan-jalan di tengah hutan dan gunung, ia meminta para kru kapal untuk memantau keberadaan Pengembara. Jangan-jangan Kazuha berada dalam kesulitan ...?<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16523">Cara Bermain "Dengarkan Suara Alam"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16523" rel="alternate"/>
+    <summary>Setelah masalah di Inazuma sudah selesai, Kazuha pulang ke Liyue bersama Crux Fleet. Tapi baru-baru ini, saat Kazuha sedang berjalan-jalan di tengah hutan dan gunung, ia meminta para kru kapal untuk memantau keberadaan Pengembara. Jangan-jangan Kazuha berada dalam kesulitan ...?</summary>
+    <published>2021-10-14T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>14096</id>
@@ -2072,5 +2063,14 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16475" rel="alternate"/>
     <summary>Saat Aloy menginjakkan kaki di Dunia Teyvat, petualangan seperti apa yang menunggu sang "Savior From Another World" ini?</summary>
     <published>2021-10-13T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16523</id>
+    <title>Cara Bermain "Dengarkan Suara Alam"</title>
+    <updated>2021-10-14T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101316375276281.jpg"><br/><br/>Setelah masalah di Inazuma sudah selesai, Kazuha pulang ke Liyue bersama Crux Fleet. Tapi baru-baru ini, saat Kazuha sedang berjalan-jalan di tengah hutan dan gunung, ia meminta para kru kapal untuk memantau keberadaan Pengembara. Jangan-jangan Kazuha berada dalam kesulitan ...?<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16523">Cara Bermain "Dengarkan Suara Alam"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16523" rel="alternate"/>
+    <summary>Setelah masalah di Inazuma sudah selesai, Kazuha pulang ke Liyue bersama Crux Fleet. Tapi baru-baru ini, saat Kazuha sedang berjalan-jalan di tengah hutan dan gunung, ia meminta para kru kapal untuk memantau keberadaan Pengembara. Jangan-jangan Kazuha berada dalam kesulitan ...?</summary>
+    <published>2021-10-14T10:30:00+07:00</published>
   </entry>
 </feed>

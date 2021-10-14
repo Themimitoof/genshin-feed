@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-10-14T02:24:47.129496+00:00</updated>
+  <updated>2021-10-14T03:10:06.208762+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -242,15 +242,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>13898</id>
-    <title>「旅行繪本」網頁活動：完成繪製即可獲得擺設圖紙「花海的搖籃」</title>
-    <updated>2021-07-03T11:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222485290819.jpg"><br/><br/>旅途中的回憶彌足珍貴，只有記錄下來才能永久珍藏。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13898">「旅行繪本」網頁活動：完成繪製即可獲得擺設圖紙「花海的搖籃」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13898" rel="alternate"/>
-    <summary>旅途中的回憶彌足珍貴，只有記錄下來才能永久珍藏。</summary>
-    <published>2021-07-03T11:00:00+08:00</published>
   </entry>
   <entry>
     <id>13865</id>
@@ -1129,13 +1120,13 @@
     <published>2021-10-13T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>13968</id>
-    <title>「無盡驟戰」玩法說明</title>
-    <updated>2021-07-08T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070718094034915.jpg"><br/><br/>旅行者們好呀，「無盡驟戰」活動即將開啟！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/13968">「無盡驟戰」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/13968" rel="alternate"/>
-    <summary>旅行者們好呀，「無盡驟戰」活動即將開啟！</summary>
-    <published>2021-07-08T10:30:00+08:00</published>
+    <id>16514</id>
+    <title>「鏡花聽世」玩法說明</title>
+    <updated>2021-10-14T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310175470407.jpg"><br/><br/>稻妻事件結束後，萬葉隨南十字一同返回璃月。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16514">「鏡花聽世」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16514" rel="alternate"/>
+    <summary>稻妻事件結束後，萬葉隨南十字一同返回璃月。</summary>
+    <published>2021-10-14T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>14015</id>
@@ -2012,5 +2003,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16479" rel="alternate"/>
     <summary>當亞蘿伊踏上提瓦特大陸，這位「異界的救世主」會在提瓦特經歷怎樣的探險呢？</summary>
     <published>2021-10-13T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16514</id>
+    <title>「鏡花聽世」玩法說明</title>
+    <updated>2021-10-14T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310175470407.jpg"><br/><br/>稻妻事件結束後，萬葉隨南十字一同返回璃月。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16514">「鏡花聽世」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16514" rel="alternate"/>
+    <summary>稻妻事件結束後，萬葉隨南十字一同返回璃月。</summary>
+    <published>2021-10-14T10:30:00+08:00</published>
   </entry>
 </feed>

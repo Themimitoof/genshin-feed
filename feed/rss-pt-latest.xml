@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 14 Oct 2021 02:24:52 +0000</lastBuildDate>
-    <item>
-      <title>Prévia da Atualização do Sistema da Versão 2.0 - Modo de Jogo de Plantação</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14102</link>
-      <description>Olá Viajantes~ Adicionamos na versão 2.0 o modo de jogo Plantação. Curiosos para conhecerem um pouco mais? Embarquem nesta aventura junto conosco que iremos te passar detalhes sobre esse novo modo de jogo.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317144473506.jpg"><br/><br/>Olá Viajantes~ Adicionamos na versão 2.0 o modo de jogo Plantação. Curiosos para conhecerem um pouco mais? Embarquem nesta aventura junto conosco que iremos te passar detalhes sobre esse novo modo de jogo.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14102">Prévia da Atualização do Sistema da Versão 2.0 - Modo de Jogo de Plantação</a>]]></content:encoded>
-      <guid isPermaLink="false">14102</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Oct 2021 03:10:24 +0000</lastBuildDate>
     <item>
       <title>Diário em Inazuma - Edição 1: Elemento Electro Misterioso</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14148</link>
@@ -813,6 +805,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217571248961.jpg"><br/><br/>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16480">Disponível Evento Web com Recompensas - "Diário de Exploração da Aloy"! Venha explorar o território de Tevyat junto com a Aloy para obter recompensas!</a>]]></content:encoded>
       <guid isPermaLink="false">16480</guid>
       <pubDate>Wed, 13 Oct 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16498</link>
+      <description>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220234495027.jpg"><br/><br/>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16498">Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</a>]]></content:encoded>
+      <guid isPermaLink="false">16498</guid>
+      <pubDate>Thu, 14 Oct 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-10-14T02:24:54.504516+00:00</updated>
+  <updated>2021-10-14T03:10:32.714500+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -270,15 +270,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>13967</id>
-    <title>Событие «Бесконечная битва»</title>
-    <updated>2021-07-08T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717510291120.jpg"><br/><br/>Бесконечная битва<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/13967">Событие «Бесконечная битва»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/13967" rel="alternate"/>
-    <summary>Бесконечная битва</summary>
-    <published>2021-07-08T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>14011</id>
@@ -1175,13 +1166,13 @@
     <published>2021-10-13T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>14101</id>
-    <title>Новое в Чайнике безмятежности версии 2.0. Садоводство</title>
-    <updated>2021-07-14T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317103832672.jpg"><br/><br/>Садоводство<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14101">Новое в Чайнике безмятежности версии 2.0. Садоводство</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14101" rel="alternate"/>
-    <summary>Садоводство</summary>
-    <published>2021-07-14T10:30:00+03:00</published>
+    <id>16527</id>
+    <title>Правила события «Слушая звуки мира»</title>
+    <updated>2021-10-14T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101322131078518.jpg"><br/><br/>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16527">Правила события «Слушая звуки мира»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16527" rel="alternate"/>
+    <summary>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..</summary>
+    <published>2021-10-14T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>14139</id>
@@ -2077,5 +2068,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16478" rel="alternate"/>
     <summary>Какие приключения ожидают Элой, спасительницу другого мира, когда она ступит на земли Тейвата?</summary>
     <published>2021-10-13T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16527</id>
+    <title>Правила события «Слушая звуки мира»</title>
+    <updated>2021-10-14T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101322131078518.jpg"><br/><br/>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16527">Правила события «Слушая звуки мира»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16527" rel="alternate"/>
+    <summary>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..</summary>
+    <published>2021-10-14T10:30:00+03:00</published>
   </entry>
 </feed>

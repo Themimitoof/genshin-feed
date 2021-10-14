@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-10-14T02:24:43.994086+00:00</updated>
+  <updated>2021-10-14T03:09:54.706613+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13908</id>
-    <title>Traveler's Picture Book" Web Event: Complete the Painting to Obtain Furnishing Blueprint "Cradle of Flowers</title>
-    <updated>2021-07-03T11:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210703/2021070313313944522.jpg"><br/><br/>The memories of the journey are precious and can only be treasured forever if they are recorded.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13908">Traveler's Picture Book" Web Event: Complete the Painting to Obtain Furnishing Blueprint "Cradle of Flowers</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13908" rel="alternate"/>
-    <summary>The memories of the journey are precious and can only be treasured forever if they are recorded.</summary>
-    <published>2021-07-03T11:00:00-04:00</published>
-  </entry>
   <entry>
     <id>13894</id>
     <title>Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</title>
@@ -1000,5 +991,14 @@ The answer he seeks lies in both the fierce momentum of battles and the journey 
     <summary>As he wandered through the streets and alleyways lined by cherry blossom trees, a rare and pensive thought came to the young martial artist's mind.
 The answer he seeks lies in both the fierce momentum of battles and the journey awaiting him.</summary>
     <published>2021-10-13T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16495</id>
+    <title>"Tuned to the World's Sounds" Gameplay Details</title>
+    <updated>2021-10-14T10:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220021488819.jpg"><br/><br/>With the end of the incident in Inazuma, Kazuha follows The Crux and returns to Liyue. However, he has suddenly passed a short message along, requesting that his fellow sailors keep an eye out for you. Might he be in some sort of trouble...?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16495">"Tuned to the World's Sounds" Gameplay Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16495" rel="alternate"/>
+    <summary>With the end of the incident in Inazuma, Kazuha follows The Crux and returns to Liyue. However, he has suddenly passed a short message along, requesting that his fellow sailors keep an eye out for you. Might he be in some sort of trouble...?</summary>
+    <published>2021-10-14T10:30:00-04:00</published>
   </entry>
 </feed>

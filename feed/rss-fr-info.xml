@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 14 Oct 2021 02:24:45 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement « Combadaboum »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13802</link>
-      <description>La terrible et surprenante Forteresse Dodo lanceuse de balles s'est réveillée ! Utilisez votre bouclier Dodo pour renvoyer les balles badaboum et en venir à bout.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062923263737437.jpg"><br/><br/>La terrible et surprenante Forteresse Dodo lanceuse de balles s'est réveillée ! Utilisez votre bouclier Dodo pour renvoyer les balles badaboum et en venir à bout.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13802">Détails de l'événement « Combadaboum »</a>]]></content:encoded>
-      <guid isPermaLink="false">13802</guid>
-      <pubDate>Wed, 30 Jun 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 14 Oct 2021 03:09:59 +0000</lastBuildDate>
     <item>
       <title>Événement web « Carnet de voyage » : terminez le coloriage pour obtenir le plan de décoration « Berceau de fleurs »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/13912</link>
@@ -798,6 +790,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221285444945.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16507">Genshin Impact, la bande-son : Invité désinvolte</a>]]></description>
       <guid isPermaLink="false">16507</guid>
       <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « À l'écoute des sons du monde »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16504</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221151163054.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16504">Détails de l'événement « À l'écoute des sons du monde »</a>]]></description>
+      <guid isPermaLink="false">16504</guid>
+      <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
