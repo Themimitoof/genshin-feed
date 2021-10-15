@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-10-15T10:10:25.967226+00:00</updated>
+  <updated>2021-10-15T11:08:21.036305+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>12462</id>
-    <title>運営チームからの手紙</title>
-    <updated>2021-04-29T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042819220610434.jpg"><br/><br/>【04.29】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12462">運営チームからの手紙</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12462" rel="alternate"/>
-    <summary>【04.29】開発チームQ&amp;A</summary>
-    <published>2021-04-29T12:10:00+09:00</published>
-  </entry>
   <entry>
     <id>12456</id>
     <title>ヒルチャール百科事典003期</title>
@@ -887,5 +878,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214404222164.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16450">「鏡花聴世」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/16450" rel="alternate"/>
     <published>2021-10-14T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16551</id>
+    <title>「原神オフラインオーケストラコンサート」グッズ情報第1期</title>
+    <updated>2021-10-15T18:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101518493973214.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16551">「原神オフラインオーケストラコンサート」グッズ情報第1期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16551" rel="alternate"/>
+    <published>2021-10-15T18:50:00+09:00</published>
   </entry>
 </feed>

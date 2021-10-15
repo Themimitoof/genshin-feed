@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - info</title>
-  <updated>2021-10-15T10:10:26.583873+00:00</updated>
+  <updated>2021-10-15T11:08:21.572309+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -143,5 +143,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16341" rel="alternate"/>
     <summary/>
     <published>2021-10-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16551</id>
+    <title>「原神オフラインオーケストラコンサート」グッズ情報第1期</title>
+    <updated>2021-10-15T18:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101518493973214.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16551">「原神オフラインオーケストラコンサート」グッズ情報第1期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16551" rel="alternate"/>
+    <published>2021-10-15T18:50:00+09:00</published>
   </entry>
 </feed>

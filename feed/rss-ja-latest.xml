@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 15 Oct 2021 10:10:25 +0000</lastBuildDate>
-    <item>
-      <title>運営チームからの手紙</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12462</link>
-      <description>【04.29】開発チームQ&amp;A</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210428/2021042819220610434.jpg"><br/><br/>【04.29】開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12462">運営チームからの手紙</a>]]></content:encoded>
-      <guid isPermaLink="false">12462</guid>
-      <pubDate>Thu, 29 Apr 2021 12:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Oct 2021 11:08:21 +0000</lastBuildDate>
     <item>
       <title>ヒルチャール百科事典003期</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12456</link>
@@ -716,6 +708,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214404222164.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16450">「鏡花聴世」イベント紹介</a>]]></description>
       <guid isPermaLink="false">16450</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「原神オフラインオーケストラコンサート」グッズ情報第1期</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16551</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101518493973214.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16551">「原神オフラインオーケストラコンサート」グッズ情報第1期</a>]]></description>
+      <guid isPermaLink="false">16551</guid>
+      <pubDate>Fri, 15 Oct 2021 18:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
