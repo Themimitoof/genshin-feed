@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2021-10-15T14:09:31.691937+00:00</updated>
+  <updated>2021-10-15T15:09:53.427920+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -99,5 +99,34 @@
     <summary>Время в Тейвате летит незаметно.
 Но с тобой даже будни наполняются теплом и светом.</summary>
     <published>2021-10-03T22:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16478</id>
+    <title>Браузерное событие «Дневник исследований Элой» стартовало! Исследуйте Тейват вместе с Элой и получайте награды!</title>
+    <updated>2021-10-13T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217530475054.jpg"><br/><br/>Какие приключения ожидают Элой, спасительницу другого мира, когда она ступит на земли Тейвата?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16478">Браузерное событие «Дневник исследований Элой» стартовало! Исследуйте Тейват вместе с Элой и получайте награды!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16478" rel="alternate"/>
+    <summary>Какие приключения ожидают Элой, спасительницу другого мира, когда она ступит на земли Тейвата?</summary>
+    <published>2021-10-13T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16534</id>
+    <title>[Объявление победителей] Genshin Impact | Специальный розыгрыш</title>
+    <updated>2021-10-14T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415283973888.jpg"><br/><br/>Дорогие Путешественники!
+Благодарим вас за участие в событии годовщины Genshin Impact | Специальный розыгрыш. Поздравляем счастливых победителей!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16534">[Объявление победителей] Genshin Impact | Специальный розыгрыш</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16534" rel="alternate"/>
+    <summary>Дорогие Путешественники!
+Благодарим вас за участие в событии годовщины Genshin Impact | Специальный розыгрыш. Поздравляем счастливых победителей!</summary>
+    <published>2021-10-14T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16540</id>
+    <title>Кампания по набору стримеров Genshin Impact на Twitch</title>
+    <updated>2021-10-15T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101515203131982.jpg"><br/><br/>Версия Genshin Impact 2.2 «Тайны туманного моря» вышла 13 октября. Вместе с ней начинается кампания по набору стримеров Genshin Impact на Twitch. Стримьте и выполняйте задания, чтобы получить Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16540">Кампания по набору стримеров Genshin Impact на Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16540" rel="alternate"/>
+    <summary>Версия Genshin Impact 2.2 «Тайны туманного моря» вышла 13 октября. Вместе с ней начинается кампания по набору стримеров Genshin Impact на Twitch. Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
+    <published>2021-10-15T18:00:00+03:00</published>
   </entry>
 </feed>
