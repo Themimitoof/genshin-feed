@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - events</title>
-  <updated>2021-10-15T17:14:59.124086+00:00</updated>
+  <updated>2021-10-15T18:10:38.257638+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -64,29 +64,5 @@ Offizieller Beginn der Webaktion „Laternen voller Wünsche“.<br><br>Read mor
     <summary>Der Legende nach übermitteln Laternen die Wünsche der Menschen an die Adepten.
 Offizieller Beginn der Webaktion „Laternen voller Wünsche“.</summary>
     <published>2021-02-19T13:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16484</id>
-    <title>Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</title>
-    <updated>2021-10-13T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101218035842194.jpg"><br/><br/>Aloys Erkundungstagebuch
-Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16484">Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16484" rel="alternate"/>
-    <summary>Aloys Erkundungstagebuch
-Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?</summary>
-    <published>2021-10-13T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>16533</id>
-    <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
-    <updated>2021-10-14T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415272847248.jpg"><br/><br/>Liebe Reisende, 
-vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
-Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16533" rel="alternate"/>
-    <summary>Liebe Reisende, 
-vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
-Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</summary>
-    <published>2021-10-14T18:00:00+02:00</published>
   </entry>
 </feed>
