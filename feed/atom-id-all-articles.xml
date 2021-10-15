@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-10-15T20:10:00.238097+00:00</updated>
+  <updated>2021-10-15T21:08:22.369481+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -124,6 +124,24 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/16314" rel="alternate"/>
     <summary>Waktu di Teyvat berlalu begitu cepat. Namun ketika bersamamu, bahkan hari-hari biasa pun bersinar penuh kilauan.</summary>
     <published>2021-10-03T22:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16475</id>
+    <title>Event Web "Catatan Penjelajahan Aloy" Telah Dimulai. Jelajahi Teyvat bersama Aloy dan dapatkan hadiah menarik!</title>
+    <updated>2021-10-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217483790053.jpg"><br/><br/>Saat Aloy menginjakkan kaki di Dunia Teyvat, petualangan seperti apa yang menunggu sang "Savior From Another World" ini?<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16475">Event Web "Catatan Penjelajahan Aloy" Telah Dimulai. Jelajahi Teyvat bersama Aloy dan dapatkan hadiah menarik!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16475" rel="alternate"/>
+    <summary>Saat Aloy menginjakkan kaki di Dunia Teyvat, petualangan seperti apa yang menunggu sang "Savior From Another World" ini?</summary>
+    <published>2021-10-13T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16545</id>
+    <title>Event Perekrutan Streamer Genshin Impact</title>
+    <updated>2021-10-15T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516284152328.jpg"><br/><br/>Update Genshin Impact v2.2 "Misteri Lautan Kabut" akan hadir pada 13 Oktober. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Live stream kontenmu, selesaikan misi dan dapatkan hadiah Primogem!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16545">Event Perekrutan Streamer Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16545" rel="alternate"/>
+    <summary>Update Genshin Impact v2.2 "Misteri Lautan Kabut" akan hadir pada 13 Oktober. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Live stream kontenmu, selesaikan misi dan dapatkan hadiah Primogem!</summary>
+    <published>2021-10-15T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>735</id>
