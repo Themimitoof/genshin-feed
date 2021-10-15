@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-10-15T09:09:40.958296+00:00</updated>
+  <updated>2021-10-15T10:10:17.269528+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>14159</id>
-    <title>¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</title>
-    <updated>2021-07-15T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511235782569.png"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14159">¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14159" rel="alternate"/>
-    <summary>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</summary>
-    <published>2021-07-15T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14145</id>
     <title>"Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!"</title>
@@ -915,5 +906,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <link href="https://genshin.mihoyo.com/es/news/detail/16535" rel="alternate"/>
     <summary>Muchas gracias por participar en el Evento de Sorteo de Genshin Impact. ¡Felicidades a nuestros afortunados ganadores!</summary>
     <published>2021-10-14T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16543</id>
+    <title>Reclutar streamers de la nueva versión en Twitch</title>
+    <updated>2021-10-15T18:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516271036055.jpg"><br/><br/>Querido/a viajero/a: La nueva versión de Genshin Impact 2.2, «El laberinto de niebla», se ha actualizado el 13 de octubre. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16543">Reclutar streamers de la nueva versión en Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16543" rel="alternate"/>
+    <summary>Querido/a viajero/a: La nueva versión de Genshin Impact 2.2, «El laberinto de niebla», se ha actualizado el 13 de octubre. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</summary>
+    <published>2021-10-15T18:00:00+02:00</published>
   </entry>
 </feed>

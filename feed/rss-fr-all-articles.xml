@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 15 Oct 2021 09:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 10:10:11 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -88,6 +88,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101414571947662.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16530">[Annonce des gagnants] Genshin Impact loterie</a>]]></description>
       <guid isPermaLink="false">16530</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>La campagne de recrutement de streamers sur Twitch</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16547</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516480763764.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16547">La campagne de recrutement de streamers sur Twitch</a>]]></description>
+      <guid isPermaLink="false">16547</guid>
+      <pubDate>Fri, 15 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -1014,13 +1021,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14009</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914160329596.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14009">Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></description>
-      <guid isPermaLink="false">14009</guid>
-      <pubDate>Fri, 09 Jul 2021 21:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Nouveau système de vœux d'armes « Chemin divin »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14050</link>
       <description>Après la mise à jour de version 2.0, un nouveau système de vœux d'armes sera disponible : le « Chemin divin ».</description>
@@ -1791,6 +1791,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101414571947662.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16530">[Annonce des gagnants] Genshin Impact loterie</a>]]></description>
       <guid isPermaLink="false">16530</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>La campagne de recrutement de streamers sur Twitch</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16547</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516480763764.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16547">La campagne de recrutement de streamers sur Twitch</a>]]></description>
+      <guid isPermaLink="false">16547</guid>
+      <pubDate>Fri, 15 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Oct 2021 09:09:33 +0000</lastBuildDate>
-    <item>
-      <title>Version 2.0 System Update Preview: Gardening Gameplay</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14480</link>
-      <description>Dear Travelers~ Version 2.0 will introduce new Gardening Gameplay. Let's see how it works~
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072118204011145.jpg"><br/><br/>Dear Travelers~ Version 2.0 will introduce new Gardening Gameplay. Let's see how it works~
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14480">Version 2.0 System Update Preview: Gardening Gameplay</a>]]></content:encoded>
-      <guid isPermaLink="false">14480</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 15 Oct 2021 10:10:04 +0000</lastBuildDate>
     <item>
       <title>The Inazuma Diaries Vol. 1: The Mysterious Electro Element</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14141</link>
@@ -900,6 +890,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415130920097.jpg"><br/><br/>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16531">[Event Result Announcement] Genshin Impact Raffle Event</a>]]></content:encoded>
       <guid isPermaLink="false">16531</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16544</link>
+      <description>The Genshin Impact Version 2.2 "Into the Perilous Labyrinth of Fog" update arrived on October 13. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</description>
+      <content:encoded><![CDATA[The Genshin Impact Version 2.2 "Into the Perilous Labyrinth of Fog" update arrived on October 13. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16544">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">16544</guid>
+      <pubDate>Fri, 15 Oct 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 15 Oct 2021 09:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 10:10:34 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -114,6 +114,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101417560080918.jpg"><br/><br/>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16538">원신 추첨 이벤트 당첨자 발표</a>]]></content:encoded>
       <guid isPermaLink="false">16538</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>witch &lt;원신&gt; 2.2 버전 스트리머 모집</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16550</link>
+      <description>Twitch &lt;원신&gt; 2.2 버전 스트리머 모집 이벤트가 오픈했습니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101517575986095.jpg"><br/><br/>Twitch <원신> 2.2 버전 스트리머 모집 이벤트가 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16550">witch <원신> 2.2 버전 스트리머 모집</a>]]></content:encoded>
+      <guid isPermaLink="false">16550</guid>
+      <pubDate>Fri, 15 Oct 2021 18:00:00 +0900</pubDate>
     </item>
     <item>
       <title>프롤로그 PV: 바람 잡는 이방인</title>
@@ -1139,14 +1147,6 @@
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>2.0 버전 「속세의 주전자」 시스템 업데이트 속보: 「재배」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14107</link>
-      <description>2.0 버전에서 「속세의 주전자」에 「재배」 콘텐츠가 업데이트될 거예요. 우리 같이 확인해 보아요~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071318465557274.jpg"><br/><br/>2.0 버전에서 「속세의 주전자」에 「재배」 콘텐츠가 업데이트될 거예요. 우리 같이 확인해 보아요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14107">2.0 버전 「속세의 주전자」 시스템 업데이트 속보: 「재배」</a>]]></content:encoded>
-      <guid isPermaLink="false">14107</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>[이나즈마 수첩 1회] 신기한 「번개 원소」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14144</link>
       <description>﻿이나즈마로 향하는 모험이 곧 시작될 거야! 이 「번개 원소」와 밀접한 관계가 있는 국가에서는 과연 어떤 새로운 일들이 우릴 기다리고 있을까? 같이 확인해보자!</description>
@@ -1988,6 +1988,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101417560080918.jpg"><br/><br/>원신 추첨 이벤트에 참여해 준 여행자들 고마워. 행운의 여행자들 축하해~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16538">원신 추첨 이벤트 당첨자 발표</a>]]></content:encoded>
       <guid isPermaLink="false">16538</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>witch &lt;원신&gt; 2.2 버전 스트리머 모집</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16550</link>
+      <description>Twitch &lt;원신&gt; 2.2 버전 스트리머 모집 이벤트가 오픈했습니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101517575986095.jpg"><br/><br/>Twitch <원신> 2.2 버전 스트리머 모집 이벤트가 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16550">witch <원신> 2.2 버전 스트리머 모집</a>]]></content:encoded>
+      <guid isPermaLink="false">16550</guid>
+      <pubDate>Fri, 15 Oct 2021 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

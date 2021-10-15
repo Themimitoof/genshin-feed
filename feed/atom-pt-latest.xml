@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-10-15T09:09:46.138335+00:00</updated>
+  <updated>2021-10-15T10:10:34.444933+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14157</id>
-    <title>Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!</title>
-    <updated>2021-07-15T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511225013155.png"><br/><br/>Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14157">Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14157" rel="alternate"/>
-    <summary>Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!</summary>
-    <published>2021-07-15T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>14149</id>
     <title>"Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, ao seu dispor!"</title>
@@ -921,5 +912,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
 Terima kasih kalian sudah mengikuti "Event Undian Genshin Impact". Selamat kepada pemenang yang beruntung!
 Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～(•̀ᴗ•́)و ̑̑</summary>
     <published>2021-10-14T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16546</id>
+    <title>Recrutamento de streamers da nova versão de Genshin Impact de Twitch</title>
+    <updated>2021-10-15T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516322125332.jpg"><br/><br/>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16546">Recrutamento de streamers da nova versão de Genshin Impact de Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16546" rel="alternate"/>
+    <summary>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.</summary>
+    <published>2021-10-15T18:00:00+01:00</published>
   </entry>
 </feed>

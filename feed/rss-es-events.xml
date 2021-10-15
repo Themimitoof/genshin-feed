@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 15 Oct 2021 09:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 10:10:20 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -114,6 +114,14 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415330071401.jpg"><br/><br/>Muchas gracias por participar en el Evento de Sorteo de Genshin Impact. ¡Felicidades a nuestros afortunados ganadores!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16535">[Resultado Anunciado]Evento de Sorteo de Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16535</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Reclutar streamers de la nueva versión en Twitch</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16543</link>
+      <description>Querido/a viajero/a: La nueva versión de Genshin Impact 2.2, «El laberinto de niebla», se ha actualizado el 13 de octubre. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516271036055.jpg"><br/><br/>Querido/a viajero/a: La nueva versión de Genshin Impact 2.2, «El laberinto de niebla», se ha actualizado el 13 de octubre. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado. ¡Participa en la transmisión y completa las misiones para ganar una generosa cantidad de Protogemas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16543">Reclutar streamers de la nueva versión en Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">16543</guid>
+      <pubDate>Fri, 15 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
