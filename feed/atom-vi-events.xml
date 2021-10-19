@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - events</title>
-  <updated>2021-10-19T21:08:24.214255+00:00</updated>
+  <updated>2021-10-19T22:09:34.143427+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -105,29 +105,5 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711543775687.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15738">Khắc Lên Lời Chúc</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/15738" rel="alternate"/>
     <published>2021-09-07T12:05:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16477</id>
-    <title>Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</title>
-    <updated>2021-10-13T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217514847439.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16477">Sự kiện web "Nhật Ký Thám Hiểm Của Aloy" đã mở, cùng Aloy thám hiểm đại lục Teyvat để nhận thưởng!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16477" rel="alternate"/>
-    <published>2021-10-13T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16539</id>
-    <title>[Mở Thưởng Sự Kiện] Sự kiện chia sẻ rút thưởng Genshin Impact</title>
-    <updated>2021-10-14T18:14:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101418151636001.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16539">[Mở Thưởng Sự Kiện] Sự kiện chia sẻ rút thưởng Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16539" rel="alternate"/>
-    <published>2021-10-14T18:14:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16549</id>
-    <title>Chiêu mộ streamer Genshin Impact phiên bản mới trên Twitch</title>
-    <updated>2021-10-15T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101517341571792.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16549">Chiêu mộ streamer Genshin Impact phiên bản mới trên Twitch</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16549" rel="alternate"/>
-    <published>2021-10-15T18:00:00+07:00</published>
   </entry>
 </feed>
