@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-10-19T09:09:49.676276+00:00</updated>
+  <updated>2021-10-19T10:10:36.338310+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -1925,13 +1925,12 @@
     <published>2021-10-15T18:50:00+09:00</published>
   </entry>
   <entry>
-    <id>12507</id>
-    <title>ヒルチャールからのTips・「詭爆の境」</title>
-    <updated>2021-04-30T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210429/2021042915095446323.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12507">ヒルチャールからのTips・「詭爆の境」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12507" rel="alternate"/>
-    <summary/>
-    <published>2021-04-30T10:30:00+09:00</published>
+    <id>16587</id>
+    <title>「原神オフラインオーケストラコンサート」グッズ情報第2期</title>
+    <updated>2021-10-19T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915190555298.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16587">「原神オフラインオーケストラコンサート」グッズ情報第2期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16587" rel="alternate"/>
+    <published>2021-10-19T18:00:00+09:00</published>
   </entry>
   <entry>
     <id>12530</id>
@@ -2801,5 +2800,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16552" rel="alternate"/>
     <summary/>
     <published>2021-10-19T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16587</id>
+    <title>「原神オフラインオーケストラコンサート」グッズ情報第2期</title>
+    <updated>2021-10-19T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915190555298.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16587">「原神オフラインオーケストラコンサート」グッズ情報第2期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16587" rel="alternate"/>
+    <published>2021-10-19T18:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-10-19T09:09:50.253587+00:00</updated>
+  <updated>2021-10-19T10:10:42.590418+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -1201,17 +1201,6 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-10-06T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>14192</id>
-    <title>Diário em Inazuma - Edição 2: Mecanismos e Dispositivos Incríveis</title>
-    <updated>2021-07-16T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519224294518.jpg"><br/><br/>Olá, caros Viajantes!
-Durante a jornada em Inazuma, é possível encontrar mecanismos incríveis frequentemente. Como desbloquear cada um desses mecanismos diferentes? Vamos descobrir juntos!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14192">Diário em Inazuma - Edição 2: Mecanismos e Dispositivos Incríveis</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14192" rel="alternate"/>
-    <summary>Olá, caros Viajantes!
-Durante a jornada em Inazuma, é possível encontrar mecanismos incríveis frequentemente. Como desbloquear cada um desses mecanismos diferentes? Vamos descobrir juntos!</summary>
-    <published>2021-07-16T10:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>14212</id>
     <title>O pré-download estará dispnível em breve</title>
     <updated>2021-07-16T11:00:00+01:00</updated>
@@ -2112,5 +2101,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16570" rel="alternate"/>
     <summary>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.</summary>
     <published>2021-10-19T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16555</id>
+    <title>Edição 2 -Informações de Produtos de Fãs do Concerto Orquestral Offline de Genshin Impact</title>
+    <updated>2021-10-19T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101818583845980.jpg"><br/><br/>Além da série Sonho Acompanhado da Orquestra, preparamos também os acessórios da série "Trupe Itinerante", Viajantes, fiquem ligados!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16555">Edição 2 -Informações de Produtos de Fãs do Concerto Orquestral Offline de Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16555" rel="alternate"/>
+    <summary>Além da série Sonho Acompanhado da Orquestra, preparamos também os acessórios da série "Trupe Itinerante", Viajantes, fiquem ligados!</summary>
+    <published>2021-10-19T18:00:00+01:00</published>
   </entry>
 </feed>

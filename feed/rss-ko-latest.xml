@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:09:49 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 카미사토 아야카 캐릭터 PV - 「백로귀정」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14117</link>
-      <description>야시로 봉행은 이나즈마의 제사, 문화, 예술을 관리하고 단정하고 점잖은 「백로공주」는 여러 일을 처리하느라 바쁘다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418390156361.jpg"><br/><br/>야시로 봉행은 이나즈마의 제사, 문화, 예술을 관리하고 단정하고 점잖은 「백로공주」는 여러 일을 처리하느라 바쁘다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14117"><원신> 카미사토 아야카 캐릭터 PV - 「백로귀정」</a>]]></content:encoded>
-      <guid isPermaLink="false">14117</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 10:10:36 +0000</lastBuildDate>
     <item>
       <title>2.0 신규 버전 「부동의 번개 신, 포영의 절멸」 사전 공개 페이지 오픈!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14166</link>
@@ -859,6 +851,13 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911193445107.jpg"><br/><br/>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16573">「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</a>]]></content:encoded>
       <guid isPermaLink="false">16573</guid>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「원신 오프라인 콘서트」 굿즈 정보 제2기</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16579</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914393883206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16579">「원신 오프라인 콘서트」 굿즈 정보 제2기</a>]]></description>
+      <guid isPermaLink="false">16579</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

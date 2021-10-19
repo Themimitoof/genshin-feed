@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-10-19T09:09:50.298546+00:00</updated>
+  <updated>2021-10-19T10:10:42.635456+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>14134</id>
-    <title>«Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!»</title>
-    <updated>2021-07-15T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419542226569.png"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14134">«Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14134" rel="alternate"/>
-    <summary>Камисато Аяка</summary>
-    <published>2021-07-15T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>14193</id>
     <title>«Записи об Инадзуме: Выпуск II»: механизмы и удивительные устройства</title>
@@ -914,5 +905,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16572" rel="alternate"/>
     <summary>В период события выполняйте различные испытания «Мистической палаты оммё» и получайте истёртые скрижали, которые в Магазине события можно обменять на Камни Истока, Корону прозрения, материалы развития персонажей, материалы повышения талантов, Опыт героя, волшебную руду усиления и другие награды.</summary>
     <published>2021-10-19T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16557</id>
+    <title>Информация о мерче «Симфонический офлайн-концерт Genshin Impact» - Выпуск II</title>
+    <updated>2021-10-19T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101819231254907.jpg"><br/><br/>Помимо серии мерча GENSHIN CONCERT 2021 мы также подготовили серию украшений «Странствующий ансамбль». Не упустите!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16557">Информация о мерче «Симфонический офлайн-концерт Genshin Impact» - Выпуск II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16557" rel="alternate"/>
+    <summary>Помимо серии мерча GENSHIN CONCERT 2021 мы также подготовили серию украшений «Странствующий ансамбль». Не упустите!</summary>
+    <published>2021-10-19T18:00:00+03:00</published>
   </entry>
 </feed>

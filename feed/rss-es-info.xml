@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:09:46 +0000</lastBuildDate>
-    <item>
-      <title>Detalles del sistema de gachapones «Senda divina»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14032</link>
-      <description>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919252268954.jpg"><br/><br/>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14032">Detalles del sistema de gachapones «Senda divina»</a>]]></content:encoded>
-      <guid isPermaLink="false">14032</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 10:10:23 +0000</lastBuildDate>
     <item>
       <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14039</link>
@@ -806,6 +798,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911101627164.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16569">Evento «Dominio del guerrero»: participa para invitar a Xinyan a tu equipo</a>]]></description>
       <guid isPermaLink="false">16569</guid>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Merchandising del GENSHIN CONCERT 2021 (II)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16581</link>
+      <description>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914465386195.jpg"><br/><br/>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16581">Merchandising del GENSHIN CONCERT 2021 (II)</a>]]></content:encoded>
+      <guid isPermaLink="false">16581</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-10-19T09:09:51.602123+00:00</updated>
+  <updated>2021-10-19T10:10:51.955037+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -1117,15 +1117,6 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-10-06T10:30:00+07:00</published>
   </entry>
   <entry>
-    <id>14100</id>
-    <title>Bản tin cập nhật hệ thống phiên bản 2.0: Tính năng "Trồng Trọt"</title>
-    <updated>2021-07-14T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317074072099.jpg"><br/><br/>Nhà Lữ Hành thân mến! Trong phiên bản 2.0, Ấm Trần Ca sẽ cập nhật thêm tính năng "Trồng Trọt". Chúng mình hãy cùng xem nhé!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14100">Bản tin cập nhật hệ thống phiên bản 2.0: Tính năng "Trồng Trọt"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14100" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến! Trong phiên bản 2.0, Ấm Trần Ca sẽ cập nhật thêm tính năng "Trồng Trọt". Chúng mình hãy cùng xem nhé!</summary>
-    <published>2021-07-14T10:30:00+07:00</published>
-  </entry>
-  <entry>
     <id>14140</id>
     <title>[Sổ Tay Inazuma Kỳ 001] "Nguyên Tố Lôi" Thần Kỳ</title>
     <updated>2021-07-15T10:30:00+07:00</updated>
@@ -1996,5 +1987,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/16577" rel="alternate"/>
     <summary/>
     <published>2021-10-19T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16589</id>
+    <title>Thông tin quà lưu niệm "Buổi Hoà Nhạc Offline Của Genshin Impact" kỳ II</title>
+    <updated>2021-10-19T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915311790405.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16589">Thông tin quà lưu niệm "Buổi Hoà Nhạc Offline Của Genshin Impact" kỳ II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16589" rel="alternate"/>
+    <published>2021-10-19T18:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 10:10:25 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -237,14 +237,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Detalles del sistema de gachapones «Senda divina»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14032</link>
-      <description>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919252268954.jpg"><br/><br/>Una vez actualizada la versión 2.0, se añadirá un nuevo sistema de gachapones llamado «Senda divina»<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14032">Detalles del sistema de gachapones «Senda divina»</a>]]></content:encoded>
-      <guid isPermaLink="false">14032</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
@@ -1037,11 +1029,12 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14199</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520205281586.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14199">Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</a>]]></description>
-      <guid isPermaLink="false">14199</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0200</pubDate>
+      <title>Merchandising del GENSHIN CONCERT 2021 (II)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16581</link>
+      <description>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914465386195.jpg"><br/><br/>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16581">Merchandising del GENSHIN CONCERT 2021 (II)</a>]]></content:encoded>
+      <guid isPermaLink="false">16581</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Función de predescarga</title>
@@ -1836,6 +1829,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911101627164.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16569">Evento «Dominio del guerrero»: participa para invitar a Xinyan a tu equipo</a>]]></description>
       <guid isPermaLink="false">16569</guid>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Merchandising del GENSHIN CONCERT 2021 (II)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16581</link>
+      <description>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914465386195.jpg"><br/><br/>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16581">Merchandising del GENSHIN CONCERT 2021 (II)</a>]]></content:encoded>
+      <guid isPermaLink="false">16581</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

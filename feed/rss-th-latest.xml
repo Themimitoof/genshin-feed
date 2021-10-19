@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:09:50 +0000</lastBuildDate>
-    <item>
-      <title>พรีวิวอัปเดตระบบในเวอร์ชัน 2.0: เกมเพลย์ "ปลูกพืช"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14108</link>
-      <description>สวัสดีนักเดินทาง~ ในเวอร์ชัน 2.0 นี้ ระบบ Serenitea Pot จะมีการอัปเดตเกมเพลย์ "ปลูกพืช" เรามาดูไปด้วยกันเลย~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071410275887997.jpg"><br/><br/>สวัสดีนักเดินทาง~ ในเวอร์ชัน 2.0 นี้ ระบบ Serenitea Pot จะมีการอัปเดตเกมเพลย์ "ปลูกพืช" เรามาดูไปด้วยกันเลย~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14108">พรีวิวอัปเดตระบบในเวอร์ชัน 2.0: เกมเพลย์ "ปลูกพืช"</a>]]></content:encoded>
-      <guid isPermaLink="false">14108</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 10:10:45 +0000</lastBuildDate>
     <item>
       <title>[บันทึก Inazuma ฉบับที่ 1] "ไฟฟ้า" ที่แสนลึกลับ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14151</link>
@@ -758,6 +750,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911304180608.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16576">กิจกรรม "ทหารผู้กล้าแห่งแดนพิศวง": เข้าร่วมเพื่อเชิญ "เมโลดี้อันร้อนแรง - Xinyan (ไฟ)" เข้าร่วมทีม</a>]]></description>
       <guid isPermaLink="false">16576</guid>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>ข่าวสารสินค้าที่ระลึกประจำ "คอนเสิร์ตซิมโฟนีออฟไลน์ของ Genshin Impact" ช่วงที่ 2</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16575</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911265949350.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16575">ข่าวสารสินค้าที่ระลึกประจำ "คอนเสิร์ตซิมโฟนีออฟไลน์ของ Genshin Impact" ช่วงที่ 2</a>]]></description>
+      <guid isPermaLink="false">16575</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

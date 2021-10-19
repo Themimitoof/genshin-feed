@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:09:46 +0000</lastBuildDate>
-    <item>
-      <title>Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14199</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520205281586.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14199">Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</a>]]></description>
-      <guid isPermaLink="false">14199</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 10:10:21 +0000</lastBuildDate>
     <item>
       <title>Función de predescarga</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14221</link>
@@ -809,6 +802,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911101627164.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16569">Evento «Dominio del guerrero»: participa para invitar a Xinyan a tu equipo</a>]]></description>
       <guid isPermaLink="false">16569</guid>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Merchandising del GENSHIN CONCERT 2021 (II)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16581</link>
+      <description>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914465386195.jpg"><br/><br/>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16581">Merchandising del GENSHIN CONCERT 2021 (II)</a>]]></content:encoded>
+      <guid isPermaLink="false">16581</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-10-19T09:09:45.991301+00:00</updated>
+  <updated>2021-10-19T10:10:16.547916+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14031</id>
-    <title>PlayStation™Network與米哈遊通行證帳號互通相關公告</title>
-    <updated>2021-07-09T22:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919243321781.jpg"><br/><br/>親愛的旅行者，你們好：PlayStation™Network與米哈遊通行證互通功能即將在2.0版本和大家見面。我們將在這裡從帳號綁定、儲值、特典獎勵、Playstation連線、好友五個方面解答大家關於帳號互通的問題。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14031">PlayStation™Network與米哈遊通行證帳號互通相關公告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14031" rel="alternate"/>
-    <summary>親愛的旅行者，你們好：PlayStation™Network與米哈遊通行證互通功能即將在2.0版本和大家見面。我們將在這裡從帳號綁定、儲值、特典獎勵、Playstation連線、好友五個方面解答大家關於帳號互通的問題。</summary>
-    <published>2021-07-09T22:00:00+08:00</published>
-  </entry>
   <entry>
     <id>14036</id>
     <title>武器祈願機制「神鑄定軌」說明</title>
@@ -893,5 +884,13 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16567" rel="alternate"/>
     <summary>活動期間，旅行者完成「訣籙陰陽寮」中的試煉可獲得 「朽裂之庚牌」，可以在活動商店中換取原石、智識之冕、角色培養素材、天賦培養素材、大英雄的經驗、精鍛用魔礦等獎勵。</summary>
     <published>2021-10-19T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16563</id>
+    <title>「原神線下交響音樂會」周邊情報第二期</title>
+    <updated>2021-10-19T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910263427341.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16563">「原神線下交響音樂會」周邊情報第二期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16563" rel="alternate"/>
+    <published>2021-10-19T18:00:00+08:00</published>
   </entry>
 </feed>

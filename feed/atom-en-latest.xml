@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-10-19T09:09:44.594914+00:00</updated>
+  <updated>2021-10-19T10:10:08.501582+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14123</id>
-    <title>Character Teaser - "Kamisato Ayaka: The Homeward Heron" | Genshin Impact</title>
-    <updated>2021-07-15T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418501428078.jpg"><br/><br/>The Yashiro Commission is responsible for the sacred matters and cultural affairs of Inazuma. The Shirasagi Himegimi handles various official duties with dignified poise.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14123">Character Teaser - "Kamisato Ayaka: The Homeward Heron" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14123" rel="alternate"/>
-    <summary>The Yashiro Commission is responsible for the sacred matters and cultural affairs of Inazuma. The Shirasagi Himegimi handles various official duties with dignified poise.</summary>
-    <published>2021-07-15T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>14164</id>
     <title>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!</title>
@@ -998,5 +989,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/16566" rel="alternate"/>
     <summary>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).</summary>
     <published>2021-10-19T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16556</id>
+    <title>Genshin Impact Offline Concert Merchandise Information - Phase II</title>
+    <updated>2021-10-19T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101819003591128.jpg"><br/><br/>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16556">Genshin Impact Offline Concert Merchandise Information - Phase II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16556" rel="alternate"/>
+    <summary>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~</summary>
+    <published>2021-10-19T18:00:00-04:00</published>
   </entry>
 </feed>

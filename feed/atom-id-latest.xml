@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-10-19T09:09:47.887402+00:00</updated>
+  <updated>2021-10-19T10:10:25.937882+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14128</id>
-    <title>Kisah Karakter: "Kamisato Ayaka — Saat Bangau Putih Pulang" | Genshin Impact</title>
-    <updated>2021-07-15T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419473436094.jpg"><br/><br/>Yashiro Commission bertanggung jawab untuk hal-hal sakral dan urusan budaya di Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14128">Kisah Karakter: "Kamisato Ayaka — Saat Bangau Putih Pulang" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14128" rel="alternate"/>
-    <summary>Yashiro Commission bertanggung jawab untuk hal-hal sakral dan urusan budaya di Inazuma.</summary>
-    <published>2021-07-15T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14162</id>
     <title>Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!</title>
@@ -911,5 +902,14 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16571" rel="alternate"/>
     <summary>Selama event berlangsung, Traveler bisa mengumpulkan Aged Token dengan menyelesaikan stage di Mystic Onmyou Chamber. </summary>
     <published>2021-10-19T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16554</id>
+    <title>Info Merchandise Konser Offline Genshin Impact Edisi 2</title>
+    <updated>2021-10-19T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101818412643950.jpg"><br/><br/>Selain merchandise seri GENSHIN CONCERT 2021, kami juga secara khusus menyiapkan merchandise seri Wanderer's Troupe. Jangan sampai dilewatkan ya, Traveler!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16554">Info Merchandise Konser Offline Genshin Impact Edisi 2</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16554" rel="alternate"/>
+    <summary>Selain merchandise seri GENSHIN CONCERT 2021, kami juga secara khusus menyiapkan merchandise seri Wanderer's Troupe. Jangan sampai dilewatkan ya, Traveler!</summary>
+    <published>2021-10-19T18:00:00+07:00</published>
   </entry>
 </feed>

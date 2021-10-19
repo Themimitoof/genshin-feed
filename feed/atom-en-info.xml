@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-10-19T09:09:45.017478+00:00</updated>
+  <updated>2021-10-19T10:10:09.918672+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>13960</id>
-    <title>"Never-Ending Battle" Gameplay Details</title>
-    <updated>2021-07-08T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717142941766.jpg"><br/><br/>Enemies of unknown origin have come ashore the Golden Apple Archipelago, intent on taking this seaborne paradise for themselves.
-Use the mechanisms and the blessings from Momentum Discs to beat back the monsters in one fell swoop!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13960">"Never-Ending Battle" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/13960" rel="alternate"/>
-    <summary>Enemies of unknown origin have come ashore the Golden Apple Archipelago, intent on taking this seaborne paradise for themselves.
-Use the mechanisms and the blessings from Momentum Discs to beat back the monsters in one fell swoop!</summary>
-    <published>2021-07-08T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>14005</id>
     <title>Version 2.0 "The Immovable God and the Eternal Euthymia" Trailer | Genshin Impact</title>
@@ -1000,5 +989,14 @@ The answer he seeks lies in both the fierce momentum of battles and the journey 
     <link href="https://genshin.mihoyo.com/en/news/detail/16566" rel="alternate"/>
     <summary>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).</summary>
     <published>2021-10-19T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16556</id>
+    <title>Genshin Impact Offline Concert Merchandise Information - Phase II</title>
+    <updated>2021-10-19T18:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101819003591128.jpg"><br/><br/>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16556">Genshin Impact Offline Concert Merchandise Information - Phase II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16556" rel="alternate"/>
+    <summary>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~</summary>
+    <published>2021-10-19T18:00:00-04:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 19 Oct 2021 09:09:50 +0000</lastBuildDate>
-    <item>
-      <title>Bản tin cập nhật hệ thống phiên bản 2.0: Tính năng "Trồng Trọt"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14100</link>
-      <description>Nhà Lữ Hành thân mến! Trong phiên bản 2.0, Ấm Trần Ca sẽ cập nhật thêm tính năng "Trồng Trọt". Chúng mình hãy cùng xem nhé!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317074072099.jpg"><br/><br/>Nhà Lữ Hành thân mến! Trong phiên bản 2.0, Ấm Trần Ca sẽ cập nhật thêm tính năng "Trồng Trọt". Chúng mình hãy cùng xem nhé!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14100">Bản tin cập nhật hệ thống phiên bản 2.0: Tính năng "Trồng Trọt"</a>]]></content:encoded>
-      <guid isPermaLink="false">14100</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 10:10:49 +0000</lastBuildDate>
     <item>
       <title>[Sổ Tay Inazuma Kỳ 001] "Nguyên Tố Lôi" Thần Kỳ</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14140</link>
@@ -775,6 +767,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911334540464.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16577">Sự kiện "Chiến Binh Bí Ẩn": Tham gia để mời Giai Điệu Nóng Bỏng - Xinyan (Hoả) về đội!</a>]]></description>
       <guid isPermaLink="false">16577</guid>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thông tin quà lưu niệm "Buổi Hoà Nhạc Offline Của Genshin Impact" kỳ II</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16589</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915311790405.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16589">Thông tin quà lưu niệm "Buổi Hoà Nhạc Offline Của Genshin Impact" kỳ II</a>]]></description>
+      <guid isPermaLink="false">16589</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
