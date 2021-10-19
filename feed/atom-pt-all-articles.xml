@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-10-19T03:10:03.658691+00:00</updated>
+  <updated>2021-10-19T04:12:30.827994+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -294,15 +294,6 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>14016</id>
-    <title>Genshin Impact - Teaser da Versão 2.0: "A Deusa Imóvel e a Utopia Eterna"</title>
-    <updated>2021-07-09T21:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914363593009.jpg"><br/><br/>Uma tempestade vinda de longe chega, dividindo a eternidade. Flashes de relâmpagos cortam a escuridão, a sensação de magia permanece no ar.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14016">Genshin Impact - Teaser da Versão 2.0: "A Deusa Imóvel e a Utopia Eterna"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14016" rel="alternate"/>
-    <summary>Uma tempestade vinda de longe chega, dividindo a eternidade. Flashes de relâmpagos cortam a escuridão, a sensação de magia permanece no ar.</summary>
-    <published>2021-07-09T21:30:00+01:00</published>
   </entry>
   <entry>
     <id>14038</id>
@@ -1201,13 +1192,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-10-14T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>14149</id>
-    <title>"Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, ao seu dispor!"</title>
-    <updated>2021-07-15T12:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071509404149993.png"><br/><br/>Hoje iremos apresentar a vocês a filha da Comissão Yashiro do Shogunato, do Clã Kamisato de Inazuma, Kamisato Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14149">"Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, ao seu dispor!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14149" rel="alternate"/>
-    <summary>Hoje iremos apresentar a vocês a filha da Comissão Yashiro do Shogunato, do Clã Kamisato de Inazuma, Kamisato Ayaka.</summary>
-    <published>2021-07-15T12:10:00+01:00</published>
+    <id>16570</id>
+    <title>Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</title>
+    <updated>2021-10-19T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911102219893.jpg"><br/><br/>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16570">Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16570" rel="alternate"/>
+    <summary>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.</summary>
+    <published>2021-10-19T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>14192</id>
@@ -2112,5 +2103,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16546" rel="alternate"/>
     <summary>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.</summary>
     <published>2021-10-15T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16570</id>
+    <title>Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</title>
+    <updated>2021-10-19T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911102219893.jpg"><br/><br/>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16570">Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16570" rel="alternate"/>
+    <summary>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.</summary>
+    <published>2021-10-19T12:00:00+01:00</published>
   </entry>
 </feed>

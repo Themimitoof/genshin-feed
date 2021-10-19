@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-10-19T03:09:57.951582+00:00</updated>
+  <updated>2021-10-19T04:12:03.158074+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14033</id>
-    <title>Ankündigung über die Verknüpfung von Konten beim PSN und miHoYo-Pässen</title>
-    <updated>2021-07-09T22:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919263077596.jpg"><br/><br/>Hallo, liebe Reisende,die Funktion zur Interoperabilität von Konten beim PSN mit miHoYo-Päsen kommt in Version 2.0 zu euch. Hier werden wir eure Fragen zur Kontokompatibilität in den fünf Bereichen beantworten: Kontobindung, Aufladen, spezielle Belohnungen, Mehrspielermodus auf der Playstation und Freunde.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14033">Ankündigung über die Verknüpfung von Konten beim PSN und miHoYo-Pässen</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14033" rel="alternate"/>
-    <summary>Hallo, liebe Reisende,die Funktion zur Interoperabilität von Konten beim PSN mit miHoYo-Päsen kommt in Version 2.0 zu euch. Hier werden wir eure Fragen zur Kontokompatibilität in den fünf Bereichen beantworten: Kontobindung, Aufladen, spezielle Belohnungen, Mehrspielermodus auf der Playstation und Freunde.</summary>
-    <published>2021-07-09T22:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14034</id>
     <title>Erläuterungen zum Mechanismus vom Waffengebet „Göttlicher Kurs“</title>
@@ -944,5 +935,14 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
 vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
 Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</summary>
     <published>2021-10-14T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16568</id>
+    <title>Aktion „Labyrinthkrieger“: Nimm teil und lade die Figur „Glühend heiße Musik – Xinyan (Pyro)“ ein.</title>
+    <updated>2021-10-19T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911074169819.jpg"><br/><br/>Während des Aktionszeitraums kannst du durch die Prüfungen in der „Mystischen Onmyou-Kammer“ „zerschlissene Marken“ erhalten, die du beim Aktionshändler gegen Urgestein, die Krone der Weisheit, Material zur Verbesserung von Figuren, Material zur Verbesserung von Talenten, Eines Helden Weisheit, mystisches Verstärkungserz und andere Belohnungen eintauschen kannst. <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16568">Aktion „Labyrinthkrieger“: Nimm teil und lade die Figur „Glühend heiße Musik – Xinyan (Pyro)“ ein.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16568" rel="alternate"/>
+    <summary>Während des Aktionszeitraums kannst du durch die Prüfungen in der „Mystischen Onmyou-Kammer“ „zerschlissene Marken“ erhalten, die du beim Aktionshändler gegen Urgestein, die Krone der Weisheit, Material zur Verbesserung von Figuren, Material zur Verbesserung von Talenten, Eines Helden Weisheit, mystisches Verstärkungserz und andere Belohnungen eintauschen kannst. </summary>
+    <published>2021-10-19T12:00:00+02:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:09:59 +0000</lastBuildDate>
-    <item>
-      <title>Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14007</link>
-      <description>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914124942763.jpg"><br/><br/>Una tormenta forastera divide el cielo, quebrando la eternidad. El destello del relámpago se abre paso entre la oscuridad, mientras la voluntad de un ser divino se hace manifiesta.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14007">Avance de la versión 2.0 de Genshin Impact - La diosa inmutable y la utopía eterna</a>]]></content:encoded>
-      <guid isPermaLink="false">14007</guid>
-      <pubDate>Fri, 09 Jul 2021 21:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:09 +0000</lastBuildDate>
     <item>
       <title>Detalles del sistema de gachapones «Senda divina»</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14032</link>
@@ -807,6 +799,13 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101316011793126.jpg"><br/><br/>Tras lo ocurrido en Inazuma, Kazuha volvió a Liyue con la Flota Crux Meridianam. Pero mientras deambulaba por las montañas y bosques de aquel lugar, pidió a los miembros de la tripulación que le ayudaran a localizar el/la viajero/a. ¿Necesitará ayuda con algo?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16522">Modo de juego del evento «Los sonidos del mundo»</a>]]></content:encoded>
       <guid isPermaLink="false">16522</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento «Dominio del guerrero»: participa para invitar a Xinyan a tu equipo</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16569</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911101627164.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16569">Evento «Dominio del guerrero»: participa para invitar a Xinyan a tu equipo</a>]]></description>
+      <guid isPermaLink="false">16569</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

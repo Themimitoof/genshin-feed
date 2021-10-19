@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:10:04 +0000</lastBuildDate>
-    <item>
-      <title>ประกาศเกี่ยวกับการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14037</link>
-      <description>สวัสดี เหล่านักเดินทางที่รัก:ฟังก์ชันการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919340945131.png"><br/><br/>สวัสดี เหล่านักเดินทางที่รัก:ฟังก์ชันการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14037">ประกาศเกี่ยวกับการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo</a>]]></content:encoded>
-      <guid isPermaLink="false">14037</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:35 +0000</lastBuildDate>
     <item>
       <title>พรีวิวอัปเดตระบบในเวอร์ชัน 2.0: เกมเพลย์ "ปลูกพืช"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14108</link>
@@ -759,6 +751,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101517325128200.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16548">กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</a>]]></description>
       <guid isPermaLink="false">16548</guid>
       <pubDate>Fri, 15 Oct 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>กิจกรรม "ทหารผู้กล้าแห่งแดนพิศวง": เข้าร่วมเพื่อเชิญ "เมโลดี้อันร้อนแรง - Xinyan (ไฟ)" เข้าร่วมทีม</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16576</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911304180608.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16576">กิจกรรม "ทหารผู้กล้าแห่งแดนพิศวง": เข้าร่วมเพื่อเชิญ "เมโลดี้อันร้อนแรง - Xinyan (ไฟ)" เข้าร่วมทีม</a>]]></description>
+      <guid isPermaLink="false">16576</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

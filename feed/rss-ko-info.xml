@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:10:02 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 스토리 PV - 「번개를 쫓는 고독한 여정」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13906</link>
-      <description>「언젠가 뇌정에 맞설 자가 나타날 거야」
-끝없는 폭풍우에 맞서기 전, 떠돌이 무사가 옛일을 이야기한다…</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210703/2021070312501978804.jpg"><br/><br/>「언젠가 뇌정에 맞설 자가 나타날 거야」
-끝없는 폭풍우에 맞서기 전, 떠돌이 무사가 옛일을 이야기한다…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13906"><원신> 스토리 PV - 「번개를 쫓는 고독한 여정」</a>]]></content:encoded>
-      <guid isPermaLink="false">13906</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:23 +0000</lastBuildDate>
     <item>
       <title>「끝없는 전투」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/13996</link>
@@ -863,6 +853,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101320055035709.jpg"><br/><br/>콘텐츠 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16526">「거울 속 세계의 소리」콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">16526</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16573</link>
+      <description>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911193445107.jpg"><br/><br/>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16573">「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</a>]]></content:encoded>
+      <guid isPermaLink="false">16573</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:10:01 +0000</lastBuildDate>
-    <item>
-      <title>累計ログイン＆キャラクターお試しイベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/7038</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201129/2020112912553764088.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7038">累計ログイン＆キャラクターお試しイベント紹介</a>]]></description>
-      <guid isPermaLink="false">7038</guid>
-      <pubDate>Sun, 29 Nov 2020 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:20 +0000</lastBuildDate>
     <item>
       <title>「飛行挑戦」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/7122</link>
@@ -729,6 +722,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214404222164.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16450">「鏡花聴世」イベント紹介</a>]]></description>
       <guid isPermaLink="false">16450</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「謎境一騎」イベント予告</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16552</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101811455058143.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16552">「謎境一騎」イベント予告</a>]]></description>
+      <guid isPermaLink="false">16552</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

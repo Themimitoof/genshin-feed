@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-10-19T03:10:02.722464+00:00</updated>
+  <updated>2021-10-19T04:12:26.266960+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14149</id>
-    <title>"Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, ao seu dispor!"</title>
-    <updated>2021-07-15T12:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071509404149993.png"><br/><br/>Hoje iremos apresentar a vocês a filha da Comissão Yashiro do Shogunato, do Clã Kamisato de Inazuma, Kamisato Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14149">"Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, ao seu dispor!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14149" rel="alternate"/>
-    <summary>Hoje iremos apresentar a vocês a filha da Comissão Yashiro do Shogunato, do Clã Kamisato de Inazuma, Kamisato Ayaka.</summary>
-    <published>2021-07-15T12:10:00+01:00</published>
-  </entry>
   <entry>
     <id>14192</id>
     <title>Diário em Inazuma - Edição 2: Mecanismos e Dispositivos Incríveis</title>
@@ -921,5 +912,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16546" rel="alternate"/>
     <summary>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.</summary>
     <published>2021-10-15T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16570</id>
+    <title>Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</title>
+    <updated>2021-10-19T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911102219893.jpg"><br/><br/>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16570">Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16570" rel="alternate"/>
+    <summary>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.</summary>
+    <published>2021-10-19T12:00:00+01:00</published>
   </entry>
 </feed>

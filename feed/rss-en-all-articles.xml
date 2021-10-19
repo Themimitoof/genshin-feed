@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 04:11:53 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -274,14 +274,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/13894</link>
-      <description>"There will always be those who dare to brave the lightning's glow."</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070222011311966.jpg"><br/><br/>"There will always be those who dare to brave the lightning's glow."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/13894">Story Teaser: The Solitary Pursuit of Lightning | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">13894</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>"Never-Ending Battle" Gameplay Details</title>
@@ -1168,12 +1160,12 @@ The answer he seeks lies in both the fierce momentum of battles and the journey 
       <pubDate>Thu, 14 Oct 2021 10:30:00 -0400</pubDate>
     </item>
     <item>
-      <title>The Inazuma Diaries Vol. 1: The Mysterious Electro Element</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14141</link>
-      <description>Our journey to Inazuma is about to begin. What lies in store in this land that is suffused with Electro? Let's find out!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420202096608.jpg"><br/><br/>Our journey to Inazuma is about to begin. What lies in store in this land that is suffused with Electro? Let's find out!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14141">The Inazuma Diaries Vol. 1: The Mysterious Electro Element</a>]]></content:encoded>
-      <guid isPermaLink="false">14141</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 -0400</pubDate>
+      <title>"Labyrinth Warriors" Event: Take part to invite "Blazing Riff" Xinyan (Pyro)!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16566</link>
+      <description>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911032855888.jpg"><br/><br/>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16566">"Labyrinth Warriors" Event: Take part to invite "Blazing Riff" Xinyan (Pyro)!</a>]]></content:encoded>
+      <guid isPermaLink="false">16566</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Character Teaser - "Kamisato Ayaka: The Homeward Heron" | Genshin Impact</title>
@@ -2056,6 +2048,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[The Genshin Impact Version 2.2 "Into the Perilous Labyrinth of Fog" update arrived on October 13. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16544">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content:encoded>
       <guid isPermaLink="false">16544</guid>
       <pubDate>Fri, 15 Oct 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Labyrinth Warriors" Event: Take part to invite "Blazing Riff" Xinyan (Pyro)!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16566</link>
+      <description>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911032855888.jpg"><br/><br/>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16566">"Labyrinth Warriors" Event: Take part to invite "Blazing Riff" Xinyan (Pyro)!</a>]]></content:encoded>
+      <guid isPermaLink="false">16566</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

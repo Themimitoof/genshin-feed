@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:10:03 +0000</lastBuildDate>
-    <item>
-      <title>Превью-страница версии 2.0 «Незыблемый бог, гибель иллюзий» уже доступна!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14161</link>
-      <description>Незыблемый бог, гибель иллюзий</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511274135736.png"><br/><br/>Незыблемый бог, гибель иллюзий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14161">Превью-страница версии 2.0 «Незыблемый бог, гибель иллюзий» уже доступна!</a>]]></content:encoded>
-      <guid isPermaLink="false">14161</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:30 +0000</lastBuildDate>
     <item>
       <title>«Мастер искусства Камисато Тати Дзюцу, Камисато Аяка, здесь!»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14134</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101515203131982.jpg"><br/><br/>Версия Genshin Impact 2.2 «Тайны туманного моря» вышла 13 октября. Вместе с ней начинается кампания по набору стримеров Genshin Impact на Twitch. Стримьте и выполняйте задания, чтобы получить Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16540">Кампания по набору стримеров Genshin Impact на Twitch</a>]]></content:encoded>
       <guid isPermaLink="false">16540</guid>
       <pubDate>Fri, 15 Oct 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Воины лабиринта»: Примите участие, чтобы получить в свой отряд персонажа «Пламенная Мелодия» Синь Янь (Пиро)</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16572</link>
+      <description>В период события выполняйте различные испытания «Мистической палаты оммё» и получайте истёртые скрижали, которые в Магазине события можно обменять на Камни Истока, Корону прозрения, материалы развития персонажей, материалы повышения талантов, Опыт героя, волшебную руду усиления и другие награды.</description>
+      <content:encoded><![CDATA[В период события выполняйте различные испытания «Мистической палаты оммё» и получайте истёртые скрижали, которые в Магазине события можно обменять на Камни Истока, Корону прозрения, материалы развития персонажей, материалы повышения талантов, Опыт героя, волшебную руду усиления и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16572">Событие «Воины лабиринта»: Примите участие, чтобы получить в свой отряд персонажа «Пламенная Мелодия» Синь Янь (Пиро)</a>]]></content:encoded>
+      <guid isPermaLink="false">16572</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

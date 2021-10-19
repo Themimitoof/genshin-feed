@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:09:58 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zur Spielweise von „Unaufhörliche Schlacht“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/13966</link>
-      <description>Hallo, Reisender! Die Aktion „Unaufhörliche Schlacht“ beginnt in Kürze!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210707/2021070717470631458.jpg"><br/><br/>Hallo, Reisender! Die Aktion „Unaufhörliche Schlacht“ beginnt in Kürze!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/13966">Erläuterungen zur Spielweise von „Unaufhörliche Schlacht“</a>]]></content:encoded>
-      <guid isPermaLink="false">13966</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:04 +0000</lastBuildDate>
     <item>
       <title>Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“ | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14023</link>
@@ -838,6 +830,14 @@ hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrin
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310194912683.jpg"><br/><br/>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16515">Erläuterungen zur Spielweise von „Klänge der Welt“</a>]]></content:encoded>
       <guid isPermaLink="false">16515</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aktion „Labyrinthkrieger“: Nimm teil und lade die Figur „Glühend heiße Musik – Xinyan (Pyro)“ ein.</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16568</link>
+      <description>Während des Aktionszeitraums kannst du durch die Prüfungen in der „Mystischen Onmyou-Kammer“ „zerschlissene Marken“ erhalten, die du beim Aktionshändler gegen Urgestein, die Krone der Weisheit, Material zur Verbesserung von Figuren, Material zur Verbesserung von Talenten, Eines Helden Weisheit, mystisches Verstärkungserz und andere Belohnungen eintauschen kannst. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911074169819.jpg"><br/><br/>Während des Aktionszeitraums kannst du durch die Prüfungen in der „Mystischen Onmyou-Kammer“ „zerschlissene Marken“ erhalten, die du beim Aktionshändler gegen Urgestein, die Krone der Weisheit, Material zur Verbesserung von Figuren, Material zur Verbesserung von Talenten, Eines Helden Weisheit, mystisches Verstärkungserz und andere Belohnungen eintauschen kannst. <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16568">Aktion „Labyrinthkrieger“: Nimm teil und lade die Figur „Glühend heiße Musik – Xinyan (Pyro)“ ein.</a>]]></content:encoded>
+      <guid isPermaLink="false">16568</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

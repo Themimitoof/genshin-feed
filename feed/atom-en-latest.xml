@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-10-19T03:09:54.539230+00:00</updated>
+  <updated>2021-10-19T04:11:47.475650+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14141</id>
-    <title>The Inazuma Diaries Vol. 1: The Mysterious Electro Element</title>
-    <updated>2021-07-15T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420202096608.jpg"><br/><br/>Our journey to Inazuma is about to begin. What lies in store in this land that is suffused with Electro? Let's find out!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14141">The Inazuma Diaries Vol. 1: The Mysterious Electro Element</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14141" rel="alternate"/>
-    <summary>Our journey to Inazuma is about to begin. What lies in store in this land that is suffused with Electro? Let's find out!</summary>
-    <published>2021-07-15T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>14123</id>
     <title>Character Teaser - "Kamisato Ayaka: The Homeward Heron" | Genshin Impact</title>
@@ -998,5 +989,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/16544" rel="alternate"/>
     <summary>The Genshin Impact Version 2.2 "Into the Perilous Labyrinth of Fog" update arrived on October 13. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
     <published>2021-10-15T18:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16566</id>
+    <title>"Labyrinth Warriors" Event: Take part to invite "Blazing Riff" Xinyan (Pyro)!</title>
+    <updated>2021-10-19T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911032855888.jpg"><br/><br/>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16566">"Labyrinth Warriors" Event: Take part to invite "Blazing Riff" Xinyan (Pyro)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16566" rel="alternate"/>
+    <summary>During the event, you can obtain Aged Tokens upon completing the Mystic Onmyou Chamber. Aged Tokens can be exchanged in the event shop for Primogems, Crown of Insight, Character Level-Up Materials, Talent Level-Up Materials, Hero's Wit, Mystic Enhancement Ore, and Mora. If you meet all the requirements for Blazing Unison, you can exchange a number of Aged Tokens to invite "Blazing Riff" Xinyan (Pyro).</summary>
+    <published>2021-10-19T12:00:00-04:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:10:04 +0000</lastBuildDate>
-    <item>
-      <title>ธีมวิดีโอ Genshin Impact - "การเดินทางตามหาแสงแห่งสายฟ้า"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/13885</link>
-      <description>"จะต้องมีสิ่งมีชีวิตบนพื้นดิน ที่กล้าเผชิญหน้ากับความยิ่งใหญ่ของสายฟ้าเสมอ"</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070218382594130.jpg"><br/><br/>"จะต้องมีสิ่งมีชีวิตบนพื้นดิน ที่กล้าเผชิญหน้ากับความยิ่งใหญ่ของสายฟ้าเสมอ"<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/13885">ธีมวิดีโอ Genshin Impact - "การเดินทางตามหาแสงแห่งสายฟ้า"</a>]]></content:encoded>
-      <guid isPermaLink="false">13885</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:36 +0000</lastBuildDate>
     <item>
       <title>คำอธิบายเกมเพลย์ "การประลองที่ไม่มีสิ้นสุด"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/13961</link>
@@ -763,6 +755,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310354215048.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16518">คำอธิบายเกมเพลย์ "สดับฟังเสียงในโลกหล้า"</a>]]></description>
       <guid isPermaLink="false">16518</guid>
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>กิจกรรม "ทหารผู้กล้าแห่งแดนพิศวง": เข้าร่วมเพื่อเชิญ "เมโลดี้อันร้อนแรง - Xinyan (ไฟ)" เข้าร่วมทีม</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16576</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911304180608.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16576">กิจกรรม "ทหารผู้กล้าแห่งแดนพิศวง": เข้าร่วมเพื่อเชิญ "เมโลดี้อันร้อนแรง - Xinyan (ไฟ)" เข้าร่วมทีม</a>]]></description>
+      <guid isPermaLink="false">16576</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

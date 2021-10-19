@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-10-19T03:10:02.983540+00:00</updated>
+  <updated>2021-10-19T04:12:27.516070+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14016</id>
-    <title>Genshin Impact - Teaser da Versão 2.0: "A Deusa Imóvel e a Utopia Eterna"</title>
-    <updated>2021-07-09T21:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914363593009.jpg"><br/><br/>Uma tempestade vinda de longe chega, dividindo a eternidade. Flashes de relâmpagos cortam a escuridão, a sensação de magia permanece no ar.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14016">Genshin Impact - Teaser da Versão 2.0: "A Deusa Imóvel e a Utopia Eterna"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14016" rel="alternate"/>
-    <summary>Uma tempestade vinda de longe chega, dividindo a eternidade. Flashes de relâmpagos cortam a escuridão, a sensação de magia permanece no ar.</summary>
-    <published>2021-07-09T21:30:00+01:00</published>
-  </entry>
   <entry>
     <id>14038</id>
     <title>Detalhes do Novo Sistema de Oração de Arma, "Caminho Divino"</title>
@@ -913,5 +904,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16498" rel="alternate"/>
     <summary>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?</summary>
     <published>2021-10-14T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16570</id>
+    <title>Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</title>
+    <updated>2021-10-19T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911102219893.jpg"><br/><br/>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16570">Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16570" rel="alternate"/>
+    <summary>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.</summary>
+    <published>2021-10-19T12:00:00+01:00</published>
   </entry>
 </feed>

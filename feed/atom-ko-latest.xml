@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-10-19T03:10:01.789452+00:00</updated>
+  <updated>2021-10-19T04:12:22.249451+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14144</id>
-    <title>[이나즈마 수첩 1회] 신기한 「번개 원소」</title>
-    <updated>2021-07-15T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420373645476.jpg"><br/><br/>﻿이나즈마로 향하는 모험이 곧 시작될 거야! 이 「번개 원소」와 밀접한 관계가 있는 국가에서는 과연 어떤 새로운 일들이 우릴 기다리고 있을까? 같이 확인해보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14144">[이나즈마 수첩 1회] 신기한 「번개 원소」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14144" rel="alternate"/>
-    <summary>﻿이나즈마로 향하는 모험이 곧 시작될 거야! 이 「번개 원소」와 밀접한 관계가 있는 국가에서는 과연 어떤 새로운 일들이 우릴 기다리고 있을까? 같이 확인해보자!</summary>
-    <published>2021-07-15T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>14117</id>
     <title>&lt;원신&gt; 카미사토 아야카 캐릭터 PV - 「백로귀정」</title>
@@ -960,5 +951,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16550" rel="alternate"/>
     <summary>Twitch &lt;원신&gt; 2.2 버전 스트리머 모집 이벤트가 오픈했습니다</summary>
     <published>2021-10-15T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16573</id>
+    <title>「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</title>
+    <updated>2021-10-19T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911193445107.jpg"><br/><br/>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16573">「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16573" rel="alternate"/>
+    <summary>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.</summary>
+    <published>2021-10-19T12:00:00+09:00</published>
   </entry>
 </feed>

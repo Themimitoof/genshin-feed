@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 19 Oct 2021 03:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 04:12:26 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -290,16 +290,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>&lt;원신&gt; 스토리 PV - 「번개를 쫓는 고독한 여정」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/13906</link>
-      <description>「언젠가 뇌정에 맞설 자가 나타날 거야」
-끝없는 폭풍우에 맞서기 전, 떠돌이 무사가 옛일을 이야기한다…</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210703/2021070312501978804.jpg"><br/><br/>「언젠가 뇌정에 맞설 자가 나타날 거야」
-끝없는 폭풍우에 맞서기 전, 떠돌이 무사가 옛일을 이야기한다…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/13906"><원신> 스토리 PV - 「번개를 쫓는 고독한 여정」</a>]]></content:encoded>
-      <guid isPermaLink="false">13906</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「끝없는 전투」 콘텐츠 안내</title>
@@ -1147,12 +1137,12 @@
       <pubDate>Thu, 14 Oct 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>[이나즈마 수첩 1회] 신기한 「번개 원소」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14144</link>
-      <description>﻿이나즈마로 향하는 모험이 곧 시작될 거야! 이 「번개 원소」와 밀접한 관계가 있는 국가에서는 과연 어떤 새로운 일들이 우릴 기다리고 있을까? 같이 확인해보자!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420373645476.jpg"><br/><br/>﻿이나즈마로 향하는 모험이 곧 시작될 거야! 이 「번개 원소」와 밀접한 관계가 있는 국가에서는 과연 어떤 새로운 일들이 우릴 기다리고 있을까? 같이 확인해보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14144">[이나즈마 수첩 1회] 신기한 「번개 원소」</a>]]></content:encoded>
-      <guid isPermaLink="false">14144</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 +0900</pubDate>
+      <title>「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16573</link>
+      <description>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911193445107.jpg"><br/><br/>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16573">「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</a>]]></content:encoded>
+      <guid isPermaLink="false">16573</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>&lt;원신&gt; 카미사토 아야카 캐릭터 PV - 「백로귀정」</title>
@@ -1996,6 +1986,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101517575986095.jpg"><br/><br/>Twitch <원신> 2.2 버전 스트리머 모집 이벤트가 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16550">Twitch <원신> 2.2 버전 스트리머 모집</a>]]></content:encoded>
       <guid isPermaLink="false">16550</guid>
       <pubDate>Fri, 15 Oct 2021 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16573</link>
+      <description>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911193445107.jpg"><br/><br/>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16573">「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</a>]]></content:encoded>
+      <guid isPermaLink="false">16573</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
