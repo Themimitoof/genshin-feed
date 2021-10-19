@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 19 Oct 2021 12:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 13:16:44 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -230,16 +230,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Aperçu de l'histoire : « Voyage solitaire et poursuite de l'éclair »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/13888</link>
-      <description>« Il y aura toujours ceux qui oseront braver la lueur de l'éclair. »
-Avant de s'enfoncer dans l'orage sans fin, le samouraï vagabond se remémore le passé...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070219051799483.jpg"><br/><br/>« Il y aura toujours ceux qui oseront braver la lueur de l'éclair. »
-Avant de s'enfoncer dans l'orage sans fin, le samouraï vagabond se remémore le passé...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/13888">Genshin Impact - Aperçu de l'histoire : « Voyage solitaire et poursuite de l'éclair »</a>]]></content:encoded>
-      <guid isPermaLink="false">13888</guid>
-      <pubDate>Sun, 04 Jul 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Guerre sans fin »</title>
@@ -1018,12 +1008,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Avis sur la synchronisation entre compte PlayStation Network et Pass miHoYo</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14053</link>
-      <description>La synchronisation entre compte PlayStation Network (PSN) et Pass miHoYo sera disponible dans la version 2.0. Nous allons répondre à vos questions concernant la synchronisation entre comptes, la recharge, les cadeaux exclusifs, le multijoueur PlayStation et les amis.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921160011772.jpg"><br/><br/>La synchronisation entre compte PlayStation Network (PSN) et Pass miHoYo sera disponible dans la version 2.0. Nous allons répondre à vos questions concernant la synchronisation entre comptes, la recharge, les cadeaux exclusifs, le multijoueur PlayStation et les amis.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14053">Avis sur la synchronisation entre compte PlayStation Network et Pass miHoYo</a>]]></content:encoded>
-      <guid isPermaLink="false">14053</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
+      <title>Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16596</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920151233268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16596">Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</a>]]></description>
+      <guid isPermaLink="false">16596</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Mise à jour du système dans la version 2.0 : « Champs »</title>
@@ -1794,6 +1783,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911221219285.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16574">Événement « Guerriers du labyrinthe » : participez pour inviter Xinyan · Mélodie ardente (Pyro) dans votre équipe</a>]]></description>
       <guid isPermaLink="false">16574</guid>
       <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16596</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920151233268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16596">Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</a>]]></description>
+      <guid isPermaLink="false">16596</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
