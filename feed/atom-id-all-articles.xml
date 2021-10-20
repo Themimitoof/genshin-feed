@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-10-20T01:58:45.582385+00:00</updated>
+  <updated>2021-10-20T02:30:05.907232+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -275,15 +275,6 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14046</id>
-    <title>Pengumuman Terkait Fitur Cross-Save Antar Akun PSN dan miHoYo</title>
-    <updated>2021-07-09T22:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920303471145.jpg"><br/><br/>Dear Traveler,Fitur cross-save di v2.0 antar akun PlayStation Network (PSN) dan Akun miHoYo sudah siap loh! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14046">Pengumuman Terkait Fitur Cross-Save Antar Akun PSN dan miHoYo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14046" rel="alternate"/>
-    <summary>Dear Traveler,Fitur cross-save di v2.0 antar akun PlayStation Network (PSN) dan Akun miHoYo sudah siap loh! </summary>
-    <published>2021-07-09T22:00:00+07:00</published>
   </entry>
   <entry>
     <id>14096</id>
@@ -1180,13 +1171,13 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <published>2021-10-19T18:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14162</id>
-    <title>Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!</title>
-    <updated>2021-07-15T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511281725468.png"><br/><br/>Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14162">Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14162" rel="alternate"/>
-    <summary>Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!</summary>
-    <published>2021-07-15T12:00:00+07:00</published>
+    <id>16585</id>
+    <title>Descrição do Modo de Jogo "Guerreiros do Labirinto"</title>
+    <updated>2021-10-20T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914572428554.jpg"><br/><br/>Event baru Pejuang Labirin telah dibuka! Gerbang menuju Mystic Onmyou Chamber yang misterius telah mengurung monster-monster ganas di dalamnya. <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16585">Descrição do Modo de Jogo "Guerreiros do Labirinto"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16585" rel="alternate"/>
+    <summary>Event baru Pejuang Labirin telah dibuka! Gerbang menuju Mystic Onmyou Chamber yang misterius telah mengurung monster-monster ganas di dalamnya. </summary>
+    <published>2021-10-20T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>14127</id>
@@ -2081,5 +2072,14 @@ Fitur Pra-Unduh telah tersedia untuk versi PC dan mobile.</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16554" rel="alternate"/>
     <summary>Selain merchandise seri GENSHIN CONCERT 2021, kami juga secara khusus menyiapkan merchandise seri Wanderer's Troupe. Jangan sampai dilewatkan ya, Traveler!</summary>
     <published>2021-10-19T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16585</id>
+    <title>Descrição do Modo de Jogo "Guerreiros do Labirinto"</title>
+    <updated>2021-10-20T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914572428554.jpg"><br/><br/>Event baru Pejuang Labirin telah dibuka! Gerbang menuju Mystic Onmyou Chamber yang misterius telah mengurung monster-monster ganas di dalamnya. <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16585">Descrição do Modo de Jogo "Guerreiros do Labirinto"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16585" rel="alternate"/>
+    <summary>Event baru Pejuang Labirin telah dibuka! Gerbang menuju Mystic Onmyou Chamber yang misterius telah mengurung monster-monster ganas di dalamnya. </summary>
+    <published>2021-10-20T10:30:00+07:00</published>
   </entry>
 </feed>

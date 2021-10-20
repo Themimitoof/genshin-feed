@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-10-20T01:58:47.380071+00:00</updated>
+  <updated>2021-10-20T02:30:09.913911+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>7122</id>
-    <title>「飛行挑戦」イベント予告</title>
-    <updated>2020-12-02T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201202/2020120210101965208.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7122">「飛行挑戦」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/7122" rel="alternate"/>
-    <summary/>
-    <published>2020-12-02T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>7169</id>
     <title>「飛行挑戦」イベント紹介</title>
@@ -891,6 +882,15 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16552" rel="alternate"/>
     <summary/>
     <published>2021-10-19T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16565</id>
+    <title>「謎境一騎」イベント紹介</title>
+    <updated>2021-10-20T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910591716263.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16565">「謎境一騎」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16565" rel="alternate"/>
+    <summary/>
+    <published>2021-10-20T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>5917</id>
@@ -1933,15 +1933,6 @@
     <published>2021-10-19T18:00:00+09:00</published>
   </entry>
   <entry>
-    <id>12530</id>
-    <title>Ver.1.5鍾離壁紙公開！</title>
-    <updated>2021-05-02T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210502/2021050210393928401.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12530">Ver.1.5鍾離壁紙公開！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12530" rel="alternate"/>
-    <summary/>
-    <published>2021-05-02T12:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>12531</id>
     <title>ヒルチャールからのTips・「怒雷の境」</title>
     <updated>2021-05-03T10:30:00+09:00</updated>
@@ -2808,5 +2799,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915190555298.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16587">「原神オフラインオーケストラコンサート」グッズ情報第2期</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/16587" rel="alternate"/>
     <published>2021-10-19T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16565</id>
+    <title>「謎境一騎」イベント紹介</title>
+    <updated>2021-10-20T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910591716263.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16565">「謎境一騎」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16565" rel="alternate"/>
+    <summary/>
+    <published>2021-10-20T10:30:00+09:00</published>
   </entry>
 </feed>

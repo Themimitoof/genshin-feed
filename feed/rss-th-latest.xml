@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 20 Oct 2021 01:58:52 +0000</lastBuildDate>
-    <item>
-      <title>[บันทึก Inazuma ฉบับที่ 1] "ไฟฟ้า" ที่แสนลึกลับ</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14151</link>
-      <description>สวัสดี นักเดินทาง~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071510143484766.jpg"><br/><br/>สวัสดี นักเดินทาง~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14151">[บันทึก Inazuma ฉบับที่ 1] "ไฟฟ้า" ที่แสนลึกลับ</a>]]></content:encoded>
-      <guid isPermaLink="false">14151</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 02:30:21 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] ธีมวิดีโอตัวละคร Kamisato Ayaka - "กระเรียนขาวในลานบ้าน"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14153</link>
@@ -757,6 +749,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911265949350.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16575">ข่าวสารสินค้าที่ระลึกประจำ "คอนเสิร์ตซิมโฟนีออฟไลน์ของ Genshin Impact" ช่วงที่ 2</a>]]></description>
       <guid isPermaLink="false">16575</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16594</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101917164585836.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16594">คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</a>]]></description>
+      <guid isPermaLink="false">16594</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

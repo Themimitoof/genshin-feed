@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 20 Oct 2021 01:58:45 +0000</lastBuildDate>
-    <item>
-      <title>Ver.1.5鍾離壁紙公開！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12530</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210502/2021050210393928401.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12530">Ver.1.5鍾離壁紙公開！</a>]]></description>
-      <guid isPermaLink="false">12530</guid>
-      <pubDate>Sun, 02 May 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 02:30:05 +0000</lastBuildDate>
     <item>
       <title>ヒルチャールからのTips・「怒雷の境」</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12531</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915190555298.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16587">「原神オフラインオーケストラコンサート」グッズ情報第2期</a>]]></description>
       <guid isPermaLink="false">16587</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「謎境一騎」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16565</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910591716263.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16565">「謎境一騎」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">16565</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

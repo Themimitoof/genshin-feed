@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-10-20T01:58:52.660252+00:00</updated>
+  <updated>2021-10-20T02:30:21.964345+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14151</id>
-    <title>[บันทึก Inazuma ฉบับที่ 1] "ไฟฟ้า" ที่แสนลึกลับ</title>
-    <updated>2021-07-15T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071510143484766.jpg"><br/><br/>สวัสดี นักเดินทาง~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14151">[บันทึก Inazuma ฉบับที่ 1] "ไฟฟ้า" ที่แสนลึกลับ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14151" rel="alternate"/>
-    <summary>สวัสดี นักเดินทาง~</summary>
-    <published>2021-07-15T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>14153</id>
     <title>[Genshin Impact] ธีมวิดีโอตัวละคร Kamisato Ayaka - "กระเรียนขาวในลานบ้าน"</title>
@@ -870,5 +861,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911265949350.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16575">ข่าวสารสินค้าที่ระลึกประจำ "คอนเสิร์ตซิมโฟนีออฟไลน์ของ Genshin Impact" ช่วงที่ 2</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/16575" rel="alternate"/>
     <published>2021-10-19T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16594</id>
+    <title>คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</title>
+    <updated>2021-10-20T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101917164585836.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16594">คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/16594" rel="alternate"/>
+    <summary/>
+    <published>2021-10-20T10:30:00+07:00</published>
   </entry>
 </feed>

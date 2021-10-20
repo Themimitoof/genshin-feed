@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-10-20T01:58:50.863659+00:00</updated>
+  <updated>2021-10-20T02:30:18.029022+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -294,15 +294,6 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>14044</id>
-    <title>Comunicado sobre o suporte de salvamento cruzado para contas PSN e Contas miHoYo</title>
-    <updated>2021-07-09T22:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920063349951.jpg"><br/><br/>Caros Viajantes, como anunciado anteriormente, foi adicionado na versão 2.0 de Genshin Impact, o suporte de salvamento cruzado entre as plataformas PlayStation e iOS/Android/PC.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14044">Comunicado sobre o suporte de salvamento cruzado para contas PSN e Contas miHoYo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14044" rel="alternate"/>
-    <summary>Caros Viajantes, como anunciado anteriormente, foi adicionado na versão 2.0 de Genshin Impact, o suporte de salvamento cruzado entre as plataformas PlayStation e iOS/Android/PC.</summary>
-    <published>2021-07-09T22:00:00+01:00</published>
   </entry>
   <entry>
     <id>14102</id>
@@ -1201,13 +1192,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-10-19T18:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14212</id>
-    <title>O pré-download estará dispnível em breve</title>
-    <updated>2021-07-16T11:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609531251304.jpg"><br/><br/>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14212">O pré-download estará dispnível em breve</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14212" rel="alternate"/>
-    <summary>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.</summary>
-    <published>2021-07-16T11:00:00+01:00</published>
+    <id>16588</id>
+    <title>Descrição do Modo de Jogo "Guerreiros do Labirinto"</title>
+    <updated>2021-10-20T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915301043014.jpg"><br/><br/>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16588">Descrição do Modo de Jogo "Guerreiros do Labirinto"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16588" rel="alternate"/>
+    <summary>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! </summary>
+    <published>2021-10-20T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>14222</id>
@@ -2110,5 +2101,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16555" rel="alternate"/>
     <summary>Além da série Sonho Acompanhado da Orquestra, preparamos também os acessórios da série "Trupe Itinerante", Viajantes, fiquem ligados!</summary>
     <published>2021-10-19T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16588</id>
+    <title>Descrição do Modo de Jogo "Guerreiros do Labirinto"</title>
+    <updated>2021-10-20T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915301043014.jpg"><br/><br/>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16588">Descrição do Modo de Jogo "Guerreiros do Labirinto"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16588" rel="alternate"/>
+    <summary>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! </summary>
+    <published>2021-10-20T10:30:00+01:00</published>
   </entry>
 </feed>

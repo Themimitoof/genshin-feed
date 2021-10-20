@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-10-20T01:58:54.388154+00:00</updated>
+  <updated>2021-10-20T02:30:25.978152+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14140</id>
-    <title>[Sổ Tay Inazuma Kỳ 001] "Nguyên Tố Lôi" Thần Kỳ</title>
-    <updated>2021-07-15T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420143975194.jpg"><br/><br/>Hành trình đến Inazuma sắp bắt đầu, tại đất nước có quan hệ mật thiết với "nguyên tố Lôi" này, tồn tại những sự vật mới lạ nào chưa từng bắt gặp nhỉ? Chúng ta hãy cùng đến xem thử nhé!   <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14140">[Sổ Tay Inazuma Kỳ 001] "Nguyên Tố Lôi" Thần Kỳ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14140" rel="alternate"/>
-    <summary>Hành trình đến Inazuma sắp bắt đầu, tại đất nước có quan hệ mật thiết với "nguyên tố Lôi" này, tồn tại những sự vật mới lạ nào chưa từng bắt gặp nhỉ? Chúng ta hãy cùng đến xem thử nhé!   </summary>
-    <published>2021-07-15T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>14154</id>
     <title>[Genshin Impact] Video nhân vật Kamisato Ayaka - Bạch Hạc Quy Đình</title>
@@ -888,5 +879,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915311790405.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16589">Thông tin quà lưu niệm "Buổi Hoà Nhạc Offline Của Genshin Impact" kỳ II</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16589" rel="alternate"/>
     <published>2021-10-19T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16595</id>
+    <title>Hướng Dẫn Cách Chơi "Chiến Binh Bí Ẩn"</title>
+    <updated>2021-10-20T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101917181095484.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16595">Hướng Dẫn Cách Chơi "Chiến Binh Bí Ẩn"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16595" rel="alternate"/>
+    <published>2021-10-20T10:30:00+07:00</published>
   </entry>
 </feed>

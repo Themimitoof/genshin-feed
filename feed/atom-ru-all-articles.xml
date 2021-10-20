@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-10-20T01:58:52.602363+00:00</updated>
+  <updated>2021-10-20T02:30:21.911447+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -290,15 +290,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14054</id>
-    <title>Описание механики молитвы оружия «Путь воплощения»</title>
-    <updated>2021-07-09T22:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921252228747.jpg"><br/><br/>Механики молитвы оружия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14054">Описание механики молитвы оружия «Путь воплощения»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14054" rel="alternate"/>
-    <summary>Механики молитвы оружия</summary>
-    <published>2021-07-09T22:00:00+03:00</published>
   </entry>
   <entry>
     <id>14101</id>
@@ -1195,13 +1186,13 @@
     <published>2021-10-19T18:00:00+03:00</published>
   </entry>
   <entry>
-    <id>14193</id>
-    <title>«Записи об Инадзуме: Выпуск II»: механизмы и удивительные устройства</title>
-    <updated>2021-07-16T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519312837139.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14193">«Записи об Инадзуме: Выпуск II»: механизмы и удивительные устройства</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14193" rel="alternate"/>
-    <summary>Записи об Инадзуме</summary>
-    <published>2021-07-16T10:30:00+03:00</published>
+    <id>16580</id>
+    <title>Описание события «Воины лабиринта»</title>
+    <updated>2021-10-20T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914445195648.jpg"><br/><br/>Новое событие «Воины лабиринта» началось! В загадочной Мистической палате оммё томятся в заключении небывало свирепые чудовища. В одиночку преодолейте бесчисленные опасности и помогите Сики Тайсё восстановить фрагменты воспоминаний, чтобы исследовать таящееся в подземелье прошлое и завладеть его сокровищами...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16580">Описание события «Воины лабиринта»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16580" rel="alternate"/>
+    <summary>Новое событие «Воины лабиринта» началось! В загадочной Мистической палате оммё томятся в заключении небывало свирепые чудовища. В одиночку преодолейте бесчисленные опасности и помогите Сики Тайсё восстановить фрагменты воспоминаний, чтобы исследовать таящееся в подземелье прошлое и завладеть его сокровищами...</summary>
+    <published>2021-10-20T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>14202</id>
@@ -2099,5 +2090,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16557" rel="alternate"/>
     <summary>Помимо серии мерча GENSHIN CONCERT 2021 мы также подготовили серию украшений «Странствующий ансамбль». Не упустите!</summary>
     <published>2021-10-19T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16580</id>
+    <title>Описание события «Воины лабиринта»</title>
+    <updated>2021-10-20T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914445195648.jpg"><br/><br/>Новое событие «Воины лабиринта» началось! В загадочной Мистической палате оммё томятся в заключении небывало свирепые чудовища. В одиночку преодолейте бесчисленные опасности и помогите Сики Тайсё восстановить фрагменты воспоминаний, чтобы исследовать таящееся в подземелье прошлое и завладеть его сокровищами...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16580">Описание события «Воины лабиринта»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16580" rel="alternate"/>
+    <summary>Новое событие «Воины лабиринта» началось! В загадочной Мистической палате оммё томятся в заключении небывало свирепые чудовища. В одиночку преодолейте бесчисленные опасности и помогите Сики Тайсё восстановить фрагменты воспоминаний, чтобы исследовать таящееся в подземелье прошлое и завладеть его сокровищами...</summary>
+    <published>2021-10-20T10:30:00+03:00</published>
   </entry>
 </feed>

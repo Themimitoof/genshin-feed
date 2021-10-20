@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 20 Oct 2021 01:58:51 +0000</lastBuildDate>
-    <item>
-      <title>Описание механики молитвы оружия «Путь воплощения»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14054</link>
-      <description>Механики молитвы оружия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921252228747.jpg"><br/><br/>Механики молитвы оружия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14054">Описание механики молитвы оружия «Путь воплощения»</a>]]></content:encoded>
-      <guid isPermaLink="false">14054</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 02:30:19 +0000</lastBuildDate>
     <item>
       <title>Новое в Чайнике безмятежности версии 2.0. Садоводство</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14101</link>
@@ -810,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101819231254907.jpg"><br/><br/>Помимо серии мерча GENSHIN CONCERT 2021 мы также подготовили серию украшений «Странствующий ансамбль». Не упустите!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16557">Информация о мерче «Симфонический офлайн-концерт Genshin Impact» - Выпуск II</a>]]></content:encoded>
       <guid isPermaLink="false">16557</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Воины лабиринта»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16580</link>
+      <description>Новое событие «Воины лабиринта» началось! В загадочной Мистической палате оммё томятся в заключении небывало свирепые чудовища. В одиночку преодолейте бесчисленные опасности и помогите Сики Тайсё восстановить фрагменты воспоминаний, чтобы исследовать таящееся в подземелье прошлое и завладеть его сокровищами...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914445195648.jpg"><br/><br/>Новое событие «Воины лабиринта» началось! В загадочной Мистической палате оммё томятся в заключении небывало свирепые чудовища. В одиночку преодолейте бесчисленные опасности и помогите Сики Тайсё восстановить фрагменты воспоминаний, чтобы исследовать таящееся в подземелье прошлое и завладеть его сокровищами...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16580">Описание события «Воины лабиринта»</a>]]></content:encoded>
+      <guid isPermaLink="false">16580</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

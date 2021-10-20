@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-10-20T01:58:49.193182+00:00</updated>
+  <updated>2021-10-20T02:30:14.005337+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14212</id>
-    <title>O pré-download estará dispnível em breve</title>
-    <updated>2021-07-16T11:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609531251304.jpg"><br/><br/>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14212">O pré-download estará dispnível em breve</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14212" rel="alternate"/>
-    <summary>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.</summary>
-    <published>2021-07-16T11:00:00+01:00</published>
-  </entry>
   <entry>
     <id>14222</id>
     <title>"Genshin Impact" - Nascimento de um Dragão: nos bastidores da criação de Azhdaha</title>
@@ -919,5 +910,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16555" rel="alternate"/>
     <summary>Além da série Sonho Acompanhado da Orquestra, preparamos também os acessórios da série "Trupe Itinerante", Viajantes, fiquem ligados!</summary>
     <published>2021-10-19T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16588</id>
+    <title>Descrição do Modo de Jogo "Guerreiros do Labirinto"</title>
+    <updated>2021-10-20T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915301043014.jpg"><br/><br/>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16588">Descrição do Modo de Jogo "Guerreiros do Labirinto"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16588" rel="alternate"/>
+    <summary>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! </summary>
+    <published>2021-10-20T10:30:00+01:00</published>
   </entry>
 </feed>
