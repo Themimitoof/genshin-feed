@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 20 Oct 2021 02:29:50 +0000</lastBuildDate>
-    <item>
-      <title>2.0版本預告：「不動鳴神，泡影斷滅」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14015</link>
-      <description>異邦驚霆，破空幻恆常；轟雷斷影，神法如是觀。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914310182151.jpg"><br/><br/>異邦驚霆，破空幻恆常；轟雷斷影，神法如是觀。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14015">2.0版本預告：「不動鳴神，泡影斷滅」｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">14015</guid>
-      <pubDate>Fri, 09 Jul 2021 21:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 03:10:11 +0000</lastBuildDate>
     <item>
       <title>PlayStation™Network與米哈遊通行證帳號互通相關公告</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14031</link>
@@ -788,6 +780,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910263427341.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16563">「原神線下交響音樂會」周邊情報第二期</a>]]></description>
       <guid isPermaLink="false">16563</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「謎境懸兵」玩法說明</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16583</link>
+      <description>全新活動「謎境懸兵」即將開啟！詭幻叵測的「訣籙陰陽寮」之中，囚禁著空前凶戾的魔物。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915034833335.jpg"><br/><br/>全新活動「謎境懸兵」即將開啟！詭幻叵測的「訣籙陰陽寮」之中，囚禁著空前凶戾的魔物。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16583">「謎境懸兵」玩法說明</a>]]></content:encoded>
+      <guid isPermaLink="false">16583</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

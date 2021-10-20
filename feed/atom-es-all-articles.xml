@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-10-20T02:30:02.018156+00:00</updated>
+  <updated>2021-10-20T03:10:21.782697+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -270,15 +270,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14039</id>
-    <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
-    <updated>2021-07-09T22:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919510072795.jpg"><br/><br/>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14039">Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14039" rel="alternate"/>
-    <summary>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.</summary>
-    <published>2021-07-09T22:00:00+02:00</published>
   </entry>
   <entry>
     <id>14098</id>
@@ -1176,13 +1167,13 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <published>2021-10-19T18:00:00+02:00</published>
   </entry>
   <entry>
-    <id>14221</id>
-    <title>Función de predescarga</title>
-    <updated>2021-07-16T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610213684306.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14221">Función de predescarga</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14221" rel="alternate"/>
-    <summary>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</summary>
-    <published>2021-07-16T11:00:00+02:00</published>
+    <id>16586</id>
+    <title>Modo de juego del evento «Dominio del guerrero»</title>
+    <updated>2021-10-20T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915023655930.jpg"><br/><br/>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16586">Modo de juego del evento «Dominio del guerrero»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16586" rel="alternate"/>
+    <summary>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.</summary>
+    <published>2021-10-20T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14228</id>
@@ -2080,5 +2071,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <link href="https://genshin.mihoyo.com/es/news/detail/16581" rel="alternate"/>
     <summary>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!</summary>
     <published>2021-10-19T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16586</id>
+    <title>Modo de juego del evento «Dominio del guerrero»</title>
+    <updated>2021-10-20T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915023655930.jpg"><br/><br/>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16586">Modo de juego del evento «Dominio del guerrero»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16586" rel="alternate"/>
+    <summary>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.</summary>
+    <published>2021-10-20T10:30:00+02:00</published>
   </entry>
 </feed>

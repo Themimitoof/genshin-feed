@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Oct 2021 02:29:40 +0000</lastBuildDate>
-    <item>
-      <title>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14164</link>
-      <description>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511304763172.png"><br/><br/>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14164">The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!</a>]]></content:encoded>
-      <guid isPermaLink="false">14164</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 03:10:03 +0000</lastBuildDate>
     <item>
       <title>"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!"</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14135</link>
@@ -898,6 +888,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101819003591128.jpg"><br/><br/>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16556">Genshin Impact Offline Concert Merchandise Information - Phase II</a>]]></content:encoded>
       <guid isPermaLink="false">16556</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Labyrinth Warriors" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16582</link>
+      <description>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914515593797.jpg"><br/><br/>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16582">"Labyrinth Warriors" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">16582</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

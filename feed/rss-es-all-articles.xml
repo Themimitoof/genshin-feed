@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 20 Oct 2021 02:30:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 03:10:21 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -237,14 +237,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14039</link>
-      <description>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919510072795.jpg"><br/><br/>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14039">Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</a>]]></content:encoded>
-      <guid isPermaLink="false">14039</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</title>
@@ -1037,12 +1029,12 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Función de predescarga</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14221</link>
-      <description>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610213684306.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14221">Función de predescarga</a>]]></content:encoded>
-      <guid isPermaLink="false">14221</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0200</pubDate>
+      <title>Modo de juego del evento «Dominio del guerrero»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16586</link>
+      <description>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915023655930.jpg"><br/><br/>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16586">Modo de juego del evento «Dominio del guerrero»</a>]]></content:encoded>
+      <guid isPermaLink="false">16586</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</title>
@@ -1837,6 +1829,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914465386195.jpg"><br/><br/>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16581">Merchandising del GENSHIN CONCERT 2021 (II)</a>]]></content:encoded>
       <guid isPermaLink="false">16581</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego del evento «Dominio del guerrero»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16586</link>
+      <description>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915023655930.jpg"><br/><br/>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16586">Modo de juego del evento «Dominio del guerrero»</a>]]></content:encoded>
+      <guid isPermaLink="false">16586</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

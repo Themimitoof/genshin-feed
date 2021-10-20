@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 20 Oct 2021 02:29:45 +0000</lastBuildDate>
-    <item>
-      <title>Mise à jour du système dans la version 2.0 : « Champs »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14097</link>
-      <description>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071316502519252.jpg"><br/><br/>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14097">Mise à jour du système dans la version 2.0 : « Champs »</a>]]></content:encoded>
-      <guid isPermaLink="false">14097</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 03:10:07 +0000</lastBuildDate>
     <item>
       <title>Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14138</link>
@@ -785,6 +777,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920151233268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16596">Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</a>]]></description>
       <guid isPermaLink="false">16596</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Guerriers du labyrinthe »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16597</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920235969964.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16597">Détails de l'événement « Guerriers du labyrinthe »</a>]]></description>
+      <guid isPermaLink="false">16597</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

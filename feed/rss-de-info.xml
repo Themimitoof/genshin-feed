@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 20 Oct 2021 02:29:55 +0000</lastBuildDate>
-    <item>
-      <title>Ankündigung über die Verknüpfung von Konten beim PSN und miHoYo-Pässen</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14033</link>
-      <description>Hallo, liebe Reisende,die Funktion zur Interoperabilität von Konten beim PSN mit miHoYo-Päsen kommt in Version 2.0 zu euch. Hier werden wir eure Fragen zur Kontokompatibilität in den fünf Bereichen beantworten: Kontobindung, Aufladen, spezielle Belohnungen, Mehrspielermodus auf der Playstation und Freunde.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919263077596.jpg"><br/><br/>Hallo, liebe Reisende,die Funktion zur Interoperabilität von Konten beim PSN mit miHoYo-Päsen kommt in Version 2.0 zu euch. Hier werden wir eure Fragen zur Kontokompatibilität in den fünf Bereichen beantworten: Kontobindung, Aufladen, spezielle Belohnungen, Mehrspielermodus auf der Playstation und Freunde.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14033">Ankündigung über die Verknüpfung von Konten beim PSN und miHoYo-Pässen</a>]]></content:encoded>
-      <guid isPermaLink="false">14033</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 03:10:16 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zum Mechanismus vom Waffengebet „Göttlicher Kurs“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14034</link>
@@ -838,6 +830,14 @@ hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrin
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910270516733.jpg"><br/><br/>Von der Fan-Artikel-Reihe „GENSHIN CONCERT 2021“ abgesehen haben wir noch Accessoires der Reihe „Wanderorchester“ vorbereitet. Das dürft ihr nicht verpassen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16564">Informationen zu den Fan-Artikeln des Live-Konzerts von Genshin Impact vor Ort – Teil 2</a>]]></content:encoded>
       <guid isPermaLink="false">16564</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Labyrinthkrieger“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16584</link>
+      <description>Die neue Aktion „Labyrinthkrieger“ beginnt bald! Die großen Tore der bizarren und unberechenbaren Mystischen Onmyou-Kammer halten wilde Monster in ihrem Inneren gefangen. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914572674402.jpg"><br/><br/>Die neue Aktion „Labyrinthkrieger“ beginnt bald! Die großen Tore der bizarren und unberechenbaren Mystischen Onmyou-Kammer halten wilde Monster in ihrem Inneren gefangen. <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16584">Erläuterungen zur Spielweise von „Labyrinthkrieger“</a>]]></content:encoded>
+      <guid isPermaLink="false">16584</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

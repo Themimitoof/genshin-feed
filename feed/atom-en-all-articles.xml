@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-10-20T02:29:44.985172+00:00</updated>
+  <updated>2021-10-20T03:10:07.800785+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -311,15 +311,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>14005</id>
-    <title>Version 2.0 "The Immovable God and the Eternal Euthymia" Trailer | Genshin Impact</title>
-    <updated>2021-07-09T21:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914080497216.jpg"><br/><br/>A foreign thunderstorm tears the sky apart, splitting eternity. Flashes of lightning cut through the darkness, as a god's will manifests.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14005">Version 2.0 "The Immovable God and the Eternal Euthymia" Trailer | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14005" rel="alternate"/>
-    <summary>A foreign thunderstorm tears the sky apart, splitting eternity. Flashes of lightning cut through the darkness, as a god's will manifests.</summary>
-    <published>2021-07-09T21:30:00-04:00</published>
   </entry>
   <entry>
     <id>12389</id>
@@ -1303,15 +1294,13 @@ The answer he seeks lies in both the fierce momentum of battles and the journey 
     <published>2021-10-19T18:00:00-04:00</published>
   </entry>
   <entry>
-    <id>14164</id>
-    <title>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!</title>
-    <updated>2021-07-15T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511304763172.png"><br/><br/>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14164">The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14164" rel="alternate"/>
-    <summary>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!
-</summary>
-    <published>2021-07-15T12:00:00-04:00</published>
+    <id>16582</id>
+    <title>"Labyrinth Warriors" Gameplay Details</title>
+    <updated>2021-10-20T10:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914515593797.jpg"><br/><br/>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16582">"Labyrinth Warriors" Gameplay Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16582" rel="alternate"/>
+    <summary>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.</summary>
+    <published>2021-10-20T10:30:00-04:00</published>
   </entry>
   <entry>
     <id>14135</id>
@@ -2291,5 +2280,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/16556" rel="alternate"/>
     <summary>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~</summary>
     <published>2021-10-19T18:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16582</id>
+    <title>"Labyrinth Warriors" Gameplay Details</title>
+    <updated>2021-10-20T10:30:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914515593797.jpg"><br/><br/>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16582">"Labyrinth Warriors" Gameplay Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16582" rel="alternate"/>
+    <summary>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.</summary>
+    <published>2021-10-20T10:30:00-04:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 20 Oct 2021 02:29:58 +0000</lastBuildDate>
-    <item>
-      <title>Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14039</link>
-      <description>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919510072795.jpg"><br/><br/>Queridos viajeros: La sincronización entre las cuentas de PSN y miHoYo Pass estará disponible en la versión 2.0. Aquí responderemos cualquier duda que tengan sobre algunos aspectos de esta nueva función: sincronización de cuentas, recargas, recompensas especiales, el modo multijugador de PlayStation y amigos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14039">Anuncio sobre la sincronización entre cuentas de PSN y miHoYo Pass</a>]]></content:encoded>
-      <guid isPermaLink="false">14039</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 20 Oct 2021 03:10:19 +0000</lastBuildDate>
     <item>
       <title>Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14098</link>
@@ -806,6 +798,14 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914465386195.jpg"><br/><br/>Además del merchandising, hemos preparado accesorios de la serie Orquesta del Errante. ¡No los dejes pasar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16581">Merchandising del GENSHIN CONCERT 2021 (II)</a>]]></content:encoded>
       <guid isPermaLink="false">16581</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego del evento «Dominio del guerrero»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16586</link>
+      <description>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915023655930.jpg"><br/><br/>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16586">Modo de juego del evento «Dominio del guerrero»</a>]]></content:encoded>
+      <guid isPermaLink="false">16586</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

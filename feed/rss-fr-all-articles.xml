@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 20 Oct 2021 02:29:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 03:10:10 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -230,18 +230,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Détails de l'événement « Guerre sans fin »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14000</link>
-      <description>Bonjour, voyageurs ! L'événement « Guerre sans fin » est sur le point de commencer !
-
-Des monstres d'origine indéterminée ont débarqué sur l'Archipel de la pomme dorée avec la ferme intention de l'envahir.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210708/2021070816194379054.jpg"><br/><br/>Bonjour, voyageurs ! L'événement « Guerre sans fin » est sur le point de commencer !
-
-Des monstres d'origine indéterminée ont débarqué sur l'Archipel de la pomme dorée avec la ferme intention de l'envahir.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14000">Détails de l'événement « Guerre sans fin »</a>]]></content:encoded>
-      <guid isPermaLink="false">14000</guid>
-      <pubDate>Thu, 08 Jul 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
@@ -1015,12 +1003,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
-      <title>Mise à jour du système dans la version 2.0 : « Champs »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14097</link>
-      <description>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071316502519252.jpg"><br/><br/>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14097">Mise à jour du système dans la version 2.0 : « Champs »</a>]]></content:encoded>
-      <guid isPermaLink="false">14097</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0200</pubDate>
+      <title>Détails de l'événement « Guerriers du labyrinthe »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16597</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920235969964.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16597">Détails de l'événement « Guerriers du labyrinthe »</a>]]></description>
+      <guid isPermaLink="false">16597</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</title>
@@ -1790,6 +1777,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920151233268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16596">Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</a>]]></description>
       <guid isPermaLink="false">16596</guid>
       <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Guerriers du labyrinthe »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16597</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920235969964.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16597">Détails de l'événement « Guerriers du labyrinthe »</a>]]></description>
+      <guid isPermaLink="false">16597</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

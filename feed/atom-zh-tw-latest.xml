@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-10-20T02:29:49.496413+00:00</updated>
+  <updated>2021-10-20T03:10:11.027403+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14036</id>
-    <title>武器祈願機制「神鑄定軌」說明</title>
-    <updated>2021-07-09T22:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919312128110.jpg"><br/><br/>2.0版本更新完成後，武器祈願將新增特有祈願機制——「神鑄定軌」。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14036">武器祈願機制「神鑄定軌」說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14036" rel="alternate"/>
-    <summary>2.0版本更新完成後，武器祈願將新增特有祈願機制——「神鑄定軌」。</summary>
-    <published>2021-07-09T22:00:00+08:00</published>
-  </entry>
   <entry>
     <id>14106</id>
     <title>2.0版本系統更新快報：「種植」玩法</title>
@@ -892,5 +883,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910263427341.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16563">「原神線下交響音樂會」周邊情報第二期</a>]]></content>
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16563" rel="alternate"/>
     <published>2021-10-19T18:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16583</id>
+    <title>「謎境懸兵」玩法說明</title>
+    <updated>2021-10-20T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915034833335.jpg"><br/><br/>全新活動「謎境懸兵」即將開啟！詭幻叵測的「訣籙陰陽寮」之中，囚禁著空前凶戾的魔物。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16583">「謎境懸兵」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16583" rel="alternate"/>
+    <summary>全新活動「謎境懸兵」即將開啟！詭幻叵測的「訣籙陰陽寮」之中，囚禁著空前凶戾的魔物。</summary>
+    <published>2021-10-20T10:30:00+08:00</published>
   </entry>
 </feed>

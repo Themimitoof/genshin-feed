@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-10-20T02:29:45.044225+00:00</updated>
+  <updated>2021-10-20T03:10:07.860513+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14097</id>
-    <title>Mise à jour du système dans la version 2.0 : « Champs »</title>
-    <updated>2021-07-14T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071316502519252.jpg"><br/><br/>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14097">Mise à jour du système dans la version 2.0 : « Champs »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14097" rel="alternate"/>
-    <summary>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~</summary>
-    <published>2021-07-14T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>14138</id>
     <title>Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</title>
@@ -892,5 +883,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920151233268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16596">Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16596" rel="alternate"/>
     <published>2021-10-19T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16597</id>
+    <title>Détails de l'événement « Guerriers du labyrinthe »</title>
+    <updated>2021-10-20T10:30:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920235969964.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16597">Détails de l'événement « Guerriers du labyrinthe »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16597" rel="alternate"/>
+    <summary/>
+    <published>2021-10-20T10:30:00+02:00</published>
   </entry>
 </feed>
