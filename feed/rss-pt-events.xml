@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 25 Oct 2021 03:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 04:12:25 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -144,6 +144,13 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516322125332.jpg"><br/><br/>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16546">Recrutamento de streamers da nova versão de Genshin Impact de Twitch</a>]]></content:encoded>
       <guid isPermaLink="false">16546</guid>
       <pubDate>Fri, 15 Oct 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Evento de Coleta de Fotografias Multijogador "O Encontro da Luz e da Sombra"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16633</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115560845526.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16633">Evento de Coleta de Fotografias Multijogador "O Encontro da Luz e da Sombra"</a>]]></description>
+      <guid isPermaLink="false">16633</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-10-25T03:10:36.669332+00:00</updated>
+  <updated>2021-10-25T04:12:21.669662+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -136,6 +136,15 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16550" rel="alternate"/>
     <summary>Twitch &lt;원신&gt; 2.2 버전 스트리머 모집 이벤트가 오픈했습니다</summary>
     <published>2021-10-15T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16707</id>
+    <title>「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
+    <updated>2021-10-25T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102511332550958.png"><br/><br/>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16707">「빛과 그림자의 약속」 다인 모드 촬영 공모전</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16707" rel="alternate"/>
+    <summary>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다</summary>
+    <published>2021-10-25T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>693</id>
@@ -1282,15 +1291,6 @@
     <published>2021-10-20T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>14137</id>
-    <title>「이나즈마의 카미사토류 태도술 계승자-카미사토 아야카, 참전!」</title>
-    <updated>2021-07-15T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420075639768.png"><br/><br/>오늘 소개할 캐릭터는 「이나즈마 막부 야시로 봉행 카미사토 가문」에서 온 아가씨 - 카미사토 아야카야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14137">「이나즈마의 카미사토류 태도술 계승자-카미사토 아야카, 참전!」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14137" rel="alternate"/>
-    <summary>오늘 소개할 캐릭터는 「이나즈마 막부 야시로 봉행 카미사토 가문」에서 온 아가씨 - 카미사토 아야카야</summary>
-    <published>2021-07-15T12:10:00+09:00</published>
-  </entry>
-  <entry>
     <id>14204</id>
     <title>[이나즈마 수첩 2회] 기관 및 기묘한 장치</title>
     <updated>2021-07-16T10:30:00+09:00</updated>
@@ -2231,5 +2231,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16598" rel="alternate"/>
     <summary>콘텐츠 안내</summary>
     <published>2021-10-20T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16707</id>
+    <title>「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
+    <updated>2021-10-25T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102511332550958.png"><br/><br/>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16707">「빛과 그림자의 약속」 다인 모드 촬영 공모전</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16707" rel="alternate"/>
+    <summary>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다</summary>
+    <published>2021-10-25T12:00:00+09:00</published>
   </entry>
 </feed>

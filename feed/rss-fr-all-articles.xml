@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 25 Oct 2021 03:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 04:11:57 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -95,6 +95,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516480763764.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16547">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">16547</guid>
       <pubDate>Fri, 15 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16708</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102512092786867.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16708">Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</a>]]></description>
+      <guid isPermaLink="false">16708</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -1010,14 +1017,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
-      <title>Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14138</link>
-      <description>Quels mystères vous attendent dans cette nation étroitement liée à l'élément Électro ? Voyons un peu ensemble !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420084683183.jpg"><br/><br/>Quels mystères vous attendent dans cette nation étroitement liée à l'élément Électro ? Voyons un peu ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14138">Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</a>]]></content:encoded>
-      <guid isPermaLink="false">14138</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Genshin Impact - Histoire de personnage | Kamisato Ayaka : « Retour du Héron de givre »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14130</link>
       <description>La Commission culturelle se charge des affaires spirituelles et culturelles d'Inazuma. La discrète et consciencieuse « Shirasagi Himegimi » est régulièrement occupée à y gérer toutes sortes d'affaires officielles.</description>
@@ -1784,6 +1783,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920235969964.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16597">Détails de l'événement « Guerriers du labyrinthe »</a>]]></description>
       <guid isPermaLink="false">16597</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16708</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102512092786867.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16708">Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</a>]]></description>
+      <guid isPermaLink="false">16708</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

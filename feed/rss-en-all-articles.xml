@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Oct 2021 03:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 04:11:51 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -124,6 +124,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[The Genshin Impact Version 2.2 "Into the Perilous Labyrinth of Fog" update arrived on October 13. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16544">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content:encoded>
       <guid isPermaLink="false">16544</guid>
       <pubDate>Fri, 15 Oct 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Meeting of Light and Shadow" Co-Op Photo Submission Contest</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16629</link>
+      <description>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115281469819.png"><br/><br/>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16629">"Meeting of Light and Shadow" Co-Op Photo Submission Contest</a>]]></content:encoded>
+      <guid isPermaLink="false">16629</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Manga Update: Chapter 9 Part 1 is Going to Update!</title>
@@ -1166,14 +1174,6 @@ The answer he seeks lies in both the fierce momentum of battles and the journey 
       <pubDate>Wed, 20 Oct 2021 10:30:00 -0400</pubDate>
     </item>
     <item>
-      <title>"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!"</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14135</link>
-      <description>Today, we'd like to introduce to you the daughter of the Yashiro Commission's Kamisato Clan — Kamisato Ayaka!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419560733747.jpg"><br/><br/>Today, we'd like to introduce to you the daughter of the Yashiro Commission's Kamisato Clan — Kamisato Ayaka!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14135">"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!"</a>]]></content:encoded>
-      <guid isPermaLink="false">14135</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 -0400</pubDate>
-    </item>
-    <item>
       <title>The Inazuma Diaries Vol. 2 - Mechanisms and Wondrous Devices</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14194</link>
       <description>In the course of exploring Inazuma, you will often come across some interesting devices. Faced with different mechanisms, how should we find a way to crack them? Let's take a look!</description>
@@ -2052,6 +2052,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914515593797.jpg"><br/><br/>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16582">"Labyrinth Warriors" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">16582</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Meeting of Light and Shadow" Co-Op Photo Submission Contest</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16629</link>
+      <description>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115281469819.png"><br/><br/>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16629">"Meeting of Light and Shadow" Co-Op Photo Submission Contest</a>]]></content:encoded>
+      <guid isPermaLink="false">16629</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

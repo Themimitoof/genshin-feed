@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-10-25T03:10:18.746114+00:00</updated>
+  <updated>2021-10-25T04:11:51.839041+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14138</id>
-    <title>Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</title>
-    <updated>2021-07-15T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420084683183.jpg"><br/><br/>Quels mystères vous attendent dans cette nation étroitement liée à l'élément Électro ? Voyons un peu ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14138">Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14138" rel="alternate"/>
-    <summary>Quels mystères vous attendent dans cette nation étroitement liée à l'élément Électro ? Voyons un peu ensemble !</summary>
-    <published>2021-07-15T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>14130</id>
     <title>Genshin Impact - Histoire de personnage | Kamisato Ayaka : « Retour du Héron de givre »</title>
@@ -892,5 +883,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/16597" rel="alternate"/>
     <summary/>
     <published>2021-10-20T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16708</id>
+    <title>Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</title>
+    <updated>2021-10-25T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102512092786867.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16708">Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16708" rel="alternate"/>
+    <published>2021-10-25T12:00:00+02:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 25 Oct 2021 03:10:26 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14228</link>
-      <description>Grabado para siempre en una piedra, las montañas son testigos de su furia. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610312139747.jpg"><br/><br/>Grabado para siempre en una piedra, las montañas son testigos de su furia. <br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14228">Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</a>]]></content:encoded>
-      <guid isPermaLink="false">14228</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 04:12:05 +0000</lastBuildDate>
     <item>
       <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14255</link>
@@ -810,6 +802,13 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915023655930.jpg"><br/><br/>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16586">Modo de juego del evento «Dominio del guerrero»</a>]]></content:encoded>
       <guid isPermaLink="false">16586</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Evento de fotografía en modo multijugador «Encuentros de sombra y luz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16630</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115330059637.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16630">Evento de fotografía en modo multijugador «Encuentros de sombra y luz»</a>]]></description>
+      <guid isPermaLink="false">16630</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

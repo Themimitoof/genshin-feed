@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-10-25T03:10:41.911843+00:00</updated>
+  <updated>2021-10-25T04:12:29.761341+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -128,6 +128,15 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16540" rel="alternate"/>
     <summary>Версия Genshin Impact 2.2 «Тайны туманного моря» вышла 13 октября. Вместе с ней начинается кампания по набору стримеров Genshin Impact на Twitch. Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
     <published>2021-10-15T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16649</id>
+    <title>Совместное событие снимков «Встреча света и тени»</title>
+    <updated>2021-10-25T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102116593480046.png"><br/><br/>Сфотографируйтесь с другими Путешественниками. Место не имеет значения, но на каждой фотографии должно от двух до четырёх персонажей.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16649">Совместное событие снимков «Встреча света и тени»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16649" rel="alternate"/>
+    <summary>Сфотографируйтесь с другими Путешественниками. Место не имеет значения, но на каждой фотографии должно от двух до четырёх персонажей.</summary>
+    <published>2021-10-25T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>740</id>
@@ -1195,15 +1204,6 @@
     <published>2021-10-20T10:30:00+03:00</published>
   </entry>
   <entry>
-    <id>14202</id>
-    <title>Предзагрузка версии скоро будет доступна</title>
-    <updated>2021-07-16T11:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071522110676999.jpg"><br/><br/>Предзагрузка версии<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14202">Предзагрузка версии скоро будет доступна</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14202" rel="alternate"/>
-    <summary>Предзагрузка версии</summary>
-    <published>2021-07-16T11:00:00+03:00</published>
-  </entry>
-  <entry>
     <id>14215</id>
     <title>«Рождение дракона» - О работе над Аждахой | Genshin Impact</title>
     <updated>2021-07-16T12:00:00+03:00</updated>
@@ -2099,5 +2099,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16580" rel="alternate"/>
     <summary>Новое событие «Воины лабиринта» началось! В загадочной Мистической палате оммё томятся в заключении небывало свирепые чудовища. В одиночку преодолейте бесчисленные опасности и помогите Сики Тайсё восстановить фрагменты воспоминаний, чтобы исследовать таящееся в подземелье прошлое и завладеть его сокровищами...</summary>
     <published>2021-10-20T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16649</id>
+    <title>Совместное событие снимков «Встреча света и тени»</title>
+    <updated>2021-10-25T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102116593480046.png"><br/><br/>Сфотографируйтесь с другими Путешественниками. Место не имеет значения, но на каждой фотографии должно от двух до четырёх персонажей.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16649">Совместное событие снимков «Встреча света и тени»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16649" rel="alternate"/>
+    <summary>Сфотографируйтесь с другими Путешественниками. Место не имеет значения, но на каждой фотографии должно от двух до четырёх персонажей.</summary>
+    <published>2021-10-25T12:00:00+03:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 25 Oct 2021 03:10:36 +0000</lastBuildDate>
-    <item>
-      <title>"Genshin Impact" - Nascimento de um Dragão: nos bastidores da criação de Azhdaha</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14222</link>
-      <description>De todos os adversários já enfrentados pelos Viajantes, Azdaha certamente foi um dos mais memoráveis! Embarque agora mesmo com a equipe de desenvolvimento de Genshin Impact em uma aventura por trás dos bastidores de Azdaha!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610240669539.jpg"><br/><br/>De todos os adversários já enfrentados pelos Viajantes, Azdaha certamente foi um dos mais memoráveis! Embarque agora mesmo com a equipe de desenvolvimento de Genshin Impact em uma aventura por trás dos bastidores de Azdaha!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14222">"Genshin Impact" - Nascimento de um Dragão: nos bastidores da criação de Azhdaha</a>]]></content:encoded>
-      <guid isPermaLink="false">14222</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 04:12:21 +0000</lastBuildDate>
     <item>
       <title>"Diário em Inazuma - Edição 3" Novos Monstros Gigantes</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14251</link>
@@ -819,6 +811,13 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915301043014.jpg"><br/><br/>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16588">Descrição do Modo de Jogo "Guerreiros do Labirinto"</a>]]></content:encoded>
       <guid isPermaLink="false">16588</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Evento de Coleta de Fotografias Multijogador "O Encontro da Luz e da Sombra"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16633</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115560845526.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16633">Evento de Coleta de Fotografias Multijogador "O Encontro da Luz e da Sombra"</a>]]></description>
+      <guid isPermaLink="false">16633</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

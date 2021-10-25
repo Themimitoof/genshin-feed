@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 25 Oct 2021 03:10:34 +0000</lastBuildDate>
-    <item>
-      <title>「이나즈마의 카미사토류 태도술 계승자-카미사토 아야카, 참전!」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14137</link>
-      <description>오늘 소개할 캐릭터는 「이나즈마 막부 야시로 봉행 카미사토 가문」에서 온 아가씨 - 카미사토 아야카야</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420075639768.png"><br/><br/>오늘 소개할 캐릭터는 「이나즈마 막부 야시로 봉행 카미사토 가문」에서 온 아가씨 - 카미사토 아야카야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14137">「이나즈마의 카미사토류 태도술 계승자-카미사토 아야카, 참전!」</a>]]></content:encoded>
-      <guid isPermaLink="false">14137</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Oct 2021 04:12:18 +0000</lastBuildDate>
     <item>
       <title>[이나즈마 수첩 2회] 기관 및 기묘한 장치</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14204</link>
@@ -858,6 +850,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920412780115.jpg"><br/><br/>콘텐츠 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16598">「미로의 전사」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">16598</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16707</link>
+      <description>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102511332550958.png"><br/><br/>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16707">「빛과 그림자의 약속」 다인 모드 촬영 공모전</a>]]></content:encoded>
+      <guid isPermaLink="false">16707</guid>
+      <pubDate>Mon, 25 Oct 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
