@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Fri, 29 Oct 2021 03:10:41 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายกลไกการอธิษฐานอาวุธแบบใหม่ "วิถีแห่งเทพ"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14035</link>
-      <description>หลังจากอัปเดตเวอร์ชัน 2.0 เสร็จสิ้น การอธิษฐานอาวุธจะมีการเพิ่มกลไกการอธิษฐานแบบพิเศษ... "วิถีแห่งเทพ"</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919305270213.png"><br/><br/>หลังจากอัปเดตเวอร์ชัน 2.0 เสร็จสิ้น การอธิษฐานอาวุธจะมีการเพิ่มกลไกการอธิษฐานแบบพิเศษ... "วิถีแห่งเทพ"<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14035">คำอธิบายกลไกการอธิษฐานอาวุธแบบใหม่ "วิถีแห่งเทพ"</a>]]></content:encoded>
-      <guid isPermaLink="false">14035</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>ประกาศเกี่ยวกับการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14037</link>
-      <description>สวัสดี เหล่านักเดินทางที่รัก:ฟังก์ชันการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919340945131.png"><br/><br/>สวัสดี เหล่านักเดินทางที่รัก:ฟังก์ชันการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14037">ประกาศเกี่ยวกับการเชื่อมต่อระหว่างบัญชี PSN และ miHoYo</a>]]></content:encoded>
-      <guid isPermaLink="false">14037</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Oct 2021 04:12:25 +0000</lastBuildDate>
     <item>
       <title>พรีวิวอัปเดตระบบในเวอร์ชัน 2.0: เกมเพลย์ "ปลูกพืช"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14108</link>
@@ -760,6 +744,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101917164585836.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16594">คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</a>]]></description>
       <guid isPermaLink="false">16594</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>ตัวอย่างตัวละคร Genshin Impact - "Thoma: เพลิงผลาญคุ้มภัย"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16781</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102910241082827.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16781">ตัวอย่างตัวละคร Genshin Impact - "Thoma: เพลิงผลาญคุ้มภัย"</a>]]></description>
+      <guid isPermaLink="false">16781</guid>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"มีอะไรให้ฉันช่วยมั้ย?" - ผู้พิทักษ์จากแดนไกล Thoma</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16732</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715345230609.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16732">"มีอะไรให้ฉันช่วยมั้ย?" - ผู้พิทักษ์จากแดนไกล Thoma</a>]]></description>
+      <guid isPermaLink="false">16732</guid>
+      <pubDate>Fri, 29 Oct 2021 12:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

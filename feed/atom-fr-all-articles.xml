@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-10-29T03:10:20.471344+00:00</updated>
+  <updated>2021-10-29T04:12:00.618003+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -269,24 +269,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14009</id>
-    <title>Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-    <updated>2021-07-09T21:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914160329596.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14009">Genshin Impact - Bande-annonce de la version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14009" rel="alternate"/>
-    <summary/>
-    <published>2021-07-09T21:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14050</id>
-    <title>Nouveau système de vœux d'armes « Chemin divin »</title>
-    <updated>2021-07-09T22:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921093674906.jpg"><br/><br/>Après la mise à jour de version 2.0, un nouveau système de vœux d'armes sera disponible : le « Chemin divin ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14050">Nouveau système de vœux d'armes « Chemin divin »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14050" rel="alternate"/>
-    <summary>Après la mise à jour de version 2.0, un nouveau système de vœux d'armes sera disponible : le « Chemin divin ».</summary>
-    <published>2021-07-09T22:00:00+02:00</published>
   </entry>
   <entry>
     <id>14053</id>
@@ -1156,22 +1138,21 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-10-20T10:30:00+02:00</published>
   </entry>
   <entry>
-    <id>14130</id>
-    <title>Genshin Impact - Histoire de personnage | Kamisato Ayaka : « Retour du Héron de givre »</title>
-    <updated>2021-07-15T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419494847166.jpg"><br/><br/>La Commission culturelle se charge des affaires spirituelles et culturelles d'Inazuma. La discrète et consciencieuse « Shirasagi Himegimi » est régulièrement occupée à y gérer toutes sortes d'affaires officielles.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14130">Genshin Impact - Histoire de personnage | Kamisato Ayaka : « Retour du Héron de givre »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14130" rel="alternate"/>
-    <summary>La Commission culturelle se charge des affaires spirituelles et culturelles d'Inazuma. La discrète et consciencieuse « Shirasagi Himegimi » est régulièrement occupée à y gérer toutes sortes d'affaires officielles.</summary>
-    <published>2021-07-15T12:00:00+02:00</published>
+    <id>16785</id>
+    <title>Genshin Impact - Démo personnage : « Thomas : Protection ardente »</title>
+    <updated>2021-10-29T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102910313321498.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16785">Genshin Impact - Démo personnage : « Thomas : Protection ardente »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16785" rel="alternate"/>
+    <published>2021-10-29T12:00:00+02:00</published>
   </entry>
   <entry>
-    <id>14158</id>
-    <title>L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !</title>
-    <updated>2021-07-15T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071514303487484.jpg"><br/><br/>L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14158">L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14158" rel="alternate"/>
-    <summary>L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !</summary>
-    <published>2021-07-15T12:00:00+02:00</published>
+    <id>16737</id>
+    <title>« Je suis là si vous avez besoin d'aide. » - Thomas · Protecteur venu de loin</title>
+    <updated>2021-10-29T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102716493268566.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16737">« Je suis là si vous avez besoin d'aide. » - Thomas · Protecteur venu de loin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16737" rel="alternate"/>
+    <summary/>
+    <published>2021-10-29T12:10:00+02:00</published>
   </entry>
   <entry>
     <id>14136</id>
@@ -2037,5 +2018,22 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102512092786867.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16708">Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16708" rel="alternate"/>
     <published>2021-10-25T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16785</id>
+    <title>Genshin Impact - Démo personnage : « Thomas : Protection ardente »</title>
+    <updated>2021-10-29T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102910313321498.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16785">Genshin Impact - Démo personnage : « Thomas : Protection ardente »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16785" rel="alternate"/>
+    <published>2021-10-29T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16737</id>
+    <title>« Je suis là si vous avez besoin d'aide. » - Thomas · Protecteur venu de loin</title>
+    <updated>2021-10-29T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102716493268566.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16737">« Je suis là si vous avez besoin d'aide. » - Thomas · Protecteur venu de loin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16737" rel="alternate"/>
+    <summary/>
+    <published>2021-10-29T12:10:00+02:00</published>
   </entry>
 </feed>

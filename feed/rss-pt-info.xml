@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 29 Oct 2021 03:10:36 +0000</lastBuildDate>
-    <item>
-      <title>Prévia da Atualização do Sistema da Versão 2.0 - Modo de Jogo de Plantação</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14102</link>
-      <description>Olá Viajantes~ Adicionamos na versão 2.0 o modo de jogo Plantação. Curiosos para conhecerem um pouco mais? Embarquem nesta aventura junto conosco que iremos te passar detalhes sobre esse novo modo de jogo.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317144473506.jpg"><br/><br/>Olá Viajantes~ Adicionamos na versão 2.0 o modo de jogo Plantação. Curiosos para conhecerem um pouco mais? Embarquem nesta aventura junto conosco que iremos te passar detalhes sobre esse novo modo de jogo.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14102">Prévia da Atualização do Sistema da Versão 2.0 - Modo de Jogo de Plantação</a>]]></content:encoded>
-      <guid isPermaLink="false">14102</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Diário em Inazuma - Edição 1: Elemento Electro Misterioso</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14148</link>
-      <description>A jornada para Inazuma está prestes a começar! O que está nos esperando neste reino intimamente conetado ao elemento Electro? Vamos dar uma conferida agora mesmo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071509210221995.jpg"><br/><br/>A jornada para Inazuma está prestes a começar! O que está nos esperando neste reino intimamente conetado ao elemento Electro? Vamos dar uma conferida agora mesmo!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14148">Diário em Inazuma - Edição 1: Elemento Electro Misterioso</a>]]></content:encoded>
-      <guid isPermaLink="false">14148</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Oct 2021 04:12:20 +0000</lastBuildDate>
     <item>
       <title>Teaser da Personagem Kamisato Ayaka de "Genshin Impact" - "Retorno da Garça"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14124</link>
@@ -813,6 +797,22 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915301043014.jpg"><br/><br/>Novo Evento "Guerreiros do Labirinto" Disponível Em Breve! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16588">Descrição do Modo de Jogo "Guerreiros do Labirinto"</a>]]></content:encoded>
       <guid isPermaLink="false">16588</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Demo de Novo Personagem - "Thoma: Defesa Ardente" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16773</link>
+      <description>Com a companhia do extrovertido Thoma, tudo se torna muito mais divertido!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818101693407.jpg"><br/><br/>Com a companhia do extrovertido Thoma, tudo se torna muito mais divertido!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16773">Demo de Novo Personagem - "Thoma: Defesa Ardente" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16773</guid>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Estou bem aqui se precisar de ajuda." - "Protetor de Longe" - Thoma</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16730</link>
+      <description>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715243137146.png"><br/><br/>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16730">"Estou bem aqui se precisar de ajuda." - "Protetor de Longe" - Thoma</a>]]></content:encoded>
+      <guid isPermaLink="false">16730</guid>
+      <pubDate>Fri, 29 Oct 2021 12:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-10-29T03:10:36.010699+00:00</updated>
+  <updated>2021-10-29T04:12:19.634998+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14251</id>
-    <title>"Diário em Inazuma - Edição 3" Novos Monstros Gigantes</title>
-    <updated>2021-07-17T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071708192987839.png"><br/><br/>Olá Viajante, nesta edição do Diário em Inazuma, vamos dar uma olhada nos novos monstros.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14251">"Diário em Inazuma - Edição 3" Novos Monstros Gigantes</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14251" rel="alternate"/>
-    <summary>Olá Viajante, nesta edição do Diário em Inazuma, vamos dar uma olhada nos novos monstros.</summary>
-    <published>2021-07-17T10:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14247</id>
-    <title>"Diário em Inazuma - Edição 4" Especialidades Nunca Antes Vistas</title>
-    <updated>2021-07-18T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071622345611967.jpg"><br/><br/>Olá Viajantes~ Nesta edição do Diário em Inazuma iremos fazer um tour pelo ambiente natural de Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14247">"Diário em Inazuma - Edição 4" Especialidades Nunca Antes Vistas</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14247" rel="alternate"/>
-    <summary>Olá Viajantes~ Nesta edição do Diário em Inazuma iremos fazer um tour pelo ambiente natural de Inazuma.</summary>
-    <published>2021-07-18T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>14290</id>
     <title>Anúncio de Atualização da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna"</title>
@@ -919,5 +901,23 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16633" rel="alternate"/>
     <summary/>
     <published>2021-10-25T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16773</id>
+    <title>Demo de Novo Personagem - "Thoma: Defesa Ardente" | Genshin Impact</title>
+    <updated>2021-10-29T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818101693407.jpg"><br/><br/>Com a companhia do extrovertido Thoma, tudo se torna muito mais divertido!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16773">Demo de Novo Personagem - "Thoma: Defesa Ardente" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16773" rel="alternate"/>
+    <summary>Com a companhia do extrovertido Thoma, tudo se torna muito mais divertido!</summary>
+    <published>2021-10-29T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16730</id>
+    <title>"Estou bem aqui se precisar de ajuda." - "Protetor de Longe" - Thoma</title>
+    <updated>2021-10-29T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715243137146.png"><br/><br/>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16730">"Estou bem aqui se precisar de ajuda." - "Protetor de Longe" - Thoma</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16730" rel="alternate"/>
+    <summary>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.</summary>
+    <published>2021-10-29T12:10:00+01:00</published>
   </entry>
 </feed>

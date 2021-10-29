@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 29 Oct 2021 03:10:44 +0000</lastBuildDate>
-    <item>
-      <title>Chi tiết cơ chế Cầu Nguyện Vũ Khí - "Định Chuẩn Thần Đúc"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14048</link>
-      <description>Sau khi cập nhật phiên bản 2.0, Cầu Nguyện Vũ Khí sẽ thêm mới cơ chế cầu nguyện đặc biệt - "Định Chuẩn Thần Đúc"</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920540742800.jpg"><br/><br/>Sau khi cập nhật phiên bản 2.0, Cầu Nguyện Vũ Khí sẽ thêm mới cơ chế cầu nguyện đặc biệt - "Định Chuẩn Thần Đúc"<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14048">Chi tiết cơ chế Cầu Nguyện Vũ Khí - "Định Chuẩn Thần Đúc"</a>]]></content:encoded>
-      <guid isPermaLink="false">14048</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Thông báo về việc liên kết tài khoản PSN và tài khoản Thẻ Thông Hành miHoYo</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14052</link>
-      <description>Nhà Lữ Hành thân mến:Tính năng liên kết tài khoản PSN và Thẻ Thông Hành miHoYo sắp ra mắt trong phiên bản 2.0. Tại đây chúng tôi sẽ giải đáp cho các bạn các vấn đề về liên kết tài khoản trên 5 phương diện là liên kết tài khoản, nạp, thưởng đặc biệt, chế độ nhiều người chơi trên Playstation và bạn bè.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921131721710.jpg"><br/><br/>Nhà Lữ Hành thân mến:Tính năng liên kết tài khoản PSN và Thẻ Thông Hành miHoYo sắp ra mắt trong phiên bản 2.0. Tại đây chúng tôi sẽ giải đáp cho các bạn các vấn đề về liên kết tài khoản trên 5 phương diện là liên kết tài khoản, nạp, thưởng đặc biệt, chế độ nhiều người chơi trên Playstation và bạn bè.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14052">Thông báo về việc liên kết tài khoản PSN và tài khoản Thẻ Thông Hành miHoYo</a>]]></content:encoded>
-      <guid isPermaLink="false">14052</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Oct 2021 04:12:28 +0000</lastBuildDate>
     <item>
       <title>Bản tin cập nhật hệ thống phiên bản 2.0: Tính năng "Trồng Trọt"</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14100</link>
@@ -777,6 +761,20 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101917181095484.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16595">Hướng Dẫn Cách Chơi "Chiến Binh Bí Ẩn"</a>]]></description>
       <guid isPermaLink="false">16595</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giới thiệu nhân vật trong Genshin Impact - Thoma: Ngọn Lửa Bảo Vệ</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16783</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102910260088955.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16783">Giới thiệu nhân vật trong Genshin Impact - Thoma: Ngọn Lửa Bảo Vệ</a>]]></description>
+      <guid isPermaLink="false">16783</guid>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Có chuyện gì cần tôi giúp đỡ không?" - Người Bảo Vệ Phương Xa - Thoma</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16733</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715391444155.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16733">"Có chuyện gì cần tôi giúp đỡ không?" - Người Bảo Vệ Phương Xa - Thoma</a>]]></description>
+      <guid isPermaLink="false">16733</guid>
+      <pubDate>Fri, 29 Oct 2021 12:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

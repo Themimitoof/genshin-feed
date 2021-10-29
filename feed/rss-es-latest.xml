@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 29 Oct 2021 03:10:25 +0000</lastBuildDate>
-    <item>
-      <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14255</link>
-      <description>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710005313971.png"><br/><br/>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14255">Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</a>]]></content:encoded>
-      <guid isPermaLink="false">14255</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14246</link>
-      <description>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071621161484750.jpg"><br/><br/>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14246">Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</a>]]></content:encoded>
-      <guid isPermaLink="false">14246</guid>
-      <pubDate>Sun, 18 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Oct 2021 04:12:07 +0000</lastBuildDate>
     <item>
       <title>Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14289</link>
@@ -809,6 +793,22 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115330059637.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16630">Evento de fotografía en modo multijugador «Encuentros de sombra y luz»</a>]]></description>
       <guid isPermaLink="false">16630</guid>
       <pubDate>Mon, 25 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Thoma: Defensa ardiente</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16763</link>
+      <description>A Thoma no solo se le da bien hacer amigos, sino también crear un ambiente animado y divertido en cualquier momento.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102817541357783.jpg"><br/><br/>A Thoma no solo se le da bien hacer amigos, sino también crear un ambiente animado y divertido en cualquier momento.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16763">Demo de nuevo personaje de Genshin Impact - Thoma: Defensa ardiente</a>]]></content:encoded>
+      <guid isPermaLink="false">16763</guid>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¿En qué puedo ayudar? - Thoma, el Protector de Tierras Lejanas</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16744</link>
+      <description>Viajeros \ (^ o ^) / ~El personaje que les presentaremos hoy es Thoma.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102810223322118.png"><br/><br/>Viajeros \ (^ o ^) / ~El personaje que les presentaremos hoy es Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16744">¿En qué puedo ayudar? - Thoma, el Protector de Tierras Lejanas</a>]]></content:encoded>
+      <guid isPermaLink="false">16744</guid>
+      <pubDate>Fri, 29 Oct 2021 12:10:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

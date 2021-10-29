@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-10-29T03:10:14.613109+00:00</updated>
+  <updated>2021-10-29T04:11:52.335463+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14194</id>
-    <title>The Inazuma Diaries Vol. 2 - Mechanisms and Wondrous Devices</title>
-    <updated>2021-07-16T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519435765892.jpg"><br/><br/>In the course of exploring Inazuma, you will often come across some interesting devices. Faced with different mechanisms, how should we find a way to crack them? Let's take a look!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14194">The Inazuma Diaries Vol. 2 - Mechanisms and Wondrous Devices</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14194" rel="alternate"/>
-    <summary>In the course of exploring Inazuma, you will often come across some interesting devices. Faced with different mechanisms, how should we find a way to crack them? Let's take a look!</summary>
-    <published>2021-07-16T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14229</id>
-    <title>The Birth of a Dragon: A Behind the Scenes Look At the Creation of Azhdaha | Genshin Impact</title>
-    <updated>2021-07-16T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610321368396.jpg"><br/><br/>Etched forever in stone, the mountains bear witness to his power. Of all the adversaries the Traveler has faced, Azhdaha has remained one of the most memorable. Let's take a look at how the Genshin Impact team brought this majestic creation to life!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14229">The Birth of a Dragon: A Behind the Scenes Look At the Creation of Azhdaha | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14229" rel="alternate"/>
-    <summary>Etched forever in stone, the mountains bear witness to his power. Of all the adversaries the Traveler has faced, Azhdaha has remained one of the most memorable. Let's take a look at how the Genshin Impact team brought this majestic creation to life!</summary>
-    <published>2021-07-16T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>14257</id>
     <title>The Inazuma Diaries Vol. 3: New Monsters!</title>
@@ -996,5 +978,27 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/16629" rel="alternate"/>
     <summary>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.</summary>
     <published>2021-10-25T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16770</id>
+    <title>Character Demo - "Thoma: Blazing Defense" | Genshin Impact</title>
+    <updated>2021-10-29T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818041086480.jpg"><br/><br/>With the sociable Thoma, there's always a lot of lively encounters and fun to be had.
+It's just that such excitement occasionally attracts some uninvited guests...
+But no need to worry, because Thoma will protect you.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16770">Character Demo - "Thoma: Blazing Defense" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16770" rel="alternate"/>
+    <summary>With the sociable Thoma, there's always a lot of lively encounters and fun to be had.
+It's just that such excitement occasionally attracts some uninvited guests...
+But no need to worry, because Thoma will protect you.</summary>
+    <published>2021-10-29T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16729</id>
+    <title>"Anything I can lend a hand with?" — "Protector From Afar" Thoma</title>
+    <updated>2021-10-29T12:10:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715235240801.png"><br/><br/>Today, we will be introducing a new character, Thoma!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16729">"Anything I can lend a hand with?" — "Protector From Afar" Thoma</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16729" rel="alternate"/>
+    <summary>Today, we will be introducing a new character, Thoma!</summary>
+    <published>2021-10-29T12:10:00-04:00</published>
   </entry>
 </feed>

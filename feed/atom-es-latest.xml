@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-10-29T03:10:25.748369+00:00</updated>
+  <updated>2021-10-29T04:12:07.224642+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>14255</id>
-    <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
-    <updated>2021-07-17T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710005313971.png"><br/><br/>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14255">Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14255" rel="alternate"/>
-    <summary>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~</summary>
-    <published>2021-07-17T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14246</id>
-    <title>Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</title>
-    <updated>2021-07-18T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071621161484750.jpg"><br/><br/>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14246">Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14246" rel="alternate"/>
-    <summary>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.</summary>
-    <published>2021-07-18T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>14289</id>
     <title>Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
@@ -914,5 +896,23 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <link href="https://genshin.mihoyo.com/es/news/detail/16630" rel="alternate"/>
     <summary/>
     <published>2021-10-25T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16763</id>
+    <title>Demo de nuevo personaje de Genshin Impact - Thoma: Defensa ardiente</title>
+    <updated>2021-10-29T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102817541357783.jpg"><br/><br/>A Thoma no solo se le da bien hacer amigos, sino también crear un ambiente animado y divertido en cualquier momento.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16763">Demo de nuevo personaje de Genshin Impact - Thoma: Defensa ardiente</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16763" rel="alternate"/>
+    <summary>A Thoma no solo se le da bien hacer amigos, sino también crear un ambiente animado y divertido en cualquier momento.</summary>
+    <published>2021-10-29T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16744</id>
+    <title>¿En qué puedo ayudar? - Thoma, el Protector de Tierras Lejanas</title>
+    <updated>2021-10-29T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102810223322118.png"><br/><br/>Viajeros \ (^ o ^) / ~El personaje que les presentaremos hoy es Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16744">¿En qué puedo ayudar? - Thoma, el Protector de Tierras Lejanas</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16744" rel="alternate"/>
+    <summary>Viajeros \ (^ o ^) / ~El personaje que les presentaremos hoy es Thoma.</summary>
+    <published>2021-10-29T12:10:00+02:00</published>
   </entry>
 </feed>

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 29 Oct 2021 03:10:26 +0000</lastBuildDate>
-    <item>
-      <title>Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14098</link>
-      <description>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317024945365.jpg"><br/><br/>"Estimados viajeros: En la versión 2.0 habrá disponible un nuevo modo de juego de cultivo. ¡Echémosle un vistazo!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14098">Nuevo sistema de la Relajatetera en la versión 2.0: modo de juego de cultivo</a>]]></content:encoded>
-      <guid isPermaLink="false">14098</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Diario de Inazuma - 1ª edición: El misterioso elemento Electro</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14143</link>
-      <description>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420254533842.jpg"><br/><br/>¡Hola a todos! ¡El viaje a Inazuma está a punto de comenzar! ¿Qué misterios desconocidos nos estarán esperando en la nación Electro? ¡Vamos a verlo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14143">Diario de Inazuma - 1ª edición: El misterioso elemento Electro</a>]]></content:encoded>
-      <guid isPermaLink="false">14143</guid>
-      <pubDate>Thu, 15 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 29 Oct 2021 04:12:08 +0000</lastBuildDate>
     <item>
       <title>Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14119</link>
@@ -806,6 +790,22 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915023655930.jpg"><br/><br/>¡El nuevo evento «Dominio del guerrero» está a punto de comenzar! La impredecible Cámara Mística Onmyou ha abierto sus puertas, y en ella se encuentran monstruos extremadamente feroces. Entra a este dominio, supera todas las dificultades y ayuda a Shiki Taishou a recolectar todos los fragmentos de memoria para conocer los acontecimientos pasados de este lugar y obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16586">Modo de juego del evento «Dominio del guerrero»</a>]]></content:encoded>
       <guid isPermaLink="false">16586</guid>
       <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Thoma: Defensa ardiente</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16763</link>
+      <description>A Thoma no solo se le da bien hacer amigos, sino también crear un ambiente animado y divertido en cualquier momento.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102817541357783.jpg"><br/><br/>A Thoma no solo se le da bien hacer amigos, sino también crear un ambiente animado y divertido en cualquier momento.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16763">Demo de nuevo personaje de Genshin Impact - Thoma: Defensa ardiente</a>]]></content:encoded>
+      <guid isPermaLink="false">16763</guid>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¿En qué puedo ayudar? - Thoma, el Protector de Tierras Lejanas</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16744</link>
+      <description>Viajeros \ (^ o ^) / ~El personaje que les presentaremos hoy es Thoma.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102810223322118.png"><br/><br/>Viajeros \ (^ o ^) / ~El personaje que les presentaremos hoy es Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16744">¿En qué puedo ayudar? - Thoma, el Protector de Tierras Lejanas</a>]]></content:encoded>
+      <guid isPermaLink="false">16744</guid>
+      <pubDate>Fri, 29 Oct 2021 12:10:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

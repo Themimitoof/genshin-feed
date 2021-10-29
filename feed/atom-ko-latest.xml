@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-10-29T03:10:33.364922+00:00</updated>
+  <updated>2021-10-29T04:12:16.742469+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14204</id>
-    <title>[이나즈마 수첩 2회] 기관 및 기묘한 장치</title>
-    <updated>2021-07-16T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071523223671610.jpg"><br/><br/>이나즈마를 여행하다 보면 기묘한 기관 장치를 자주 볼 수 있을 거야. 기관들을 어떻게 풀어야 할까? 우리 같이 확인해보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14204">[이나즈마 수첩 2회] 기관 및 기묘한 장치</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14204" rel="alternate"/>
-    <summary>이나즈마를 여행하다 보면 기묘한 기관 장치를 자주 볼 수 있을 거야. 기관들을 어떻게 풀어야 할까? 우리 같이 확인해보자!</summary>
-    <published>2021-07-16T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14220</id>
-    <title>신규 버전 사전 다운로드 기능 오픈 예정</title>
-    <updated>2021-07-16T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610194550693.jpg"><br/><br/>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14220">신규 버전 사전 다운로드 기능 오픈 예정</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14220" rel="alternate"/>
-    <summary>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다</summary>
-    <published>2021-07-16T11:00:00+09:00</published>
-  </entry>
   <entry>
     <id>14205</id>
     <title>&lt;원신&gt; 용의 탄생! 야타용왕의 비하인드 스토리</title>
@@ -959,5 +941,23 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16707" rel="alternate"/>
     <summary>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다</summary>
     <published>2021-10-25T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16777</id>
+    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「토마: 불길의 방어」</title>
+    <updated>2021-10-29T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818372189795.jpg"><br/><br/>사교성 좋은 토마와 함께하면 항상 즐겁고 떠들썩한 일들로 가득하다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16777"><원신> 신규 캐릭터 플레이 - 「토마: 불길의 방어」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16777" rel="alternate"/>
+    <summary>사교성 좋은 토마와 함께하면 항상 즐겁고 떠들썩한 일들로 가득하다.</summary>
+    <published>2021-10-29T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16762</id>
+    <title>「내가 뭐 도울 거 없어?」 - 「바다 건너온 수호자」·토마</title>
+    <updated>2021-10-29T12:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102817370474264.jpg"><br/><br/>카미사토 가문에서 토마의 정식 직책은 「가사 관리원」이며, 청소, 요리 등의 가사 업무를 담당하고 있다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16762">「내가 뭐 도울 거 없어?」 - 「바다 건너온 수호자」·토마</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16762" rel="alternate"/>
+    <summary>카미사토 가문에서 토마의 정식 직책은 「가사 관리원」이며, 청소, 요리 등의 가사 업무를 담당하고 있다</summary>
+    <published>2021-10-29T12:10:00+09:00</published>
   </entry>
 </feed>

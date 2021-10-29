@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-10-29T03:10:23.864677+00:00</updated>
+  <updated>2021-10-29T04:12:05.296864+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14034</id>
-    <title>Erläuterungen zum Mechanismus vom Waffengebet „Göttlicher Kurs“</title>
-    <updated>2021-07-09T22:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919290855350.jpg"><br/><br/>Nach der Aktualisierung auf Version 2.0 wird das Waffengebet einen neuen Mechanismus bekommen: „Göttlicher Kurs“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14034">Erläuterungen zum Mechanismus vom Waffengebet „Göttlicher Kurs“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14034" rel="alternate"/>
-    <summary>Nach der Aktualisierung auf Version 2.0 wird das Waffengebet einen neuen Mechanismus bekommen: „Göttlicher Kurs“.</summary>
-    <published>2021-07-09T22:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14099</id>
-    <title>Aktualisierungsübersicht für das System von Version 2.0: „Pflanzen“</title>
-    <updated>2021-07-14T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317054645597.jpg"><br/><br/>Seid gegrüßt, liebe Reisende, in der neuen Version 2.0 wird die „Kanne der Vergänglichkeit“ eine neue Spielweise bekommen, nämlich „Pflanzen“. Heute stellen wir euch die Neuerungen einmal genauer vor!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14099">Aktualisierungsübersicht für das System von Version 2.0: „Pflanzen“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14099" rel="alternate"/>
-    <summary>Seid gegrüßt, liebe Reisende, in der neuen Version 2.0 wird die „Kanne der Vergänglichkeit“ eine neue Spielweise bekommen, nämlich „Pflanzen“. Heute stellen wir euch die Neuerungen einmal genauer vor!</summary>
-    <published>2021-07-14T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>14132</id>
     <title>Figurenvorschau von Genshin Impact für Kamisato Ayaka – „Heimkehrender Reiher“</title>
@@ -938,5 +920,25 @@ hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrin
     <link href="https://genshin.mihoyo.com/de/news/detail/16584" rel="alternate"/>
     <summary>Die neue Aktion „Labyrinthkrieger“ beginnt bald! Die großen Tore der bizarren und unberechenbaren Mystischen Onmyou-Kammer halten wilde Monster in ihrem Inneren gefangen. </summary>
     <published>2021-10-20T10:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16775</id>
+    <title>Figurenvorführung bei Genshin Impact – Thoma: Feurige Verteidigung</title>
+    <updated>2021-10-29T12:00:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818163417205.jpg"><br/><br/>Mit dem kontaktfreudigen Thoma gibt es immer eine Menge lebhafter Begegnungen und Spaß.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16775">Figurenvorführung bei Genshin Impact – Thoma: Feurige Verteidigung</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16775" rel="alternate"/>
+    <summary>Mit dem kontaktfreudigen Thoma gibt es immer eine Menge lebhafter Begegnungen und Spaß.</summary>
+    <published>2021-10-29T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16734</id>
+    <title>„Ich bin hier, wenn du Hilfe brauchst.“ – „Beschützer aus der Ferne“ Thoma</title>
+    <updated>2021-10-29T12:10:00+02:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715450022240.png"><br/><br/>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch eine die neue Figur Thoma vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16734">„Ich bin hier, wenn du Hilfe brauchst.“ – „Beschützer aus der Ferne“ Thoma</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16734" rel="alternate"/>
+    <summary>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch eine die neue Figur Thoma vor.</summary>
+    <published>2021-10-29T12:10:00+02:00</published>
   </entry>
 </feed>

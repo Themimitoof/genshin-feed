@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-10-29T03:10:20.516127+00:00</updated>
+  <updated>2021-10-29T04:12:00.661223+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14106</id>
-    <title>2.0版本系統更新快報：「種植」玩法</title>
-    <updated>2021-07-14T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317483597246.jpg"><br/><br/>旅行者們好呀~在2.0版本中，「塵歌壺」將會更新「種植」玩法。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14106">2.0版本系統更新快報：「種植」玩法</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14106" rel="alternate"/>
-    <summary>旅行者們好呀~在2.0版本中，「塵歌壺」將會更新「種植」玩法。</summary>
-    <published>2021-07-14T10:30:00+08:00</published>
-  </entry>
-  <entry>
-    <id>14146</id>
-    <title>《稻妻手帳001期》神奇的「雷元素」</title>
-    <updated>2021-07-15T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420465577818.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14146">《稻妻手帳001期》神奇的「雷元素」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14146" rel="alternate"/>
-    <published>2021-07-15T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>14115</id>
     <title>神里綾華角色預告——「白鷺歸庭」｜原神</title>
@@ -892,5 +875,25 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16583" rel="alternate"/>
     <summary>全新活動「謎境懸兵」即將開啟！詭幻叵測的「訣籙陰陽寮」之中，囚禁著空前凶戾的魔物。</summary>
     <published>2021-10-20T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16767</id>
+    <title>角色展示-「托馬：烈火捍禦」｜原神</title>
+    <updated>2021-10-29T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818031622402.jpg"><br/><br/>和擅長交際的托馬在一起，總是能遇到許多熱鬧又開心的事情。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16767">角色展示-「托馬：烈火捍禦」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16767" rel="alternate"/>
+    <summary>和擅長交際的托馬在一起，總是能遇到許多熱鬧又開心的事情。</summary>
+    <published>2021-10-29T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16736</id>
+    <title>「有什麼需要我幫忙的嗎？」——「渡來介者」·托馬</title>
+    <updated>2021-10-29T12:10:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102716093461832.png"><br/><br/>旅行者們\ (^ o ^) / ~
+今天將為大家介紹的角色是托馬。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16736">「有什麼需要我幫忙的嗎？」——「渡來介者」·托馬</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16736" rel="alternate"/>
+    <summary>旅行者們\ (^ o ^) / ~
+今天將為大家介紹的角色是托馬。</summary>
+    <published>2021-10-29T12:10:00+08:00</published>
   </entry>
 </feed>

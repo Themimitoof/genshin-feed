@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-10-29T03:10:15.936819+00:00</updated>
+  <updated>2021-10-29T04:11:53.772807+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>12389</id>
-    <title>Notice on Cross-Save Function Between Account for PSN and miHoYo Account</title>
-    <updated>2021-07-09T22:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921400962951.png"><br/><br/>Greetings, dear Travelers.The cross-save function between account for PlayStation™Network and miHoYo Account is coming to you in Version 2.0. Here, we will answer your questions about the cross-save function from five aspects: account linking, top-ups, special rewards, Co-Op on PlayStation, and friends.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/12389">Notice on Cross-Save Function Between Account for PSN and miHoYo Account</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/12389" rel="alternate"/>
-    <summary>Greetings, dear Travelers.The cross-save function between account for PlayStation™Network and miHoYo Account is coming to you in Version 2.0. Here, we will answer your questions about the cross-save function from five aspects: account linking, top-ups, special rewards, Co-Op on PlayStation, and friends.</summary>
-    <published>2021-07-09T22:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14047</id>
-    <title>Weapon Wish Mechanic "Epitomized Path" Details</title>
-    <updated>2021-07-09T22:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070920381339195.jpg"><br/><br/>After the 2.0 update, a special wish mechanism will be added to the Weapon Wish —— Epitomized Path.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14047">Weapon Wish Mechanic "Epitomized Path" Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14047" rel="alternate"/>
-    <summary>After the 2.0 update, a special wish mechanism will be added to the Weapon Wish —— Epitomized Path.</summary>
-    <published>2021-07-09T22:00:00-04:00</published>
-  </entry>
   <entry>
     <id>14480</id>
     <title>Version 2.0 System Update Preview: Gardening Gameplay</title>
@@ -998,5 +980,27 @@ The answer he seeks lies in both the fierce momentum of battles and the journey 
     <link href="https://genshin.mihoyo.com/en/news/detail/16582" rel="alternate"/>
     <summary>The great gates of the bizarre and unpredictable Mystic Onmyou Chamber imprison fierce monsters within them. Venture deep into this Domain by yourself and conquer the many perils within, assisting Shiki Taishou to retrieve the fragments of his memories, and you will be able to explore the past that has been sealed within the Domain — and obtain its various treasures in the meantime.</summary>
     <published>2021-10-20T10:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16770</id>
+    <title>Character Demo - "Thoma: Blazing Defense" | Genshin Impact</title>
+    <updated>2021-10-29T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818041086480.jpg"><br/><br/>With the sociable Thoma, there's always a lot of lively encounters and fun to be had.
+It's just that such excitement occasionally attracts some uninvited guests...
+But no need to worry, because Thoma will protect you.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16770">Character Demo - "Thoma: Blazing Defense" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16770" rel="alternate"/>
+    <summary>With the sociable Thoma, there's always a lot of lively encounters and fun to be had.
+It's just that such excitement occasionally attracts some uninvited guests...
+But no need to worry, because Thoma will protect you.</summary>
+    <published>2021-10-29T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16729</id>
+    <title>"Anything I can lend a hand with?" — "Protector From Afar" Thoma</title>
+    <updated>2021-10-29T12:10:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715235240801.png"><br/><br/>Today, we will be introducing a new character, Thoma!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16729">"Anything I can lend a hand with?" — "Protector From Afar" Thoma</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16729" rel="alternate"/>
+    <summary>Today, we will be introducing a new character, Thoma!</summary>
+    <published>2021-10-29T12:10:00-04:00</published>
   </entry>
 </feed>
