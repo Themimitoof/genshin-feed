@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 31 Oct 2021 07:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Oct 2021 08:10:38 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -58,6 +58,28 @@ Offizieller Beginn der Webaktion „Laternen voller Wünsche“.</description>
 Offizieller Beginn der Webaktion „Laternen voller Wünsche“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/8729">Zünde fünf verschiedene Laternen an und erhalte einen Teil des großen Preises mit Urgestein! Offizieller Beginn der Webaktion „Laternen voller Wünsche“</a>]]></content:encoded>
       <guid isPermaLink="false">8729</guid>
       <pubDate>Fri, 19 Feb 2021 13:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16484</link>
+      <description>Aloys Erkundungstagebuch
+Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101218035842194.jpg"><br/><br/>Aloys Erkundungstagebuch
+Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16484">Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</a>]]></content:encoded>
+      <guid isPermaLink="false">16484</guid>
+      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16533</link>
+      <description>Liebe Reisende, 
+vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
+Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415272847248.jpg"><br/><br/>Liebe Reisende, 
+vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
+Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content:encoded>
+      <guid isPermaLink="false">16533</guid>
+      <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Betritt in „Genshin Impact“ gemeinsam mit Amber die Welt von Teyvat!</title>
@@ -1034,70 +1056,6 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0100</pubDate>
     </item>
     <item>
-      <title>Ankündigung über die Verknüpfung von Konten beim PSN und miHoYo-Pässen</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14033</link>
-      <description>Hallo, liebe Reisende,die Funktion zur Interoperabilität von Konten beim PSN mit miHoYo-Päsen kommt in Version 2.0 zu euch. Hier werden wir eure Fragen zur Kontokompatibilität in den fünf Bereichen beantworten: Kontobindung, Aufladen, spezielle Belohnungen, Mehrspielermodus auf der Playstation und Freunde.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919263077596.jpg"><br/><br/>Hallo, liebe Reisende,die Funktion zur Interoperabilität von Konten beim PSN mit miHoYo-Päsen kommt in Version 2.0 zu euch. Hier werden wir eure Fragen zur Kontokompatibilität in den fünf Bereichen beantworten: Kontobindung, Aufladen, spezielle Belohnungen, Mehrspielermodus auf der Playstation und Freunde.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14033">Ankündigung über die Verknüpfung von Konten beim PSN und miHoYo-Pässen</a>]]></content:encoded>
-      <guid isPermaLink="false">14033</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Erläuterungen zum Mechanismus vom Waffengebet „Göttlicher Kurs“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14034</link>
-      <description>Nach der Aktualisierung auf Version 2.0 wird das Waffengebet einen neuen Mechanismus bekommen: „Göttlicher Kurs“.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070919290855350.jpg"><br/><br/>Nach der Aktualisierung auf Version 2.0 wird das Waffengebet einen neuen Mechanismus bekommen: „Göttlicher Kurs“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14034">Erläuterungen zum Mechanismus vom Waffengebet „Göttlicher Kurs“</a>]]></content:encoded>
-      <guid isPermaLink="false">14034</guid>
-      <pubDate>Fri, 09 Jul 2021 22:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aktualisierungsübersicht für das System von Version 2.0: „Pflanzen“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14099</link>
-      <description>Seid gegrüßt, liebe Reisende, in der neuen Version 2.0 wird die „Kanne der Vergänglichkeit“ eine neue Spielweise bekommen, nämlich „Pflanzen“. Heute stellen wir euch die Neuerungen einmal genauer vor!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317054645597.jpg"><br/><br/>Seid gegrüßt, liebe Reisende, in der neuen Version 2.0 wird die „Kanne der Vergänglichkeit“ eine neue Spielweise bekommen, nämlich „Pflanzen“. Heute stellen wir euch die Neuerungen einmal genauer vor!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14099">Aktualisierungsübersicht für das System von Version 2.0: „Pflanzen“</a>]]></content:encoded>
-      <guid isPermaLink="false">14099</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Figurenvorschau von Genshin Impact für Kamisato Ayaka – „Heimkehrender Reiher“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14132</link>
-      <description>Die Yashiro-Kommission ist für die heiligen und kulturellen Angelegenheiten von Inazuma zuständig. Die Shirasagi Himegimi erledigt verschiedene offizielle Aufgaben mit würdevoller Gelassenheit.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419524467332.jpg"><br/><br/>Die Yashiro-Kommission ist für die heiligen und kulturellen Angelegenheiten von Inazuma zuständig. Die Shirasagi Himegimi erledigt verschiedene offizielle Aufgaben mit würdevoller Gelassenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14132">Figurenvorschau von Genshin Impact für Kamisato Ayaka – „Heimkehrender Reiher“</a>]]></content:encoded>
-      <guid isPermaLink="false">14132</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Vorstellungsseite zu Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“ jetzt verfügbar!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14168</link>
-      <description>Lieber Reisender,</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511534767947.png"><br/><br/>Lieber Reisender,<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14168">Vorstellungsseite zu Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“ jetzt verfügbar!</a>]]></content:encoded>
-      <guid isPermaLink="false">14168</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Notizen über Inazuma – Teil 1: Die faszinierende „Elektro-Kraft“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14169</link>
-      <description>Hallo, Reisende! Die Reise nach Inazuma beginnt bald. Welche Neuigkeiten können wir in dem Reich der „Elektro-Kraft“ erwarten? Lass uns einen Blick darauf werfen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071512221333803.jpg"><br/><br/>Hallo, Reisende! Die Reise nach Inazuma beginnt bald. Welche Neuigkeiten können wir in dem Reich der „Elektro-Kraft“ erwarten? Lass uns einen Blick darauf werfen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14169">Notizen über Inazuma – Teil 1: Die faszinierende „Elektro-Kraft“</a>]]></content:encoded>
-      <guid isPermaLink="false">14169</guid>
-      <pubDate>Thu, 15 Jul 2021 12:19:52 +0200</pubDate>
-    </item>
-    <item>
-      <title>„Ich bin Kamisato Ayaka, Meisterin des Kamisato-Stils von Inazuma.“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14170</link>
-      <description>Heute stellen wir euch die Tochter des „Kamisato-Klans der Yashiro-Verwaltung des Bakufus von Inazuma“ vor, Kamisato Ayaka!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071512272699237.png"><br/><br/>Heute stellen wir euch die Tochter des „Kamisato-Klans der Yashiro-Verwaltung des Bakufus von Inazuma“ vor, Kamisato Ayaka!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14170">„Ich bin Kamisato Ayaka, Meisterin des Kamisato-Stils von Inazuma.“</a>]]></content:encoded>
-      <guid isPermaLink="false">14170</guid>
-      <pubDate>Thu, 15 Jul 2021 12:22:50 +0200</pubDate>
-    </item>
-    <item>
-      <title>Notizen über Inazuma – Teil 2: Vorrichtungen und wundersame Apparate</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14195</link>
-      <description>Hallo, Reisende! Auf der Reise durch Inazuma findet man immer wieder wundersame Apparate. Steht man verschiedenen Vorrichtungen gegenüber, muss man auch verschiedene Lösungen finden. Sehen wir uns ein paar Beispiele an!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519561641707.jpg"><br/><br/>Hallo, Reisende! Auf der Reise durch Inazuma findet man immer wieder wundersame Apparate. Steht man verschiedenen Vorrichtungen gegenüber, muss man auch verschiedene Lösungen finden. Sehen wir uns ein paar Beispiele an!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14195">Notizen über Inazuma – Teil 2: Vorrichtungen und wundersame Apparate</a>]]></content:encoded>
-      <guid isPermaLink="false">14195</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Vorzeitiges Herunterladen bald verfügbar</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14203</link>
       <description>Lieber Reisender,
@@ -1868,6 +1826,74 @@ vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen ha
 Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content:encoded>
       <guid isPermaLink="false">16533</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Aktion „Labyrinthkrieger“: Nimm teil und lade die Figur „Glühend heiße Musik – Xinyan (Pyro)“ ein.</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16568</link>
+      <description>Während des Aktionszeitraums kannst du durch die Prüfungen in der „Mystischen Onmyou-Kammer“ „zerschlissene Marken“ erhalten, die du beim Aktionshändler gegen Urgestein, die Krone der Weisheit, Material zur Verbesserung von Figuren, Material zur Verbesserung von Talenten, Eines Helden Weisheit, mystisches Verstärkungserz und andere Belohnungen eintauschen kannst. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911074169819.jpg"><br/><br/>Während des Aktionszeitraums kannst du durch die Prüfungen in der „Mystischen Onmyou-Kammer“ „zerschlissene Marken“ erhalten, die du beim Aktionshändler gegen Urgestein, die Krone der Weisheit, Material zur Verbesserung von Figuren, Material zur Verbesserung von Talenten, Eines Helden Weisheit, mystisches Verstärkungserz und andere Belohnungen eintauschen kannst. <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16568">Aktion „Labyrinthkrieger“: Nimm teil und lade die Figur „Glühend heiße Musik – Xinyan (Pyro)“ ein.</a>]]></content:encoded>
+      <guid isPermaLink="false">16568</guid>
+      <pubDate>Tue, 19 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Informationen zu den Fan-Artikeln des Live-Konzerts von Genshin Impact vor Ort – Teil 2</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16564</link>
+      <description>Von der Fan-Artikel-Reihe „GENSHIN CONCERT 2021“ abgesehen haben wir noch Accessoires der Reihe „Wanderorchester“ vorbereitet. Das dürft ihr nicht verpassen!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101910270516733.jpg"><br/><br/>Von der Fan-Artikel-Reihe „GENSHIN CONCERT 2021“ abgesehen haben wir noch Accessoires der Reihe „Wanderorchester“ vorbereitet. Das dürft ihr nicht verpassen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16564">Informationen zu den Fan-Artikeln des Live-Konzerts von Genshin Impact vor Ort – Teil 2</a>]]></content:encoded>
+      <guid isPermaLink="false">16564</guid>
+      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Labyrinthkrieger“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16584</link>
+      <description>Die neue Aktion „Labyrinthkrieger“ beginnt bald! Die großen Tore der bizarren und unberechenbaren Mystischen Onmyou-Kammer halten wilde Monster in ihrem Inneren gefangen. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914572674402.jpg"><br/><br/>Die neue Aktion „Labyrinthkrieger“ beginnt bald! Die großen Tore der bizarren und unberechenbaren Mystischen Onmyou-Kammer halten wilde Monster in ihrem Inneren gefangen. <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16584">Erläuterungen zur Spielweise von „Labyrinthkrieger“</a>]]></content:encoded>
+      <guid isPermaLink="false">16584</guid>
+      <pubDate>Wed, 20 Oct 2021 10:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Figurenvorführung bei Genshin Impact – Thoma: Feurige Verteidigung</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16775</link>
+      <description>Mit dem kontaktfreudigen Thoma gibt es immer eine Menge lebhafter Begegnungen und Spaß.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818163417205.jpg"><br/><br/>Mit dem kontaktfreudigen Thoma gibt es immer eine Menge lebhafter Begegnungen und Spaß.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16775">Figurenvorführung bei Genshin Impact – Thoma: Feurige Verteidigung</a>]]></content:encoded>
+      <guid isPermaLink="false">16775</guid>
+      <pubDate>Fri, 29 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>„Ich bin hier, wenn du Hilfe brauchst.“ – „Beschützer aus der Ferne“ Thoma</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16734</link>
+      <description>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch eine die neue Figur Thoma vor.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715450022240.png"><br/><br/>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch eine die neue Figur Thoma vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16734">„Ich bin hier, wenn du Hilfe brauchst.“ – „Beschützer aus der Ferne“ Thoma</a>]]></content:encoded>
+      <guid isPermaLink="false">16734</guid>
+      <pubDate>Fri, 29 Oct 2021 12:10:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Stangenwaffe – Homa-Stab“ und „Bogen – Letzter Seufzer“!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16842</link>
+      <description>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919230121050.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16842">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Stangenwaffe – Homa-Stab“ und „Bogen – Letzter Seufzer“!</a>]]></content:encoded>
+      <guid isPermaLink="false">16842</guid>
+      <pubDate>Sun, 31 Oct 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gebet „Augenblick des Erblühens“: Höhere Wahrscheinlichkeit für „Pflaumenduft bei Tauwetter – Hu Tao (Pyro)“!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16841</link>
+      <description>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919195271603.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16841">Gebet „Augenblick des Erblühens“: Höhere Wahrscheinlichkeit für „Pflaumenduft bei Tauwetter – Hu Tao (Pyro)“!</a>]]></content:encoded>
+      <guid isPermaLink="false">16841</guid>
+      <pubDate>Sun, 31 Oct 2021 12:01:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsvorschau für Version 2.2 – Teil 2</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16819</link>
+      <description>Hallo, Reisende! Paimon bringt euch wieder die neusten Informationen! Im Bild unten erfahrt ihr alles darüber.
+Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall verpassen.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102917304536092.jpg"><br/><br/>Hallo, Reisende! Paimon bringt euch wieder die neusten Informationen! Im Bild unten erfahrt ihr alles darüber.
+Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall verpassen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16819">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsvorschau für Version 2.2 – Teil 2</a>]]></content:encoded>
+      <guid isPermaLink="false">16819</guid>
+      <pubDate>Sun, 31 Oct 2021 12:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
