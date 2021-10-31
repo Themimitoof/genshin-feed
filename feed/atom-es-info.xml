@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - info</title>
-  <updated>2021-10-31T03:09:50.868343+00:00</updated>
+  <updated>2021-10-31T04:11:55.254710+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>14119</id>
-    <title>Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</title>
-    <updated>2021-07-15T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418480892482.jpg"><br/><br/>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14119">Avance de la trama de Genshin Impact - Kamisato Ayaka: el regreso de la garza</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14119" rel="alternate"/>
-    <summary>Es una de las principales responsables de la Comisión Yashiro de Inazuma. La "Princesa Garza" siempre anda ocupada con todo tipo de quehaceres.</summary>
-    <published>2021-07-15T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14159</id>
-    <title>¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</title>
-    <updated>2021-07-15T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511235782569.png"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14159">¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14159" rel="alternate"/>
-    <summary>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.0 «La diosa inmutable y la utopía eterna»!</summary>
-    <published>2021-07-15T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14145</id>
-    <title>"Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!"</title>
-    <updated>2021-07-15T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071510095621440.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14145">"Kamisato Ayaka, maestra de la técnica de la espada, ¡presente!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14145" rel="alternate"/>
-    <summary/>
-    <published>2021-07-15T12:10:00+02:00</published>
-  </entry>
   <entry>
     <id>14199</id>
     <title>Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</title>
@@ -912,5 +885,34 @@ A continuación te presentamos el contenido de la nueva versión 2.2 «El laberi
     <link href="https://genshin.mihoyo.com/es/news/detail/16744" rel="alternate"/>
     <summary>Viajeros \ (^ o ^) / ~El personaje que les presentaremos hoy es Thoma.</summary>
     <published>2021-10-29T12:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16832</id>
+    <title>¡Gachapón «Encarnación divina»! ¡Probabilidad de obtención de Báculo de Homa y Elegía del Fin aumentada!</title>
+    <updated>2021-10-31T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918305645724.jpg"><br/><br/>Durante el evento, con el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16832">¡Gachapón «Encarnación divina»! ¡Probabilidad de obtención de Báculo de Homa y Elegía del Fin aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16832" rel="alternate"/>
+    <summary>Durante el evento, con el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-10-31T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16831</id>
+    <title>¡Nuevo gachapón «Florecimiento fugaz» disponible! ¡Probabilidad de obtención de Hu Tao aumentada!</title>
+    <updated>2021-10-31T12:01:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918293996507.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16831">¡Nuevo gachapón «Florecimiento fugaz» disponible! ¡Probabilidad de obtención de Hu Tao aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16831" rel="alternate"/>
+    <summary>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-10-31T12:01:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16803</id>
+    <title>Paimon te trae una recopilación de los eventos de la versión 2.2 (II)</title>
+    <updated>2021-10-31T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915590930024.jpg"><br/><br/>¡Hola, viajero/a! Paimon te trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!
+El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16803">Paimon te trae una recopilación de los eventos de la versión 2.2 (II)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16803" rel="alternate"/>
+    <summary>¡Hola, viajero/a! Paimon te trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!
+El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</summary>
+    <published>2021-10-31T12:10:00+01:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-10-31T03:09:46.236370+00:00</updated>
+  <updated>2021-10-31T04:11:45.512593+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -269,33 +269,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14053</id>
-    <title>Avis sur la synchronisation entre compte PlayStation Network et Pass miHoYo</title>
-    <updated>2021-07-09T22:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070921160011772.jpg"><br/><br/>La synchronisation entre compte PlayStation Network (PSN) et Pass miHoYo sera disponible dans la version 2.0. Nous allons répondre à vos questions concernant la synchronisation entre comptes, la recharge, les cadeaux exclusifs, le multijoueur PlayStation et les amis.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14053">Avis sur la synchronisation entre compte PlayStation Network et Pass miHoYo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14053" rel="alternate"/>
-    <summary>La synchronisation entre compte PlayStation Network (PSN) et Pass miHoYo sera disponible dans la version 2.0. Nous allons répondre à vos questions concernant la synchronisation entre comptes, la recharge, les cadeaux exclusifs, le multijoueur PlayStation et les amis.</summary>
-    <published>2021-07-09T22:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14097</id>
-    <title>Mise à jour du système dans la version 2.0 : « Champs »</title>
-    <updated>2021-07-14T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071316502519252.jpg"><br/><br/>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14097">Mise à jour du système dans la version 2.0 : « Champs »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14097" rel="alternate"/>
-    <summary>Le nouveau système des champs arrive dans la Sérénithéière avec la version 2.0. Voyons cela ensemble~</summary>
-    <published>2021-07-14T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14138</id>
-    <title>Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</title>
-    <updated>2021-07-15T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420084683183.jpg"><br/><br/>Quels mystères vous attendent dans cette nation étroitement liée à l'élément Électro ? Voyons un peu ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14138">Les carnets d'Inazuma N° 1 : Le mystérieux élément Électro</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14138" rel="alternate"/>
-    <summary>Quels mystères vous attendent dans cette nation étroitement liée à l'élément Électro ? Voyons un peu ensemble !</summary>
-    <published>2021-07-15T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14130</id>
@@ -1155,30 +1128,29 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-10-29T12:10:00+02:00</published>
   </entry>
   <entry>
-    <id>14136</id>
-    <title>Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma, à votre service !</title>
-    <updated>2021-07-15T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420021267034.jpg"><br/><br/>Aujourd'hui, nous vous présentons Kamisato Ayaka, fille du Clan Kamisato, de la Commission culturelle du Shogunat d'Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14136">Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma, à votre service !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14136" rel="alternate"/>
-    <summary>Aujourd'hui, nous vous présentons Kamisato Ayaka, fille du Clan Kamisato, de la Commission culturelle du Shogunat d'Inazuma.</summary>
-    <published>2021-07-15T12:10:00+02:00</published>
+    <id>16844</id>
+    <title>Vœux « Floraison écarlate » ! Taux d'obtention boosté pour Hu Tao · Fragrance nivale (Pyro) !</title>
+    <updated>2021-10-31T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922093028327.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16844">Vœux « Floraison écarlate » ! Taux d'obtention boosté pour Hu Tao · Fragrance nivale (Pyro) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16844" rel="alternate"/>
+    <published>2021-10-31T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14219</id>
-    <title>Les carnets d'Inazuma N° 2 : Mécanismes et curieux dispositifs</title>
-    <updated>2021-07-16T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610195092200.jpg"><br/><br/>Durant votre voyage à Inazuma, vous tomberez souvent sur de curieux mécanismes. Comment les décoder ? Voyons un peu ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14219">Les carnets d'Inazuma N° 2 : Mécanismes et curieux dispositifs</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14219" rel="alternate"/>
-    <summary>Durant votre voyage à Inazuma, vous tomberez souvent sur de curieux mécanismes. Comment les décoder ? Voyons un peu ensemble !</summary>
-    <published>2021-07-16T10:30:00+02:00</published>
+    <id>16845</id>
+    <title>Vœux « Incarnation divine » ! Taux d'obtention boosté pour Bâton de Homa (Arme d'hast) et Ultime soupir (Arc) !</title>
+    <updated>2021-10-31T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922105447753.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16845">Vœux « Incarnation divine » ! Taux d'obtention boosté pour Bâton de Homa (Arme d'hast) et Ultime soupir (Arc) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16845" rel="alternate"/>
+    <published>2021-10-31T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14226</id>
-    <title>Le pré-téléchargement sera bientôt disponible</title>
-    <updated>2021-07-16T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610281493902.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14226">Le pré-téléchargement sera bientôt disponible</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14226" rel="alternate"/>
-    <published>2021-07-16T11:00:00+02:00</published>
+    <id>16843</id>
+    <title>Paimon vous présente un aperçu des événements de la version 2.2 - Partie II</title>
+    <updated>2021-10-31T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922074279975.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16843">Paimon vous présente un aperçu des événements de la version 2.2 - Partie II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16843" rel="alternate"/>
+    <summary/>
+    <published>2021-10-31T12:10:00+01:00</published>
   </entry>
   <entry>
     <id>14230</id>
@@ -2035,5 +2007,30 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/16737" rel="alternate"/>
     <summary/>
     <published>2021-10-29T12:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16844</id>
+    <title>Vœux « Floraison écarlate » ! Taux d'obtention boosté pour Hu Tao · Fragrance nivale (Pyro) !</title>
+    <updated>2021-10-31T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922093028327.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16844">Vœux « Floraison écarlate » ! Taux d'obtention boosté pour Hu Tao · Fragrance nivale (Pyro) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16844" rel="alternate"/>
+    <published>2021-10-31T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16845</id>
+    <title>Vœux « Incarnation divine » ! Taux d'obtention boosté pour Bâton de Homa (Arme d'hast) et Ultime soupir (Arc) !</title>
+    <updated>2021-10-31T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922105447753.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16845">Vœux « Incarnation divine » ! Taux d'obtention boosté pour Bâton de Homa (Arme d'hast) et Ultime soupir (Arc) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16845" rel="alternate"/>
+    <published>2021-10-31T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16843</id>
+    <title>Paimon vous présente un aperçu des événements de la version 2.2 - Partie II</title>
+    <updated>2021-10-31T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922074279975.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16843">Paimon vous présente un aperçu des événements de la version 2.2 - Partie II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16843" rel="alternate"/>
+    <summary/>
+    <published>2021-10-31T12:10:00+01:00</published>
   </entry>
 </feed>

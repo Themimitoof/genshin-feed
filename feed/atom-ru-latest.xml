@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-10-31T03:09:59.441717+00:00</updated>
+  <updated>2021-10-31T04:12:12.387645+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>14249</id>
-    <title>«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</title>
-    <updated>2021-07-18T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071623380133058.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14249">«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14249" rel="alternate"/>
-    <summary>Записи об Инадзуме</summary>
-    <published>2021-07-18T10:30:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14278</id>
-    <title>Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</title>
-    <updated>2021-07-19T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071717231414186.jpg"><br/><br/>Незыблемый бог, гибель иллюзий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14278">Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14278" rel="alternate"/>
-    <summary>Незыблемый бог, гибель иллюзий</summary>
-    <published>2021-07-19T10:30:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14279</id>
-    <title>Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</title>
-    <updated>2021-07-19T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718013217162.jpg"><br/><br/>Молитва «Сад белой цапли» Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14279">Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14279" rel="alternate"/>
-    <summary>Молитва «Сад белой цапли» Камисато Аяка</summary>
-    <published>2021-07-19T12:01:00+03:00</published>
-  </entry>
   <entry>
     <id>14280</id>
     <title>Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</title>
@@ -916,5 +889,34 @@
     <summary>Сегодня мы представим вам нового персонажа, Тому!
 Официальный титул Томы в клане Камисато - управляющий. Он отвечает за такие вопросы, как уборка и приготовление пищи.</summary>
     <published>2021-10-29T12:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16823</id>
+    <title>Молитва «Воплощение божества» - повышен шанс получить оружие Посох Хомы (Древковое) и Элегия погибели (Стрелковое)!</title>
+    <updated>2021-10-31T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918060243623.jpg"><br/><br/>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16823">Молитва «Воплощение божества» - повышен шанс получить оружие Посох Хомы (Древковое) и Элегия погибели (Стрелковое)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16823" rel="alternate"/>
+    <summary>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
+    <published>2021-10-31T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16829</id>
+    <title>Молитва «Момент цветения» - Повышен шанс получить персонажа «Весенний аромат» Ху Тао (Пиро)!</title>
+    <updated>2021-10-31T12:01:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918201630489.jpg"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16829">Молитва «Момент цветения» - Повышен шанс получить персонажа «Весенний аромат» Ху Тао (Пиро)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16829" rel="alternate"/>
+    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
+    <published>2021-10-31T12:01:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16802</id>
+    <title>Обзор событий версии 2.2 - Выпуск II</title>
+    <updated>2021-10-31T12:10:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915555411291.jpg"><br/><br/>Привет, Путешественники! Паймон расскажет вам о новых событиях. Нажмите на картинку ниже, чтобы узнать подробности!
+Событие «Воины лабиринта» уже в самом разгаре. Не пропустите!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16802">Обзор событий версии 2.2 - Выпуск II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16802" rel="alternate"/>
+    <summary>Привет, Путешественники! Паймон расскажет вам о новых событиях. Нажмите на картинку ниже, чтобы узнать подробности!
+Событие «Воины лабиринта» уже в самом разгаре. Не пропустите!</summary>
+    <published>2021-10-31T12:10:00+03:00</published>
   </entry>
 </feed>

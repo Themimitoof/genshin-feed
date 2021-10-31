@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-10-31T03:09:52.821035+00:00</updated>
+  <updated>2021-10-31T04:11:58.977736+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14128</id>
-    <title>Kisah Karakter: "Kamisato Ayaka — Saat Bangau Putih Pulang" | Genshin Impact</title>
-    <updated>2021-07-15T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419473436094.jpg"><br/><br/>Yashiro Commission bertanggung jawab untuk hal-hal sakral dan urusan budaya di Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14128">Kisah Karakter: "Kamisato Ayaka — Saat Bangau Putih Pulang" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14128" rel="alternate"/>
-    <summary>Yashiro Commission bertanggung jawab untuk hal-hal sakral dan urusan budaya di Inazuma.</summary>
-    <published>2021-07-15T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14162</id>
-    <title>Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!</title>
-    <updated>2021-07-15T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511281725468.png"><br/><br/>Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14162">Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14162" rel="alternate"/>
-    <summary>Halaman Preview v2.0 "Dewa Kekal dan Tanah Keabadian" Resmi Dibuka!</summary>
-    <published>2021-07-15T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14127</id>
-    <title>"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, hadir!"</title>
-    <updated>2021-07-15T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419364816905.png"><br/><br/>Hari ini, ayo kita kenalan dengan Tuan Putri dari Yashiro Commission, Klan Kamisato — Kamisato Ayaka!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14127">"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, hadir!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14127" rel="alternate"/>
-    <summary>Hari ini, ayo kita kenalan dengan Tuan Putri dari Yashiro Commission, Klan Kamisato — Kamisato Ayaka!</summary>
-    <published>2021-07-15T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>14191</id>
     <title>Seluk-beluk Inazuma Edisi 2: Mekanisme dan Alat yang Luar Biasa</title>
@@ -913,5 +886,32 @@ Hari ini, ayo kita kenalan dengan Thoma!<br><br>Read more on <a href="https://ge
     <summary>Halo Traveler \ (^ o ^) / ~
 Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <published>2021-10-29T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16840</id>
+    <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Staff of Homa (Polearm) dan Elegy for the End (Bow) Meningkat!</title>
+    <updated>2021-10-31T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919202150277.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16840">Event Permohonan "Epitome Invocation": Persentase Perolehan Staff of Homa (Polearm) dan Elegy for the End (Bow) Meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16840" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!</summary>
+    <published>2021-10-31T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16839</id>
+    <title>Event Permohonan "Bunga Bersemi": Persentase Perolehan "Fragrance in Thaw" Hu Tao (Pyro) meningkat!</title>
+    <updated>2021-10-31T12:01:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919181031828.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16839">Event Permohonan "Bunga Bersemi": Persentase Perolehan "Fragrance in Thaw" Hu Tao (Pyro) meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16839" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
+    <published>2021-10-31T12:01:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16838</id>
+    <title>Intip Preview Event Baru v2.2 Bersama Paimon - Edisi 2</title>
+    <updated>2021-10-31T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919041744070.jpg"><br/><br/>Halo Traveler semua! Paimon datang bawa info terbaru nih, tekan gambar di bawah untuk lihat ya!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16838">Intip Preview Event Baru v2.2 Bersama Paimon - Edisi 2</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16838" rel="alternate"/>
+    <summary>Halo Traveler semua! Paimon datang bawa info terbaru nih, tekan gambar di bawah untuk lihat ya!</summary>
+    <published>2021-10-31T12:10:00+07:00</published>
   </entry>
 </feed>

@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-10-31T03:09:57.847947+00:00</updated>
+  <updated>2021-10-31T04:12:09.673562+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14124</id>
-    <title>Teaser da Personagem Kamisato Ayaka de "Genshin Impact" - "Retorno da Garça"</title>
-    <updated>2021-07-15T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419034671619.jpg"><br/><br/>Responsável pelos assuntos espirituais e culturais de Inazuma, a digna e cautelosa "Shirasagi Himegimi", está sempre ocupada resolvendo todos os tipos de problemas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14124">Teaser da Personagem Kamisato Ayaka de "Genshin Impact" - "Retorno da Garça"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14124" rel="alternate"/>
-    <summary>Responsável pelos assuntos espirituais e culturais de Inazuma, a digna e cautelosa "Shirasagi Himegimi", está sempre ocupada resolvendo todos os tipos de problemas.</summary>
-    <published>2021-07-15T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14157</id>
-    <title>Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!</title>
-    <updated>2021-07-15T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511225013155.png"><br/><br/>Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14157">Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14157" rel="alternate"/>
-    <summary>Prévia da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna" Disponível!</summary>
-    <published>2021-07-15T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14149</id>
-    <title>"Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, ao seu dispor!"</title>
-    <updated>2021-07-15T12:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071509404149993.png"><br/><br/>Hoje iremos apresentar a vocês a filha da Comissão Yashiro do Shogunato, do Clã Kamisato de Inazuma, Kamisato Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14149">"Kamisato Ayaka, mestre da Arte Kamisato Tachi Jutsu, ao seu dispor!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14149" rel="alternate"/>
-    <summary>Hoje iremos apresentar a vocês a filha da Comissão Yashiro do Shogunato, do Clã Kamisato de Inazuma, Kamisato Ayaka.</summary>
-    <published>2021-07-15T12:10:00+01:00</published>
-  </entry>
   <entry>
     <id>14192</id>
     <title>Diário em Inazuma - Edição 2: Mecanismos e Dispositivos Incríveis</title>
@@ -913,5 +886,32 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16730" rel="alternate"/>
     <summary>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.</summary>
     <published>2021-10-29T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16826</id>
+    <title>Oração "Encaranação Divina": Báculo de Homa (Lança), "Elegia do Suspiro Final (Arco) com probabilidade aumentada!</title>
+    <updated>2021-10-31T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918163750688.jpg"><br/><br/>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16826">Oração "Encaranação Divina": Báculo de Homa (Lança), "Elegia do Suspiro Final (Arco) com probabilidade aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16826" rel="alternate"/>
+    <summary>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!</summary>
+    <published>2021-10-31T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16825</id>
+    <title>Oração "Momento de Florescer": "Fragrância de Ameixa Descongelada - Hutao (Pyro)" receberá um aumento de taxa de drop!</title>
+    <updated>2021-10-31T12:01:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918141970067.jpg"><br/><br/>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16825">Oração "Momento de Florescer": "Fragrância de Ameixa Descongelada - Hutao (Pyro)" receberá um aumento de taxa de drop!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16825" rel="alternate"/>
+    <summary>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!</summary>
+    <published>2021-10-31T12:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16806</id>
+    <title>Venha conferir a "Visão Geral dos Eventos da Versão 2.2 - Edição II" junto com a Paimon!</title>
+    <updated>2021-10-31T12:10:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916030773031.jpg"><br/><br/>Olá, Viajantes! Hoje, Paimon está trazendo para vocês, informações sobre os últimos eventos. Pressione na imagem abaixo para uma rápida visão geral!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16806">Venha conferir a "Visão Geral dos Eventos da Versão 2.2 - Edição II" junto com a Paimon!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16806" rel="alternate"/>
+    <summary>Olá, Viajantes! Hoje, Paimon está trazendo para vocês, informações sobre os últimos eventos. Pressione na imagem abaixo para uma rápida visão geral!</summary>
+    <published>2021-10-31T12:10:00+00:00</published>
   </entry>
 </feed>

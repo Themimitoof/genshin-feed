@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-10-31T03:09:46.987037+00:00</updated>
+  <updated>2021-10-31T04:11:46.814351+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14146</id>
-    <title>《稻妻手帳001期》神奇的「雷元素」</title>
-    <updated>2021-07-15T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420465577818.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14146">《稻妻手帳001期》神奇的「雷元素」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14146" rel="alternate"/>
-    <published>2021-07-15T10:30:00+08:00</published>
-  </entry>
-  <entry>
-    <id>14115</id>
-    <title>神里綾華角色預告——「白鷺歸庭」｜原神</title>
-    <updated>2021-07-15T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418354636436.jpg"><br/><br/>社奉行主理稻妻的神事與文化娛樂事務，「白鷺公主」端莊持重，經常忙於協理各類事宜。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14115">神里綾華角色預告——「白鷺歸庭」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14115" rel="alternate"/>
-    <summary>社奉行主理稻妻的神事與文化娛樂事務，「白鷺公主」端莊持重，經常忙於協理各類事宜。</summary>
-    <published>2021-07-15T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>14163</id>
     <title>2.0新版本「不動鳴神，泡影斷滅」先行展示頁現已開放！</title>
@@ -894,5 +877,23 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16801" rel="alternate"/>
     <summary>旅行者們好呀~派蒙帶著近期活動資訊來啦，點擊下圖一睹為快吧！</summary>
     <published>2021-10-31T10:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16824</id>
+    <title>「神鑄賦形」祈願：「長柄武器·護摩之杖」、「弓·終末嗟嘆之詩」機率UP！</title>
+    <updated>2021-10-31T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918134737950.jpg"><br/><br/>活動期間，旅行者可以在「神鑄賦形」活動祈願中獲得更多武器與角色，提升隊伍的戰鬥力！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16824">「神鑄賦形」祈願：「長柄武器·護摩之杖」、「弓·終末嗟嘆之詩」機率UP！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16824" rel="alternate"/>
+    <summary>活動期間，旅行者可以在「神鑄賦形」活動祈願中獲得更多武器與角色，提升隊伍的戰鬥力！</summary>
+    <published>2021-10-31T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16827</id>
+    <title>「赤團開時」祈願：「雪霽梅香·胡桃(火)」機率UP！</title>
+    <updated>2021-10-31T12:01:00+08:00</updated>
+    <content type="CDATA"><![CDATA[活動期間，旅行者可以在活動祈願中獲得更多角色與武器，組建強大的隊伍！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16827">「赤團開時」祈願：「雪霽梅香·胡桃(火)」機率UP！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16827" rel="alternate"/>
+    <summary>活動期間，旅行者可以在活動祈願中獲得更多角色與武器，組建強大的隊伍！</summary>
+    <published>2021-10-31T12:01:00+08:00</published>
   </entry>
 </feed>

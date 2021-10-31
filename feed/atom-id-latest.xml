@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-10-31T03:09:52.116192+00:00</updated>
+  <updated>2021-10-31T04:11:57.922478+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14209</id>
-    <title>Fitur Pra-Unduh Akan Segera Dibuka</title>
-    <updated>2021-07-16T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609344489531.jpg"><br/><br/>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14209">Fitur Pra-Unduh Akan Segera Dibuka</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14209" rel="alternate"/>
-    <summary>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.</summary>
-    <published>2021-07-16T11:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14213</id>
-    <title>Kelahiran Seekor Naga: Proses Desain Azhdaha di Balik Layar | Genshin Impact</title>
-    <updated>2021-07-16T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609594342664.jpg"><br/><br/>Terukir di batu secara abadi, dengan gunung-gunung yang menjadi saksi akan kekuatannya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14213">Kelahiran Seekor Naga: Proses Desain Azhdaha di Balik Layar | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14213" rel="alternate"/>
-    <summary>Terukir di batu secara abadi, dengan gunung-gunung yang menjadi saksi akan kekuatannya.</summary>
-    <published>2021-07-16T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14254</id>
-    <title>Seluk-beluk Inazuma Edisi 3: Monster Baru!</title>
-    <updated>2021-07-17T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071709465745702.png"><br/><br/>Halo Traveler, yuk kita lihat monster baru yang ada di Inazuma~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14254">Seluk-beluk Inazuma Edisi 3: Monster Baru!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14254" rel="alternate"/>
-    <summary>Halo Traveler, yuk kita lihat monster baru yang ada di Inazuma~</summary>
-    <published>2021-07-17T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>14240</id>
     <title>Seluk-beluk Inazuma Edisi 4: Produk Khas yang Belum Pernah Ada!</title>
@@ -913,5 +886,32 @@ Hari ini, ayo kita kenalan dengan Thoma!<br><br>Read more on <a href="https://ge
     <summary>Halo Traveler \ (^ o ^) / ~
 Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <published>2021-10-29T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16840</id>
+    <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Staff of Homa (Polearm) dan Elegy for the End (Bow) Meningkat!</title>
+    <updated>2021-10-31T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919202150277.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16840">Event Permohonan "Epitome Invocation": Persentase Perolehan Staff of Homa (Polearm) dan Elegy for the End (Bow) Meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16840" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan "Epitome Invocation" untuk membuat party menjadi lebih kuat!</summary>
+    <published>2021-10-31T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16839</id>
+    <title>Event Permohonan "Bunga Bersemi": Persentase Perolehan "Fragrance in Thaw" Hu Tao (Pyro) meningkat!</title>
+    <updated>2021-10-31T12:01:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919181031828.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16839">Event Permohonan "Bunga Bersemi": Persentase Perolehan "Fragrance in Thaw" Hu Tao (Pyro) meningkat!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16839" rel="alternate"/>
+    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
+    <published>2021-10-31T12:01:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16838</id>
+    <title>Intip Preview Event Baru v2.2 Bersama Paimon - Edisi 2</title>
+    <updated>2021-10-31T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102919041744070.jpg"><br/><br/>Halo Traveler semua! Paimon datang bawa info terbaru nih, tekan gambar di bawah untuk lihat ya!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16838">Intip Preview Event Baru v2.2 Bersama Paimon - Edisi 2</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16838" rel="alternate"/>
+    <summary>Halo Traveler semua! Paimon datang bawa info terbaru nih, tekan gambar di bawah untuk lihat ya!</summary>
+    <published>2021-10-31T12:10:00+07:00</published>
   </entry>
 </feed>

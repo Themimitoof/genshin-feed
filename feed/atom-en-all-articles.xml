@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-10-31T03:09:43.865836+00:00</updated>
+  <updated>2021-10-31T04:11:41.747002+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -320,35 +320,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>14480</id>
-    <title>Version 2.0 System Update Preview: Gardening Gameplay</title>
-    <updated>2021-07-14T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072118204011145.jpg"><br/><br/>Dear Travelers~ Version 2.0 will introduce new Gardening Gameplay. Let's see how it works~
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14480">Version 2.0 System Update Preview: Gardening Gameplay</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14480" rel="alternate"/>
-    <summary>Dear Travelers~ Version 2.0 will introduce new Gardening Gameplay. Let's see how it works~
-</summary>
-    <published>2021-07-14T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14141</id>
-    <title>The Inazuma Diaries Vol. 1: The Mysterious Electro Element</title>
-    <updated>2021-07-15T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420202096608.jpg"><br/><br/>Our journey to Inazuma is about to begin. What lies in store in this land that is suffused with Electro? Let's find out!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14141">The Inazuma Diaries Vol. 1: The Mysterious Electro Element</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14141" rel="alternate"/>
-    <summary>Our journey to Inazuma is about to begin. What lies in store in this land that is suffused with Electro? Let's find out!</summary>
-    <published>2021-07-15T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14123</id>
-    <title>Character Teaser - "Kamisato Ayaka: The Homeward Heron" | Genshin Impact</title>
-    <updated>2021-07-15T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418501428078.jpg"><br/><br/>The Yashiro Commission is responsible for the sacred matters and cultural affairs of Inazuma. The Shirasagi Himegimi handles various official duties with dignified poise.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14123">Character Teaser - "Kamisato Ayaka: The Homeward Heron" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14123" rel="alternate"/>
-    <summary>The Yashiro Commission is responsible for the sacred matters and cultural affairs of Inazuma. The Shirasagi Himegimi handles various official duties with dignified poise.</summary>
-    <published>2021-07-15T12:00:00-04:00</published>
   </entry>
   <entry>
     <id>14164</id>
@@ -1316,33 +1287,31 @@ But no need to worry, because Thoma will protect you.</summary>
     <published>2021-10-29T12:10:00-04:00</published>
   </entry>
   <entry>
-    <id>14257</id>
-    <title>The Inazuma Diaries Vol. 3: New Monsters!</title>
-    <updated>2021-07-17T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710263297596.png"><br/><br/>Hello Travelers, let's take a look at Inazuma's new monsters in this latest issue~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14257">The Inazuma Diaries Vol. 3: New Monsters!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14257" rel="alternate"/>
-    <summary>Hello Travelers, let's take a look at Inazuma's new monsters in this latest issue~</summary>
-    <published>2021-07-17T10:30:00-04:00</published>
+    <id>16821</id>
+    <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of Homa (Polearm) and Elegy for the End (Bow)!</title>
+    <updated>2021-10-31T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918023913122.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16821">Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of Homa (Polearm) and Elegy for the End (Bow)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16821" rel="alternate"/>
+    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</summary>
+    <published>2021-10-31T12:00:00-04:00</published>
   </entry>
   <entry>
-    <id>14244</id>
-    <title>The Inazuma Diaries Vol. 4 Never-Before-Seen Regional Specialties!</title>
-    <updated>2021-07-18T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620435896612.jpg"><br/><br/>Hello, Travelers~ Let's take a look at Inazuma's natural landscape in this latest issue.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14244">The Inazuma Diaries Vol. 4 Never-Before-Seen Regional Specialties!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14244" rel="alternate"/>
-    <summary>Hello, Travelers~ Let's take a look at Inazuma's natural landscape in this latest issue.
-</summary>
-    <published>2021-07-18T10:30:00-04:00</published>
+    <id>16822</id>
+    <title>Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!</title>
+    <updated>2021-10-31T12:01:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918032921267.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16822">Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16822" rel="alternate"/>
+    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</summary>
+    <published>2021-10-31T12:01:00-04:00</published>
   </entry>
   <entry>
-    <id>14329</id>
-    <title>Event Wish "Epitome Invocation" - Boosted Drop Rates for Mistsplitter Reforged (Sword) and Skyward Spine (Polearm)!</title>
-    <updated>2021-07-19T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910444056325.jpg"><br/><br/>Travelers, stock up on weapons and characters in ""Epitome Invocation"" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14329">Event Wish "Epitome Invocation" - Boosted Drop Rates for Mistsplitter Reforged (Sword) and Skyward Spine (Polearm)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14329" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in ""Epitome Invocation"" to make your party stronger in combat!</summary>
-    <published>2021-07-19T12:01:00-04:00</published>
+    <id>16809</id>
+    <title>Paimon's Sneak Peek at Version 2.2 New Events - Phase II</title>
+    <updated>2021-10-31T12:10:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916123988557.jpg"><br/><br/>Hello, Travelers~ Paimon has got the scoop on the latest events. Click the picture below for a quick overview! The "Labyrinth Warriors" event is currently underway, so be sure not to miss it!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16809">Paimon's Sneak Peek at Version 2.2 New Events - Phase II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16809" rel="alternate"/>
+    <summary>Hello, Travelers~ Paimon has got the scoop on the latest events. Click the picture below for a quick overview! The "Labyrinth Warriors" event is currently underway, so be sure not to miss it!</summary>
+    <published>2021-10-31T12:10:00-04:00</published>
   </entry>
   <entry>
     <id>14330</id>
@@ -2306,5 +2275,32 @@ But no need to worry, because Thoma will protect you.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/16729" rel="alternate"/>
     <summary>Today, we will be introducing a new character, Thoma!</summary>
     <published>2021-10-29T12:10:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16821</id>
+    <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of Homa (Polearm) and Elegy for the End (Bow)!</title>
+    <updated>2021-10-31T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918023913122.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16821">Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of Homa (Polearm) and Elegy for the End (Bow)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16821" rel="alternate"/>
+    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</summary>
+    <published>2021-10-31T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16822</id>
+    <title>Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!</title>
+    <updated>2021-10-31T12:01:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918032921267.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16822">Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16822" rel="alternate"/>
+    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</summary>
+    <published>2021-10-31T12:01:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16809</id>
+    <title>Paimon's Sneak Peek at Version 2.2 New Events - Phase II</title>
+    <updated>2021-10-31T12:10:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916123988557.jpg"><br/><br/>Hello, Travelers~ Paimon has got the scoop on the latest events. Click the picture below for a quick overview! The "Labyrinth Warriors" event is currently underway, so be sure not to miss it!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16809">Paimon's Sneak Peek at Version 2.2 New Events - Phase II</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16809" rel="alternate"/>
+    <summary>Hello, Travelers~ Paimon has got the scoop on the latest events. Click the picture below for a quick overview! The "Labyrinth Warriors" event is currently underway, so be sure not to miss it!</summary>
+    <published>2021-10-31T12:10:00-04:00</published>
   </entry>
 </feed>

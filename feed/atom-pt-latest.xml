@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-10-31T03:09:57.391687+00:00</updated>
+  <updated>2021-10-31T04:12:08.714920+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14290</id>
-    <title>Anúncio de Atualização da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna"</title>
-    <updated>2021-07-19T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071818175563779.jpg"><br/><br/>Caros Viajantes: Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações. Depois de ter concluído, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14290">Anúncio de Atualização da Versão 2.0 "A Deusa Imóvel e a Utopia Eterna"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14290" rel="alternate"/>
-    <summary>Caros Viajantes: Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações. Depois de ter concluído, o jogo será atualizado para uma nova versão.</summary>
-    <published>2021-07-19T10:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14292</id>
-    <title>Oração "Jardim da Garça": Taxa de Drop aumentado para Garça da Geada - Kamisato Ayaka (Cryo)!</title>
-    <updated>2021-07-19T12:01:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819181733095.jpg"><br/><br/>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14292">Oração "Jardim da Garça": Taxa de Drop aumentado para Garça da Geada - Kamisato Ayaka (Cryo)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14292" rel="alternate"/>
-    <summary>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!</summary>
-    <published>2021-07-19T12:01:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14294</id>
-    <title>Nova Oração "Encarnação Divina": Probabilidade Aumentada de Obtenção de "Cortadora da Neblina Reforjada (Espada)", "Espinha Celestial (Lança)"!</title>
-    <updated>2021-07-19T12:01:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072020220034406.jpg"><br/><br/>Durante o período do Evento, o Viajante poderá na Oração ""Encarnação Divina"" obter mais armas e personagens, aumentando a força de combate da equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14294">Nova Oração "Encarnação Divina": Probabilidade Aumentada de Obtenção de "Cortadora da Neblina Reforjada (Espada)", "Espinha Celestial (Lança)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14294" rel="alternate"/>
-    <summary>Durante o período do Evento, o Viajante poderá na Oração ""Encarnação Divina"" obter mais armas e personagens, aumentando a força de combate da equipe!</summary>
-    <published>2021-07-19T12:01:00+01:00</published>
-  </entry>
   <entry>
     <id>14296</id>
     <title>Prévia do Evento da Versão 2.0 - Edição I</title>
@@ -919,5 +892,32 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16730" rel="alternate"/>
     <summary>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.</summary>
     <published>2021-10-29T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16826</id>
+    <title>Oração "Encaranação Divina": Báculo de Homa (Lança), "Elegia do Suspiro Final (Arco) com probabilidade aumentada!</title>
+    <updated>2021-10-31T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918163750688.jpg"><br/><br/>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16826">Oração "Encaranação Divina": Báculo de Homa (Lança), "Elegia do Suspiro Final (Arco) com probabilidade aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16826" rel="alternate"/>
+    <summary>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!</summary>
+    <published>2021-10-31T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16825</id>
+    <title>Oração "Momento de Florescer": "Fragrância de Ameixa Descongelada - Hutao (Pyro)" receberá um aumento de taxa de drop!</title>
+    <updated>2021-10-31T12:01:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918141970067.jpg"><br/><br/>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16825">Oração "Momento de Florescer": "Fragrância de Ameixa Descongelada - Hutao (Pyro)" receberá um aumento de taxa de drop!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16825" rel="alternate"/>
+    <summary>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!</summary>
+    <published>2021-10-31T12:01:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16806</id>
+    <title>Venha conferir a "Visão Geral dos Eventos da Versão 2.2 - Edição II" junto com a Paimon!</title>
+    <updated>2021-10-31T12:10:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916030773031.jpg"><br/><br/>Olá, Viajantes! Hoje, Paimon está trazendo para vocês, informações sobre os últimos eventos. Pressione na imagem abaixo para uma rápida visão geral!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16806">Venha conferir a "Visão Geral dos Eventos da Versão 2.2 - Edição II" junto com a Paimon!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16806" rel="alternate"/>
+    <summary>Olá, Viajantes! Hoje, Paimon está trazendo para vocês, informações sobre os últimos eventos. Pressione na imagem abaixo para uma rápida visão geral!</summary>
+    <published>2021-10-31T12:10:00+00:00</published>
   </entry>
 </feed>
