@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-10-31T01:55:02.001140+00:00</updated>
+  <updated>2021-10-31T02:25:57.638386+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -242,15 +242,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>14106</id>
-    <title>2.0版本系統更新快報：「種植」玩法</title>
-    <updated>2021-07-14T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317483597246.jpg"><br/><br/>旅行者們好呀~在2.0版本中，「塵歌壺」將會更新「種植」玩法。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14106">2.0版本系統更新快報：「種植」玩法</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14106" rel="alternate"/>
-    <summary>旅行者們好呀~在2.0版本中，「塵歌壺」將會更新「種植」玩法。</summary>
-    <published>2021-07-14T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>14146</id>
@@ -1130,13 +1121,13 @@
     <published>2021-10-29T12:10:00+08:00</published>
   </entry>
   <entry>
-    <id>14115</id>
-    <title>神里綾華角色預告——「白鷺歸庭」｜原神</title>
-    <updated>2021-07-15T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071418354636436.jpg"><br/><br/>社奉行主理稻妻的神事與文化娛樂事務，「白鷺公主」端莊持重，經常忙於協理各類事宜。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14115">神里綾華角色預告——「白鷺歸庭」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14115" rel="alternate"/>
-    <summary>社奉行主理稻妻的神事與文化娛樂事務，「白鷺公主」端莊持重，經常忙於協理各類事宜。</summary>
-    <published>2021-07-15T12:00:00+08:00</published>
+    <id>16801</id>
+    <title>派蒙帶你一圖流看活動——2.2版本活動快報第二期</title>
+    <updated>2021-10-31T10:10:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915540062897.jpg"><br/><br/>旅行者們好呀~派蒙帶著近期活動資訊來啦，點擊下圖一睹為快吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16801">派蒙帶你一圖流看活動——2.2版本活動快報第二期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16801" rel="alternate"/>
+    <summary>旅行者們好呀~派蒙帶著近期活動資訊來啦，點擊下圖一睹為快吧！</summary>
+    <published>2021-10-31T10:10:00+08:00</published>
   </entry>
   <entry>
     <id>14163</id>
@@ -2015,5 +2006,14 @@
     <summary>旅行者們\ (^ o ^) / ~
 今天將為大家介紹的角色是托馬。</summary>
     <published>2021-10-29T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16801</id>
+    <title>派蒙帶你一圖流看活動——2.2版本活動快報第二期</title>
+    <updated>2021-10-31T10:10:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915540062897.jpg"><br/><br/>旅行者們好呀~派蒙帶著近期活動資訊來啦，點擊下圖一睹為快吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16801">派蒙帶你一圖流看活動——2.2版本活動快報第二期</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16801" rel="alternate"/>
+    <summary>旅行者們好呀~派蒙帶著近期活動資訊來啦，點擊下圖一睹為快吧！</summary>
+    <published>2021-10-31T10:10:00+08:00</published>
   </entry>
 </feed>

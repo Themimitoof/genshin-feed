@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 31 Oct 2021 01:55:00 +0000</lastBuildDate>
-    <item>
-      <title>2.0版本系統更新快報：「種植」玩法</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14106</link>
-      <description>旅行者們好呀~在2.0版本中，「塵歌壺」將會更新「種植」玩法。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071317483597246.jpg"><br/><br/>旅行者們好呀~在2.0版本中，「塵歌壺」將會更新「種植」玩法。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14106">2.0版本系統更新快報：「種植」玩法</a>]]></content:encoded>
-      <guid isPermaLink="false">14106</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 31 Oct 2021 02:25:53 +0000</lastBuildDate>
     <item>
       <title>《稻妻手帳001期》神奇的「雷元素」</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14146</link>
@@ -790,6 +782,14 @@
 今天將為大家介紹的角色是托馬。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16736">「有什麼需要我幫忙的嗎？」——「渡來介者」·托馬</a>]]></content:encoded>
       <guid isPermaLink="false">16736</guid>
       <pubDate>Fri, 29 Oct 2021 12:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>派蒙帶你一圖流看活動——2.2版本活動快報第二期</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16801</link>
+      <description>旅行者們好呀~派蒙帶著近期活動資訊來啦，點擊下圖一睹為快吧！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915540062897.jpg"><br/><br/>旅行者們好呀~派蒙帶著近期活動資訊來啦，點擊下圖一睹為快吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16801">派蒙帶你一圖流看活動——2.2版本活動快報第二期</a>]]></content:encoded>
+      <guid isPermaLink="false">16801</guid>
+      <pubDate>Sun, 31 Oct 2021 10:10:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
