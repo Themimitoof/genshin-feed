@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:30 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -80,6 +80,14 @@ vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen ha
 Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content:encoded>
       <guid isPermaLink="false">16533</guid>
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Webaktion „Superfrisch – Grillen bei Nacht!“ jetzt verfügbar – Grill Fisch mit Shiki Taishou und erhalte Urgestein sowie andere Belohnungen</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16874</link>
+      <description>Nachts am Meer, das prasselnde Lagerfeuer. Lass uns zusammen mit Shiki Taishou Fisch grillen, Reisender!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110385520743.jpg"><br/><br/>Nachts am Meer, das prasselnde Lagerfeuer. Lass uns zusammen mit Shiki Taishou Fisch grillen, Reisender!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16874">Webaktion „Superfrisch – Grillen bei Nacht!“ jetzt verfügbar – Grill Fisch mit Shiki Taishou und erhalte Urgestein sowie andere Belohnungen</a>]]></content:encoded>
+      <guid isPermaLink="false">16874</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

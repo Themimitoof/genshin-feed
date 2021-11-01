@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:30 +0000</lastBuildDate>
-    <item>
-      <title>Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14199</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520205281586.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14199">Diario de Inazuma - 2ª edición: mecanismos y dispositivos mágicos</a>]]></description>
-      <guid isPermaLink="false">14199</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Función de predescarga</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14221</link>
-      <description>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610213684306.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14221">Función de predescarga</a>]]></content:encoded>
-      <guid isPermaLink="false">14221</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:33 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14228</link>
@@ -809,6 +794,22 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</des
 El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16803">Paimon te trae una recopilación de los eventos de la versión 2.2 (II)</a>]]></content:encoded>
       <guid isPermaLink="false">16803</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - El aroma persistente de la mariposa solitaria</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16810</link>
+      <description>Los asuntos de la Funeraria El Camino son algo peculiares, por lo que tanto las ceremonias como los rituales se llevan a cabo con el máximo cuidado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916130236328.jpg"><br/><br/>Los asuntos de la Funeraria El Camino son algo peculiares, por lo que tanto las ceremonias como los rituales se llevan a cabo con el máximo cuidado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16810">Mini álbum de Genshin Impact - El aroma persistente de la mariposa solitaria</a>]]></content:encoded>
+      <guid isPermaLink="false">16810</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡El evento web «Parrillada bajo las estrellas» ya está disponible! Ven a disfrutar del pescado a la parrilla con Shiki Taishou y obtén Protogemas y otras recompensas.</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16865</link>
+      <description>¡Ven a disfrutar de una noche junto al mar, una crepitante hoguera y delicioso pescado a la parrilla junto con Shiki Taishou!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110285658719.jpg"><br/><br/>¡Ven a disfrutar de una noche junto al mar, una crepitante hoguera y delicioso pescado a la parrilla junto con Shiki Taishou!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16865">¡El evento web «Parrillada bajo las estrellas» ya está disponible! Ven a disfrutar del pescado a la parrilla con Shiki Taishou y obtén Protogemas y otras recompensas.</a>]]></content:encoded>
+      <guid isPermaLink="false">16865</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 04:13:07 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -123,6 +123,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102116593480046.png"><br/><br/>Сфотографируйтесь с другими Путешественниками. Место не имеет значения, но на каждой фотографии должно от двух до четырёх персонажей.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16649">Совместное событие снимков «Встреча света и тени»</a>]]></content:encoded>
       <guid isPermaLink="false">16649</guid>
       <pubDate>Mon, 25 Oct 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16869</link>
+      <description>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110313758092.jpg"><br/><br/>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16869">[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</a>]]></content:encoded>
+      <guid isPermaLink="false">16869</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - events</title>
-  <updated>2021-11-01T03:10:44.104212+00:00</updated>
+  <updated>2021-11-01T04:12:55.143846+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -145,5 +145,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16707" rel="alternate"/>
     <summary>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다</summary>
     <published>2021-10-25T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16888</id>
+    <title>[웹이벤트 오픈] 완전 싱싱! 달빛 아래 바비큐! 시키 대장과 같이 생선구이를 만들고 원석 등 보상을 받아가세요</title>
+    <updated>2021-11-01T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110111414156239.jpg"><br/><br/>여행자, 함께 맛있는 생선구이를 먹어요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16888">[웹이벤트 오픈] 완전 싱싱! 달빛 아래 바비큐! 시키 대장과 같이 생선구이를 만들고 원석 등 보상을 받아가세요</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16888" rel="alternate"/>
+    <summary>여행자, 함께 맛있는 생선구이를 먹어요!</summary>
+    <published>2021-11-01T12:00:00+09:00</published>
   </entry>
 </feed>

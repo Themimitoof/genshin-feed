@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:59 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] Hậu trường chế tác Azhdaha - Chuyên Tâm Chạm Khắc Rồng</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14210</link>
-      <description>Khắc sâu sự vĩnh cửu của đá, cảm nhận sự phẫn nộ của núi non. Trong những kẻ địch mạnh mà Nhà Lữ Hành đã từng giao chiến, Azhdaha chắc chắn là một đối thủ đáng nhớ. Hãy cùng theo bước chân của tổ chế tác Genshin Impact nhìn lại quá trình chế tác Azhdaha nhé!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609495050636.jpg"><br/><br/>Khắc sâu sự vĩnh cửu của đá, cảm nhận sự phẫn nộ của núi non. Trong những kẻ địch mạnh mà Nhà Lữ Hành đã từng giao chiến, Azhdaha chắc chắn là một đối thủ đáng nhớ. Hãy cùng theo bước chân của tổ chế tác Genshin Impact nhìn lại quá trình chế tác Azhdaha nhé!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14210">[Genshin Impact] Hậu trường chế tác Azhdaha - Chuyên Tâm Chạm Khắc Rồng</a>]]></content:encoded>
-      <guid isPermaLink="false">14210</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>[Sổ Tay Inazuma Kỳ 003] Những "quái vật khổng lồ" hoàn toàn mới!</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14253</link>
-      <description>Xin chào các Nhà Lữ Hành, kỳ này chúng ta hãy cùng nhau tìm hiểu về những quái vật mới ở Inazuma nhé!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071709455095925.png"><br/><br/>Xin chào các Nhà Lữ Hành, kỳ này chúng ta hãy cùng nhau tìm hiểu về những quái vật mới ở Inazuma nhé!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14253">[Sổ Tay Inazuma Kỳ 003] Những "quái vật khổng lồ" hoàn toàn mới!</a>]]></content:encoded>
-      <guid isPermaLink="false">14253</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:13:15 +0000</lastBuildDate>
     <item>
       <title>[Sổ Tay Inazuma Kỳ 004] Đặc sản chưa từng thấy!</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14241</link>
@@ -768,6 +752,20 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102917003566478.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16815">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.2 - Kỳ II</a>]]></description>
       <guid isPermaLink="false">16815</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tuyển tập Genshin Impact - Lingering Aroma of the Solitary Butterfly</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16797</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915502296142.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16797">Tuyển tập Genshin Impact - Lingering Aroma of the Solitary Butterfly</a>]]></description>
+      <guid isPermaLink="false">16797</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Ra mắt sự kiện web Tiệc BBQ Thơm Ngon - Cùng Shiki Taishou nướng cá để nhận thưởng Nguyên Thạch cùng nhiều phần thưởng khác!</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16876</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110404649148.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16876">Ra mắt sự kiện web Tiệc BBQ Thơm Ngon - Cùng Shiki Taishou nướng cá để nhận thưởng Nguyên Thạch cùng nhiều phần thưởng khác!</a>]]></description>
+      <guid isPermaLink="false">16876</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - info</title>
-  <updated>2021-11-01T03:10:38.195387+00:00</updated>
+  <updated>2021-11-01T04:12:46.152459+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -159,5 +159,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101915190555298.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16587">「原神オフラインオーケストラコンサート」グッズ情報第2期</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/16587" rel="alternate"/>
     <published>2021-10-19T18:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16792</id>
+    <title>Google Playギフトカードコラボお知らせ</title>
+    <updated>2021-10-31T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102914512734006.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16792">Google Playギフトカードコラボお知らせ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16792" rel="alternate"/>
+    <summary/>
+    <published>2021-10-31T12:00:00+09:00</published>
   </entry>
 </feed>

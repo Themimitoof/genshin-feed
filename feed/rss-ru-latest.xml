@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:50 +0000</lastBuildDate>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14280</link>
-      <description>Молитва «Воплощение божества»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718140424861.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14280">Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</a>]]></content:encoded>
-      <guid isPermaLink="false">14280</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор событий версии 2.0 - Выпуск I</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14281</link>
-      <description>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718205964792.jpg"><br/><br/>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14281">Обзор событий версии 2.0 - Выпуск I</a>]]></content:encoded>
-      <guid isPermaLink="false">14281</guid>
-      <pubDate>Mon, 19 Jul 2021 12:10:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:13:02 +0000</lastBuildDate>
     <item>
       <title>The Shimmering Voyage | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14315</link>
@@ -817,6 +801,22 @@
 Событие «Воины лабиринта» уже в самом разгаре. Не пропустите!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16802">Обзор событий версии 2.2 - Выпуск II</a>]]></content:encoded>
       <guid isPermaLink="false">16802</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Где бабочка оставляет свой аромат» | Мини-альбом Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16804</link>
+      <description>Ритуальное бюро «Ваншэн» - предприятие особого рода. Дела в нём всегда вели с большим прилежанием, а обрядам и ритуалам уделяли особое внимание.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916013560585.jpg"><br/><br/>Ритуальное бюро «Ваншэн» - предприятие особого рода. Дела в нём всегда вели с большим прилежанием, а обрядам и ритуалам уделяли особое внимание.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16804">«Где бабочка оставляет свой аромат» | Мини-альбом Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16804</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16869</link>
+      <description>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110313758092.jpg"><br/><br/>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16869">[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</a>]]></content:encoded>
+      <guid isPermaLink="false">16869</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

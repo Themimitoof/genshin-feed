@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:16 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Histoire de personnage | Kamisato Ayaka : « Retour du Héron de givre »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14130</link>
-      <description>La Commission culturelle se charge des affaires spirituelles et culturelles d'Inazuma. La discrète et consciencieuse « Shirasagi Himegimi » est régulièrement occupée à y gérer toutes sortes d'affaires officielles.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419494847166.jpg"><br/><br/>La Commission culturelle se charge des affaires spirituelles et culturelles d'Inazuma. La discrète et consciencieuse « Shirasagi Himegimi » est régulièrement occupée à y gérer toutes sortes d'affaires officielles.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14130">Genshin Impact - Histoire de personnage | Kamisato Ayaka : « Retour du Héron de givre »</a>]]></content:encoded>
-      <guid isPermaLink="false">14130</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:14 +0000</lastBuildDate>
     <item>
       <title>L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14158</link>
@@ -782,6 +774,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922074279975.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16843">Paimon vous présente un aperçu des événements de la version 2.2 - Partie II</a>]]></description>
       <guid isPermaLink="false">16843</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Genshin Impact », la bande-son : Là où les papillons dispersent leur parfum</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16848</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922162722111.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16848">« Genshin Impact », la bande-son : Là où les papillons dispersent leur parfum</a>]]></description>
+      <guid isPermaLink="false">16848</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

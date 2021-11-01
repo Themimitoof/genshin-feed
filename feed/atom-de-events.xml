@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - events</title>
-  <updated>2021-11-01T03:10:27.768136+00:00</updated>
+  <updated>2021-11-01T04:12:30.289618+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -88,5 +88,14 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
 vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
 Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</summary>
     <published>2021-10-14T18:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16874</id>
+    <title>Webaktion „Superfrisch – Grillen bei Nacht!“ jetzt verfügbar – Grill Fisch mit Shiki Taishou und erhalte Urgestein sowie andere Belohnungen</title>
+    <updated>2021-11-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110385520743.jpg"><br/><br/>Nachts am Meer, das prasselnde Lagerfeuer. Lass uns zusammen mit Shiki Taishou Fisch grillen, Reisender!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16874">Webaktion „Superfrisch – Grillen bei Nacht!“ jetzt verfügbar – Grill Fisch mit Shiki Taishou und erhalte Urgestein sowie andere Belohnungen</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16874" rel="alternate"/>
+    <summary>Nachts am Meer, das prasselnde Lagerfeuer. Lass uns zusammen mit Shiki Taishou Fisch grillen, Reisender!</summary>
+    <published>2021-11-01T12:00:00+01:00</published>
   </entry>
 </feed>

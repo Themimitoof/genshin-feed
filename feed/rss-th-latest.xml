@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:54 +0000</lastBuildDate>
-    <item>
-      <title>กำเนิดมังกร - เบื้องหลังการสร้าง Azhdaha ของ "Genshin Impact"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14227</link>
-      <description>สลักความเป็นนิรันดร์ สัมผัสได้ถึงความพิโรธของภูผา </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610292584798.jpg"><br/><br/>สลักความเป็นนิรันดร์ สัมผัสได้ถึงความพิโรธของภูผา <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14227">กำเนิดมังกร - เบื้องหลังการสร้าง Azhdaha ของ "Genshin Impact"</a>]]></content:encoded>
-      <guid isPermaLink="false">14227</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>[บันทึก Inazuma ฉบับที่ 3] กองทัพศัตรูหน้าใหม่!</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14260</link>
-      <description>สวัสดีนะ นักเดินทาง ในฉบับนี้เรามาทำความรู้จักกับเหล่ามอนสเตอร์หน้าใหม่ใน Inazuma กันเถอะ~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071712231963553.png"><br/><br/>สวัสดีนะ นักเดินทาง ในฉบับนี้เรามาทำความรู้จักกับเหล่ามอนสเตอร์หน้าใหม่ใน Inazuma กันเถอะ~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14260">[บันทึก Inazuma ฉบับที่ 3] กองทัพศัตรูหน้าใหม่!</a>]]></content:encoded>
-      <guid isPermaLink="false">14260</guid>
-      <pubDate>Sat, 17 Jul 2021 12:11:24 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:13:09 +0000</lastBuildDate>
     <item>
       <title>[บันทึก Inazuma ฉบับที่ 4] สินค้าสุดพิเศษที่ไม่เคยมีมาก่อน!</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14276</link>
@@ -751,6 +735,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916583534061.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16814">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.2 ช่วงที่ 2</a>]]></description>
       <guid isPermaLink="false">16814</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Genshin Impact" มินิอัลบั้ม - ผีเสื้อที่ทิ้งกลิ่นหอม</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16795</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915474480306.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16795">"Genshin Impact" มินิอัลบั้ม - ผีเสื้อที่ทิ้งกลิ่นหอม</a>]]></description>
+      <guid isPermaLink="false">16795</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[กิจกรรมบนเว็บไซต์] สดจากทะเล! ค่ำคืนแห่งการปิ้งย่าง - ร่วมย่างปลาไปกับ Shiki Taishou เพื่อรับ Primogem และรางวัลอีกมากมาย</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16871</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110340423434.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16871">[กิจกรรมบนเว็บไซต์] สดจากทะเล! ค่ำคืนแห่งการปิ้งย่าง - ร่วมย่างปลาไปกับ Shiki Taishou เพื่อรับ Primogem และรางวัลอีกมากมาย</a>]]></description>
+      <guid isPermaLink="false">16871</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

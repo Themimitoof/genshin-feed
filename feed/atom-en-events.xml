@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - events</title>
-  <updated>2021-11-01T03:10:14.630433+00:00</updated>
+  <updated>2021-11-01T04:12:11.504820+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -147,5 +147,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/16629" rel="alternate"/>
     <summary>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.</summary>
     <published>2021-10-25T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16867</id>
+    <title>Web Event "Yummy! Barbecue Under the Stars" Now Online: Grill fish with Shiki Taishou to earn Primogems and other rewards</title>
+    <updated>2021-11-01T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110302540268.jpg"><br/><br/>A dancing campfire by the seaside at night~ Hurry and come grill some fish with Shiki Taishou, Traveler!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16867">Web Event "Yummy! Barbecue Under the Stars" Now Online: Grill fish with Shiki Taishou to earn Primogems and other rewards</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16867" rel="alternate"/>
+    <summary>A dancing campfire by the seaside at night~ Hurry and come grill some fish with Shiki Taishou, Traveler!</summary>
+    <published>2021-11-01T12:00:00-04:00</published>
   </entry>
 </feed>

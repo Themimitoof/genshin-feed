@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2021-11-01T03:10:40.074674+00:00</updated>
+  <updated>2021-11-01T04:12:48.855059+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>events feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>7229</id>
-    <title>「グルメは冷めないうちに」イベント予告</title>
-    <updated>2020-12-09T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201209/2020120911240079148.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7229">「グルメは冷めないうちに」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/7229" rel="alternate"/>
-    <summary/>
-    <published>2020-12-09T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>7256</id>
     <title>「グルメは冷めないうちに」イベント紹介</title>
@@ -891,5 +882,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/16651" rel="alternate"/>
     <summary/>
     <published>2021-10-25T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16887</id>
+    <title>「激ウマ！BBQの夜」イベント紹介</title>
+    <updated>2021-11-01T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110111250469324.jpg"><br/><br/>Webイベント・「激ウマ！BBQの夜」——式大将と一緒に魚を焼いて、原石などの報酬を獲得しよう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16887">「激ウマ！BBQの夜」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16887" rel="alternate"/>
+    <summary>Webイベント・「激ウマ！BBQの夜」——式大将と一緒に魚を焼いて、原石などの報酬を獲得しよう！</summary>
+    <published>2021-11-01T12:00:00+09:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:42 +0000</lastBuildDate>
-    <item>
-      <title>2.0 신규 버전 「부동의 번개 신, 포영의 절멸」 사전 공개 페이지 오픈!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14166</link>
-      <description>﻿2.0 신규 버전 「부동의 번개 신, 포영의 절멸」 사전 공개 페이지 오픈!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511432917889.png"><br/><br/>﻿2.0 신규 버전 「부동의 번개 신, 포영의 절멸」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14166">2.0 신규 버전 「부동의 번개 신, 포영의 절멸」 사전 공개 페이지 오픈!</a>]]></content:encoded>
-      <guid isPermaLink="false">14166</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:52 +0000</lastBuildDate>
     <item>
       <title>「이나즈마의 카미사토류 태도술 계승자-카미사토 아야카, 참전!」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14137</link>
@@ -856,6 +848,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211030/2021103015323275706.jpg"><br/><br/>페이몬이 최근의 이벤트 정보를 가져왔다구~ 여행자들 얼른 모여봐~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16855"> 「안개의 미궁 속으로」 2.2 버전 이벤트 알림 제2회</a>]]></content:encoded>
       <guid isPermaLink="false">16855</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 EP - 나비의 잔향이 머무는 곳</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16856</link>
+      <description>왕생당은 특별한 일을 하기에 항상 신중하게 일을 행하고 각종 예법에 신경 쓴다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211030/2021103015505329299.jpg"><br/><br/>왕생당은 특별한 일을 하기에 항상 신중하게 일을 행하고 각종 예법에 신경 쓴다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16856">원신 EP - 나비의 잔향이 머무는 곳</a>]]></content:encoded>
+      <guid isPermaLink="false">16856</guid>
+      <pubDate>Mon, 01 Nov 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

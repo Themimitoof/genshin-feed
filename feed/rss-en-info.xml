@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:12 +0000</lastBuildDate>
-    <item>
-      <title>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14164</link>
-      <description>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511304763172.png"><br/><br/>The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14164">The Version 2.0 "The Immovable God and the Eternal Euthymia" Preview Page Is Here!</a>]]></content:encoded>
-      <guid isPermaLink="false">14164</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:08 +0000</lastBuildDate>
     <item>
       <title>"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!"</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14135</link>
@@ -900,6 +890,18 @@ But no need to worry, because Thoma will protect you.<br><br>Read more on <a hre
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916123988557.jpg"><br/><br/>Hello, Travelers~ Paimon has got the scoop on the latest events. Click the picture below for a quick overview! The "Labyrinth Warriors" event is currently underway, so be sure not to miss it!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16809">Paimon's Sneak Peek at Version 2.2 New Events - Phase II</a>]]></content:encoded>
       <guid isPermaLink="false">16809</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact EP - Lingering Aroma of the Solitary Butterfly</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16807</link>
+      <description>The Wangsheng Funeral Parlor runs a special business, so it has always acted with great care, especially when it comes to rituals and ceremonies.
+However, when the undertakers study the rules rigorously, the Director is often nowhere to be seen.
+Where could this butterfly carrying a lingering aroma be found...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916042654833.jpg"><br/><br/>The Wangsheng Funeral Parlor runs a special business, so it has always acted with great care, especially when it comes to rituals and ceremonies.
+However, when the undertakers study the rules rigorously, the Director is often nowhere to be seen.
+Where could this butterfly carrying a lingering aroma be found...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16807">Genshin Impact EP - Lingering Aroma of the Solitary Butterfly</a>]]></content:encoded>
+      <guid isPermaLink="false">16807</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

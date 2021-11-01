@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-11-01T03:10:33.391892+00:00</updated>
+  <updated>2021-11-01T04:12:38.143088+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14240</id>
-    <title>Seluk-beluk Inazuma Edisi 4: Produk Khas yang Belum Pernah Ada!</title>
-    <updated>2021-07-18T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620140197261.jpg"><br/><br/>Halo, Traveler~ Yuk kita lihat seperti apa sih pemandangan alam di Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14240">Seluk-beluk Inazuma Edisi 4: Produk Khas yang Belum Pernah Ada!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14240" rel="alternate"/>
-    <summary>Halo, Traveler~ Yuk kita lihat seperti apa sih pemandangan alam di Inazuma.</summary>
-    <published>2021-07-18T10:30:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14306</id>
-    <title>Pengumuman Update v2.0 "Dewa Kekal dan Tanah Keabadian"</title>
-    <updated>2021-07-19T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071909491013592.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14306">Pengumuman Update v2.0 "Dewa Kekal dan Tanah Keabadian"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14306" rel="alternate"/>
-    <summary>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi.</summary>
-    <published>2021-07-19T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>14322</id>
     <title>Event Permohonan "Pelataran Bangau Putih": Persentase Perolehan "Frostflake Heron" Kamisato Ayaka (Cryo) Meningkat!</title>
@@ -913,5 +895,23 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16838" rel="alternate"/>
     <summary>Halo Traveler semua! Paimon datang bawa info terbaru nih, tekan gambar di bawah untuk lihat ya!</summary>
     <published>2021-10-31T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16812</id>
+    <title>Mini Album: Aroma Kupu-Kupu Penyendiri yang Tertinggal | Genshin Impact</title>
+    <updated>2021-11-01T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916203810001.jpg"><br/><br/>Wangsheng Funeral Parlor menjalankan usaha yang khusus sehingga perlu melakukan segala hal dengan hati-hati, khususnya di dalam ritual-ritual dan upacara.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16812">Mini Album: Aroma Kupu-Kupu Penyendiri yang Tertinggal | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16812" rel="alternate"/>
+    <summary>Wangsheng Funeral Parlor menjalankan usaha yang khusus sehingga perlu melakukan segala hal dengan hati-hati, khususnya di dalam ritual-ritual dan upacara.</summary>
+    <published>2021-11-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16872</id>
+    <title>[Event Web Dimulai] "BBQ di Malam Berbintang": Bakar Ikan Bersama Shiki Taishou, Dapatkan Primogem dan Hadiah Lainnya</title>
+    <updated>2021-11-01T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110365194134.jpg"><br/><br/>Duduk di tepi pantai sambil mengelilingi api unggun di malam hari. Traveler, ayo kita bakar ikan bersama Shiki Taishou!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16872">[Event Web Dimulai] "BBQ di Malam Berbintang": Bakar Ikan Bersama Shiki Taishou, Dapatkan Primogem dan Hadiah Lainnya</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16872" rel="alternate"/>
+    <summary>Duduk di tepi pantai sambil mengelilingi api unggun di malam hari. Traveler, ayo kita bakar ikan bersama Shiki Taishou!</summary>
+    <published>2021-11-01T12:00:00+07:00</published>
   </entry>
 </feed>

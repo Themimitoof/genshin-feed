@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - events</title>
-  <updated>2021-11-01T03:10:58.877386+00:00</updated>
+  <updated>2021-11-01T04:13:13.637187+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -123,5 +123,14 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/16548" rel="alternate"/>
     <summary/>
     <published>2021-10-15T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16871</id>
+    <title>[กิจกรรมบนเว็บไซต์] สดจากทะเล! ค่ำคืนแห่งการปิ้งย่าง - ร่วมย่างปลาไปกับ Shiki Taishou เพื่อรับ Primogem และรางวัลอีกมากมาย</title>
+    <updated>2021-11-01T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110340423434.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16871">[กิจกรรมบนเว็บไซต์] สดจากทะเล! ค่ำคืนแห่งการปิ้งย่าง - ร่วมย่างปลาไปกับ Shiki Taishou เพื่อรับ Primogem และรางวัลอีกมากมาย</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/16871" rel="alternate"/>
+    <summary/>
+    <published>2021-11-01T12:00:00+07:00</published>
   </entry>
 </feed>

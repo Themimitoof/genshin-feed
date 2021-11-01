@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2021-11-01T03:10:49.617336+00:00</updated>
+  <updated>2021-11-01T04:13:01.071718+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -178,5 +178,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16820" rel="alternate"/>
     <summary>Paimon quer doces!</summary>
     <published>2021-11-01T10:02:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16880</id>
+    <title>[Evento Web Disponível] "Fresquíssimo! Uma Noite do Sabor Supremo" — Venha grelhar deliciosos peixes com Shiki Taishou e obtenha Gemas Essenciais, entre outras recompensas!</title>
+    <updated>2021-11-01T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110465198485.jpg"><br/><br/>Junte-se ao Shiki Taishou para saborear deliciosos peixes grelhados em uma linda noite à beira-mar com faíscas de fogueira voando pelo ar!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16880">[Evento Web Disponível] "Fresquíssimo! Uma Noite do Sabor Supremo" — Venha grelhar deliciosos peixes com Shiki Taishou e obtenha Gemas Essenciais, entre outras recompensas!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16880" rel="alternate"/>
+    <summary>Junte-se ao Shiki Taishou para saborear deliciosos peixes grelhados em uma linda noite à beira-mar com faíscas de fogueira voando pelo ar!</summary>
+    <published>2021-11-01T12:00:00+00:00</published>
   </entry>
 </feed>

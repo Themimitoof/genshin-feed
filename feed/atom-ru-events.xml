@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2021-11-01T03:10:53.835841+00:00</updated>
+  <updated>2021-11-01T04:13:07.456196+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -137,5 +137,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16649" rel="alternate"/>
     <summary>Сфотографируйтесь с другими Путешественниками. Место не имеет значения, но на каждой фотографии должно от двух до четырёх персонажей.</summary>
     <published>2021-10-25T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16869</id>
+    <title>[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</title>
+    <updated>2021-11-01T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110313758092.jpg"><br/><br/>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16869">[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16869" rel="alternate"/>
+    <summary>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!</summary>
+    <published>2021-11-01T12:00:00+03:00</published>
   </entry>
 </feed>

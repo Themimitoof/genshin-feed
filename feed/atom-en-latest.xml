@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-11-01T03:10:11.144875+00:00</updated>
+  <updated>2021-11-01T04:12:06.422189+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14330</id>
-    <title>Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!</title>
-    <updated>2021-07-19T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910455624767.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14330">Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14330" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</summary>
-    <published>2021-07-19T12:01:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14337</id>
-    <title>Version 2.0 Events Preview - Phase I</title>
-    <updated>2021-07-19T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071911030669632.jpg"><br/><br/>Version 2.0 Events Preview - Phase I
-In addition to launching Inazuma in Version 2.0, we've also lined up tons of exciting events for you. Click the picture below for a quick overview!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14337">Version 2.0 Events Preview - Phase I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14337" rel="alternate"/>
-    <summary>Version 2.0 Events Preview - Phase I
-In addition to launching Inazuma in Version 2.0, we've also lined up tons of exciting events for you. Click the picture below for a quick overview!</summary>
-    <published>2021-07-19T12:10:00-04:00</published>
-  </entry>
   <entry>
     <id>14316</id>
     <title>Genshin Impact OST Album - The Shimmering Voyage</title>
@@ -998,5 +978,27 @@ But no need to worry, because Thoma will protect you.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/16809" rel="alternate"/>
     <summary>Hello, Travelers~ Paimon has got the scoop on the latest events. Click the picture below for a quick overview! The "Labyrinth Warriors" event is currently underway, so be sure not to miss it!</summary>
     <published>2021-10-31T12:10:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16807</id>
+    <title>Genshin Impact EP - Lingering Aroma of the Solitary Butterfly</title>
+    <updated>2021-11-01T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916042654833.jpg"><br/><br/>The Wangsheng Funeral Parlor runs a special business, so it has always acted with great care, especially when it comes to rituals and ceremonies.
+However, when the undertakers study the rules rigorously, the Director is often nowhere to be seen.
+Where could this butterfly carrying a lingering aroma be found...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16807">Genshin Impact EP - Lingering Aroma of the Solitary Butterfly</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16807" rel="alternate"/>
+    <summary>The Wangsheng Funeral Parlor runs a special business, so it has always acted with great care, especially when it comes to rituals and ceremonies.
+However, when the undertakers study the rules rigorously, the Director is often nowhere to be seen.
+Where could this butterfly carrying a lingering aroma be found...</summary>
+    <published>2021-11-01T12:00:00-04:00</published>
+  </entry>
+  <entry>
+    <id>16867</id>
+    <title>Web Event "Yummy! Barbecue Under the Stars" Now Online: Grill fish with Shiki Taishou to earn Primogems and other rewards</title>
+    <updated>2021-11-01T12:00:00-04:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110302540268.jpg"><br/><br/>A dancing campfire by the seaside at night~ Hurry and come grill some fish with Shiki Taishou, Traveler!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16867">Web Event "Yummy! Barbecue Under the Stars" Now Online: Grill fish with Shiki Taishou to earn Primogems and other rewards</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/16867" rel="alternate"/>
+    <summary>A dancing campfire by the seaside at night~ Hurry and come grill some fish with Shiki Taishou, Traveler!</summary>
+    <published>2021-11-01T12:00:00-04:00</published>
   </entry>
 </feed>

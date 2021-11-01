@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - events</title>
-  <updated>2021-11-01T03:10:19.295728+00:00</updated>
+  <updated>2021-11-01T04:12:17.257827+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -116,5 +116,14 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102512092786867.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16708">Concours de photos en mode multijoueur « Rencontre entre ombres et lumières »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/16708" rel="alternate"/>
     <published>2021-10-25T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>16877</id>
+    <title>L'événement web « Grillades nocturnes ! » est disponible ! Faites griller du poisson avec Shiki Taishou pour obtenir des primo-gemmes et d'autres récompenses !</title>
+    <updated>2021-11-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110434772367.jpg"><br/><br/>Profitons du feu de camp le soir en bord de mer et partageons ensemble de délicieuses grillades de poissons, voyageurs !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16877">L'événement web « Grillades nocturnes ! » est disponible ! Faites griller du poisson avec Shiki Taishou pour obtenir des primo-gemmes et d'autres récompenses !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16877" rel="alternate"/>
+    <summary>Profitons du feu de camp le soir en bord de mer et partageons ensemble de délicieuses grillades de poissons, voyageurs !</summary>
+    <published>2021-11-01T12:00:00+01:00</published>
   </entry>
 </feed>

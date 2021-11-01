@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2021-11-01T03:11:00.811291+00:00</updated>
+  <updated>2021-11-01T04:13:16.804593+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14160</id>
-    <title>Trang xem trước phiên bản mới 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt" đã mở rồi!</title>
-    <updated>2021-07-15T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511242138759.png"><br/><br/>Trang xem trước phiên bản mới 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt" đã mở rồi!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14160">Trang xem trước phiên bản mới 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt" đã mở rồi!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14160" rel="alternate"/>
-    <summary>Trang xem trước phiên bản mới 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt" đã mở rồi!</summary>
-    <published>2021-07-15T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14142</id>
     <title>"Tôi là Kamisato Ayaka thuộc Trường Phái Kamisato!"		</title>
@@ -886,5 +877,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102917003566478.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16815">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.2 - Kỳ II</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16815" rel="alternate"/>
     <published>2021-10-31T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16797</id>
+    <title>Tuyển tập Genshin Impact - Lingering Aroma of the Solitary Butterfly</title>
+    <updated>2021-11-01T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915502296142.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16797">Tuyển tập Genshin Impact - Lingering Aroma of the Solitary Butterfly</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16797" rel="alternate"/>
+    <published>2021-11-01T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:11 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -132,6 +132,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115281469819.png"><br/><br/>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16629">"Meeting of Light and Shadow" Co-Op Photo Submission Contest</a>]]></content:encoded>
       <guid isPermaLink="false">16629</guid>
       <pubDate>Mon, 25 Oct 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Web Event "Yummy! Barbecue Under the Stars" Now Online: Grill fish with Shiki Taishou to earn Primogems and other rewards</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16867</link>
+      <description>A dancing campfire by the seaside at night~ Hurry and come grill some fish with Shiki Taishou, Traveler!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110302540268.jpg"><br/><br/>A dancing campfire by the seaside at night~ Hurry and come grill some fish with Shiki Taishou, Traveler!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16867">Web Event "Yummy! Barbecue Under the Stars" Now Online: Grill fish with Shiki Taishou to earn Primogems and other rewards</a>]]></content:encoded>
+      <guid isPermaLink="false">16867</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

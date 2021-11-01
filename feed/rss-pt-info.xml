@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:47 +0000</lastBuildDate>
-    <item>
-      <title>Diário em Inazuma - Edição 2: Mecanismos e Dispositivos Incríveis</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14192</link>
-      <description>Olá, caros Viajantes!
-Durante a jornada em Inazuma, é possível encontrar mecanismos incríveis frequentemente. Como desbloquear cada um desses mecanismos diferentes? Vamos descobrir juntos!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519224294518.jpg"><br/><br/>Olá, caros Viajantes!
-Durante a jornada em Inazuma, é possível encontrar mecanismos incríveis frequentemente. Como desbloquear cada um desses mecanismos diferentes? Vamos descobrir juntos!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14192">Diário em Inazuma - Edição 2: Mecanismos e Dispositivos Incríveis</a>]]></content:encoded>
-      <guid isPermaLink="false">14192</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:58 +0000</lastBuildDate>
     <item>
       <title>O pré-download estará dispnível em breve</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14212</link>
@@ -813,6 +803,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916030773031.jpg"><br/><br/>Olá, Viajantes! Hoje, Paimon está trazendo para vocês, informações sobre os últimos eventos. Pressione na imagem abaixo para uma rápida visão geral!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16806">Venha conferir a "Visão Geral dos Eventos da Versão 2.2 - Edição II" junto com a Paimon!</a>]]></content:encoded>
       <guid isPermaLink="false">16806</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EP - A Fragrância da Borboleta Solitária | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16799</link>
+      <description>A Funerária de Wangsheng dirige um negócio muito especial, portanto todos agem de modo cauteloso, especialmente nas cerimônias e nos rituais.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915524152626.jpg"><br/><br/>A Funerária de Wangsheng dirige um negócio muito especial, portanto todos agem de modo cauteloso, especialmente nas cerimônias e nos rituais.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16799">EP - A Fragrância da Borboleta Solitária | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16799</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

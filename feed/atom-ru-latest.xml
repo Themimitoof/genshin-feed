@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-11-01T03:10:50.594635+00:00</updated>
+  <updated>2021-11-01T04:13:02.508372+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>14280</id>
-    <title>Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</title>
-    <updated>2021-07-19T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718140424861.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14280">Молитва «Воплощение божества»: повышен шанс получить Рассекающий туман (Одноручное) и Небесная ось (Древковое)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14280" rel="alternate"/>
-    <summary>Молитва «Воплощение божества»</summary>
-    <published>2021-07-19T12:01:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14281</id>
-    <title>Обзор событий версии 2.0 - Выпуск I</title>
-    <updated>2021-07-19T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718205964792.jpg"><br/><br/>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14281">Обзор событий версии 2.0 - Выпуск I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14281" rel="alternate"/>
-    <summary>В версии 2.0, помимо нового региона Инадзумы, вас ждёт множество интересных событий.</summary>
-    <published>2021-07-19T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>14315</id>
     <title>The Shimmering Voyage | Genshin Impact</title>
@@ -918,5 +900,23 @@
     <summary>Привет, Путешественники! Паймон расскажет вам о новых событиях. Нажмите на картинку ниже, чтобы узнать подробности!
 Событие «Воины лабиринта» уже в самом разгаре. Не пропустите!</summary>
     <published>2021-10-31T12:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16804</id>
+    <title>«Где бабочка оставляет свой аромат» | Мини-альбом Genshin Impact</title>
+    <updated>2021-11-01T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916013560585.jpg"><br/><br/>Ритуальное бюро «Ваншэн» - предприятие особого рода. Дела в нём всегда вели с большим прилежанием, а обрядам и ритуалам уделяли особое внимание.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16804">«Где бабочка оставляет свой аромат» | Мини-альбом Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16804" rel="alternate"/>
+    <summary>Ритуальное бюро «Ваншэн» - предприятие особого рода. Дела в нём всегда вели с большим прилежанием, а обрядам и ритуалам уделяли особое внимание.</summary>
+    <published>2021-11-01T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16869</id>
+    <title>[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</title>
+    <updated>2021-11-01T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110313758092.jpg"><br/><br/>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16869">[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16869" rel="alternate"/>
+    <summary>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!</summary>
+    <published>2021-11-01T12:00:00+03:00</published>
   </entry>
 </feed>

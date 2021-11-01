@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:15 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Naissance d'un dragon : les coulisses de la création d'Azhdaha</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14230</link>
-      <description>Gravé à jamais dans la roche, les montagnes témoignent de sa puissance. De tous les adversaires que les voyageurs ont pu affronter, Azhdaha demeure certainement l'un des plus mémorables ! Suivons l'équipe de Genshin Impact dans les coulisses de sa création !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610323555432.jpg"><br/><br/>Gravé à jamais dans la roche, les montagnes témoignent de sa puissance. De tous les adversaires que les voyageurs ont pu affronter, Azhdaha demeure certainement l'un des plus mémorables ! Suivons l'équipe de Genshin Impact dans les coulisses de sa création !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14230">Genshin Impact - Naissance d'un dragon : les coulisses de la création d'Azhdaha</a>]]></content:encoded>
-      <guid isPermaLink="false">14230</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Les carnets d'Inazuma N° 3 : découvrez les nouveaux monstres !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14261</link>
-      <description>Bonjour, voyageurs ! Nous allons cette fois-ci nous intéresser aux nouveaux monstres d'Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071712344816418.png"><br/><br/>Bonjour, voyageurs ! Nous allons cette fois-ci nous intéresser aux nouveaux monstres d'Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14261">Les carnets d'Inazuma N° 3 : découvrez les nouveaux monstres !</a>]]></content:encoded>
-      <guid isPermaLink="false">14261</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:12:12 +0000</lastBuildDate>
     <item>
       <title>Les carnets d'Inazuma N° 4 : faune et flore locales !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14242</link>
@@ -779,6 +763,21 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922074279975.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16843">Paimon vous présente un aperçu des événements de la version 2.2 - Partie II</a>]]></description>
       <guid isPermaLink="false">16843</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Genshin Impact », la bande-son : Là où les papillons dispersent leur parfum</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16848</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922162722111.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16848">« Genshin Impact », la bande-son : Là où les papillons dispersent leur parfum</a>]]></description>
+      <guid isPermaLink="false">16848</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Grillades nocturnes ! » est disponible ! Faites griller du poisson avec Shiki Taishou pour obtenir des primo-gemmes et d'autres récompenses !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16877</link>
+      <description>Profitons du feu de camp le soir en bord de mer et partageons ensemble de délicieuses grillades de poissons, voyageurs !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110434772367.jpg"><br/><br/>Profitons du feu de camp le soir en bord de mer et partageons ensemble de délicieuses grillades de poissons, voyageurs !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16877">L'événement web « Grillades nocturnes ! » est disponible ! Faites griller du poisson avec Shiki Taishou pour obtenir des primo-gemmes et d'autres récompenses !</a>]]></content:encoded>
+      <guid isPermaLink="false">16877</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

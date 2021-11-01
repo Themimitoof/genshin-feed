@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 01 Nov 2021 03:10:56 +0000</lastBuildDate>
-    <item>
-      <title>หน้าตัวอย่างเวอร์ชัน 2.0 "สายฟ้านิรันดร์ กับความฝันอันว่างเปล่า" เปิดแล้ว!</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14165</link>
-      <description>สวัสดีนักเดินทางที่รัก</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511391313141.png"><br/><br/>สวัสดีนักเดินทางที่รัก<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14165">หน้าตัวอย่างเวอร์ชัน 2.0 "สายฟ้านิรันดร์ กับความฝันอันว่างเปล่า" เปิดแล้ว!</a>]]></content:encoded>
-      <guid isPermaLink="false">14165</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 04:13:11 +0000</lastBuildDate>
     <item>
       <title>"Kamisato Ayaka ผู้สำเร็จวิชาดาบแห่ง Inazuma Kamisato Art Tachi Jutsu มารับคำท้าถึงที่แล้ว!"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14156</link>
@@ -755,6 +747,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916583534061.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16814">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.2 ช่วงที่ 2</a>]]></description>
       <guid isPermaLink="false">16814</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Genshin Impact" มินิอัลบั้ม - ผีเสื้อที่ทิ้งกลิ่นหอม</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16795</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915474480306.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16795">"Genshin Impact" มินิอัลบั้ม - ผีเสื้อที่ทิ้งกลิ่นหอม</a>]]></description>
+      <guid isPermaLink="false">16795</guid>
+      <pubDate>Mon, 01 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
