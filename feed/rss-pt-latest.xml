@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 01 Nov 2021 01:55:16 +0000</lastBuildDate>
-    <item>
-      <title>Prévia do Evento da Versão 2.0 - Edição I</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14296</link>
-      <description>Olá Viajantes~ Muito além da mais nova região de Inazuma, a Versão 2.0 ainda contará com vários eventos divertidos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819353015177.jpg"><br/><br/>Olá Viajantes~ Muito além da mais nova região de Inazuma, a Versão 2.0 ainda contará com vários eventos divertidos.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14296">Prévia do Evento da Versão 2.0 - Edição I</a>]]></content:encoded>
-      <guid isPermaLink="false">14296</guid>
-      <pubDate>Mon, 19 Jul 2021 12:10:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 01 Nov 2021 02:27:07 +0000</lastBuildDate>
     <item>
       <title>O álbum de trilhas sonoras de Genshin Impact - The Shimmering Voyage</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14327</link>
@@ -818,6 +810,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102916030773031.jpg"><br/><br/>Olá, Viajantes! Hoje, Paimon está trazendo para vocês, informações sobre os últimos eventos. Pressione na imagem abaixo para uma rápida visão geral!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16806">Venha conferir a "Visão Geral dos Eventos da Versão 2.2 - Edição II" junto com a Paimon!</a>]]></content:encoded>
       <guid isPermaLink="false">16806</guid>
       <pubDate>Sun, 31 Oct 2021 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doces ou Careta!? — Evento da comunidade de língua portuguesa</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16820</link>
+      <description>Paimon quer doces!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211030/2021103013474876326.jpg"><br/><br/>Paimon quer doces!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16820">Doces ou Careta!? — Evento da comunidade de língua portuguesa</a>]]></content:encoded>
+      <guid isPermaLink="false">16820</guid>
+      <pubDate>Mon, 01 Nov 2021 10:02:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
