@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:53 +0000</lastBuildDate>
-    <item>
-      <title>L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14158</link>
-      <description>L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071514303487484.jpg"><br/><br/>L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14158">L'aperçu de la version 2.0 « Divinité impitoyable et euthymie éternelle » est disponible !</a>]]></content:encoded>
-      <guid isPermaLink="false">14158</guid>
-      <pubDate>Thu, 15 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:20 +0000</lastBuildDate>
     <item>
       <title>Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma, à votre service !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14136</link>
@@ -781,6 +773,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102922162722111.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16848">« Genshin Impact », la bande-son : Là où les papillons dispersent leur parfum</a>]]></description>
       <guid isPermaLink="false">16848</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Thomas : Cœur ardent et armure écarlate</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16919</link>
+      <description>Thomas protège énormément de choses, comme la confiance de ses amis proches, la profonde connaissance mutuelle avec ses compagnons ou encore ces petites créatures à la douce fourrure.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110216494343799.jpg"><br/><br/>Thomas protège énormément de choses, comme la confiance de ses amis proches, la profonde connaissance mutuelle avec ses compagnons ou encore ces petites créatures à la douce fourrure.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16919">Genshin Impact - Thomas : Cœur ardent et armure écarlate</a>]]></content:encoded>
+      <guid isPermaLink="false">16919</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

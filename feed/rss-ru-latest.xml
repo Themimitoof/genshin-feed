@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:59 +0000</lastBuildDate>
-    <item>
-      <title>The Shimmering Voyage | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14315</link>
-      <description>OST Genshin Impact The Shimmering Voyage</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910110412068.jpg"><br/><br/>OST Genshin Impact The Shimmering Voyage<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14315">The Shimmering Voyage | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14315</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:51 +0000</lastBuildDate>
     <item>
       <title>«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14366</link>
@@ -817,6 +809,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110313758092.jpg"><br/><br/>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16869">[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</a>]]></content:encoded>
       <guid isPermaLink="false">16869</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Тома: Алый доспех преданности | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16907</link>
+      <description>Многие могут рассчитывать на помощь и защиту Томы: верные друзья, знакомые единомышленники, ну и, конечно, маленькие пушистики.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211203324413.jpg"><br/><br/>Многие могут рассчитывать на помощь и защиту Томы: верные друзья, знакомые единомышленники, ну и, конечно, маленькие пушистики.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16907">Тома: Алый доспех преданности | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16907</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

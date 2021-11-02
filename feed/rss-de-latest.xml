@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:55 +0000</lastBuildDate>
-    <item>
-      <title>Notizen über Inazuma – Teil 3: Die neuen Schwergewichte</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14259</link>
-      <description>Hallo, liebe Reisende! In diesem Teil werden wir euch mehr über die neuen Monster in Inazuma erzählen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071712105112221.png"><br/><br/>Hallo, liebe Reisende! In diesem Teil werden wir euch mehr über die neuen Monster in Inazuma erzählen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14259">Notizen über Inazuma – Teil 3: Die neuen Schwergewichte</a>]]></content:encoded>
-      <guid isPermaLink="false">14259</guid>
-      <pubDate>Sat, 17 Jul 2021 12:05:52 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:28 +0000</lastBuildDate>
     <item>
       <title>Notizen über Inazuma – Teil 4: Neuartig und nützlich!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14245</link>
@@ -846,6 +838,14 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110385520743.jpg"><br/><br/>Nachts am Meer, das prasselnde Lagerfeuer. Lass uns zusammen mit Shiki Taishou Fisch grillen, Reisender!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16874">Webaktion „Superfrisch – Grillen bei Nacht!“ jetzt verfügbar – Grill Fisch mit Shiki Taishou und erhalte Urgestein sowie andere Belohnungen</a>]]></content:encoded>
       <guid isPermaLink="false">16874</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16912</link>
+      <description>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211290348716.jpg"><br/><br/>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16912">Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</a>]]></content:encoded>
+      <guid isPermaLink="false">16912</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

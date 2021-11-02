@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-11-02T09:10:01.161001+00:00</updated>
+  <updated>2021-11-02T10:11:03.518558+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -243,15 +243,6 @@
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14142</id>
-    <title>"Tôi là Kamisato Ayaka thuộc Trường Phái Kamisato!"		</title>
-    <updated>2021-07-15T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420215120978.png"><br/><br/>Hôm nay xin giới thiệu với mọi người về tiểu thư thuộc "Gia tộc Kamisato của Hiệp Hội Yashiro" - Kamisato Ayaka.																					<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14142">"Tôi là Kamisato Ayaka thuộc Trường Phái Kamisato!"		</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14142" rel="alternate"/>
-    <summary>Hôm nay xin giới thiệu với mọi người về tiểu thư thuộc "Gia tộc Kamisato của Hiệp Hội Yashiro" - Kamisato Ayaka.																					</summary>
-    <published>2021-07-15T12:10:00+07:00</published>
   </entry>
   <entry>
     <id>14196</id>
@@ -1122,13 +1113,12 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-11-01T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14241</id>
-    <title>[Sổ Tay Inazuma Kỳ 004] Đặc sản chưa từng thấy!</title>
-    <updated>2021-07-18T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620251416887.jpg"><br/><br/>Xin chào các Nhà Lữ Hành! Kỳ này chúng ta hãy cùng tìm hiểu về môi trường tự nhiên của Inazuma nhé.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14241">[Sổ Tay Inazuma Kỳ 004] Đặc sản chưa từng thấy!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14241" rel="alternate"/>
-    <summary>Xin chào các Nhà Lữ Hành! Kỳ này chúng ta hãy cùng tìm hiểu về môi trường tự nhiên của Inazuma nhé.</summary>
-    <published>2021-07-18T10:30:00+07:00</published>
+    <id>16904</id>
+    <title>[Genshin Impact] - Thoma: Giáp Đỏ Trung Thành	</title>
+    <updated>2021-11-02T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211171218832.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16904">[Genshin Impact] - Thoma: Giáp Đỏ Trung Thành	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16904" rel="alternate"/>
+    <published>2021-11-02T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>14319</id>
@@ -1992,5 +1982,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110404649148.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16876">Ra mắt sự kiện web Tiệc BBQ Thơm Ngon - Cùng Shiki Taishou nướng cá để nhận thưởng Nguyên Thạch cùng nhiều phần thưởng khác!</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16876" rel="alternate"/>
     <published>2021-11-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16904</id>
+    <title>[Genshin Impact] - Thoma: Giáp Đỏ Trung Thành	</title>
+    <updated>2021-11-02T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211171218832.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16904">[Genshin Impact] - Thoma: Giáp Đỏ Trung Thành	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16904" rel="alternate"/>
+    <published>2021-11-02T18:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:10:00 +0000</lastBuildDate>
-    <item>
-      <title>"Tôi là Kamisato Ayaka thuộc Trường Phái Kamisato!"		</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14142</link>
-      <description>Hôm nay xin giới thiệu với mọi người về tiểu thư thuộc "Gia tộc Kamisato của Hiệp Hội Yashiro" - Kamisato Ayaka.																					</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420215120978.png"><br/><br/>Hôm nay xin giới thiệu với mọi người về tiểu thư thuộc "Gia tộc Kamisato của Hiệp Hội Yashiro" - Kamisato Ayaka.																					<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14142">"Tôi là Kamisato Ayaka thuộc Trường Phái Kamisato!"		</a>]]></content:encoded>
-      <guid isPermaLink="false">14142</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:11:01 +0000</lastBuildDate>
     <item>
       <title>[Sổ Tay Inazuma Kỳ 002] Cơ quan và thiết bị kỳ diệu</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14196</link>
@@ -771,6 +763,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915502296142.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16797">Tuyển tập Genshin Impact - Lingering Aroma of the Solitary Butterfly</a>]]></description>
       <guid isPermaLink="false">16797</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] - Thoma: Giáp Đỏ Trung Thành	</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/16904</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211171218832.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16904">[Genshin Impact] - Thoma: Giáp Đỏ Trung Thành	</a>]]></description>
+      <guid isPermaLink="false">16904</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

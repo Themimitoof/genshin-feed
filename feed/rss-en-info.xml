@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:52 +0000</lastBuildDate>
-    <item>
-      <title>"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!"</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14135</link>
-      <description>Today, we'd like to introduce to you the daughter of the Yashiro Commission's Kamisato Clan — Kamisato Ayaka!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071419560733747.jpg"><br/><br/>Today, we'd like to introduce to you the daughter of the Yashiro Commission's Kamisato Clan — Kamisato Ayaka!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14135">"Master of Inazuma Kamisato Art Tachi Jutsu — Kamisato Ayaka, present!"</a>]]></content:encoded>
-      <guid isPermaLink="false">14135</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:16 +0000</lastBuildDate>
     <item>
       <title>The Inazuma Diaries Vol. 2 - Mechanisms and Wondrous Devices</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14194</link>
@@ -902,6 +894,16 @@ However, when the undertakers study the rules rigorously, the Director is often 
 Where could this butterfly carrying a lingering aroma be found...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16807">Genshin Impact EP - Lingering Aroma of the Solitary Butterfly</a>]]></content:encoded>
       <guid isPermaLink="false">16807</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>Collected Miscellany - "Thoma: Crimson Armor of Loyalty" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16896</link>
+      <description>There are many things that Thoma will guard dearly, such as trusted friends, close colleagues, and those fluffy little creatures.
+Oh, and the strong desire ignited in his heart to repay the kindness shown to him.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211102637219.jpg"><br/><br/>There are many things that Thoma will guard dearly, such as trusted friends, close colleagues, and those fluffy little creatures.
+Oh, and the strong desire ignited in his heart to repay the kindness shown to him.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16896">Collected Miscellany - "Thoma: Crimson Armor of Loyalty" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">16896</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

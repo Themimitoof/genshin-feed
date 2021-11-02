@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-11-02T09:09:58.603861+00:00</updated>
+  <updated>2021-11-02T10:10:44.240689+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14308</id>
-    <title>「신의 주조」 기원: 「한손검·안개를 가르는 회광」, 「장병기·천공의 마루」 확률 UP!</title>
-    <updated>2021-07-19T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071909531824123.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14308">「신의 주조」 기원: 「한손검·안개를 가르는 회광」, 「장병기·천공의 마루」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14308" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</summary>
-    <published>2021-07-19T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>14321</id>
     <title>「부동의 번개 신, 포영의 절멸」 2.0 버전 이벤트 알림 제1회</title>
@@ -959,5 +950,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16856" rel="alternate"/>
     <summary>왕생당은 특별한 일을 하기에 항상 신중하게 일을 행하고 각종 예법에 신경 쓴다</summary>
     <published>2021-11-01T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16914</id>
+    <title>&lt;원신&gt; 데인 여담 - 「토마: 충실한 붉은 갑주」</title>
+    <updated>2021-11-02T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110214335968693.jpg"><br/><br/>토마가 수호하는 건 아주 많다. 믿을 수 있는 친구, 익숙한 동료, 털이 보송보송한 작은 녀석들<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16914"><원신> 데인 여담 - 「토마: 충실한 붉은 갑주」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/16914" rel="alternate"/>
+    <summary>토마가 수호하는 건 아주 많다. 믿을 수 있는 친구, 익숙한 동료, 털이 보송보송한 작은 녀석들</summary>
+    <published>2021-11-02T18:01:00+09:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-11-02T09:09:59.279045+00:00</updated>
+  <updated>2021-11-02T10:10:48.739843+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14212</id>
-    <title>O pré-download estará dispnível em breve</title>
-    <updated>2021-07-16T11:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609531251304.jpg"><br/><br/>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14212">O pré-download estará dispnível em breve</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14212" rel="alternate"/>
-    <summary>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.</summary>
-    <published>2021-07-16T11:00:00+01:00</published>
-  </entry>
   <entry>
     <id>14222</id>
     <title>"Genshin Impact" - Nascimento de um Dragão: nos bastidores da criação de Azhdaha</title>
@@ -911,5 +902,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/16799" rel="alternate"/>
     <summary>A Funerária de Wangsheng dirige um negócio muito especial, portanto todos agem de modo cauteloso, especialmente nas cerimônias e nos rituais.</summary>
     <published>2021-11-01T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16898</id>
+    <title>Coleção Variada de Genshin Impact - Thoma: Coração Puro e Armadura Carmesim</title>
+    <updated>2021-11-02T18:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211122137413.jpg"><br/><br/>Há muitas coisas que são bem guardadas por Thoma, como por exemplo, amigos confiáveis, colegas próximos, e as criaturas peludinhas. E aquele desejo ardente que nasce do fundo do coração em retribuição de um favor...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16898">Coleção Variada de Genshin Impact - Thoma: Coração Puro e Armadura Carmesim</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16898" rel="alternate"/>
+    <summary>Há muitas coisas que são bem guardadas por Thoma, como por exemplo, amigos confiáveis, colegas próximos, e as criaturas peludinhas. E aquele desejo ardente que nasce do fundo do coração em retribuição de um favor...</summary>
+    <published>2021-11-02T18:00:00+00:00</published>
   </entry>
 </feed>

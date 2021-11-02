@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:53 +0000</lastBuildDate>
-    <item>
-      <title>Les carnets d'Inazuma N° 4 : faune et flore locales !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14242</link>
-      <description>﻿Bonjour, voyageurs ! Faisons aujourd'hui un tour de l'environnement naturel d'Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620330260722.jpg"><br/><br/>﻿Bonjour, voyageurs ! Faisons aujourd'hui un tour de l'environnement naturel d'Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14242">Les carnets d'Inazuma N° 4 : faune et flore locales !</a>]]></content:encoded>
-      <guid isPermaLink="false">14242</guid>
-      <pubDate>Sun, 18 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:19 +0000</lastBuildDate>
     <item>
       <title>Notification de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14285</link>
@@ -778,6 +770,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110434772367.jpg"><br/><br/>Profitons du feu de camp le soir en bord de mer et partageons ensemble de délicieuses grillades de poissons, voyageurs !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16877">L'événement web « Grillades nocturnes ! » est disponible ! Faites griller du poisson avec Shiki Taishou pour obtenir des primo-gemmes et d'autres récompenses !</a>]]></content:encoded>
       <guid isPermaLink="false">16877</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Thomas : Cœur ardent et armure écarlate</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16919</link>
+      <description>Thomas protège énormément de choses, comme la confiance de ses amis proches, la profonde connaissance mutuelle avec ses compagnons ou encore ces petites créatures à la douce fourrure.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110216494343799.jpg"><br/><br/>Thomas protège énormément de choses, comme la confiance de ses amis proches, la profonde connaissance mutuelle avec ses compagnons ou encore ces petites créatures à la douce fourrure.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16919">Genshin Impact - Thomas : Cœur ardent et armure écarlate</a>]]></content:encoded>
+      <guid isPermaLink="false">16919</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

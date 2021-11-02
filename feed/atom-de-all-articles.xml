@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2021-11-02T09:09:57.028045+00:00</updated>
+  <updated>2021-11-02T10:10:33.307895+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -259,15 +259,6 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14195</id>
-    <title>Notizen über Inazuma – Teil 2: Vorrichtungen und wundersame Apparate</title>
-    <updated>2021-07-16T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519561641707.jpg"><br/><br/>Hallo, Reisende! Auf der Reise durch Inazuma findet man immer wieder wundersame Apparate. Steht man verschiedenen Vorrichtungen gegenüber, muss man auch verschiedene Lösungen finden. Sehen wir uns ein paar Beispiele an!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14195">Notizen über Inazuma – Teil 2: Vorrichtungen und wundersame Apparate</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14195" rel="alternate"/>
-    <summary>Hallo, Reisende! Auf der Reise durch Inazuma findet man immer wieder wundersame Apparate. Steht man verschiedenen Vorrichtungen gegenüber, muss man auch verschiedene Lösungen finden. Sehen wir uns ein paar Beispiele an!</summary>
-    <published>2021-07-16T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14203</id>
@@ -1195,13 +1186,13 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
     <published>2021-11-01T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14259</id>
-    <title>Notizen über Inazuma – Teil 3: Die neuen Schwergewichte</title>
-    <updated>2021-07-17T12:05:52+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071712105112221.png"><br/><br/>Hallo, liebe Reisende! In diesem Teil werden wir euch mehr über die neuen Monster in Inazuma erzählen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14259">Notizen über Inazuma – Teil 3: Die neuen Schwergewichte</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14259" rel="alternate"/>
-    <summary>Hallo, liebe Reisende! In diesem Teil werden wir euch mehr über die neuen Monster in Inazuma erzählen!</summary>
-    <published>2021-07-17T12:05:52+02:00</published>
+    <id>16912</id>
+    <title>Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</title>
+    <updated>2021-11-02T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211290348716.jpg"><br/><br/>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16912">Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16912" rel="alternate"/>
+    <summary>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.</summary>
+    <published>2021-11-02T18:00:00+01:00</published>
   </entry>
   <entry>
     <id>14245</id>
@@ -2131,5 +2122,14 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
     <link href="https://genshin.mihoyo.com/de/news/detail/16874" rel="alternate"/>
     <summary>Nachts am Meer, das prasselnde Lagerfeuer. Lass uns zusammen mit Shiki Taishou Fisch grillen, Reisender!</summary>
     <published>2021-11-01T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16912</id>
+    <title>Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</title>
+    <updated>2021-11-02T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211290348716.jpg"><br/><br/>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16912">Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16912" rel="alternate"/>
+    <summary>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.</summary>
+    <published>2021-11-02T18:00:00+01:00</published>
   </entry>
 </feed>

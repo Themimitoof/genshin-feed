@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:57 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14228</link>
-      <description>Grabado para siempre en una piedra, las montañas son testigos de su furia. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610312139747.jpg"><br/><br/>Grabado para siempre en una piedra, las montañas son testigos de su furia. <br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14228">Genshin Impact - El nacimiento de un dragón: detrás de las escenas de Azhdaha</a>]]></content:encoded>
-      <guid isPermaLink="false">14228</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:34 +0000</lastBuildDate>
     <item>
       <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14255</link>
@@ -810,6 +802,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110285658719.jpg"><br/><br/>¡Ven a disfrutar de una noche junto al mar, una crepitante hoguera y delicioso pescado a la parrilla junto con Shiki Taishou!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16865">¡El evento web «Parrillada bajo las estrellas» ya está disponible! Ven a disfrutar del pescado a la parrilla con Shiki Taishou y obtén Protogemas y otras recompensas.</a>]]></content:encoded>
       <guid isPermaLink="false">16865</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Thoma: Corazón impetuoso y armadura grana</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16906</link>
+      <description>Thoma desea proteger muchas cosas, como por ejemplo los amigos de confianza, los compañeros cercanos y las criaturas peluditas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211200543058.jpg"><br/><br/>Thoma desea proteger muchas cosas, como por ejemplo los amigos de confianza, los compañeros cercanos y las criaturas peluditas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16906">Genshin Impact - Thoma: Corazón impetuoso y armadura grana</a>]]></content:encoded>
+      <guid isPermaLink="false">16906</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

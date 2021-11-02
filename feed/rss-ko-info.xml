@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:58 +0000</lastBuildDate>
-    <item>
-      <title>「이나즈마의 카미사토류 태도술 계승자-카미사토 아야카, 참전!」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14137</link>
-      <description>오늘 소개할 캐릭터는 「이나즈마 막부 야시로 봉행 카미사토 가문」에서 온 아가씨 - 카미사토 아야카야</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420075639768.png"><br/><br/>오늘 소개할 캐릭터는 「이나즈마 막부 야시로 봉행 카미사토 가문」에서 온 아가씨 - 카미사토 아야카야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14137">「이나즈마의 카미사토류 태도술 계승자-카미사토 아야카, 참전!」</a>]]></content:encoded>
-      <guid isPermaLink="false">14137</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:45 +0000</lastBuildDate>
     <item>
       <title>[이나즈마 수첩 2회] 기관 및 기묘한 장치</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14204</link>
@@ -856,6 +848,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211030/2021103015505329299.jpg"><br/><br/>왕생당은 특별한 일을 하기에 항상 신중하게 일을 행하고 각종 예법에 신경 쓴다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16856">원신 EP - 나비의 잔향이 머무는 곳</a>]]></content:encoded>
       <guid isPermaLink="false">16856</guid>
       <pubDate>Mon, 01 Nov 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 데인 여담 - 「토마: 충실한 붉은 갑주」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16914</link>
+      <description>토마가 수호하는 건 아주 많다. 믿을 수 있는 친구, 익숙한 동료, 털이 보송보송한 작은 녀석들</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110214335968693.jpg"><br/><br/>토마가 수호하는 건 아주 많다. 믿을 수 있는 친구, 익숙한 동료, 털이 보송보송한 작은 녀석들<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16914"><원신> 데인 여담 - 「토마: 충실한 붉은 갑주」</a>]]></content:encoded>
+      <guid isPermaLink="false">16914</guid>
+      <pubDate>Tue, 02 Nov 2021 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

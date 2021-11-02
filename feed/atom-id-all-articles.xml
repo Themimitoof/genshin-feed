@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-11-02T09:09:58.055815+00:00</updated>
+  <updated>2021-11-02T10:10:40.329723+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -284,15 +284,6 @@
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14209</id>
-    <title>Fitur Pra-Unduh Akan Segera Dibuka</title>
-    <updated>2021-07-16T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609344489531.jpg"><br/><br/>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14209">Fitur Pra-Unduh Akan Segera Dibuka</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14209" rel="alternate"/>
-    <summary>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.</summary>
-    <published>2021-07-16T11:00:00+07:00</published>
   </entry>
   <entry>
     <id>14213</id>
@@ -1191,13 +1182,13 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <published>2021-11-01T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14322</id>
-    <title>Event Permohonan "Pelataran Bangau Putih": Persentase Perolehan "Frostflake Heron" Kamisato Ayaka (Cryo) Meningkat!</title>
-    <updated>2021-07-19T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910312222430.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14322">Event Permohonan "Pelataran Bangau Putih": Persentase Perolehan "Frostflake Heron" Kamisato Ayaka (Cryo) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14322" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-07-19T12:01:00+07:00</published>
+    <id>16910</id>
+    <title>Aneka Koleksi Genshin Impact — "Thoma: Zirah Merah Kesetiaan"</title>
+    <updated>2021-11-02T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211272522341.jpg"><br/><br/>Ada banyak sekali hal yang dilindungi Thoma, misalnya seperti teman yang dipercaya, rekan yang akrab, dan makhluk-makhluk kecil yang berbulu lebat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16910">Aneka Koleksi Genshin Impact — "Thoma: Zirah Merah Kesetiaan"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16910" rel="alternate"/>
+    <summary>Ada banyak sekali hal yang dilindungi Thoma, misalnya seperti teman yang dipercaya, rekan yang akrab, dan makhluk-makhluk kecil yang berbulu lebat.</summary>
+    <published>2021-11-02T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>14328</id>
@@ -2094,5 +2085,14 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16872" rel="alternate"/>
     <summary>Duduk di tepi pantai sambil mengelilingi api unggun di malam hari. Traveler, ayo kita bakar ikan bersama Shiki Taishou!</summary>
     <published>2021-11-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16910</id>
+    <title>Aneka Koleksi Genshin Impact — "Thoma: Zirah Merah Kesetiaan"</title>
+    <updated>2021-11-02T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211272522341.jpg"><br/><br/>Ada banyak sekali hal yang dilindungi Thoma, misalnya seperti teman yang dipercaya, rekan yang akrab, dan makhluk-makhluk kecil yang berbulu lebat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16910">Aneka Koleksi Genshin Impact — "Thoma: Zirah Merah Kesetiaan"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16910" rel="alternate"/>
+    <summary>Ada banyak sekali hal yang dilindungi Thoma, misalnya seperti teman yang dipercaya, rekan yang akrab, dan makhluk-makhluk kecil yang berbulu lebat.</summary>
+    <published>2021-11-02T18:00:00+07:00</published>
   </entry>
 </feed>

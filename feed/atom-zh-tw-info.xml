@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-11-02T09:09:54.460158+00:00</updated>
+  <updated>2021-11-02T10:10:26.407855+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14147</id>
-    <title>「稻妻神里流太刀術皆傳——神里綾華，參上！」</title>
-    <updated>2021-07-15T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071421022217741.png"><br/><br/>今天為大家介紹的是來自「稻妻幕府社奉行神里家」的大小姐——神里綾華。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14147">「稻妻神里流太刀術皆傳——神里綾華，參上！」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14147" rel="alternate"/>
-    <summary>今天為大家介紹的是來自「稻妻幕府社奉行神里家」的大小姐——神里綾華。</summary>
-    <published>2021-07-15T12:10:00+08:00</published>
-  </entry>
   <entry>
     <id>14198</id>
     <title>《稻妻手帳002期》</title>
@@ -896,5 +887,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16793" rel="alternate"/>
     <summary>往生堂生意特殊，向來行事慎重，儀典考究。</summary>
     <published>2021-11-01T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>16902</id>
+    <title>拾枝雜談-「托馬：赤心紅鎧」｜原神</title>
+    <updated>2021-11-02T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211162196601.jpg"><br/><br/>托馬所守護的事物有很多，像是信賴的摯友、熟識的同僚，和那些毛絨絨的小生靈。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16902">拾枝雜談-「托馬：赤心紅鎧」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16902" rel="alternate"/>
+    <summary>托馬所守護的事物有很多，像是信賴的摯友、熟識的同僚，和那些毛絨絨的小生靈。</summary>
+    <published>2021-11-02T18:00:00+08:00</published>
   </entry>
 </feed>

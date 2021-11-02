@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:59 +0000</lastBuildDate>
-    <item>
-      <title>O pré-download estará dispnível em breve</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14212</link>
-      <description>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609531251304.jpg"><br/><br/>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14212">O pré-download estará dispnível em breve</a>]]></content:encoded>
-      <guid isPermaLink="false">14212</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:48 +0000</lastBuildDate>
     <item>
       <title>"Genshin Impact" - Nascimento de um Dragão: nos bastidores da criação de Azhdaha</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14222</link>
@@ -811,6 +803,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915524152626.jpg"><br/><br/>A Funerária de Wangsheng dirige um negócio muito especial, portanto todos agem de modo cauteloso, especialmente nas cerimônias e nos rituais.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16799">EP - A Fragrância da Borboleta Solitária | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16799</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coleção Variada de Genshin Impact - Thoma: Coração Puro e Armadura Carmesim</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16898</link>
+      <description>Há muitas coisas que são bem guardadas por Thoma, como por exemplo, amigos confiáveis, colegas próximos, e as criaturas peludinhas. E aquele desejo ardente que nasce do fundo do coração em retribuição de um favor...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211122137413.jpg"><br/><br/>Há muitas coisas que são bem guardadas por Thoma, como por exemplo, amigos confiáveis, colegas próximos, e as criaturas peludinhas. E aquele desejo ardente que nasce do fundo do coração em retribuição de um favor...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16898">Coleção Variada de Genshin Impact - Thoma: Coração Puro e Armadura Carmesim</a>]]></content:encoded>
+      <guid isPermaLink="false">16898</guid>
+      <pubDate>Tue, 02 Nov 2021 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

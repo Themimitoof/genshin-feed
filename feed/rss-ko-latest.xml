@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 02 Nov 2021 09:09:58 +0000</lastBuildDate>
-    <item>
-      <title>「신의 주조」 기원: 「한손검·안개를 가르는 회광」, 「장병기·천공의 마루」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14308</link>
-      <description>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071909531824123.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14308">「신의 주조」 기원: 「한손검·안개를 가르는 회광」, 「장병기·천공의 마루」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">14308</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 02 Nov 2021 10:10:44 +0000</lastBuildDate>
     <item>
       <title>「부동의 번개 신, 포영의 절멸」 2.0 버전 이벤트 알림 제1회</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14321</link>
@@ -858,6 +850,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211030/2021103015505329299.jpg"><br/><br/>왕생당은 특별한 일을 하기에 항상 신중하게 일을 행하고 각종 예법에 신경 쓴다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16856">원신 EP - 나비의 잔향이 머무는 곳</a>]]></content:encoded>
       <guid isPermaLink="false">16856</guid>
       <pubDate>Mon, 01 Nov 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 데인 여담 - 「토마: 충실한 붉은 갑주」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16914</link>
+      <description>토마가 수호하는 건 아주 많다. 믿을 수 있는 친구, 익숙한 동료, 털이 보송보송한 작은 녀석들</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110214335968693.jpg"><br/><br/>토마가 수호하는 건 아주 많다. 믿을 수 있는 친구, 익숙한 동료, 털이 보송보송한 작은 녀석들<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16914"><원신> 데인 여담 - 「토마: 충실한 붉은 갑주」</a>]]></content:encoded>
+      <guid isPermaLink="false">16914</guid>
+      <pubDate>Tue, 02 Nov 2021 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

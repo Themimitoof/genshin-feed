@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-11-02T09:10:00.292520+00:00</updated>
+  <updated>2021-11-02T10:10:57.066037+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14156</id>
-    <title>"Kamisato Ayaka ผู้สำเร็จวิชาดาบแห่ง Inazuma Kamisato Art Tachi Jutsu มารับคำท้าถึงที่แล้ว!"</title>
-    <updated>2021-07-15T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071511030793187.png"><br/><br/>วันนี้ขอแนะนำให้ทุกคนรู้จักกับคุณหนูใหญ่จาก "ตระกูล Kamisato แห่งสำนัก Yashiro" - Kamisato Ayaka<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14156">"Kamisato Ayaka ผู้สำเร็จวิชาดาบแห่ง Inazuma Kamisato Art Tachi Jutsu มารับคำท้าถึงที่แล้ว!"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14156" rel="alternate"/>
-    <summary>วันนี้ขอแนะนำให้ทุกคนรู้จักกับคุณหนูใหญ่จาก "ตระกูล Kamisato แห่งสำนัก Yashiro" - Kamisato Ayaka</summary>
-    <published>2021-07-15T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>14197</id>
     <title>[บันทึก Inazuma ฉบับที่ 2] กลไกและอุปกรณ์พิเศษ</title>
@@ -865,5 +856,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102915474480306.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16795">"Genshin Impact" มินิอัลบั้ม - ผีเสื้อที่ทิ้งกลิ่นหอม</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/16795" rel="alternate"/>
     <published>2021-11-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16900</id>
+    <title>[Genshin Impact] เก็บตกตัวละคร - "Thoma: เกราะแดงแห่งความภักดี"</title>
+    <updated>2021-11-02T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211142721506.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16900">[Genshin Impact] เก็บตกตัวละคร - "Thoma: เกราะแดงแห่งความภักดี"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/16900" rel="alternate"/>
+    <published>2021-11-02T18:00:00+07:00</published>
   </entry>
 </feed>
