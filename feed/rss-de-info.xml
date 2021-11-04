@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:37 +0000</lastBuildDate>
-    <item>
-      <title>Vorzeitiges Herunterladen bald verfügbar</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14203</link>
-      <description>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071522432618361.jpg"><br/><br/>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14203">Vorzeitiges Herunterladen bald verfügbar</a>]]></content:encoded>
-      <guid isPermaLink="false">14203</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:29 +0000</lastBuildDate>
     <item>
       <title>Geburt eines Drachen – Ein Blick hinter die Kulissen der Erschaffung von Azhdaha von Genshin Impact</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14223</link>
@@ -842,6 +832,14 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211290348716.jpg"><br/><br/>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16912">Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</a>]]></content:encoded>
       <guid isPermaLink="false">16912</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Schatten der Antike“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16938</link>
+      <description>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311525054954.png"><br/><br/>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16938">Erläuterungen zur Spielweise von „Schatten der Antike“</a>]]></content:encoded>
+      <guid isPermaLink="false">16938</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

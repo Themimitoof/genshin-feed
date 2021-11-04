@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:49 +0000</lastBuildDate>
-    <item>
-      <title>[이나즈마 수첩 2회] 기관 및 기묘한 장치</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14204</link>
-      <description>이나즈마를 여행하다 보면 기묘한 기관 장치를 자주 볼 수 있을 거야. 기관들을 어떻게 풀어야 할까? 우리 같이 확인해보자!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071523223671610.jpg"><br/><br/>이나즈마를 여행하다 보면 기묘한 기관 장치를 자주 볼 수 있을 거야. 기관들을 어떻게 풀어야 할까? 우리 같이 확인해보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14204">[이나즈마 수첩 2회] 기관 및 기묘한 장치</a>]]></content:encoded>
-      <guid isPermaLink="false">14204</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:43 +0000</lastBuildDate>
     <item>
       <title>신규 버전 사전 다운로드 기능 오픈 예정</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14220</link>
@@ -856,6 +848,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110214335968693.jpg"><br/><br/>토마가 수호하는 건 아주 많다. 믿을 수 있는 친구, 익숙한 동료, 털이 보송보송한 작은 녀석들<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16914"><원신> 데인 여담 - 「토마: 충실한 붉은 갑주」</a>]]></content:encoded>
       <guid isPermaLink="false">16914</guid>
       <pubDate>Tue, 02 Nov 2021 18:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「고대의 그림자」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/16970</link>
+      <description>모험가 길드의 캐서린이 조사 의뢰 때문에 골치가 아픈 것 같다. 만약 그녀의 골칫거리를 해결해 준다면 좋은 일이 생길지도…</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110318191511438.png"><br/><br/>모험가 길드의 캐서린이 조사 의뢰 때문에 골치가 아픈 것 같다. 만약 그녀의 골칫거리를 해결해 준다면 좋은 일이 생길지도…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16970">「고대의 그림자」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">16970</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

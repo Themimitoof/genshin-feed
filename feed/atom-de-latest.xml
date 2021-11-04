@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-11-04T02:26:36.956578+00:00</updated>
+  <updated>2021-11-04T03:10:28.388721+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14245</id>
-    <title>Notizen über Inazuma – Teil 4: Neuartig und nützlich!</title>
-    <updated>2021-07-18T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620584376229.jpg"><br/><br/>Hallo, liebe Reisende! In diesem Teil sehen wir uns die natürliche Umgebung von Inazuma etwas genauer an.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14245">Notizen über Inazuma – Teil 4: Neuartig und nützlich!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14245" rel="alternate"/>
-    <summary>Hallo, liebe Reisende! In diesem Teil sehen wir uns die natürliche Umgebung von Inazuma etwas genauer an.</summary>
-    <published>2021-07-18T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>14262</id>
     <title>Mitteilung zur Aktualisierung auf Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“</title>
@@ -946,5 +937,14 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
     <link href="https://genshin.mihoyo.com/de/news/detail/16912" rel="alternate"/>
     <summary>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.</summary>
     <published>2021-11-02T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16938</id>
+    <title>Erläuterungen zur Spielweise von „Schatten der Antike“</title>
+    <updated>2021-11-04T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311525054954.png"><br/><br/>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16938">Erläuterungen zur Spielweise von „Schatten der Antike“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/16938" rel="alternate"/>
+    <summary>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...</summary>
+    <published>2021-11-04T10:30:00+01:00</published>
   </entry>
 </feed>

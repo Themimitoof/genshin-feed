@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2021-11-04T02:27:01.222623+00:00</updated>
+  <updated>2021-11-04T03:10:58.553588+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14196</id>
-    <title>[Sổ Tay Inazuma Kỳ 002] Cơ quan và thiết bị kỳ diệu</title>
-    <updated>2021-07-16T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520024451373.jpg"><br/><br/>Trong hành trình khám phá Inazuma, bạn sẽ thường xuyên phát hiện thấy một số thiết bị cơ quan kỳ diệu. Làm thế nào để tìm được cách phá giải khi đối mặt với những cơ quan khác nhau nhỉ? Chúng ta hãy cùng xem thử nhé!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14196">[Sổ Tay Inazuma Kỳ 002] Cơ quan và thiết bị kỳ diệu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14196" rel="alternate"/>
-    <summary>Trong hành trình khám phá Inazuma, bạn sẽ thường xuyên phát hiện thấy một số thiết bị cơ quan kỳ diệu. Làm thế nào để tìm được cách phá giải khi đối mặt với những cơ quan khác nhau nhỉ? Chúng ta hãy cùng xem thử nhé!</summary>
-    <published>2021-07-16T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>14200</id>
     <title>Sắp Mở Tính Năng Tải Trước</title>
@@ -884,5 +875,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211171218832.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16904">[Genshin Impact] - Thoma: Giáp Đỏ Trung Thành	</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16904" rel="alternate"/>
     <published>2021-11-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16961</id>
+    <title>Hướng Dẫn Cách Chơi "Bóng Hình Cổ Xưa"	</title>
+    <updated>2021-11-04T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315380357384.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16961">Hướng Dẫn Cách Chơi "Bóng Hình Cổ Xưa"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/16961" rel="alternate"/>
+    <published>2021-11-04T10:30:00+07:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:24 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -245,14 +245,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma, à votre service !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14136</link>
-      <description>Aujourd'hui, nous vous présentons Kamisato Ayaka, fille du Clan Kamisato, de la Commission culturelle du Shogunat d'Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420021267034.jpg"><br/><br/>Aujourd'hui, nous vous présentons Kamisato Ayaka, fille du Clan Kamisato, de la Commission culturelle du Shogunat d'Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14136">Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma, à votre service !</a>]]></content:encoded>
-      <guid isPermaLink="false">14136</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 +0200</pubDate>
     </item>
     <item>
       <title>Les carnets d'Inazuma N° 2 : Mécanismes et curieux dispositifs</title>
@@ -1020,12 +1012,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Notification de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14285</link>
-      <description>Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.</description>
-      <content:encoded><![CDATA[Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14285">Notification de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></content:encoded>
-      <guid isPermaLink="false">14285</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0200</pubDate>
+      <title>Détails de l'événement « Ombre des anciens »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16969</link>
+      <description>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110316434053106.png"><br/><br/>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16969">Détails de l'événement « Ombre des anciens »</a>]]></content:encoded>
+      <guid isPermaLink="false">16969</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Vœux « Prestance du héron » : taux d'obtention boosté pour Kamisato Ayaka · Héron de givre (Cryo) !</title>
@@ -1788,6 +1780,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110216494343799.jpg"><br/><br/>Thomas protège énormément de choses, comme la confiance de ses amis proches, la profonde connaissance mutuelle avec ses compagnons ou encore ces petites créatures à la douce fourrure.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16919">Genshin Impact - Thomas : Cœur ardent et armure écarlate</a>]]></content:encoded>
       <guid isPermaLink="false">16919</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Ombre des anciens »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16969</link>
+      <description>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110316434053106.png"><br/><br/>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16969">Détails de l'événement « Ombre des anciens »</a>]]></content:encoded>
+      <guid isPermaLink="false">16969</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

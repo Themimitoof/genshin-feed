@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:55 +0000</lastBuildDate>
-    <item>
-      <title>«Рождение дракона» - О работе над Аждахой | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14215</link>
-      <description>Рождение дракона</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610092749333.jpg"><br/><br/>Рождение дракона<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14215">«Рождение дракона» - О работе над Аждахой | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14215</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:51 +0000</lastBuildDate>
     <item>
       <title>«Записи об Инадзуме: Выпуск III»: новые сильные монстры!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14250</link>
@@ -814,6 +806,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211203324413.jpg"><br/><br/>Многие могут рассчитывать на помощь и защиту Томы: верные друзья, знакомые единомышленники, ну и, конечно, маленькие пушистики.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16907">Тома: Алый доспех преданности | Коллекция Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16907</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Тень древности»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16939</link>
+      <description>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311562896192.png"><br/><br/>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16939">Описание события «Тень древности»</a>]]></content:encoded>
+      <guid isPermaLink="false">16939</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

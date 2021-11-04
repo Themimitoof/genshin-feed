@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:27:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:57 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -209,14 +209,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121815090510845.png"><br/><br/>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/7470">หน้าตัวอย่างเวอร์ชันใหม่ 1.2 "ชอล์กขาวและมังกรดำ" เปิดให้ชมแล้ว!</a>]]></content:encoded>
       <guid isPermaLink="false">7470</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>[บันทึก Inazuma ฉบับที่ 2] กลไกและอุปกรณ์พิเศษ</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14197</link>
-      <description>สวัสดี นักเดินทาง~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520041844462.jpg"><br/><br/>สวัสดี นักเดินทาง~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14197">[บันทึก Inazuma ฉบับที่ 2] กลไกและอุปกรณ์พิเศษ</a>]]></content:encoded>
-      <guid isPermaLink="false">14197</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0700</pubDate>
     </item>
     <item>
       <title>ฟังก์ชันดาวน์โหลดล่วงหน้ากำลังจะเปิดแล้ว</title>
@@ -956,12 +948,11 @@
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>แจ้งการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์กับความฝันอันว่างเปล่า"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14297</link>
-      <description>นักเดินทางที่รัก:</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819353342206.jpg"><br/><br/>นักเดินทางที่รัก:<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14297">แจ้งการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์กับความฝันอันว่างเปล่า"</a>]]></content:encoded>
-      <guid isPermaLink="false">14297</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0700</pubDate>
+      <title>คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16955</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315362755484.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16955">คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</a>]]></description>
+      <guid isPermaLink="false">16955</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0700</pubDate>
     </item>
     <item>
       <title>การอธิษฐาน "ตำหนักกระเรียนขาว": โอกาสได้รับ UP "กระเรียนขาวกลางหิมะ - Kamisato Ayaka (น้ำแข็ง)" !</title>
@@ -1694,6 +1685,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211142721506.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16900">[Genshin Impact] เก็บตกตัวละคร - "Thoma: เกราะแดงแห่งความภักดี"</a>]]></description>
       <guid isPermaLink="false">16900</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16955</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315362755484.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16955">คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</a>]]></description>
+      <guid isPermaLink="false">16955</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:31 +0000</lastBuildDate>
-    <item>
-      <title>Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma, à votre service !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14136</link>
-      <description>Aujourd'hui, nous vous présentons Kamisato Ayaka, fille du Clan Kamisato, de la Commission culturelle du Shogunat d'Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210714/2021071420021267034.jpg"><br/><br/>Aujourd'hui, nous vous présentons Kamisato Ayaka, fille du Clan Kamisato, de la Commission culturelle du Shogunat d'Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14136">Kamisato Ayaka, maîtresse du Jutsu du tachi de l'école Kamisato d'Inazuma, à votre service !</a>]]></content:encoded>
-      <guid isPermaLink="false">14136</guid>
-      <pubDate>Thu, 15 Jul 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:22 +0000</lastBuildDate>
     <item>
       <title>Les carnets d'Inazuma N° 2 : Mécanismes et curieux dispositifs</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14219</link>
@@ -781,6 +773,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110216494343799.jpg"><br/><br/>Thomas protège énormément de choses, comme la confiance de ses amis proches, la profonde connaissance mutuelle avec ses compagnons ou encore ces petites créatures à la douce fourrure.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16919">Genshin Impact - Thomas : Cœur ardent et armure écarlate</a>]]></content:encoded>
       <guid isPermaLink="false">16919</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Ombre des anciens »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/16969</link>
+      <description>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110316434053106.png"><br/><br/>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16969">Détails de l'événement « Ombre des anciens »</a>]]></content:encoded>
+      <guid isPermaLink="false">16969</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

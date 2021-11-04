@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-11-04T02:26:30.723371+00:00</updated>
+  <updated>2021-11-04T03:10:21.038740+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14285</id>
-    <title>Notification de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-    <updated>2021-07-19T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14285">Notification de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14285" rel="alternate"/>
-    <summary>Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.</summary>
-    <published>2021-07-19T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>14286</id>
     <title>Vœux « Prestance du héron » : taux d'obtention boosté pour Kamisato Ayaka · Héron de givre (Cryo) !</title>
@@ -888,5 +879,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/16919" rel="alternate"/>
     <summary>Thomas protège énormément de choses, comme la confiance de ses amis proches, la profonde connaissance mutuelle avec ses compagnons ou encore ces petites créatures à la douce fourrure.</summary>
     <published>2021-11-02T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16969</id>
+    <title>Détails de l'événement « Ombre des anciens »</title>
+    <updated>2021-11-04T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110316434053106.png"><br/><br/>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16969">Détails de l'événement « Ombre des anciens »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/16969" rel="alternate"/>
+    <summary>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...</summary>
+    <published>2021-11-04T10:30:00+01:00</published>
   </entry>
 </feed>

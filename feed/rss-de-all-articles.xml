@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:32 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -228,16 +228,6 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812121526926.png"><br/><br/>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/7463">Vorschau zur Aktualisierung auf Version 1.2 „Kreide und Drachen“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">7463</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vorzeitiges Herunterladen bald verfügbar</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14203</link>
-      <description>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071522432618361.jpg"><br/><br/>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14203">Vorzeitiges Herunterladen bald verfügbar</a>]]></content:encoded>
-      <guid isPermaLink="false">14203</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Geburt eines Drachen – Ein Blick hinter die Kulissen der Erschaffung von Azhdaha von Genshin Impact</title>
@@ -1064,12 +1054,12 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Notizen über Inazuma – Teil 4: Neuartig und nützlich!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14245</link>
-      <description>Hallo, liebe Reisende! In diesem Teil sehen wir uns die natürliche Umgebung von Inazuma etwas genauer an.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620584376229.jpg"><br/><br/>Hallo, liebe Reisende! In diesem Teil sehen wir uns die natürliche Umgebung von Inazuma etwas genauer an.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14245">Notizen über Inazuma – Teil 4: Neuartig und nützlich!</a>]]></content:encoded>
-      <guid isPermaLink="false">14245</guid>
-      <pubDate>Sun, 18 Jul 2021 10:30:00 +0200</pubDate>
+      <title>Erläuterungen zur Spielweise von „Schatten der Antike“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16938</link>
+      <description>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311525054954.png"><br/><br/>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16938">Erläuterungen zur Spielweise von „Schatten der Antike“</a>]]></content:encoded>
+      <guid isPermaLink="false">16938</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Mitteilung zur Aktualisierung auf Version 2.0 „Der unbewegliche Gott und die verschwindenden Schatten“</title>
@@ -1900,6 +1890,14 @@ Die Aktion „Labyrinthkrieger“ läuft jetzt! Das dürft ihr auf keinen Fall v
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211290348716.jpg"><br/><br/>Es gibt viele Dinge, die Thoma beschützt, wie vertrauenswürdige Freunde, enge Kollegen und diese flauschigen kleinen Geschöpfe.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16912">Fähigkeiten bei Genshin Impact – Thoma: Rote Rüstung</a>]]></content:encoded>
       <guid isPermaLink="false">16912</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Schatten der Antike“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/16938</link>
+      <description>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311525054954.png"><br/><br/>Katheryne von der Abenteurergilde scheint Schwierigkeiten mit einer bestimmten Entsendungsmission zu haben. Wenn du ihr dabei hilfst, könntest du vielleicht einen unerwarteten Vorteil daraus ziehen ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16938">Erläuterungen zur Spielweise von „Schatten der Antike“</a>]]></content:encoded>
+      <guid isPermaLink="false">16938</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

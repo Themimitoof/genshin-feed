@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:35 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -244,14 +244,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14255</link>
-      <description>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710005313971.png"><br/><br/>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14255">Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</a>]]></content:encoded>
-      <guid isPermaLink="false">14255</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</title>
@@ -1048,11 +1040,12 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14454</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023062917763.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14454">Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</a>]]></description>
-      <guid isPermaLink="false">14454</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0200</pubDate>
+      <title>Modo de juego de «Una sombra antigua»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16937</link>
+      <description>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311512023155.png"><br/><br/>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16937">Modo de juego de «Una sombra antigua»</a>]]></content:encoded>
+      <guid isPermaLink="false">16937</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Modo de juego de «Colisión eléctrica»</title>
@@ -1849,6 +1842,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211200543058.jpg"><br/><br/>Thoma desea proteger muchas cosas, como por ejemplo los amigos de confianza, los compañeros cercanos y las criaturas peluditas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16906">Genshin Impact - Thoma: Corazón impetuoso y armadura grana</a>]]></content:encoded>
       <guid isPermaLink="false">16906</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego de «Una sombra antigua»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/16937</link>
+      <description>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311512023155.png"><br/><br/>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16937">Modo de juego de «Una sombra antigua»</a>]]></content:encoded>
+      <guid isPermaLink="false">16937</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

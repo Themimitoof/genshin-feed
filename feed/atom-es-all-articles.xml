@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-11-04T02:26:43.006706+00:00</updated>
+  <updated>2021-11-04T03:10:35.838844+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -279,15 +279,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14255</id>
-    <title>Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</title>
-    <updated>2021-07-17T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710005313971.png"><br/><br/>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14255">Diario de Inazuma - 3ª edición: ¡Nuevos monstruos gigantes!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14255" rel="alternate"/>
-    <summary>¡Hola, viajeros! En esta edición les presentamos los nuevos monstruos de Inazuma~</summary>
-    <published>2021-07-17T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14246</id>
@@ -1187,13 +1178,13 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <published>2021-11-02T18:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14454</id>
-    <title>Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
-    <updated>2021-07-21T07:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023062917763.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14454">Detalles de la actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14454" rel="alternate"/>
-    <summary/>
-    <published>2021-07-21T07:00:00+02:00</published>
+    <id>16937</id>
+    <title>Modo de juego de «Una sombra antigua»</title>
+    <updated>2021-11-04T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311512023155.png"><br/><br/>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16937">Modo de juego de «Una sombra antigua»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16937" rel="alternate"/>
+    <summary>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...</summary>
+    <published>2021-11-04T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>14440</id>
@@ -2093,5 +2084,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <link href="https://genshin.mihoyo.com/es/news/detail/16906" rel="alternate"/>
     <summary>Thoma desea proteger muchas cosas, como por ejemplo los amigos de confianza, los compañeros cercanos y las criaturas peluditas.</summary>
     <published>2021-11-02T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>16937</id>
+    <title>Modo de juego de «Una sombra antigua»</title>
+    <updated>2021-11-04T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311512023155.png"><br/><br/>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16937">Modo de juego de «Una sombra antigua»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/16937" rel="alternate"/>
+    <summary>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...</summary>
+    <published>2021-11-04T10:30:00+01:00</published>
   </entry>
 </feed>

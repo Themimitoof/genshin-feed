@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-11-04T02:26:58.433667+00:00</updated>
+  <updated>2021-11-04T03:10:54.935760+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14197</id>
-    <title>[บันทึก Inazuma ฉบับที่ 2] กลไกและอุปกรณ์พิเศษ</title>
-    <updated>2021-07-16T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520041844462.jpg"><br/><br/>สวัสดี นักเดินทาง~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14197">[บันทึก Inazuma ฉบับที่ 2] กลไกและอุปกรณ์พิเศษ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14197" rel="alternate"/>
-    <summary>สวัสดี นักเดินทาง~</summary>
-    <published>2021-07-16T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>14218</id>
     <title>ฟังก์ชันดาวน์โหลดล่วงหน้ากำลังจะเปิดแล้ว</title>
@@ -864,5 +855,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211142721506.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16900">[Genshin Impact] เก็บตกตัวละคร - "Thoma: เกราะแดงแห่งความภักดี"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/16900" rel="alternate"/>
     <published>2021-11-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16955</id>
+    <title>คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</title>
+    <updated>2021-11-04T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315362755484.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16955">คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/16955" rel="alternate"/>
+    <summary/>
+    <published>2021-11-04T10:30:00+07:00</published>
   </entry>
 </feed>

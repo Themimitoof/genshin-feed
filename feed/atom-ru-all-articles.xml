@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-11-04T02:26:57.586285+00:00</updated>
+  <updated>2021-11-04T03:10:53.917012+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -308,15 +308,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14215</id>
-    <title>«Рождение дракона» - О работе над Аждахой | Genshin Impact</title>
-    <updated>2021-07-16T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610092749333.jpg"><br/><br/>Рождение дракона<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14215">«Рождение дракона» - О работе над Аждахой | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14215" rel="alternate"/>
-    <summary>Рождение дракона</summary>
-    <published>2021-07-16T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>14250</id>
@@ -1217,13 +1208,13 @@
     <published>2021-11-02T18:00:00+03:00</published>
   </entry>
   <entry>
-    <id>14366</id>
-    <title>«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-07-20T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919434399952.jpg"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14366">«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14366" rel="alternate"/>
-    <summary>Камисато Аяка</summary>
-    <published>2021-07-20T12:00:00+03:00</published>
+    <id>16939</id>
+    <title>Описание события «Тень древности»</title>
+    <updated>2021-11-04T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311562896192.png"><br/><br/>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16939">Описание события «Тень древности»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16939" rel="alternate"/>
+    <summary>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...</summary>
+    <published>2021-11-04T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>14460</id>
@@ -2125,5 +2116,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16907" rel="alternate"/>
     <summary>Многие могут рассчитывать на помощь и защиту Томы: верные друзья, знакомые единомышленники, ну и, конечно, маленькие пушистики.</summary>
     <published>2021-11-02T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>16939</id>
+    <title>Описание события «Тень древности»</title>
+    <updated>2021-11-04T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311562896192.png"><br/><br/>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16939">Описание события «Тень древности»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/16939" rel="alternate"/>
+    <summary>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...</summary>
+    <published>2021-11-04T10:30:00+03:00</published>
   </entry>
 </feed>

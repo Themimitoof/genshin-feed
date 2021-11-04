@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-11-04T02:26:43.051888+00:00</updated>
+  <updated>2021-11-04T03:10:35.884133+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14328</id>
-    <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Mistsplitter Reforged (Sword) dan Skyward Spine (Polearm) Meningkat!</title>
-    <updated>2021-07-19T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910430821686.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan ""Epitome Invocation"" untuk membuat anggota party menjadi lebih kuat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14328">Event Permohonan "Epitome Invocation": Persentase Perolehan Mistsplitter Reforged (Sword) dan Skyward Spine (Polearm) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14328" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan ""Epitome Invocation"" untuk membuat anggota party menjadi lebih kuat!</summary>
-    <published>2021-07-19T12:01:00+07:00</published>
-  </entry>
   <entry>
     <id>14331</id>
     <title>Preview Event v2.0 Edisi 1</title>
@@ -913,5 +904,14 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16910" rel="alternate"/>
     <summary>Ada banyak sekali hal yang dilindungi Thoma, misalnya seperti teman yang dipercaya, rekan yang akrab, dan makhluk-makhluk kecil yang berbulu lebat.</summary>
     <published>2021-11-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16944</id>
+    <title>Cara Bermain "Bayang-Bayang Masa Lampau"</title>
+    <updated>2021-11-04T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110314504978074.png"><br/><br/>Katheryne dari Adventurers' Guild sepertinya sedang kesusahan karena sebuah misi penyelidikan. Kamu mungkin bisa mendapatkan imbalan setelah membantu Katheryne menyelesaikannya ....<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16944">Cara Bermain "Bayang-Bayang Masa Lampau"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16944" rel="alternate"/>
+    <summary>Katheryne dari Adventurers' Guild sepertinya sedang kesusahan karena sebuah misi penyelidikan. Kamu mungkin bisa mendapatkan imbalan setelah membantu Katheryne menyelesaikannya ....</summary>
+    <published>2021-11-04T10:30:00+07:00</published>
   </entry>
 </feed>

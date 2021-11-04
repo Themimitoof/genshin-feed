@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-11-04T02:26:43.853363+00:00</updated>
+  <updated>2021-11-04T03:10:36.886841+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14213</id>
-    <title>Kelahiran Seekor Naga: Proses Desain Azhdaha di Balik Layar | Genshin Impact</title>
-    <updated>2021-07-16T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071609594342664.jpg"><br/><br/>Terukir di batu secara abadi, dengan gunung-gunung yang menjadi saksi akan kekuatannya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14213">Kelahiran Seekor Naga: Proses Desain Azhdaha di Balik Layar | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14213" rel="alternate"/>
-    <summary>Terukir di batu secara abadi, dengan gunung-gunung yang menjadi saksi akan kekuatannya.</summary>
-    <published>2021-07-16T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14254</id>
     <title>Seluk-beluk Inazuma Edisi 3: Monster Baru!</title>
@@ -913,5 +904,14 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/16910" rel="alternate"/>
     <summary>Ada banyak sekali hal yang dilindungi Thoma, misalnya seperti teman yang dipercaya, rekan yang akrab, dan makhluk-makhluk kecil yang berbulu lebat.</summary>
     <published>2021-11-02T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>16944</id>
+    <title>Cara Bermain "Bayang-Bayang Masa Lampau"</title>
+    <updated>2021-11-04T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110314504978074.png"><br/><br/>Katheryne dari Adventurers' Guild sepertinya sedang kesusahan karena sebuah misi penyelidikan. Kamu mungkin bisa mendapatkan imbalan setelah membantu Katheryne menyelesaikannya ....<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16944">Cara Bermain "Bayang-Bayang Masa Lampau"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/16944" rel="alternate"/>
+    <summary>Katheryne dari Adventurers' Guild sepertinya sedang kesusahan karena sebuah misi penyelidikan. Kamu mungkin bisa mendapatkan imbalan setelah membantu Katheryne menyelesaikannya ....</summary>
+    <published>2021-11-04T10:30:00+07:00</published>
   </entry>
 </feed>

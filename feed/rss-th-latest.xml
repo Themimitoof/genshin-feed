@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:57 +0000</lastBuildDate>
-    <item>
-      <title>แจ้งการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์กับความฝันอันว่างเปล่า"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14297</link>
-      <description>นักเดินทางที่รัก:</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819353342206.jpg"><br/><br/>นักเดินทางที่รัก:<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14297">แจ้งการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์กับความฝันอันว่างเปล่า"</a>]]></content:encoded>
-      <guid isPermaLink="false">14297</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:53 +0000</lastBuildDate>
     <item>
       <title>การอธิษฐาน "ตำหนักกระเรียนขาว": โอกาสได้รับ UP "กระเรียนขาวกลางหิมะ - Kamisato Ayaka (น้ำแข็ง)" !</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14298</link>
@@ -748,6 +740,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211142721506.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16900">[Genshin Impact] เก็บตกตัวละคร - "Thoma: เกราะแดงแห่งความภักดี"</a>]]></description>
       <guid isPermaLink="false">16900</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/16955</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315362755484.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16955">คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</a>]]></description>
+      <guid isPermaLink="false">16955</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:28 +0000</lastBuildDate>
-    <item>
-      <title>The Inazuma Diaries Vol. 2 - Mechanisms and Wondrous Devices</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14194</link>
-      <description>In the course of exploring Inazuma, you will often come across some interesting devices. Faced with different mechanisms, how should we find a way to crack them? Let's take a look!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071519435765892.jpg"><br/><br/>In the course of exploring Inazuma, you will often come across some interesting devices. Faced with different mechanisms, how should we find a way to crack them? Let's take a look!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14194">The Inazuma Diaries Vol. 2 - Mechanisms and Wondrous Devices</a>]]></content:encoded>
-      <guid isPermaLink="false">14194</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:18 +0000</lastBuildDate>
     <item>
       <title>The Birth of a Dragon: A Behind the Scenes Look At the Creation of Azhdaha | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14229</link>
@@ -904,6 +896,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
 Oh, and the strong desire ignited in his heart to repay the kindness shown to him.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16896">Collected Miscellany - "Thoma: Crimson Armor of Loyalty" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16896</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Shadow of the Ancients" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/16935</link>
+      <description>Katheryne of the Adventurers' Guild seems to be having trouble dealing with a certain investigative commission. Helping her might just come with its benefits...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311484556926.png"><br/><br/>Katheryne of the Adventurers' Guild seems to be having trouble dealing with a certain investigative commission. Helping her might just come with its benefits...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16935">"Shadow of the Ancients" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">16935</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

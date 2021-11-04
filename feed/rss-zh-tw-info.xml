@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:34 +0000</lastBuildDate>
-    <item>
-      <title>《稻妻手帳002期》</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14198</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071520163635661.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14198">《稻妻手帳002期》</a>]]></description>
-      <guid isPermaLink="false">14198</guid>
-      <pubDate>Fri, 16 Jul 2021 10:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:25 +0000</lastBuildDate>
     <item>
       <title>預先下載功能即將開放</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14201</link>
@@ -792,6 +785,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211162196601.jpg"><br/><br/>托馬所守護的事物有很多，像是信賴的摯友、熟識的同僚，和那些毛絨絨的小生靈。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16902">拾枝雜談-「托馬：赤心紅鎧」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">16902</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「古時孤影」玩法說明</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16945</link>
+      <description>冒險家協會的凱瑟琳小姐正在為一項調查委託煩惱著，如果能為她分憂的話，或許會有意想不到的好處…</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315074276968.png"><br/><br/>冒險家協會的凱瑟琳小姐正在為一項調查委託煩惱著，如果能為她分憂的話，或許會有意想不到的好處…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16945">「古時孤影」玩法說明</a>]]></content:encoded>
+      <guid isPermaLink="false">16945</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

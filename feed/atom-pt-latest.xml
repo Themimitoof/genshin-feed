@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-11-04T02:26:51.743283+00:00</updated>
+  <updated>2021-11-04T03:10:46.581681+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14443</id>
-    <title>Descrição do Modo de Jogo "Colisão do Trovão"</title>
-    <updated>2021-07-21T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022271599984.jpg"><br/><br/>Disponível em Breve Novo Evento "Colisão do Trovão"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14443">Descrição do Modo de Jogo "Colisão do Trovão"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14443" rel="alternate"/>
-    <summary>Disponível em Breve Novo Evento "Colisão do Trovão"</summary>
-    <published>2021-07-21T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>14425</id>
     <title>Coleção Variada de Genshin Impact - "Kamisato Ayaka: A Garça que Dança sobre o Gelo"</title>
@@ -919,5 +910,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16898" rel="alternate"/>
     <summary>Há muitas coisas que são bem guardadas por Thoma, como por exemplo, amigos confiáveis, colegas próximos, e as criaturas peludinhas. E aquele desejo ardente que nasce do fundo do coração em retribuição de um favor...</summary>
     <published>2021-11-02T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16936</id>
+    <title>Descrição do Modo de Jogo "Sombra dos Antigos"</title>
+    <updated>2021-11-04T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311485937399.png"><br/><br/>Katheryne da Guilda de Aventureiros parece estar tendo problemas para lidar com uma certa missão de investigação. Ajudá-la pode trazer alguns benefícios...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16936">Descrição do Modo de Jogo "Sombra dos Antigos"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16936" rel="alternate"/>
+    <summary>Katheryne da Guilda de Aventureiros parece estar tendo problemas para lidar com uma certa missão de investigação. Ajudá-la pode trazer alguns benefícios...</summary>
+    <published>2021-11-04T10:30:00+00:00</published>
   </entry>
 </feed>

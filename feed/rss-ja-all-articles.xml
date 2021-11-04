@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:48 +0000</lastBuildDate>
-    <item>
-      <title>Ver.1.2「白亜と黒龍」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/7590</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201221/2020122112584119867.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7590">Ver.1.2「白亜と黒龍」イベント予告</a>]]></description>
-      <guid isPermaLink="false">7590</guid>
-      <pubDate>Mon, 21 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:42 +0000</lastBuildDate>
     <item>
       <title>「白亜と黒龍」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/7644</link>
@@ -730,6 +723,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110219125772218.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16921">「古の孤影」イベント予告</a>]]></description>
       <guid isPermaLink="false">16921</guid>
       <pubDate>Wed, 03 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「古の孤影」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16934</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311301352733.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16934">「古の孤影」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">16934</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>ゲーム内一部のテキストの修正および調整について</title>
@@ -1577,14 +1577,6 @@
       <pubDate>Sun, 31 Oct 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「風の行方」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12630</link>
-      <description>イベントに参加し、原石を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210510/2021051010492222127.jpg"><br/><br/>イベントに参加し、原石を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12630">「風の行方」イベント予告</a>]]></content:encoded>
-      <guid isPermaLink="false">12630</guid>
-      <pubDate>Tue, 11 May 2021 13:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>アカウント安全性に関するお知らせ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12697</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118234995594.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12697">アカウント安全性に関するお知らせ</a>]]></description>
@@ -2282,6 +2274,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110219125772218.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16921">「古の孤影」イベント予告</a>]]></description>
       <guid isPermaLink="false">16921</guid>
       <pubDate>Wed, 03 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「古の孤影」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16934</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311301352733.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16934">「古の孤影」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">16934</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

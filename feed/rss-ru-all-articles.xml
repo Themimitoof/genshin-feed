@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 04 Nov 2021 02:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 03:10:53 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -271,14 +271,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121817025631829.png"><br/><br/>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/7467">Страница предварительной демонстрации версии 1.2 «Принц мела и дракон» уже открыта!</a>]]></content:encoded>
       <guid isPermaLink="false">7467</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Рождение дракона» - О работе над Аждахой | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14215</link>
-      <description>Рождение дракона</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610092749333.jpg"><br/><br/>Рождение дракона<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14215">«Рождение дракона» - О работе над Аждахой | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14215</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
       <title>«Записи об Инадзуме: Выпуск III»: новые сильные монстры!</title>
@@ -1079,12 +1071,12 @@
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0300</pubDate>
     </item>
     <item>
-      <title>«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14366</link>
-      <description>Камисато Аяка</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919434399952.jpg"><br/><br/>Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14366">«Вечная метель» Камисато Аяка (Крио) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14366</guid>
-      <pubDate>Tue, 20 Jul 2021 12:00:00 +0300</pubDate>
+      <title>Описание события «Тень древности»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16939</link>
+      <description>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311562896192.png"><br/><br/>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16939">Описание события «Тень древности»</a>]]></content:encoded>
+      <guid isPermaLink="false">16939</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0300</pubDate>
     </item>
     <item>
       <title>Подробности обновления 2.0 «Незыблемый бог, гибель иллюзий»</title>
@@ -1886,6 +1878,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211102/2021110211203324413.jpg"><br/><br/>Многие могут рассчитывать на помощь и защиту Томы: верные друзья, знакомые единомышленники, ну и, конечно, маленькие пушистики.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16907">Тома: Алый доспех преданности | Коллекция Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">16907</guid>
       <pubDate>Tue, 02 Nov 2021 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Тень древности»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/16939</link>
+      <description>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311562896192.png"><br/><br/>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16939">Описание события «Тень древности»</a>]]></content:encoded>
+      <guid isPermaLink="false">16939</guid>
+      <pubDate>Thu, 04 Nov 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
