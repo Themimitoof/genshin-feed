@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2021-11-05T09:10:15.564010+00:00</updated>
+  <updated>2021-11-05T10:11:29.682449+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -140,19 +140,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <published>2021-10-14T18:00:00+01:00</published>
   </entry>
   <entry>
-    <id>16537</id>
-    <title>[Pengumuman Pemenang] Event Undian Genshin Impact</title>
-    <updated>2021-10-14T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415441988068.jpg"><br/><br/>Dear Traveler,
-Terima kasih kalian sudah mengikuti "Event Undian Genshin Impact". Selamat kepada pemenang yang beruntung!
-Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16537">[Pengumuman Pemenang] Event Undian Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16537" rel="alternate"/>
-    <summary>Dear Traveler,
-Terima kasih kalian sudah mengikuti "Event Undian Genshin Impact". Selamat kepada pemenang yang beruntung!
-Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～(•̀ᴗ•́)و ̑̑</summary>
-    <published>2021-10-14T18:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>16546</id>
     <title>Recrutamento de streamers da nova versão de Genshin Impact de Twitch</title>
     <updated>2021-10-15T18:00:00+01:00</updated>
@@ -187,5 +174,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/pt/news/detail/16880" rel="alternate"/>
     <summary>Junte-se ao Shiki Taishou para saborear deliciosos peixes grelhados em uma linda noite à beira-mar com faíscas de fogueira voando pelo ar!</summary>
     <published>2021-11-01T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>16971</id>
+    <title>Anúncio da Lista de Vencedores do Evento “Doces ou Careta!?”</title>
+    <updated>2021-11-05T18:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211104/2021110416272454750.jpg"><br/><br/>Paimon gostaria de compartilhar esses doces com vocês!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16971">Anúncio da Lista de Vencedores do Evento “Doces ou Careta!?”</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/16971" rel="alternate"/>
+    <summary>Paimon gostaria de compartilhar esses doces com vocês!</summary>
+    <published>2021-11-05T18:00:00+00:00</published>
   </entry>
 </feed>

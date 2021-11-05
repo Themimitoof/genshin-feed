@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 05 Nov 2021 09:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2021 10:11:29 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -126,18 +126,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <pubDate>Thu, 14 Oct 2021 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>[Pengumuman Pemenang] Event Undian Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16537</link>
-      <description>Dear Traveler,
-Terima kasih kalian sudah mengikuti "Event Undian Genshin Impact". Selamat kepada pemenang yang beruntung!
-Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～(•̀ᴗ•́)و ̑̑</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415441988068.jpg"><br/><br/>Dear Traveler,
-Terima kasih kalian sudah mengikuti "Event Undian Genshin Impact". Selamat kepada pemenang yang beruntung!
-Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16537">[Pengumuman Pemenang] Event Undian Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16537</guid>
-      <pubDate>Thu, 14 Oct 2021 18:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Recrutamento de streamers da nova versão de Genshin Impact de Twitch</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16546</link>
       <description>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.</description>
@@ -167,6 +155,14 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110465198485.jpg"><br/><br/>Junte-se ao Shiki Taishou para saborear deliciosos peixes grelhados em uma linda noite à beira-mar com faíscas de fogueira voando pelo ar!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16880">[Evento Web Disponível] "Fresquíssimo! Uma Noite do Sabor Supremo" — Venha grelhar deliciosos peixes com Shiki Taishou e obtenha Gemas Essenciais, entre outras recompensas!</a>]]></content:encoded>
       <guid isPermaLink="false">16880</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anúncio da Lista de Vencedores do Evento “Doces ou Careta!?”</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/16971</link>
+      <description>Paimon gostaria de compartilhar esses doces com vocês!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211104/2021110416272454750.jpg"><br/><br/>Paimon gostaria de compartilhar esses doces com vocês!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16971">Anúncio da Lista de Vencedores do Evento “Doces ou Careta!?”</a>]]></content:encoded>
+      <guid isPermaLink="false">16971</guid>
+      <pubDate>Fri, 05 Nov 2021 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
