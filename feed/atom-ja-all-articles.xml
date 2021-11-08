@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-11-08T03:11:05.847434+00:00</updated>
+  <updated>2021-11-08T04:12:37.259710+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -1941,13 +1941,13 @@
     <published>2021-10-31T12:00:00+09:00</published>
   </entry>
   <entry>
-    <id>12697</id>
-    <title>アカウント安全性に関するお知らせ</title>
-    <updated>2021-05-11T18:59:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118234995594.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12697">アカウント安全性に関するお知らせ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12697" rel="alternate"/>
+    <id>16987</id>
+    <title>Ver.2.1とVer.2.2キービジュアル壁紙公開！</title>
+    <updated>2021-11-08T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16987">Ver.2.1とVer.2.2キービジュアル壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16987" rel="alternate"/>
     <summary/>
-    <published>2021-05-11T18:59:00+09:00</published>
+    <published>2021-11-08T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>12714</id>
@@ -2816,5 +2816,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311301352733.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16934">「古の孤影」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/16934" rel="alternate"/>
     <published>2021-11-04T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16987</id>
+    <title>Ver.2.1とVer.2.2キービジュアル壁紙公開！</title>
+    <updated>2021-11-08T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16987">Ver.2.1とVer.2.2キービジュアル壁紙公開！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16987" rel="alternate"/>
+    <summary/>
+    <published>2021-11-08T12:00:00+09:00</published>
   </entry>
 </feed>

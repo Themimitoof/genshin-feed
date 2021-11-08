@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 08 Nov 2021 03:11:03 +0000</lastBuildDate>
-    <item>
-      <title>アカウント安全性に関するお知らせ</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12697</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210511/2021051118234995594.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12697">アカウント安全性に関するお知らせ</a>]]></description>
-      <guid isPermaLink="false">12697</guid>
-      <pubDate>Tue, 11 May 2021 18:59:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 08 Nov 2021 04:12:34 +0000</lastBuildDate>
     <item>
       <title>「風の行方」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12714</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311301352733.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16934">「古の孤影」イベント紹介</a>]]></description>
       <guid isPermaLink="false">16934</guid>
       <pubDate>Thu, 04 Nov 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.1とVer.2.2キービジュアル壁紙公開！</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16987</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16987">Ver.2.1とVer.2.2キービジュアル壁紙公開！</a>]]></description>
+      <guid isPermaLink="false">16987</guid>
+      <pubDate>Mon, 08 Nov 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
