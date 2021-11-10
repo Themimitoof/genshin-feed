@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Nov 2021 09:10:16 +0000</lastBuildDate>
-    <item>
-      <title>「風の行方」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12714</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210512/2021051217514261381.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12714">「風の行方」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">12714</guid>
-      <pubDate>Thu, 13 May 2021 10:28:30 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Nov 2021 10:11:17 +0000</lastBuildDate>
     <item>
       <title>「波沫の章」任務予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12753</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16987">Ver.2.1とVer.2.2キービジュアル壁紙公開！（11月10日更新済み）</a>]]></description>
       <guid isPermaLink="false">16987</guid>
       <pubDate>Mon, 08 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「花咲きし夢」イベント予告</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17038</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111017555012463.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17038">「花咲きし夢」イベント予告</a>]]></description>
+      <guid isPermaLink="false">17038</guid>
+      <pubDate>Wed, 10 Nov 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
