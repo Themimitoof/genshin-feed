@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 11 Nov 2021 02:25:09 +0000</lastBuildDate>
-    <item>
-      <title>Sắp Mở Tính Năng Tải Trước</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14200</link>
-      <description>Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071521451020354.jpg"><br/><br/>Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14200">Sắp Mở Tính Năng Tải Trước</a>]]></content:encoded>
-      <guid isPermaLink="false">14200</guid>
-      <pubDate>Fri, 16 Jul 2021 11:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 03:11:05 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] Hậu trường chế tác Azhdaha - Chuyên Tâm Chạm Khắc Rồng</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14210</link>
@@ -769,6 +761,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315380357384.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16961">Hướng Dẫn Cách Chơi "Bóng Hình Cổ Xưa"	</a>]]></description>
       <guid isPermaLink="false">16961</guid>
       <pubDate>Thu, 04 Nov 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17036</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110180098265.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17036">Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</a>]]></description>
+      <guid isPermaLink="false">17036</guid>
+      <pubDate>Thu, 11 Nov 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

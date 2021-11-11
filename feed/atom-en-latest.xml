@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-11-11T02:24:39.945044+00:00</updated>
+  <updated>2021-11-11T03:10:17.448038+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14450</id>
-    <title>Version 2.0 "The Immovable God and the Eternal Euthymia" Update Details</title>
-    <updated>2021-07-21T07:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022541835900.jpg"><br/><br/>Below are the details of the Version 2.0 update "The Immovable God and the Eternal Euthymia" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14450">Version 2.0 "The Immovable God and the Eternal Euthymia" Update Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14450" rel="alternate"/>
-    <summary>Below are the details of the Version 2.0 update "The Immovable God and the Eternal Euthymia" and the update compensation.</summary>
-    <published>2021-07-21T07:00:00-04:00</published>
-  </entry>
   <entry>
     <id>14456</id>
     <title>"Thunder Sojourn" Gameplay Details</title>
@@ -994,5 +985,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <link href="https://genshin.mihoyo.com/en/news/detail/16935" rel="alternate"/>
     <summary>Katheryne of the Adventurers' Guild seems to be having trouble dealing with a certain investigative commission. Helping her might just come with its benefits...</summary>
     <published>2021-11-04T10:30:00-04:00</published>
+  </entry>
+  <entry>
+    <id>17033</id>
+    <title>"Dreams of Bloom" Gameplay Details</title>
+    <updated>2021-11-11T10:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110190598442.jpg"><br/><br/>The Inazuman florist Sakuya wants to promote her shop, "Sakuya's Flowers," so she is organizing a new promotional activity...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17033">"Dreams of Bloom" Gameplay Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17033" rel="alternate"/>
+    <summary>The Inazuman florist Sakuya wants to promote her shop, "Sakuya's Flowers," so she is organizing a new promotional activity...</summary>
+    <published>2021-11-11T10:30:00-05:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-11-11T02:24:59.147099+00:00</updated>
+  <updated>2021-11-11T03:10:48.795925+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14220</id>
-    <title>신규 버전 사전 다운로드 기능 오픈 예정</title>
-    <updated>2021-07-16T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610194550693.jpg"><br/><br/>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14220">신규 버전 사전 다운로드 기능 오픈 예정</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14220" rel="alternate"/>
-    <summary>여행자에게 보다 나은 게임 환경을 제공하고자 개발진에서 PC 및 모바일 클라이언트의 사전 다운로드 기능을 오픈할 예정입니다</summary>
-    <published>2021-07-16T11:00:00+09:00</published>
-  </entry>
   <entry>
     <id>14205</id>
     <title>&lt;원신&gt; 용의 탄생! 야타용왕의 비하인드 스토리</title>
@@ -957,5 +948,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16970" rel="alternate"/>
     <summary>모험가 길드의 캐서린이 조사 의뢰 때문에 골치가 아픈 것 같다. 만약 그녀의 골칫거리를 해결해 준다면 좋은 일이 생길지도…</summary>
     <published>2021-11-04T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17039</id>
+    <title>「꿈속에 핀 꽃」 콘텐츠 안내</title>
+    <updated>2021-11-11T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110173943536.jpg"><br/><br/>이나즈마의 원예사 사쿠야가 자신의 「사쿠야 꽃집」을 홍보하기 위해 새로운 이벤트를 진행 중이다…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17039">「꿈속에 핀 꽃」 콘텐츠 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17039" rel="alternate"/>
+    <summary>이나즈마의 원예사 사쿠야가 자신의 「사쿠야 꽃집」을 홍보하기 위해 새로운 이벤트를 진행 중이다…</summary>
+    <published>2021-11-11T10:30:00+09:00</published>
   </entry>
 </feed>

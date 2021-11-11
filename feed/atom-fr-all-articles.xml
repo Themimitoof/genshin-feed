@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-11-11T02:24:45.489916+00:00</updated>
+  <updated>2021-11-11T03:10:26.123927+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -278,15 +278,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14219</id>
-    <title>Les carnets d'Inazuma N° 2 : Mécanismes et curieux dispositifs</title>
-    <updated>2021-07-16T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610195092200.jpg"><br/><br/>Durant votre voyage à Inazuma, vous tomberez souvent sur de curieux mécanismes. Comment les décoder ? Voyons un peu ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14219">Les carnets d'Inazuma N° 2 : Mécanismes et curieux dispositifs</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14219" rel="alternate"/>
-    <summary>Durant votre voyage à Inazuma, vous tomberez souvent sur de curieux mécanismes. Comment les décoder ? Voyons un peu ensemble !</summary>
-    <published>2021-07-16T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14226</id>
@@ -1161,13 +1152,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-11-04T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>14286</id>
-    <title>Vœux « Prestance du héron » : taux d'obtention boosté pour Kamisato Ayaka · Héron de givre (Cryo) !</title>
-    <updated>2021-07-19T12:01:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071816034479203.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14286">Vœux « Prestance du héron » : taux d'obtention boosté pour Kamisato Ayaka · Héron de givre (Cryo) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14286" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</summary>
-    <published>2021-07-19T12:01:00+02:00</published>
+    <id>17040</id>
+    <title>Détails de l'événement « Rêves de floraison »</title>
+    <updated>2021-11-11T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110145942125.jpg"><br/><br/>Sakuya, la fleuriste d'Inazuma, souhaite faire la promotion de sa boutique, « Aux jardins de Sakuya ». Elle a donc décidé d'organiser une nouvelle activité promotionnelle...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17040">Détails de l'événement « Rêves de floraison »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17040" rel="alternate"/>
+    <summary>Sakuya, la fleuriste d'Inazuma, souhaite faire la promotion de sa boutique, « Aux jardins de Sakuya ». Elle a donc décidé d'organiser une nouvelle activité promotionnelle...</summary>
+    <published>2021-11-11T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>14287</id>
@@ -2039,5 +2030,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/16969" rel="alternate"/>
     <summary>Catherine, de la Guilde des aventuriers, semble avoir du mal à gérer une mission d'investigation. L'aider pourrait bien venir avec ses avantages...</summary>
     <published>2021-11-04T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17040</id>
+    <title>Détails de l'événement « Rêves de floraison »</title>
+    <updated>2021-11-11T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110145942125.jpg"><br/><br/>Sakuya, la fleuriste d'Inazuma, souhaite faire la promotion de sa boutique, « Aux jardins de Sakuya ». Elle a donc décidé d'organiser une nouvelle activité promotionnelle...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17040">Détails de l'événement « Rêves de floraison »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17040" rel="alternate"/>
+    <summary>Sakuya, la fleuriste d'Inazuma, souhaite faire la promotion de sa boutique, « Aux jardins de Sakuya ». Elle a donc décidé d'organiser une nouvelle activité promotionnelle...</summary>
+    <published>2021-11-11T10:30:00+01:00</published>
   </entry>
 </feed>

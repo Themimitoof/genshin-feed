@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 11 Nov 2021 02:25:06 +0000</lastBuildDate>
-    <item>
-      <title>การอธิษฐาน "ตำหนักกระเรียนขาว": โอกาสได้รับ UP "กระเรียนขาวกลางหิมะ - Kamisato Ayaka (น้ำแข็ง)" !</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14298</link>
-      <description>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับตัวละครและอาวุธมากมายจากกิจกรรมอธิษฐาน เพื่อสร้างทีมให้แข็งแกร่งขึ้น!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071820044748085.jpg"><br/><br/>ในช่วงเวลากิจกรรม นักเดินทางสามารถได้รับตัวละครและอาวุธมากมายจากกิจกรรมอธิษฐาน เพื่อสร้างทีมให้แข็งแกร่งขึ้น!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14298">การอธิษฐาน "ตำหนักกระเรียนขาว": โอกาสได้รับ UP "กระเรียนขาวกลางหิมะ - Kamisato Ayaka (น้ำแข็ง)" !</a>]]></content:encoded>
-      <guid isPermaLink="false">14298</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 03:10:59 +0000</lastBuildDate>
     <item>
       <title>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ดาบ - Mistsplitter Reforged" "หอก - Skyward Spine"!</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14299</link>
@@ -747,6 +739,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315362755484.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16955">คำอธิบายเกมเพลย์ "เงาแห่งอดีตกาล"</a>]]></description>
       <guid isPermaLink="false">16955</guid>
       <pubDate>Thu, 04 Nov 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายเกมเพลย์ "ดอกไม้ในความฝัน"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17035</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110181710697.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17035">คำอธิบายเกมเพลย์ "ดอกไม้ในความฝัน"</a>]]></description>
+      <guid isPermaLink="false">17035</guid>
+      <pubDate>Thu, 11 Nov 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

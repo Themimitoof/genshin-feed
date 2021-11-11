@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-11-11T02:24:53.381363+00:00</updated>
+  <updated>2021-11-11T03:10:39.831700+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -279,15 +279,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14246</id>
-    <title>Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</title>
-    <updated>2021-07-18T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071621161484750.jpg"><br/><br/>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14246">Diario de Inazuma - 4.ª edición: ¡Objetos típicos nunca antes vistos!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14246" rel="alternate"/>
-    <summary>¡Hola, viajeros! En esta edición, nos adentraremos en el entorno natural de Inazuma.</summary>
-    <published>2021-07-18T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>14289</id>
@@ -1187,13 +1178,13 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <published>2021-11-04T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>14440</id>
-    <title>Modo de juego de «Colisión eléctrica»</title>
-    <updated>2021-07-21T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072021494622674.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14440">Modo de juego de «Colisión eléctrica»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14440" rel="alternate"/>
-    <summary/>
-    <published>2021-07-21T10:30:00+02:00</published>
+    <id>17029</id>
+    <title>Modo de juego del evento «Flores de ensueño»</title>
+    <updated>2021-11-11T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111010374871968.jpg"><br/><br/>Para dar publicidad a su floristería, Sakuya, una florista de Inazuma, está organizando una novedosa actividad promocional.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17029">Modo de juego del evento «Flores de ensueño»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17029" rel="alternate"/>
+    <summary>Para dar publicidad a su floristería, Sakuya, una florista de Inazuma, está organizando una novedosa actividad promocional.</summary>
+    <published>2021-11-11T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>14427</id>
@@ -2093,5 +2084,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <link href="https://genshin.mihoyo.com/es/news/detail/16937" rel="alternate"/>
     <summary>Katheryne, del Gremio de Aventureros, está preocupada por un encargo relacionado con una investigación. Ayúdala y podrás obtener beneficios inesperados...</summary>
     <published>2021-11-04T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17029</id>
+    <title>Modo de juego del evento «Flores de ensueño»</title>
+    <updated>2021-11-11T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111010374871968.jpg"><br/><br/>Para dar publicidad a su floristería, Sakuya, una florista de Inazuma, está organizando una novedosa actividad promocional.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17029">Modo de juego del evento «Flores de ensueño»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17029" rel="alternate"/>
+    <summary>Para dar publicidad a su floristería, Sakuya, una florista de Inazuma, está organizando una novedosa actividad promocional.</summary>
+    <published>2021-11-11T10:30:00+01:00</published>
   </entry>
 </feed>

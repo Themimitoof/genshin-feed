@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 11 Nov 2021 02:24:58 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; OST 진주의 노래 The Shimmering Voyage</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14302</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071908310118958.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14302"><원신> OST 진주의 노래 The Shimmering Voyage</a>]]></description>
-      <guid isPermaLink="false">14302</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 03:10:47 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「카미사토 아야카: 눈보라 속 동백꽃」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14385</link>
@@ -858,6 +851,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110318191511438.png"><br/><br/>모험가 길드의 캐서린이 조사 의뢰 때문에 골치가 아픈 것 같다. 만약 그녀의 골칫거리를 해결해 준다면 좋은 일이 생길지도…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16970">「고대의 그림자」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">16970</guid>
       <pubDate>Thu, 04 Nov 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「꿈속에 핀 꽃」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17039</link>
+      <description>이나즈마의 원예사 사쿠야가 자신의 「사쿠야 꽃집」을 홍보하기 위해 새로운 이벤트를 진행 중이다…</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110173943536.jpg"><br/><br/>이나즈마의 원예사 사쿠야가 자신의 「사쿠야 꽃집」을 홍보하기 위해 새로운 이벤트를 진행 중이다…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17039">「꿈속에 핀 꽃」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">17039</guid>
+      <pubDate>Thu, 11 Nov 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

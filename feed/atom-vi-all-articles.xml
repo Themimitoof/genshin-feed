@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-11-11T02:25:11.406800+00:00</updated>
+  <updated>2021-11-11T03:11:08.558971+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -243,15 +243,6 @@
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14200</id>
-    <title>Sắp Mở Tính Năng Tải Trước</title>
-    <updated>2021-07-16T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071521451020354.jpg"><br/><br/>Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14200">Sắp Mở Tính Năng Tải Trước</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14200" rel="alternate"/>
-    <summary>Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.</summary>
-    <published>2021-07-16T11:00:00+07:00</published>
   </entry>
   <entry>
     <id>14210</id>
@@ -1120,13 +1111,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-11-04T10:30:00+07:00</published>
   </entry>
   <entry>
-    <id>14333</id>
-    <title>Cầu nguyện Bạch Hạc Đình: UP xác suất Bạch Hạc Sương Hoa - Kamisato Ayaka (Băng)！</title>
-    <updated>2021-07-19T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910492059403.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận thêm vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14333">Cầu nguyện Bạch Hạc Đình: UP xác suất Bạch Hạc Sương Hoa - Kamisato Ayaka (Băng)！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14333" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận thêm vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-07-19T12:01:00+07:00</published>
+    <id>17036</id>
+    <title>Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</title>
+    <updated>2021-11-11T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110180098265.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17036">Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17036" rel="alternate"/>
+    <summary/>
+    <published>2021-11-11T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>14334</id>
@@ -1988,5 +1979,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315380357384.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16961">Hướng Dẫn Cách Chơi "Bóng Hình Cổ Xưa"	</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16961" rel="alternate"/>
     <published>2021-11-04T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17036</id>
+    <title>Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</title>
+    <updated>2021-11-11T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110180098265.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17036">Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17036" rel="alternate"/>
+    <summary/>
+    <published>2021-11-11T10:30:00+07:00</published>
   </entry>
 </feed>

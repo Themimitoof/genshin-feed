@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 11 Nov 2021 02:25:03 +0000</lastBuildDate>
-    <item>
-      <title>Подробности обновления 2.0 «Незыблемый бог, гибель иллюзий»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14460</link>
-      <description>Обновление до версии 2.0 - «Незыблемый бог, гибель иллюзий»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072100200175887.jpg"><br/><br/>Обновление до версии 2.0 - «Незыблемый бог, гибель иллюзий»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14460">Подробности обновления 2.0 «Незыблемый бог, гибель иллюзий»</a>]]></content:encoded>
-      <guid isPermaLink="false">14460</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 03:10:55 +0000</lastBuildDate>
     <item>
       <title>Описание события «Грозовые отпечатки»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14447</link>
@@ -817,6 +809,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311562896192.png"><br/><br/>Катерина из Гильдии искателей приключений, похоже, не может справиться с некоторым поручением. Возможно, она неплохо вас вознаградит за помощь...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16939">Описание события «Тень древности»</a>]]></content:encoded>
       <guid isPermaLink="false">16939</guid>
       <pubDate>Thu, 04 Nov 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Цветущие мечты»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17034</link>
+      <description>Инадзумская цветочница Сакуя проводит новую рекламную акцию для своего «Дома цветов Сакуи».</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110184669442.jpg"><br/><br/>Инадзумская цветочница Сакуя проводит новую рекламную акцию для своего «Дома цветов Сакуи».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17034">Описание события «Цветущие мечты»</a>]]></content:encoded>
+      <guid isPermaLink="false">17034</guid>
+      <pubDate>Thu, 11 Nov 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

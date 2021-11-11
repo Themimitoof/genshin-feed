@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 11 Nov 2021 02:24:53 +0000</lastBuildDate>
-    <item>
-      <title>Album OST Genshin Impact — Vortex of Legends</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/14310</link>
-      <description>Album OST Kilas Balik Genshin Impact v1.0 "The Shimmering Voyage" resmi dirilis!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071913330881171.jpg"><br/><br/>Album OST Kilas Balik Genshin Impact v1.0 "The Shimmering Voyage" resmi dirilis!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14310">Album OST Genshin Impact — Vortex of Legends</a>]]></content:encoded>
-      <guid isPermaLink="false">14310</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 11 Nov 2021 03:10:39 +0000</lastBuildDate>
     <item>
       <title>Demo Karakter - "Kamisato Ayaka: Camellia di Tengah Salju"</title>
       <link>https://genshin.mihoyo.com/id/news/detail/14364</link>
@@ -817,6 +809,14 @@ Hari ini, ayo kita kenalan dengan Thoma!<br><br>Read more on <a href="https://ge
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110314504978074.png"><br/><br/>Katheryne dari Adventurers' Guild sepertinya sedang kesusahan karena sebuah misi penyelidikan. Kamu mungkin bisa mendapatkan imbalan setelah membantu Katheryne menyelesaikannya ....<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/16944">Cara Bermain "Bayang-Bayang Masa Lampau"</a>]]></content:encoded>
       <guid isPermaLink="false">16944</guid>
       <pubDate>Thu, 04 Nov 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Cara Bermain "Mekar Dalam Mimpi"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17032</link>
+      <description>Sakuya — seorang penjual bunga dari Inazuma, ingin mempromosikan tokonya yang bernama "Sakuya's Flowers". Saat ini dia sedang mengadakan kegiatan promosi baru ....</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111011013945464.jpg"><br/><br/>Sakuya — seorang penjual bunga dari Inazuma, ingin mempromosikan tokonya yang bernama "Sakuya's Flowers". Saat ini dia sedang mengadakan kegiatan promosi baru ....<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17032">Cara Bermain "Mekar Dalam Mimpi"</a>]]></content:encoded>
+      <guid isPermaLink="false">17032</guid>
+      <pubDate>Thu, 11 Nov 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

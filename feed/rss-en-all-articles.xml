@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Nov 2021 02:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Nov 2021 03:10:21 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -290,14 +290,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Birth of a Dragon: A Behind the Scenes Look At the Creation of Azhdaha | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14229</link>
-      <description>Etched forever in stone, the mountains bear witness to his power. Of all the adversaries the Traveler has faced, Azhdaha has remained one of the most memorable. Let's take a look at how the Genshin Impact team brought this majestic creation to life!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071610321368396.jpg"><br/><br/>Etched forever in stone, the mountains bear witness to his power. Of all the adversaries the Traveler has faced, Azhdaha has remained one of the most memorable. Let's take a look at how the Genshin Impact team brought this majestic creation to life!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14229">The Birth of a Dragon: A Behind the Scenes Look At the Creation of Azhdaha | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14229</guid>
-      <pubDate>Fri, 16 Jul 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>The Inazuma Diaries Vol. 3: New Monsters!</title>
@@ -1188,12 +1180,12 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <pubDate>Thu, 04 Nov 2021 10:30:00 -0400</pubDate>
     </item>
     <item>
-      <title>Version 2.0 "The Immovable God and the Eternal Euthymia" Update Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14450</link>
-      <description>Below are the details of the Version 2.0 update "The Immovable God and the Eternal Euthymia" and the update compensation.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022541835900.jpg"><br/><br/>Below are the details of the Version 2.0 update "The Immovable God and the Eternal Euthymia" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14450">Version 2.0 "The Immovable God and the Eternal Euthymia" Update Details</a>]]></content:encoded>
-      <guid isPermaLink="false">14450</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 -0400</pubDate>
+      <title>"Dreams of Bloom" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17033</link>
+      <description>The Inazuman florist Sakuya wants to promote her shop, "Sakuya's Flowers," so she is organizing a new promotional activity...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110190598442.jpg"><br/><br/>The Inazuman florist Sakuya wants to promote her shop, "Sakuya's Flowers," so she is organizing a new promotional activity...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17033">"Dreams of Bloom" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">17033</guid>
+      <pubDate>Thu, 11 Nov 2021 10:30:00 -0500</pubDate>
     </item>
     <item>
       <title>"Thunder Sojourn" Gameplay Details</title>
@@ -2072,6 +2064,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110311484556926.png"><br/><br/>Katheryne of the Adventurers' Guild seems to be having trouble dealing with a certain investigative commission. Helping her might just come with its benefits...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16935">"Shadow of the Ancients" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">16935</guid>
       <pubDate>Thu, 04 Nov 2021 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"Dreams of Bloom" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17033</link>
+      <description>The Inazuman florist Sakuya wants to promote her shop, "Sakuya's Flowers," so she is organizing a new promotional activity...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110190598442.jpg"><br/><br/>The Inazuman florist Sakuya wants to promote her shop, "Sakuya's Flowers," so she is organizing a new promotional activity...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17033">"Dreams of Bloom" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">17033</guid>
+      <pubDate>Thu, 11 Nov 2021 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

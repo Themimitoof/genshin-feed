@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2021-11-11T02:24:57.780862+00:00</updated>
+  <updated>2021-11-11T03:10:46.918776+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>events feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>7795</id>
-    <title>「秘宝の行方」イベント予告</title>
-    <updated>2021-01-06T13:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210105/2021010519064844757.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7795">「秘宝の行方」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/7795" rel="alternate"/>
-    <summary/>
-    <published>2021-01-06T13:00:00+09:00</published>
-  </entry>
   <entry>
     <id>7853</id>
     <title>「秘宝の行方」イベント紹介</title>
@@ -890,5 +881,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17038" rel="alternate"/>
     <summary/>
     <published>2021-11-10T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17037</id>
+    <title>「花咲きし夢」イベント紹介</title>
+    <updated>2021-11-11T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111011295432352.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17037">「花咲きし夢」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17037" rel="alternate"/>
+    <summary/>
+    <published>2021-11-11T10:30:00+09:00</published>
   </entry>
 </feed>

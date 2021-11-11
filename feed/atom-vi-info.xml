@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2021-11-11T02:25:09.542614+00:00</updated>
+  <updated>2021-11-11T03:11:05.699733+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14200</id>
-    <title>Sắp Mở Tính Năng Tải Trước</title>
-    <updated>2021-07-16T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071521451020354.jpg"><br/><br/>Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14200">Sắp Mở Tính Năng Tải Trước</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14200" rel="alternate"/>
-    <summary>Để mang đến cho các bạn những trải nghiệm chơi game tốt hơn, tổ chế tác sẽ mở tính năng tải trước trên PC và di động trong thời gian sắp tới.</summary>
-    <published>2021-07-16T11:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14210</id>
     <title>[Genshin Impact] Hậu trường chế tác Azhdaha - Chuyên Tâm Chạm Khắc Rồng</title>
@@ -883,5 +874,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211103/2021110315380357384.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16961">Hướng Dẫn Cách Chơi "Bóng Hình Cổ Xưa"	</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/16961" rel="alternate"/>
     <published>2021-11-04T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17036</id>
+    <title>Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</title>
+    <updated>2021-11-11T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110180098265.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17036">Hướng Dẫn Cách Chơi "Giấc Mơ Hoa"		</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17036" rel="alternate"/>
+    <summary/>
+    <published>2021-11-11T10:30:00+07:00</published>
   </entry>
 </feed>
