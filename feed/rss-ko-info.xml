@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 12 Nov 2021 12:14:58 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 용의 탄생! 야타용왕의 비하인드 스토리</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14205</link>
-      <description>﻿바위에 영원한 생명을 새기고 산의 울분을 느낀다. 여행자와 겨룬 적 있는 강적 중, 야타용왕은 두말할 것 없이 가장 기억에 남는 적이다. 원신 제작진과 함께 야타용왕의 제작 과정을 돌아보자!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071523530911549.jpg"><br/><br/>﻿바위에 영원한 생명을 새기고 산의 울분을 느낀다. 여행자와 겨룬 적 있는 강적 중, 야타용왕은 두말할 것 없이 가장 기억에 남는 적이다. 원신 제작진과 함께 야타용왕의 제작 과정을 돌아보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14205"><원신> 용의 탄생! 야타용왕의 비하인드 스토리</a>]]></content:encoded>
-      <guid isPermaLink="false">14205</guid>
-      <pubDate>Fri, 16 Jul 2021 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[이나즈마 수첩 3회] 새로운 '덩치'들!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14252</link>
-      <description>이번 회에선 이나즈마의 새로운 몬스터들에 대해서 알아보자~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071709154020922.png"><br/><br/>이번 회에선 이나즈마의 새로운 몬스터들에 대해서 알아보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14252">[이나즈마 수첩 3회] 새로운 '덩치'들!</a>]]></content:encoded>
-      <guid isPermaLink="false">14252</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 13:17:52 +0000</lastBuildDate>
     <item>
       <title>[이나즈마 수첩 4회] 지금까지 없었던 특산품!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14243</link>
@@ -856,6 +840,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110173943536.jpg"><br/><br/>이나즈마의 원예사 사쿠야가 자신의 「사쿠야 꽃집」을 홍보하기 위해 새로운 이벤트를 진행 중이다…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17039">「꿈속에 핀 꽃」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">17039</guid>
       <pubDate>Thu, 11 Nov 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 2.3 버전 PV - 「눈보라 속 그림자」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17079</link>
+      <description>극한의 추위에 절로 뒷걸음질 치게 되지만, 생명의 비밀이 그 속에서 천천히 자라나고 있다...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111216042690318.jpg"><br/><br/>극한의 추위에 절로 뒷걸음질 치게 되지만, 생명의 비밀이 그 속에서 천천히 자라나고 있다...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17079"><원신> 2.3 버전 PV - 「눈보라 속 그림자」</a>]]></content:encoded>
+      <guid isPermaLink="false">17079</guid>
+      <pubDate>Fri, 12 Nov 2021 20:45:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「캐릭터 이벤트 기원-2」(신규 유형) 메커니즘 설명</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17078</link>
+      <description>2.3 버전 업데이트 후 신규 기원 유형 「캐릭터 이벤트 기원-2」가 추가됩니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111215435137437.jpg"><br/><br/>2.3 버전 업데이트 후 신규 기원 유형 「캐릭터 이벤트 기원-2」가 추가됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17078">「캐릭터 이벤트 기원-2」(신규 유형) 메커니즘 설명</a>]]></content:encoded>
+      <guid isPermaLink="false">17078</guid>
+      <pubDate>Fri, 12 Nov 2021 21:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

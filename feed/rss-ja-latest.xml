@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Nov 2021 12:14:58 +0000</lastBuildDate>
-    <item>
-      <title>「迷城戦線」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12873</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210518/2021051814151156650.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12873">「迷城戦線」イベント予告</a>]]></description>
-      <guid isPermaLink="false">12873</guid>
-      <pubDate>Wed, 19 May 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 13:17:46 +0000</lastBuildDate>
     <item>
       <title>「迷城戦線」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/12882</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111011295432352.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17037">「花咲きし夢」イベント紹介</a>]]></description>
       <guid isPermaLink="false">17037</guid>
       <pubDate>Thu, 11 Nov 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「イベント祈願・キャラクター 2」新規仕様に関する説明</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17048</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111118444826418.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17048">「イベント祈願・キャラクター 2」新規仕様に関する説明</a>]]></description>
+      <guid isPermaLink="false">17048</guid>
+      <pubDate>Fri, 12 Nov 2021 21:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

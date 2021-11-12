@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 12 Nov 2021 12:14:57 +0000</lastBuildDate>
-    <item>
-      <title>Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14289</link>
-      <description>Querido/a viajero/a: Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071817590843826.jpg"><br/><br/>Querido/a viajero/a: Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14289">Aviso de actualización de la versión 2.0 «La diosa inmutable y la utopía eterna»</a>]]></content:encoded>
-      <guid isPermaLink="false">14289</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Elegancia de la garza»: ¡aumentada la probabilidad de obtención de Kamisato Ayaka!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14291</link>
-      <description>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819132664664.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14291">Gachapón «Elegancia de la garza»: ¡aumentada la probabilidad de obtención de Kamisato Ayaka!</a>]]></content:encoded>
-      <guid isPermaLink="false">14291</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 13:17:38 +0000</lastBuildDate>
     <item>
       <title>Gachapón «Encarnación divina»: ¡aumentada la probabilidad de obtención de Reflejo de las Tinieblas!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14293</link>
@@ -810,6 +794,21 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111010374871968.jpg"><br/><br/>Para dar publicidad a su floristería, Sakuya, una florista de Inazuma, está organizando una novedosa actividad promocional.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17029">Modo de juego del evento «Flores de ensueño»</a>]]></content:encoded>
       <guid isPermaLink="false">17029</guid>
       <pubDate>Thu, 11 Nov 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Avance de la versión 2.3 de Genshin Impact «Sombras de nieve y polvo»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17063</link>
+      <description>Bajo este sobrecogedor frío helado se esconden los más profundos misterios de la vida...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211145143840.jpg"><br/><br/>Bajo este sobrecogedor frío helado se esconden los más profundos misterios de la vida...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17063">Avance de la versión 2.3 de Genshin Impact «Sombras de nieve y polvo»</a>]]></content:encoded>
+      <guid isPermaLink="false">17063</guid>
+      <pubDate>Fri, 12 Nov 2021 20:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Detalles del Gachapón promocional de personaje 2 (Nuevo formato)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17073</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211314451098.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17073">Detalles del Gachapón promocional de personaje 2 (Nuevo formato)</a>]]></description>
+      <guid isPermaLink="false">17073</guid>
+      <pubDate>Fri, 12 Nov 2021 21:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

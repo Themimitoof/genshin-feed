@@ -2,29 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-11-12T12:14:55.738109+00:00</updated>
+  <updated>2021-11-12T13:17:30.188409+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14258</id>
-    <title>「不動鳴神，泡影斷滅」2.0版本更新通知</title>
-    <updated>2021-07-19T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071711322663551.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14258">「不動鳴神，泡影斷滅」2.0版本更新通知</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14258" rel="alternate"/>
-    <published>2021-07-19T10:30:00+08:00</published>
-  </entry>
-  <entry>
-    <id>14283</id>
-    <title>「白鷺之庭」祈願：「白鷺霜華·神里綾華(冰)」機率UP！</title>
-    <updated>2021-07-19T12:01:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071813451825676.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14283">「白鷺之庭」祈願：「白鷺霜華·神里綾華(冰)」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14283" rel="alternate"/>
-    <published>2021-07-19T12:01:00+08:00</published>
-  </entry>
   <entry>
     <id>14284</id>
     <title>「神鑄賦形」祈願：「單手劍·霧切之回光」「長柄武器·天空之脊」機率UP！</title>
@@ -898,5 +882,23 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17030" rel="alternate"/>
     <summary>稻妻的花匠咲耶為了推廣自己的「咲耶花屋」，正在舉辦一場全新的推廣活動…</summary>
     <published>2021-11-11T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17054</id>
+    <title>2.3版本預告：「皚塵與雪影」｜原神</title>
+    <updated>2021-11-12T20:45:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211034510875.jpg"><br/><br/>極冰之寒令人望而卻步，生命的奧秘在其中慢慢滋長…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17054">2.3版本預告：「皚塵與雪影」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17054" rel="alternate"/>
+    <summary>極冰之寒令人望而卻步，生命的奧秘在其中慢慢滋長…</summary>
+    <published>2021-11-12T20:45:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17076</id>
+    <title>「角色活動祈願-2」（新增類型）機制說明</title>
+    <updated>2021-11-12T21:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211550494038.jpg"><br/><br/>2.3版本更新完成後，將新增祈願類型：「角色活動祈願-2」。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17076">「角色活動祈願-2」（新增類型）機制說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17076" rel="alternate"/>
+    <summary>2.3版本更新完成後，將新增祈願類型：「角色活動祈願-2」。</summary>
+    <published>2021-11-12T21:00:00+08:00</published>
   </entry>
 </feed>

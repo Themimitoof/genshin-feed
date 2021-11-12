@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-11-12T12:14:59.732218+00:00</updated>
+  <updated>2021-11-12T13:18:03.436937+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14299</id>
-    <title>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ดาบ - Mistsplitter Reforged" "หอก - Skyward Spine"!</title>
-    <updated>2021-07-19T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071820131938678.jpg"><br/><br/>ในเวลาช่วงกิจกรรม นักเดินทางสามารถได้รับอาวุธและตัวละครมากมายจากกิจกรรมอธิษฐาน "สรรค์สร้างเซียน" เพื่อเสริมการต่อสู้ของทีมให้แข็งแกร่ง!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14299">การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ดาบ - Mistsplitter Reforged" "หอก - Skyward Spine"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14299" rel="alternate"/>
-    <summary>ในเวลาช่วงกิจกรรม นักเดินทางสามารถได้รับอาวุธและตัวละครมากมายจากกิจกรรมอธิษฐาน "สรรค์สร้างเซียน" เพื่อเสริมการต่อสู้ของทีมให้แข็งแกร่ง!</summary>
-    <published>2021-07-19T12:01:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14335</id>
-    <title>กิจกรรมใหม่เวอร์ชัน 2.0 ช่วงที่ 1</title>
-    <updated>2021-07-19T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910555839561.jpg"><br/><br/>สวัสดีนักเดินทาง~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14335">กิจกรรมใหม่เวอร์ชัน 2.0 ช่วงที่ 1</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14335" rel="alternate"/>
-    <summary>สวัสดีนักเดินทาง~</summary>
-    <published>2021-07-19T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>14325</id>
     <title>Genshin Impact OST "The Shimmering Voyage"</title>
@@ -863,5 +845,22 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/17035" rel="alternate"/>
     <summary/>
     <published>2021-11-11T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17062</id>
+    <title>ตัวอย่าง Genshin Impact เวอร์ชัน 2.3: "ฝุ่นธุลีและเงาแห่งหิมะ"</title>
+    <updated>2021-11-12T20:45:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211144085798.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17062">ตัวอย่าง Genshin Impact เวอร์ชัน 2.3: "ฝุ่นธุลีและเงาแห่งหิมะ"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17062" rel="alternate"/>
+    <summary/>
+    <published>2021-11-12T20:45:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17086</id>
+    <title>คำอธิบายระบบของ "กิจกรรมอธิษฐานตัวละคร - 2" (รูปแบบใหม่)</title>
+    <updated>2021-11-12T21:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220113893978.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17086">คำอธิบายระบบของ "กิจกรรมอธิษฐานตัวละคร - 2" (รูปแบบใหม่)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17086" rel="alternate"/>
+    <published>2021-11-12T21:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-11-12T12:14:53.928849+00:00</updated>
+  <updated>2021-11-12T13:17:19.703879+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14437</id>
-    <title>Collected Miscellany - "Kamisato Ayaka: Snowdance Heron" | Genshin Impact</title>
-    <updated>2021-07-21T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072019413124335.jpg"><br/><br/>People only see the graceful dance of a snow heron, but little do they know what lies beneath this elegance: Ayaka's meticulous training.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14437">Collected Miscellany - "Kamisato Ayaka: Snowdance Heron" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14437" rel="alternate"/>
-    <summary>People only see the graceful dance of a snow heron, but little do they know what lies beneath this elegance: Ayaka's meticulous training.</summary>
-    <published>2021-07-21T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14507</id>
-    <title>The "The Heron's Invitation" Web Event Has Begun</title>
-    <updated>2021-07-26T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072611065798212.jpg"><br/><br/>I have been awaiting our meeting for a long time. "The Heron's Invitation" — The Web Event for Genshin Impact's New Character: Kamisato Ayaka is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14507">The "The Heron's Invitation" Web Event Has Begun</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14507" rel="alternate"/>
-    <summary>I have been awaiting our meeting for a long time. "The Heron's Invitation" — The Web Event for Genshin Impact's New Character: Kamisato Ayaka is now available.</summary>
-    <published>2021-07-26T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>14511</id>
     <title>Echo of Memories'</title>
@@ -994,5 +976,23 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <link href="https://genshin.mihoyo.com/en/news/detail/17049" rel="alternate"/>
     <summary>Anime NYC Merch Guidelines</summary>
     <published>2021-11-12T10:23:46-05:00</published>
+  </entry>
+  <entry>
+    <id>17051</id>
+    <title>Version 2.3 "Shadows Amidst Snowstorms" Trailer | Genshin Impact</title>
+    <updated>2021-11-12T20:45:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211001452326.jpg"><br/><br/>The biting cold of the frozen land causes many to falter, but the secrets of life slowly grow within...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17051">Version 2.3 "Shadows Amidst Snowstorms" Trailer | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17051" rel="alternate"/>
+    <summary>The biting cold of the frozen land causes many to falter, but the secrets of life slowly grow within...</summary>
+    <published>2021-11-12T20:45:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17072</id>
+    <title>Character Event Wish-2 (New Type) Mechanics Description</title>
+    <updated>2021-11-12T21:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211301810452.jpg"><br/><br/>After the Version 2.3 update, a new Wish Type will be added: Character Event Wish-2.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17072">Character Event Wish-2 (New Type) Mechanics Description</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17072" rel="alternate"/>
+    <summary>After the Version 2.3 update, a new Wish Type will be added: Character Event Wish-2.</summary>
+    <published>2021-11-12T21:00:00-05:00</published>
   </entry>
 </feed>

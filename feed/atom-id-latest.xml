@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-11-12T12:14:57.712320+00:00</updated>
+  <updated>2021-11-12T13:17:42.218291+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14364</id>
-    <title>Demo Karakter - "Kamisato Ayaka: Camellia di Tengah Salju"</title>
-    <updated>2021-07-20T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919183676791.jpg"><br/><br/>Meskipun Ayaka sudah lama menguasai Tachi Jutsu dari Kamisato Art, dia terus berlatih tanpa pernah bermalas-malasan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14364">Demo Karakter - "Kamisato Ayaka: Camellia di Tengah Salju"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14364" rel="alternate"/>
-    <summary>Meskipun Ayaka sudah lama menguasai Tachi Jutsu dari Kamisato Art, dia terus berlatih tanpa pernah bermalas-malasan.</summary>
-    <published>2021-07-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14441</id>
-    <title>Rincian Update v2.0 "Dewa Kekal dan Tanah Keabadian"</title>
-    <updated>2021-07-21T07:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022031070103.jpg"><br/><br/>Berikut adalah konten dan kompensasi Update v2.0 "Dewa Kekal dan Tanah Keabadian".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14441">Rincian Update v2.0 "Dewa Kekal dan Tanah Keabadian"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14441" rel="alternate"/>
-    <summary>Berikut adalah konten dan kompensasi Update v2.0 "Dewa Kekal dan Tanah Keabadian".</summary>
-    <published>2021-07-21T07:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14439</id>
     <title>Cara Bermain "Persinggahan Petir"</title>
@@ -917,5 +899,23 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17032" rel="alternate"/>
     <summary>Sakuya — seorang penjual bunga dari Inazuma, ingin mempromosikan tokonya yang bernama "Sakuya's Flowers". Saat ini dia sedang mengadakan kegiatan promosi baru ....</summary>
     <published>2021-11-11T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17060</id>
+    <title>Trailer Versi 2.2 "Debu dan Bayang-Bayang Salju" | Genshin Impact</title>
+    <updated>2021-11-12T20:45:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211062028696.jpg"><br/><br/>Tanah beku yang dinginnya menusuk tulang telah menggoyahkan tekad banyak orang, namun rahasia menakjubkan dari kehidupan perlahan tumbuh di dalamnya ....<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17060">Trailer Versi 2.2 "Debu dan Bayang-Bayang Salju" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17060" rel="alternate"/>
+    <summary>Tanah beku yang dinginnya menusuk tulang telah menggoyahkan tekad banyak orang, namun rahasia menakjubkan dari kehidupan perlahan tumbuh di dalamnya ....</summary>
+    <published>2021-11-12T20:45:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17070</id>
+    <title>Penjelasan Mekanisme Event Permohonan Karakter - 2 (Kategori Baru)</title>
+    <updated>2021-11-12T21:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211282925870.jpg"><br/><br/>Setelah update v2.3 selesai, akan muncul kategori Permohonan baru, yaitu "Event Permohonan Karakter - 2".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17070">Penjelasan Mekanisme Event Permohonan Karakter - 2 (Kategori Baru)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17070" rel="alternate"/>
+    <summary>Setelah update v2.3 selesai, akan muncul kategori Permohonan baru, yaitu "Event Permohonan Karakter - 2".</summary>
+    <published>2021-11-12T21:00:00+07:00</published>
   </entry>
 </feed>

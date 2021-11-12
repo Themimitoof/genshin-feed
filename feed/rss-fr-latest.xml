@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 12 Nov 2021 12:14:55 +0000</lastBuildDate>
-    <item>
-      <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Reflet de tranche-brume (Épée à une main) et Berge de la Voûte d'Azur (Arme d'hast) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14287</link>
-      <description>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072020264782735.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14287">Vœux « Incarnation divine » : taux d'obtention boosté pour Reflet de tranche-brume (Épée à une main) et Berge de la Voûte d'Azur (Arme d'hast) !</a>]]></content:encoded>
-      <guid isPermaLink="false">14287</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Aperçu des événements de la version 2.0 - Partie I</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14288</link>
-      <description>En plus de lancer la région d'Inazuma, la version 2.0 apporte plusieurs événements. Cliquez sur l'image ci-dessous pour y jeter un œil !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071816412635754.jpg"><br/><br/>En plus de lancer la région d'Inazuma, la version 2.0 apporte plusieurs événements. Cliquez sur l'image ci-dessous pour y jeter un œil !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14288">Aperçu des événements de la version 2.0 - Partie I</a>]]></content:encoded>
-      <guid isPermaLink="false">14288</guid>
-      <pubDate>Mon, 19 Jul 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 13:17:24 +0000</lastBuildDate>
     <item>
       <title>Bande-son de Genshin Impact: The Shimmering Voyage</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14311</link>
@@ -778,6 +762,20 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110145942125.jpg"><br/><br/>Sakuya, la fleuriste d'Inazuma, souhaite faire la promotion de sa boutique, « Aux jardins de Sakuya ». Elle a donc décidé d'organiser une nouvelle activité promotionnelle...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17040">Détails de l'événement « Rêves de floraison »</a>]]></content:encoded>
       <guid isPermaLink="false">17040</guid>
       <pubDate>Thu, 11 Nov 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Bande-annonce de la version 2.3 « Ombres au cœur du blizzard »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17066</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211165920072.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17066">Genshin Impact - Bande-annonce de la version 2.3 « Ombres au cœur du blizzard »</a>]]></description>
+      <guid isPermaLink="false">17066</guid>
+      <pubDate>Fri, 12 Nov 2021 20:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails des Vœux événements de personnage - 2 (nouveau format)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17075</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211400929330.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17075">Détails des Vœux événements de personnage - 2 (nouveau format)</a>]]></description>
+      <guid isPermaLink="false">17075</guid>
+      <pubDate>Fri, 12 Nov 2021 21:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

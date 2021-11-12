@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-11-12T12:14:54.793695+00:00</updated>
+  <updated>2021-11-12T13:17:21.615593+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14244</id>
-    <title>The Inazuma Diaries Vol. 4 Never-Before-Seen Regional Specialties!</title>
-    <updated>2021-07-18T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620435896612.jpg"><br/><br/>Hello, Travelers~ Let's take a look at Inazuma's natural landscape in this latest issue.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14244">The Inazuma Diaries Vol. 4 Never-Before-Seen Regional Specialties!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14244" rel="alternate"/>
-    <summary>Hello, Travelers~ Let's take a look at Inazuma's natural landscape in this latest issue.
-</summary>
-    <published>2021-07-18T10:30:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14329</id>
-    <title>Event Wish "Epitome Invocation" - Boosted Drop Rates for Mistsplitter Reforged (Sword) and Skyward Spine (Polearm)!</title>
-    <updated>2021-07-19T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910444056325.jpg"><br/><br/>Travelers, stock up on weapons and characters in ""Epitome Invocation"" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14329">Event Wish "Epitome Invocation" - Boosted Drop Rates for Mistsplitter Reforged (Sword) and Skyward Spine (Polearm)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14329" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in ""Epitome Invocation"" to make your party stronger in combat!</summary>
-    <published>2021-07-19T12:01:00-04:00</published>
-  </entry>
   <entry>
     <id>14330</id>
     <title>Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!</title>
@@ -1004,5 +984,23 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <link href="https://genshin.mihoyo.com/en/news/detail/17049" rel="alternate"/>
     <summary>Anime NYC Merch Guidelines</summary>
     <published>2021-11-12T10:23:46-05:00</published>
+  </entry>
+  <entry>
+    <id>17051</id>
+    <title>Version 2.3 "Shadows Amidst Snowstorms" Trailer | Genshin Impact</title>
+    <updated>2021-11-12T20:45:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211001452326.jpg"><br/><br/>The biting cold of the frozen land causes many to falter, but the secrets of life slowly grow within...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17051">Version 2.3 "Shadows Amidst Snowstorms" Trailer | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17051" rel="alternate"/>
+    <summary>The biting cold of the frozen land causes many to falter, but the secrets of life slowly grow within...</summary>
+    <published>2021-11-12T20:45:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17072</id>
+    <title>Character Event Wish-2 (New Type) Mechanics Description</title>
+    <updated>2021-11-12T21:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211301810452.jpg"><br/><br/>After the Version 2.3 update, a new Wish Type will be added: Character Event Wish-2.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17072">Character Event Wish-2 (New Type) Mechanics Description</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17072" rel="alternate"/>
+    <summary>After the Version 2.3 update, a new Wish Type will be added: Character Event Wish-2.</summary>
+    <published>2021-11-12T21:00:00-05:00</published>
   </entry>
 </feed>

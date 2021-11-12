@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-11-12T12:14:59.497670+00:00</updated>
+  <updated>2021-11-12T13:18:01.159001+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>14249</id>
-    <title>«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</title>
-    <updated>2021-07-18T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071623380133058.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14249">«Записи об Инадзуме: Выпуск IV»: невиданные диковинки!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14249" rel="alternate"/>
-    <summary>Записи об Инадзуме</summary>
-    <published>2021-07-18T10:30:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14278</id>
-    <title>Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</title>
-    <updated>2021-07-19T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071717231414186.jpg"><br/><br/>Незыблемый бог, гибель иллюзий<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14278">Об обновлении 2.0 «Незыблемый бог, гибель иллюзий»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14278" rel="alternate"/>
-    <summary>Незыблемый бог, гибель иллюзий</summary>
-    <published>2021-07-19T10:30:00+03:00</published>
-  </entry>
   <entry>
     <id>14279</id>
     <title>Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</title>
@@ -915,5 +897,22 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17034" rel="alternate"/>
     <summary>Инадзумская цветочница Сакуя проводит новую рекламную акцию для своего «Дома цветов Сакуи».</summary>
     <published>2021-11-11T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17050</id>
+    <title>Genshin Impact | Версия 2.3 - Белая пыль и снежная тень</title>
+    <updated>2021-11-12T20:45:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211001458118.jpg"><br/><br/>Пронизывающий мороз ужасом сковывает сердца, оберегая возрастающую в нём тайну жизни...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17050">Genshin Impact | Версия 2.3 - Белая пыль и снежная тень</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17050" rel="alternate"/>
+    <summary>Пронизывающий мороз ужасом сковывает сердца, оберегая возрастающую в нём тайну жизни...</summary>
+    <published>2021-11-12T20:45:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17074</id>
+    <title>Механика Молитвы события персонажа - II (новый тип)</title>
+    <updated>2021-11-12T21:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211361010583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17074">Механика Молитвы события персонажа - II (новый тип)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17074" rel="alternate"/>
+    <published>2021-11-12T21:00:00+03:00</published>
   </entry>
 </feed>
