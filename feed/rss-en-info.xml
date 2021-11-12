@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Nov 2021 02:25:05 +0000</lastBuildDate>
-    <item>
-      <title>The Inazuma Diaries Vol. 3: New Monsters!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14257</link>
-      <description>Hello Travelers, let's take a look at Inazuma's new monsters in this latest issue~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071710263297596.png"><br/><br/>Hello Travelers, let's take a look at Inazuma's new monsters in this latest issue~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14257">The Inazuma Diaries Vol. 3: New Monsters!</a>]]></content:encoded>
-      <guid isPermaLink="false">14257</guid>
-      <pubDate>Sat, 17 Jul 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 12 Nov 2021 03:10:22 +0000</lastBuildDate>
     <item>
       <title>The Inazuma Diaries Vol. 4 Never-Before-Seen Regional Specialties!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14244</link>
@@ -904,6 +896,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211111/2021111110190598442.jpg"><br/><br/>The Inazuman florist Sakuya wants to promote her shop, "Sakuya's Flowers," so she is organizing a new promotional activity...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17033">"Dreams of Bloom" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">17033</guid>
       <pubDate>Thu, 11 Nov 2021 10:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anime NYC Merch Guidelines</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17049</link>
+      <description>Anime NYC Merch Guidelines</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111210255185138.png"><br/><br/>Anime NYC Merch Guidelines<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17049">Anime NYC Merch Guidelines</a>]]></content:encoded>
+      <guid isPermaLink="false">17049</guid>
+      <pubDate>Fri, 12 Nov 2021 10:23:46 -0500</pubDate>
     </item>
   </channel>
 </rss>
