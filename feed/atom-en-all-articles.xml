@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-11-13T03:10:11.133541+00:00</updated>
+  <updated>2021-11-13T04:12:07.110538+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -329,15 +329,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>14330</id>
-    <title>Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!</title>
-    <updated>2021-07-19T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910455624767.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14330">Event Wish "The Heron's Court" - Boosted Drop Rate for "Frostflake Heron" Kamisato Ayaka (Cryo)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14330" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</summary>
-    <published>2021-07-19T12:01:00-04:00</published>
   </entry>
   <entry>
     <id>14337</id>
@@ -1325,13 +1316,13 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <published>2021-11-12T21:00:00-05:00</published>
   </entry>
   <entry>
-    <id>14511</id>
-    <title>Echo of Memories'</title>
-    <updated>2021-07-26T15:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072615340331817.jpg"><br/><br/>Travelers can go to Spotify or Apple Music to listen to Genshin Impact's Version 1.0 Commemorative OST album — "The Shimmering Voyage."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14511">Echo of Memories'</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14511" rel="alternate"/>
-    <summary>Travelers can go to Spotify or Apple Music to listen to Genshin Impact's Version 1.0 Commemorative OST album — "The Shimmering Voyage."</summary>
-    <published>2021-07-26T15:00:00-04:00</published>
+    <id>17088</id>
+    <title>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</title>
+    <updated>2021-11-13T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220240957134.jpg"><br/><br/>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17088">The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17088" rel="alternate"/>
+    <summary>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</summary>
+    <published>2021-11-13T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>14620</id>
@@ -2309,5 +2300,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <link href="https://genshin.mihoyo.com/en/news/detail/17072" rel="alternate"/>
     <summary>After the Version 2.3 update, a new Wish Type will be added: Character Event Wish-2.</summary>
     <published>2021-11-12T21:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17088</id>
+    <title>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</title>
+    <updated>2021-11-13T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220240957134.jpg"><br/><br/>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17088">The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17088" rel="alternate"/>
+    <summary>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</summary>
+    <published>2021-11-13T12:00:00-05:00</published>
   </entry>
 </feed>

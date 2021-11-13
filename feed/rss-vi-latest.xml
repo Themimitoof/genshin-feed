@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:37 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] OST Chủ đề - The Shimmering Voyage</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14307</link>
-      <description>OST Chủ Đề Kỷ Niệm Genshin Impact 1.0 "The Shimmering Voyage" đã chính thức ra mắt, album chia thành 4 đĩa Fairytale of the Isles, Blazing Stars, Roar of the Formidable, A Stranger's Sojourn, bao gồm 68 bản nhạc do Chen Zhi-yi @HOYO-MiX sáng tác và do nhóm HOYO-MiX chế tác dành riêng cho "Genshin Impact".</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071909522473832.jpg"><br/><br/>OST Chủ Đề Kỷ Niệm Genshin Impact 1.0 "The Shimmering Voyage" đã chính thức ra mắt, album chia thành 4 đĩa Fairytale of the Isles, Blazing Stars, Roar of the Formidable, A Stranger's Sojourn, bao gồm 68 bản nhạc do Chen Zhi-yi @HOYO-MiX sáng tác và do nhóm HOYO-MiX chế tác dành riêng cho "Genshin Impact".<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14307">[Genshin Impact] OST Chủ đề - The Shimmering Voyage</a>]]></content:encoded>
-      <guid isPermaLink="false">14307</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:40 +0000</lastBuildDate>
     <item>
       <title>Giới thiệu nhân vật trong Genshin Impact - Kamisato Ayaka: Hoa Nở Tuyết Tan</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14356</link>
@@ -761,6 +753,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220131622365.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17087">Chi Tiết Cơ Chế Cầu Nguyện Nhân Vật-2 (Loại hình mới)</a>]]></description>
       <guid isPermaLink="false">17087</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Trang xem trước phiên bản mới 2.3 - Ảo Ảnh Giữa Bão Tuyết đã mở!</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17102</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111221110889615.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17102">Trang xem trước phiên bản mới 2.3 - Ảo Ảnh Giữa Bão Tuyết đã mở!</a>]]></description>
+      <guid isPermaLink="false">17102</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

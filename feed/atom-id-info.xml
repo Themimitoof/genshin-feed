@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-11-13T03:10:22.242453+00:00</updated>
+  <updated>2021-11-13T04:12:23.394187+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14322</id>
-    <title>Event Permohonan "Pelataran Bangau Putih": Persentase Perolehan "Frostflake Heron" Kamisato Ayaka (Cryo) Meningkat!</title>
-    <updated>2021-07-19T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910312222430.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14322">Event Permohonan "Pelataran Bangau Putih": Persentase Perolehan "Frostflake Heron" Kamisato Ayaka (Cryo) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14322" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-07-19T12:01:00+07:00</published>
-  </entry>
   <entry>
     <id>14328</id>
     <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Mistsplitter Reforged (Sword) dan Skyward Spine (Polearm) Meningkat!</title>
@@ -913,5 +904,14 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17070" rel="alternate"/>
     <summary>Setelah update v2.3 selesai, akan muncul kategori Permohonan baru, yaitu "Event Permohonan Karakter - 2".</summary>
     <published>2021-11-12T21:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17096</id>
+    <title>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</title>
+    <updated>2021-11-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220382189620.jpg"><br/><br/>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17096">Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17096" rel="alternate"/>
+    <summary>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</summary>
+    <published>2021-11-13T12:00:00+07:00</published>
   </entry>
 </feed>

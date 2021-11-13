@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:35 +0000</lastBuildDate>
-    <item>
-      <title>[บันทึก Inazuma ฉบับที่ 4] สินค้าสุดพิเศษที่ไม่เคยมีมาก่อน!</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14276</link>
-      <description>สวัสดีนะ นักเดินทาง ในฉบับนี้เรามาใกล้ชิดกับสภาพแวดล้อมทางธรรมชาติของ Inazuma กัน</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071716395181067.jpg"><br/><br/>สวัสดีนะ นักเดินทาง ในฉบับนี้เรามาใกล้ชิดกับสภาพแวดล้อมทางธรรมชาติของ Inazuma กัน<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14276">[บันทึก Inazuma ฉบับที่ 4] สินค้าสุดพิเศษที่ไม่เคยมีมาก่อน!</a>]]></content:encoded>
-      <guid isPermaLink="false">14276</guid>
-      <pubDate>Sun, 18 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:38 +0000</lastBuildDate>
     <item>
       <title>แจ้งการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์กับความฝันอันว่างเปล่า"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14297</link>
@@ -749,6 +741,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220113893978.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17086">คำอธิบายระบบของ "กิจกรรมอธิษฐานตัวละคร - 2" (รูปแบบใหม่)</a>]]></description>
       <guid isPermaLink="false">17086</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17100</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111221083713895.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17100">หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</a>]]></description>
+      <guid isPermaLink="false">17100</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

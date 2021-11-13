@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:13 +0000</lastBuildDate>
-    <item>
-      <title>「神鑄賦形」祈願：「單手劍·霧切之回光」「長柄武器·天空之脊」機率UP！</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14284</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071813472184116.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14284">「神鑄賦形」祈願：「單手劍·霧切之回光」「長柄武器·天空之脊」機率UP！</a>]]></description>
-      <guid isPermaLink="false">14284</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:11 +0000</lastBuildDate>
     <item>
       <title>2.0版本活動快報第一期</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14282</link>
@@ -797,6 +790,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211550494038.jpg"><br/><br/>2.3版本更新完成後，將新增祈願類型：「角色活動祈願-2」。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17076">「角色活動祈願-2」（新增類型）機制說明</a>]]></content:encoded>
       <guid isPermaLink="false">17076</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2.3新版本「皚塵與雪影」先行展示網頁現已開放！</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17094</link>
+      <description>2.3新版本「皚塵與雪影」先行展示網頁現已開放！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220303530254.jpg"><br/><br/>2.3新版本「皚塵與雪影」先行展示網頁現已開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17094">2.3新版本「皚塵與雪影」先行展示網頁現已開放！</a>]]></content:encoded>
+      <guid isPermaLink="false">17094</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

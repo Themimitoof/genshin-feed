@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:19 +0000</lastBuildDate>
-    <item>
-      <title>Gachapón «Encarnación divina»: ¡aumentada la probabilidad de obtención de Reflejo de las Tinieblas!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14293</link>
-      <description>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819200164515.jpg"><br/><br/>Durante el evento, en el gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14293">Gachapón «Encarnación divina»: ¡aumentada la probabilidad de obtención de Reflejo de las Tinieblas!</a>]]></content:encoded>
-      <guid isPermaLink="false">14293</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:19 +0000</lastBuildDate>
     <item>
       <title>Eventos de la versión 2.0 (I)</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14295</link>
@@ -809,6 +801,13 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211314451098.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17073">Detalles del Gachapón promocional de personaje 2 (Nuevo formato)</a>]]></description>
       <guid isPermaLink="false">17073</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡La vista previa de la nueva versión 2.3 «Sombras de nieve y polvo» ya está disponible!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17104</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222142252924.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17104">¡La vista previa de la nueva versión 2.3 «Sombras de nieve y polvo» ya está disponible!</a>]]></description>
+      <guid isPermaLink="false">17104</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

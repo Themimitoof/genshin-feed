@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:21 +0000</lastBuildDate>
-    <item>
-      <title>Cara Bermain "Persinggahan Petir"</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/14439</link>
-      <description>Event Baru "Persinggahan Petir" dimulai!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072021391748911.jpg"><br/><br/>Event Baru "Persinggahan Petir" dimulai!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14439">Cara Bermain "Persinggahan Petir"</a>]]></content:encoded>
-      <guid isPermaLink="false">14439</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:22 +0000</lastBuildDate>
     <item>
       <title>Aneka Koleksi Genshin Impact - "Kamisato Ayaka: Tarian Salju Sang Bangau"</title>
       <link>https://genshin.mihoyo.com/id/news/detail/14433</link>
@@ -817,6 +809,14 @@ Hari ini, ayo kita kenalan dengan Thoma!<br><br>Read more on <a href="https://ge
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211282925870.jpg"><br/><br/>Setelah update v2.3 selesai, akan muncul kategori Permohonan baru, yaitu "Event Permohonan Karakter - 2".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17070">Penjelasan Mekanisme Event Permohonan Karakter - 2 (Kategori Baru)</a>]]></content:encoded>
       <guid isPermaLink="false">17070</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17096</link>
+      <description>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220382189620.jpg"><br/><br/>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17096">Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</a>]]></content:encoded>
+      <guid isPermaLink="false">17096</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

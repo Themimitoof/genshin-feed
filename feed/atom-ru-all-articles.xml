@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-11-13T03:10:34.356528+00:00</updated>
+  <updated>2021-11-13T04:12:37.445309+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -308,15 +308,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14279</id>
-    <title>Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</title>
-    <updated>2021-07-19T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071718013217162.jpg"><br/><br/>Молитва «Сад белой цапли» Камисато Аяка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14279">Молитва «Сад белой цапли». Повышен шанс получить персонажа «Инеевая цапля» Камисато Аяка (Крио) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14279" rel="alternate"/>
-    <summary>Молитва «Сад белой цапли» Камисато Аяка</summary>
-    <published>2021-07-19T12:01:00+03:00</published>
   </entry>
   <entry>
     <id>14280</id>
@@ -1216,13 +1207,13 @@
     <published>2021-11-12T21:00:00+03:00</published>
   </entry>
   <entry>
-    <id>14501</id>
-    <title>Браузерное событие «Встреча с белой цаплей» стартовало!</title>
-    <updated>2021-07-26T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610492552832.jpg"><br/><br/>Браузерное событие «Встреча с белой цаплей»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14501">Браузерное событие «Встреча с белой цаплей» стартовало!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14501" rel="alternate"/>
-    <summary>Браузерное событие «Встреча с белой цаплей»</summary>
-    <published>2021-07-26T12:00:00+03:00</published>
+    <id>17090</id>
+    <title>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</title>
+    <updated>2021-11-13T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220255924464.jpg"><br/><br/>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17090">Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17090" rel="alternate"/>
+    <summary>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</summary>
+    <published>2021-11-13T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>14621</id>
@@ -2123,5 +2114,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211361010583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17074">Механика Молитвы события персонажа - II (новый тип)</a>]]></content>
     <link href="https://genshin.mihoyo.com/ru/news/detail/17074" rel="alternate"/>
     <published>2021-11-12T21:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17090</id>
+    <title>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</title>
+    <updated>2021-11-13T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220255924464.jpg"><br/><br/>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17090">Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17090" rel="alternate"/>
+    <summary>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</summary>
+    <published>2021-11-13T12:00:00+03:00</published>
   </entry>
 </feed>

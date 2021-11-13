@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2021-11-13T03:10:36.998589+00:00</updated>
+  <updated>2021-11-13T04:12:40.535576+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -248,15 +248,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14276</id>
-    <title>[บันทึก Inazuma ฉบับที่ 4] สินค้าสุดพิเศษที่ไม่เคยมีมาก่อน!</title>
-    <updated>2021-07-18T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071716395181067.jpg"><br/><br/>สวัสดีนะ นักเดินทาง ในฉบับนี้เรามาใกล้ชิดกับสภาพแวดล้อมทางธรรมชาติของ Inazuma กัน<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14276">[บันทึก Inazuma ฉบับที่ 4] สินค้าสุดพิเศษที่ไม่เคยมีมาก่อน!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14276" rel="alternate"/>
-    <summary>สวัสดีนะ นักเดินทาง ในฉบับนี้เรามาใกล้ชิดกับสภาพแวดล้อมทางธรรมชาติของ Inazuma กัน</summary>
-    <published>2021-07-18T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>14297</id>
@@ -1105,13 +1096,12 @@
     <published>2021-11-12T21:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14325</id>
-    <title>Genshin Impact OST "The Shimmering Voyage"</title>
-    <updated>2021-07-19T13:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910375298812.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14325">Genshin Impact OST "The Shimmering Voyage"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14325" rel="alternate"/>
-    <summary/>
-    <published>2021-07-19T13:30:00+07:00</published>
+    <id>17100</id>
+    <title>หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</title>
+    <updated>2021-11-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111221083713895.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17100">หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17100" rel="alternate"/>
+    <published>2021-11-13T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14390</id>
@@ -1957,5 +1947,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220113893978.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17086">คำอธิบายระบบของ "กิจกรรมอธิษฐานตัวละคร - 2" (รูปแบบใหม่)</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17086" rel="alternate"/>
     <published>2021-11-12T21:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17100</id>
+    <title>หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</title>
+    <updated>2021-11-13T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111221083713895.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17100">หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17100" rel="alternate"/>
+    <published>2021-11-13T12:00:00+07:00</published>
   </entry>
 </feed>

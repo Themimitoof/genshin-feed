@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:25 +0000</lastBuildDate>
-    <item>
-      <title>「秘宝の行方」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/7853</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210107/2021010719030316183.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7853">「秘宝の行方」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">7853</guid>
-      <pubDate>Fri, 08 Jan 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:27 +0000</lastBuildDate>
     <item>
       <title>「仙麟の章」 任務紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/7880</link>
@@ -730,6 +723,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211110/2021111011295432352.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17037">「花咲きし夢」イベント紹介</a>]]></description>
       <guid isPermaLink="false">17037</guid>
       <pubDate>Thu, 11 Nov 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「地脈の奔流」イベント予告</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17108</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211113/2021111311414129528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17108">「地脈の奔流」イベント予告</a>]]></description>
+      <guid isPermaLink="false">17108</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

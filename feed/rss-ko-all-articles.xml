@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:31 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -306,14 +306,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>[이나즈마 수첩 4회] 지금까지 없었던 특산품!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14243</link>
-      <description>﻿이번 회에선 이나즈마의 자연환경을 자세히 확인해 보자구~!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620393234532.jpg"><br/><br/>﻿이번 회에선 이나즈마의 자연환경을 자세히 확인해 보자구~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14243">[이나즈마 수첩 4회] 지금까지 없었던 특산품!</a>]]></content:encoded>
-      <guid isPermaLink="false">14243</guid>
-      <pubDate>Sun, 18 Jul 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>「부동의 번개 신, 포영의 절멸」 2.0 버전 업데이트 공지</title>
@@ -1156,12 +1148,12 @@
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「뇌흔을 찾아서」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14462</link>
-      <description>신규 이벤트 「뇌흔을 찾아서」 오픈 예정</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072101535974018.jpg"><br/><br/>신규 이벤트 「뇌흔을 찾아서」 오픈 예정<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14462">「뇌흔을 찾아서」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">14462</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0900</pubDate>
+      <title>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17106</link>
+      <description>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222500568975.jpg"><br/><br/>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17106">2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈!</a>]]></content:encoded>
+      <guid isPermaLink="false">17106</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>&lt;원신&gt; 데인 여담 - 「카미사토 아야카: 얼음꽃의 학무」</title>
@@ -2001,6 +1993,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111215435137437.jpg"><br/><br/>2.3 버전 업데이트 후 신규 기원 유형 「캐릭터 이벤트 기원-2」가 추가됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17078">「캐릭터 이벤트 기원-2」(신규 유형) 메커니즘 설명</a>]]></content:encoded>
       <guid isPermaLink="false">17078</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17106</link>
+      <description>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222500568975.jpg"><br/><br/>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17106">2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈!</a>]]></content:encoded>
+      <guid isPermaLink="false">17106</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

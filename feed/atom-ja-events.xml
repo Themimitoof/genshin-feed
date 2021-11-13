@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2021-11-13T03:10:25.887168+00:00</updated>
+  <updated>2021-11-13T04:12:27.410089+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>events feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>7853</id>
-    <title>「秘宝の行方」イベント紹介</title>
-    <updated>2021-01-08T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210107/2021010719030316183.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7853">「秘宝の行方」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/7853" rel="alternate"/>
-    <summary/>
-    <published>2021-01-08T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>7880</id>
     <title>「仙麟の章」 任務紹介</title>
@@ -890,5 +881,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17037" rel="alternate"/>
     <summary/>
     <published>2021-11-11T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17108</id>
+    <title>「地脈の奔流」イベント予告</title>
+    <updated>2021-11-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211113/2021111311414129528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17108">「地脈の奔流」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17108" rel="alternate"/>
+    <published>2021-11-13T12:00:00+09:00</published>
   </entry>
 </feed>

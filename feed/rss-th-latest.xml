@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:34 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact OST "The Shimmering Voyage"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14325</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910375298812.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14325">Genshin Impact OST "The Shimmering Voyage"</a>]]></description>
-      <guid isPermaLink="false">14325</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:37 +0000</lastBuildDate>
     <item>
       <title>ตัวอย่างตัวละครของ Genshin Impact - "Kamisato Ayaka - สึบากิแย้มบานกลางเหมันต์"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14390</link>
@@ -744,6 +737,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220113893978.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17086">คำอธิบายระบบของ "กิจกรรมอธิษฐานตัวละคร - 2" (รูปแบบใหม่)</a>]]></description>
       <guid isPermaLink="false">17086</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17100</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111221083713895.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17100">หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</a>]]></description>
+      <guid isPermaLink="false">17100</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

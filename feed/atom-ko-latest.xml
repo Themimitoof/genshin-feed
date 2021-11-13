@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-11-13T03:10:26.524337+00:00</updated>
+  <updated>2021-11-13T04:12:28.161574+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14462</id>
-    <title>「뇌흔을 찾아서」 콘텐츠 안내</title>
-    <updated>2021-07-21T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072101535974018.jpg"><br/><br/>신규 이벤트 「뇌흔을 찾아서」 오픈 예정<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14462">「뇌흔을 찾아서」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14462" rel="alternate"/>
-    <summary>신규 이벤트 「뇌흔을 찾아서」 오픈 예정</summary>
-    <published>2021-07-21T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>14463</id>
     <title>&lt;원신&gt; 데인 여담 - 「카미사토 아야카: 얼음꽃의 학무」</title>
@@ -955,5 +946,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17078" rel="alternate"/>
     <summary>2.3 버전 업데이트 후 신규 기원 유형 「캐릭터 이벤트 기원-2」가 추가됩니다</summary>
     <published>2021-11-12T21:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17106</id>
+    <title>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈!</title>
+    <updated>2021-11-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222500568975.jpg"><br/><br/>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17106">2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17106" rel="alternate"/>
+    <summary>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈</summary>
+    <published>2021-11-13T12:00:00+09:00</published>
   </entry>
 </feed>

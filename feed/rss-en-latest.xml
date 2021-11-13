@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:07 +0000</lastBuildDate>
-    <item>
-      <title>Echo of Memories'</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14511</link>
-      <description>Travelers can go to Spotify or Apple Music to listen to Genshin Impact's Version 1.0 Commemorative OST album — "The Shimmering Voyage."</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072615340331817.jpg"><br/><br/>Travelers can go to Spotify or Apple Music to listen to Genshin Impact's Version 1.0 Commemorative OST album — "The Shimmering Voyage."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14511">Echo of Memories'</a>]]></content:encoded>
-      <guid isPermaLink="false">14511</guid>
-      <pubDate>Mon, 26 Jul 2021 15:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:03 +0000</lastBuildDate>
     <item>
       <title>"Fireworks are for now, but friends are forever" — "Frolicking Flames" Yoimiya</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14620</link>
@@ -894,6 +886,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211301810452.jpg"><br/><br/>After the Version 2.3 update, a new Wish Type will be added: Character Event Wish-2.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17072">Character Event Wish-2 (New Type) Mechanics Description</a>]]></content:encoded>
       <guid isPermaLink="false">17072</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17088</link>
+      <description>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220240957134.jpg"><br/><br/>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17088">The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</a>]]></content:encoded>
+      <guid isPermaLink="false">17088</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

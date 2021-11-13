@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-11-13T03:10:24.144388+00:00</updated>
+  <updated>2021-11-13T04:12:25.432311+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>12882</id>
-    <title>「迷城戦線」イベント紹介</title>
-    <updated>2021-05-20T10:28:30+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210519/2021051915102388495.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12882">「迷城戦線」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/12882" rel="alternate"/>
-    <published>2021-05-20T10:28:30+09:00</published>
-  </entry>
   <entry>
     <id>12898</id>
     <title>原神キービジュアル壁紙第二弾公開！</title>
@@ -886,5 +878,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17048" rel="alternate"/>
     <summary/>
     <published>2021-11-12T21:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17108</id>
+    <title>「地脈の奔流」イベント予告</title>
+    <updated>2021-11-13T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211113/2021111311414129528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17108">「地脈の奔流」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17108" rel="alternate"/>
+    <published>2021-11-13T12:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-11-13T03:10:13.656086+00:00</updated>
+  <updated>2021-11-13T04:12:11.365491+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14284</id>
-    <title>「神鑄賦形」祈願：「單手劍·霧切之回光」「長柄武器·天空之脊」機率UP！</title>
-    <updated>2021-07-19T12:01:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071813472184116.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14284">「神鑄賦形」祈願：「單手劍·霧切之回光」「長柄武器·天空之脊」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14284" rel="alternate"/>
-    <published>2021-07-19T12:01:00+08:00</published>
-  </entry>
   <entry>
     <id>14282</id>
     <title>2.0版本活動快報第一期</title>
@@ -900,5 +892,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17076" rel="alternate"/>
     <summary>2.3版本更新完成後，將新增祈願類型：「角色活動祈願-2」。</summary>
     <published>2021-11-12T21:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17094</id>
+    <title>2.3新版本「皚塵與雪影」先行展示網頁現已開放！</title>
+    <updated>2021-11-13T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220303530254.jpg"><br/><br/>2.3新版本「皚塵與雪影」先行展示網頁現已開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17094">2.3新版本「皚塵與雪影」先行展示網頁現已開放！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17094" rel="alternate"/>
+    <summary>2.3新版本「皚塵與雪影」先行展示網頁現已開放！</summary>
+    <published>2021-11-13T12:00:00+08:00</published>
   </entry>
 </feed>

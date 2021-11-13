@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 13 Nov 2021 03:10:31 +0000</lastBuildDate>
-    <item>
-      <title>Браузерное событие «Встреча с белой цаплей» стартовало!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14501</link>
-      <description>Браузерное событие «Встреча с белой цаплей»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610492552832.jpg"><br/><br/>Браузерное событие «Встреча с белой цаплей»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14501">Браузерное событие «Встреча с белой цаплей» стартовало!</a>]]></content:encoded>
-      <guid isPermaLink="false">14501</guid>
-      <pubDate>Mon, 26 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sat, 13 Nov 2021 04:12:34 +0000</lastBuildDate>
     <item>
       <title>«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14621</link>
@@ -816,6 +808,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111211361010583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17074">Механика Молитвы события персонажа - II (новый тип)</a>]]></description>
       <guid isPermaLink="false">17074</guid>
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17090</link>
+      <description>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220255924464.jpg"><br/><br/>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17090">Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</a>]]></content:encoded>
+      <guid isPermaLink="false">17090</guid>
+      <pubDate>Sat, 13 Nov 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
