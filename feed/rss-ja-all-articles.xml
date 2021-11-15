@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Nov 2021 02:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 03:10:49 +0000</lastBuildDate>
     <item>
       <title>「仙麟の章」 任務紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/7880</link>
@@ -1591,11 +1591,11 @@
       <pubDate>Fri, 12 Nov 2021 21:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>原神キービジュアル壁紙第二弾公開！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12898</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210526/2021052618154387262.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12898">原神キービジュアル壁紙第二弾公開！</a>]]></description>
-      <guid isPermaLink="false">12898</guid>
-      <pubDate>Fri, 21 May 2021 12:00:00 +0900</pubDate>
+      <title>Ver.2.3「白雪に潜みし影」特設ページ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17109</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211115/2021111511090826208.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17109">Ver.2.3「白雪に潜みし影」特設ページ</a>]]></description>
+      <guid isPermaLink="false">17109</guid>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>運営チームからの手紙</title>
@@ -2295,6 +2295,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211113/2021111311414129528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17108">「地脈の奔流」イベント予告</a>]]></description>
       <guid isPermaLink="false">17108</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.3「白雪に潜みし影」特設ページ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17109</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211115/2021111511090826208.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17109">Ver.2.3「白雪に潜みし影」特設ページ</a>]]></description>
+      <guid isPermaLink="false">17109</guid>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
