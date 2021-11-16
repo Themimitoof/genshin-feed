@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Nov 2021 14:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 15:10:56 +0000</lastBuildDate>
     <item>
       <title>「仙麟の章」 任務紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/7880</link>
@@ -1605,12 +1605,11 @@
       <pubDate>Tue, 16 Nov 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「三矢の結盟」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13010</link>
-      <description>イベントに参加し、調度品設計図を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052415333368263.jpg"><br/><br/>イベントに参加し、調度品設計図を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13010">「三矢の結盟」イベント予告</a>]]></content:encoded>
-      <guid isPermaLink="false">13010</guid>
-      <pubDate>Tue, 25 May 2021 12:00:00 +0900</pubDate>
+      <title>原神 Ver.2.3アップデート記念キャンペーン 参加規約</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16916</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16916">原神 Ver.2.3アップデート記念キャンペーン 参加規約</a>]]></description>
+      <guid isPermaLink="false">16916</guid>
+      <pubDate>Tue, 16 Nov 2021 22:50:00 +0900</pubDate>
     </item>
     <item>
       <title>「三矢の結盟」イベント紹介</title>
@@ -2308,6 +2307,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211115/2021111518590648517.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17111">Ver.2.2スタンプ配布</a>]]></description>
       <guid isPermaLink="false">17111</guid>
       <pubDate>Tue, 16 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原神 Ver.2.3アップデート記念キャンペーン 参加規約</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/16916</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16916">原神 Ver.2.3アップデート記念キャンペーン 参加規約</a>]]></description>
+      <guid isPermaLink="false">16916</guid>
+      <pubDate>Tue, 16 Nov 2021 22:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

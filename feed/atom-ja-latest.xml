@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-11-16T14:09:53.575147+00:00</updated>
+  <updated>2021-11-16T15:10:52.379185+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>13010</id>
-    <title>「三矢の結盟」イベント予告</title>
-    <updated>2021-05-25T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210524/2021052415333368263.jpg"><br/><br/>イベントに参加し、調度品設計図を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13010">「三矢の結盟」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13010" rel="alternate"/>
-    <summary>イベントに参加し、調度品設計図を獲得！</summary>
-    <published>2021-05-25T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>13038</id>
     <title>「三矢の結盟」イベント紹介</title>
@@ -886,5 +877,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17111" rel="alternate"/>
     <summary/>
     <published>2021-11-16T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>16916</id>
+    <title>原神 Ver.2.3アップデート記念キャンペーン 参加規約</title>
+    <updated>2021-11-16T22:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16916">原神 Ver.2.3アップデート記念キャンペーン 参加規約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/16916" rel="alternate"/>
+    <summary/>
+    <published>2021-11-16T22:50:00+09:00</published>
   </entry>
 </feed>
