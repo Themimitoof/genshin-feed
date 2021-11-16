@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Nov 2021 03:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 04:12:28 +0000</lastBuildDate>
     <item>
       <title>「仙麟の章」 任務紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/7880</link>
@@ -1598,12 +1598,11 @@
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>運営チームからの手紙</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/12945</link>
-      <description>【05.24】 開発チームQ&amp;A</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210521/2021052114462438207.jpg"><br/><br/>【05.24】 開発チームQ&A<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/12945">運営チームからの手紙</a>]]></content:encoded>
-      <guid isPermaLink="false">12945</guid>
-      <pubDate>Mon, 24 May 2021 10:29:00 +0900</pubDate>
+      <title>Ver.2.2スタンプ配布</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17111</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211115/2021111518590648517.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17111">Ver.2.2スタンプ配布</a>]]></description>
+      <guid isPermaLink="false">17111</guid>
+      <pubDate>Tue, 16 Nov 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「三矢の結盟」イベント予告</title>
@@ -2302,6 +2301,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211115/2021111511090826208.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17109">Ver.2.3「白雪に潜みし影」特設ページ</a>]]></description>
       <guid isPermaLink="false">17109</guid>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.2スタンプ配布</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17111</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211115/2021111518590648517.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17111">Ver.2.2スタンプ配布</a>]]></description>
+      <guid isPermaLink="false">17111</guid>
+      <pubDate>Tue, 16 Nov 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
