@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-11-17T03:10:39.173008+00:00</updated>
+  <updated>2021-11-17T04:12:42.796233+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -911,8 +911,9 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <id>17104</id>
     <title>¡La vista previa de la nueva versión 2.3 «Sombras de nieve y polvo» ya está disponible!</title>
     <updated>2021-11-13T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222142252924.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17104">¡La vista previa de la nueva versión 2.3 «Sombras de nieve y polvo» ya está disponible!</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222142252924.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17104">¡La vista previa de la nueva versión 2.3 «Sombras de nieve y polvo» ya está disponible!</a>]]></content>
     <link href="https://genshin.mihoyo.com/es/news/detail/17104" rel="alternate"/>
+    <summary/>
     <published>2021-11-13T12:00:00+01:00</published>
   </entry>
 </feed>
