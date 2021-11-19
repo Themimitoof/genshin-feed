@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - events</title>
-  <updated>2021-11-19T08:11:46.945027+00:00</updated>
+  <updated>2021-11-19T09:10:54.369357+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -154,5 +154,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/16888" rel="alternate"/>
     <summary>여행자, 함께 맛있는 생선구이를 먹어요!</summary>
     <published>2021-11-01T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17131</id>
+    <title>「페이몬의 질문 폭탄」 퀴즈 이벤트 오픈!</title>
+    <updated>2021-11-19T17:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211118/2021111820582458694.jpg"><br/><br/>새로운 도전! 새로운 목표~! 매일 HoYoLAB에서 페이몬의 퀴즈 도전에 참여해 정답을 맞히고 모라 보상을 획득해 봐~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17131">「페이몬의 질문 폭탄」 퀴즈 이벤트 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17131" rel="alternate"/>
+    <summary>새로운 도전! 새로운 목표~! 매일 HoYoLAB에서 페이몬의 퀴즈 도전에 참여해 정답을 맞히고 모라 보상을 획득해 봐~!</summary>
+    <published>2021-11-19T17:00:00+09:00</published>
   </entry>
 </feed>

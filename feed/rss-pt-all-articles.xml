@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:59 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -163,6 +163,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211104/2021110416272454750.jpg"><br/><br/>Paimon gostaria de compartilhar esses doces com vocês!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16971">Anúncio da Lista de Vencedores do Evento “Doces ou Careta!?” — Evento da comunidade de língua portuguesa</a>]]></content:encoded>
       <guid isPermaLink="false">16971</guid>
       <pubDate>Fri, 05 Nov 2021 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O Evento "Quiz da Paimon" está disponível!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17121</link>
+      <description>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614384132390.jpg"><br/><br/>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17121">O Evento "Quiz da Paimon" está disponível!</a>]]></content:encoded>
+      <guid isPermaLink="false">17121</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>&lt;Genshin Impact&gt; explore o mundo de Teyvat com a Amber!</title>
@@ -1086,14 +1094,6 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Evento web Com Recompensa "Belos Momentos nos Festivais de Verão" Disponível</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14680</link>
-      <description>Belos Momentos nos Festivais de Verão - Nova Personagem de "Genshin Impact": Yoimiya, evento web agora disponível!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511075455537.jpg"><br/><br/>Belos Momentos nos Festivais de Verão - Nova Personagem de "Genshin Impact": Yoimiya, evento web agora disponível!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14680">Evento web Com Recompensa "Belos Momentos nos Festivais de Verão" Disponível</a>]]></content:encoded>
-      <guid isPermaLink="false">14680</guid>
-      <pubDate>Thu, 05 Aug 2021 12:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Demo da Nova Personagem de Genshin Impact - "Sayu: Arte Yoohoo, Escudo Mujina"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14723</link>
       <description>Sayu não sabe o que é pior... Ser confundida com um tanuki ou não poder tirar uma soneca.</description>
@@ -1888,6 +1888,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220270562863.jpg"><br/><br/>A página de prévia da Versão 2.3 "Poeira e Neve Escura" já se encontra disponível!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17092">Página de Prévia da Versão 2.3 "Poeira e Neve Escura" Já Disponível!</a>]]></content:encoded>
       <guid isPermaLink="false">17092</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O Evento "Quiz da Paimon" está disponível!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17121</link>
+      <description>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614384132390.jpg"><br/><br/>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17121">O Evento "Quiz da Paimon" está disponível!</a>]]></content:encoded>
+      <guid isPermaLink="false">17121</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

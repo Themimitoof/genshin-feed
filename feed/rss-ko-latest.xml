@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:46 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 데인 여담 - 「카미사토 아야카: 얼음꽃의 학무」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14463</link>
-      <description>﻿사람들은 설학의 아름다운 날갯짓만 볼 뿐, 우아한 기예를 위해 아야카가 얼마나 많은 수행을 거쳤는지는 알지 못한다.
-검심(劍心), 다심(茶心), 기심(棋心) 또한 카미사토 아야카의 진심처럼 끝없는 수련을 통해 굳건해졌다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072110174512589.jpg"><br/><br/>﻿사람들은 설학의 아름다운 날갯짓만 볼 뿐, 우아한 기예를 위해 아야카가 얼마나 많은 수행을 거쳤는지는 알지 못한다.
-검심(劍心), 다심(茶心), 기심(棋心) 또한 카미사토 아야카의 진심처럼 끝없는 수련을 통해 굳건해졌다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14463"><원신> 데인 여담 - 「카미사토 아야카: 얼음꽃의 학무」</a>]]></content:encoded>
-      <guid isPermaLink="false">14463</guid>
-      <pubDate>Wed, 21 Jul 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:51 +0000</lastBuildDate>
     <item>
       <title>「백로의 약속」보상 웹이벤트 오픈</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14509</link>
@@ -855,6 +845,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222500568975.jpg"><br/><br/>2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17106">2.3 신규 버전 「눈보라 속 그림자」 사전 공개 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">17106</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「페이몬의 질문 폭탄」 퀴즈 이벤트 오픈!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17131</link>
+      <description>새로운 도전! 새로운 목표~! 매일 HoYoLAB에서 페이몬의 퀴즈 도전에 참여해 정답을 맞히고 모라 보상을 획득해 봐~!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211118/2021111820582458694.jpg"><br/><br/>새로운 도전! 새로운 목표~! 매일 HoYoLAB에서 페이몬의 퀴즈 도전에 참여해 정답을 맞히고 모라 보상을 획득해 봐~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17131">「페이몬의 질문 폭탄」 퀴즈 이벤트 오픈!</a>]]></content:encoded>
+      <guid isPermaLink="false">17131</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - events</title>
-  <updated>2021-11-19T08:11:41.578211+00:00</updated>
+  <updated>2021-11-19T09:10:29.427310+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -125,5 +125,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/16877" rel="alternate"/>
     <summary>Profitons du feu de camp le soir en bord de mer et partageons ensemble de délicieuses grillades de poissons, voyageurs !</summary>
     <published>2021-11-01T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17120</id>
+    <title>Lancement de l'événement « Les mille questions de Paimon »</title>
+    <updated>2021-11-19T17:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614083231577.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17120">Lancement de l'événement « Les mille questions de Paimon »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17120" rel="alternate"/>
+    <published>2021-11-19T17:00:00+01:00</published>
   </entry>
 </feed>

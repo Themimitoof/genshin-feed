@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:29 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -110,6 +110,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110434772367.jpg"><br/><br/>Profitons du feu de camp le soir en bord de mer et partageons ensemble de délicieuses grillades de poissons, voyageurs !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16877">L'événement web « Grillades nocturnes ! » est disponible ! Faites griller du poisson avec Shiki Taishou pour obtenir des primo-gemmes et d'autres récompenses !</a>]]></content:encoded>
       <guid isPermaLink="false">16877</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lancement de l'événement « Les mille questions de Paimon »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17120</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614083231577.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17120">Lancement de l'événement « Les mille questions de Paimon »</a>]]></description>
+      <guid isPermaLink="false">17120</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

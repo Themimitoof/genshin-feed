@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:58 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -163,6 +163,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211104/2021110416272454750.jpg"><br/><br/>Paimon gostaria de compartilhar esses doces com vocês!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16971">Anúncio da Lista de Vencedores do Evento “Doces ou Careta!?” — Evento da comunidade de língua portuguesa</a>]]></content:encoded>
       <guid isPermaLink="false">16971</guid>
       <pubDate>Fri, 05 Nov 2021 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O Evento "Quiz da Paimon" está disponível!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17121</link>
+      <description>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614384132390.jpg"><br/><br/>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17121">O Evento "Quiz da Paimon" está disponível!</a>]]></content:encoded>
+      <guid isPermaLink="false">17121</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

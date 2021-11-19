@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-11-19T08:11:45.367023+00:00</updated>
+  <updated>2021-11-19T09:10:47.114236+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -164,6 +164,15 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/id/news/detail/16872" rel="alternate"/>
     <summary>Duduk di tepi pantai sambil mengelilingi api unggun di malam hari. Traveler, ayo kita bakar ikan bersama Shiki Taishou!</summary>
     <published>2021-11-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17123</id>
+    <title>Tahap untuk Event Kuis "Ribuan Teka-teki Paimon" Resmi Dimulai!</title>
+    <updated>2021-11-19T17:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111617544984941.jpg"><br/><br/>Banyak tantangan dengan target-target baru! Ikuti Event Kuis Paimon dari HoYoLAB setiap hari, dan jawablah pertanyaan-pertanyaan dengan benar untuk memenangkan Mora!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17123">Tahap untuk Event Kuis "Ribuan Teka-teki Paimon" Resmi Dimulai!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17123" rel="alternate"/>
+    <summary>Banyak tantangan dengan target-target baru! Ikuti Event Kuis Paimon dari HoYoLAB setiap hari, dan jawablah pertanyaan-pertanyaan dengan benar untuk memenangkan Mora!</summary>
+    <published>2021-11-19T17:00:00+07:00</published>
   </entry>
   <entry>
     <id>735</id>
@@ -1204,15 +1213,6 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <published>2021-11-13T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14433</id>
-    <title>Aneka Koleksi Genshin Impact - "Kamisato Ayaka: Tarian Salju Sang Bangau"</title>
-    <updated>2021-07-21T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072019025482526.jpg"><br/><br/>Semua orang hanya melihat seekor bangau salju menari dengan sayap yang indah, tapi tak satu pun orang tahu apa yang tersembunyi di balik keindahan ini: latihan Ayaka yang sangat keras.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14433">Aneka Koleksi Genshin Impact - "Kamisato Ayaka: Tarian Salju Sang Bangau"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14433" rel="alternate"/>
-    <summary>Semua orang hanya melihat seekor bangau salju menari dengan sayap yang indah, tapi tak satu pun orang tahu apa yang tersembunyi di balik keindahan ini: latihan Ayaka yang sangat keras.</summary>
-    <published>2021-07-21T12:00:00+07:00</published>
-  </entry>
-  <entry>
     <id>14506</id>
     <title>Event Web Berhadiah "Undangan Sang Bangau Putih" Dimulai</title>
     <updated>2021-07-26T12:00:00+07:00</updated>
@@ -2111,5 +2111,14 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17096" rel="alternate"/>
     <summary>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</summary>
     <published>2021-11-13T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17123</id>
+    <title>Tahap untuk Event Kuis "Ribuan Teka-teki Paimon" Resmi Dimulai!</title>
+    <updated>2021-11-19T17:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111617544984941.jpg"><br/><br/>Banyak tantangan dengan target-target baru! Ikuti Event Kuis Paimon dari HoYoLAB setiap hari, dan jawablah pertanyaan-pertanyaan dengan benar untuk memenangkan Mora!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17123">Tahap untuk Event Kuis "Ribuan Teka-teki Paimon" Resmi Dimulai!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17123" rel="alternate"/>
+    <summary>Banyak tantangan dengan target-target baru! Ikuti Event Kuis Paimon dari HoYoLAB setiap hari, dan jawablah pertanyaan-pertanyaan dengan benar untuk memenangkan Mora!</summary>
+    <published>2021-11-19T17:00:00+07:00</published>
   </entry>
 </feed>

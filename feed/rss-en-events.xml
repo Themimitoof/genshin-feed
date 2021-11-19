@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:25 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -140,6 +140,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110302540268.jpg"><br/><br/>A dancing campfire by the seaside at night~ Hurry and come grill some fish with Shiki Taishou, Traveler!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16867">Web Event "Yummy! Barbecue Under the Stars" Now Online: Grill fish with Shiki Taishou to earn Primogems and other rewards</a>]]></content:encoded>
       <guid isPermaLink="false">16867</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>"A Thousand Questions With Paimon" Quiz Event Now Open!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17113</link>
+      <description>A new challenge with new goals! Take part in the Paimon Quiz Event from HoYoLAB each day and answer questions correctly to win Mora!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610383166620.jpg"><br/><br/>A new challenge with new goals! Take part in the Paimon Quiz Event from HoYoLAB each day and answer questions correctly to win Mora!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17113">"A Thousand Questions With Paimon" Quiz Event Now Open!</a>]]></content:encoded>
+      <guid isPermaLink="false">17113</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

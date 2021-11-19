@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:49 +0000</lastBuildDate>
-    <item>
-      <title>Giới thiệu nhân vật trong Genshin Impact - Kamisato Ayaka: Hoa Nở Tuyết Tan</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14356</link>
-      <description>Ayaka mặc dù đã sớm có được sự công nhận của Trường Phái Kamisato, nhưng vẫn kiên trì luyện tập chưa từng lơ là.
-Chỉ là dạo gần đây những người hầu mới phát hiện ra rằng, tiểu thư bắt đầu tập luyện nhiều hơn bình thường... </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071919124399921.jpg"><br/><br/>Ayaka mặc dù đã sớm có được sự công nhận của Trường Phái Kamisato, nhưng vẫn kiên trì luyện tập chưa từng lơ là.
-Chỉ là dạo gần đây những người hầu mới phát hiện ra rằng, tiểu thư bắt đầu tập luyện nhiều hơn bình thường... <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14356">Giới thiệu nhân vật trong Genshin Impact - Kamisato Ayaka: Hoa Nở Tuyết Tan</a>]]></content:encoded>
-      <guid isPermaLink="false">14356</guid>
-      <pubDate>Tue, 20 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 09:11:06 +0000</lastBuildDate>
     <item>
       <title>Giới Thiệu Cập Nhật Phiên Bản 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt"</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14446</link>
@@ -760,6 +750,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111221110889615.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17102">Trang xem trước phiên bản mới 2.3 - Ảo Ảnh Giữa Bão Tuyết đã mở!</a>]]></description>
       <guid isPermaLink="false">17102</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự kiện trả lời "Mười vạn câu hỏi vì sao của Paimon" chính thức bắt đầu!</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17116</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610431890047.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17116">Sự kiện trả lời "Mười vạn câu hỏi vì sao của Paimon" chính thức bắt đầu!</a>]]></description>
+      <guid isPermaLink="false">17116</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

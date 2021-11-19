@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-11-19T08:11:42.664376+00:00</updated>
+  <updated>2021-11-19T09:10:35.253183+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -89,6 +89,15 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16883" rel="alternate"/>
     <summary>夜晚的海邊，跳動的篝火，快來和式大將一起烤魚吧，旅行者！</summary>
     <published>2021-11-01T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17119</id>
+    <title>「派蒙的十萬個為什麼」問答活動正式開始啦！</title>
+    <updated>2021-11-19T17:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111611422892895.jpg"><br/><br/>新的挑戰，新的目標，每日參與HoYoLAB派蒙的問答挑戰，答對問題可獲得摩拉獎勵！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17119">「派蒙的十萬個為什麼」問答活動正式開始啦！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17119" rel="alternate"/>
+    <summary>新的挑戰，新的目標，每日參與HoYoLAB派蒙的問答挑戰，答對問題可獲得摩拉獎勵！</summary>
+    <published>2021-11-19T17:00:00+08:00</published>
   </entry>
   <entry>
     <id>3463</id>
@@ -1143,14 +1152,6 @@
     <published>2021-11-13T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>14282</id>
-    <title>2.0版本活動快報第一期</title>
-    <updated>2021-07-19T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071813302880529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14282">2.0版本活動快報第一期</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14282" rel="alternate"/>
-    <published>2021-07-19T12:10:00+08:00</published>
-  </entry>
-  <entry>
     <id>14300</id>
     <title>珍珠之歌 The Shimmering Voyage | 原神</title>
     <updated>2021-07-19T14:00:00+08:00</updated>
@@ -2034,5 +2035,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17094" rel="alternate"/>
     <summary>2.3新版本「皚塵與雪影」先行展示網頁現已開放！</summary>
     <published>2021-11-13T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17119</id>
+    <title>「派蒙的十萬個為什麼」問答活動正式開始啦！</title>
+    <updated>2021-11-19T17:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111611422892895.jpg"><br/><br/>新的挑戰，新的目標，每日參與HoYoLAB派蒙的問答挑戰，答對問題可獲得摩拉獎勵！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17119">「派蒙的十萬個為什麼」問答活動正式開始啦！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17119" rel="alternate"/>
+    <summary>新的挑戰，新的目標，每日參與HoYoLAB派蒙的問答挑戰，答對問題可獲得摩拉獎勵！</summary>
+    <published>2021-11-19T17:00:00+08:00</published>
   </entry>
 </feed>

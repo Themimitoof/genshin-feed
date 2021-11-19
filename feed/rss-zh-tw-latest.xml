@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:41 +0000</lastBuildDate>
-    <item>
-      <title>2.0版本活動快報第一期</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14282</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071813302880529.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14282">2.0版本活動快報第一期</a>]]></description>
-      <guid isPermaLink="false">14282</guid>
-      <pubDate>Mon, 19 Jul 2021 12:10:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:30 +0000</lastBuildDate>
     <item>
       <title>珍珠之歌 The Shimmering Voyage | 原神</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14300</link>
@@ -798,6 +791,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220303530254.jpg"><br/><br/>2.3新版本「皚塵與雪影」先行展示網頁現已開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17094">2.3新版本「皚塵與雪影」先行展示網頁現已開放！</a>]]></content:encoded>
       <guid isPermaLink="false">17094</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「派蒙的十萬個為什麼」問答活動正式開始啦！</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17119</link>
+      <description>新的挑戰，新的目標，每日參與HoYoLAB派蒙的問答挑戰，答對問題可獲得摩拉獎勵！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111611422892895.jpg"><br/><br/>新的挑戰，新的目標，每日參與HoYoLAB派蒙的問答挑戰，答對問題可獲得摩拉獎勵！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17119">「派蒙的十萬個為什麼」問答活動正式開始啦！</a>]]></content:encoded>
+      <guid isPermaLink="false">17119</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

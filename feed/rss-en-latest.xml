@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:39 +0000</lastBuildDate>
-    <item>
-      <title>"Fireworks are for now, but friends are forever" — "Frolicking Flames" Yoimiya</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14620</link>
-      <description>Today, we'd like to introduce to you the pyrotechnician from Naganohara Fireworks — Yoimiya!
-She is the most skilled pyrotechnician in Inazuma and is known as the "Queen of the Summer Festival." In addition to being a craftsperson, she is also the "heroic sister" in the eyes of many children. No matter how big the problem is, Yoimiya always has a solution to save the day.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316103558577.jpg"><br/><br/>Today, we'd like to introduce to you the pyrotechnician from Naganohara Fireworks — Yoimiya!
-She is the most skilled pyrotechnician in Inazuma and is known as the "Queen of the Summer Festival." In addition to being a craftsperson, she is also the "heroic sister" in the eyes of many children. No matter how big the problem is, Yoimiya always has a solution to save the day.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14620">"Fireworks are for now, but friends are forever" — "Frolicking Flames" Yoimiya</a>]]></content:encoded>
-      <guid isPermaLink="false">14620</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:21 +0000</lastBuildDate>
     <item>
       <title>Character Teaser - "Yoimiya: The Queen of Summer on Narukami Island" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14650</link>
@@ -894,6 +884,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220240957134.jpg"><br/><br/>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17088">The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</a>]]></content:encoded>
       <guid isPermaLink="false">17088</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"A Thousand Questions With Paimon" Quiz Event Now Open!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17113</link>
+      <description>A new challenge with new goals! Take part in the Paimon Quiz Event from HoYoLAB each day and answer questions correctly to win Mora!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610383166620.jpg"><br/><br/>A new challenge with new goals! Take part in the Paimon Quiz Event from HoYoLAB each day and answer questions correctly to win Mora!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17113">"A Thousand Questions With Paimon" Quiz Event Now Open!</a>]]></content:encoded>
+      <guid isPermaLink="false">17113</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

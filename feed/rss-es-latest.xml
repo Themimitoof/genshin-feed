@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:43 +0000</lastBuildDate>
-    <item>
-      <title>Avance de la trama de Genshin Impact - Yoimiya: Lo mejor del verano en la Isla Narukami...</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14654</link>
-      <description>Los visitantes extranjeros recorren las calles de Hanamizaka en busca de "Lo mejor del verano en la Isla Narukami"...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080320430323606.jpg"><br/><br/>Los visitantes extranjeros recorren las calles de Hanamizaka en busca de "Lo mejor del verano en la Isla Narukami"...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14654">Avance de la trama de Genshin Impact - Yoimiya: Lo mejor del verano en la Isla Narukami...</a>]]></content:encoded>
-      <guid isPermaLink="false">14654</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:40 +0000</lastBuildDate>
     <item>
       <title>Evento web «Recuerdos de la Noche de Verano» ya disponible</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14687</link>
@@ -812,6 +804,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111222142252924.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17104">¡La vista previa de la nueva versión 2.3 «Sombras de nieve y polvo» ya está disponible!</a>]]></description>
       <guid isPermaLink="false">17104</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡Vuelve el evento «Las mil preguntas de Paimon»!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17117</link>
+      <description>¡Vuelve el evento «Las mil preguntas de Paimon»!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610564781683.jpg"><br/><br/>¡Vuelve el evento «Las mil preguntas de Paimon»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17117">¡Vuelve el evento «Las mil preguntas de Paimon»!</a>]]></content:encoded>
+      <guid isPermaLink="false">17117</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

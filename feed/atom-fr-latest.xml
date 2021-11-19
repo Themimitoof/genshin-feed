@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-11-19T08:11:40.912606+00:00</updated>
+  <updated>2021-11-19T09:10:25.930582+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14311</id>
-    <title>Bande-son de Genshin Impact: The Shimmering Voyage</title>
-    <updated>2021-07-19T14:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910064799130.jpg"><br/><br/>La bande originale de la version 1.0 de Genshin Impact, « The Shimmering » est désormais disponible. L'album est découpé en quatre parties : « Fairytale of the Isles », « Blazing Stars », « Roar of the Formidable » et « Stranger's Sojourn », et contient 68 créations originales pour Genshin Impact composées par Yu-Peng Chen, de l'équipe de HOYO-MIX, et produites par HOYO-MiX.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14311">Bande-son de Genshin Impact: The Shimmering Voyage</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14311" rel="alternate"/>
-    <summary>La bande originale de la version 1.0 de Genshin Impact, « The Shimmering » est désormais disponible. L'album est découpé en quatre parties : « Fairytale of the Isles », « Blazing Stars », « Roar of the Formidable » et « Stranger's Sojourn », et contient 68 créations originales pour Genshin Impact composées par Yu-Peng Chen, de l'équipe de HOYO-MIX, et produites par HOYO-MiX.</summary>
-    <published>2021-07-19T14:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14387</id>
     <title>Genshin Impact - Démo personnage : « Kamisato Ayaka : Camélia dans la neige d'hiver »</title>
@@ -887,5 +878,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <link href="https://genshin.mihoyo.com/fr/news/detail/17075" rel="alternate"/>
     <summary/>
     <published>2021-11-12T21:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17120</id>
+    <title>Lancement de l'événement « Les mille questions de Paimon »</title>
+    <updated>2021-11-19T17:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614083231577.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17120">Lancement de l'événement « Les mille questions de Paimon »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17120" rel="alternate"/>
+    <published>2021-11-19T17:00:00+01:00</published>
   </entry>
 </feed>

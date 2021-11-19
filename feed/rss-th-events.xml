@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 09:11:05 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -113,6 +113,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110340423434.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16871">[กิจกรรมบนเว็บไซต์] สดจากทะเล! ค่ำคืนแห่งการปิ้งย่าง - ร่วมย่างปลาไปกับ Shiki Taishou เพื่อรับ Primogem และรางวัลอีกมากมาย</a>]]></description>
       <guid isPermaLink="false">16871</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>กิจกรรมตอบคำถาม "สารพัดคำถามไปกับ Paimon" เปิดขึ้นอย่างเป็นทางการแล้ว!</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17114</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610391297871.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17114">กิจกรรมตอบคำถาม "สารพัดคำถามไปกับ Paimon" เปิดขึ้นอย่างเป็นทางการแล้ว!</a>]]></description>
+      <guid isPermaLink="false">17114</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

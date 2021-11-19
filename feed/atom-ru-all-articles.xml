@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-11-19T08:11:48.930452+00:00</updated>
+  <updated>2021-11-19T09:11:03.232818+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -146,6 +146,15 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/16869" rel="alternate"/>
     <summary>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!</summary>
     <published>2021-11-01T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17112</id>
+    <title>Новая версия «Сто тысяч почему от Паймон» уже доступна!</title>
+    <updated>2021-11-19T17:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610354277032.jpg"><br/><br/>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17112">Новая версия «Сто тысяч почему от Паймон» уже доступна!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17112" rel="alternate"/>
+    <summary>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!</summary>
+    <published>2021-11-19T17:00:00+03:00</published>
   </entry>
   <entry>
     <id>740</id>
@@ -1216,15 +1225,6 @@
     <published>2021-11-13T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>14621</id>
-    <title>«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</title>
-    <updated>2021-08-04T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316121214327.jpg"><br/><br/>«Пляшущие огоньки» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14621">«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14621" rel="alternate"/>
-    <summary>«Пляшущие огоньки» Ёимия</summary>
-    <published>2021-08-04T12:00:00+03:00</published>
-  </entry>
-  <entry>
     <id>14644</id>
     <title>«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</title>
     <updated>2021-08-04T12:00:00+03:00</updated>
@@ -2123,5 +2123,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17090" rel="alternate"/>
     <summary>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</summary>
     <published>2021-11-13T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17112</id>
+    <title>Новая версия «Сто тысяч почему от Паймон» уже доступна!</title>
+    <updated>2021-11-19T17:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610354277032.jpg"><br/><br/>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17112">Новая версия «Сто тысяч почему от Паймон» уже доступна!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17112" rel="alternate"/>
+    <summary>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!</summary>
+    <published>2021-11-19T17:00:00+03:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:46 +0000</lastBuildDate>
-    <item>
-      <title>「仙麟の章」 任務紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/7880</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210110/2021011013553451719.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7880">「仙麟の章」 任務紹介</a>]]></description>
-      <guid isPermaLink="false">7880</guid>
-      <pubDate>Sun, 10 Jan 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:51 +0000</lastBuildDate>
     <item>
       <title>「無相の交響詩」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/7977</link>
@@ -730,6 +723,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211113/2021111311414129528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17108">「地脈の奔流」イベント予告</a>]]></description>
       <guid isPermaLink="false">17108</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「パイモンのクイズタイム！」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17122</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614471826450.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17122">「パイモンのクイズタイム！」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17122</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0900</pubDate>
     </item>
     <item>
       <title>ゲーム内一部のテキストの修正および調整について</title>
@@ -1612,13 +1612,6 @@
       <pubDate>Tue, 16 Nov 2021 22:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>「三矢の結盟」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13038</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210525/2021052516455646978.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13038">「三矢の結盟」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">13038</guid>
-      <pubDate>Wed, 26 May 2021 10:29:00 +0900</pubDate>
-    </item>
-    <item>
       <title>原神４コマコンテスト結果発表</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/13089</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210527/2021052712032211762.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13089">原神４コマコンテスト結果発表</a>]]></description>
@@ -2314,6 +2307,13 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16916">原神 Ver.2.3アップデート記念キャンペーン 参加規約</a>]]></description>
       <guid isPermaLink="false">16916</guid>
       <pubDate>Tue, 16 Nov 2021 22:50:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「パイモンのクイズタイム！」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17122</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614471826450.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17122">「パイモンのクイズタイム！」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17122</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

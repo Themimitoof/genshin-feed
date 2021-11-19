@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-11-19T08:11:42.706505+00:00</updated>
+  <updated>2021-11-19T09:10:35.295448+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14338</id>
-    <title>The Shimmering Voyage | Genshin Impact</title>
-    <updated>2021-07-19T13:41:16+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071913542932137.jpg"><br/><br/>Das Gedenkalbum zu Genshin Impact Version 1.0 „The Shimmering Voyage“ ist jetzt verfügbar! Die vier Tonträger „Fairytale of the Isles“, „Blazing Stars“, „Roar of the Formidable“ und „A Stranger’s Sojourn“ beinhalten insgesamt 68 von Yu-Peng Chen von HOYO-MiX für Genshin Impact komponierte und von HOYO-MiX produzierte Musikstücke.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14338">The Shimmering Voyage | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14338" rel="alternate"/>
-    <summary>Das Gedenkalbum zu Genshin Impact Version 1.0 „The Shimmering Voyage“ ist jetzt verfügbar! Die vier Tonträger „Fairytale of the Isles“, „Blazing Stars“, „Roar of the Formidable“ und „A Stranger’s Sojourn“ beinhalten insgesamt 68 von Yu-Peng Chen von HOYO-MiX für Genshin Impact komponierte und von HOYO-MiX produzierte Musikstücke.</summary>
-    <published>2021-07-19T13:41:16+02:00</published>
-  </entry>
   <entry>
     <id>14359</id>
     <title>Figurenvorführung bei Genshin Impact – Kamisato Ayaka: Bäume im Schnee</title>
@@ -946,5 +937,14 @@ Vorstellungsseite zu Version 2.3 „Schatten im Schneesturm“ jetzt verfügbar!
     <summary>Lieber Reisender,
 Vorstellungsseite zu Version 2.3 „Schatten im Schneesturm“ jetzt verfügbar!</summary>
     <published>2021-11-13T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17118</id>
+    <title>Der Aktion „Paimons tausend Fragen“ beginnt offiziell!</title>
+    <updated>2021-11-19T17:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610542296191.jpg"><br/><br/>Eine neue Herausforderung, ein neues Ziel! Nimm täglich an der Fragenaktion von Paimon im HoYoLAB teil und erhalte Mora für richtig beantwortete Fragen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17118">Der Aktion „Paimons tausend Fragen“ beginnt offiziell!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17118" rel="alternate"/>
+    <summary>Eine neue Herausforderung, ein neues Ziel! Nimm täglich an der Fragenaktion von Paimon im HoYoLAB teil und erhalte Mora für richtig beantwortete Fragen!</summary>
+    <published>2021-11-19T17:00:00+01:00</published>
   </entry>
 </feed>

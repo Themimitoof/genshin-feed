@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-11-19T08:11:48.032318+00:00</updated>
+  <updated>2021-11-19T09:10:59.616477+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -183,6 +183,15 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/16971" rel="alternate"/>
     <summary>Paimon gostaria de compartilhar esses doces com vocês!</summary>
     <published>2021-11-05T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17121</id>
+    <title>O Evento "Quiz da Paimon" está disponível!</title>
+    <updated>2021-11-19T17:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614384132390.jpg"><br/><br/>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17121">O Evento "Quiz da Paimon" está disponível!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17121" rel="alternate"/>
+    <summary>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!</summary>
+    <published>2021-11-19T17:00:00+00:00</published>
   </entry>
   <entry>
     <id>738</id>
@@ -1222,15 +1231,6 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-11-13T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>14680</id>
-    <title>Evento web Com Recompensa "Belos Momentos nos Festivais de Verão" Disponível</title>
-    <updated>2021-08-05T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511075455537.jpg"><br/><br/>Belos Momentos nos Festivais de Verão - Nova Personagem de "Genshin Impact": Yoimiya, evento web agora disponível!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14680">Evento web Com Recompensa "Belos Momentos nos Festivais de Verão" Disponível</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14680" rel="alternate"/>
-    <summary>Belos Momentos nos Festivais de Verão - Nova Personagem de "Genshin Impact": Yoimiya, evento web agora disponível!</summary>
-    <published>2021-08-05T12:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>14723</id>
     <title>Demo da Nova Personagem de Genshin Impact - "Sayu: Arte Yoohoo, Escudo Mujina"</title>
     <updated>2021-08-07T18:00:00+01:00</updated>
@@ -2125,5 +2125,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17092" rel="alternate"/>
     <summary>A página de prévia da Versão 2.3 "Poeira e Neve Escura" já se encontra disponível!</summary>
     <published>2021-11-13T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17121</id>
+    <title>O Evento "Quiz da Paimon" está disponível!</title>
+    <updated>2021-11-19T17:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614384132390.jpg"><br/><br/>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17121">O Evento "Quiz da Paimon" está disponível!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17121" rel="alternate"/>
+    <summary>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!</summary>
+    <published>2021-11-19T17:00:00+00:00</published>
   </entry>
 </feed>

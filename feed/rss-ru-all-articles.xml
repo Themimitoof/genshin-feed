@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 09:11:03 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -131,6 +131,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211101/2021110110313758092.jpg"><br/><br/>Посидим ночью на берегу у костра и пожарим рыбку с Сики Тайсё!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16869">[Браузерное событие началось] «Пальчики оближешь! Барбекю под звёздами»! Жарьте рыбу с Сики Тайсё - получайте Камни Истока и другие награды!</a>]]></content:encoded>
       <guid isPermaLink="false">16869</guid>
       <pubDate>Mon, 01 Nov 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Новая версия «Сто тысяч почему от Паймон» уже доступна!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17112</link>
+      <description>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610354277032.jpg"><br/><br/>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17112">Новая версия «Сто тысяч почему от Паймон» уже доступна!</a>]]></content:encoded>
+      <guid isPermaLink="false">17112</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0300</pubDate>
     </item>
     <item>
       <title>"Genshin Impact" Исследуйте континент Тейват вместе с Эмбер!</title>
@@ -1078,14 +1086,6 @@
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
-      <title>«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14621</link>
-      <description>«Пляшущие огоньки» Ёимия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316121214327.jpg"><br/><br/>«Пляшущие огоньки» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14621">«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</a>]]></content:encoded>
-      <guid isPermaLink="false">14621</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
       <title>«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14644</link>
       <description>Ёимия</description>
@@ -1884,6 +1884,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220255924464.jpg"><br/><br/>Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17090">Превью-страница версии 2.3 «Белая пыль и снежная тень» уже доступна!</a>]]></content:encoded>
       <guid isPermaLink="false">17090</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Новая версия «Сто тысяч почему от Паймон» уже доступна!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17112</link>
+      <description>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610354277032.jpg"><br/><br/>Новое испытание, новая цель! Участвуйте в событии HoYoLAB от Паймон каждый день, отвечайте на вопросы и получайте в награду мору!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17112">Новая версия «Сто тысяч почему от Паймон» уже доступна!</a>]]></content:encoded>
+      <guid isPermaLink="false">17112</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 19 Nov 2021 08:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 09:10:43 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -129,6 +129,14 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115330059637.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/16630">Evento de fotografía en modo multijugador «Encuentros de sombra y luz»</a>]]></description>
       <guid isPermaLink="false">16630</guid>
       <pubDate>Mon, 25 Oct 2021 12:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>¡Vuelve el evento «Las mil preguntas de Paimon»!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17117</link>
+      <description>¡Vuelve el evento «Las mil preguntas de Paimon»!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610564781683.jpg"><br/><br/>¡Vuelve el evento «Las mil preguntas de Paimon»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17117">¡Vuelve el evento «Las mil preguntas de Paimon»!</a>]]></content:encoded>
+      <guid isPermaLink="false">17117</guid>
+      <pubDate>Fri, 19 Nov 2021 17:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
