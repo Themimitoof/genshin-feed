@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-11-19T11:09:33.750497+00:00</updated>
+  <updated>2021-11-19T12:15:54.028419+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14449</id>
-    <title>คำอธิบายการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์ กับความฝันอันว่างเปล่า"</title>
-    <updated>2021-07-21T07:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022490494481.jpg"><br/><br/>คำอธิบายการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์ กับความฝันอันว่างเปล่า"<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14449">คำอธิบายการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์ กับความฝันอันว่างเปล่า"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14449" rel="alternate"/>
-    <summary>คำอธิบายการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์ กับความฝันอันว่างเปล่า"</summary>
-    <published>2021-07-21T07:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14455</id>
     <title>คำอธิบายเกมเพลย์ "ตามรอยสายฟ้า"</title>
@@ -861,5 +852,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610391297871.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17114">กิจกรรมตอบคำถาม "สารพัดคำถามไปกับ Paimon" เปิดขึ้นอย่างเป็นทางการแล้ว!</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17114" rel="alternate"/>
     <published>2021-11-19T17:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17149</id>
+    <title>[HoYo FEST FAQ] Thailand - Nana Coffee Roasters @ Niche3 Praditmanoonthum</title>
+    <updated>2021-11-19T20:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920030031083.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17149">[HoYo FEST FAQ] Thailand - Nana Coffee Roasters @ Niche3 Praditmanoonthum</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17149" rel="alternate"/>
+    <summary/>
+    <published>2021-11-19T20:00:00+07:00</published>
   </entry>
 </feed>

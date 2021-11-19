@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Nov 2021 11:09:18 +0000</lastBuildDate>
-    <item>
-      <title>Version 2.0 Events Preview - Phase I</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14337</link>
-      <description>Version 2.0 Events Preview - Phase I
-In addition to launching Inazuma in Version 2.0, we've also lined up tons of exciting events for you. Click the picture below for a quick overview!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071911030669632.jpg"><br/><br/>Version 2.0 Events Preview - Phase I
-In addition to launching Inazuma in Version 2.0, we've also lined up tons of exciting events for you. Click the picture below for a quick overview!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14337">Version 2.0 Events Preview - Phase I</a>]]></content:encoded>
-      <guid isPermaLink="false">14337</guid>
-      <pubDate>Mon, 19 Jul 2021 12:10:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 19 Nov 2021 12:15:09 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact OST Album - The Shimmering Voyage</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14316</link>
@@ -902,6 +892,13 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220240957134.jpg"><br/><br/>The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17088">The Version 2.3 "Shadows Amidst Snowstorms" Preview Page Is Here!</a>]]></content:encoded>
       <guid isPermaLink="false">17088</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>We regrettably announce that our shipment of merch designated for animeNYC has been held up by customs and only posters will be able to go on sale at the convention.</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17146</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17146">We regrettably announce that our shipment of merch designated for animeNYC has been held up by customs and only posters will be able to go on sale at the convention.</a>]]></description>
+      <guid isPermaLink="false">17146</guid>
+      <pubDate>Fri, 19 Nov 2021 19:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

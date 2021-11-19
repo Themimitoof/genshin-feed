@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-11-19T11:09:19.631624+00:00</updated>
+  <updated>2021-11-19T12:15:13.578067+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -165,6 +165,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/17113" rel="alternate"/>
     <summary>A new challenge with new goals! Take part in the Paimon Quiz Event from HoYoLAB each day and answer questions correctly to win Mora!</summary>
     <published>2021-11-19T17:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17151</id>
+    <title>[HoYo FEST FAQ] Singapore &amp; Malaysia &amp; Philippines </title>
+    <updated>2021-11-19T20:10:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920100698991.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17151">[HoYo FEST FAQ] Singapore & Malaysia & Philippines </a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17151" rel="alternate"/>
+    <published>2021-11-19T20:10:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -338,17 +346,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>14337</id>
-    <title>Version 2.0 Events Preview - Phase I</title>
-    <updated>2021-07-19T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071911030669632.jpg"><br/><br/>Version 2.0 Events Preview - Phase I
-In addition to launching Inazuma in Version 2.0, we've also lined up tons of exciting events for you. Click the picture below for a quick overview!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14337">Version 2.0 Events Preview - Phase I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14337" rel="alternate"/>
-    <summary>Version 2.0 Events Preview - Phase I
-In addition to launching Inazuma in Version 2.0, we've also lined up tons of exciting events for you. Click the picture below for a quick overview!</summary>
-    <published>2021-07-19T12:10:00-04:00</published>
   </entry>
   <entry>
     <id>14316</id>
@@ -1334,30 +1331,13 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <published>2021-11-13T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>14650</id>
-    <title>Character Teaser - "Yoimiya: The Queen of Summer on Narukami Island" | Genshin Impact</title>
-    <updated>2021-08-04T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319531130870.jpg"><br/><br/>Visitors from afar come to Hanamizaka in hopes of finding "the best thing about summer on Narukami Island"...
-But they never realize that the figure gleaming like a golden spark was right in front of them all along.
-
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14650">Character Teaser - "Yoimiya: The Queen of Summer on Narukami Island" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14650" rel="alternate"/>
-    <summary>Visitors from afar come to Hanamizaka in hopes of finding "the best thing about summer on Narukami Island"...
-But they never realize that the figure gleaming like a golden spark was right in front of them all along.
-
-</summary>
-    <published>2021-08-04T12:01:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14694</id>
-    <title>The "Summer Night Mementos" Web Event Has Begun</title>
-    <updated>2021-08-05T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511384481655.jpg"><br/><br/>The blooming fireworks illuminate the eyes of the girl beside me...
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14694">The "Summer Night Mementos" Web Event Has Begun</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14694" rel="alternate"/>
-    <summary>The blooming fireworks illuminate the eyes of the girl beside me...
-</summary>
-    <published>2021-08-05T12:00:00-04:00</published>
+    <id>17146</id>
+    <title>We regrettably announce that our shipment of merch designated for animeNYC has been held up by customs and only posters will be able to go on sale at the convention.</title>
+    <updated>2021-11-19T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17146">We regrettably announce that our shipment of merch designated for animeNYC has been held up by customs and only posters will be able to go on sale at the convention.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17146" rel="alternate"/>
+    <summary/>
+    <published>2021-11-19T19:00:00-05:00</published>
   </entry>
   <entry>
     <id>14721</id>
@@ -2316,5 +2296,22 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <link href="https://genshin.mihoyo.com/en/news/detail/17113" rel="alternate"/>
     <summary>A new challenge with new goals! Take part in the Paimon Quiz Event from HoYoLAB each day and answer questions correctly to win Mora!</summary>
     <published>2021-11-19T17:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17146</id>
+    <title>We regrettably announce that our shipment of merch designated for animeNYC has been held up by customs and only posters will be able to go on sale at the convention.</title>
+    <updated>2021-11-19T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17146">We regrettably announce that our shipment of merch designated for animeNYC has been held up by customs and only posters will be able to go on sale at the convention.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17146" rel="alternate"/>
+    <summary/>
+    <published>2021-11-19T19:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17151</id>
+    <title>[HoYo FEST FAQ] Singapore &amp; Malaysia &amp; Philippines </title>
+    <updated>2021-11-19T20:10:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920100698991.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17151">[HoYo FEST FAQ] Singapore & Malaysia & Philippines </a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17151" rel="alternate"/>
+    <published>2021-11-19T20:10:00-05:00</published>
   </entry>
 </feed>
