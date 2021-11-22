@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Nov 2021 04:13:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 05:10:18 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -314,26 +314,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「카미사토 아야카: 눈보라 속 동백꽃」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14385</link>
-      <description>﻿아야카는 오래전에 카미사토류 태도술의 계승자가 됐지만, 여전히 수행을 게을리하지 않는다. 다만 하인들은 그녀가 요즘 평소보다 검술 수련을 오래 한다고 느낀다.
-
-﻿</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071921325226245.jpg"><br/><br/>﻿아야카는 오래전에 카미사토류 태도술의 계승자가 됐지만, 여전히 수행을 게을리하지 않는다. 다만 하인들은 그녀가 요즘 평소보다 검술 수련을 오래 한다고 느낀다.
-
-﻿<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14385"><원신> 신규 캐릭터 플레이 - 「카미사토 아야카: 눈보라 속 동백꽃」</a>]]></content:encoded>
-      <guid isPermaLink="false">14385</guid>
-      <pubDate>Tue, 20 Jul 2021 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「부동의 번개 신, 포영의 절멸」 2.0 버전 업데이트 상세안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14461</link>
-      <description>2.0 버전 업데이트 안내</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072101090912529.jpg"><br/><br/>2.0 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14461">「부동의 번개 신, 포영의 절멸」 2.0 버전 업데이트 상세안내</a>]]></content:encoded>
-      <guid isPermaLink="false">14461</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「뇌흔을 찾아서」 콘텐츠 안내</title>
@@ -1157,6 +1137,20 @@
       <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>시스템 점검 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17221</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212142839183.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17221">시스템 점검 공지</a>]]></description>
+      <guid isPermaLink="false">17221</guid>
+      <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>결제 채널 임시 폐쇄 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17222</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212160194188.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17222">결제 채널 임시 폐쇄 공지</a>]]></description>
+      <guid isPermaLink="false">17222</guid>
+      <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>「눈보라 속 그림자」 2.3 버전 이벤트 알림 제1회</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/17180</link>
       <description>2.3 버전이 곧 출시될 예정이야. 우리 함께 신규 이벤트를 확인해 보자~
@@ -1165,22 +1159,6 @@
 <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17180">「눈보라 속 그림자」 2.3 버전 이벤트 알림 제1회</a>]]></content:encoded>
       <guid isPermaLink="false">17180</guid>
       <pubDate>Mon, 22 Nov 2021 12:10:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「일하느니 자겠어」 - 「닌자 너구리」· 사유</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14756</link>
-      <description>오늘 소개할 캐릭터는 「종말번대」의 닌자 - 사유야</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080715515027939.jpg"><br/><br/>오늘 소개할 캐릭터는 「종말번대」의 닌자 - 사유야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14756">「일하느니 자겠어」 - 「닌자 너구리」· 사유</a>]]></content:encoded>
-      <guid isPermaLink="false">14756</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「신의 주조」 기원: 「활·비뢰의 고동」, 「한손검·천공의 검」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14766</link>
-      <description>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718384573400.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14766">「신의 주조」 기원: 「활·비뢰의 고동」, 「한손검·천공의 검」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">14766</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「은하수를 물들인 불꽃」 기원: 「유염화무·요이미야(불)」 확률 UP!</title>
@@ -1997,6 +1975,20 @@
       <description>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!</description>
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112209050734407.jpg"><br/><br/>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17179">「신의 주조」 기원: 「한손검·오래된 자유의 서약」, 「양손검·송뢰가 울릴 무렵」 확률 UP!</a>]]></content:encoded>
       <guid isPermaLink="false">17179</guid>
+      <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>시스템 점검 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17221</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212142839183.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17221">시스템 점검 공지</a>]]></description>
+      <guid isPermaLink="false">17221</guid>
+      <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>결제 채널 임시 폐쇄 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17222</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212160194188.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17222">결제 채널 임시 폐쇄 공지</a>]]></description>
+      <guid isPermaLink="false">17222</guid>
       <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
     </item>
     <item>

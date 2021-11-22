@@ -8,27 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Nov 2021 04:13:12 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「카미사토 아야카: 눈보라 속 동백꽃」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14385</link>
-      <description>﻿아야카는 오래전에 카미사토류 태도술의 계승자가 됐지만, 여전히 수행을 게을리하지 않는다. 다만 하인들은 그녀가 요즘 평소보다 검술 수련을 오래 한다고 느낀다.
-
-﻿</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071921325226245.jpg"><br/><br/>﻿아야카는 오래전에 카미사토류 태도술의 계승자가 됐지만, 여전히 수행을 게을리하지 않는다. 다만 하인들은 그녀가 요즘 평소보다 검술 수련을 오래 한다고 느낀다.
-
-﻿<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14385"><원신> 신규 캐릭터 플레이 - 「카미사토 아야카: 눈보라 속 동백꽃」</a>]]></content:encoded>
-      <guid isPermaLink="false">14385</guid>
-      <pubDate>Tue, 20 Jul 2021 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「부동의 번개 신, 포영의 절멸」 2.0 버전 업데이트 상세안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14461</link>
-      <description>2.0 버전 업데이트 안내</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210721/2021072101090912529.jpg"><br/><br/>2.0 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14461">「부동의 번개 신, 포영의 절멸」 2.0 버전 업데이트 상세안내</a>]]></content:encoded>
-      <guid isPermaLink="false">14461</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 05:10:13 +0000</lastBuildDate>
     <item>
       <title>「뇌흔을 찾아서」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14462</link>
@@ -848,6 +828,20 @@
       <description>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!</description>
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112209050734407.jpg"><br/><br/>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17179">「신의 주조」 기원: 「한손검·오래된 자유의 서약」, 「양손검·송뢰가 울릴 무렵」 확률 UP!</a>]]></content:encoded>
       <guid isPermaLink="false">17179</guid>
+      <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>시스템 점검 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17221</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212142839183.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17221">시스템 점검 공지</a>]]></description>
+      <guid isPermaLink="false">17221</guid>
+      <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>결제 채널 임시 폐쇄 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17222</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212160194188.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17222">결제 채널 임시 폐쇄 공지</a>]]></description>
+      <guid isPermaLink="false">17222</guid>
       <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
     </item>
     <item>

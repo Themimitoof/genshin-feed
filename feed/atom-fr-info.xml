@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-11-22T04:12:35.845905+00:00</updated>
+  <updated>2021-11-22T05:09:42.772525+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14287</id>
-    <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Reflet de tranche-brume (Épée à une main) et Berge de la Voûte d'Azur (Arme d'hast) !</title>
-    <updated>2021-07-19T12:01:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072020264782735.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14287">Vœux « Incarnation divine » : taux d'obtention boosté pour Reflet de tranche-brume (Épée à une main) et Berge de la Voûte d'Azur (Arme d'hast) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14287" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes pour renforcer votre équipe par le biais des vœux « Incarnation divine » !</summary>
-    <published>2021-07-19T12:01:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14288</id>
-    <title>Aperçu des événements de la version 2.0 - Partie I</title>
-    <updated>2021-07-19T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071816412635754.jpg"><br/><br/>En plus de lancer la région d'Inazuma, la version 2.0 apporte plusieurs événements. Cliquez sur l'image ci-dessous pour y jeter un œil !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14288">Aperçu des événements de la version 2.0 - Partie I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14288" rel="alternate"/>
-    <summary>En plus de lancer la région d'Inazuma, la version 2.0 apporte plusieurs événements. Cliquez sur l'image ci-dessous pour y jeter un œil !</summary>
-    <published>2021-07-19T12:10:00+02:00</published>
-  </entry>
   <entry>
     <id>14311</id>
     <title>Bande-son de Genshin Impact: The Shimmering Voyage</title>
@@ -876,6 +858,22 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <updated>2021-11-22T12:00:00+01:00</updated>
     <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17169">Vœux « Incarnation divine » : taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Ode au chant du vent (Épée à deux mains) !</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/17169" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17217</id>
+    <title>Annonce de maintenance du système</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212105271936.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17217">Annonce de maintenance du système</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17217" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17219</id>
+    <title>Annonce d'interruption temporaire de certains canaux de paiement</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212121395456.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17219">Annonce d'interruption temporaire de certains canaux de paiement</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17219" rel="alternate"/>
     <published>2021-11-22T12:00:00+01:00</published>
   </entry>
   <entry>
