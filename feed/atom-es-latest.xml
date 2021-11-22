@@ -2,66 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-11-22T03:10:56.692476+00:00</updated>
+  <updated>2021-11-22T04:12:52.164637+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>14733</id>
-    <title>Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</title>
-    <updated>2021-08-07T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711095015613.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14733">Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14733" rel="alternate"/>
-    <published>2021-08-07T18:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14743</id>
-    <title>"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</title>
-    <updated>2021-08-07T18:15:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712143978787.jpg"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14743">"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14743" rel="alternate"/>
-    <summary>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.</summary>
-    <published>2021-08-07T18:15:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14771</id>
-    <title>Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</title>
-    <updated>2021-08-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721330677785.jpg"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14771">Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14771" rel="alternate"/>
-    <summary>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
-    <published>2021-08-08T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14772</id>
-    <title>Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</title>
-    <updated>2021-08-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721390181925.jpg"><br/><br/>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14772">Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14772" rel="alternate"/>
-    <summary>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
-    <published>2021-08-08T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14710</id>
-    <title>Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</title>
-    <updated>2021-08-08T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080618562517541.jpg"><br/><br/>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14710">Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14710" rel="alternate"/>
-    <summary>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!</summary>
-    <published>2021-08-08T12:10:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14780</id>
-    <title>Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</title>
-    <updated>2021-08-09T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080819392151874.jpg"><br/><br/>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14780">Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14780" rel="alternate"/>
-    <summary>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.</summary>
-    <published>2021-08-09T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14850</id>
     <title>Genshin Impact - Yoimiya: el lenguaje del fuego</title>
@@ -916,5 +863,61 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <link href="https://genshin.mihoyo.com/es/news/detail/17188" rel="alternate"/>
     <summary>Querido/a viajero/a: Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.</summary>
     <published>2021-11-22T11:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17152</id>
+    <title>Nuevo gachapón «Susurros enigmáticos»: ¡Probabilidad de obtención aumentada para Albedo!</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920155696863.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17152">Nuevo gachapón «Susurros enigmáticos»: ¡Probabilidad de obtención aumentada para Albedo!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17152" rel="alternate"/>
+    <summary>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17153</id>
+    <title>Gachapón «Sobre las olas»: ¡Probabilidad de obtención de Eula aumentada!</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920180266692.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17153">Gachapón «Sobre las olas»: ¡Probabilidad de obtención de Eula aumentada!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17153" rel="alternate"/>
+    <summary>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17154</id>
+    <title>Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención aumentada para Juramento por la Libertad y Oda de los Pinos!</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920191989920.jpg"><br/><br/>En el evento de gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17154">Nuevo gachapón «Encarnación divina» disponible: ¡Probabilidad de obtención aumentada para Juramento por la Libertad y Oda de los Pinos!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17154" rel="alternate"/>
+    <summary>En el evento de gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17206</id>
+    <title>Aviso de mantenimiento del sistema</title>
+    <updated>2021-11-22T12:05:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212025554972.jpg"><br/><br/>Queridos viajeros: La nueva versión 2.3 se actualizará el 24 de noviembre a las 06:00 (UTC +8).<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17206">Aviso de mantenimiento del sistema</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17206" rel="alternate"/>
+    <summary>Queridos viajeros: La nueva versión 2.3 se actualizará el 24 de noviembre a las 06:00 (UTC +8).</summary>
+    <published>2021-11-22T12:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17209</id>
+    <title>Aviso de suspensión temporal del canal de pago</title>
+    <updated>2021-11-22T12:06:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212041265996.jpg"><br/><br/>Queridos viajeros:A partir del 24 de noviembre a las 06:00 (UTC +8), llevaremos a cabo el mantenimiento y ajuste de la plataforma interna de pago. <br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17209">Aviso de suspensión temporal del canal de pago</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17209" rel="alternate"/>
+    <summary>Queridos viajeros:A partir del 24 de noviembre a las 06:00 (UTC +8), llevaremos a cabo el mantenimiento y ajuste de la plataforma interna de pago. </summary>
+    <published>2021-11-22T12:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17140</id>
+    <title>Paimon te trae una recopilación de los eventos de la versión 2.3 «Sombras de nieve y polvo» (I)</title>
+    <updated>2021-11-22T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111914454035958.jpg"><br/><br/>Estimados viajeros:
+¡La versión 2.3 ya está aquí! ¡Echemos un vistazo al contenido del nuevo evento!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17140">Paimon te trae una recopilación de los eventos de la versión 2.3 «Sombras de nieve y polvo» (I)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17140" rel="alternate"/>
+    <summary>Estimados viajeros:
+¡La versión 2.3 ya está aquí! ¡Echemos un vistazo al contenido del nuevo evento!</summary>
+    <published>2021-11-22T12:10:00+01:00</published>
   </entry>
 </feed>

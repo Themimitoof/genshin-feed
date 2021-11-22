@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-11-22T03:10:45.861590+00:00</updated>
+  <updated>2021-11-22T04:12:39.910678+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -286,42 +286,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14261</id>
-    <title>Les carnets d'Inazuma N° 3 : découvrez les nouveaux monstres !</title>
-    <updated>2021-07-17T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071712344816418.png"><br/><br/>Bonjour, voyageurs ! Nous allons cette fois-ci nous intéresser aux nouveaux monstres d'Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14261">Les carnets d'Inazuma N° 3 : découvrez les nouveaux monstres !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14261" rel="alternate"/>
-    <summary>Bonjour, voyageurs ! Nous allons cette fois-ci nous intéresser aux nouveaux monstres d'Inazuma.</summary>
-    <published>2021-07-17T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14242</id>
-    <title>Les carnets d'Inazuma N° 4 : faune et flore locales !</title>
-    <updated>2021-07-18T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071620330260722.jpg"><br/><br/>﻿Bonjour, voyageurs ! Faisons aujourd'hui un tour de l'environnement naturel d'Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14242">Les carnets d'Inazuma N° 4 : faune et flore locales !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14242" rel="alternate"/>
-    <summary>﻿Bonjour, voyageurs ! Faisons aujourd'hui un tour de l'environnement naturel d'Inazuma.</summary>
-    <published>2021-07-18T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14285</id>
-    <title>Notification de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-    <updated>2021-07-19T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14285">Notification de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14285" rel="alternate"/>
-    <summary>Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.</summary>
-    <published>2021-07-19T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14286</id>
-    <title>Vœux « Prestance du héron » : taux d'obtention boosté pour Kamisato Ayaka · Héron de givre (Cryo) !</title>
-    <updated>2021-07-19T12:01:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071816034479203.jpg"><br/><br/>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14286">Vœux « Prestance du héron » : taux d'obtention boosté pour Kamisato Ayaka · Héron de givre (Cryo) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14286" rel="alternate"/>
-    <summary>Pendant la durée de l'événement, obtenez de nouveaux personnages et de nouvelles armes afin d'agrandir et renforcer votre équipe !</summary>
-    <published>2021-07-19T12:01:00+02:00</published>
   </entry>
   <entry>
     <id>14287</id>
@@ -1169,43 +1133,37 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-11-12T21:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14387</id>
-    <title>Genshin Impact - Démo personnage : « Kamisato Ayaka : Camélia dans la neige d'hiver »</title>
-    <updated>2021-07-20T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071922304724319.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14387">Genshin Impact - Démo personnage : « Kamisato Ayaka : Camélia dans la neige d'hiver »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14387" rel="alternate"/>
-    <published>2021-07-20T12:00:00+02:00</published>
+    <id>17167</id>
+    <title>Vœux « Nouvelles mystérieuses » : taux d'obtention boosté pour Albedo · Kreideprinz (Géo) !</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17167">Vœux « Nouvelles mystérieuses » : taux d'obtention boosté pour Albedo · Kreideprinz (Géo) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17167" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14448</id>
-    <title>Détails de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-    <updated>2021-07-21T07:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022454699576.jpg"><br/><br/>Voici les détails de la mise à jour et de la compensation de la version 2.0 « Divinité impitoyable et euthymie éternelle ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14448">Détails de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14448" rel="alternate"/>
-    <summary>Voici les détails de la mise à jour et de la compensation de la version 2.0 « Divinité impitoyable et euthymie éternelle ».</summary>
-    <published>2021-07-21T07:00:00+02:00</published>
+    <id>17168</id>
+    <title>Vœux « Flots dansants » : taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17168">Vœux « Flots dansants » : taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17168" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14451</id>
-    <title>Détails de l'événement « Fracas du tonnerre »</title>
-    <updated>2021-07-21T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023001734299.jpg"><br/><br/>L'événement « Fracas du tonnerre » sera bientôt disponible !
-
-Muzhen, la technicienne en chef de l'Alcor, poursuit un objectif important, et a besoin de l'aide d'un aventurier expérimenté...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14451">Détails de l'événement « Fracas du tonnerre »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14451" rel="alternate"/>
-    <summary>L'événement « Fracas du tonnerre » sera bientôt disponible !
-
-Muzhen, la technicienne en chef de l'Alcor, poursuit un objectif important, et a besoin de l'aide d'un aventurier expérimenté...</summary>
-    <published>2021-07-21T10:30:00+02:00</published>
+    <id>17169</id>
+    <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Ode au chant du vent (Épée à deux mains) !</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17169">Vœux « Incarnation divine » : taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Ode au chant du vent (Épée à deux mains) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17169" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14452</id>
-    <title>Genshin Impact - Kamisato Ayaka : Grue dansante des neiges</title>
-    <updated>2021-07-21T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023052219353.jpg"><br/><br/>Alors qu'aux yeux du monde apparait une grue des neiges aux ailes gracieuses, personne ne se doute réellement de ce qui se cache derrière cette élégance : l'entraînement méticuleux d'Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14452">Genshin Impact - Kamisato Ayaka : Grue dansante des neiges</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14452" rel="alternate"/>
-    <summary>Alors qu'aux yeux du monde apparait une grue des neiges aux ailes gracieuses, personne ne se doute réellement de ce qui se cache derrière cette élégance : l'entraînement méticuleux d'Ayaka.</summary>
-    <published>2021-07-21T12:00:00+02:00</published>
+    <id>17139</id>
+    <title>Paimon vous présente un aperçu des nouveaux événements de la version 2.3 - Partie I</title>
+    <updated>2021-11-22T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111914423518847.jpg"><br/><br/>Bonjour, voyageurs ! L'arrivée de la version 2.3 approche. Regardons ensemble ce que les nouveaux événements vous réservent !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17139">Paimon vous présente un aperçu des nouveaux événements de la version 2.3 - Partie I</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17139" rel="alternate"/>
+    <summary>Bonjour, voyageurs ! L'arrivée de la version 2.3 approche. Regardons ensemble ce que les nouveaux événements vous réservent !</summary>
+    <published>2021-11-22T12:10:00+01:00</published>
   </entry>
   <entry>
     <id>14504</id>
@@ -2045,5 +2003,38 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614083231577.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17120">Lancement de l'événement « Les mille questions de Paimon »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/17120" rel="alternate"/>
     <published>2021-11-19T17:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17167</id>
+    <title>Vœux « Nouvelles mystérieuses » : taux d'obtention boosté pour Albedo · Kreideprinz (Géo) !</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17167">Vœux « Nouvelles mystérieuses » : taux d'obtention boosté pour Albedo · Kreideprinz (Géo) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17167" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17168</id>
+    <title>Vœux « Flots dansants » : taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17168">Vœux « Flots dansants » : taux d'obtention boosté pour Eula · Vague déferlante (Cryo) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17168" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17169</id>
+    <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Ode au chant du vent (Épée à deux mains) !</title>
+    <updated>2021-11-22T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17169">Vœux « Incarnation divine » : taux d'obtention boosté pour Serment de la liberté (Épée à une main) et Ode au chant du vent (Épée à deux mains) !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17169" rel="alternate"/>
+    <published>2021-11-22T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17139</id>
+    <title>Paimon vous présente un aperçu des nouveaux événements de la version 2.3 - Partie I</title>
+    <updated>2021-11-22T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111914423518847.jpg"><br/><br/>Bonjour, voyageurs ! L'arrivée de la version 2.3 approche. Regardons ensemble ce que les nouveaux événements vous réservent !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17139">Paimon vous présente un aperçu des nouveaux événements de la version 2.3 - Partie I</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17139" rel="alternate"/>
+    <summary>Bonjour, voyageurs ! L'arrivée de la version 2.3 approche. Regardons ensemble ce que les nouveaux événements vous réservent !</summary>
+    <published>2021-11-22T12:10:00+01:00</published>
   </entry>
 </feed>

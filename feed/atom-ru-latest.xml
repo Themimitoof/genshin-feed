@@ -2,66 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-11-22T03:11:23.691708+00:00</updated>
+  <updated>2021-11-22T04:13:22.570855+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>14684</id>
-    <title>Браузерное событие «Воспоминания в летнюю ночь» стартовало!</title>
-    <updated>2021-08-05T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511144215947.jpg"><br/><br/>Воспоминания в летнюю ночь<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14684">Браузерное событие «Воспоминания в летнюю ночь» стартовало!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14684" rel="alternate"/>
-    <summary>Воспоминания в летнюю ночь</summary>
-    <published>2021-08-05T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14735</id>
-    <title>«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-08-07T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711123565971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14735">«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14735" rel="alternate"/>
-    <published>2021-08-07T18:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14763</id>
-    <title>«Кажется, не стоило сегодня вообще вылазить из кровати», - «Мудзина-ниндзя» Саю</title>
-    <updated>2021-08-07T18:20:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080717403127008.jpg"><br/><br/>«Мудзина-ниндзя» Саю<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14763">«Кажется, не стоило сегодня вообще вылазить из кровати», - «Мудзина-ниндзя» Саю</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14763" rel="alternate"/>
-    <summary>«Мудзина-ниндзя» Саю</summary>
-    <published>2021-08-07T18:20:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14767</id>
-    <title>Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</title>
-    <updated>2021-08-08T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718394531908.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14767">Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14767" rel="alternate"/>
-    <summary>Молитва «Воплощение божества»</summary>
-    <published>2021-08-08T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14765</id>
-    <title>Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</title>
-    <updated>2021-08-08T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718364412651.jpg"><br/><br/>Молитва «Гобелен золотого пламени»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14765">Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14765" rel="alternate"/>
-    <summary>Молитва «Гобелен золотого пламени»</summary>
-    <published>2021-08-08T12:01:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14714</id>
-    <title>Обзор событий версии 2.0 - Выпуск II</title>
-    <updated>2021-08-08T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080619031767870.jpg"><br/><br/>Обзор событий версии 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14714">Обзор событий версии 2.0 - Выпуск II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14714" rel="alternate"/>
-    <summary>Обзор событий версии 2.0</summary>
-    <published>2021-08-08T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>14782</id>
     <title>«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</title>
@@ -917,5 +864,59 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17191" rel="alternate"/>
     <summary>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</summary>
     <published>2021-11-22T11:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17174</id>
+    <title>Молитва «Таинственные секреты» - Повышен шанс получить персонажа «Принц мела» Альбедо (Гео) и других!</title>
+    <updated>2021-11-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211120/2021112016014045650.jpg"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17174">Молитва «Таинственные секреты» - Повышен шанс получить персонажа «Принц мела» Альбедо (Гео) и других!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17174" rel="alternate"/>
+    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
+    <published>2021-11-22T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17175</id>
+    <title>Молитва «Рождённая морской волной» - Повышен шанс получить персонажа «Танец морской пены» Эола (Крио)</title>
+    <updated>2021-11-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211120/2021112016205044224.jpg"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17175">Молитва «Рождённая морской волной» - Повышен шанс получить персонажа «Танец морской пены» Эола (Крио)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17175" rel="alternate"/>
+    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
+    <published>2021-11-22T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17176</id>
+    <title>Молитва «Воплощение божества»: повышен шанс получить оружие Клятва свободы (Одноручное) и Песнь разбитых сосен (Двуручное)!</title>
+    <updated>2021-11-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211120/2021112016353237145.jpg"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17176">Молитва «Воплощение божества»: повышен шанс получить оружие Клятва свободы (Одноручное) и Песнь разбитых сосен (Двуручное)!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17176" rel="alternate"/>
+    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
+    <published>2021-11-22T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17204</id>
+    <title>Объявление о технических работах</title>
+    <updated>2021-11-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212011813956.jpg"><br/><br/>24 ноября 2021 в 01:00 (по МСК) пройдёт обновление игры до версии 2.3.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17204">Объявление о технических работах</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17204" rel="alternate"/>
+    <summary>24 ноября 2021 в 01:00 (по МСК) пройдёт обновление игры до версии 2.3.</summary>
+    <published>2021-11-22T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17205</id>
+    <title>Объявление о временной недоступности платёжных каналов</title>
+    <updated>2021-11-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112212025527654.jpg"><br/><br/>24 ноября 2021 в 01:00 (по МСК) начнётся обслуживание внутренней платёжной платформы, из-за чего платёжные каналы American Express и JCB на официальном сайте и в игре будут временно недоступны.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17205">Объявление о временной недоступности платёжных каналов</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17205" rel="alternate"/>
+    <summary>24 ноября 2021 в 01:00 (по МСК) начнётся обслуживание внутренней платёжной платформы, из-за чего платёжные каналы American Express и JCB на официальном сайте и в игре будут временно недоступны.</summary>
+    <published>2021-11-22T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17141</id>
+    <title>Обзор событий версии 2.3 «Белая пыль и снежная тень» - Выпуск I</title>
+    <updated>2021-11-22T12:10:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111915362691891.jpg"><br/><br/>Привет, Путешественники! Выход версии 2.3 уже не за горами. Давайте посмотрим, что нас ожидает!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17141">Обзор событий версии 2.3 «Белая пыль и снежная тень» - Выпуск I</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17141" rel="alternate"/>
+    <summary>Привет, Путешественники! Выход версии 2.3 уже не за горами. Давайте посмотрим, что нас ожидает!</summary>
+    <published>2021-11-22T12:10:00+03:00</published>
   </entry>
 </feed>

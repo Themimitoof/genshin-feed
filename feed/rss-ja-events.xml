@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Nov 2021 03:11:11 +0000</lastBuildDate>
-    <item>
-      <title>「無相の交響詩」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/7977</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210113/2021011316482056317.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/7977">「無相の交響詩」イベント予告</a>]]></description>
-      <guid isPermaLink="false">7977</guid>
-      <pubDate>Thu, 14 Jan 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 04:13:09 +0000</lastBuildDate>
     <item>
       <title>「無相の交響詩」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8009</link>
@@ -730,6 +723,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614471826450.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17122">「パイモンのクイズタイム！」イベント紹介</a>]]></description>
       <guid isPermaLink="false">17122</guid>
       <pubDate>Fri, 19 Nov 2021 17:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「デートイベント・4」任務予告</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17144</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111919401075999.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17144">「デートイベント・4」任務予告</a>]]></description>
+      <guid isPermaLink="false">17144</guid>
+      <pubDate>Mon, 22 Nov 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
