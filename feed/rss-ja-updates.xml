@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Nov 2021 02:26:19 +0000</lastBuildDate>
-    <item>
-      <title>ゲーム内一部のテキストの修正および調整について</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5917</link>
-      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5917">ゲーム内一部のテキストの修正および調整について</a>]]></description>
-      <guid isPermaLink="false">5917</guid>
-      <pubDate>Sat, 10 Oct 2020 17:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>マルチプレイチャレンジイベント「元素クルーシブル」開催のお知らせ</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5910</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201010/2020101018393684947.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5910">マルチプレイチャレンジイベント「元素クルーシブル」開催のお知らせ</a>]]></description>
-      <guid isPermaLink="false">5910</guid>
-      <pubDate>Sat, 10 Oct 2020 19:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 03:11:09 +0000</lastBuildDate>
     <item>
       <title>「元素クルーシブル」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5929</link>
@@ -716,6 +702,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101214491557998.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16451">Ver.2.2「霧の海と謎の秘境」更新内容について</a>]]></description>
       <guid isPermaLink="false">16451</guid>
       <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.3「白雪に潜みし影」バージョンアップのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17181</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210054366059.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17181">Ver.2.3「白雪に潜みし影」バージョンアップのお知らせ</a>]]></description>
+      <guid isPermaLink="false">17181</guid>
+      <pubDate>Mon, 22 Nov 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver2.3事前ダウンロード開始</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17142</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111916174783977.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17142">Ver2.3事前ダウンロード開始</a>]]></description>
+      <guid isPermaLink="false">17142</guid>
+      <pubDate>Mon, 22 Nov 2021 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 22 Nov 2021 02:26:29 +0000</lastBuildDate>
-    <item>
-      <title>แจ้งการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์กับความฝันอันว่างเปล่า"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14297</link>
-      <description>นักเดินทางที่รัก:</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071819353342206.jpg"><br/><br/>นักเดินทางที่รัก:<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14297">แจ้งการอัปเดตเวอร์ชัน 2.0 "สายฟ้านิรันดร์กับความฝันอันว่างเปล่า"</a>]]></content:encoded>
-      <guid isPermaLink="false">14297</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 03:11:29 +0000</lastBuildDate>
     <item>
       <title>การอธิษฐาน "ตำหนักกระเรียนขาว": โอกาสได้รับ UP "กระเรียนขาวกลางหิมะ - Kamisato Ayaka (น้ำแข็ง)" !</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14298</link>
@@ -748,6 +740,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111221083713895.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17100">หน้าตัวอย่างเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" เปิดแล้ว!</a>]]></description>
       <guid isPermaLink="false">17100</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>แจ้งการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17185</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210350374284.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17185">แจ้งการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</a>]]></description>
+      <guid isPermaLink="false">17185</guid>
+      <pubDate>Mon, 22 Nov 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

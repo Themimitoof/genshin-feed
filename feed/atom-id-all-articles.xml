@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-11-22T02:26:18.289480+00:00</updated>
+  <updated>2021-11-22T03:11:07.352543+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -315,15 +315,6 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14328</id>
-    <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Mistsplitter Reforged (Sword) dan Skyward Spine (Polearm) Meningkat!</title>
-    <updated>2021-07-19T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910430821686.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan ""Epitome Invocation"" untuk membuat anggota party menjadi lebih kuat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14328">Event Permohonan "Epitome Invocation": Persentase Perolehan Mistsplitter Reforged (Sword) dan Skyward Spine (Polearm) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14328" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan ""Epitome Invocation"" untuk membuat anggota party menjadi lebih kuat!</summary>
-    <published>2021-07-19T12:01:00+07:00</published>
   </entry>
   <entry>
     <id>14331</id>
@@ -1222,13 +1213,13 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <published>2021-11-13T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14615</id>
-    <title>"Kembang Api Menyala Sesaat, Tapi Persahabatan Berlangsung Selamanya." — "Frolicking Flames" Yoimiya</title>
-    <updated>2021-08-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315440843542.jpg"><br/><br/>Hari ini ahli kembang api dari Naganohara Fireworks, Yoimiya, mau kenalan dengan kalian semua.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14615">"Kembang Api Menyala Sesaat, Tapi Persahabatan Berlangsung Selamanya." — "Frolicking Flames" Yoimiya</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14615" rel="alternate"/>
-    <summary>Hari ini ahli kembang api dari Naganohara Fireworks, Yoimiya, mau kenalan dengan kalian semua.</summary>
-    <published>2021-08-04T12:00:00+07:00</published>
+    <id>17196</id>
+    <title>Pengumuman Update v2.3 "Debu dan Bayang-Bayang Salju"</title>
+    <updated>2021-11-22T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210495626415.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17196">Pengumuman Update v2.3 "Debu dan Bayang-Bayang Salju"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17196" rel="alternate"/>
+    <summary>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.</summary>
+    <published>2021-11-22T11:00:00+07:00</published>
   </entry>
   <entry>
     <id>14656</id>
@@ -2129,5 +2120,14 @@ Hari ini, ayo kita kenalan dengan Thoma!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17150" rel="alternate"/>
     <summary/>
     <published>2021-11-19T20:05:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17196</id>
+    <title>Pengumuman Update v2.3 "Debu dan Bayang-Bayang Salju"</title>
+    <updated>2021-11-22T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210495626415.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17196">Pengumuman Update v2.3 "Debu dan Bayang-Bayang Salju"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17196" rel="alternate"/>
+    <summary>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.</summary>
+    <published>2021-11-22T11:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-11-22T02:26:25.732735+00:00</updated>
+  <updated>2021-11-22T03:11:23.640639+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -326,15 +326,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>14294</id>
-    <title>Nova Oração "Encarnação Divina": Probabilidade Aumentada de Obtenção de "Cortadora da Neblina Reforjada (Espada)", "Espinha Celestial (Lança)"!</title>
-    <updated>2021-07-19T12:01:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072020220034406.jpg"><br/><br/>Durante o período do Evento, o Viajante poderá na Oração ""Encarnação Divina"" obter mais armas e personagens, aumentando a força de combate da equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14294">Nova Oração "Encarnação Divina": Probabilidade Aumentada de Obtenção de "Cortadora da Neblina Reforjada (Espada)", "Espinha Celestial (Lança)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14294" rel="alternate"/>
-    <summary>Durante o período do Evento, o Viajante poderá na Oração ""Encarnação Divina"" obter mais armas e personagens, aumentando a força de combate da equipe!</summary>
-    <published>2021-07-19T12:01:00+01:00</published>
   </entry>
   <entry>
     <id>14296</id>
@@ -1231,13 +1222,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-11-13T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>14723</id>
-    <title>Demo da Nova Personagem de Genshin Impact - "Sayu: Arte Yoohoo, Escudo Mujina"</title>
-    <updated>2021-08-07T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710522230201.jpg"><br/><br/>Sayu não sabe o que é pior... Ser confundida com um tanuki ou não poder tirar uma soneca.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14723">Demo da Nova Personagem de Genshin Impact - "Sayu: Arte Yoohoo, Escudo Mujina"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14723" rel="alternate"/>
-    <summary>Sayu não sabe o que é pior... Ser confundida com um tanuki ou não poder tirar uma soneca.</summary>
-    <published>2021-08-07T18:00:00+01:00</published>
+    <id>17186</id>
+    <title>Anúncio de Atualização da Versão 2.3 "Poeira e Neve Escura"</title>
+    <updated>2021-11-22T11:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210334162960.jpg"><br/><br/>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17186">Anúncio de Atualização da Versão 2.3 "Poeira e Neve Escura"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17186" rel="alternate"/>
+    <summary>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.</summary>
+    <published>2021-11-22T11:00:00+00:00</published>
   </entry>
   <entry>
     <id>14738</id>
@@ -2134,5 +2125,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17121" rel="alternate"/>
     <summary>Novo desafio, novo objetivo, participe diariamente do Quiz da Paimon em HoYoLAB para obter Mora como recompensa para cada resposta certa!</summary>
     <published>2021-11-19T17:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17186</id>
+    <title>Anúncio de Atualização da Versão 2.3 "Poeira e Neve Escura"</title>
+    <updated>2021-11-22T11:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210334162960.jpg"><br/><br/>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17186">Anúncio de Atualização da Versão 2.3 "Poeira e Neve Escura"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17186" rel="alternate"/>
+    <summary>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.</summary>
+    <published>2021-11-22T11:00:00+00:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 22 Nov 2021 02:26:11 +0000</lastBuildDate>
-    <item>
-      <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Einhänder – Widerschein des Nebelsplitters“ und „Stangenwaffe – Himmelsgrat“!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14263</link>
-      <description>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071714173053536.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14263">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Einhänder – Widerschein des Nebelsplitters“ und „Stangenwaffe – Himmelsgrat“!</a>]]></content:encoded>
-      <guid isPermaLink="false">14263</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 03:10:53 +0000</lastBuildDate>
     <item>
       <title>Gebet „Kranichhof“: Höhere Wahrscheinlichkeit für „Eisnebelreiher – Kamisato Ayaka (Kryo)“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14264</link>
@@ -840,6 +832,16 @@ Vorstellungsseite zu Version 2.3 „Schatten im Schneesturm“ jetzt verfügbar!
 Vorstellungsseite zu Version 2.3 „Schatten im Schneesturm“ jetzt verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17098">Vorstellungsseite zu Version 2.3 „Schatten im Schneesturm“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">17098</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mitteilung zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17198</link>
+      <description>Lieber Reisender,
+um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210532578856.jpg"><br/><br/>Lieber Reisender,
+um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17198">Mitteilung zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“</a>]]></content:encoded>
+      <guid isPermaLink="false">17198</guid>
+      <pubDate>Mon, 22 Nov 2021 11:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

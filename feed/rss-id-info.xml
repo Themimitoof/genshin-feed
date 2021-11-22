@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 22 Nov 2021 02:26:16 +0000</lastBuildDate>
-    <item>
-      <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Mistsplitter Reforged (Sword) dan Skyward Spine (Polearm) Meningkat!</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/14328</link>
-      <description>Dapatkan Senjata dan Karakter di Event Permohonan ""Epitome Invocation"" untuk membuat anggota party menjadi lebih kuat!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910430821686.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan ""Epitome Invocation"" untuk membuat anggota party menjadi lebih kuat!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14328">Event Permohonan "Epitome Invocation": Persentase Perolehan Mistsplitter Reforged (Sword) dan Skyward Spine (Polearm) Meningkat!</a>]]></content:encoded>
-      <guid isPermaLink="false">14328</guid>
-      <pubDate>Mon, 19 Jul 2021 12:01:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 03:11:02 +0000</lastBuildDate>
     <item>
       <title>Preview Event v2.0 Edisi 1</title>
       <link>https://genshin.mihoyo.com/id/news/detail/14331</link>
@@ -813,6 +805,14 @@ Hari ini, ayo kita kenalan dengan Thoma!<br><br>Read more on <a href="https://ge
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220382189620.jpg"><br/><br/>Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17096">Halaman Preview Versi 2.3 "Debu dan Bayang-Bayang Salju" Resmi Dibuka!</a>]]></content:encoded>
       <guid isPermaLink="false">17096</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Pengumuman Update v2.3 "Debu dan Bayang-Bayang Salju"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17196</link>
+      <description>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210495626415.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17196">Pengumuman Update v2.3 "Debu dan Bayang-Bayang Salju"</a>]]></content:encoded>
+      <guid isPermaLink="false">17196</guid>
+      <pubDate>Mon, 22 Nov 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-11-22T02:26:05.471754+00:00</updated>
+  <updated>2021-11-22T03:10:40.605384+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -346,17 +346,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>14316</id>
-    <title>Genshin Impact OST Album - The Shimmering Voyage</title>
-    <updated>2021-07-19T13:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910114188676.jpg"><br/><br/>Genshin Impact's Version 1.0 Commemorative OST album "The Shimmering Voyage" is out now! The album's four discs "Fairytale of the Isles," "Blazing Stars," "Roar of the Formidable," and "A Stranger's Sojourn," feature 68 remarkable tracks composed by Yu-Peng Chen @HOYO-MiX and produced by the HOYO-MiX team, each one an original composition from Genshin Impact.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14316">Genshin Impact OST Album - The Shimmering Voyage</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14316" rel="alternate"/>
-    <summary>Genshin Impact's Version 1.0 Commemorative OST album "The Shimmering Voyage" is out now! The album's four discs "Fairytale of the Isles," "Blazing Stars," "Roar of the Formidable," and "A Stranger's Sojourn," feature 68 remarkable tracks composed by Yu-Peng Chen @HOYO-MiX and produced by the HOYO-MiX team, each one an original composition from Genshin Impact.
-</summary>
-    <published>2021-07-19T13:30:00-04:00</published>
   </entry>
   <entry>
     <id>14368</id>
@@ -1340,12 +1329,13 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <published>2021-11-19T19:00:00-05:00</published>
   </entry>
   <entry>
-    <id>14721</id>
-    <title>Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</title>
-    <updated>2021-08-07T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710503373764.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14721">Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14721" rel="alternate"/>
-    <published>2021-08-07T18:00:00-04:00</published>
+    <id>17190</id>
+    <title>"Shadows Amidst Snowstorms" Version 2.3 Update Notice</title>
+    <updated>2021-11-22T11:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210393610845.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17190">"Shadows Amidst Snowstorms" Version 2.3 Update Notice</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17190" rel="alternate"/>
+    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
+    <published>2021-11-22T11:00:00-05:00</published>
   </entry>
   <entry>
     <id>14746</id>
@@ -2313,5 +2303,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920100698991.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17151">[HoYo FEST FAQ] Singapore & Malaysia & Philippines </a>]]></content>
     <link href="https://genshin.mihoyo.com/en/news/detail/17151" rel="alternate"/>
     <published>2021-11-19T20:10:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17190</id>
+    <title>"Shadows Amidst Snowstorms" Version 2.3 Update Notice</title>
+    <updated>2021-11-22T11:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210393610845.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17190">"Shadows Amidst Snowstorms" Version 2.3 Update Notice</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17190" rel="alternate"/>
+    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
+    <published>2021-11-22T11:00:00-05:00</published>
   </entry>
 </feed>

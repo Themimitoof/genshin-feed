@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Nov 2021 02:26:03 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact OST Album - The Shimmering Voyage</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14316</link>
-      <description>Genshin Impact's Version 1.0 Commemorative OST album "The Shimmering Voyage" is out now! The album's four discs "Fairytale of the Isles," "Blazing Stars," "Roar of the Formidable," and "A Stranger's Sojourn," feature 68 remarkable tracks composed by Yu-Peng Chen @HOYO-MiX and produced by the HOYO-MiX team, each one an original composition from Genshin Impact.
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210719/2021071910114188676.jpg"><br/><br/>Genshin Impact's Version 1.0 Commemorative OST album "The Shimmering Voyage" is out now! The album's four discs "Fairytale of the Isles," "Blazing Stars," "Roar of the Formidable," and "A Stranger's Sojourn," feature 68 remarkable tracks composed by Yu-Peng Chen @HOYO-MiX and produced by the HOYO-MiX team, each one an original composition from Genshin Impact.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14316">Genshin Impact OST Album - The Shimmering Voyage</a>]]></content:encoded>
-      <guid isPermaLink="false">14316</guid>
-      <pubDate>Mon, 19 Jul 2021 13:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 03:10:36 +0000</lastBuildDate>
     <item>
       <title>Character Demo - "Kamisato Ayaka: Camellia in Winter Snow" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14368</link>
@@ -899,6 +889,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17146">Genshin Impact Merch Notice at Anime NYC</a>]]></description>
       <guid isPermaLink="false">17146</guid>
       <pubDate>Fri, 19 Nov 2021 19:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Shadows Amidst Snowstorms" Version 2.3 Update Notice</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17190</link>
+      <description>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210393610845.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17190">"Shadows Amidst Snowstorms" Version 2.3 Update Notice</a>]]></content:encoded>
+      <guid isPermaLink="false">17190</guid>
+      <pubDate>Mon, 22 Nov 2021 11:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 22 Nov 2021 02:26:08 +0000</lastBuildDate>
-    <item>
-      <title>「不動鳴神，泡影斷滅」2.0版本更新通知</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14258</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071711322663551.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14258">「不動鳴神，泡影斷滅」2.0版本更新通知</a>]]></description>
-      <guid isPermaLink="false">14258</guid>
-      <pubDate>Mon, 19 Jul 2021 10:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 03:10:47 +0000</lastBuildDate>
     <item>
       <title>「白鷺之庭」祈願：「白鷺霜華·神里綾華(冰)」機率UP！</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14283</link>
@@ -795,6 +788,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211112/2021111220303530254.jpg"><br/><br/>2.3新版本「皚塵與雪影」先行展示網頁現已開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17094">2.3新版本「皚塵與雪影」先行展示網頁現已開放！</a>]]></content:encoded>
       <guid isPermaLink="false">17094</guid>
       <pubDate>Sat, 13 Nov 2021 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「皚塵與雪影」2.3版本更新通知</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17195</link>
+      <description>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210482611038.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17195">「皚塵與雪影」2.3版本更新通知</a>]]></content:encoded>
+      <guid isPermaLink="false">17195</guid>
+      <pubDate>Mon, 22 Nov 2021 11:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

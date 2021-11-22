@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 22 Nov 2021 02:26:28 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "ตามรอยสายฟ้า"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14455</link>
-      <description>กิจกรรมใหม่ "ตามรอยสายฟ้า" กำลังจะเริ่มขึ้นแล้ว!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023190551683.jpg"><br/><br/>กิจกรรมใหม่ "ตามรอยสายฟ้า" กำลังจะเริ่มขึ้นแล้ว!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14455">คำอธิบายเกมเพลย์ "ตามรอยสายฟ้า"</a>]]></content:encoded>
-      <guid isPermaLink="false">14455</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Nov 2021 03:11:28 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] เก็บตกตัวละคร - "Kamisato Ayaka: กระเรียนร่ายรำกลางหิมะ"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14435</link>
@@ -742,6 +734,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920030031083.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17149">[HoYo FEST FAQ] Thailand - Nana Coffee Roasters @ Niche3 Praditmanoonthum</a>]]></description>
       <guid isPermaLink="false">17149</guid>
       <pubDate>Fri, 19 Nov 2021 20:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>แจ้งการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17185</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210350374284.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17185">แจ้งการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</a>]]></description>
+      <guid isPermaLink="false">17185</guid>
+      <pubDate>Mon, 22 Nov 2021 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

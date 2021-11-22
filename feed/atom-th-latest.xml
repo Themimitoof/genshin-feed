@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-11-22T02:26:28.795224+00:00</updated>
+  <updated>2021-11-22T03:11:28.322317+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14455</id>
-    <title>คำอธิบายเกมเพลย์ "ตามรอยสายฟ้า"</title>
-    <updated>2021-07-21T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023190551683.jpg"><br/><br/>กิจกรรมใหม่ "ตามรอยสายฟ้า" กำลังจะเริ่มขึ้นแล้ว!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14455">คำอธิบายเกมเพลย์ "ตามรอยสายฟ้า"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14455" rel="alternate"/>
-    <summary>กิจกรรมใหม่ "ตามรอยสายฟ้า" กำลังจะเริ่มขึ้นแล้ว!</summary>
-    <published>2021-07-21T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>14435</id>
     <title>[Genshin Impact] เก็บตกตัวละคร - "Kamisato Ayaka: กระเรียนร่ายรำกลางหิมะ"</title>
@@ -861,5 +852,13 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/17149" rel="alternate"/>
     <summary/>
     <published>2021-11-19T20:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17185</id>
+    <title>แจ้งการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</title>
+    <updated>2021-11-22T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210350374284.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17185">แจ้งการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17185" rel="alternate"/>
+    <published>2021-11-22T11:00:00+07:00</published>
   </entry>
 </feed>

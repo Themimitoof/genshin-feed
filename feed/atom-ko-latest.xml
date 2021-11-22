@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-11-22T02:26:20.681902+00:00</updated>
+  <updated>2021-11-22T03:11:12.970709+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14509</id>
-    <title>「백로의 약속」보상 웹이벤트 오픈</title>
-    <updated>2021-07-26T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072611210585790.jpg"><br/><br/>「당신과의 만남을 오랫동안 기다리고 있었어요.」「백로의 약속」——<원신> 신규 캐릭터: 카미사토 아야카 H5 웹이벤트 정식 출시<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14509">「백로의 약속」보상 웹이벤트 오픈</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14509" rel="alternate"/>
-    <summary>「당신과의 만남을 오랫동안 기다리고 있었어요.」「백로의 약속」——&lt;원신&gt; 신규 캐릭터: 카미사토 아야카 H5 웹이벤트 정식 출시</summary>
-    <published>2021-07-26T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>14649</id>
     <title>폭죽이 터지는 건 찰나지만, 마음은 오래가지~ -「유염화무」·요이미야</title>
@@ -953,5 +944,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17131" rel="alternate"/>
     <summary>새로운 도전! 새로운 목표~! 매일 HoYoLAB에서 페이몬의 퀴즈 도전에 참여해 정답을 맞히고 모라 보상을 획득해 봐~!</summary>
     <published>2021-11-19T17:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17200</id>
+    <title>「눈보라 속 그림자」 2.3 버전 업데이트 안내</title>
+    <updated>2021-11-22T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210564245491.jpg"><br/><br/>2.3 버전 업데이트 공지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17200">「눈보라 속 그림자」 2.3 버전 업데이트 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17200" rel="alternate"/>
+    <summary>2.3 버전 업데이트 공지</summary>
+    <published>2021-11-22T11:00:00+09:00</published>
   </entry>
 </feed>

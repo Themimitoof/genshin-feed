@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-11-22T02:26:02.199779+00:00</updated>
+  <updated>2021-11-22T03:10:34.513311+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14721</id>
-    <title>Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</title>
-    <updated>2021-08-07T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710503373764.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14721">Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14721" rel="alternate"/>
-    <published>2021-08-07T18:00:00-04:00</published>
-  </entry>
   <entry>
     <id>14746</id>
     <title>"Seems like I could have just stayed in bed today." — "Mujina Ninja" Sayu</title>
@@ -983,5 +975,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920100698991.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17151">[HoYo FEST FAQ] Singapore & Malaysia & Philippines </a>]]></content>
     <link href="https://genshin.mihoyo.com/en/news/detail/17151" rel="alternate"/>
     <published>2021-11-19T20:10:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17190</id>
+    <title>"Shadows Amidst Snowstorms" Version 2.3 Update Notice</title>
+    <updated>2021-11-22T11:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210393610845.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17190">"Shadows Amidst Snowstorms" Version 2.3 Update Notice</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17190" rel="alternate"/>
+    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
+    <published>2021-11-22T11:00:00-05:00</published>
   </entry>
 </feed>

@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-11-22T02:26:31.405809+00:00</updated>
+  <updated>2021-11-22T03:11:32.897581+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14446</id>
-    <title>Giới Thiệu Cập Nhật Phiên Bản 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt"</title>
-    <updated>2021-07-21T07:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022450774646.jpg"><br/><br/>Nhà Lữ Hành thân mến:
-Dưới đây là nội dung cập nhật và đền bù trong phiên bản 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt".<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14446">Giới Thiệu Cập Nhật Phiên Bản 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14446" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến:
-Dưới đây là nội dung cập nhật và đền bù trong phiên bản 2.0 "Lôi Thần Uy Nghiêm, Bất Sinh Bất Diệt".</summary>
-    <published>2021-07-21T07:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14459</id>
     <title>Hướng dẫn cách chơi "Truy Tìm Vết Sấm"	</title>
@@ -874,5 +863,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610431890047.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17116">Sự kiện trả lời "Mười vạn câu hỏi vì sao của Paimon" chính thức bắt đầu!</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17116" rel="alternate"/>
     <published>2021-11-19T17:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17192</id>
+    <title>Thông Báo Cập Nhật Phiên Bản 2.3 "Ảo Ảnh Giữa Bão Tuyết"</title>
+    <updated>2021-11-22T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210403348280.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17192">Thông Báo Cập Nhật Phiên Bản 2.3 "Ảo Ảnh Giữa Bão Tuyết"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17192" rel="alternate"/>
+    <published>2021-11-22T11:00:00+07:00</published>
   </entry>
 </feed>

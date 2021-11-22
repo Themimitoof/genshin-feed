@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-11-22T02:26:08.072539+00:00</updated>
+  <updated>2021-11-22T03:10:45.911409+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14300</id>
-    <title>珍珠之歌 The Shimmering Voyage | 原神</title>
-    <updated>2021-07-19T14:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210718/2021071822502539423.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14300">珍珠之歌 The Shimmering Voyage | 原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14300" rel="alternate"/>
-    <summary/>
-    <published>2021-07-19T14:00:00+08:00</published>
-  </entry>
   <entry>
     <id>14392</id>
     <title>角色展示 -「神里綾華：寒椿吹雪」｜原神</title>
@@ -902,5 +893,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17119" rel="alternate"/>
     <summary>新的挑戰，新的目標，每日參與HoYoLAB派蒙的問答挑戰，答對問題可獲得摩拉獎勵！</summary>
     <published>2021-11-19T17:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17195</id>
+    <title>「皚塵與雪影」2.3版本更新通知</title>
+    <updated>2021-11-22T11:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112210482611038.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17195">「皚塵與雪影」2.3版本更新通知</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17195" rel="alternate"/>
+    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
+    <published>2021-11-22T11:00:00+08:00</published>
   </entry>
 </feed>
