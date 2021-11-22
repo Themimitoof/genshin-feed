@@ -2,35 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-11-22T06:12:39.578825+00:00</updated>
+  <updated>2021-11-22T07:11:05.040954+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14637</id>
-    <title>[Genshin Impact] Video nhân vật Yoimiya - Biểu tượng mùa hè trên Đảo Narukami</title>
-    <updated>2021-08-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319272813177.jpg"><br/><br/>Vị khách từ phương xa đến Hanamizaka, đang hỏi han khắp nơi với mong muốn tìm thấy "điều tuyệt vời nhất vào mùa hè trên Đảo Narukami"...
-Nhưng không hề nhận ra bóng dáng rực rỡ như tia lửa ấy đang toả sáng lấp lánh ngay trước mắt.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14637">[Genshin Impact] Video nhân vật Yoimiya - Biểu tượng mùa hè trên Đảo Narukami</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14637" rel="alternate"/>
-    <summary>Vị khách từ phương xa đến Hanamizaka, đang hỏi han khắp nơi với mong muốn tìm thấy "điều tuyệt vời nhất vào mùa hè trên Đảo Narukami"...
-Nhưng không hề nhận ra bóng dáng rực rỡ như tia lửa ấy đang toả sáng lấp lánh ngay trước mắt.</summary>
-    <published>2021-08-04T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14676</id>
-    <title>Sự kiện web có thưởng "Ký Ức Đêm Hè" đã mở</title>
-    <updated>2021-08-05T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511050485815.jpg"><br/><br/>Pháo hoa nở trên bầu trời, làm bừng sáng đôi mắt của thiếu nữ bên cạnh...
-[Genshin Impact] Sự kiện web "Ký Ức Đêm Hè" của nhân vật mới Yoimiya đã chính thức ra mắt.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14676">Sự kiện web có thưởng "Ký Ức Đêm Hè" đã mở</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14676" rel="alternate"/>
-    <summary>Pháo hoa nở trên bầu trời, làm bừng sáng đôi mắt của thiếu nữ bên cạnh...
-[Genshin Impact] Sự kiện web "Ký Ức Đêm Hè" của nhân vật mới Yoimiya đã chính thức ra mắt.</summary>
-    <published>2021-08-05T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14737</id>
     <title>Giới thiệu nhân vật trong Genshin Impact - "Sayu: Yoohoo Chi Thuật, Mujina Chạy Trốn"</title>
@@ -856,6 +834,22 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <updated>2021-11-22T12:00:00+07:00</updated>
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920541595032.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17160">Cầu Nguyện "Hơi Thở Thần Bí": UP Xác Suất "Kreideprinz - Albedo (Nham)"!</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17160" rel="alternate"/>
+    <published>2021-11-22T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17225</id>
+    <title>Thông Báo Bảo Trì Hệ Thống</title>
+    <updated>2021-11-22T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112215011496562.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17225">Thông Báo Bảo Trì Hệ Thống</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17225" rel="alternate"/>
+    <published>2021-11-22T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17226</id>
+    <title>Thông Báo Tạm Ngừng Kênh Thanh Toán	</title>
+    <updated>2021-11-22T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211122/2021112215022881310.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17226">Thông Báo Tạm Ngừng Kênh Thanh Toán	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17226" rel="alternate"/>
     <published>2021-11-22T12:00:00+07:00</published>
   </entry>
   <entry>
