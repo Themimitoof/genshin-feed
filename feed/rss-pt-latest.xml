@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 23 Nov 2021 22:10:08 +0000</lastBuildDate>
-    <item>
-      <title>Descrição do Modo de Jogo "Teatro Mechanicus - Jogo Engenhoso"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14856</link>
-      <description>Graças aos esforços do Representante do Teatro Mechanicus Komakata, o jogo favorito de todos de Liyue, está finalmente disponível em Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015242194521.jpg"><br/><br/>Graças aos esforços do Representante do Teatro Mechanicus Komakata, o jogo favorito de todos de Liyue, está finalmente disponível em Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14856">Descrição do Modo de Jogo "Teatro Mechanicus - Jogo Engenhoso"</a>]]></content:encoded>
-      <guid isPermaLink="false">14856</guid>
-      <pubDate>Wed, 11 Aug 2021 10:30:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Coleção Variada de Genshin Impact - "Sayu: Roda Fuufuu Rolante"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14884</link>
-      <description>Comer tudo o que há de gostoso, e trabalhar menos que puder, é um dos princípios da nossa pequena ninja, Sayu. Melhor ainda seria se esse princípio pudesse ajudar ela a crescer.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081019133145819.jpg"><br/><br/>Comer tudo o que há de gostoso, e trabalhar menos que puder, é um dos princípios da nossa pequena ninja, Sayu. Melhor ainda seria se esse princípio pudesse ajudar ela a crescer.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14884">Coleção Variada de Genshin Impact - "Sayu: Roda Fuufuu Rolante"</a>]]></content:encoded>
-      <guid isPermaLink="false">14884</guid>
-      <pubDate>Wed, 11 Aug 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 23:10:41 +0000</lastBuildDate>
     <item>
       <title>Descrição do Modo de Jogo "Técnica Geneishin"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15033</link>
@@ -810,6 +794,22 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111911012967290.jpg"><br/><br/>Olá Viajantes~ A versão 2.3 já está para chegar, venha dar uma olhada agora mesmo nas informações dos novos eventos~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17134">Venha conferir a "Prévia do Evento da Versão 2.3 "Poeira e Neve Escura" - Edição I" junto com a Paimon!</a>]]></content:encoded>
       <guid isPermaLink="false">17134</guid>
       <pubDate>Mon, 22 Nov 2021 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Detalhes da Atualização da Versão 2.3 "Poeira e Neve Escura"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17269</link>
+      <description>Caros Viajantes: Segue na publicação os detalhes de atualização e compensação da Versão 2.3 "Poeira e Neve Escura"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318063964138.jpg"><br/><br/>Caros Viajantes: Segue na publicação os detalhes de atualização e compensação da Versão 2.3 "Poeira e Neve Escura"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17269">Detalhes da Atualização da Versão 2.3 "Poeira e Neve Escura"</a>]]></content:encoded>
+      <guid isPermaLink="false">17269</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evento "Poeira e Neve Escura": Participe para obter a exclusiva arma do evento "Haste de Cinábrio (Espada)"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17273</link>
+      <description>Durante o período do evento, participe do Modo de Jogo, "Nascido da Neve" e conclua os diversos desafios na área da "Espinha do Dragão" do evento "Poeira e Neve Escura" para obter o "Haste de Cinábrio (Espada)"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318173126003.jpg"><br/><br/>Durante o período do evento, participe do Modo de Jogo, "Nascido da Neve" e conclua os diversos desafios na área da "Espinha do Dragão" do evento "Poeira e Neve Escura" para obter o "Haste de Cinábrio (Espada)"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17273">Evento "Poeira e Neve Escura": Participe para obter a exclusiva arma do evento "Haste de Cinábrio (Espada)"</a>]]></content:encoded>
+      <guid isPermaLink="false">17273</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 23 Nov 2021 22:10:13 +0000</lastBuildDate>
-    <item>
-      <title>Hướng dẫn cách chơi "Truy Tìm Vết Sấm"	</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14459</link>
-      <description>Sự kiện mới "Truy Tìm Vết Sấm" sắp mở!    
-Kỹ sư trưởng Muzhen của "Ngôi Sao Chết Chóc" đang tìm mục tiêu quan trọng, cần gấp sự giúp đỡ của Nhà Mạo Hiểm có kinh nghiệm phong phú...    </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023525533500.jpg"><br/><br/>Sự kiện mới "Truy Tìm Vết Sấm" sắp mở!    
-Kỹ sư trưởng Muzhen của "Ngôi Sao Chết Chóc" đang tìm mục tiêu quan trọng, cần gấp sự giúp đỡ của Nhà Mạo Hiểm có kinh nghiệm phong phú...    <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14459">Hướng dẫn cách chơi "Truy Tìm Vết Sấm"	</a>]]></content:encoded>
-      <guid isPermaLink="false">14459</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>[Genshin Impact] - [Kamisato Ayaka: Hạc Vũ Băng Hoa]</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14431</link>
-      <description>Người ta chỉ trông thấy tuyết hạc băng giá, bay lượn nhẹ nhàng, nhưng đâu biết rằng phía sau sự thanh tao ấy là bao công sức khổ luyện của Ayaka.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072018572948115.jpg"><br/><br/>Người ta chỉ trông thấy tuyết hạc băng giá, bay lượn nhẹ nhàng, nhưng đâu biết rằng phía sau sự thanh tao ấy là bao công sức khổ luyện của Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14431">[Genshin Impact] - [Kamisato Ayaka: Hạc Vũ Băng Hoa]</a>]]></content:encoded>
-      <guid isPermaLink="false">14431</guid>
-      <pubDate>Wed, 21 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 23:10:53 +0000</lastBuildDate>
     <item>
       <title>Sự kiện web có thưởng "Giao Ước Bạch Hạc" đã mở</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14502</link>
@@ -754,6 +736,20 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111911273122479.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17137">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.3 "Ảo Ảnh Giữa Bão Tuyết" - Kỳ I</a>]]></description>
       <guid isPermaLink="false">17137</guid>
       <pubDate>Mon, 22 Nov 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giới Thiệu Cập Nhật Phiên Bản 2.3 "Ảo Ảnh Giữa Bão Tuyết"</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17283</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319330894331.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17283">Giới Thiệu Cập Nhật Phiên Bản 2.3 "Ảo Ảnh Giữa Bão Tuyết"</a>]]></description>
+      <guid isPermaLink="false">17283</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự kiện "Ảo Ảnh Giữa Bão Tuyết": Tham gia để có cơ hội nhận được vũ khí đặc biệt của sự kiện "Kiếm Đơn - Con Thoi Chu Sa"</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17285</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319434099352.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17285">Sự kiện "Ảo Ảnh Giữa Bão Tuyết": Tham gia để có cơ hội nhận được vũ khí đặc biệt của sự kiện "Kiếm Đơn - Con Thoi Chu Sa"</a>]]></description>
+      <guid isPermaLink="false">17285</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

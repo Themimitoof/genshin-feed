@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-11-23T22:10:11.375966+00:00</updated>
+  <updated>2021-11-23T23:10:48.262910+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -317,24 +317,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14501</id>
-    <title>Браузерное событие «Встреча с белой цаплей» стартовало!</title>
-    <updated>2021-07-26T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610492552832.jpg"><br/><br/>Браузерное событие «Встреча с белой цаплей»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14501">Браузерное событие «Встреча с белой цаплей» стартовало!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14501" rel="alternate"/>
-    <summary>Браузерное событие «Встреча с белой цаплей»</summary>
-    <published>2021-07-26T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14621</id>
-    <title>«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</title>
-    <updated>2021-08-04T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316121214327.jpg"><br/><br/>«Пляшущие огоньки» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14621">«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14621" rel="alternate"/>
-    <summary>«Пляшущие огоньки» Ёимия</summary>
-    <published>2021-08-04T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>14644</id>
@@ -1225,22 +1207,24 @@
     <published>2021-11-22T12:10:00+03:00</published>
   </entry>
   <entry>
-    <id>14782</id>
-    <title>«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-08-09T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080821010545153.jpg"><br/><br/>«Ослепительные огни лета» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14782">«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14782" rel="alternate"/>
-    <summary>«Ослепительные огни лета» Ёимия</summary>
-    <published>2021-08-09T12:00:00+03:00</published>
+    <id>17272</id>
+    <title>Подробности обновления 2.3 «Белая пыль и снежная тень»</title>
+    <updated>2021-11-24T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318164589427.jpg"><br/><br/>Дорогие Путешественники!
+Ниже представлена информация об обновлении до версии 2.3 - «Белая пыль и снежная тень» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17272">Подробности обновления 2.3 «Белая пыль и снежная тень»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17272" rel="alternate"/>
+    <summary>Дорогие Путешественники!
+Ниже представлена информация об обновлении до версии 2.3 - «Белая пыль и снежная тень» и о компенсации.</summary>
+    <published>2021-11-24T07:00:00+03:00</published>
   </entry>
   <entry>
-    <id>14831</id>
-    <title>Ёимия: Язык пламени | Коллекция Genshin Impact</title>
-    <updated>2021-08-10T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010283563667.jpg"><br/><br/>Ёимия: Язык пламени<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14831">Ёимия: Язык пламени | Коллекция Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14831" rel="alternate"/>
-    <summary>Ёимия: Язык пламени</summary>
-    <published>2021-08-10T18:00:00+03:00</published>
+    <id>17282</id>
+    <title>Событие «Белая пыль и снежная тень»: примите участие в событии, чтобы получить особый предмет Киноварное веретено (Одноручное)</title>
+    <updated>2021-11-24T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318475823929.jpg"><br/><br/>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17282">Событие «Белая пыль и снежная тень»: примите участие в событии, чтобы получить особый предмет Киноварное веретено (Одноручное)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17282" rel="alternate"/>
+    <summary>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).</summary>
+    <published>2021-11-24T07:00:00+03:00</published>
   </entry>
   <entry>
     <id>14859</id>
@@ -2133,5 +2117,25 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17141" rel="alternate"/>
     <summary>Привет, Путешественники! Выход версии 2.3 уже не за горами. Давайте посмотрим, что нас ожидает!</summary>
     <published>2021-11-22T12:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17272</id>
+    <title>Подробности обновления 2.3 «Белая пыль и снежная тень»</title>
+    <updated>2021-11-24T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318164589427.jpg"><br/><br/>Дорогие Путешественники!
+Ниже представлена информация об обновлении до версии 2.3 - «Белая пыль и снежная тень» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17272">Подробности обновления 2.3 «Белая пыль и снежная тень»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17272" rel="alternate"/>
+    <summary>Дорогие Путешественники!
+Ниже представлена информация об обновлении до версии 2.3 - «Белая пыль и снежная тень» и о компенсации.</summary>
+    <published>2021-11-24T07:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17282</id>
+    <title>Событие «Белая пыль и снежная тень»: примите участие в событии, чтобы получить особый предмет Киноварное веретено (Одноручное)</title>
+    <updated>2021-11-24T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318475823929.jpg"><br/><br/>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17282">Событие «Белая пыль и снежная тень»: примите участие в событии, чтобы получить особый предмет Киноварное веретено (Одноручное)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17282" rel="alternate"/>
+    <summary>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).</summary>
+    <published>2021-11-24T07:00:00+03:00</published>
   </entry>
 </feed>

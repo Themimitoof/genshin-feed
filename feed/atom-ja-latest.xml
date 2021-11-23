@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-11-23T22:10:06.509993+00:00</updated>
+  <updated>2021-11-23T23:10:34.025427+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>13223</id>
-    <title>Ver1.6事前ダウンロード開始</title>
-    <updated>2021-06-07T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210604/2021060415305164040.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13223">Ver1.6事前ダウンロード開始</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13223" rel="alternate"/>
-    <summary/>
-    <published>2021-06-07T11:00:00+09:00</published>
-  </entry>
   <entry>
     <id>13225</id>
     <title>Ver1.6イベント予告</title>
@@ -887,5 +878,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17228" rel="alternate"/>
     <summary/>
     <published>2021-11-23T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17279</id>
+    <title>Ver.2.3「白雪に潜みし影」更新内容について</title>
+    <updated>2021-11-24T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316453058528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17279">Ver.2.3「白雪に潜みし影」更新内容について</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17279" rel="alternate"/>
+    <published>2021-11-24T07:00:00+09:00</published>
   </entry>
 </feed>

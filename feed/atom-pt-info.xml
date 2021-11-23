@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-11-23T22:10:08.994730+00:00</updated>
+  <updated>2021-11-23T23:10:42.310385+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14499</id>
-    <title>Evento web Com Recompensa "Promessa da Garça" Disponível</title>
-    <updated>2021-07-26T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610470324082.jpg"><br/><br/>"Estive esperando pelo nosso encontro há muito tempo." "Promessa da Garça" - Evento Web para a Nova Personagem de Genshin Impact: Kamisato Ayaka disponível agora.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14499">Evento web Com Recompensa "Promessa da Garça" Disponível</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14499" rel="alternate"/>
-    <summary>"Estive esperando pelo nosso encontro há muito tempo." "Promessa da Garça" - Evento Web para a Nova Personagem de Genshin Impact: Kamisato Ayaka disponível agora.</summary>
-    <published>2021-07-26T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14614</id>
-    <title>"Os fogos de artifício são temporários, mas as amizades são eternas" - "Dança das Chamas" - Yoimiya</title>
-    <updated>2021-08-04T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315433362669.jpg"><br/><br/>Viajantes, hoje estaremos apresentando para vocês, a especialista em fogos de artifício do "Fogos de Artifício Naganohara", Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14614">"Os fogos de artifício são temporários, mas as amizades são eternas" - "Dança das Chamas" - Yoimiya</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14614" rel="alternate"/>
-    <summary>Viajantes, hoje estaremos apresentando para vocês, a especialista em fogos de artifício do "Fogos de Artifício Naganohara", Yoimiya.</summary>
-    <published>2021-08-04T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>14643</id>
     <title>Teaser de Personagem: "Yoimiya: A Rainha do Verão da Ilha Narukami" | Genshin Impact</title>
@@ -909,5 +891,23 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/17134" rel="alternate"/>
     <summary>Olá Viajantes~ A versão 2.3 já está para chegar, venha dar uma olhada agora mesmo nas informações dos novos eventos~</summary>
     <published>2021-11-22T12:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17269</id>
+    <title>Detalhes da Atualização da Versão 2.3 "Poeira e Neve Escura"</title>
+    <updated>2021-11-24T07:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318063964138.jpg"><br/><br/>Caros Viajantes: Segue na publicação os detalhes de atualização e compensação da Versão 2.3 "Poeira e Neve Escura"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17269">Detalhes da Atualização da Versão 2.3 "Poeira e Neve Escura"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17269" rel="alternate"/>
+    <summary>Caros Viajantes: Segue na publicação os detalhes de atualização e compensação da Versão 2.3 "Poeira e Neve Escura"</summary>
+    <published>2021-11-24T07:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17273</id>
+    <title>Evento "Poeira e Neve Escura": Participe para obter a exclusiva arma do evento "Haste de Cinábrio (Espada)"</title>
+    <updated>2021-11-24T07:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318173126003.jpg"><br/><br/>Durante o período do evento, participe do Modo de Jogo, "Nascido da Neve" e conclua os diversos desafios na área da "Espinha do Dragão" do evento "Poeira e Neve Escura" para obter o "Haste de Cinábrio (Espada)"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17273">Evento "Poeira e Neve Escura": Participe para obter a exclusiva arma do evento "Haste de Cinábrio (Espada)"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17273" rel="alternate"/>
+    <summary>Durante o período do evento, participe do Modo de Jogo, "Nascido da Neve" e conclua os diversos desafios na área da "Espinha do Dragão" do evento "Poeira e Neve Escura" para obter o "Haste de Cinábrio (Espada)"</summary>
+    <published>2021-11-24T07:00:00+00:00</published>
   </entry>
 </feed>

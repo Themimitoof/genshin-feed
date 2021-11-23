@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 23 Nov 2021 22:10:10 +0000</lastBuildDate>
-    <item>
-      <title>Браузерное событие «Встреча с белой цаплей» стартовало!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14501</link>
-      <description>Браузерное событие «Встреча с белой цаплей»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610492552832.jpg"><br/><br/>Браузерное событие «Встреча с белой цаплей»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14501">Браузерное событие «Встреча с белой цаплей» стартовало!</a>]]></content:encoded>
-      <guid isPermaLink="false">14501</guid>
-      <pubDate>Mon, 26 Jul 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14621</link>
-      <description>«Пляшущие огоньки» Ёимия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316121214327.jpg"><br/><br/>«Пляшущие огоньки» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14621">«Фейерверки быстро заканчиваются, а дружба - это навсегда» - «Пляшущие огоньки» Ёимия</a>]]></content:encoded>
-      <guid isPermaLink="false">14621</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 23:10:45 +0000</lastBuildDate>
     <item>
       <title>«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14644</link>
@@ -813,6 +797,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111915362691891.jpg"><br/><br/>Привет, Путешественники! Выход версии 2.3 уже не за горами. Давайте посмотрим, что нас ожидает!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17141">Обзор событий версии 2.3 «Белая пыль и снежная тень» - Выпуск I</a>]]></content:encoded>
       <guid isPermaLink="false">17141</guid>
       <pubDate>Mon, 22 Nov 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Подробности обновления 2.3 «Белая пыль и снежная тень»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17272</link>
+      <description>Дорогие Путешественники!
+Ниже представлена информация об обновлении до версии 2.3 - «Белая пыль и снежная тень» и о компенсации.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318164589427.jpg"><br/><br/>Дорогие Путешественники!
+Ниже представлена информация об обновлении до версии 2.3 - «Белая пыль и снежная тень» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17272">Подробности обновления 2.3 «Белая пыль и снежная тень»</a>]]></content:encoded>
+      <guid isPermaLink="false">17272</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Событие «Белая пыль и снежная тень»: примите участие в событии, чтобы получить особый предмет Киноварное веретено (Одноручное)</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17282</link>
+      <description>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318475823929.jpg"><br/><br/>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17282">Событие «Белая пыль и снежная тень»: примите участие в событии, чтобы получить особый предмет Киноварное веретено (Одноручное)</a>]]></content:encoded>
+      <guid isPermaLink="false">17282</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

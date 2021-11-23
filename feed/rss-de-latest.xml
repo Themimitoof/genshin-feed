@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 23 Nov 2021 22:10:03 +0000</lastBuildDate>
-    <item>
-      <title>Die Webaktion mit Belohnungen „Sommerfestbilder“ ist jetzt verfügbar</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14692</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511364792176.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14692">Die Webaktion mit Belohnungen „Sommerfestbilder“ ist jetzt verfügbar</a>]]></description>
-      <guid isPermaLink="false">14692</guid>
-      <pubDate>Thu, 05 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Figurenvorführung bei Genshin Impact – Sayu: Juhu-Stil – Mujina-Flucht</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14729</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711025320229.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14729">Figurenvorführung bei Genshin Impact – Sayu: Juhu-Stil – Mujina-Flucht</a>]]></description>
-      <guid isPermaLink="false">14729</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 23:10:23 +0000</lastBuildDate>
     <item>
       <title>„Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.“ – „Mujina-Ninja“ – Sayu</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14742</link>
@@ -849,6 +835,24 @@ ab dem 24. November, 06:00 Uhr (UTC+8), werden wir eine Wartung und eine Umstell
 ab dem 24. November, 06:00 Uhr (UTC+8), werden wir eine Wartung und eine Umstellung für die Zahlungsplattformen durchführen. <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17220">Ankündigungen zur vorübergehenden Abschaltung der Zahlungsmethoden</a>]]></content:encoded>
       <guid isPermaLink="false">17220</guid>
       <pubDate>Mon, 22 Nov 2021 12:12:06 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aktion „Schatten im Schneesturm“: Nimm teil und erhalte die exklusive Aktionswaffe „Einhänder – Zinnoberspindel“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17268</link>
+      <description>Während des Aktionszeitraums kannst du in der Aktion „Schatten im Schneesturm“ am Minispiel „Geboren im Schnee“ teilnehmen und die verschiedenen Herausforderungen im Gebiet „Drachengrat“ abschließen, um die Waffe „Einhänder – Zinnoberspindel“ zu erhalten.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318062776436.jpg"><br/><br/>Während des Aktionszeitraums kannst du in der Aktion „Schatten im Schneesturm“ am Minispiel „Geboren im Schnee“ teilnehmen und die verschiedenen Herausforderungen im Gebiet „Drachengrat“ abschließen, um die Waffe „Einhänder – Zinnoberspindel“ zu erhalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17268">Aktion „Schatten im Schneesturm“: Nimm teil und erhalte die exklusive Aktionswaffe „Einhänder – Zinnoberspindel“</a>]]></content:encoded>
+      <guid isPermaLink="false">17268</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17276</link>
+      <description>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“ sowie zur Entschädigung dafür.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318252664097.jpg"><br/><br/>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17276">Erläuterungen zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“</a>]]></content:encoded>
+      <guid isPermaLink="false">17276</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 23 Nov 2021 22:10:07 +0000</lastBuildDate>
-    <item>
-      <title>「은하수를 물들인 불꽃」 기원: 「유염화무·요이미야(불)」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14764</link>
-      <description>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080717454722303.jpg"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14764">「은하수를 물들인 불꽃」 기원: 「유염화무·요이미야(불)」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">14764</guid>
-      <pubDate>Sun, 08 Aug 2021 12:01:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>페이몬을 따라 이벤트 보기 - 2.0버전 이벤트 알림 제2회</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14768</link>
-      <description>페이몬이 최신 이벤트 정보를 가져왔어~! 같이 확인해 보자~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080719322154858.jpg"><br/><br/>페이몬이 최신 이벤트 정보를 가져왔어~! 같이 확인해 보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14768">페이몬을 따라 이벤트 보기 - 2.0버전 이벤트 알림 제2회</a>]]></content:encoded>
-      <guid isPermaLink="false">14768</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 23:10:38 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「요이미야: 한여름의 불꽃」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14792</link>
@@ -849,6 +833,22 @@
 <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17180">「눈보라 속 그림자」 2.3 버전 이벤트 알림 제1회</a>]]></content:encoded>
       <guid isPermaLink="false">17180</guid>
       <pubDate>Mon, 22 Nov 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「눈보라 속 그림자」 2.3 버전 업데이트 상세안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17288</link>
+      <description>「눈보라 속 그림자」 2.3 버전 업데이트 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112320284142344.jpg"><br/><br/>「눈보라 속 그림자」 2.3 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17288">「눈보라 속 그림자」 2.3 버전 업데이트 상세안내</a>]]></content:encoded>
+      <guid isPermaLink="false">17288</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「눈보라 속 그림자」 이벤트: 이벤트에 참여하여 전용 무기 「한손검·진사의 방추」 획득</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17289</link>
+      <description>이벤트 기간에 「눈보라 속 그림자」 이벤트를 통해 「눈에서의 탄생」 콘텐츠에 참여하고 「드래곤 스파인」 지역에서 각종 도전을 완료하면 「한손검·진사의 방추」를 획득하실 수 있습니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112320435315565.jpg"><br/><br/>이벤트 기간에 「눈보라 속 그림자」 이벤트를 통해 「눈에서의 탄생」 콘텐츠에 참여하고 「드래곤 스파인」 지역에서 각종 도전을 완료하면 「한손검·진사의 방추」를 획득하실 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17289">「눈보라 속 그림자」 이벤트: 이벤트에 참여하여 전용 무기 「한손검·진사의 방추」 획득</a>]]></content:encoded>
+      <guid isPermaLink="false">17289</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

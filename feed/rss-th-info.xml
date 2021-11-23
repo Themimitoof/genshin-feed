@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 23 Nov 2021 22:10:11 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "ตามรอยสายฟ้า"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14455</link>
-      <description>กิจกรรมใหม่ "ตามรอยสายฟ้า" กำลังจะเริ่มขึ้นแล้ว!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023190551683.jpg"><br/><br/>กิจกรรมใหม่ "ตามรอยสายฟ้า" กำลังจะเริ่มขึ้นแล้ว!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14455">คำอธิบายเกมเพลย์ "ตามรอยสายฟ้า"</a>]]></content:encoded>
-      <guid isPermaLink="false">14455</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>[Genshin Impact] เก็บตกตัวละคร - "Kamisato Ayaka: กระเรียนร่ายรำกลางหิมะ"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14435</link>
-      <description>ผู้คนเพียงพบเห็นกระเรียนหิมะที่สูงส่ง แต่ใต้เงาปีกที่กระพืออย่างสง่างามนั้น </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072019310466315.jpg"><br/><br/>ผู้คนเพียงพบเห็นกระเรียนหิมะที่สูงส่ง แต่ใต้เงาปีกที่กระพืออย่างสง่างามนั้น <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14435">[Genshin Impact] เก็บตกตัวละคร - "Kamisato Ayaka: กระเรียนร่ายรำกลางหิมะ"</a>]]></content:encoded>
-      <guid isPermaLink="false">14435</guid>
-      <pubDate>Wed, 21 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 23:10:49 +0000</lastBuildDate>
     <item>
       <title>กิจกรรม "สัญญากระเรียนขาว" บนเว็บไซต์เริ่มต้นขึ้นแล้ว</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14508</link>
@@ -742,6 +726,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111911254874583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17136">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ" ช่วงที่ 1</a>]]></description>
       <guid isPermaLink="false">17136</guid>
       <pubDate>Mon, 22 Nov 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17284</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319341814387.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17284">คำอธิบายการอัปเดตเวอร์ชัน 2.3 "ฝุ่นธุลีและเงาแห่งหิมะ"</a>]]></description>
+      <guid isPermaLink="false">17284</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>กิจกรรม "ฝุ่นธุลีและเงาแห่งหิมะ": เข้าร่วมกิจกรรมเพื่อรับอาวุธพิเศษ "ดาบ - Cinnabar Spindle"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17286</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319461347701.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17286">กิจกรรม "ฝุ่นธุลีและเงาแห่งหิมะ": เข้าร่วมกิจกรรมเพื่อรับอาวุธพิเศษ "ดาบ - Cinnabar Spindle"</a>]]></description>
+      <guid isPermaLink="false">17286</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

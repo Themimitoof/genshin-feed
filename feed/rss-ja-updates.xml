@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Nov 2021 22:10:07 +0000</lastBuildDate>
-    <item>
-      <title>「元素クルーシブル」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5929</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201012/2020101214200714125.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5929">「元素クルーシブル」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">5929</guid>
-      <pubDate>Mon, 12 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 23 Nov 2021 23:10:35 +0000</lastBuildDate>
     <item>
       <title>『原神』公式Twitter50万フォロワー突破記念！Twitterアイコン配布開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5928</link>
@@ -716,6 +709,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111916174783977.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17142">Ver2.3事前ダウンロード開始</a>]]></description>
       <guid isPermaLink="false">17142</guid>
       <pubDate>Mon, 22 Nov 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.3「白雪に潜みし影」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17279</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316453058528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17279">Ver.2.3「白雪に潜みし影」更新内容について</a>]]></description>
+      <guid isPermaLink="false">17279</guid>
+      <pubDate>Wed, 24 Nov 2021 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
