@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Nov 2021 01:54:33 +0000</lastBuildDate>
-    <item>
-      <title>『原神』公式Twitter50万フォロワー突破記念！Twitterアイコン配布開始！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5928</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201012/2020101211330195446.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5928">『原神』公式Twitter50万フォロワー突破記念！Twitterアイコン配布開始！</a>]]></description>
-      <guid isPermaLink="false">5928</guid>
-      <pubDate>Mon, 12 Oct 2020 01:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 02:25:50 +0000</lastBuildDate>
     <item>
       <title>原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5839</link>
@@ -716,6 +709,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316453058528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17279">Ver.2.3「白雪に潜みし影」更新内容について</a>]]></description>
       <guid isPermaLink="false">17279</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Epic Games Storeがサポートするお支払方法について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17287</link>
+      <description>Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました</description>
+      <content:encoded><![CDATA[Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17287">Epic Games Storeがサポートするお支払方法について</a>]]></content:encoded>
+      <guid isPermaLink="false">17287</guid>
+      <pubDate>Wed, 24 Nov 2021 10:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

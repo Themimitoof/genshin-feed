@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-11-24T01:54:02.808955+00:00</updated>
+  <updated>2021-11-24T02:25:24.837999+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14694</id>
-    <title>The "Summer Night Mementos" Web Event Has Begun</title>
-    <updated>2021-08-05T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511384481655.jpg"><br/><br/>The blooming fireworks illuminate the eyes of the girl beside me...
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14694">The "Summer Night Mementos" Web Event Has Begun</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14694" rel="alternate"/>
-    <summary>The blooming fireworks illuminate the eyes of the girl beside me...
-</summary>
-    <published>2021-08-05T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>14721</id>
     <title>Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</title>
@@ -984,5 +973,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <link href="https://genshin.mihoyo.com/en/news/detail/17278" rel="alternate"/>
     <summary>Below are the details of the Version 2.3 update "Shadows Amidst Snowstorms" and the update compensation.</summary>
     <published>2021-11-24T07:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17261</id>
+    <title>Payment Methods Supported by Epic Games Store Now Available in Genshin Impact</title>
+    <updated>2021-11-24T10:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317025638537.png"><br/><br/>Players on EGS can now access Epic Games Store payment options<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17261">Payment Methods Supported by Epic Games Store Now Available in Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17261" rel="alternate"/>
+    <summary>Players on EGS can now access Epic Games Store payment options</summary>
+    <published>2021-11-24T10:00:00-05:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Nov 2021 01:54:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 02:25:52 +0000</lastBuildDate>
     <item>
       <title>「無相の交響詩　協奏曲・紫電の光」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8020</link>
@@ -732,13 +732,6 @@
       <pubDate>Tue, 23 Nov 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>『原神』公式Twitter50万フォロワー突破記念！Twitterアイコン配布開始！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5928</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201012/2020101211330195446.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5928">『原神』公式Twitter50万フォロワー突破記念！Twitterアイコン配布開始！</a>]]></description>
-      <guid isPermaLink="false">5928</guid>
-      <pubDate>Mon, 12 Oct 2020 01:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/5839</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200929/2020092917432173258.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5839">原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</a>]]></description>
@@ -1440,6 +1433,14 @@
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>Epic Games Storeがサポートするお支払方法について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17287</link>
+      <description>Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました</description>
+      <content:encoded><![CDATA[Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17287">Epic Games Storeがサポートするお支払方法について</a>]]></content:encoded>
+      <guid isPermaLink="false">17287</guid>
+      <pubDate>Wed, 24 Nov 2021 10:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
       <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
@@ -1610,13 +1611,6 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/16916">原神 Ver.2.3アップデート記念キャンペーン 参加規約</a>]]></description>
       <guid isPermaLink="false">16916</guid>
       <pubDate>Tue, 16 Nov 2021 22:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>Ver1.6イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13225</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210604/2021060417344529652.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13225">Ver1.6イベント予告</a>]]></description>
-      <guid isPermaLink="false">13225</guid>
-      <pubDate>Mon, 07 Jun 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「真夏！島？大冒険！」イベント紹介</title>
@@ -2314,6 +2308,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316453058528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17279">Ver.2.3「白雪に潜みし影」更新内容について</a>]]></description>
       <guid isPermaLink="false">17279</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Epic Games Storeがサポートするお支払方法について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17287</link>
+      <description>Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました</description>
+      <content:encoded><![CDATA[Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17287">Epic Games Storeがサポートするお支払方法について</a>]]></content:encoded>
+      <guid isPermaLink="false">17287</guid>
+      <pubDate>Wed, 24 Nov 2021 10:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

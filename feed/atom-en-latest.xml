@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-11-24T01:54:01.260881+00:00</updated>
+  <updated>2021-11-24T02:25:23.334044+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15086</id>
-    <title>Version 2.1 "Floating World Under the Moonlight" Trailer | Genshin Impact</title>
-    <updated>2021-08-20T22:45:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082015005367212.jpg"><br/><br/>The people's wishes gathered under the bright moonlight, as they witnessed the power of lightning and fierce flames, and rejoiced in the smoke of hearths and the light of lanterns.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15086">Version 2.1 "Floating World Under the Moonlight" Trailer | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15086" rel="alternate"/>
-    <summary>The people's wishes gathered under the bright moonlight, as they witnessed the power of lightning and fierce flames, and rejoiced in the smoke of hearths and the light of lanterns.</summary>
-    <published>2021-08-20T22:45:00-04:00</published>
-  </entry>
   <entry>
     <id>15106</id>
     <title>Genshin Impact - Initial Top-Up Bonus Reset</title>
@@ -969,5 +960,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
     <link href="https://genshin.mihoyo.com/en/news/detail/17278" rel="alternate"/>
     <summary>Below are the details of the Version 2.3 update "Shadows Amidst Snowstorms" and the update compensation.</summary>
     <published>2021-11-24T07:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17261</id>
+    <title>Payment Methods Supported by Epic Games Store Now Available in Genshin Impact</title>
+    <updated>2021-11-24T10:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317025638537.png"><br/><br/>Players on EGS can now access Epic Games Store payment options<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17261">Payment Methods Supported by Epic Games Store Now Available in Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17261" rel="alternate"/>
+    <summary>Players on EGS can now access Epic Games Store payment options</summary>
+    <published>2021-11-24T10:00:00-05:00</published>
   </entry>
 </feed>
