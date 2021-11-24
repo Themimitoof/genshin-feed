@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Nov 2021 11:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 12:15:18 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -117,6 +117,13 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111614083231577.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17120">Lancement de l'événement « Les mille questions de Paimon »</a>]]></description>
       <guid isPermaLink="false">17120</guid>
       <pubDate>Fri, 19 Nov 2021 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La campagne de recrutement de streamers sur Twitch</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17337</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
+      <guid isPermaLink="false">17337</guid>
+      <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -1015,13 +1022,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Pulsation du tonnerre (Arc) et Lame de la Voûte d'Azur (Épée à une main)</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14759</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716131810936.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14759">Vœux « Incarnation divine » : taux d'obtention boosté pour Pulsation du tonnerre (Arc) et Lame de la Voûte d'Azur (Épée à une main)</a>]]></description>
-      <guid isPermaLink="false">14759</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14758</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716094149718.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14758">Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</a>]]></description>
@@ -1764,6 +1764,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317574471103.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17267">Genshin Impact, la bande-son : Tableau d'une douce neige et de sommets glacés</a>]]></description>
       <guid isPermaLink="false">17267</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>La campagne de recrutement de streamers sur Twitch</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17337</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
+      <guid isPermaLink="false">17337</guid>
+      <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
