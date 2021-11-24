@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Nov 2021 03:10:31 +0000</lastBuildDate>
-    <item>
-      <title>« Plutôt dormir que de travailler. » – Sayu · Mujina shinobi</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14757</link>
-      <description>Voyageurs \ (^ o ^) / ~
-
-Aujourd'hui, nous vous présentons Sayu, la ninja rattachée au Shuumatsuban !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080715593236025.jpg"><br/><br/>Voyageurs \ (^ o ^) / ~
-
-Aujourd'hui, nous vous présentons Sayu, la ninja rattachée au Shuumatsuban !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14757">« Plutôt dormir que de travailler. » – Sayu · Mujina shinobi</a>]]></content:encoded>
-      <guid isPermaLink="false">14757</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 04:12:43 +0000</lastBuildDate>
     <item>
       <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Pulsation du tonnerre (Arc) et Lame de la Voûte d'Azur (Épée à une main)</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14759</link>
@@ -764,6 +752,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316224226458.jpg"><br/><br/>L'événement « Ombres au cœur du blizzard » commence bientôt !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17258">Détails de l'événement « Ombres au cœur du blizzard »</a>]]></content:encoded>
       <guid isPermaLink="false">17258</guid>
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Tableau d'une douce neige et de sommets glacés</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17267</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317574471103.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17267">Genshin Impact, la bande-son : Tableau d'une douce neige et de sommets glacés</a>]]></description>
+      <guid isPermaLink="false">17267</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

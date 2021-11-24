@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Nov 2021 03:11:09 +0000</lastBuildDate>
-    <item>
-      <title>"Pháo hoa dễ tàn, tình người còn mãi" - Vũ Điệu Bão Lửa - Yoimiya				</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14616</link>
-      <description>Hôm nay Paimon sẽ giới thiệu với mọi người chuyên gia pháo hoa đến từ "Tiệm Pháo Hoa Naganohara" - Yoimiya.        </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315441238766.jpg"><br/><br/>Hôm nay Paimon sẽ giới thiệu với mọi người chuyên gia pháo hoa đến từ "Tiệm Pháo Hoa Naganohara" - Yoimiya.        <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14616">"Pháo hoa dễ tàn, tình người còn mãi" - Vũ Điệu Bão Lửa - Yoimiya				</a>]]></content:encoded>
-      <guid isPermaLink="false">14616</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 04:13:35 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] Video nhân vật Yoimiya - Biểu tượng mùa hè trên Đảo Narukami</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14637</link>
@@ -749,6 +741,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314571845399.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17234">Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</a>]]></description>
       <guid isPermaLink="false">17234</guid>
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tuyển tập Genshin Impact - A Canvas of Soft Snow on Icy Peaks</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17250</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316153090545.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17250">Tuyển tập Genshin Impact - A Canvas of Soft Snow on Icy Peaks</a>]]></description>
+      <guid isPermaLink="false">17250</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

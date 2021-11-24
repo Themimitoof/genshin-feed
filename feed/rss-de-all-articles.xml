@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Nov 2021 03:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 04:12:58 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -236,13 +236,6 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812121526926.png"><br/><br/>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/7463">Vorschau zur Aktualisierung auf Version 1.2 „Kreide und Drachen“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">7463</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14639</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319282517011.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14639">Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</a>]]></description>
-      <guid isPermaLink="false">14639</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Die Webaktion mit Belohnungen „Sommerfestbilder“ ist jetzt verfügbar</title>
@@ -1074,12 +1067,12 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
-      <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14769</link>
-      <description>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721213181605.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14769">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</a>]]></content:encoded>
-      <guid isPermaLink="false">14769</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
+      <title>Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17257</link>
+      <description>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316241868286.jpg"><br/><br/>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17257">Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
+      <guid isPermaLink="false">17257</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Gebet „Flammengalaxie“: Höhere Wahrscheinlichkeit für „Ausgelassene Flammen – Yoimiya (Pyro)“!</title>
@@ -1915,6 +1908,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316201094195.jpg"><br/><br/>Aktion „Schatten im Schneesturm“ ist bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17256">Erläuterungen zur Spielweise von „Schatten im Schneesturm“</a>]]></content:encoded>
       <guid isPermaLink="false">17256</guid>
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17257</link>
+      <description>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316241868286.jpg"><br/><br/>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17257">Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
+      <guid isPermaLink="false">17257</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

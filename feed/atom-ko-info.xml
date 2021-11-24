@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-11-24T03:10:54.612243+00:00</updated>
+  <updated>2021-11-24T04:13:13.928253+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14649</id>
-    <title>폭죽이 터지는 건 찰나지만, 마음은 오래가지~ -「유염화무」·요이미야</title>
-    <updated>2021-08-04T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319490094118.jpg"><br/><br/>오늘 소개할 새로운 캐릭터 「나가노하라 폭죽가게」에서 온 폭죽 전문가 - 요이미야야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14649">폭죽이 터지는 건 찰나지만, 마음은 오래가지~ -「유염화무」·요이미야</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14649" rel="alternate"/>
-    <summary>오늘 소개할 새로운 캐릭터 「나가노하라 폭죽가게」에서 온 폭죽 전문가 - 요이미야야</summary>
-    <published>2021-08-04T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>14673</id>
     <title>﻿&lt;원신&gt; 요이미야 캐릭터 PV - 「나루카미섬 여름의 상징」 (NEW 버전)</title>
@@ -951,5 +942,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17260" rel="alternate"/>
     <summary>「눈보라 속 그림자」 이벤트 오픈 예정!</summary>
     <published>2021-11-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17262</id>
+    <title>&lt;원신&gt; EP - 눈 덮인 설산의 스케치</title>
+    <updated>2021-11-24T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317125776382.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17262"><원신> EP - 눈 덮인 설산의 스케치</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17262" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T12:01:00+09:00</published>
   </entry>
 </feed>

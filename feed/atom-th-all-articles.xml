@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2021-11-24T03:11:08.428123+00:00</updated>
+  <updated>2021-11-24T04:13:34.017053+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -265,15 +265,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14619</id>
-    <title>"ดอกไม้ไฟสลายจางไปได้ แต่ความรักของผู้คนจะคงอยู่ตลอดไป" —— "ประกายเพลิงเริงระบำ" - Yoimiya</title>
-    <updated>2021-08-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080316085437827.jpg"><br/><br/>นักเดินทางทั้งหลาย\ (^ o ^) / ~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14619">"ดอกไม้ไฟสลายจางไปได้ แต่ความรักของผู้คนจะคงอยู่ตลอดไป" —— "ประกายเพลิงเริงระบำ" - Yoimiya</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14619" rel="alternate"/>
-    <summary>นักเดินทางทั้งหลาย\ (^ o ^) / ~</summary>
-    <published>2021-08-04T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14648</id>
@@ -1115,15 +1106,13 @@
     <published>2021-11-24T10:30:00+07:00</published>
   </entry>
   <entry>
-    <id>14713</id>
-    <title>Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.0 ช่วงที่ 2</title>
-    <updated>2021-08-08T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080619000961620.jpg"><br/><br/>สวัสดีเหล่านักเดินทาง~ Paimon เอาข้อมูลกิจกรรมล่าสุดมาฝาก คลิกที่ภาพด้านล่างเพื่อรับชมกันเลย!
-<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14713">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.0 ช่วงที่ 2</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14713" rel="alternate"/>
-    <summary>สวัสดีเหล่านักเดินทาง~ Paimon เอาข้อมูลกิจกรรมล่าสุดมาฝาก คลิกที่ภาพด้านล่างเพื่อรับชมกันเลย!
-</summary>
-    <published>2021-08-08T12:10:00+07:00</published>
+    <id>17248</id>
+    <title>"Genshin Impact" มินิอัลบั้ม - ภาพวาดหิมะโปรยบนยอดเขาน้ำแข็ง</title>
+    <updated>2021-11-24T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316124547006.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17248">"Genshin Impact" มินิอัลบั้ม - ภาพวาดหิมะโปรยบนยอดเขาน้ำแข็ง</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17248" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14786</id>
@@ -1960,5 +1949,14 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/17235" rel="alternate"/>
     <summary/>
     <published>2021-11-24T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17248</id>
+    <title>"Genshin Impact" มินิอัลบั้ม - ภาพวาดหิมะโปรยบนยอดเขาน้ำแข็ง</title>
+    <updated>2021-11-24T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316124547006.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17248">"Genshin Impact" มินิอัลบั้ม - ภาพวาดหิมะโปรยบนยอดเขาน้ำแข็ง</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17248" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-11-24T03:10:31.654058+00:00</updated>
+  <updated>2021-11-24T04:12:43.038221+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -347,15 +347,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>14746</id>
-    <title>"Seems like I could have just stayed in bed today." — "Mujina Ninja" Sayu</title>
-    <updated>2021-08-07T18:15:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712361378850.jpg"><br/><br/>She has been raised in the Shuumatsuban since she was a child, and is extremely loyal to the organization. That said, her most prominent trait is not "loyalty", but "laziness."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14746">"Seems like I could have just stayed in bed today." — "Mujina Ninja" Sayu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14746" rel="alternate"/>
-    <summary>She has been raised in the Shuumatsuban since she was a child, and is extremely loyal to the organization. That said, her most prominent trait is not "loyalty", but "laziness."</summary>
-    <published>2021-08-07T18:15:00-04:00</published>
   </entry>
   <entry>
     <id>14773</id>
@@ -1326,13 +1317,17 @@ Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to see
     <published>2021-11-24T10:30:00-05:00</published>
   </entry>
   <entry>
-    <id>15051</id>
-    <title>Realm of Tranquil Eternity：Inazuma Live Symphony Performance | Genshin Impact </title>
-    <updated>2021-08-21T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011324023844.png"><br/><br/>This Inazuma Live Symphony Performance was filmed at the Tokyo Opera City Concert Hall. The performance features Tokyo Philharmonic Orchestra, the oldest symphony orchestra in Japan, and Japan's top folk musicians performing Inazuma's regional pieces "Inazuma" and "Overlord of the Thunderstorm" together.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15051">Realm of Tranquil Eternity：Inazuma Live Symphony Performance | Genshin Impact </a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15051" rel="alternate"/>
-    <summary>This Inazuma Live Symphony Performance was filmed at the Tokyo Opera City Concert Hall. The performance features Tokyo Philharmonic Orchestra, the oldest symphony orchestra in Japan, and Japan's top folk musicians performing Inazuma's regional pieces "Inazuma" and "Overlord of the Thunderstorm" together.</summary>
-    <published>2021-08-21T12:00:00-04:00</published>
+    <id>17244</id>
+    <title>Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316101726755.jpg"><br/><br/>A blizzard races over the mountain, concealing an enigmatic past.
+Memories are engraved on the earth, which give rise to nature's treasures.
+Everything comes to life with a light stroke of the brush.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17244">Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17244" rel="alternate"/>
+    <summary>A blizzard races over the mountain, concealing an enigmatic past.
+Memories are engraved on the earth, which give rise to nature's treasures.
+Everything comes to life with a light stroke of the brush.</summary>
+    <published>2021-11-24T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>15129</id>
@@ -2287,5 +2282,18 @@ Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to see
     <summary>The "Shadows Amidst Snowstorms" event is about to begin!
 Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...</summary>
     <published>2021-11-24T10:30:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17244</id>
+    <title>Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316101726755.jpg"><br/><br/>A blizzard races over the mountain, concealing an enigmatic past.
+Memories are engraved on the earth, which give rise to nature's treasures.
+Everything comes to life with a light stroke of the brush.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17244">Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17244" rel="alternate"/>
+    <summary>A blizzard races over the mountain, concealing an enigmatic past.
+Memories are engraved on the earth, which give rise to nature's treasures.
+Everything comes to life with a light stroke of the brush.</summary>
+    <published>2021-11-24T12:00:00-05:00</published>
   </entry>
 </feed>

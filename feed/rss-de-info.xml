@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Nov 2021 03:10:40 +0000</lastBuildDate>
-    <item>
-      <title>Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14639</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319282517011.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14639">Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</a>]]></description>
-      <guid isPermaLink="false">14639</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 04:12:55 +0000</lastBuildDate>
     <item>
       <title>Die Webaktion mit Belohnungen „Sommerfestbilder“ ist jetzt verfügbar</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14692</link>
@@ -844,6 +837,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316201094195.jpg"><br/><br/>Aktion „Schatten im Schneesturm“ ist bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17256">Erläuterungen zur Spielweise von „Schatten im Schneesturm“</a>]]></content:encoded>
       <guid isPermaLink="false">17256</guid>
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17257</link>
+      <description>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316241868286.jpg"><br/><br/>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17257">Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
+      <guid isPermaLink="false">17257</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

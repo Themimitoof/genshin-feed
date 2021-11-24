@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-11-24T03:11:12.211486+00:00</updated>
+  <updated>2021-11-24T04:13:39.885375+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -251,15 +251,6 @@
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14616</id>
-    <title>"Pháo hoa dễ tàn, tình người còn mãi" - Vũ Điệu Bão Lửa - Yoimiya				</title>
-    <updated>2021-08-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315441238766.jpg"><br/><br/>Hôm nay Paimon sẽ giới thiệu với mọi người chuyên gia pháo hoa đến từ "Tiệm Pháo Hoa Naganohara" - Yoimiya.        <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14616">"Pháo hoa dễ tàn, tình người còn mãi" - Vũ Điệu Bão Lửa - Yoimiya				</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14616" rel="alternate"/>
-    <summary>Hôm nay Paimon sẽ giới thiệu với mọi người chuyên gia pháo hoa đến từ "Tiệm Pháo Hoa Naganohara" - Yoimiya.        </summary>
-    <published>2021-08-04T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14637</id>
@@ -1114,13 +1105,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-11-24T10:30:00+07:00</published>
   </entry>
   <entry>
-    <id>14750</id>
-    <title>Cầu nguyện "Thân Hình Thần Đúc", UP xác suất Cung - Sấm Sét Rung Động, Kiếm Đơn - Thiên Không Kiếm!</title>
-    <updated>2021-08-08T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080713562923594.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện ""Thân Hình Thần Đúc"" để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14750">Cầu nguyện "Thân Hình Thần Đúc", UP xác suất Cung - Sấm Sét Rung Động, Kiếm Đơn - Thiên Không Kiếm!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14750" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện ""Thân Hình Thần Đúc"" để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-08-08T12:00:00+07:00</published>
+    <id>17250</id>
+    <title>Tuyển tập Genshin Impact - A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316153090545.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17250">Tuyển tập Genshin Impact - A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17250" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14712</id>
@@ -1962,5 +1953,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/17234" rel="alternate"/>
     <summary/>
     <published>2021-11-24T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17250</id>
+    <title>Tuyển tập Genshin Impact - A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316153090545.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17250">Tuyển tập Genshin Impact - A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17250" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T12:00:00+07:00</published>
   </entry>
 </feed>

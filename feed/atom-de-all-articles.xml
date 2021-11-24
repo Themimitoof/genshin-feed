@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2021-11-24T03:10:42.820109+00:00</updated>
+  <updated>2021-11-24T04:12:58.108081+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -268,14 +268,6 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14639</id>
-    <title>Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</title>
-    <updated>2021-08-04T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319282517011.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14639">Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14639" rel="alternate"/>
-    <published>2021-08-04T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>14692</id>
@@ -1206,13 +1198,13 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
     <published>2021-11-24T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>14769</id>
-    <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</title>
-    <updated>2021-08-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721213181605.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14769">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14769" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</summary>
-    <published>2021-08-08T12:00:00+02:00</published>
+    <id>17257</id>
+    <title>Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316241868286.jpg"><br/><br/>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17257">Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17257" rel="alternate"/>
+    <summary>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.</summary>
+    <published>2021-11-24T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>14770</id>
@@ -2147,5 +2139,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
     <link href="https://genshin.mihoyo.com/de/news/detail/17256" rel="alternate"/>
     <summary>Aktion „Schatten im Schneesturm“ ist bald verfügbar!</summary>
     <published>2021-11-24T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17257</id>
+    <title>Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316241868286.jpg"><br/><br/>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17257">Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17257" rel="alternate"/>
+    <summary>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.</summary>
+    <published>2021-11-24T12:00:00+01:00</published>
   </entry>
 </feed>

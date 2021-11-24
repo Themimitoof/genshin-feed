@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-11-24T03:11:02.091014+00:00</updated>
+  <updated>2021-11-24T04:13:25.483982+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>14684</id>
-    <title>Браузерное событие «Воспоминания в летнюю ночь» стартовало!</title>
-    <updated>2021-08-05T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511144215947.jpg"><br/><br/>Воспоминания в летнюю ночь<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14684">Браузерное событие «Воспоминания в летнюю ночь» стартовало!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14684" rel="alternate"/>
-    <summary>Воспоминания в летнюю ночь</summary>
-    <published>2021-08-05T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>14735</id>
     <title>«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</title>
@@ -916,5 +907,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17232" rel="alternate"/>
     <summary>Событие «Белая пыль и снежная тень» вот-вот начнётся!</summary>
     <published>2021-11-24T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17254</id>
+    <title>«Мягкий снег на ледяных вершинах» | Мини-альбом Genshin Impact</title>
+    <updated>2021-11-24T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316190047348.jpg"><br/><br/>Снежная буря проносится над горами, скрывая загадочное прошлое.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17254">«Мягкий снег на ледяных вершинах» | Мини-альбом Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17254" rel="alternate"/>
+    <summary>Снежная буря проносится над горами, скрывая загадочное прошлое.</summary>
+    <published>2021-11-24T12:00:00+03:00</published>
   </entry>
 </feed>

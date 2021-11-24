@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Nov 2021 03:10:53 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 데인 여담 - 「요이미야: 염초 불꽃의 속삭임」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14853</link>
-      <description>사람들의 소망을 담은 폭죽이 달이 차오르고 해가 떠오르는 것처럼 하늘을 수놓는다.
-그 모습이 꼭 소녀의 눈동자에 비친 별처럼 밝게 빛난다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081012323479707.jpg"><br/><br/>사람들의 소망을 담은 폭죽이 달이 차오르고 해가 떠오르는 것처럼 하늘을 수놓는다.
-그 모습이 꼭 소녀의 눈동자에 비친 별처럼 밝게 빛난다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14853"><원신> 데인 여담 - 「요이미야: 염초 불꽃의 속삭임」</a>]]></content:encoded>
-      <guid isPermaLink="false">14853</guid>
-      <pubDate>Tue, 10 Aug 2021 18:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 04:13:12 +0000</lastBuildDate>
     <item>
       <title>「기관 디펜스·신묘한 국면」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14887</link>
@@ -849,6 +839,13 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316545296509.jpg"><br/><br/>「눈보라 속 그림자」 이벤트 오픈 예정!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17260">「눈보라 속 그림자」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">17260</guid>
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 눈 덮인 설산의 스케치</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17262</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317125776382.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17262"><원신> EP - 눈 덮인 설산의 스케치</a>]]></description>
+      <guid isPermaLink="false">17262</guid>
+      <pubDate>Wed, 24 Nov 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

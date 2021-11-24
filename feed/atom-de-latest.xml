@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-11-24T03:10:39.128187+00:00</updated>
+  <updated>2021-11-24T04:12:53.567496+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14769</id>
-    <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</title>
-    <updated>2021-08-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721213181605.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14769">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14769" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</summary>
-    <published>2021-08-08T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14770</id>
     <title>Gebet „Flammengalaxie“: Höhere Wahrscheinlichkeit für „Ausgelassene Flammen – Yoimiya (Pyro)“!</title>
@@ -951,5 +942,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
     <link href="https://genshin.mihoyo.com/de/news/detail/17256" rel="alternate"/>
     <summary>Aktion „Schatten im Schneesturm“ ist bald verfügbar!</summary>
     <published>2021-11-24T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17257</id>
+    <title>Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316241868286.jpg"><br/><br/>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17257">Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17257" rel="alternate"/>
+    <summary>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.</summary>
+    <published>2021-11-24T12:00:00+01:00</published>
   </entry>
 </feed>

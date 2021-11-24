@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-11-24T03:11:04.909887+00:00</updated>
+  <updated>2021-11-24T04:13:29.410961+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -317,15 +317,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14684</id>
-    <title>Браузерное событие «Воспоминания в летнюю ночь» стартовало!</title>
-    <updated>2021-08-05T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511144215947.jpg"><br/><br/>Воспоминания в летнюю ночь<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14684">Браузерное событие «Воспоминания в летнюю ночь» стартовало!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14684" rel="alternate"/>
-    <summary>Воспоминания в летнюю ночь</summary>
-    <published>2021-08-05T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>14735</id>
@@ -1227,13 +1218,13 @@
     <published>2021-11-24T10:30:00+03:00</published>
   </entry>
   <entry>
-    <id>14882</id>
-    <title>Саю: Колесо ветра | Коллекция Genshin Impact</title>
-    <updated>2021-08-11T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081018392193362.jpg"><br/><br/>Саю: Колесо ветра<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14882">Саю: Колесо ветра | Коллекция Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14882" rel="alternate"/>
-    <summary>Саю: Колесо ветра</summary>
-    <published>2021-08-11T12:00:00+03:00</published>
+    <id>17254</id>
+    <title>«Мягкий снег на ледяных вершинах» | Мини-альбом Genshin Impact</title>
+    <updated>2021-11-24T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316190047348.jpg"><br/><br/>Снежная буря проносится над горами, скрывая загадочное прошлое.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17254">«Мягкий снег на ледяных вершинах» | Мини-альбом Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17254" rel="alternate"/>
+    <summary>Снежная буря проносится над горами, скрывая загадочное прошлое.</summary>
+    <published>2021-11-24T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>15038</id>
@@ -2137,5 +2128,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17232" rel="alternate"/>
     <summary>Событие «Белая пыль и снежная тень» вот-вот начнётся!</summary>
     <published>2021-11-24T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17254</id>
+    <title>«Мягкий снег на ледяных вершинах» | Мини-альбом Genshin Impact</title>
+    <updated>2021-11-24T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316190047348.jpg"><br/><br/>Снежная буря проносится над горами, скрывая загадочное прошлое.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17254">«Мягкий снег на ледяных вершинах» | Мини-альбом Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17254" rel="alternate"/>
+    <summary>Снежная буря проносится над горами, скрывая загадочное прошлое.</summary>
+    <published>2021-11-24T12:00:00+03:00</published>
   </entry>
 </feed>

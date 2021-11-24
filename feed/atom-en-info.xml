@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-11-24T03:10:29.031296+00:00</updated>
+  <updated>2021-11-24T04:12:38.226249+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14746</id>
-    <title>"Seems like I could have just stayed in bed today." — "Mujina Ninja" Sayu</title>
-    <updated>2021-08-07T18:15:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712361378850.jpg"><br/><br/>She has been raised in the Shuumatsuban since she was a child, and is extremely loyal to the organization. That said, her most prominent trait is not "loyalty", but "laziness."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14746">"Seems like I could have just stayed in bed today." — "Mujina Ninja" Sayu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14746" rel="alternate"/>
-    <summary>She has been raised in the Shuumatsuban since she was a child, and is extremely loyal to the organization. That said, her most prominent trait is not "loyalty", but "laziness."</summary>
-    <published>2021-08-07T18:15:00-04:00</published>
-  </entry>
   <entry>
     <id>14773</id>
     <title>Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!</title>
@@ -985,5 +976,18 @@ Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to see
     <summary>The "Shadows Amidst Snowstorms" event is about to begin!
 Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...</summary>
     <published>2021-11-24T10:30:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17244</id>
+    <title>Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</title>
+    <updated>2021-11-24T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316101726755.jpg"><br/><br/>A blizzard races over the mountain, concealing an enigmatic past.
+Memories are engraved on the earth, which give rise to nature's treasures.
+Everything comes to life with a light stroke of the brush.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17244">Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17244" rel="alternate"/>
+    <summary>A blizzard races over the mountain, concealing an enigmatic past.
+Memories are engraved on the earth, which give rise to nature's treasures.
+Everything comes to life with a light stroke of the brush.</summary>
+    <published>2021-11-24T12:00:00-05:00</published>
   </entry>
 </feed>

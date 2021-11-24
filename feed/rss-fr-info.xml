@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Nov 2021 03:10:32 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement « Fracas du tonnerre »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14451</link>
-      <description>L'événement « Fracas du tonnerre » sera bientôt disponible !
-
-Muzhen, la technicienne en chef de l'Alcor, poursuit un objectif important, et a besoin de l'aide d'un aventurier expérimenté...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023001734299.jpg"><br/><br/>L'événement « Fracas du tonnerre » sera bientôt disponible !
-
-Muzhen, la technicienne en chef de l'Alcor, poursuit un objectif important, et a besoin de l'aide d'un aventurier expérimenté...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14451">Détails de l'événement « Fracas du tonnerre »</a>]]></content:encoded>
-      <guid isPermaLink="false">14451</guid>
-      <pubDate>Wed, 21 Jul 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 04:12:44 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Kamisato Ayaka : Grue dansante des neiges</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14452</link>
@@ -774,6 +762,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316224226458.jpg"><br/><br/>L'événement « Ombres au cœur du blizzard » commence bientôt !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17258">Détails de l'événement « Ombres au cœur du blizzard »</a>]]></content:encoded>
       <guid isPermaLink="false">17258</guid>
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Tableau d'une douce neige et de sommets glacés</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17267</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317574471103.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17267">Genshin Impact, la bande-son : Tableau d'une douce neige et de sommets glacés</a>]]></description>
+      <guid isPermaLink="false">17267</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

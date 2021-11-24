@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 24 Nov 2021 03:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 04:13:03 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -252,13 +252,6 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14733</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711095015613.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14733">Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</a>]]></description>
-      <guid isPermaLink="false">14733</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</title>
@@ -1059,12 +1052,12 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
-      <title>Modo de juego de «Flujo fantasmal»</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15037</link>
-      <description>¡El evento «Flujo fantasmal» está a punto de comenzar!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816105634063.jpg"><br/><br/>¡El evento «Flujo fantasmal» está a punto de comenzar!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15037">Modo de juego de «Flujo fantasmal»</a>]]></content:encoded>
-      <guid isPermaLink="false">15037</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0200</pubDate>
+      <title>Mini álbum de Genshin Impact - A Canvas of Soft Snow on Icy Peaks</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17252</link>
+      <description>Una ventisca arrasa en la montaña, ocultando los enigmas del pasado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316180436386.jpg"><br/><br/>Una ventisca arrasa en la montaña, ocultando los enigmas del pasado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17252">Mini álbum de Genshin Impact - A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
+      <guid isPermaLink="false">17252</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</title>
@@ -1864,6 +1857,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112315311050691.jpg"><br/><br/>¡Ya está disponible el evento «Sombras de nieve y polvo»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17240">Modo de juego «Sombras de nieve y polvo»</a>]]></content:encoded>
       <guid isPermaLink="false">17240</guid>
       <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - A Canvas of Soft Snow on Icy Peaks</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17252</link>
+      <description>Una ventisca arrasa en la montaña, ocultando los enigmas del pasado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316180436386.jpg"><br/><br/>Una ventisca arrasa en la montaña, ocultando los enigmas del pasado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17252">Mini álbum de Genshin Impact - A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
+      <guid isPermaLink="false">17252</guid>
+      <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

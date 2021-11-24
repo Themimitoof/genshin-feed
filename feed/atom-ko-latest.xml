@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-11-24T03:10:53.616295+00:00</updated>
+  <updated>2021-11-24T04:13:12.387101+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14853</id>
-    <title>&lt;원신&gt; 데인 여담 - 「요이미야: 염초 불꽃의 속삭임」</title>
-    <updated>2021-08-10T18:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081012323479707.jpg"><br/><br/>사람들의 소망을 담은 폭죽이 달이 차오르고 해가 떠오르는 것처럼 하늘을 수놓는다.
-그 모습이 꼭 소녀의 눈동자에 비친 별처럼 밝게 빛난다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14853"><원신> 데인 여담 - 「요이미야: 염초 불꽃의 속삭임」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14853" rel="alternate"/>
-    <summary>사람들의 소망을 담은 폭죽이 달이 차오르고 해가 떠오르는 것처럼 하늘을 수놓는다.
-그 모습이 꼭 소녀의 눈동자에 비친 별처럼 밝게 빛난다.</summary>
-    <published>2021-08-10T18:01:00+09:00</published>
-  </entry>
   <entry>
     <id>14887</id>
     <title>「기관 디펜스·신묘한 국면」 콘텐츠 안내</title>
@@ -949,5 +938,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17260" rel="alternate"/>
     <summary>「눈보라 속 그림자」 이벤트 오픈 예정!</summary>
     <published>2021-11-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17262</id>
+    <title>&lt;원신&gt; EP - 눈 덮인 설산의 스케치</title>
+    <updated>2021-11-24T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317125776382.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17262"><원신> EP - 눈 덮인 설산의 스케치</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17262" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T12:01:00+09:00</published>
   </entry>
 </feed>

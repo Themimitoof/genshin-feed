@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-11-24T03:10:57.246708+00:00</updated>
+  <updated>2021-11-24T04:13:17.939831+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15078</id>
-    <title>Teaser da Versão 2.1 de Genshin Impact: "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</title>
-    <updated>2021-08-20T22:45:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014343546964.jpg"><br/><br/>Sob o luar, pessoas se reúnem para compartilhar seus desejos mais íntimos. Enquanto contemplam os relâmpagos e as chamas do fogo, elas apreciam a fumaça das lareiras e a luz das lanternas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15078">Teaser da Versão 2.1 de Genshin Impact: "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15078" rel="alternate"/>
-    <summary>Sob o luar, pessoas se reúnem para compartilhar seus desejos mais íntimos. Enquanto contemplam os relâmpagos e as chamas do fogo, elas apreciam a fumaça das lareiras e a luz das lanternas.</summary>
-    <published>2021-08-20T22:45:00+01:00</published>
-  </entry>
   <entry>
     <id>15100</id>
     <title>"Genshin Impact" - Redefinição do Bônus Duplo de Primeira Recarga</title>
@@ -912,5 +903,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17231" rel="alternate"/>
     <summary>O evento "Poeira e Neve Escura" estará disponível em breve!</summary>
     <published>2021-11-24T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17245</id>
+    <title>EP - Obra: A Neve e o Pico Gelado | Genshin Impact</title>
+    <updated>2021-11-24T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316102351610.jpg"><br/><br/>O vento agita a neve no topo das montanhas, ocultando um passado enigmático.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17245">EP - Obra: A Neve e o Pico Gelado | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17245" rel="alternate"/>
+    <summary>O vento agita a neve no topo das montanhas, ocultando um passado enigmático.</summary>
+    <published>2021-11-24T12:00:00+00:00</published>
   </entry>
 </feed>
