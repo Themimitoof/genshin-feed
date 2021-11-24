@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-11-24T02:25:27.807920+00:00</updated>
+  <updated>2021-11-24T03:10:31.697722+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14731</id>
-    <title>Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</title>
-    <updated>2021-08-07T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711062970680.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14731">Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14731" rel="alternate"/>
-    <published>2021-08-07T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14757</id>
     <title>« Plutôt dormir que de travailler. » – Sayu · Mujina shinobi</title>
@@ -877,5 +869,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112323032344886.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17292">Événement « Ombres au cœur du blizzard » : obtenez l'épée à une main exclusive « Fuseau de cinabre »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/17292" rel="alternate"/>
     <published>2021-11-24T07:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17258</id>
+    <title>Détails de l'événement « Ombres au cœur du blizzard »</title>
+    <updated>2021-11-24T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316224226458.jpg"><br/><br/>L'événement « Ombres au cœur du blizzard » commence bientôt !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17258">Détails de l'événement « Ombres au cœur du blizzard »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17258" rel="alternate"/>
+    <summary>L'événement « Ombres au cœur du blizzard » commence bientôt !</summary>
+    <published>2021-11-24T10:30:00+01:00</published>
   </entry>
 </feed>

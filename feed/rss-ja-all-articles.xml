@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:52 +0000</lastBuildDate>
-    <item>
-      <title>「無相の交響詩　協奏曲・紫電の光」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8020</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210115/2021011514172897313.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8020">「無相の交響詩　協奏曲・紫電の光」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">8020</guid>
-      <pubDate>Sat, 16 Jan 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:53 +0000</lastBuildDate>
     <item>
       <title>「無相の交響詩　間奏曲・暴風の蝶」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8021</link>
@@ -730,6 +723,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112310092024370.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17228">「白雪に潜みし影」イベント予告</a>]]></description>
       <guid isPermaLink="false">17228</guid>
       <pubDate>Tue, 23 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「白雪に潜みし影」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17230</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112311352334333.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17230">「白雪に潜みし影」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17230</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</title>
@@ -1613,13 +1613,6 @@
       <pubDate>Tue, 16 Nov 2021 22:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>「真夏！島？大冒険！」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13329</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210607/2021060719072929281.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13329">「真夏！島？大冒険！」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">13329</guid>
-      <pubDate>Tue, 08 Jun 2021 10:44:00 +0900</pubDate>
-    </item>
-    <item>
       <title>コスチューム公開・ジン「海風の夢」</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/13337</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513203472511.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13337">コスチューム公開・ジン「海風の夢」</a>]]></description>
@@ -2316,6 +2309,13 @@
       <content:encoded><![CDATA[Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17287">Epic Games Storeがサポートするお支払方法について</a>]]></content:encoded>
       <guid isPermaLink="false">17287</guid>
       <pubDate>Wed, 24 Nov 2021 10:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「白雪に潜みし影」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17230</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112311352334333.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17230">「白雪に潜みし影」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17230</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

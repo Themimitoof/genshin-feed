@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:31 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -305,13 +305,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14721</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710503373764.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14721">Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</a>]]></description>
-      <guid isPermaLink="false">14721</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 -0400</pubDate>
     </item>
     <item>
       <title>"Seems like I could have just stayed in bed today." — "Mujina Ninja" Sayu</title>
@@ -1180,12 +1173,14 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <pubDate>Wed, 24 Nov 2021 10:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Initial Top-Up Bonus Reset</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15106</link>
-      <description>After the Genshin Impact Version 2.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082020055459873.jpg"><br/><br/>After the Genshin Impact Version 2.1 update, each top-up level of Genesis Crystals in the Crystal Top-Up page will be reset to provide a double bonus for the first top-up.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15106">Genshin Impact - Initial Top-Up Bonus Reset</a>]]></content:encoded>
-      <guid isPermaLink="false">15106</guid>
-      <pubDate>Fri, 20 Aug 2021 23:30:00 -0400</pubDate>
+      <title>"Shadows Amidst Snowstorms" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17233</link>
+      <description>The "Shadows Amidst Snowstorms" event is about to begin!
+Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314344821245.jpg"><br/><br/>The "Shadows Amidst Snowstorms" event is about to begin!
+Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17233">"Shadows Amidst Snowstorms" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">17233</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 -0500</pubDate>
     </item>
     <item>
       <title>Realm of Tranquil Eternity：Inazuma Live Symphony Performance | Genshin Impact </title>
@@ -2037,6 +2032,16 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317025638537.png"><br/><br/>Players on EGS can now access Epic Games Store payment options<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17261">Payment Methods Supported by Epic Games Store Now Available in Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17261</guid>
       <pubDate>Wed, 24 Nov 2021 10:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Shadows Amidst Snowstorms" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17233</link>
+      <description>The "Shadows Amidst Snowstorms" event is about to begin!
+Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314344821245.jpg"><br/><br/>The "Shadows Amidst Snowstorms" event is about to begin!
+Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17233">"Shadows Amidst Snowstorms" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">17233</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

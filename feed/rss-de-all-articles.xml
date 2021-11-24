@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:42 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -236,16 +236,6 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812121526926.png"><br/><br/>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/7463">Vorschau zur Aktualisierung auf Version 1.2 „Kreide und Drachen“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">7463</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>„Feuerwerk ist für jetzt, aber Freunde sind für immer.“ – „Ausgelassene Flammen – Yoimiya“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14617</link>
-      <description>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Yoimiya vor, die Feuerwerksexpertin von „Naganoharas Feuerwerksartikel“.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315500366029.jpg"><br/><br/>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Yoimiya vor, die Feuerwerksexpertin von „Naganoharas Feuerwerksartikel“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14617">„Feuerwerk ist für jetzt, aber Freunde sind für immer.“ – „Ausgelassene Flammen – Yoimiya“</a>]]></content:encoded>
-      <guid isPermaLink="false">14617</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</title>
@@ -1076,14 +1066,12 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>„Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.“ – „Mujina-Ninja“ – Sayu</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14742</link>
-      <description>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Sayu, einen Ninja aus dem „Shuumatsuban“ vor.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712143232807.jpg"><br/><br/>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Sayu, einen Ninja aus dem „Shuumatsuban“ vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14742">„Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.“ – „Mujina-Ninja“ – Sayu</a>]]></content:encoded>
-      <guid isPermaLink="false">14742</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0200</pubDate>
+      <title>Erläuterungen zur Spielweise von „Schatten im Schneesturm“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17256</link>
+      <description>Aktion „Schatten im Schneesturm“ ist bald verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316201094195.jpg"><br/><br/>Aktion „Schatten im Schneesturm“ ist bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17256">Erläuterungen zur Spielweise von „Schatten im Schneesturm“</a>]]></content:encoded>
+      <guid isPermaLink="false">17256</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</title>
@@ -1919,6 +1907,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
 hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17276">Erläuterungen zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“</a>]]></content:encoded>
       <guid isPermaLink="false">17276</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Schatten im Schneesturm“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17256</link>
+      <description>Aktion „Schatten im Schneesturm“ ist bald verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316201094195.jpg"><br/><br/>Aktion „Schatten im Schneesturm“ ist bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17256">Erläuterungen zur Spielweise von „Schatten im Schneesturm“</a>]]></content:encoded>
+      <guid isPermaLink="false">17256</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

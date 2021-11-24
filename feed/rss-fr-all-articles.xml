@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:35 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -252,14 +252,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Détails de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14448</link>
-      <description>Voici les détails de la mise à jour et de la compensation de la version 2.0 « Divinité impitoyable et euthymie éternelle ».</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022454699576.jpg"><br/><br/>Voici les détails de la mise à jour et de la compensation de la version 2.0 « Divinité impitoyable et euthymie éternelle ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14448">Détails de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></content:encoded>
-      <guid isPermaLink="false">14448</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Fracas du tonnerre »</title>
@@ -1020,11 +1012,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14731</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711062970680.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14731">Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</a>]]></description>
-      <guid isPermaLink="false">14731</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
+      <title>Détails de l'événement « Ombres au cœur du blizzard »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17258</link>
+      <description>L'événement « Ombres au cœur du blizzard » commence bientôt !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316224226458.jpg"><br/><br/>L'événement « Ombres au cœur du blizzard » commence bientôt !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17258">Détails de l'événement « Ombres au cœur du blizzard »</a>]]></content:encoded>
+      <guid isPermaLink="false">17258</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>« Plutôt dormir que de travailler. » – Sayu · Mujina shinobi</title>
@@ -1773,6 +1766,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112323032344886.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17292">Événement « Ombres au cœur du blizzard » : obtenez l'épée à une main exclusive « Fuseau de cinabre »</a>]]></description>
       <guid isPermaLink="false">17292</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Ombres au cœur du blizzard »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17258</link>
+      <description>L'événement « Ombres au cœur du blizzard » commence bientôt !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316224226458.jpg"><br/><br/>L'événement « Ombres au cœur du blizzard » commence bientôt !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17258">Détails de l'événement « Ombres au cœur du blizzard »</a>]]></content:encoded>
+      <guid isPermaLink="false">17258</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

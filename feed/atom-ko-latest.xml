@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-11-24T02:25:52.107061+00:00</updated>
+  <updated>2021-11-24T03:10:53.616295+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14792</id>
-    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「요이미야: 한여름의 불꽃」</title>
-    <updated>2021-08-09T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910343427717.jpg"><br/><br/>열정과 동심을 품은 사람은 반드시 요이미야가 정성껏 준비한 불꽃축제에서 극진한 대접을 받는다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14792"><원신> 신규 캐릭터 플레이 - 「요이미야: 한여름의 불꽃」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14792" rel="alternate"/>
-    <summary>열정과 동심을 품은 사람은 반드시 요이미야가 정성껏 준비한 불꽃축제에서 극진한 대접을 받는다.</summary>
-    <published>2021-08-09T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>14853</id>
     <title>&lt;원신&gt; 데인 여담 - 「요이미야: 염초 불꽃의 속삭임」</title>
@@ -949,5 +940,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17289" rel="alternate"/>
     <summary>이벤트 기간에 「눈보라 속 그림자」 이벤트를 통해 「눈에서의 탄생」 콘텐츠에 참여하고 「드래곤 스파인」 지역에서 각종 도전을 완료하면 「한손검·진사의 방추」를 획득하실 수 있습니다</summary>
     <published>2021-11-24T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17260</id>
+    <title>「눈보라 속 그림자」 콘텐츠 안내</title>
+    <updated>2021-11-24T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316545296509.jpg"><br/><br/>「눈보라 속 그림자」 이벤트 오픈 예정!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17260">「눈보라 속 그림자」 콘텐츠 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17260" rel="alternate"/>
+    <summary>「눈보라 속 그림자」 이벤트 오픈 예정!</summary>
+    <published>2021-11-24T10:30:00+09:00</published>
   </entry>
 </feed>

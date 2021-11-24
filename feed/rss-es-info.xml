@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:41 +0000</lastBuildDate>
-    <item>
-      <title>Evento web «Recuerdos de la Noche de Verano» ya disponible</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14687</link>
-      <description>Los fuegos artificiales que estallan en el cielo iluminaron los ojos de la joven a mi lado...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511175720616.jpg"><br/><br/>Los fuegos artificiales que estallan en el cielo iluminaron los ojos de la joven a mi lado...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14687">Evento web «Recuerdos de la Noche de Verano» ya disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">14687</guid>
-      <pubDate>Thu, 05 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:43 +0000</lastBuildDate>
     <item>
       <title>Demo de nuevo personaje de Genshin Impact - Sayu: ¡Yujuuu, un tejón!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14733</link>
@@ -813,6 +805,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318250334202.jpg"><br/><br/>Durante el evento «Sombras de nieve y polvo» podrás participar en «Nacidos de la nieve» y completar diversos desafíos en Espinadragón para obtener el arma Huso de Cinabrio (espada ligera), y coleccionar "Insignia pisanieves" e "Insignia secreta" para intercambiarlos en la Tienda del evento por materiales de refinamiento de arma, Corona de la sabiduría, materiales de ascensión de arma, materiales de mejora de talento, Ingenio del héroe, Moras, minerales de refinamiento místico y otras recompensas<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17275">Evento «Sombras de nieve y polvo» - Participa en el evento y consigue el arma exclusiva Huso de Cinabrio</a>]]></content:encoded>
       <guid isPermaLink="false">17275</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego «Sombras de nieve y polvo»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17240</link>
+      <description>¡Ya está disponible el evento «Sombras de nieve y polvo»!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112315311050691.jpg"><br/><br/>¡Ya está disponible el evento «Sombras de nieve y polvo»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17240">Modo de juego «Sombras de nieve y polvo»</a>]]></content:encoded>
+      <guid isPermaLink="false">17240</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

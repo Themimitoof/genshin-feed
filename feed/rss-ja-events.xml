@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:51 +0000</lastBuildDate>
-    <item>
-      <title>「無相の交響詩　協奏曲・紫電の光」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8020</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210115/2021011514172897313.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8020">「無相の交響詩　協奏曲・紫電の光」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">8020</guid>
-      <pubDate>Sat, 16 Jan 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:52 +0000</lastBuildDate>
     <item>
       <title>「無相の交響詩　間奏曲・暴風の蝶」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8021</link>
@@ -730,6 +723,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112310092024370.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17228">「白雪に潜みし影」イベント予告</a>]]></description>
       <guid isPermaLink="false">17228</guid>
       <pubDate>Tue, 23 Nov 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「白雪に潜みし影」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17230</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112311352334333.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17230">「白雪に潜みし影」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17230</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

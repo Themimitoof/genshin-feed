@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:26:09 +0000</lastBuildDate>
-    <item>
-      <title>Sự kiện web có thưởng "Giao Ước Bạch Hạc" đã mở</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14502</link>
-      <description>"Tôi đã mong được gặp bạn từ lâu" - [Genshin Impact] Sự kiện web "Giao Ước Bạch Hạc" của nhân vật mới Kamisato Ayaka chính thức ra mắt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610582118193.jpg"><br/><br/>"Tôi đã mong được gặp bạn từ lâu" - [Genshin Impact] Sự kiện web "Giao Ước Bạch Hạc" của nhân vật mới Kamisato Ayaka chính thức ra mắt.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14502">Sự kiện web có thưởng "Giao Ước Bạch Hạc" đã mở</a>]]></content:encoded>
-      <guid isPermaLink="false">14502</guid>
-      <pubDate>Mon, 26 Jul 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:11:09 +0000</lastBuildDate>
     <item>
       <title>"Pháo hoa dễ tàn, tình người còn mãi" - Vũ Điệu Bão Lửa - Yoimiya				</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14616</link>
@@ -750,6 +742,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319434099352.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17285">Sự kiện "Ảo Ảnh Giữa Bão Tuyết": Tham gia để có cơ hội nhận được vũ khí đặc biệt của sự kiện "Kiếm Đơn - Con Thoi Chu Sa"</a>]]></description>
       <guid isPermaLink="false">17285</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17234</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314571845399.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17234">Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</a>]]></description>
+      <guid isPermaLink="false">17234</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

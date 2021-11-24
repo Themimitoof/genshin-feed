@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:29 +0000</lastBuildDate>
-    <item>
-      <title>Détails de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14448</link>
-      <description>Voici les détails de la mise à jour et de la compensation de la version 2.0 « Divinité impitoyable et euthymie éternelle ».</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072022454699576.jpg"><br/><br/>Voici les détails de la mise à jour et de la compensation de la version 2.0 « Divinité impitoyable et euthymie éternelle ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14448">Détails de la mise à jour de version 2.0 « Divinité impitoyable et euthymie éternelle »</a>]]></content:encoded>
-      <guid isPermaLink="false">14448</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:32 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement « Fracas du tonnerre »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14451</link>
@@ -774,6 +766,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112323032344886.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17292">Événement « Ombres au cœur du blizzard » : obtenez l'épée à une main exclusive « Fuseau de cinabre »</a>]]></description>
       <guid isPermaLink="false">17292</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Ombres au cœur du blizzard »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17258</link>
+      <description>L'événement « Ombres au cœur du blizzard » commence bientôt !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316224226458.jpg"><br/><br/>L'événement « Ombres au cœur du blizzard » commence bientôt !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17258">Détails de l'événement « Ombres au cœur du blizzard »</a>]]></content:encoded>
+      <guid isPermaLink="false">17258</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

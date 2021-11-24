@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:56 +0000</lastBuildDate>
-    <item>
-      <title>Descrição do Modo de Jogo "Técnica Geneishin"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15033</link>
-      <description>O Evento "Técnica Geneishin" estará disponível em breve!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081815572431210.jpg"><br/><br/>O Evento "Técnica Geneishin" estará disponível em breve!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15033">Descrição do Modo de Jogo "Técnica Geneishin"</a>]]></content:encoded>
-      <guid isPermaLink="false">15033</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:57 +0000</lastBuildDate>
     <item>
       <title>Teaser da Versão 2.1 de Genshin Impact: "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15078</link>
@@ -810,6 +802,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318173126003.jpg"><br/><br/>Durante o período do evento, participe do Modo de Jogo, "Nascido da Neve" e conclua os diversos desafios na área da "Espinha do Dragão" do evento "Poeira e Neve Escura" para obter o "Haste de Cinábrio (Espada)"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17273">Evento "Poeira e Neve Escura": Participe para obter a exclusiva arma do evento "Haste de Cinábrio (Espada)"</a>]]></content:encoded>
       <guid isPermaLink="false">17273</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Descrição do Modo de Jogo do Evento "Poeira e Neve Escura"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17231</link>
+      <description>O evento "Poeira e Neve Escura" estará disponível em breve!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314250919840.jpg"><br/><br/>O evento "Poeira e Neve Escura" estará disponível em breve!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17231">Descrição do Modo de Jogo do Evento "Poeira e Neve Escura"</a>]]></content:encoded>
+      <guid isPermaLink="false">17231</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

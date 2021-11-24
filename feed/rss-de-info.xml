@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:37 +0000</lastBuildDate>
-    <item>
-      <title>„Feuerwerk ist für jetzt, aber Freunde sind für immer.“ – „Ausgelassene Flammen – Yoimiya“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14617</link>
-      <description>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Yoimiya vor, die Feuerwerksexpertin von „Naganoharas Feuerwerksartikel“.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080315500366029.jpg"><br/><br/>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Yoimiya vor, die Feuerwerksexpertin von „Naganoharas Feuerwerksartikel“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14617">„Feuerwerk ist für jetzt, aber Freunde sind für immer.“ – „Ausgelassene Flammen – Yoimiya“</a>]]></content:encoded>
-      <guid isPermaLink="false">14617</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:40 +0000</lastBuildDate>
     <item>
       <title>Figurenvorschau von Genshin Impact für Yoimiya – „Das Beste am Sommer auf Narukami“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14639</link>
@@ -846,6 +836,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
 hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17276">Erläuterungen zur Aktualisierung auf Version 2.3 „Schatten im Schneesturm“</a>]]></content:encoded>
       <guid isPermaLink="false">17276</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Schatten im Schneesturm“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17256</link>
+      <description>Aktion „Schatten im Schneesturm“ ist bald verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316201094195.jpg"><br/><br/>Aktion „Schatten im Schneesturm“ ist bald verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17256">Erläuterungen zur Spielweise von „Schatten im Schneesturm“</a>]]></content:encoded>
+      <guid isPermaLink="false">17256</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

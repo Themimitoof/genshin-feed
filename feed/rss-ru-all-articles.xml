@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 03:11:04 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -279,14 +279,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121817025631829.png"><br/><br/>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/7467">Страница предварительной демонстрации версии 1.2 «Принц мела и дракон» уже открыта!</a>]]></content:encoded>
       <guid isPermaLink="false">7467</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14644</link>
-      <description>Ёимия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319334651956.jpg"><br/><br/>Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14644">«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14644</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
       <title>Браузерное событие «Воспоминания в летнюю ночь» стартовало!</title>
@@ -1088,12 +1080,12 @@
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0300</pubDate>
     </item>
     <item>
-      <title>Описание события «Театр Механикус: Этап чудес»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14859</link>
-      <description>Театр Механикус: Этап чудес</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015164487813.jpg"><br/><br/>Театр Механикус: Этап чудес<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14859">Описание события «Театр Механикус: Этап чудес»</a>]]></content:encoded>
-      <guid isPermaLink="false">14859</guid>
-      <pubDate>Wed, 11 Aug 2021 10:30:00 +0300</pubDate>
+      <title>Описание события «Белая пыль и снежная тень»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17232</link>
+      <description>Событие «Белая пыль и снежная тень» вот-вот начнётся!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314392525525.jpg"><br/><br/>Событие «Белая пыль и снежная тень» вот-вот начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17232">Описание события «Белая пыль и снежная тень»</a>]]></content:encoded>
+      <guid isPermaLink="false">17232</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0300</pubDate>
     </item>
     <item>
       <title>Саю: Колесо ветра | Коллекция Genshin Impact</title>
@@ -1897,6 +1889,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112318475823929.jpg"><br/><br/>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17282">Событие «Белая пыль и снежная тень»: примите участие в событии, чтобы получить особый предмет Киноварное веретено (Одноручное)</a>]]></content:encoded>
       <guid isPermaLink="false">17282</guid>
       <pubDate>Wed, 24 Nov 2021 07:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Белая пыль и снежная тень»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17232</link>
+      <description>Событие «Белая пыль и снежная тень» вот-вот начнётся!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314392525525.jpg"><br/><br/>Событие «Белая пыль и снежная тень» вот-вот начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17232">Описание события «Белая пыль и снежная тень»</a>]]></content:encoded>
+      <guid isPermaLink="false">17232</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

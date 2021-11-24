@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-11-24T02:26:12.049455+00:00</updated>
+  <updated>2021-11-24T03:11:12.211486+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -251,15 +251,6 @@
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14502</id>
-    <title>Sự kiện web có thưởng "Giao Ước Bạch Hạc" đã mở</title>
-    <updated>2021-07-26T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072610582118193.jpg"><br/><br/>"Tôi đã mong được gặp bạn từ lâu" - [Genshin Impact] Sự kiện web "Giao Ước Bạch Hạc" của nhân vật mới Kamisato Ayaka chính thức ra mắt.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14502">Sự kiện web có thưởng "Giao Ước Bạch Hạc" đã mở</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14502" rel="alternate"/>
-    <summary>"Tôi đã mong được gặp bạn từ lâu" - [Genshin Impact] Sự kiện web "Giao Ước Bạch Hạc" của nhân vật mới Kamisato Ayaka chính thức ra mắt.</summary>
-    <published>2021-07-26T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14616</id>
@@ -1114,13 +1105,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-11-24T07:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14749</id>
-    <title>Cầu nguyện Thiên Hà Rực Lửa: UP xác suất Vũ Điệu Bão Lửa - Yoimiya (Hỏa)!</title>
-    <updated>2021-08-08T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080713520645280.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14749">Cầu nguyện Thiên Hà Rực Lửa: UP xác suất Vũ Điệu Bão Lửa - Yoimiya (Hỏa)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14749" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-08-08T12:00:00+07:00</published>
+    <id>17234</id>
+    <title>Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</title>
+    <updated>2021-11-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314571845399.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17234">Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17234" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>14750</id>
@@ -1962,5 +1953,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319434099352.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17285">Sự kiện "Ảo Ảnh Giữa Bão Tuyết": Tham gia để có cơ hội nhận được vũ khí đặc biệt của sự kiện "Kiếm Đơn - Con Thoi Chu Sa"</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17285" rel="alternate"/>
     <published>2021-11-24T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17234</id>
+    <title>Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</title>
+    <updated>2021-11-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314571845399.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17234">Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17234" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T10:30:00+07:00</published>
   </entry>
 </feed>

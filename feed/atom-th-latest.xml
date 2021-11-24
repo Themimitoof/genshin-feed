@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-11-24T02:26:04.177128+00:00</updated>
+  <updated>2021-11-24T03:11:04.954994+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14755</id>
-    <title>การอธิษฐาน "ทะเลดาวแห่งเปลวเพลิง": โอกาสได้รับ UP "ประกายเพลิงเริงระบำ - Yoimiya (ไฟ)"!</title>
-    <updated>2021-08-08T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080715320591382.jpg"><br/><br/>การอธิษฐาน "ทะเลดาวแห่งเปลวเพลิง": โอกาสได้รับ UP "ประกายเพลิงเริงระบำ - Yoimiya (ไฟ)"!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14755">การอธิษฐาน "ทะเลดาวแห่งเปลวเพลิง": โอกาสได้รับ UP "ประกายเพลิงเริงระบำ - Yoimiya (ไฟ)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14755" rel="alternate"/>
-    <summary>การอธิษฐาน "ทะเลดาวแห่งเปลวเพลิง": โอกาสได้รับ UP "ประกายเพลิงเริงระบำ - Yoimiya (ไฟ)"!</summary>
-    <published>2021-08-08T12:01:00+07:00</published>
-  </entry>
   <entry>
     <id>14713</id>
     <title>Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.0 ช่วงที่ 2</title>
@@ -855,5 +846,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319461347701.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17286">กิจกรรม "ฝุ่นธุลีและเงาแห่งหิมะ": เข้าร่วมกิจกรรมเพื่อรับอาวุธพิเศษ "ดาบ - Cinnabar Spindle"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17286" rel="alternate"/>
     <published>2021-11-24T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17235</id>
+    <title>คำอธิบายเกมเพลย์ "ฝุ่นธุลีและเงาแห่งหิมะ"</title>
+    <updated>2021-11-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314584719757.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17235">คำอธิบายเกมเพลย์ "ฝุ่นธุลีและเงาแห่งหิมะ"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17235" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T10:30:00+07:00</published>
   </entry>
 </feed>

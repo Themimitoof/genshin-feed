@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-11-24T02:26:04.121323+00:00</updated>
+  <updated>2021-11-24T03:11:04.909887+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -317,15 +317,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14644</id>
-    <title>«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</title>
-    <updated>2021-08-04T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319334651956.jpg"><br/><br/>Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14644">«Лучшее в лете острова Наруками» Ёимия - Истории персонажей | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14644" rel="alternate"/>
-    <summary>Ёимия</summary>
-    <published>2021-08-04T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>14684</id>
@@ -1227,13 +1218,13 @@
     <published>2021-11-24T07:00:00+03:00</published>
   </entry>
   <entry>
-    <id>14859</id>
-    <title>Описание события «Театр Механикус: Этап чудес»</title>
-    <updated>2021-08-11T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015164487813.jpg"><br/><br/>Театр Механикус: Этап чудес<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14859">Описание события «Театр Механикус: Этап чудес»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14859" rel="alternate"/>
-    <summary>Театр Механикус: Этап чудес</summary>
-    <published>2021-08-11T10:30:00+03:00</published>
+    <id>17232</id>
+    <title>Описание события «Белая пыль и снежная тень»</title>
+    <updated>2021-11-24T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314392525525.jpg"><br/><br/>Событие «Белая пыль и снежная тень» вот-вот начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17232">Описание события «Белая пыль и снежная тень»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17232" rel="alternate"/>
+    <summary>Событие «Белая пыль и снежная тень» вот-вот начнётся!</summary>
+    <published>2021-11-24T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>14882</id>
@@ -2137,5 +2128,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17282" rel="alternate"/>
     <summary>В период проведения события «Белая пыль и снежная тень» Путешественники могут принять в нём участие: сыграть в игру «Рождённые из снега», выполнить различные испытания на Драконьем хребте, чтобы получить Киноварное веретено (Одноручное).</summary>
     <published>2021-11-24T07:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17232</id>
+    <title>Описание события «Белая пыль и снежная тень»</title>
+    <updated>2021-11-24T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314392525525.jpg"><br/><br/>Событие «Белая пыль и снежная тень» вот-вот начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17232">Описание события «Белая пыль и снежная тень»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17232" rel="alternate"/>
+    <summary>Событие «Белая пыль и снежная тень» вот-вот начнётся!</summary>
+    <published>2021-11-24T10:30:00+03:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Nov 2021 02:25:24 +0000</lastBuildDate>
-    <item>
-      <title>Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14721</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710503373764.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14721">Character Demo - "Sayu: Yoohoo Art, Mujina Escape" | Genshin Impact</a>]]></description>
-      <guid isPermaLink="false">14721</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 24 Nov 2021 03:10:29 +0000</lastBuildDate>
     <item>
       <title>"Seems like I could have just stayed in bed today." — "Mujina Ninja" Sayu</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14746</link>
@@ -881,6 +874,16 @@ Oh, and the strong desire ignited in his heart to repay the kindness shown to hi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317025638537.png"><br/><br/>Players on EGS can now access Epic Games Store payment options<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17261">Payment Methods Supported by Epic Games Store Now Available in Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17261</guid>
       <pubDate>Wed, 24 Nov 2021 10:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Shadows Amidst Snowstorms" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17233</link>
+      <description>The "Shadows Amidst Snowstorms" event is about to begin!
+Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314344821245.jpg"><br/><br/>The "Shadows Amidst Snowstorms" event is about to begin!
+Paimon has an odd thought and drags you off to the Mondstadt alchemy shop to seek answers...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17233">"Shadows Amidst Snowstorms" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">17233</guid>
+      <pubDate>Wed, 24 Nov 2021 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

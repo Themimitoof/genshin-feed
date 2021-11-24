@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-11-24T02:26:08.198184+00:00</updated>
+  <updated>2021-11-24T03:11:08.469757+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14749</id>
-    <title>Cầu nguyện Thiên Hà Rực Lửa: UP xác suất Vũ Điệu Bão Lửa - Yoimiya (Hỏa)!</title>
-    <updated>2021-08-08T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080713520645280.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14749">Cầu nguyện Thiên Hà Rực Lửa: UP xác suất Vũ Điệu Bão Lửa - Yoimiya (Hỏa)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14749" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-08-08T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14750</id>
     <title>Cầu nguyện "Thân Hình Thần Đúc", UP xác suất Cung - Sấm Sét Rung Động, Kiếm Đơn - Thiên Không Kiếm!</title>
@@ -858,5 +849,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112319434099352.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17285">Sự kiện "Ảo Ảnh Giữa Bão Tuyết": Tham gia để có cơ hội nhận được vũ khí đặc biệt của sự kiện "Kiếm Đơn - Con Thoi Chu Sa"</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17285" rel="alternate"/>
     <published>2021-11-24T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17234</id>
+    <title>Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</title>
+    <updated>2021-11-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112314571845399.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17234">Hướng Dẫn Cách Chơi "Ảo Ảnh Giữa Bão Tuyết"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17234" rel="alternate"/>
+    <summary/>
+    <published>2021-11-24T10:30:00+07:00</published>
   </entry>
 </feed>
