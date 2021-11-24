@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-11-24T10:11:00.816160+00:00</updated>
+  <updated>2021-11-24T11:08:52.281021+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14786</id>
-    <title>ตัวอย่างตัวละคร Genshin Impact - "Yoimiya: ประกายดอกไม้ไฟในค่ำคืนแห่งฤดูร้อน"</title>
-    <updated>2021-08-09T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910120779801.jpg"><br/><br/>ผู้ที่มีจิตใจเปี่ยมไปด้วยรักและความไร้เดียงสา จะได้รับการต้อนรับอย่างอบอุ่นจากงานเทศกาลดอกไม้ไฟที่ Yoimiya จัดเตรียมไว้อย่างแน่นอน<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14786">ตัวอย่างตัวละคร Genshin Impact - "Yoimiya: ประกายดอกไม้ไฟในค่ำคืนแห่งฤดูร้อน"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14786" rel="alternate"/>
-    <summary>ผู้ที่มีจิตใจเปี่ยมไปด้วยรักและความไร้เดียงสา จะได้รับการต้อนรับอย่างอบอุ่นจากงานเทศกาลดอกไม้ไฟที่ Yoimiya จัดเตรียมไว้อย่างแน่นอน</summary>
-    <published>2021-08-09T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14830</id>
     <title>[Genshin Impact] เก็บตกตัวละคร - "Yoimiya: ถ้อยคำที่ลุกโชนดั่งไฟ"</title>
@@ -853,5 +844,13 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/17248" rel="alternate"/>
     <summary/>
     <published>2021-11-24T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17331</id>
+    <title>กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</title>
+    <updated>2021-11-24T19:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17331">กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17331" rel="alternate"/>
+    <published>2021-11-24T19:00:00+07:00</published>
   </entry>
 </feed>

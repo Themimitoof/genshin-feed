@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-11-24T10:10:58.903168+00:00</updated>
+  <updated>2021-11-24T11:08:48.214629+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -163,6 +163,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17131" rel="alternate"/>
     <summary>새로운 도전! 새로운 목표~! 매일 HoYoLAB에서 페이몬의 퀴즈 도전에 참여해 정답을 맞히고 모라 보상을 획득해 봐~!</summary>
     <published>2021-11-19T17:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17336</id>
+    <title>Twitch &lt;원신&gt;  스트리머 모집</title>
+    <updated>2021-11-24T19:05:00+09:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17336">Twitch <원신>  스트리머 모집</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17336" rel="alternate"/>
+    <published>2021-11-24T19:05:00+09:00</published>
   </entry>
   <entry>
     <id>693</id>
@@ -1303,15 +1311,6 @@
     <published>2021-11-24T12:01:00+09:00</published>
   </entry>
   <entry>
-    <id>14887</id>
-    <title>「기관 디펜스·신묘한 국면」 콘텐츠 안내</title>
-    <updated>2021-08-11T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081019314987742.jpg"><br/><br/>「기관 디펜스 대리인」 코마가타의 노력으로 리월의 「보드게임·기관 디펜스」가 이나즈마에 전파됐어. 코마가타의 말에 따르면, 이번 「기관 디펜스」에는 특별한 신규 플레이 방법이 추가된 것 같다던데…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14887">「기관 디펜스·신묘한 국면」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14887" rel="alternate"/>
-    <summary>「기관 디펜스 대리인」 코마가타의 노력으로 리월의 「보드게임·기관 디펜스」가 이나즈마에 전파됐어. 코마가타의 말에 따르면, 이번 「기관 디펜스」에는 특별한 신규 플레이 방법이 추가된 것 같다던데…</summary>
-    <published>2021-08-11T10:30:00+09:00</published>
-  </entry>
-  <entry>
     <id>14890</id>
     <title>&lt;원신&gt; 데인 여담 - 「사유: 풍풍륜」</title>
     <updated>2021-08-11T12:01:00+09:00</updated>
@@ -2240,5 +2239,13 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17262" rel="alternate"/>
     <summary/>
     <published>2021-11-24T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17336</id>
+    <title>Twitch &lt;원신&gt;  스트리머 모집</title>
+    <updated>2021-11-24T19:05:00+09:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17336">Twitch <원신>  스트리머 모집</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17336" rel="alternate"/>
+    <published>2021-11-24T19:05:00+09:00</published>
   </entry>
 </feed>

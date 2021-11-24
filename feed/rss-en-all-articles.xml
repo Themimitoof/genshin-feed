@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Nov 2021 10:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 11:08:32 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -155,6 +155,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211119/2021111920100698991.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17151">[HoYo FEST FAQ] Singapore & Malaysia & Philippines </a>]]></description>
       <guid isPermaLink="false">17151</guid>
       <pubDate>Fri, 19 Nov 2021 20:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17329</link>
+      <description>The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</description>
+      <content:encoded><![CDATA[The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17329">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">17329</guid>
+      <pubDate>Wed, 24 Nov 2021 19:00:00 -0500</pubDate>
     </item>
     <item>
       <title>Manga Update: Chapter 9 Part 1 is Going to Update!</title>
@@ -1187,16 +1195,6 @@ Everything comes to life with a light stroke of the brush.<br><br>Read more on <
       <pubDate>Wed, 24 Nov 2021 12:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15129</link>
-      <description>Dear Traveler,
-The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082119245498236.jpg"><br/><br/>Dear Traveler,
-The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15129">The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</a>]]></content:encoded>
-      <guid isPermaLink="false">15129</guid>
-      <pubDate>Sat, 21 Aug 2021 19:23:46 -0400</pubDate>
-    </item>
-    <item>
       <title>Version 2.1 Update Preview: Fishing Gameplay Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15149</link>
       <description>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~</description>
@@ -2050,6 +2048,14 @@ Memories are engraved on the earth, which give rise to nature's treasures.
 Everything comes to life with a light stroke of the brush.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17244">Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
       <guid isPermaLink="false">17244</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17329</link>
+      <description>The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</description>
+      <content:encoded><![CDATA[The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17329">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">17329</guid>
+      <pubDate>Wed, 24 Nov 2021 19:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

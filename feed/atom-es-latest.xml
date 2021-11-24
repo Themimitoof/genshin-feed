@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-11-24T10:10:56.192191+00:00</updated>
+  <updated>2021-11-24T11:08:39.217531+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15074</id>
-    <title>Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</title>
-    <updated>2021-08-20T22:45:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014255612158.jpg"><br/><br/>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15074">Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15074" rel="alternate"/>
-    <summary>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.</summary>
-    <published>2021-08-20T22:45:00+02:00</published>
-  </entry>
   <entry>
     <id>15107</id>
     <title>Restablecimiento de la bonificación doble por primera recarga en la tienda</title>
@@ -919,5 +910,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <link href="https://genshin.mihoyo.com/es/news/detail/17252" rel="alternate"/>
     <summary>Una ventisca arrasa en la montaña, ocultando los enigmas del pasado.</summary>
     <published>2021-11-24T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17328</id>
+    <title>Reclutar streamers de la nueva versión en Twitch</title>
+    <updated>2021-11-24T19:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17328">Reclutar streamers de la nueva versión en Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17328" rel="alternate"/>
+    <summary>Querido/a viajero/a:</summary>
+    <published>2021-11-24T19:00:00+01:00</published>
   </entry>
 </feed>

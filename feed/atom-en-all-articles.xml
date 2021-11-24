@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-11-24T10:10:54.509977+00:00</updated>
+  <updated>2021-11-24T11:08:32.175253+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -174,6 +174,15 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/17151" rel="alternate"/>
     <summary/>
     <published>2021-11-19T20:10:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17329</id>
+    <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+    <updated>2021-11-24T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17329">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17329" rel="alternate"/>
+    <summary>The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
+    <published>2021-11-24T19:00:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -1330,17 +1339,6 @@ Everything comes to life with a light stroke of the brush.</summary>
     <published>2021-11-24T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>15129</id>
-    <title>The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</title>
-    <updated>2021-08-21T19:23:46-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082119245498236.jpg"><br/><br/>Dear Traveler,
-The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15129">The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15129" rel="alternate"/>
-    <summary>Dear Traveler,
-The Version 2.1 "Floating World Under the Moonlight" Preview Page Is Here!</summary>
-    <published>2021-08-21T19:23:46-04:00</published>
-  </entry>
-  <entry>
     <id>15149</id>
     <title>Version 2.1 Update Preview: Fishing Gameplay Details</title>
     <updated>2021-08-24T10:30:00-04:00</updated>
@@ -2295,5 +2293,14 @@ Everything comes to life with a light stroke of the brush.<br><br>Read more on <
 Memories are engraved on the earth, which give rise to nature's treasures.
 Everything comes to life with a light stroke of the brush.</summary>
     <published>2021-11-24T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17329</id>
+    <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+    <updated>2021-11-24T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17329">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17329" rel="alternate"/>
+    <summary>The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
+    <published>2021-11-24T19:00:00-05:00</published>
   </entry>
 </feed>

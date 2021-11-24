@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-11-24T10:10:57.907521+00:00</updated>
+  <updated>2021-11-24T11:08:44.327911+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -182,6 +182,17 @@ Cepat lihat daftar pemenang, mungkin kamu adalah bintang yang paling bersinar～
     <link href="https://genshin.mihoyo.com/id/news/detail/17150" rel="alternate"/>
     <summary/>
     <published>2021-11-19T20:05:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17330</id>
+    <title>Event Perekrutan Streamer Genshin Impact</title>
+    <updated>2021-11-24T19:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[Dear Traveler,
+Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Siarkan kontenmu secara langsung, selesaikan misi dan menangkan hadiah Primogem!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17330">Event Perekrutan Streamer Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17330" rel="alternate"/>
+    <summary>Dear Traveler,
+Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Siarkan kontenmu secara langsung, selesaikan misi dan menangkan hadiah Primogem!</summary>
+    <published>2021-11-24T19:00:00+07:00</published>
   </entry>
   <entry>
     <id>735</id>
@@ -1224,15 +1235,6 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
     <published>2021-11-24T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>14871</id>
-    <title>Aneka Koleksi Genshin Impact - "Sayu: Roda Angin yang Berguling"</title>
-    <updated>2021-08-11T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081017430675732.jpg"><br/><br/>Makan makanan berkarbohidrat tinggi dan bekerja tanpa habiskan banyak energi, adalah jalan ninja si kecil Sayu.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14871">Aneka Koleksi Genshin Impact - "Sayu: Roda Angin yang Berguling"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14871" rel="alternate"/>
-    <summary>Makan makanan berkarbohidrat tinggi dan bekerja tanpa habiskan banyak energi, adalah jalan ninja si kecil Sayu.</summary>
-    <published>2021-08-11T12:00:00+07:00</published>
-  </entry>
-  <entry>
     <id>15040</id>
     <title>Cara Bermain "Aliran Bayangan"</title>
     <updated>2021-08-19T10:30:00+07:00</updated>
@@ -2134,5 +2136,16 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
     <link href="https://genshin.mihoyo.com/id/news/detail/17264" rel="alternate"/>
     <summary>Badai salju berlomba-lomba menuju puncak, 'tuk sembunyikan masa lalu yang penuh rahasia.</summary>
     <published>2021-11-24T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17330</id>
+    <title>Event Perekrutan Streamer Genshin Impact</title>
+    <updated>2021-11-24T19:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[Dear Traveler,
+Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Siarkan kontenmu secara langsung, selesaikan misi dan menangkan hadiah Primogem!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17330">Event Perekrutan Streamer Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17330" rel="alternate"/>
+    <summary>Dear Traveler,
+Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Siarkan kontenmu secara langsung, selesaikan misi dan menangkan hadiah Primogem!</summary>
+    <published>2021-11-24T19:00:00+07:00</published>
   </entry>
 </feed>

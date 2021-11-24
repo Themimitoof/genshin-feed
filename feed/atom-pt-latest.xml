@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-11-24T10:10:58.948311+00:00</updated>
+  <updated>2021-11-24T11:08:48.260229+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15100</id>
-    <title>"Genshin Impact" - Redefinição do Bônus Duplo de Primeira Recarga</title>
-    <updated>2021-08-20T23:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018462197004.jpg"><br/><br/>Após a atualização da Versão 2.1, todos os produtos na interface de Recarga de Cristais serão redefinidos para o modo de bônus duplo de primeira recarga.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15100">"Genshin Impact" - Redefinição do Bônus Duplo de Primeira Recarga</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15100" rel="alternate"/>
-    <summary>Após a atualização da Versão 2.1, todos os produtos na interface de Recarga de Cristais serão redefinidos para o modo de bônus duplo de primeira recarga.</summary>
-    <published>2021-08-20T23:30:00+01:00</published>
-  </entry>
   <entry>
     <id>15053</id>
     <title>Genshin Impact - Apresentação da Orquestra Sinfônica de Inazuma "Realm of Tranquil Eternity"</title>
@@ -912,5 +903,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17245" rel="alternate"/>
     <summary>O vento agita a neve no topo das montanhas, ocultando um passado enigmático.</summary>
     <published>2021-11-24T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17332</id>
+    <title>Recrutamento de streamers da nova versão de Genshin Impact de Twitch</title>
+    <updated>2021-11-24T19:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[Junto com a atualização da Versão 2.3 "Poeira e Neve Escura", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17332">Recrutamento de streamers da nova versão de Genshin Impact de Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17332" rel="alternate"/>
+    <summary>Junto com a atualização da Versão 2.3 "Poeira e Neve Escura", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.</summary>
+    <published>2021-11-24T19:00:00+00:00</published>
   </entry>
 </feed>

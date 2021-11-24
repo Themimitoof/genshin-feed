@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 24 Nov 2021 10:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 11:08:41 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -137,6 +137,14 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610564781683.jpg"><br/><br/>¡Vuelve el evento «Las mil preguntas de Paimon»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17117">¡Vuelve el evento «Las mil preguntas de Paimon»!</a>]]></content:encoded>
       <guid isPermaLink="false">17117</guid>
       <pubDate>Fri, 19 Nov 2021 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Reclutar streamers de la nueva versión en Twitch</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17328</link>
+      <description>Querido/a viajero/a:</description>
+      <content:encoded><![CDATA[Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17328">Reclutar streamers de la nueva versión en Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">17328</guid>
+      <pubDate>Wed, 24 Nov 2021 19:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Genshin Impact: ¡Ven a explorar Teyvat con Amber!</title>
@@ -1060,14 +1068,6 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15074</link>
-      <description>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014255612158.jpg"><br/><br/>Bajo la luz de la luna, las personas se reúnen y comparten sus deseos más profundos. Mientras observan los relámpagos y el fuego, disfrutan del calor de las chimeneas y de la luz de las linternas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15074">Avance de la versión 2.1 de Genshin Impact: Una luna sobre los mortales</a>]]></content:encoded>
-      <guid isPermaLink="false">15074</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Restablecimiento de la bonificación doble por primera recarga en la tienda</title>
       <link>https://genshin.mihoyo.com/es/news/detail/15107</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082020272098358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15107">Restablecimiento de la bonificación doble por primera recarga en la tienda</a>]]></description>
@@ -1865,6 +1865,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316180436386.jpg"><br/><br/>Una ventisca arrasa en la montaña, ocultando los enigmas del pasado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17252">Mini álbum de Genshin Impact - A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
       <guid isPermaLink="false">17252</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Reclutar streamers de la nueva versión en Twitch</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17328</link>
+      <description>Querido/a viajero/a:</description>
+      <content:encoded><![CDATA[Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17328">Reclutar streamers de la nueva versión en Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">17328</guid>
+      <pubDate>Wed, 24 Nov 2021 19:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

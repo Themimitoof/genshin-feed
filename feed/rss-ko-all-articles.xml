@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 24 Nov 2021 10:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 11:08:48 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -146,6 +146,13 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211118/2021111820582458694.jpg"><br/><br/>새로운 도전! 새로운 목표~! 매일 HoYoLAB에서 페이몬의 퀴즈 도전에 참여해 정답을 맞히고 모라 보상을 획득해 봐~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17131">「페이몬의 질문 폭탄」 퀴즈 이벤트 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">17131</guid>
       <pubDate>Fri, 19 Nov 2021 17:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Twitch &lt;원신&gt;  스트리머 모집</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17336</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17336">Twitch <원신>  스트리머 모집</a>]]></description>
+      <guid isPermaLink="false">17336</guid>
+      <pubDate>Wed, 24 Nov 2021 19:05:00 +0900</pubDate>
     </item>
     <item>
       <title>프롤로그 PV: 바람 잡는 이방인</title>
@@ -1158,14 +1165,6 @@
       <pubDate>Wed, 24 Nov 2021 12:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>「기관 디펜스·신묘한 국면」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14887</link>
-      <description>「기관 디펜스 대리인」 코마가타의 노력으로 리월의 「보드게임·기관 디펜스」가 이나즈마에 전파됐어. 코마가타의 말에 따르면, 이번 「기관 디펜스」에는 특별한 신규 플레이 방법이 추가된 것 같다던데…</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081019314987742.jpg"><br/><br/>「기관 디펜스 대리인」 코마가타의 노력으로 리월의 「보드게임·기관 디펜스」가 이나즈마에 전파됐어. 코마가타의 말에 따르면, 이번 「기관 디펜스」에는 특별한 신규 플레이 방법이 추가된 것 같다던데…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14887">「기관 디펜스·신묘한 국면」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">14887</guid>
-      <pubDate>Wed, 11 Aug 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>&lt;원신&gt; 데인 여담 - 「사유: 풍풍륜」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14890</link>
       <description>작은 닌자 사유의 행동 규칙은 바로 '음식은 가장 많이 먹으면서, 일은 가장 조금만 하자!'이다.
@@ -1994,6 +1993,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317125776382.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17262"><원신> EP - 눈 덮인 설산의 스케치</a>]]></description>
       <guid isPermaLink="false">17262</guid>
       <pubDate>Wed, 24 Nov 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Twitch &lt;원신&gt;  스트리머 모집</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17336</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17336">Twitch <원신>  스트리머 모집</a>]]></description>
+      <guid isPermaLink="false">17336</guid>
+      <pubDate>Wed, 24 Nov 2021 19:05:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
