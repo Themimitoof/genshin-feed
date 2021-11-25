@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Nov 2021 11:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Nov 2021 12:15:05 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -121,7 +121,7 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <item>
       <title>La campagne de recrutement de streamers sur Twitch</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/17337</link>
-      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">17337</guid>
       <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
     </item>
@@ -1760,7 +1760,7 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <item>
       <title>La campagne de recrutement de streamers sur Twitch</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/17337</link>
-      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">17337</guid>
       <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
     </item>

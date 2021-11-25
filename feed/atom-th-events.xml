@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - events</title>
-  <updated>2021-11-25T11:09:33.179636+00:00</updated>
+  <updated>2021-11-25T12:15:50.107104+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -154,8 +154,9 @@
     <id>17331</id>
     <title>กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</title>
     <updated>2021-11-24T19:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17331">กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</a>]]></content>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17331">กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17331" rel="alternate"/>
+    <summary/>
     <published>2021-11-24T19:00:00+07:00</published>
   </entry>
 </feed>

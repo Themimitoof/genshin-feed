@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-11-25T11:09:34.060988+00:00</updated>
+  <updated>2021-11-25T12:15:51.156611+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14784</id>
-    <title>Giới thiệu nhân vật trong Genshin Impact - "Yoimiya: Pháo Hoa Lấp Lánh Đêm Hè"</title>
-    <updated>2021-08-09T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910095533123.jpg"><br/><br/>Những người mang trái tim chứa đầy nhiệt huyết và trong sáng, chắc chắn sẽ nhận được sự tiếp đãi nồng nhiệt trong lễ hội pháo hoa mà Yoimiya đã dày công chuẩn bị.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14784">Giới thiệu nhân vật trong Genshin Impact - "Yoimiya: Pháo Hoa Lấp Lánh Đêm Hè"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14784" rel="alternate"/>
-    <summary>Những người mang trái tim chứa đầy nhiệt huyết và trong sáng, chắc chắn sẽ nhận được sự tiếp đãi nồng nhiệt trong lễ hội pháo hoa mà Yoimiya đã dày công chuẩn bị.</summary>
-    <published>2021-08-09T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14823</id>
     <title>[Genshin Impact] - Yoimiya: Ước Nguyện Pháo Hoa </title>
@@ -847,6 +838,14 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/17250" rel="alternate"/>
     <summary/>
     <published>2021-11-24T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17342</id>
+    <title>Chiêu mộ streamer Genshin Impact phiên bản mới trên Twitch</title>
+    <updated>2021-11-24T19:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17342">Chiêu mộ streamer Genshin Impact phiên bản mới trên Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17342" rel="alternate"/>
+    <published>2021-11-24T19:00:00+07:00</published>
   </entry>
   <entry>
     <id>17303</id>
