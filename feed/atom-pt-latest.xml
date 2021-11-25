@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-11-25T03:10:37.381931+00:00</updated>
+  <updated>2021-11-25T04:13:22.192690+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15053</id>
-    <title>Genshin Impact - Apresentação da Orquestra Sinfônica de Inazuma "Realm of Tranquil Eternity"</title>
-    <updated>2021-08-21T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011355651956.png"><br/><br/>Gravada no Tóquio Opera City, apresentado pela orquestra mais antiga do Japão, a Orquestra Filarmônica de Tóquio, a Orquestra Sinfônica de Inazuma reuniu os principais artistas de música folk do Japão para trazer aos Viajantes, a trilha sonora de Inazuma: "Inazuma" e "Overlord of the Thunderstorm".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15053">Genshin Impact - Apresentação da Orquestra Sinfônica de Inazuma "Realm of Tranquil Eternity"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15053" rel="alternate"/>
-    <summary>Gravada no Tóquio Opera City, apresentado pela orquestra mais antiga do Japão, a Orquestra Filarmônica de Tóquio, a Orquestra Sinfônica de Inazuma reuniu os principais artistas de música folk do Japão para trazer aos Viajantes, a trilha sonora de Inazuma: "Inazuma" e "Overlord of the Thunderstorm".</summary>
-    <published>2021-08-21T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>15114</id>
     <title>Prévia da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal" Disponível!</title>
@@ -912,5 +903,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17332" rel="alternate"/>
     <summary>Junto com a atualização da Versão 2.3 "Poeira e Neve Escura", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.</summary>
     <published>2021-11-24T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17305</id>
+    <title>EP - Ondas Suaves de Gelo | Genshin Impact</title>
+    <updated>2021-11-25T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112412555582402.jpg"><br/><br/>Penhascos varridos pelo vento, florestas isoladas e neve no sopé de uma montanha.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17305">EP - Ondas Suaves de Gelo | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17305" rel="alternate"/>
+    <summary>Penhascos varridos pelo vento, florestas isoladas e neve no sopé de uma montanha.</summary>
+    <published>2021-11-25T12:00:00+00:00</published>
   </entry>
 </feed>

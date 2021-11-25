@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:17 +0000</lastBuildDate>
-    <item>
-      <title>Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/14773</link>
-      <description>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080812045936195.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14773">Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!</a>]]></content:encoded>
-      <guid isPermaLink="false">14773</guid>
-      <pubDate>Sun, 08 Aug 2021 12:01:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:12:58 +0000</lastBuildDate>
     <item>
       <title>Paimon's Sneak Peek at Version 2.0 New Events - Phase II</title>
       <link>https://genshin.mihoyo.com/en/news/detail/14715</link>
@@ -888,6 +876,18 @@ Memories are engraved on the earth, which give rise to nature's treasures.
 Everything comes to life with a light stroke of the brush.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17244">Genshin Impact EP - A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
       <guid isPermaLink="false">17244</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact EP - Gentle Waves of Frost</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17293</link>
+      <description>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112410451643350.jpg"><br/><br/>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17293">Genshin Impact EP - Gentle Waves of Frost</a>]]></content:encoded>
+      <guid isPermaLink="false">17293</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

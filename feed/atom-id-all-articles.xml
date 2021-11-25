@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-11-25T03:10:32.403806+00:00</updated>
+  <updated>2021-11-25T04:13:16.498685+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -326,14 +326,6 @@ Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Per
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14724</id>
-    <title>Demo Karakter - "Sayu: Yoohoo Art: Jurus Mujina Kabur" | Genshin Impact </title>
-    <updated>2021-08-07T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710530626588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14724">Demo Karakter - "Sayu: Yoohoo Art: Jurus Mujina Kabur" | Genshin Impact </a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14724" rel="alternate"/>
-    <published>2021-08-07T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>14753</id>
@@ -1235,13 +1227,13 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
     <published>2021-11-24T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15040</id>
-    <title>Cara Bermain "Aliran Bayangan"</title>
-    <updated>2021-08-19T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816301845014.jpg"><br/><br/>Event "Aliran Bayangan" segera dimulai!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15040">Cara Bermain "Aliran Bayangan"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15040" rel="alternate"/>
-    <summary>Event "Aliran Bayangan" segera dimulai!</summary>
-    <published>2021-08-19T10:30:00+07:00</published>
+    <id>17308</id>
+    <title>Mini Album: Ombak Es yang Tenteram | Genshin Impact</title>
+    <updated>2021-11-25T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414120089495.jpg"><br/><br/>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17308">Mini Album: Ombak Es yang Tenteram | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17308" rel="alternate"/>
+    <summary>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.</summary>
+    <published>2021-11-25T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15084</id>
@@ -2147,5 +2139,14 @@ Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Per
     <summary>Dear Traveler,
 Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Siarkan kontenmu secara langsung, selesaikan misi dan menangkan hadiah Primogem!</summary>
     <published>2021-11-24T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17308</id>
+    <title>Mini Album: Ombak Es yang Tenteram | Genshin Impact</title>
+    <updated>2021-11-25T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414120089495.jpg"><br/><br/>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17308">Mini Album: Ombak Es yang Tenteram | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17308" rel="alternate"/>
+    <summary>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.</summary>
+    <published>2021-11-25T12:00:00+07:00</published>
   </entry>
 </feed>

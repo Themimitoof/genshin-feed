@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2021-11-25T03:10:45.773806+00:00</updated>
+  <updated>2021-11-25T04:13:31.882067+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14637</id>
-    <title>[Genshin Impact] Video nhân vật Yoimiya - Biểu tượng mùa hè trên Đảo Narukami</title>
-    <updated>2021-08-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319272813177.jpg"><br/><br/>Vị khách từ phương xa đến Hanamizaka, đang hỏi han khắp nơi với mong muốn tìm thấy "điều tuyệt vời nhất vào mùa hè trên Đảo Narukami"...
-Nhưng không hề nhận ra bóng dáng rực rỡ như tia lửa ấy đang toả sáng lấp lánh ngay trước mắt.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14637">[Genshin Impact] Video nhân vật Yoimiya - Biểu tượng mùa hè trên Đảo Narukami</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14637" rel="alternate"/>
-    <summary>Vị khách từ phương xa đến Hanamizaka, đang hỏi han khắp nơi với mong muốn tìm thấy "điều tuyệt vời nhất vào mùa hè trên Đảo Narukami"...
-Nhưng không hề nhận ra bóng dáng rực rỡ như tia lửa ấy đang toả sáng lấp lánh ngay trước mắt.</summary>
-    <published>2021-08-04T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>14676</id>
     <title>Sự kiện web có thưởng "Ký Ức Đêm Hè" đã mở</title>
@@ -869,5 +858,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/17250" rel="alternate"/>
     <summary/>
     <published>2021-11-24T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17303</id>
+    <title>Tuyển tập Genshin Impact - Gentle Waves of Frost</title>
+    <updated>2021-11-25T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411451234909.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17303">Tuyển tập Genshin Impact - Gentle Waves of Frost</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17303" rel="alternate"/>
+    <published>2021-11-25T12:00:00+07:00</published>
   </entry>
 </feed>

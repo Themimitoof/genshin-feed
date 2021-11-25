@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:04 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -259,14 +259,6 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Kamisato Ayaka : Grue dansante des neiges</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14452</link>
-      <description>Alors qu'aux yeux du monde apparait une grue des neiges aux ailes gracieuses, personne ne se doute réellement de ce qui se cache derrière cette élégance : l'entraînement méticuleux d'Ayaka.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023052219353.jpg"><br/><br/>Alors qu'aux yeux du monde apparait une grue des neiges aux ailes gracieuses, personne ne se doute réellement de ce qui se cache derrière cette élégance : l'entraînement méticuleux d'Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14452">Genshin Impact - Kamisato Ayaka : Grue dansante des neiges</a>]]></content:encoded>
-      <guid isPermaLink="false">14452</guid>
-      <pubDate>Wed, 21 Jul 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>L'événement web « L'invitation du héron » est désormais disponible</title>
@@ -1022,11 +1014,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14758</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716094149718.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14758">Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</a>]]></description>
-      <guid isPermaLink="false">14758</guid>
-      <pubDate>Sun, 08 Aug 2021 12:01:00 +0200</pubDate>
+      <title>Genshin Impact, la bande-son : Douces vagues de froid</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17325</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></description>
+      <guid isPermaLink="false">17325</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Paimon vous présente un aperçu des événements de la version 2.0 - Partie II</title>
@@ -1771,6 +1763,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">17337</guid>
       <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Douces vagues de froid</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17325</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></description>
+      <guid isPermaLink="false">17325</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

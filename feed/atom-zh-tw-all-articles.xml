@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-11-25T03:10:24.624738+00:00</updated>
+  <updated>2021-11-25T04:13:07.535268+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -269,15 +269,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>14641</id>
-    <title>宵宮角色預告-「鳴神島夏天的象徵」｜原神</title>
-    <updated>2021-08-04T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319305579814.jpg"><br/><br/>異國的來客在花見坂尋街問巷，想要找出「鳴神島夏天的象徵」…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14641">宵宮角色預告-「鳴神島夏天的象徵」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14641" rel="alternate"/>
-    <summary>異國的來客在花見坂尋街問巷，想要找出「鳴神島夏天的象徵」…</summary>
-    <published>2021-08-04T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>14690</id>
@@ -1170,12 +1161,13 @@
     <published>2021-11-24T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>14775</id>
-    <title>「焰色天河」祈願：「琉焰華舞·宵宮(火)」機率UP！</title>
-    <updated>2021-08-08T13:38:51+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080813404143580.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14775">「焰色天河」祈願：「琉焰華舞·宵宮(火)」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14775" rel="alternate"/>
-    <published>2021-08-08T13:38:51+08:00</published>
+    <id>17295</id>
+    <title>EP - 冰濤駭浪之憩｜原神</title>
+    <updated>2021-11-25T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112410591925462.jpg"><br/><br/>凌風的斷崖，幽密的森林，山腳的雪地。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17295">EP - 冰濤駭浪之憩｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17295" rel="alternate"/>
+    <summary>凌風的斷崖，幽密的森林，山腳的雪地。</summary>
+    <published>2021-11-25T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>14777</id>
@@ -2068,5 +2060,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17335" rel="alternate"/>
     <summary>《原神》2.3新版本「皚塵與雪影」已更新。Twitch《原神》新版本實況主招募活動現已開始。參與直播、完成任務，就能贏取豐厚原石獎勵！</summary>
     <published>2021-11-24T19:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17295</id>
+    <title>EP - 冰濤駭浪之憩｜原神</title>
+    <updated>2021-11-25T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112410591925462.jpg"><br/><br/>凌風的斷崖，幽密的森林，山腳的雪地。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17295">EP - 冰濤駭浪之憩｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17295" rel="alternate"/>
+    <summary>凌風的斷崖，幽密的森林，山腳的雪地。</summary>
+    <published>2021-11-25T12:00:00+08:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-11-25T03:10:40.009103+00:00</updated>
+  <updated>2021-11-25T04:13:25.170237+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15076</id>
-    <title>Genshin Impact | Версия 2.1 - Лунное утешение для бренного мира</title>
-    <updated>2021-08-20T22:45:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014293832883.jpg"><br/><br/>Genshin Impact | Версия 2.1<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15076">Genshin Impact | Версия 2.1 - Лунное утешение для бренного мира</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15076" rel="alternate"/>
-    <summary>Genshin Impact | Версия 2.1</summary>
-    <published>2021-08-20T22:45:00+03:00</published>
-  </entry>
   <entry>
     <id>15099</id>
     <title>Genshin Impact - сброс бонуса первого пополнения</title>
@@ -921,5 +912,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17334" rel="alternate"/>
     <summary>Версия Genshin Impact 2.3 «Белая пыль и снежная тень» уже вышла. Вместе с ней началась кампания по набору стримеров Genshin Impact на Twitch. Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
     <published>2021-11-24T19:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17297</id>
+    <title>«Мягкий рокот ледяных волн» | Мини-альбом Genshin Impact</title>
+    <updated>2021-11-25T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411140495067.jpg"><br/><br/>Обдуваемые ветрами скалы, уединённые леса и снег у подножия горы.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17297">«Мягкий рокот ледяных волн» | Мини-альбом Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17297" rel="alternate"/>
+    <summary>Обдуваемые ветрами скалы, уединённые леса и снег у подножия горы.</summary>
+    <published>2021-11-25T12:00:00+03:00</published>
   </entry>
 </feed>

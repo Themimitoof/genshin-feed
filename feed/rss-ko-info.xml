@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:35 +0000</lastBuildDate>
-    <item>
-      <title>﻿&lt;원신&gt; 요이미야 캐릭터 PV - 「나루카미섬 여름의 상징」 (NEW 버전)</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14673</link>
-      <description>이국에서 온 손님은 하나미자카에서 「나루카미섬 여름의 상징」이 뭔지 알아내려고 한다…
-하지만 등잔 밑이 어둡듯 불꽃처럼 빛나는 그 사람이 코앞에 있다는 것을 깨닫지 못했다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210804/2021080417184117939.jpg"><br/><br/>이국에서 온 손님은 하나미자카에서 「나루카미섬 여름의 상징」이 뭔지 알아내려고 한다…
-하지만 등잔 밑이 어둡듯 불꽃처럼 빛나는 그 사람이 코앞에 있다는 것을 깨닫지 못했다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14673">﻿<원신> 요이미야 캐릭터 PV - 「나루카미섬 여름의 상징」 (NEW 버전)</a>]]></content:encoded>
-      <guid isPermaLink="false">14673</guid>
-      <pubDate>Wed, 04 Aug 2021 17:17:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:20 +0000</lastBuildDate>
     <item>
       <title>「여름 축제 기념촬영」보상 웹이벤트 오픈</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14695</link>
@@ -850,6 +840,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317125776382.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17262"><원신> EP - 눈 덮인 설산의 스케치</a>]]></description>
       <guid isPermaLink="false">17262</guid>
       <pubDate>Wed, 24 Nov 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 잠잠해진 거친 얼음 파도</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17312</link>
+      <description>바람이 몰아치는 낭떠러지, 무성한 숲, 산기슭의 눈</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414553581960.jpg"><br/><br/>바람이 몰아치는 낭떠러지, 무성한 숲, 산기슭의 눈<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17312"><원신> EP - 잠잠해진 거친 얼음 파도</a>]]></content:encoded>
+      <guid isPermaLink="false">17312</guid>
+      <pubDate>Thu, 25 Nov 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

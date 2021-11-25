@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:19 +0000</lastBuildDate>
-    <item>
-      <title>Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14758</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716094149718.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14758">Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</a>]]></description>
-      <guid isPermaLink="false">14758</guid>
-      <pubDate>Sun, 08 Aug 2021 12:01:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:01 +0000</lastBuildDate>
     <item>
       <title>Paimon vous présente un aperçu des événements de la version 2.0 - Partie II</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14760</link>
@@ -759,6 +752,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">17337</guid>
       <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Douces vagues de froid</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17325</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></description>
+      <guid isPermaLink="false">17325</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

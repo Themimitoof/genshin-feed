@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:38 +0000</lastBuildDate>
-    <item>
-      <title>Demo da Nova Personagem de Genshin Impact - "Sayu: Arte Yoohoo, Escudo Mujina"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14723</link>
-      <description>Sayu não sabe o que é pior... Ser confundida com um tanuki ou não poder tirar uma soneca.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710522230201.jpg"><br/><br/>Sayu não sabe o que é pior... Ser confundida com um tanuki ou não poder tirar uma soneca.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14723">Demo da Nova Personagem de Genshin Impact - "Sayu: Arte Yoohoo, Escudo Mujina"</a>]]></content:encoded>
-      <guid isPermaLink="false">14723</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:22 +0000</lastBuildDate>
     <item>
       <title>Eu não precisava ter saído da cama hoje. - Mujina Ninja - Sayu</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14738</link>
@@ -807,6 +799,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316102351610.jpg"><br/><br/>O vento agita a neve no topo das montanhas, ocultando um passado enigmático.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17245">EP - Obra: A Neve e o Pico Gelado | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17245</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EP - Ondas Suaves de Gelo | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17305</link>
+      <description>Penhascos varridos pelo vento, florestas isoladas e neve no sopé de uma montanha.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112412555582402.jpg"><br/><br/>Penhascos varridos pelo vento, florestas isoladas e neve no sopé de uma montanha.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17305">EP - Ondas Suaves de Gelo | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17305</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

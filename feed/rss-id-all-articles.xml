@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:16 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -282,13 +282,6 @@ Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Per
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121815062698456.png"><br/><br/>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/7469">Halaman Preview Versi Baru 1.2 "Kapur Putih dan Naga Hitam" Resmi Dibuka!</a>]]></content:encoded>
       <guid isPermaLink="false">7469</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Demo Karakter - "Sayu: Yoohoo Art: Jurus Mujina Kabur" | Genshin Impact </title>
-      <link>https://genshin.mihoyo.com/id/news/detail/14724</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710530626588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14724">Demo Karakter - "Sayu: Yoohoo Art: Jurus Mujina Kabur" | Genshin Impact </a>]]></description>
-      <guid isPermaLink="false">14724</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0700</pubDate>
     </item>
     <item>
       <title>"Aku tetap di kasur saja hari ini." — Mujina Ninja·Sayu</title>
@@ -1091,12 +1084,12 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Cara Bermain "Aliran Bayangan"</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/15040</link>
-      <description>Event "Aliran Bayangan" segera dimulai!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816301845014.jpg"><br/><br/>Event "Aliran Bayangan" segera dimulai!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15040">Cara Bermain "Aliran Bayangan"</a>]]></content:encoded>
-      <guid isPermaLink="false">15040</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0700</pubDate>
+      <title>Mini Album: Ombak Es yang Tenteram | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17308</link>
+      <description>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414120089495.jpg"><br/><br/>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17308">Mini Album: Ombak Es yang Tenteram | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17308</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Trailer Versi 2.1 "Dunia di Bawah Cahaya Rembulan" | Genshin Impact</title>
@@ -1902,6 +1895,14 @@ Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Per
 Update Genshin Impact v2.3 "Debu dan Bayang-Bayang Salju" telah hadir. Event Perekrutan Streamer Genshin Impact versi baru di Twitch juga sudah dimulai. Siarkan kontenmu secara langsung, selesaikan misi dan menangkan hadiah Primogem!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17330">Event Perekrutan Streamer Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17330</guid>
       <pubDate>Wed, 24 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Mini Album: Ombak Es yang Tenteram | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17308</link>
+      <description>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414120089495.jpg"><br/><br/>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17308">Mini Album: Ombak Es yang Tenteram | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17308</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:28 +0000</lastBuildDate>
-    <item>
-      <title>"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14743</link>
-      <description>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712143978787.jpg"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Sayu, la ninja de Los Ocelos.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14743">"Hoy podría haberme quedado en la cama". - Sayu, "la Tejón Ninja"</a>]]></content:encoded>
-      <guid isPermaLink="false">14743</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:11 +0000</lastBuildDate>
     <item>
       <title>Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14771</link>
@@ -814,6 +806,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316180436386.jpg"><br/><br/>Una ventisca arrasa en la montaña, ocultando los enigmas del pasado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17252">Mini álbum de Genshin Impact - A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
       <guid isPermaLink="false">17252</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - Gentle Waves of Frost (Apacibles olas de escarcha)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17323</link>
+      <description>Acantilados azotados por el viento, bosques recónditos y un manto de nieve que cubre el pie de la montaña.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416450919631.jpg"><br/><br/>Acantilados azotados por el viento, bosques recónditos y un manto de nieve que cubre el pie de la montaña.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17323">Mini álbum de Genshin Impact - Gentle Waves of Frost (Apacibles olas de escarcha)</a>]]></content:encoded>
+      <guid isPermaLink="false">17323</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

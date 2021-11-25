@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:40 +0000</lastBuildDate>
-    <item>
-      <title>«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14735</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711123565971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14735">«Искусство Юху: Укрытие мудзины» Саю (Анемо) - Новый персонаж | Genshin Impact</a>]]></description>
-      <guid isPermaLink="false">14735</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:26 +0000</lastBuildDate>
     <item>
       <title>«Кажется, не стоило сегодня вообще вылазить из кровати», - «Мудзина-ниндзя» Саю</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14763</link>
@@ -815,6 +808,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316190047348.jpg"><br/><br/>Снежная буря проносится над горами, скрывая загадочное прошлое.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17254">«Мягкий снег на ледяных вершинах» | Мини-альбом Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17254</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Мягкий рокот ледяных волн» | Мини-альбом Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17297</link>
+      <description>Обдуваемые ветрами скалы, уединённые леса и снег у подножия горы.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411140495067.jpg"><br/><br/>Обдуваемые ветрами скалы, уединённые леса и снег у подножия горы.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17297">«Мягкий рокот ледяных волн» | Мини-альбом Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17297</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

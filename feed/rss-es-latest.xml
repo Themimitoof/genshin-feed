@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:27 +0000</lastBuildDate>
-    <item>
-      <title>Restablecimiento de la bonificación doble por primera recarga en la tienda</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15107</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082020272098358.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15107">Restablecimiento de la bonificación doble por primera recarga en la tienda</a>]]></description>
-      <guid isPermaLink="false">15107</guid>
-      <pubDate>Fri, 20 Aug 2021 23:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:10 +0000</lastBuildDate>
     <item>
       <title>Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</title>
       <link>https://genshin.mihoyo.com/es/news/detail/15072</link>
@@ -815,6 +808,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17328">Reclutar streamers de la nueva versión en Twitch</a>]]></content:encoded>
       <guid isPermaLink="false">17328</guid>
       <pubDate>Wed, 24 Nov 2021 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - Gentle Waves of Frost (Apacibles olas de escarcha)</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17323</link>
+      <description>Acantilados azotados por el viento, bosques recónditos y un manto de nieve que cubre el pie de la montaña.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416450919631.jpg"><br/><br/>Acantilados azotados por el viento, bosques recónditos y un manto de nieve que cubre el pie de la montaña.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17323">Mini álbum de Genshin Impact - Gentle Waves of Frost (Apacibles olas de escarcha)</a>]]></content:encoded>
+      <guid isPermaLink="false">17323</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

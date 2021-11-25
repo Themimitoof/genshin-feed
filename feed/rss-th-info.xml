@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:43 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] ธีมวิดีโอตัวละคร Yoimiya - "สัญลักษณ์แห่งฤดูร้อนของเกาะ Narukami"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14648</link>
-      <description>ผู้มาเยือนจากต่างแดนต่างก็มาที่ Hanamizaka เพื่อตามหา </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210803/2021080319424235223.jpg"><br/><br/>ผู้มาเยือนจากต่างแดนต่างก็มาที่ Hanamizaka เพื่อตามหา <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14648">[Genshin Impact] ธีมวิดีโอตัวละคร Yoimiya - "สัญลักษณ์แห่งฤดูร้อนของเกาะ Narukami"</a>]]></content:encoded>
-      <guid isPermaLink="false">14648</guid>
-      <pubDate>Wed, 04 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:29 +0000</lastBuildDate>
     <item>
       <title>กิจกรรม "ภาพทรงจำแห่งเทศกาลฤดูร้อน" บนเว็บไซต์เริ่มต้นขึ้นแล้ว</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14677</link>
@@ -738,6 +730,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316124547006.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17248">"Genshin Impact" มินิอัลบั้ม - ภาพวาดหิมะโปรยบนยอดเขาน้ำแข็ง</a>]]></description>
       <guid isPermaLink="false">17248</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Genshin Impact" มินิอัลบั้ม - คลื่นน้ำแข็งเคลื่อนคล้อย</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17301</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411353336391.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17301">"Genshin Impact" มินิอัลบั้ม - คลื่นน้ำแข็งเคลื่อนคล้อย</a>]]></description>
+      <guid isPermaLink="false">17301</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

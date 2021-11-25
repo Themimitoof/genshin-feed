@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-11-25T03:10:19.777590+00:00</updated>
+  <updated>2021-11-25T04:13:01.371533+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14758</id>
-    <title>Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</title>
-    <updated>2021-08-08T12:01:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716094149718.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14758">Vœux « Draperie d'étincelles dorées » : taux d'obtention boosté pour Yoimiya · Flamme gambadante (Pyro) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14758" rel="alternate"/>
-    <summary/>
-    <published>2021-08-08T12:01:00+02:00</published>
-  </entry>
   <entry>
     <id>14760</id>
     <title>Paimon vous présente un aperçu des événements de la version 2.0 - Partie II</title>
@@ -873,5 +864,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/17337" rel="alternate"/>
     <published>2021-11-24T20:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17325</id>
+    <title>Genshin Impact, la bande-son : Douces vagues de froid</title>
+    <updated>2021-11-25T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17325" rel="alternate"/>
+    <published>2021-11-25T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:22 +0000</lastBuildDate>
-    <item>
-      <title>「焰色天河」祈願：「琉焰華舞·宵宮(火)」機率UP！</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14775</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080813404143580.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14775">「焰色天河」祈願：「琉焰華舞·宵宮(火)」機率UP！</a>]]></description>
-      <guid isPermaLink="false">14775</guid>
-      <pubDate>Sun, 08 Aug 2021 13:38:51 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:04 +0000</lastBuildDate>
     <item>
       <title>「神鑄賦形」祈願：「弓·飛雷之弦振」「單手劍·天空之刃」機率UP！</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14777</link>
@@ -807,6 +800,14 @@
       <content:encoded><![CDATA[《原神》2.3新版本「皚塵與雪影」已更新。Twitch《原神》新版本實況主招募活動現已開始。參與直播、完成任務，就能贏取豐厚原石獎勵！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17335">Twitch《原神》新版本實況主招募</a>]]></content:encoded>
       <guid isPermaLink="false">17335</guid>
       <pubDate>Wed, 24 Nov 2021 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>EP - 冰濤駭浪之憩｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17295</link>
+      <description>凌風的斷崖，幽密的森林，山腳的雪地。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112410591925462.jpg"><br/><br/>凌風的斷崖，幽密的森林，山腳的雪地。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17295">EP - 冰濤駭浪之憩｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">17295</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

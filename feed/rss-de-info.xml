@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:25 +0000</lastBuildDate>
-    <item>
-      <title>Die Webaktion mit Belohnungen „Sommerfestbilder“ ist jetzt verfügbar</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14692</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511364792176.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14692">Die Webaktion mit Belohnungen „Sommerfestbilder“ ist jetzt verfügbar</a>]]></description>
-      <guid isPermaLink="false">14692</guid>
-      <pubDate>Thu, 05 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:08 +0000</lastBuildDate>
     <item>
       <title>Figurenvorführung bei Genshin Impact – Sayu: Juhu-Stil – Mujina-Flucht</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14729</link>
@@ -845,6 +838,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112316241868286.jpg"><br/><br/>Ein Schneesturm rast über den Berg und verbirgt eine rätselhafte Vergangenheit.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17257">Minialbum von Genshin Impact – A Canvas of Soft Snow on Icy Peaks</a>]]></content:encoded>
       <guid isPermaLink="false">17257</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Minialbum von Genshin Impact – Gentle Waves of Frost</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17299</link>
+      <description>An den windgepeitschten Klippen, in den abgelegenen Wäldern und im Schnee am Fuße des Berges, um Mondstadt herum sind die verstreuten Fußspuren der Gischtritterin zu finden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411164144184.jpg"><br/><br/>An den windgepeitschten Klippen, in den abgelegenen Wäldern und im Schnee am Fuße des Berges, um Mondstadt herum sind die verstreuten Fußspuren der Gischtritterin zu finden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17299">Minialbum von Genshin Impact – Gentle Waves of Frost</a>]]></content:encoded>
+      <guid isPermaLink="false">17299</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

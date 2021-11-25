@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-11-25T03:10:16.696525+00:00</updated>
+  <updated>2021-11-25T04:12:57.567840+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15149</id>
-    <title>Version 2.1 Update Preview: Fishing Gameplay Details</title>
-    <updated>2021-08-24T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318151336119.png"><br/><br/>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15149">Version 2.1 Update Preview: Fishing Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15149" rel="alternate"/>
-    <summary>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~</summary>
-    <published>2021-08-24T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>15256</id>
     <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</title>
@@ -973,5 +964,18 @@ Everything comes to life with a light stroke of the brush.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/17329" rel="alternate"/>
     <summary>The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
     <published>2021-11-24T19:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17293</id>
+    <title>Genshin Impact EP - Gentle Waves of Frost</title>
+    <updated>2021-11-25T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112410451643350.jpg"><br/><br/>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17293">Genshin Impact EP - Gentle Waves of Frost</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17293" rel="alternate"/>
+    <summary>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.</summary>
+    <published>2021-11-25T12:00:00-05:00</published>
   </entry>
 </feed>

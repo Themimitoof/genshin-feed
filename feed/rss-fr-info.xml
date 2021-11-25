@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:20 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Kamisato Ayaka : Grue dansante des neiges</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14452</link>
-      <description>Alors qu'aux yeux du monde apparait une grue des neiges aux ailes gracieuses, personne ne se doute réellement de ce qui se cache derrière cette élégance : l'entraînement méticuleux d'Ayaka.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072023052219353.jpg"><br/><br/>Alors qu'aux yeux du monde apparait une grue des neiges aux ailes gracieuses, personne ne se doute réellement de ce qui se cache derrière cette élégance : l'entraînement méticuleux d'Ayaka.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14452">Genshin Impact - Kamisato Ayaka : Grue dansante des neiges</a>]]></content:encoded>
-      <guid isPermaLink="false">14452</guid>
-      <pubDate>Wed, 21 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:02 +0000</lastBuildDate>
     <item>
       <title>L'événement web « L'invitation du héron » est désormais disponible</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14504</link>
@@ -769,6 +761,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211123/2021112317574471103.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17267">Genshin Impact, la bande-son : Tableau d'une douce neige et de sommets glacés</a>]]></description>
       <guid isPermaLink="false">17267</guid>
       <pubDate>Wed, 24 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Douces vagues de froid</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17325</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></description>
+      <guid isPermaLink="false">17325</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

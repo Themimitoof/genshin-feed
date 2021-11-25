@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-11-25T03:10:35.531611+00:00</updated>
+  <updated>2021-11-25T04:13:20.165062+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14673</id>
-    <title>﻿&lt;원신&gt; 요이미야 캐릭터 PV - 「나루카미섬 여름의 상징」 (NEW 버전)</title>
-    <updated>2021-08-04T17:17:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210804/2021080417184117939.jpg"><br/><br/>이국에서 온 손님은 하나미자카에서 「나루카미섬 여름의 상징」이 뭔지 알아내려고 한다…
-하지만 등잔 밑이 어둡듯 불꽃처럼 빛나는 그 사람이 코앞에 있다는 것을 깨닫지 못했다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14673">﻿<원신> 요이미야 캐릭터 PV - 「나루카미섬 여름의 상징」 (NEW 버전)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14673" rel="alternate"/>
-    <summary>이국에서 온 손님은 하나미자카에서 「나루카미섬 여름의 상징」이 뭔지 알아내려고 한다…
-하지만 등잔 밑이 어둡듯 불꽃처럼 빛나는 그 사람이 코앞에 있다는 것을 깨닫지 못했다.</summary>
-    <published>2021-08-04T17:17:00+09:00</published>
-  </entry>
   <entry>
     <id>14695</id>
     <title>「여름 축제 기념촬영」보상 웹이벤트 오픈</title>
@@ -951,5 +940,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17262" rel="alternate"/>
     <summary/>
     <published>2021-11-24T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17312</id>
+    <title>&lt;원신&gt; EP - 잠잠해진 거친 얼음 파도</title>
+    <updated>2021-11-25T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414553581960.jpg"><br/><br/>바람이 몰아치는 낭떠러지, 무성한 숲, 산기슭의 눈<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17312"><원신> EP - 잠잠해진 거친 얼음 파도</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17312" rel="alternate"/>
+    <summary>바람이 몰아치는 낭떠러지, 무성한 숲, 산기슭의 눈</summary>
+    <published>2021-11-25T12:01:00+09:00</published>
   </entry>
 </feed>

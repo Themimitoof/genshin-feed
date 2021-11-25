@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-11-25T03:10:19.731972+00:00</updated>
+  <updated>2021-11-25T04:13:01.309720+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -356,19 +356,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>14773</id>
-    <title>Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!</title>
-    <updated>2021-08-08T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080812045936195.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14773">Event Wish "Tapestry of Golden Flames" - Boosted Drop Rate for "Frolicking Flames" Yoimiya (Pyro)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14773" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!
-
-</summary>
-    <published>2021-08-08T12:01:00-04:00</published>
   </entry>
   <entry>
     <id>14715</id>
@@ -1339,13 +1326,17 @@ Everything comes to life with a light stroke of the brush.</summary>
     <published>2021-11-24T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>15149</id>
-    <title>Version 2.1 Update Preview: Fishing Gameplay Details</title>
-    <updated>2021-08-24T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318151336119.png"><br/><br/>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15149">Version 2.1 Update Preview: Fishing Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15149" rel="alternate"/>
-    <summary>Dear Travelers~ Version 2.1 will introduce the long-awaited Fishing Gameplay. Let's see how it works~</summary>
-    <published>2021-08-24T10:30:00-04:00</published>
+    <id>17293</id>
+    <title>Genshin Impact EP - Gentle Waves of Frost</title>
+    <updated>2021-11-25T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112410451643350.jpg"><br/><br/>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17293">Genshin Impact EP - Gentle Waves of Frost</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17293" rel="alternate"/>
+    <summary>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.</summary>
+    <published>2021-11-25T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>15256</id>
@@ -2302,5 +2293,18 @@ Everything comes to life with a light stroke of the brush.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/17329" rel="alternate"/>
     <summary>The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
     <published>2021-11-24T19:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17293</id>
+    <title>Genshin Impact EP - Gentle Waves of Frost</title>
+    <updated>2021-11-25T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112410451643350.jpg"><br/><br/>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17293">Genshin Impact EP - Gentle Waves of Frost</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17293" rel="alternate"/>
+    <summary>Windswept cliffs, secluded forests, and snow at the foot of a mountain.
+Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
+But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.</summary>
+    <published>2021-11-25T12:00:00-05:00</published>
   </entry>
 </feed>

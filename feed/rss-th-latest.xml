@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 25 Nov 2021 03:10:42 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] เก็บตกตัวละคร - "Yoimiya: ถ้อยคำที่ลุกโชนดั่งไฟ"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14830</link>
-      <description>ดอกไม้ไฟนำพาความปรารถนาของผู้คน ให้ลอยเด่นดั่งดวงตะวัน เป็นนิรันดร์ดั่งจันทรา</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010281024726.jpg"><br/><br/>ดอกไม้ไฟนำพาความปรารถนาของผู้คน ให้ลอยเด่นดั่งดวงตะวัน เป็นนิรันดร์ดั่งจันทรา<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14830">[Genshin Impact] เก็บตกตัวละคร - "Yoimiya: ถ้อยคำที่ลุกโชนดั่งไฟ"</a>]]></content:encoded>
-      <guid isPermaLink="false">14830</guid>
-      <pubDate>Tue, 10 Aug 2021 18:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Nov 2021 04:13:28 +0000</lastBuildDate>
     <item>
       <title>คำอธิบายเกมเพลย์ "Theater Mechanicus - Stage of Wonders"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14860</link>
@@ -729,6 +721,13 @@
       <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17331">กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</a>]]></description>
       <guid isPermaLink="false">17331</guid>
       <pubDate>Wed, 24 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Genshin Impact" มินิอัลบั้ม - คลื่นน้ำแข็งเคลื่อนคล้อย</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17301</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411353336391.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17301">"Genshin Impact" มินิอัลบั้ม - คลื่นน้ำแข็งเคลื่อนคล้อย</a>]]></description>
+      <guid isPermaLink="false">17301</guid>
+      <pubDate>Thu, 25 Nov 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
