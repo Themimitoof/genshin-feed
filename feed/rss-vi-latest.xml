@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:53 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] - Yoimiya: Ước Nguyện Pháo Hoa </title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/14823</link>
-      <description>Pháo hoa gửi gắm ước nguyện của mọi người, vĩnh hằng như mặt trăng, bay cao như mặt trời.
-Tựa như ánh sáng lấp lánh trong đôi mắt thiếu nữ.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010232252466.jpg"><br/><br/>Pháo hoa gửi gắm ước nguyện của mọi người, vĩnh hằng như mặt trăng, bay cao như mặt trời.
-Tựa như ánh sáng lấp lánh trong đôi mắt thiếu nữ.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14823">[Genshin Impact] - Yoimiya: Ước Nguyện Pháo Hoa </a>]]></content:encoded>
-      <guid isPermaLink="false">14823</guid>
-      <pubDate>Tue, 10 Aug 2021 18:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:48 +0000</lastBuildDate>
     <item>
       <title>Hướng dẫn cách chơi "Cờ Cơ Quan - Thế Trận Linh Diệu"		</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/14857</link>
@@ -733,6 +723,16 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411451234909.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17303">Tuyển tập Genshin Impact - Gentle Waves of Frost</a>]]></description>
       <guid isPermaLink="false">17303</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Công Bố Kết Quả "Hẹn Ước Ánh Sáng"</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17388</link>
+      <description>Hi, Nhà Lữ Hành!
+Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gia. Sau đây, chúng ta hãy cùng xem danh sách những người may mắn nhé! (•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120111060413328.png"><br/><br/>Hi, Nhà Lữ Hành!
+Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gia. Sau đây, chúng ta hãy cùng xem danh sách những người may mắn nhé! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17388">Công Bố Kết Quả "Hẹn Ước Ánh Sáng"</a>]]></content:encoded>
+      <guid isPermaLink="false">17388</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

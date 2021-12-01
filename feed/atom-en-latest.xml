@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-12-01T03:10:23.982157+00:00</updated>
+  <updated>2021-12-01T04:13:01.643815+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15256</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</title>
-    <updated>2021-08-26T04:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520114091781.jpg"><br/><br/>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15256">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15256" rel="alternate"/>
-    <summary>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.</summary>
-    <published>2021-08-26T04:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15228</id>
     <title>The Inazuma Diaries: Watatsumi Island &amp; Seirai Island</title>
@@ -977,5 +968,14 @@ But under the day's warm breeze, the dutiful Captain of the Reconnaissance Compa
 Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
 But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.</summary>
     <published>2021-11-25T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17376</id>
+    <title>"Meeting of Light and Shadow" Results</title>
+    <updated>2021-12-01T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110461911191.png"><br/><br/>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17376">"Meeting of Light and Shadow" Results</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17376" rel="alternate"/>
+    <summary>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"</summary>
+    <published>2021-12-01T12:00:00-05:00</published>
   </entry>
 </feed>

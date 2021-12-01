@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - events</title>
-  <updated>2021-12-01T03:10:54.919585+00:00</updated>
+  <updated>2021-12-01T04:13:52.323077+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -153,5 +153,16 @@
     <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17342">Chiêu mộ streamer Genshin Impact phiên bản mới trên Twitch</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17342" rel="alternate"/>
     <published>2021-11-24T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17388</id>
+    <title>Công Bố Kết Quả "Hẹn Ước Ánh Sáng"</title>
+    <updated>2021-12-01T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120111060413328.png"><br/><br/>Hi, Nhà Lữ Hành!
+Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gia. Sau đây, chúng ta hãy cùng xem danh sách những người may mắn nhé! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17388">Công Bố Kết Quả "Hẹn Ước Ánh Sáng"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17388" rel="alternate"/>
+    <summary>Hi, Nhà Lữ Hành!
+Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gia. Sau đây, chúng ta hãy cùng xem danh sách những người may mắn nhé! (•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+07:00</published>
   </entry>
 </feed>

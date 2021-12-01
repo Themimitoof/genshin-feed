@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:35 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -153,6 +153,14 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17336">Twitch <원신>  스트리머 모집</a>]]></description>
       <guid isPermaLink="false">17336</guid>
       <pubDate>Wed, 24 Nov 2021 19:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[결과 발표] 「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17381</link>
+      <description>행운의 수상자가 누군지 확인해 보자~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110192464897.png"><br/><br/>행운의 수상자가 누군지 확인해 보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17381">[결과 발표] 「빛과 그림자의 약속」 다인 모드 촬영 공모전</a>]]></content:encoded>
+      <guid isPermaLink="false">17381</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:26 +0900</pubDate>
     </item>
     <item>
       <title>프롤로그 PV: 바람 잡는 이방인</title>
@@ -1163,14 +1171,6 @@
       <pubDate>Thu, 25 Nov 2021 12:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>「환영의 심류」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15042</link>
-      <description>「환영의 심류」 이벤트 오픈 예정!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081820391837700.jpg"><br/><br/>「환영의 심류」 이벤트 오픈 예정!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15042">「환영의 심류」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">15042</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0900</pubDate>
-    </item>
-    <item>
       <title>&lt;원신&gt; 2.1 버전 PV - 「달빛 속 광경, 하늘 아래 인간 세상」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15101</link>
       <description>사람들의 염원을 모아 이 달빛 아래서 뇌명과 열화를 지켜보고 밥 짓는 연기와 화려한 등불을 같이 감상한다
@@ -1996,6 +1996,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414553581960.jpg"><br/><br/>바람이 몰아치는 낭떠러지, 무성한 숲, 산기슭의 눈<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17312"><원신> EP - 잠잠해진 거친 얼음 파도</a>]]></content:encoded>
       <guid isPermaLink="false">17312</guid>
       <pubDate>Thu, 25 Nov 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[결과 발표] 「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17381</link>
+      <description>행운의 수상자가 누군지 확인해 보자~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110192464897.png"><br/><br/>행운의 수상자가 누군지 확인해 보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17381">[결과 발표] 「빛과 그림자의 약속」 다인 모드 촬영 공모전</a>]]></content:encoded>
+      <guid isPermaLink="false">17381</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:26 +0900</pubDate>
     </item>
   </channel>
 </rss>

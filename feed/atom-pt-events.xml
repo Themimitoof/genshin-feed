@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2021-12-01T03:10:47.511454+00:00</updated>
+  <updated>2021-12-01T04:13:37.754837+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -201,5 +201,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17332" rel="alternate"/>
     <summary>Junto com a atualização da Versão 2.3 "Poeira e Neve Escura", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.</summary>
     <published>2021-11-24T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17378</id>
+    <title>[Anúncio dos Resultados] O Encontro da Luz e da Sombra</title>
+    <updated>2021-12-01T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110120787804.png"><br/><br/>Olá, Viajantes~ Nosso evento já terminou, agradecemos pela participação de todos. Confira abaixo a lista de vencedores do evento ～(•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17378">[Anúncio dos Resultados] O Encontro da Luz e da Sombra</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17378" rel="alternate"/>
+    <summary>Olá, Viajantes~ Nosso evento já terminou, agradecemos pela participação de todos. Confira abaixo a lista de vencedores do evento ～(•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+00:00</published>
   </entry>
 </feed>

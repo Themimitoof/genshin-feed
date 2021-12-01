@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-12-01T03:10:32.354750+00:00</updated>
+  <updated>2021-12-01T04:13:14.538924+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -107,6 +107,15 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17335" rel="alternate"/>
     <summary>《原神》2.3新版本「皚塵與雪影」已更新。Twitch《原神》新版本實況主招募活動現已開始。參與直播、完成任務，就能贏取豐厚原石獎勵！</summary>
     <published>2021-11-24T19:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17382</id>
+    <title>【結果公告】光影相約</title>
+    <updated>2021-12-01T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110201434834.png"><br/><br/>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17382">【結果公告】光影相約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17382" rel="alternate"/>
+    <summary>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"</summary>
+    <published>2021-12-01T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>3463</id>
@@ -1170,14 +1179,6 @@
     <published>2021-11-25T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>14777</id>
-    <title>「神鑄賦形」祈願：「弓·飛雷之弦振」「單手劍·天空之刃」機率UP！</title>
-    <updated>2021-08-08T13:41:34+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080813423760003.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14777">「神鑄賦形」祈願：「弓·飛雷之弦振」「單手劍·天空之刃」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14777" rel="alternate"/>
-    <published>2021-08-08T13:41:34+08:00</published>
-  </entry>
-  <entry>
     <id>14778</id>
     <title>角色展示-「宵宮：真夏飛焰」｜原神</title>
     <updated>2021-08-09T12:00:00+08:00</updated>
@@ -2069,5 +2070,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17295" rel="alternate"/>
     <summary>凌風的斷崖，幽密的森林，山腳的雪地。</summary>
     <published>2021-11-25T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17382</id>
+    <title>【結果公告】光影相約</title>
+    <updated>2021-12-01T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110201434834.png"><br/><br/>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17382">【結果公告】光影相約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17382" rel="alternate"/>
+    <summary>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"</summary>
+    <published>2021-12-01T12:00:00+08:00</published>
   </entry>
 </feed>

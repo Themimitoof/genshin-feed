@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:17 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -96,6 +96,16 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211116/2021111610542296191.jpg"><br/><br/>Eine neue Herausforderung, ein neues Ziel! Nimm täglich an der Fragenaktion von Paimon im HoYoLAB teil und erhalte Mora für richtig beantwortete Fragen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17118">Der Aktion „Paimons tausend Fragen“ beginnt offiziell!</a>]]></content:encoded>
       <guid isPermaLink="false">17118</guid>
       <pubDate>Fri, 19 Nov 2021 17:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ergebnisverkündung für „Aufeinandertreffen von Licht und Schatten“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17375</link>
+      <description>Hallo, liebe Reisende!
+Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211130/2021113022222399076.png"><br/><br/>Hallo, liebe Reisende!
+Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17375">Ergebnisverkündung für „Aufeinandertreffen von Licht und Schatten“</a>]]></content:encoded>
+      <guid isPermaLink="false">17375</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

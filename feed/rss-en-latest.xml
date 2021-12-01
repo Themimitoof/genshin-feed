@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:23 +0000</lastBuildDate>
-    <item>
-      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15256</link>
-      <description>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520114091781.jpg"><br/><br/>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15256">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</a>]]></content:encoded>
-      <guid isPermaLink="false">15256</guid>
-      <pubDate>Thu, 26 Aug 2021 04:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:01 +0000</lastBuildDate>
     <item>
       <title>The Inazuma Diaries: Watatsumi Island &amp; Seirai Island</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15228</link>
@@ -875,6 +867,14 @@ Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift 
 But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17293">Genshin Impact EP - Gentle Waves of Frost</a>]]></content:encoded>
       <guid isPermaLink="false">17293</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Meeting of Light and Shadow" Results</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17376</link>
+      <description>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110461911191.png"><br/><br/>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17376">"Meeting of Light and Shadow" Results</a>]]></content:encoded>
+      <guid isPermaLink="false">17376</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

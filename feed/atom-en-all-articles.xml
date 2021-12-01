@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-12-01T03:10:27.132684+00:00</updated>
+  <updated>2021-12-01T04:13:06.542610+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -183,6 +183,15 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/17329" rel="alternate"/>
     <summary>The Genshin Impact Version 2.3 "Shadows Amidst Snowstorms" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
     <published>2021-11-24T19:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17376</id>
+    <title>"Meeting of Light and Shadow" Results</title>
+    <updated>2021-12-01T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110461911191.png"><br/><br/>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17376">"Meeting of Light and Shadow" Results</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17376" rel="alternate"/>
+    <summary>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"</summary>
+    <published>2021-12-01T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -1339,15 +1348,6 @@ But under the day's warm breeze, the dutiful Captain of the Reconnaissance Compa
     <published>2021-11-25T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>15256</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</title>
-    <updated>2021-08-26T04:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520114091781.jpg"><br/><br/>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15256">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15256" rel="alternate"/>
-    <summary>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.</summary>
-    <published>2021-08-26T04:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>15228</id>
     <title>The Inazuma Diaries: Watatsumi Island &amp; Seirai Island</title>
     <updated>2021-08-26T10:30:00-04:00</updated>
@@ -2306,5 +2306,14 @@ But under the day's warm breeze, the dutiful Captain of the Reconnaissance Compa
 Across the outskirts of Mondstadt lie the scattered footprints of the Spindrift Knight.
 But under the day's warm breeze, the dutiful Captain of the Reconnaissance Company would occasionally have a rest.</summary>
     <published>2021-11-25T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17376</id>
+    <title>"Meeting of Light and Shadow" Results</title>
+    <updated>2021-12-01T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110461911191.png"><br/><br/>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17376">"Meeting of Light and Shadow" Results</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17376" rel="alternate"/>
+    <summary>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"</summary>
+    <published>2021-12-01T12:00:00-05:00</published>
   </entry>
 </feed>

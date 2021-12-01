@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:32 +0000</lastBuildDate>
-    <item>
-      <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.0 – Teil 2</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14709</link>
-      <description>Hallo, Reisende! Paimon bringt euch wieder die neusten Informationen! Klickt auf das Bild unten, um alles zu sehen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080618540828583.jpg"><br/><br/>Hallo, Reisende! Paimon bringt euch wieder die neusten Informationen! Klickt auf das Bild unten, um alles zu sehen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14709">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.0 – Teil 2</a>]]></content:encoded>
-      <guid isPermaLink="false">14709</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:14 +0000</lastBuildDate>
     <item>
       <title>Figurenvorführung bei Genshin Impact – Yoimiya: Feurige Sommerlichter</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14790</link>
@@ -851,6 +843,16 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411164144184.jpg"><br/><br/>An den windgepeitschten Klippen, in den abgelegenen Wäldern und im Schnee am Fuße des Berges, um Mondstadt herum sind die verstreuten Fußspuren der Gischtritterin zu finden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17299">Minialbum von Genshin Impact – Gentle Waves of Frost</a>]]></content:encoded>
       <guid isPermaLink="false">17299</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ergebnisverkündung für „Aufeinandertreffen von Licht und Schatten“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17375</link>
+      <description>Hallo, liebe Reisende!
+Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211130/2021113022222399076.png"><br/><br/>Hallo, liebe Reisende!
+Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17375">Ergebnisverkündung für „Aufeinandertreffen von Licht und Schatten“</a>]]></content:encoded>
+      <guid isPermaLink="false">17375</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

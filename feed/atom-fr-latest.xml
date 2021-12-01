@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-12-01T03:10:27.179471+00:00</updated>
+  <updated>2021-12-01T04:13:06.592838+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14760</id>
-    <title>Paimon vous présente un aperçu des événements de la version 2.0 - Partie II</title>
-    <updated>2021-08-08T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716321744926.jpg"><br/><br/>Bonjour voyageurs ~ Paimon vous présente les informations des prochains événements, cliquez sur l'image ci-dessous pour y jeter un coup d'œil !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14760">Paimon vous présente un aperçu des événements de la version 2.0 - Partie II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14760" rel="alternate"/>
-    <summary>Bonjour voyageurs ~ Paimon vous présente les informations des prochains événements, cliquez sur l'image ci-dessous pour y jeter un coup d'œil !</summary>
-    <published>2021-08-08T12:10:00+02:00</published>
-  </entry>
   <entry>
     <id>14788</id>
     <title>Genshin Impact - Démo personnage : « Yoimiya : feux d'artifice dans la nuit d'été »</title>
@@ -873,5 +864,16 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/17325" rel="alternate"/>
     <published>2021-11-25T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17377</id>
+    <title>[Annonce des résultats] Rencontre entre ombres et lumières</title>
+    <updated>2021-12-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110114052210.png"><br/><br/>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17377">[Annonce des résultats] Rencontre entre ombres et lumières</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17377" rel="alternate"/>
+    <summary>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+01:00</published>
   </entry>
 </feed>

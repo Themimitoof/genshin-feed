@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - events</title>
-  <updated>2021-12-01T03:10:29.189736+00:00</updated>
+  <updated>2021-12-01T04:13:09.455684+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -142,5 +142,16 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
     <link href="https://genshin.mihoyo.com/fr/news/detail/17337" rel="alternate"/>
     <summary/>
     <published>2021-11-24T20:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17377</id>
+    <title>[Annonce des résultats] Rencontre entre ombres et lumières</title>
+    <updated>2021-12-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110114052210.png"><br/><br/>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17377">[Annonce des résultats] Rencontre entre ombres et lumières</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17377" rel="alternate"/>
+    <summary>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+01:00</published>
   </entry>
 </feed>

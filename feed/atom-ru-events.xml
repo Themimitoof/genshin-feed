@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2021-12-01T03:10:50.119696+00:00</updated>
+  <updated>2021-12-01T04:13:41.493463+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -164,5 +164,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17334" rel="alternate"/>
     <summary>Версия Genshin Impact 2.3 «Белая пыль и снежная тень» уже вышла. Вместе с ней началась кампания по набору стримеров Genshin Impact на Twitch. Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
     <published>2021-11-24T19:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17380</id>
+    <title>Оглашение результатов события «Встреча света и тени»</title>
+    <updated>2021-12-01T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110154399036.png"><br/><br/>Привет, Путешественники! Событие завершилось. Спасибо за участие! Посмотрим, кто же наши счастливчики. (•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17380">Оглашение результатов события «Встреча света и тени»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17380" rel="alternate"/>
+    <summary>Привет, Путешественники! Событие завершилось. Спасибо за участие! Посмотрим, кто же наши счастливчики. (•̀ᴗ•́)و ̑̑</summary>
+    <published>2021-12-01T12:00:00+03:00</published>
   </entry>
 </feed>

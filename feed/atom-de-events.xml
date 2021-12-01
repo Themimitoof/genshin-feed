@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - events</title>
-  <updated>2021-12-01T03:10:34.688452+00:00</updated>
+  <updated>2021-12-01T04:13:17.390756+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -106,5 +106,16 @@ Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch da
     <link href="https://genshin.mihoyo.com/de/news/detail/17118" rel="alternate"/>
     <summary>Eine neue Herausforderung, ein neues Ziel! Nimm täglich an der Fragenaktion von Paimon im HoYoLAB teil und erhalte Mora für richtig beantwortete Fragen!</summary>
     <published>2021-11-19T17:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17375</id>
+    <title>Ergebnisverkündung für „Aufeinandertreffen von Licht und Schatten“</title>
+    <updated>2021-12-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211130/2021113022222399076.png"><br/><br/>Hallo, liebe Reisende!
+Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17375">Ergebnisverkündung für „Aufeinandertreffen von Licht und Schatten“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17375" rel="alternate"/>
+    <summary>Hallo, liebe Reisende!
+Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+01:00</published>
   </entry>
 </feed>

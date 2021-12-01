@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:13 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -96,6 +96,14 @@
       <content:encoded><![CDATA[《原神》2.3新版本「皚塵與雪影」已更新。Twitch《原神》新版本實況主招募活動現已開始。參與直播、完成任務，就能贏取豐厚原石獎勵！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17335">Twitch《原神》新版本實況主招募</a>]]></content:encoded>
       <guid isPermaLink="false">17335</guid>
       <pubDate>Wed, 24 Nov 2021 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【結果公告】光影相約</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17382</link>
+      <description>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110201434834.png"><br/><br/>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17382">【結果公告】光影相約</a>]]></content:encoded>
+      <guid isPermaLink="false">17382</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

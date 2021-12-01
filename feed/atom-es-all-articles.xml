@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-12-01T03:10:37.874321+00:00</updated>
+  <updated>2021-12-01T04:13:21.336755+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -163,6 +163,17 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <link href="https://genshin.mihoyo.com/es/news/detail/17328" rel="alternate"/>
     <summary>Querido/a viajero/a:</summary>
     <published>2021-11-24T19:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17379</id>
+    <title>Publicación de resultados: Encuentros de luz y sombra</title>
+    <updated>2021-12-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110123851360.png"><br/><br/>¡Hola, viajeros!
+El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17379">Publicación de resultados: Encuentros de luz y sombra</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17379" rel="alternate"/>
+    <summary>¡Hola, viajeros!
+El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>739</id>
@@ -1208,15 +1219,6 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <published>2021-11-25T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>15072</id>
-    <title>Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</title>
-    <updated>2021-08-21T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014073664118.png"><br/><br/>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15072">Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15072" rel="alternate"/>
-    <summary>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).</summary>
-    <published>2021-08-21T12:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>15115</id>
     <title>¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</title>
     <updated>2021-08-21T12:00:00+02:00</updated>
@@ -2117,5 +2119,16 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <link href="https://genshin.mihoyo.com/es/news/detail/17323" rel="alternate"/>
     <summary>Acantilados azotados por el viento, bosques recónditos y un manto de nieve que cubre el pie de la montaña.</summary>
     <published>2021-11-25T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17379</id>
+    <title>Publicación de resultados: Encuentros de luz y sombra</title>
+    <updated>2021-12-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110123851360.png"><br/><br/>¡Hola, viajeros!
+El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17379">Publicación de resultados: Encuentros de luz y sombra</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17379" rel="alternate"/>
+    <summary>¡Hola, viajeros!
+El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+01:00</published>
   </entry>
 </feed>

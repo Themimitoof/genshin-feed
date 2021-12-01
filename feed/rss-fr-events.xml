@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:09 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -124,6 +124,16 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">17337</guid>
       <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Annonce des résultats] Rencontre entre ombres et lumières</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17377</link>
+      <description>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110114052210.png"><br/><br/>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17377">[Annonce des résultats] Rencontre entre ombres et lumières</a>]]></content:encoded>
+      <guid isPermaLink="false">17377</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

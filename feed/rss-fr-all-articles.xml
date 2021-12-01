@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:10 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -124,6 +124,16 @@ L'événement web « Vœux des lanternes célestes » est officiellement lanc�
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17337">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">17337</guid>
       <pubDate>Wed, 24 Nov 2021 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Annonce des résultats] Rencontre entre ombres et lumières</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17377</link>
+      <description>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110114052210.png"><br/><br/>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17377">[Annonce des résultats] Rencontre entre ombres et lumières</a>]]></content:encoded>
+      <guid isPermaLink="false">17377</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -1021,14 +1031,6 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Paimon vous présente un aperçu des événements de la version 2.0 - Partie II</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14760</link>
-      <description>Bonjour voyageurs ~ Paimon vous présente les informations des prochains événements, cliquez sur l'image ci-dessous pour y jeter un coup d'œil !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716321744926.jpg"><br/><br/>Bonjour voyageurs ~ Paimon vous présente les informations des prochains événements, cliquez sur l'image ci-dessous pour y jeter un coup d'œil !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14760">Paimon vous présente un aperçu des événements de la version 2.0 - Partie II</a>]]></content:encoded>
-      <guid isPermaLink="false">14760</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Genshin Impact - Démo personnage : « Yoimiya : feux d'artifice dans la nuit d'été »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14788</link>
       <description>Ceux qui possèdent un cœur joyeux et qui ont conservé leur âme d'enfant apprécieront sans aucun doute les feux d'artifice préparés avec soin par Yoimiya.</description>
@@ -1770,6 +1772,16 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></description>
       <guid isPermaLink="false">17325</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Annonce des résultats] Rencontre entre ombres et lumières</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17377</link>
+      <description>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110114052210.png"><br/><br/>Salut les voyageurs !
+Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17377">[Annonce des résultats] Rencontre entre ombres et lumières</a>]]></content:encoded>
+      <guid isPermaLink="false">17377</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

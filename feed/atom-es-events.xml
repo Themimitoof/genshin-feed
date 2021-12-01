@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - events</title>
-  <updated>2021-12-01T03:10:37.293483+00:00</updated>
+  <updated>2021-12-01T04:13:20.628572+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -163,5 +163,16 @@ Pero teniendo compañeros tan especiales, los detalles del día a día brillan c
     <link href="https://genshin.mihoyo.com/es/news/detail/17328" rel="alternate"/>
     <summary>Querido/a viajero/a:</summary>
     <published>2021-11-24T19:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17379</id>
+    <title>Publicación de resultados: Encuentros de luz y sombra</title>
+    <updated>2021-12-01T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110123851360.png"><br/><br/>¡Hola, viajeros!
+El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17379">Publicación de resultados: Encuentros de luz y sombra</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17379" rel="alternate"/>
+    <summary>¡Hola, viajeros!
+El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و</summary>
+    <published>2021-12-01T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 01 Dec 2021 03:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 04:13:46 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -134,6 +134,16 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17331">กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</a>]]></description>
       <guid isPermaLink="false">17331</guid>
       <pubDate>Wed, 24 Nov 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[ประกาศผล] แสงเงาเคล้าบรรจบ</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17387</link>
+      <description>ฮาโหล นักเดินทางทุกคน~
+กิจกรรมนี้ได้สิ้นสุดลงแล้ว ขอขอบคุณที่เข้าร่วมกิจกรรมนะ งั้นเรามาดูกันเลยดีกว่าว่าใครจะเป็นผู้โชคดีกันบ้าง~(•̀ᴗ•́)و</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120111034735133.png"><br/><br/>ฮาโหล นักเดินทางทุกคน~
+กิจกรรมนี้ได้สิ้นสุดลงแล้ว ขอขอบคุณที่เข้าร่วมกิจกรรมนะ งั้นเรามาดูกันเลยดีกว่าว่าใครจะเป็นผู้โชคดีกันบ้าง~(•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17387">[ประกาศผล] แสงเงาเคล้าบรรจบ</a>]]></content:encoded>
+      <guid isPermaLink="false">17387</guid>
+      <pubDate>Wed, 01 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
