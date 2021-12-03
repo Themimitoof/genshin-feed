@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:09:04 +0000</lastBuildDate>
-    <item>
-      <title>角色展示-「宵宮：真夏飛焰」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/14778</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080813444191770.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14778">角色展示-「宵宮：真夏飛焰」｜原神</a>]]></description>
-      <guid isPermaLink="false">14778</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:21 +0000</lastBuildDate>
     <item>
       <title>拾枝雜談-「宵宮：焰硝火語」｜原神</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/14835</link>
@@ -809,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110201434834.png"><br/><br/>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17382">【結果公告】光影相約</a>]]></content:encoded>
       <guid isPermaLink="false">17382</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【致旅行者的答謝信】</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17463</link>
+      <description>《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”</description>
+      <content:encoded><![CDATA[《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17463">【致旅行者的答謝信】</a>]]></content:encoded>
+      <guid isPermaLink="false">17463</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

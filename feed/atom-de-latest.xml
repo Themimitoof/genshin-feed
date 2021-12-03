@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-12-03T11:09:05.711023+00:00</updated>
+  <updated>2021-12-03T12:15:24.280799+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14790</id>
-    <title>Figurenvorführung bei Genshin Impact – Yoimiya: Feurige Sommerlichter</title>
-    <updated>2021-08-09T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910294560533.jpg"><br/><br/>Wer leidenschaftlich und kindlich ist, wird sich bei dem von Yoimiya sorgfältig vorbereiteten Feuerwerk mit Sicherheit wohlfühlen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14790">Figurenvorführung bei Genshin Impact – Yoimiya: Feurige Sommerlichter</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14790" rel="alternate"/>
-    <summary>Wer leidenschaftlich und kindlich ist, wird sich bei dem von Yoimiya sorgfältig vorbereiteten Feuerwerk mit Sicherheit wohlfühlen.</summary>
-    <published>2021-08-09T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14824</id>
     <title>Fähigkeiten bei Genshin Impact – Yoimiya: Knistergeflüster</title>
@@ -953,5 +944,16 @@ Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns
     <summary>Hallo, liebe Reisende!
 Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و</summary>
     <published>2021-12-01T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17465</id>
+    <title>Dankesbrief</title>
+    <updated>2021-12-03T20:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17465">Dankesbrief</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17465" rel="alternate"/>
+    <summary>Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!</summary>
+    <published>2021-12-03T20:00:00+01:00</published>
   </entry>
 </feed>

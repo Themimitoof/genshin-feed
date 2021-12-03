@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:09:05 +0000</lastBuildDate>
-    <item>
-      <title>Figurenvorführung bei Genshin Impact – Sayu: Juhu-Stil – Mujina-Flucht</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14729</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711025320229.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14729">Figurenvorführung bei Genshin Impact – Sayu: Juhu-Stil – Mujina-Flucht</a>]]></description>
-      <guid isPermaLink="false">14729</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:25 +0000</lastBuildDate>
     <item>
       <title>„Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.“ – „Mujina-Ninja“ – Sayu</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14742</link>
@@ -846,6 +839,16 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411164144184.jpg"><br/><br/>An den windgepeitschten Klippen, in den abgelegenen Wäldern und im Schnee am Fuße des Berges, um Mondstadt herum sind die verstreuten Fußspuren der Gischtritterin zu finden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17299">Minialbum von Genshin Impact – Gentle Waves of Frost</a>]]></content:encoded>
       <guid isPermaLink="false">17299</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dankesbrief</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17465</link>
+      <description>Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!</description>
+      <content:encoded><![CDATA[Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17465">Dankesbrief</a>]]></content:encoded>
+      <guid isPermaLink="false">17465</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-12-03T11:09:05.662794+00:00</updated>
+  <updated>2021-12-03T12:15:24.236816+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -278,15 +278,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>14690</id>
-    <title>「夏祭留影」網頁活動已開啟</title>
-    <updated>2021-08-05T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511200556776.jpg"><br/><br/>綻於天際的煙火，點亮了身側少女的眼眸…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14690">「夏祭留影」網頁活動已開啟</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14690" rel="alternate"/>
-    <summary>綻於天際的煙火，點亮了身側少女的眼眸…</summary>
-    <published>2021-08-05T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>14719</id>
@@ -1179,12 +1170,13 @@
     <published>2021-11-25T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>14778</id>
-    <title>角色展示-「宵宮：真夏飛焰」｜原神</title>
-    <updated>2021-08-09T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080813444191770.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14778">角色展示-「宵宮：真夏飛焰」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14778" rel="alternate"/>
-    <published>2021-08-09T12:00:00+08:00</published>
+    <id>17463</id>
+    <title>【致旅行者的答謝信】</title>
+    <updated>2021-12-03T20:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17463">【致旅行者的答謝信】</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17463" rel="alternate"/>
+    <summary>《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”</summary>
+    <published>2021-12-03T20:00:00+08:00</published>
   </entry>
   <entry>
     <id>14835</id>
@@ -2079,5 +2071,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17382" rel="alternate"/>
     <summary>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"</summary>
     <published>2021-12-01T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17463</id>
+    <title>【致旅行者的答謝信】</title>
+    <updated>2021-12-03T20:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17463">【致旅行者的答謝信】</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17463" rel="alternate"/>
+    <summary>《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”</summary>
+    <published>2021-12-03T20:00:00+08:00</published>
   </entry>
 </feed>

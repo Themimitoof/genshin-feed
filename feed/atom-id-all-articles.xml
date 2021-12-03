@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-12-03T11:09:09.702889+00:00</updated>
+  <updated>2021-12-03T12:15:34.831614+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -337,15 +337,6 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14753</id>
-    <title>"Aku tetap di kasur saja hari ini." — Mujina Ninja·Sayu</title>
-    <updated>2021-08-07T18:15:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080714581018535.jpg"><br/><br/>Halo Traveler \ (^ o ^) / ~ Hari ini, ayo kita kenalan dengan seorang ninja dari Shuumatsuban, Sayu!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14753">"Aku tetap di kasur saja hari ini." — Mujina Ninja·Sayu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14753" rel="alternate"/>
-    <summary>Halo Traveler \ (^ o ^) / ~ Hari ini, ayo kita kenalan dengan seorang ninja dari Shuumatsuban, Sayu!</summary>
-    <published>2021-08-07T18:15:00+07:00</published>
   </entry>
   <entry>
     <id>14762</id>
@@ -1247,13 +1238,13 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
     <published>2021-11-25T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15105</id>
-    <title>Genshin Impact - Reset Bonus Top-Up Perdana</title>
-    <updated>2021-08-20T23:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082020030356913.jpg"><br/><br/>Setelah update Genshin Impact v2.1, semua tingkatan Top-Up di menu Top-Up Crystal akan direset ulang dan memberikan bonus ganda untuk Top-Up Perdana sekali lagi.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15105">Genshin Impact - Reset Bonus Top-Up Perdana</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15105" rel="alternate"/>
-    <summary>Setelah update Genshin Impact v2.1, semua tingkatan Top-Up di menu Top-Up Crystal akan direset ulang dan memberikan bonus ganda untuk Top-Up Perdana sekali lagi.</summary>
-    <published>2021-08-20T23:30:00+07:00</published>
+    <id>17467</id>
+    <title>Surat Terima Kasih untuk Seluruh Traveler</title>
+    <updated>2021-12-03T20:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[Berkat dukungan kalian, Genshin Impact telah memenangkan "PlayStation®Partner Awards 2021 GRAND AWARD" dan "PlayStation Game Music Award (Juara kedua)!" Terima kasih sudah menemani kami di sepanjang perjalanan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17467">Surat Terima Kasih untuk Seluruh Traveler</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17467" rel="alternate"/>
+    <summary>Berkat dukungan kalian, Genshin Impact telah memenangkan "PlayStation®Partner Awards 2021 GRAND AWARD" dan "PlayStation Game Music Award (Juara kedua)!" Terima kasih sudah menemani kami di sepanjang perjalanan.</summary>
+    <published>2021-12-03T20:00:00+07:00</published>
   </entry>
   <entry>
     <id>15064</id>
@@ -2161,5 +2152,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <summary>Halo, Traveler semua~
 Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua! Kalian bisa melihat siapa saja yang beruntung di bawah sini~ (•̀ᴗ•́)و</summary>
     <published>2021-12-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17467</id>
+    <title>Surat Terima Kasih untuk Seluruh Traveler</title>
+    <updated>2021-12-03T20:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[Berkat dukungan kalian, Genshin Impact telah memenangkan "PlayStation®Partner Awards 2021 GRAND AWARD" dan "PlayStation Game Music Award (Juara kedua)!" Terima kasih sudah menemani kami di sepanjang perjalanan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17467">Surat Terima Kasih untuk Seluruh Traveler</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17467" rel="alternate"/>
+    <summary>Berkat dukungan kalian, Genshin Impact telah memenangkan "PlayStation®Partner Awards 2021 GRAND AWARD" dan "PlayStation Game Music Award (Juara kedua)!" Terima kasih sudah menemani kami di sepanjang perjalanan.</summary>
+    <published>2021-12-03T20:00:00+07:00</published>
   </entry>
 </feed>

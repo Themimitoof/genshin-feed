@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-12-03T11:09:11.178583+00:00</updated>
+  <updated>2021-12-03T12:15:39.543393+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14695</id>
-    <title>「여름 축제 기념촬영」보상 웹이벤트 오픈</title>
-    <updated>2021-08-05T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511485047264.jpg"><br/><br/>「여름 축제 기념촬영」 - <원신> 신규 캐릭터: 요이미야 웹이벤트 정식 출시<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14695">「여름 축제 기념촬영」보상 웹이벤트 오픈</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14695" rel="alternate"/>
-    <summary>「여름 축제 기념촬영」 - &lt;원신&gt; 신규 캐릭터: 요이미야 웹이벤트 정식 출시</summary>
-    <published>2021-08-05T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>14740</id>
     <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「사유: 유후 너구리둔」</title>
@@ -949,5 +940,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17312" rel="alternate"/>
     <summary>바람이 몰아치는 낭떠러지, 무성한 숲, 산기슭의 눈</summary>
     <published>2021-11-25T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17457</id>
+    <title>여행자님에게 보내는 감사 편지</title>
+    <updated>2021-12-03T20:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17457">여행자님에게 보내는 감사 편지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17457" rel="alternate"/>
+    <summary/>
+    <published>2021-12-03T20:00:00+09:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:30 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -270,14 +270,6 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14771</link>
-      <description>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721330677785.jpg"><br/><br/>Durante este evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14771">Gachapón «Tapiz del fuego áureo»: ¡aumentada la probabilidad de obtención de Yoimiya, "la Maestra de las Llamas" (Pyro)!</a>]]></content:encoded>
-      <guid isPermaLink="false">14771</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</title>
@@ -1078,12 +1070,12 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15115</link>
-      <description>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111292333189.jpg"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15115">¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</a>]]></content:encoded>
-      <guid isPermaLink="false">15115</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
+      <title>Carta de agradecimiento a nuestros viajeros</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17455</link>
+      <description>Queridos viajeros:</description>
+      <content:encoded><![CDATA[Queridos viajeros:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17455">Carta de agradecimiento a nuestros viajeros</a>]]></content:encoded>
+      <guid isPermaLink="false">17455</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Actualización de la versión 2.1: Detalles del modo de juego de pesca</title>
@@ -1886,6 +1878,14 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
 El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17379">Publicación de resultados: Encuentros de luz y sombra</a>]]></content:encoded>
       <guid isPermaLink="false">17379</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Carta de agradecimiento a nuestros viajeros</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17455</link>
+      <description>Queridos viajeros:</description>
+      <content:encoded><![CDATA[Queridos viajeros:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17455">Carta de agradecimiento a nuestros viajeros</a>]]></content:encoded>
+      <guid isPermaLink="false">17455</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

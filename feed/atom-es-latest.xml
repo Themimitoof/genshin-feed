@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-03T11:09:07.009396+00:00</updated>
+  <updated>2021-12-03T12:15:28.008950+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15115</id>
-    <title>¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</title>
-    <updated>2021-08-21T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111292333189.jpg"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15115">¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15115" rel="alternate"/>
-    <summary>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</summary>
-    <published>2021-08-21T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15155</id>
     <title>Actualización de la versión 2.1: Detalles del modo de juego de pesca</title>
@@ -921,5 +912,14 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
     <summary>¡Hola, viajeros!
 El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و</summary>
     <published>2021-12-01T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17455</id>
+    <title>Carta de agradecimiento a nuestros viajeros</title>
+    <updated>2021-12-03T20:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[Queridos viajeros:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17455">Carta de agradecimiento a nuestros viajeros</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17455" rel="alternate"/>
+    <summary>Queridos viajeros:</summary>
+    <published>2021-12-03T20:00:00+01:00</published>
   </entry>
 </feed>

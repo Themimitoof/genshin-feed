@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:09:09 +0000</lastBuildDate>
-    <item>
-      <title>"Aku tetap di kasur saja hari ini." — Mujina Ninja·Sayu</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/14753</link>
-      <description>Halo Traveler \ (^ o ^) / ~ Hari ini, ayo kita kenalan dengan seorang ninja dari Shuumatsuban, Sayu!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080714581018535.jpg"><br/><br/>Halo Traveler \ (^ o ^) / ~ Hari ini, ayo kita kenalan dengan seorang ninja dari Shuumatsuban, Sayu!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14753">"Aku tetap di kasur saja hari ini." — Mujina Ninja·Sayu</a>]]></content:encoded>
-      <guid isPermaLink="false">14753</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:31 +0000</lastBuildDate>
     <item>
       <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Thundering Pulse (Bow) dan Skyward Blade (Sword) Meningkat!</title>
       <link>https://genshin.mihoyo.com/id/news/detail/14762</link>
@@ -816,6 +808,14 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112414120089495.jpg"><br/><br/>Tebing yang diterpa angin, hutan lebat yang sunyi, dan salju di kaki gunung.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17308">Mini Album: Ombak Es yang Tenteram | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17308</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Surat Terima Kasih untuk Seluruh Traveler</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17467</link>
+      <description>Berkat dukungan kalian, Genshin Impact telah memenangkan "PlayStation®Partner Awards 2021 GRAND AWARD" dan "PlayStation Game Music Award (Juara kedua)!" Terima kasih sudah menemani kami di sepanjang perjalanan.</description>
+      <content:encoded><![CDATA[Berkat dukungan kalian, Genshin Impact telah memenangkan "PlayStation®Partner Awards 2021 GRAND AWARD" dan "PlayStation Game Music Award (Juara kedua)!" Terima kasih sudah menemani kami di sepanjang perjalanan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17467">Surat Terima Kasih untuk Seluruh Traveler</a>]]></content:encoded>
+      <guid isPermaLink="false">17467</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

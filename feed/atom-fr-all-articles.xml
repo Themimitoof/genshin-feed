@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-03T11:09:04.539892+00:00</updated>
+  <updated>2021-12-03T12:15:21.293331+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -306,15 +306,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14504</id>
-    <title>L'événement web « L'invitation du héron » est désormais disponible</title>
-    <updated>2021-07-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072611014298451.jpg"><br/><br/>« J'ai attendu longtemps de vous rencontrer. » « L'invitation du héron » - Nouveau personnage de Genshin Impact : l'événement web de Kamisato Ayaka est disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14504">L'événement web « L'invitation du héron » est désormais disponible</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14504" rel="alternate"/>
-    <summary>« J'ai attendu longtemps de vous rencontrer. » « L'invitation du héron » - Nouveau personnage de Genshin Impact : l'événement web de Kamisato Ayaka est disponible.</summary>
-    <published>2021-07-26T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>14658</id>
@@ -1180,13 +1171,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-11-25T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14788</id>
-    <title>Genshin Impact - Démo personnage : « Yoimiya : feux d'artifice dans la nuit d'été »</title>
-    <updated>2021-08-09T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910235115925.jpg"><br/><br/>Ceux qui possèdent un cœur joyeux et qui ont conservé leur âme d'enfant apprécieront sans aucun doute les feux d'artifice préparés avec soin par Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14788">Genshin Impact - Démo personnage : « Yoimiya : feux d'artifice dans la nuit d'été »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14788" rel="alternate"/>
-    <summary>Ceux qui possèdent un cœur joyeux et qui ont conservé leur âme d'enfant apprécieront sans aucun doute les feux d'artifice préparés avec soin par Yoimiya.</summary>
-    <published>2021-08-09T12:00:00+02:00</published>
+    <id>17461</id>
+    <title>Un grand merci à tous les voyageurs</title>
+    <updated>2021-12-03T20:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17461">Un grand merci à tous les voyageurs</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17461" rel="alternate"/>
+    <published>2021-12-03T20:00:00+01:00</published>
   </entry>
   <entry>
     <id>14833</id>
@@ -2045,5 +2035,13 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <summary>Salut les voyageurs !
 Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و</summary>
     <published>2021-12-01T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17461</id>
+    <title>Un grand merci à tous les voyageurs</title>
+    <updated>2021-12-03T20:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17461">Un grand merci à tous les voyageurs</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17461" rel="alternate"/>
+    <published>2021-12-03T20:00:00+01:00</published>
   </entry>
 </feed>

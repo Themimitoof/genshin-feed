@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:09:01 +0000</lastBuildDate>
-    <item>
-      <title>L'événement web « L'invitation du héron » est désormais disponible</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14504</link>
-      <description>« J'ai attendu longtemps de vous rencontrer. » « L'invitation du héron » - Nouveau personnage de Genshin Impact : l'événement web de Kamisato Ayaka est disponible.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072611014298451.jpg"><br/><br/>« J'ai attendu longtemps de vous rencontrer. » « L'invitation du héron » - Nouveau personnage de Genshin Impact : l'événement web de Kamisato Ayaka est disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14504">L'événement web « L'invitation du héron » est désormais disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">14504</guid>
-      <pubDate>Mon, 26 Jul 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:18 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Histoire de personnage | Yoimiya : « Symbole estival de l'Île de Narukami »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14658</link>
@@ -768,6 +760,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112416583568570.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17325">Genshin Impact, la bande-son : Douces vagues de froid</a>]]></description>
       <guid isPermaLink="false">17325</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Un grand merci à tous les voyageurs</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17461</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17461">Un grand merci à tous les voyageurs</a>]]></description>
+      <guid isPermaLink="false">17461</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

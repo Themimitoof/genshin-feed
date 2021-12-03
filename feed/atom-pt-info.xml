@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-12-03T11:09:13.651411+00:00</updated>
+  <updated>2021-12-03T12:15:43.187398+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>14738</id>
-    <title>Eu não precisava ter saído da cama hoje. - Mujina Ninja - Sayu</title>
-    <updated>2021-08-07T18:15:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711153243804.jpg"><br/><br/>Viajantes \ (^ o ^) / ~ Hoje estaremos apresentando para vocês, uma pequena ninja de Shiyuumatsu-Ban, Sayu.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14738">Eu não precisava ter saído da cama hoje. - Mujina Ninja - Sayu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14738" rel="alternate"/>
-    <summary>Viajantes \ (^ o ^) / ~ Hoje estaremos apresentando para vocês, uma pequena ninja de Shiyuumatsu-Ban, Sayu.</summary>
-    <published>2021-08-07T18:15:00+01:00</published>
-  </entry>
   <entry>
     <id>14748</id>
     <title>Oração "Encarnação Divina": Probabilidade de Obtenção da "Agitação Trovejante (Arco)" e da "Espada Celestial (Espada)" Aumentada!</title>
@@ -908,5 +899,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/17305" rel="alternate"/>
     <summary>Penhascos varridos pelo vento, florestas isoladas e neve no sopé de uma montanha.</summary>
     <published>2021-11-25T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17464</id>
+    <title>[Carta de Agradecimento aos Viajantes]</title>
+    <updated>2021-12-03T20:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[Com o apoio de todos de vocês, Genshin Impact ganhou o "PlayStation®Partner Awards 2021 GRAND AWARD" (GRANDE PRÊMIO de PlayStation®Partner 2021) e o segundo lugar da "PlayStation Game Music Award" (Prêmio de Música de Jogo da Playstation). <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17464">[Carta de Agradecimento aos Viajantes]</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17464" rel="alternate"/>
+    <summary>Com o apoio de todos de vocês, Genshin Impact ganhou o "PlayStation®Partner Awards 2021 GRAND AWARD" (GRANDE PRÊMIO de PlayStation®Partner 2021) e o segundo lugar da "PlayStation Game Music Award" (Prêmio de Música de Jogo da Playstation). </summary>
+    <published>2021-12-03T20:00:00+00:00</published>
   </entry>
 </feed>

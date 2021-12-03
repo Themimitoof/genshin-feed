@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:21 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -269,14 +269,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'événement web « L'invitation du héron » est désormais disponible</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14504</link>
-      <description>« J'ai attendu longtemps de vous rencontrer. » « L'invitation du héron » - Nouveau personnage de Genshin Impact : l'événement web de Kamisato Ayaka est disponible.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210726/2021072611014298451.jpg"><br/><br/>« J'ai attendu longtemps de vous rencontrer. » « L'invitation du héron » - Nouveau personnage de Genshin Impact : l'événement web de Kamisato Ayaka est disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14504">L'événement web « L'invitation du héron » est désormais disponible</a>]]></content:encoded>
-      <guid isPermaLink="false">14504</guid>
-      <pubDate>Mon, 26 Jul 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Histoire de personnage | Yoimiya : « Symbole estival de l'Île de Narukami »</title>
@@ -1031,12 +1023,11 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Démo personnage : « Yoimiya : feux d'artifice dans la nuit d'été »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14788</link>
-      <description>Ceux qui possèdent un cœur joyeux et qui ont conservé leur âme d'enfant apprécieront sans aucun doute les feux d'artifice préparés avec soin par Yoimiya.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910235115925.jpg"><br/><br/>Ceux qui possèdent un cœur joyeux et qui ont conservé leur âme d'enfant apprécieront sans aucun doute les feux d'artifice préparés avec soin par Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14788">Genshin Impact - Démo personnage : « Yoimiya : feux d'artifice dans la nuit d'été »</a>]]></content:encoded>
-      <guid isPermaLink="false">14788</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0200</pubDate>
+      <title>Un grand merci à tous les voyageurs</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17461</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17461">Un grand merci à tous les voyageurs</a>]]></description>
+      <guid isPermaLink="false">17461</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Yoimiya : Le langage des étincelles</title>
@@ -1782,6 +1773,13 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
 Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17377">[Annonce des résultats] Rencontre entre ombres et lumières</a>]]></content:encoded>
       <guid isPermaLink="false">17377</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Un grand merci à tous les voyageurs</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17461</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17461">Un grand merci à tous les voyageurs</a>]]></description>
+      <guid isPermaLink="false">17461</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

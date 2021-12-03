@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-03T11:09:12.801553+00:00</updated>
+  <updated>2021-12-03T12:15:41.955680+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -376,15 +376,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14695</id>
-    <title>「여름 축제 기념촬영」보상 웹이벤트 오픈</title>
-    <updated>2021-08-05T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511485047264.jpg"><br/><br/>「여름 축제 기념촬영」 - <원신> 신규 캐릭터: 요이미야 웹이벤트 정식 출시<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14695">「여름 축제 기념촬영」보상 웹이벤트 오픈</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14695" rel="alternate"/>
-    <summary>「여름 축제 기념촬영」 - &lt;원신&gt; 신규 캐릭터: 요이미야 웹이벤트 정식 출시</summary>
-    <published>2021-08-05T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>14740</id>
@@ -1319,15 +1310,13 @@
     <published>2021-11-25T12:01:00+09:00</published>
   </entry>
   <entry>
-    <id>15101</id>
-    <title>&lt;원신&gt; 2.1 버전 PV - 「달빛 속 광경, 하늘 아래 인간 세상」</title>
-    <updated>2021-08-20T22:45:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082019131717638.jpg"><br/><br/>사람들의 염원을 모아 이 달빛 아래서 뇌명과 열화를 지켜보고 밥 짓는 연기와 화려한 등불을 같이 감상한다
-천년의 달빛, 만년의 바위. 물 위에 비친 달그림자 만큼 속세의 일은 하염없다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15101"><원신> 2.1 버전 PV - 「달빛 속 광경, 하늘 아래 인간 세상」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15101" rel="alternate"/>
-    <summary>사람들의 염원을 모아 이 달빛 아래서 뇌명과 열화를 지켜보고 밥 짓는 연기와 화려한 등불을 같이 감상한다
-천년의 달빛, 만년의 바위. 물 위에 비친 달그림자 만큼 속세의 일은 하염없다</summary>
-    <published>2021-08-20T22:45:00+09:00</published>
+    <id>17457</id>
+    <title>여행자님에게 보내는 감사 편지</title>
+    <updated>2021-12-03T20:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17457">여행자님에게 보내는 감사 편지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17457" rel="alternate"/>
+    <summary/>
+    <published>2021-12-03T20:00:00+09:00</published>
   </entry>
   <entry>
     <id>15112</id>
@@ -2254,5 +2243,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17381" rel="alternate"/>
     <summary>행운의 수상자가 누군지 확인해 보자~</summary>
     <published>2021-12-01T12:00:26+09:00</published>
+  </entry>
+  <entry>
+    <id>17457</id>
+    <title>여행자님에게 보내는 감사 편지</title>
+    <updated>2021-12-03T20:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17457">여행자님에게 보내는 감사 편지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17457" rel="alternate"/>
+    <summary/>
+    <published>2021-12-03T20:00:00+09:00</published>
   </entry>
 </feed>

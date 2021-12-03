@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:27 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -246,13 +246,6 @@ Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812121526926.png"><br/><br/>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/7463">Vorschau zur Aktualisierung auf Version 1.2 „Kreide und Drachen“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">7463</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Figurenvorführung bei Genshin Impact – Sayu: Juhu-Stil – Mujina-Flucht</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14729</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711025320229.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14729">Figurenvorführung bei Genshin Impact – Sayu: Juhu-Stil – Mujina-Flucht</a>]]></description>
-      <guid isPermaLink="false">14729</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>„Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.“ – „Mujina-Ninja“ – Sayu</title>
@@ -1086,12 +1079,14 @@ hier findest du Details zur Aktualisierung auf Version 2.3 „Schatten im Schnee
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Figurenvorführung bei Genshin Impact – Yoimiya: Feurige Sommerlichter</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14790</link>
-      <description>Wer leidenschaftlich und kindlich ist, wird sich bei dem von Yoimiya sorgfältig vorbereiteten Feuerwerk mit Sicherheit wohlfühlen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910294560533.jpg"><br/><br/>Wer leidenschaftlich und kindlich ist, wird sich bei dem von Yoimiya sorgfältig vorbereiteten Feuerwerk mit Sicherheit wohlfühlen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14790">Figurenvorführung bei Genshin Impact – Yoimiya: Feurige Sommerlichter</a>]]></content:encoded>
-      <guid isPermaLink="false">14790</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0200</pubDate>
+      <title>Dankesbrief</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17465</link>
+      <description>Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!</description>
+      <content:encoded><![CDATA[Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17465">Dankesbrief</a>]]></content:encoded>
+      <guid isPermaLink="false">17465</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Fähigkeiten bei Genshin Impact – Yoimiya: Knistergeflüster</title>
@@ -1929,6 +1924,16 @@ Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns
 Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns doch mal an, welche Glückspilze gewonnen haben! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17375">Ergebnisverkündung für „Aufeinandertreffen von Licht und Schatten“</a>]]></content:encoded>
       <guid isPermaLink="false">17375</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dankesbrief</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17465</link>
+      <description>Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!</description>
+      <content:encoded><![CDATA[Lieber Reisender,
+dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17465">Dankesbrief</a>]]></content:encoded>
+      <guid isPermaLink="false">17465</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

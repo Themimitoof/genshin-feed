@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Dec 2021 11:08:59 +0000</lastBuildDate>
-    <item>
-      <title>The Inazuma Diaries: Watatsumi Island &amp; Seirai Island</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15228</link>
-      <description>In Version 2.1, two new islands will be introduced in Inazuma, Seirai Island and Watatsumi Island. They both have different customs, let's go and discover these mysterious places together!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517523485210.jpg"><br/><br/>In Version 2.1, two new islands will be introduced in Inazuma, Seirai Island and Watatsumi Island. They both have different customs, let's go and discover these mysterious places together!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15228">The Inazuma Diaries: Watatsumi Island & Seirai Island</a>]]></content:encoded>
-      <guid isPermaLink="false">15228</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 Dec 2021 12:15:12 +0000</lastBuildDate>
     <item>
       <title>Character Teaser - "Raiden Shogun: Nightmare" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15237</link>
@@ -875,6 +867,16 @@ But under the day's warm breeze, the dutiful Captain of the Reconnaissance Compa
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110461911191.png"><br/><br/>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17376">"Meeting of Light and Shadow" Results</a>]]></content:encoded>
       <guid isPermaLink="false">17376</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>A Thank-You Letter to All Travelers</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17445</link>
+      <description>Thanks to your support, Genshin Impact has won the " PlayStation®Partner Awards 2021 GRAND AWARD" and "PlayStation Game Music Award (1st Runner-Up)"! Thank you for coming alongside us through this journey.
+We will be giving out 800 Primogems from December 4 to December 7!</description>
+      <content:encoded><![CDATA[Thanks to your support, Genshin Impact has won the " PlayStation®Partner Awards 2021 GRAND AWARD" and "PlayStation Game Music Award (1st Runner-Up)"! Thank you for coming alongside us through this journey.
+We will be giving out 800 Primogems from December 4 to December 7!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17445">A Thank-You Letter to All Travelers</a>]]></content:encoded>
+      <guid isPermaLink="false">17445</guid>
+      <pubDate>Fri, 03 Dec 2021 20:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

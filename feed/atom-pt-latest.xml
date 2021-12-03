@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-12-03T11:09:12.857376+00:00</updated>
+  <updated>2021-12-03T12:15:42.003267+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15148</id>
-    <title>Prévia da Atualização da Versão 2.1: Descrição do Modo de Jogo "Pesca"</title>
-    <updated>2021-08-24T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082316301376964.png"><br/><br/>Olá, Viajantes~ Está chegando na Versão 2.1 um Modo de Jogo muito esperado pelos Viajantes, a "Pesca". Vamos conferir juntos~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15148">Prévia da Atualização da Versão 2.1: Descrição do Modo de Jogo "Pesca"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15148" rel="alternate"/>
-    <summary>Olá, Viajantes~ Está chegando na Versão 2.1 um Modo de Jogo muito esperado pelos Viajantes, a "Pesca". Vamos conferir juntos~</summary>
-    <published>2021-08-24T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>15269</id>
     <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
@@ -912,5 +903,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17378" rel="alternate"/>
     <summary>Olá, Viajantes~ Nosso evento já terminou, agradecemos pela participação de todos. Confira abaixo a lista de vencedores do evento ～(•̀ᴗ•́)و</summary>
     <published>2021-12-01T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17464</id>
+    <title>[Carta de Agradecimento aos Viajantes]</title>
+    <updated>2021-12-03T20:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[Com o apoio de todos de vocês, Genshin Impact ganhou o "PlayStation®Partner Awards 2021 GRAND AWARD" (GRANDE PRÊMIO de PlayStation®Partner 2021) e o segundo lugar da "PlayStation Game Music Award" (Prêmio de Música de Jogo da Playstation). <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17464">[Carta de Agradecimento aos Viajantes]</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17464" rel="alternate"/>
+    <summary>Com o apoio de todos de vocês, Genshin Impact ganhou o "PlayStation®Partner Awards 2021 GRAND AWARD" (GRANDE PRÊMIO de PlayStation®Partner 2021) e o segundo lugar da "PlayStation Game Music Award" (Prêmio de Música de Jogo da Playstation). </summary>
+    <published>2021-12-03T20:00:00+00:00</published>
   </entry>
 </feed>
