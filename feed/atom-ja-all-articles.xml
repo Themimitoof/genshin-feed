@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-12-03T02:26:43.021056+00:00</updated>
+  <updated>2021-12-03T03:11:01.333316+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>8021</id>
-    <title>「無相の交響詩　間奏曲・暴風の蝶」イベント紹介</title>
-    <updated>2021-01-17T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210115/2021011514334449866.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8021">「無相の交響詩　間奏曲・暴風の蝶」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/8021" rel="alternate"/>
-    <published>2021-01-17T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>8022</id>
     <title>「無相の交響詩　奏鳴曲・盤石の心」イベント紹介</title>
@@ -889,6 +881,15 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17230" rel="alternate"/>
     <summary/>
     <published>2021-11-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17453</id>
+    <title>「旅の絵本」イベント紹介</title>
+    <updated>2021-12-03T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211202/2021120218001813119.jpg"><br/><br/>Webイベント・「旅の絵本」：イラストを完成させて、原石を獲得しよう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17453">「旅の絵本」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17453" rel="alternate"/>
+    <summary>Webイベント・「旅の絵本」：イラストを完成させて、原石を獲得しよう！</summary>
+    <published>2021-12-03T11:00:00+09:00</published>
   </entry>
   <entry>
     <id>5839</id>
@@ -1983,15 +1984,6 @@
     <published>2021-11-16T22:50:00+09:00</published>
   </entry>
   <entry>
-    <id>13337</id>
-    <title>コスチューム公開・ジン「海風の夢」</title>
-    <updated>2021-06-08T12:15:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513203472511.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13337">コスチューム公開・ジン「海風の夢」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13337" rel="alternate"/>
-    <summary/>
-    <published>2021-06-08T12:15:00+09:00</published>
-  </entry>
-  <entry>
     <id>13339</id>
     <title>コスチューム公開・バーバラ「サマータイムスパークル」</title>
     <updated>2021-06-08T12:15:00+09:00</updated>
@@ -2859,5 +2851,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17230" rel="alternate"/>
     <summary/>
     <published>2021-11-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17453</id>
+    <title>「旅の絵本」イベント紹介</title>
+    <updated>2021-12-03T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211202/2021120218001813119.jpg"><br/><br/>Webイベント・「旅の絵本」：イラストを完成させて、原石を獲得しよう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17453">「旅の絵本」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17453" rel="alternate"/>
+    <summary>Webイベント・「旅の絵本」：イラストを完成させて、原石を獲得しよう！</summary>
+    <published>2021-12-03T11:00:00+09:00</published>
   </entry>
 </feed>
