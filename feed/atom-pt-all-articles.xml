@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-06T01:57:26.710266+00:00</updated>
+  <updated>2021-12-06T02:30:13.444865+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -344,15 +344,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>14748</id>
-    <title>Oração "Encarnação Divina": Probabilidade de Obtenção da "Agitação Trovejante (Arco)" e da "Espada Celestial (Espada)" Aumentada!</title>
-    <updated>2021-08-08T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080713494417601.jpg"><br/><br/>Durante o período do evento, o Viajante poderá obter mais armas e personagens através da Oração "Encarnação Divina", tornando sua equipe ainda mais forte no combate!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14748">Oração "Encarnação Divina": Probabilidade de Obtenção da "Agitação Trovejante (Arco)" e da "Espada Celestial (Espada)" Aumentada!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14748" rel="alternate"/>
-    <summary>Durante o período do evento, o Viajante poderá obter mais armas e personagens através da Oração "Encarnação Divina", tornando sua equipe ainda mais forte no combate!</summary>
-    <published>2021-08-08T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>14751</id>
@@ -1246,13 +1237,13 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-12-03T20:00:00+00:00</published>
   </entry>
   <entry>
-    <id>15269</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
-    <updated>2021-08-26T04:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520231831983.jpg"><br/><br/>Junto com o Maestre Dirk Brossé e Orquestra Sinfônica da Flanders, Genshin Impact está pronta para trazer uma incrível jornada musical, revivendo as melodias comoventes que ecoam em Teyvat com os Viajantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15269">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15269" rel="alternate"/>
-    <summary>Junto com o Maestre Dirk Brossé e Orquestra Sinfônica da Flanders, Genshin Impact está pronta para trazer uma incrível jornada musical, revivendo as melodias comoventes que ecoam em Teyvat com os Viajantes.</summary>
-    <published>2021-08-26T04:00:00+01:00</published>
+    <id>17500</id>
+    <title>Descrição do Modo de Jogo "Dossiê de Bantan Sango: O Cão Guerreiro"</title>
+    <updated>2021-12-06T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120316134265916.jpg"><br/><br/>Para ajudar a Agência de Detetive de Bantan Sango a investigar o caso de "Desaparecimentos em Massa de Pequenos Animais", siga as instruções do solicitante, vá para os locais designados e resgate os pequenos animais.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17500">Descrição do Modo de Jogo "Dossiê de Bantan Sango: O Cão Guerreiro"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17500" rel="alternate"/>
+    <summary>Para ajudar a Agência de Detetive de Bantan Sango a investigar o caso de "Desaparecimentos em Massa de Pequenos Animais", siga as instruções do solicitante, vá para os locais designados e resgate os pequenos animais.</summary>
+    <published>2021-12-06T10:30:00+00:00</published>
   </entry>
   <entry>
     <id>15227</id>
@@ -2148,5 +2139,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17464" rel="alternate"/>
     <summary>Com o apoio de todos de vocês, Genshin Impact ganhou o "PlayStation®Partner Awards 2021 GRAND AWARD" (GRANDE PRÊMIO de PlayStation®Partner 2021) e o segundo lugar da "PlayStation Game Music Award" (Prêmio de Música de Jogo da Playstation). </summary>
     <published>2021-12-03T20:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17500</id>
+    <title>Descrição do Modo de Jogo "Dossiê de Bantan Sango: O Cão Guerreiro"</title>
+    <updated>2021-12-06T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120316134265916.jpg"><br/><br/>Para ajudar a Agência de Detetive de Bantan Sango a investigar o caso de "Desaparecimentos em Massa de Pequenos Animais", siga as instruções do solicitante, vá para os locais designados e resgate os pequenos animais.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17500">Descrição do Modo de Jogo "Dossiê de Bantan Sango: O Cão Guerreiro"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17500" rel="alternate"/>
+    <summary>Para ajudar a Agência de Detetive de Bantan Sango a investigar o caso de "Desaparecimentos em Massa de Pequenos Animais", siga as instruções do solicitante, vá para os locais designados e resgate os pequenos animais.</summary>
+    <published>2021-12-06T10:30:00+00:00</published>
   </entry>
 </feed>

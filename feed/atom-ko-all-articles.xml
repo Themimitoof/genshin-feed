@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-06T01:57:23.798204+00:00</updated>
+  <updated>2021-12-06T02:30:09.426767+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -376,17 +376,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14740</id>
-    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「사유: 유후 너구리둔」</title>
-    <updated>2021-08-07T18:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711184948340.jpg"><br/><br/>라쿤으로 오해받는 것과 게으름 피우며 잠을 잘 수 없는 것 중, 뭐가 더 싫은지는 사유 자신도 모른다.
-…그러면 당장 쿨쿨 잠들어서 꿈에 있는 성가신 라쿤을 쫓아내자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14740"><원신> 신규 캐릭터 플레이 - 「사유: 유후 너구리둔」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14740" rel="alternate"/>
-    <summary>라쿤으로 오해받는 것과 게으름 피우며 잠을 잘 수 없는 것 중, 뭐가 더 싫은지는 사유 자신도 모른다.
-…그러면 당장 쿨쿨 잠들어서 꿈에 있는 성가신 라쿤을 쫓아내자!</summary>
-    <published>2021-08-07T18:00:00+09:00</published>
   </entry>
   <entry>
     <id>14756</id>
@@ -1319,13 +1308,13 @@
     <published>2021-12-03T20:00:00+09:00</published>
   </entry>
   <entry>
-    <id>15112</id>
-    <title>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</title>
-    <updated>2021-08-21T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111283779947.jpg"><br/><br/>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15112">2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15112" rel="alternate"/>
-    <summary>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</summary>
-    <published>2021-08-21T12:00:00+09:00</published>
+    <id>17512</id>
+    <title>「만능 산고 사건부·견무사」 콘텐츠 안내</title>
+    <updated>2021-12-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211204/2021120423365497941.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17512">「만능 산고 사건부·견무사」 콘텐츠 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17512" rel="alternate"/>
+    <summary/>
+    <published>2021-12-06T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>15110</id>
@@ -2252,5 +2241,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17457" rel="alternate"/>
     <summary/>
     <published>2021-12-03T20:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17512</id>
+    <title>「만능 산고 사건부·견무사」 콘텐츠 안내</title>
+    <updated>2021-12-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211204/2021120423365497941.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17512">「만능 산고 사건부·견무사」 콘텐츠 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17512" rel="alternate"/>
+    <summary/>
+    <published>2021-12-06T10:30:00+09:00</published>
   </entry>
 </feed>

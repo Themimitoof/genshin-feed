@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 06 Dec 2021 01:57:30 +0000</lastBuildDate>
-    <item>
-      <title>กิจกรรม "ภาพทรงจำแห่งเทศกาลฤดูร้อน" บนเว็บไซต์เริ่มต้นขึ้นแล้ว</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/14677</link>
-      <description>ดอกไม้ไฟที่เบ่งบานบนท้องฟ้า ทำให้ดวงตาของหญิงสาวที่อยู่ข้าง ๆ เป็นประกาย...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210805/2021080511052837469.jpg"><br/><br/>ดอกไม้ไฟที่เบ่งบานบนท้องฟ้า ทำให้ดวงตาของหญิงสาวที่อยู่ข้าง ๆ เป็นประกาย...<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14677">กิจกรรม "ภาพทรงจำแห่งเทศกาลฤดูร้อน" บนเว็บไซต์เริ่มต้นขึ้นแล้ว</a>]]></content:encoded>
-      <guid isPermaLink="false">14677</guid>
-      <pubDate>Thu, 05 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 02:30:19 +0000</lastBuildDate>
     <item>
       <title>ตัวอย่างตัวละคร Genshin Impact - "Sayu: วิชานินจา Yoohoo การหลบหนีของมูจิน่า"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/14727</link>
@@ -737,6 +729,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211124/2021112411353336391.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17301">"Genshin Impact" มินิอัลบั้ม - คลื่นน้ำแข็งเคลื่อนคล้อย</a>]]></description>
       <guid isPermaLink="false">17301</guid>
       <pubDate>Thu, 25 Nov 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายเกมเพลย์ "แฟ้มคดีของ Bantan Sango - สุนัขนักรบ"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17513</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120610235486973.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17513">คำอธิบายเกมเพลย์ "แฟ้มคดีของ Bantan Sango - สุนัขนักรบ"</a>]]></description>
+      <guid isPermaLink="false">17513</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

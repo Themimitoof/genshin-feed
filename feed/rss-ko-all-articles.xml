@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 06 Dec 2021 01:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Dec 2021 02:30:09 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -329,16 +329,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「사유: 유후 너구리둔」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14740</link>
-      <description>라쿤으로 오해받는 것과 게으름 피우며 잠을 잘 수 없는 것 중, 뭐가 더 싫은지는 사유 자신도 모른다.
-…그러면 당장 쿨쿨 잠들어서 꿈에 있는 성가신 라쿤을 쫓아내자!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711184948340.jpg"><br/><br/>라쿤으로 오해받는 것과 게으름 피우며 잠을 잘 수 없는 것 중, 뭐가 더 싫은지는 사유 자신도 모른다.
-…그러면 당장 쿨쿨 잠들어서 꿈에 있는 성가신 라쿤을 쫓아내자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14740"><원신> 신규 캐릭터 플레이 - 「사유: 유후 너구리둔」</a>]]></content:encoded>
-      <guid isPermaLink="false">14740</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「일하느니 자겠어」 - 「닌자 너구리」· 사유</title>
@@ -1170,12 +1160,11 @@
       <pubDate>Fri, 03 Dec 2021 20:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15112</link>
-      <description>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111283779947.jpg"><br/><br/>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15112">2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</a>]]></content:encoded>
-      <guid isPermaLink="false">15112</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0900</pubDate>
+      <title>「만능 산고 사건부·견무사」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17512</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211204/2021120423365497941.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17512">「만능 산고 사건부·견무사」 콘텐츠 안내</a>]]></description>
+      <guid isPermaLink="false">17512</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>고요한 무망의 국가: &lt;원신&gt; 이나즈마 오케스트라 현장</title>
@@ -2000,6 +1989,13 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17457">여행자님에게 보내는 감사 편지</a>]]></description>
       <guid isPermaLink="false">17457</guid>
       <pubDate>Fri, 03 Dec 2021 20:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「만능 산고 사건부·견무사」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17512</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211204/2021120423365497941.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17512">「만능 산고 사건부·견무사」 콘텐츠 안내</a>]]></description>
+      <guid isPermaLink="false">17512</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

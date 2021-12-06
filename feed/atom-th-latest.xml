@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-12-06T01:57:29.547036+00:00</updated>
+  <updated>2021-12-06T02:30:18.020436+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14900</id>
-    <title>[Genshin Impact] เก็บตกตัวละคร - "Sayu: วงล้อสายลมหมุน"</title>
-    <updated>2021-08-11T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210811/2021081111044264918.jpg"><br/><br/>หลักการของนินจาตัวน้อย Sayu คือการกินอาหารที่ให้พลังงานมากที่สุด และทำงานโดยใช้พลังงานให้น้อยที่สุด<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14900">[Genshin Impact] เก็บตกตัวละคร - "Sayu: วงล้อสายลมหมุน"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14900" rel="alternate"/>
-    <summary>หลักการของนินจาตัวน้อย Sayu คือการกินอาหารที่ให้พลังงานมากที่สุด และทำงานโดยใช้พลังงานให้น้อยที่สุด</summary>
-    <published>2021-08-11T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15036</id>
     <title>คำอธิบายเกมเพลย์ "ห้วงแห่งภาพลวงตา"</title>
@@ -854,5 +845,14 @@
     <summary>ฮาโหล นักเดินทางทุกคน~
 กิจกรรมนี้ได้สิ้นสุดลงแล้ว ขอขอบคุณที่เข้าร่วมกิจกรรมนะ งั้นเรามาดูกันเลยดีกว่าว่าใครจะเป็นผู้โชคดีกันบ้าง~(•̀ᴗ•́)و</summary>
     <published>2021-12-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17513</id>
+    <title>คำอธิบายเกมเพลย์ "แฟ้มคดีของ Bantan Sango - สุนัขนักรบ"</title>
+    <updated>2021-12-06T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120610235486973.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17513">คำอธิบายเกมเพลย์ "แฟ้มคดีของ Bantan Sango - สุนัขนักรบ"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17513" rel="alternate"/>
+    <summary/>
+    <published>2021-12-06T10:30:00+07:00</published>
   </entry>
 </feed>

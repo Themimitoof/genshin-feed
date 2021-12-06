@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 06 Dec 2021 01:57:27 +0000</lastBuildDate>
-    <item>
-      <title>Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14767</link>
-      <description>Молитва «Воплощение божества»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718394531908.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14767">Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</a>]]></content:encoded>
-      <guid isPermaLink="false">14767</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 02:30:14 +0000</lastBuildDate>
     <item>
       <title>Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14765</link>
@@ -816,6 +808,14 @@
       <content:encoded><![CDATA[Благодаря вашей поддержке Genshin Impact победила в номинациях «PlayStation®Partner Awards 2021 GRAND AWARD» и «PlayStation Game Music Award (2-е место)»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17446">Письмо благодарности Путешественникам</a>]]></content:encoded>
       <guid isPermaLink="false">17446</guid>
       <pubDate>Fri, 03 Dec 2021 20:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «Дело Бантан Санго: Пёс-воин»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17504</link>
+      <description>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317023180767.jpg"><br/><br/>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17504">Описание события «Дело Бантан Санго: Пёс-воин»</a>]]></content:encoded>
+      <guid isPermaLink="false">17504</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

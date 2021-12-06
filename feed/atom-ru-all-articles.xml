@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-12-06T01:57:29.491912+00:00</updated>
+  <updated>2021-12-06T02:30:17.957922+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -335,15 +335,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14767</id>
-    <title>Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</title>
-    <updated>2021-08-08T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718394531908.jpg"><br/><br/>Молитва «Воплощение божества»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14767">Молитва «Воплощение божества»: повышен шанс получить Громовой пульс (Стрелковое), Небесный меч (Одноручное) и другое оружие!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14767" rel="alternate"/>
-    <summary>Молитва «Воплощение божества»</summary>
-    <published>2021-08-08T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>14765</id>
@@ -1246,13 +1237,13 @@
     <published>2021-12-03T20:00:00+03:00</published>
   </entry>
   <entry>
-    <id>15122</id>
-    <title>Превью-страница версии 2.1 «Лунное утешение для бренного мира» уже доступна!</title>
-    <updated>2021-08-21T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Превью-страница версии 2.1<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15122">Превью-страница версии 2.1 «Лунное утешение для бренного мира» уже доступна!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15122" rel="alternate"/>
-    <summary>Превью-страница версии 2.1</summary>
-    <published>2021-08-21T12:00:00+03:00</published>
+    <id>17504</id>
+    <title>Описание события «Дело Бантан Санго: Пёс-воин»</title>
+    <updated>2021-12-06T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317023180767.jpg"><br/><br/>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17504">Описание события «Дело Бантан Санго: Пёс-воин»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17504" rel="alternate"/>
+    <summary>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.</summary>
+    <published>2021-12-06T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>15151</id>
@@ -2157,5 +2148,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17446" rel="alternate"/>
     <summary>Благодаря вашей поддержке Genshin Impact победила в номинациях «PlayStation®Partner Awards 2021 GRAND AWARD» и «PlayStation Game Music Award (2-е место)»!</summary>
     <published>2021-12-03T20:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17504</id>
+    <title>Описание события «Дело Бантан Санго: Пёс-воин»</title>
+    <updated>2021-12-06T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317023180767.jpg"><br/><br/>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17504">Описание события «Дело Бантан Санго: Пёс-воин»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17504" rel="alternate"/>
+    <summary>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.</summary>
+    <published>2021-12-06T10:30:00+03:00</published>
   </entry>
 </feed>

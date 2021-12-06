@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Dec 2021 01:57:20 +0000</lastBuildDate>
-    <item>
-      <title>「百貨珍品」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8195</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210122/2021012220404542530.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8195">「百貨珍品」イベント予告</a>]]></description>
-      <guid isPermaLink="false">8195</guid>
-      <pubDate>Thu, 21 Jan 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 02:30:05 +0000</lastBuildDate>
     <item>
       <title>「スライムランド」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8255</link>
@@ -731,6 +724,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317283248485.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17507">「万端珊瑚事件簿・犬武者」イベント予告</a>]]></description>
       <guid isPermaLink="false">17507</guid>
       <pubDate>Sun, 05 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「万端珊瑚事件簿・犬武者」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17509</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317595037662.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17509">「万端珊瑚事件簿・犬武者」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17509</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</title>
@@ -1614,13 +1614,6 @@
       <pubDate>Tue, 16 Nov 2021 22:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>Ver.1.6「真夏！島？大冒険！」更新内容について</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13416</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060819583827667.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13416">Ver.1.6「真夏！島？大冒険！」更新内容について</a>]]></description>
-      <guid isPermaLink="false">13416</guid>
-      <pubDate>Wed, 09 Jun 2021 07:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>「真夏！島？大冒険！」Tips・第001期</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/13415</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060817313945243.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13415">「真夏！島？大冒険！」Tips・第001期</a>]]></description>
@@ -2318,6 +2311,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317283248485.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17507">「万端珊瑚事件簿・犬武者」イベント予告</a>]]></description>
       <guid isPermaLink="false">17507</guid>
       <pubDate>Sun, 05 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「万端珊瑚事件簿・犬武者」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17509</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317595037662.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17509">「万端珊瑚事件簿・犬武者」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17509</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

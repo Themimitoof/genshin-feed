@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-06T01:57:20.162639+00:00</updated>
+  <updated>2021-12-06T02:30:05.459867+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15112</id>
-    <title>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</title>
-    <updated>2021-08-21T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111283779947.jpg"><br/><br/>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15112">2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15112" rel="alternate"/>
-    <summary>2.1 신규 버전 「달빛 속 광경, 하늘 아래 인간 세상」 사전 공개 페이지 오픈!</summary>
-    <published>2021-08-21T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>15110</id>
     <title>고요한 무망의 국가: &lt;원신&gt; 이나즈마 오케스트라 현장</title>
@@ -943,5 +934,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17457" rel="alternate"/>
     <summary/>
     <published>2021-12-03T20:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17512</id>
+    <title>「만능 산고 사건부·견무사」 콘텐츠 안내</title>
+    <updated>2021-12-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211204/2021120423365497941.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17512">「만능 산고 사건부·견무사」 콘텐츠 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17512" rel="alternate"/>
+    <summary/>
+    <published>2021-12-06T10:30:00+09:00</published>
   </entry>
 </feed>

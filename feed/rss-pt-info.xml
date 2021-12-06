@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 06 Dec 2021 01:57:24 +0000</lastBuildDate>
-    <item>
-      <title>Oração "Encarnação Divina": Probabilidade de Obtenção da "Agitação Trovejante (Arco)" e da "Espada Celestial (Espada)" Aumentada!</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/14748</link>
-      <description>Durante o período do evento, o Viajante poderá obter mais armas e personagens através da Oração "Encarnação Divina", tornando sua equipe ainda mais forte no combate!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080713494417601.jpg"><br/><br/>Durante o período do evento, o Viajante poderá obter mais armas e personagens através da Oração "Encarnação Divina", tornando sua equipe ainda mais forte no combate!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14748">Oração "Encarnação Divina": Probabilidade de Obtenção da "Agitação Trovejante (Arco)" e da "Espada Celestial (Espada)" Aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">14748</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 02:30:10 +0000</lastBuildDate>
     <item>
       <title>Oração "Chama da Via Láctea": Probabilidade de Obtenção da "Dança das Chamas · Yoimiya (Pyro)" Aumentada!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/14751</link>
@@ -807,6 +799,14 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.<br><br>Read mo
       <content:encoded><![CDATA[Com o apoio de todos de vocês, Genshin Impact ganhou o "PlayStation®Partner Awards 2021 GRAND AWARD" (GRANDE PRÊMIO de PlayStation®Partner 2021) e o segundo lugar da "PlayStation Game Music Award" (Prêmio de Música de Jogo da Playstation). <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17464">[Carta de Agradecimento aos Viajantes]</a>]]></content:encoded>
       <guid isPermaLink="false">17464</guid>
       <pubDate>Fri, 03 Dec 2021 20:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Descrição do Modo de Jogo "Dossiê de Bantan Sango: O Cão Guerreiro"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17500</link>
+      <description>Para ajudar a Agência de Detetive de Bantan Sango a investigar o caso de "Desaparecimentos em Massa de Pequenos Animais", siga as instruções do solicitante, vá para os locais designados e resgate os pequenos animais.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120316134265916.jpg"><br/><br/>Para ajudar a Agência de Detetive de Bantan Sango a investigar o caso de "Desaparecimentos em Massa de Pequenos Animais", siga as instruções do solicitante, vá para os locais designados e resgate os pequenos animais.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17500">Descrição do Modo de Jogo "Dossiê de Bantan Sango: O Cão Guerreiro"</a>]]></content:encoded>
+      <guid isPermaLink="false">17500</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

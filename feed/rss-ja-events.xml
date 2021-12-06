@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Dec 2021 01:57:19 +0000</lastBuildDate>
-    <item>
-      <title>「百貨珍品」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8195</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210122/2021012220404542530.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8195">「百貨珍品」イベント予告</a>]]></description>
-      <guid isPermaLink="false">8195</guid>
-      <pubDate>Thu, 21 Jan 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 02:30:04 +0000</lastBuildDate>
     <item>
       <title>「スライムランド」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8255</link>
@@ -731,6 +724,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317283248485.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17507">「万端珊瑚事件簿・犬武者」イベント予告</a>]]></description>
       <guid isPermaLink="false">17507</guid>
       <pubDate>Sun, 05 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「万端珊瑚事件簿・犬武者」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17509</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317595037662.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17509">「万端珊瑚事件簿・犬武者」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17509</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
