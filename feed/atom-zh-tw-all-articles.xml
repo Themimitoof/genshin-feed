@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-12-06T02:29:48.354795+00:00</updated>
+  <updated>2021-12-06T03:11:21.831469+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -278,15 +278,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>14719</id>
-    <title>角色展示-「早柚：嗚呼影貉遁」｜原神</title>
-    <updated>2021-08-07T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080701124393814.jpg"><br/><br/>被誤認為狸貓，和不能偷懶睡覺，這二者之中究竟哪個更令人煩惱，早柚自己也說不上來。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14719">角色展示-「早柚：嗚呼影貉遁」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14719" rel="alternate"/>
-    <summary>被誤認為狸貓，和不能偷懶睡覺，這二者之中究竟哪個更令人煩惱，早柚自己也說不上來。</summary>
-    <published>2021-08-07T18:00:00+08:00</published>
   </entry>
   <entry>
     <id>14718</id>
@@ -1179,13 +1170,13 @@
     <published>2021-12-03T20:00:00+08:00</published>
   </entry>
   <entry>
-    <id>14835</id>
-    <title>拾枝雜談-「宵宮：焰硝火語」｜原神</title>
-    <updated>2021-08-10T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010502360386.jpg"><br/><br/>寄託了人們願望的煙花，如月之恆，如日之昇。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14835">拾枝雜談-「宵宮：焰硝火語」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14835" rel="alternate"/>
-    <summary>寄託了人們願望的煙花，如月之恆，如日之昇。</summary>
-    <published>2021-08-10T18:00:00+08:00</published>
+    <id>17510</id>
+    <title>「萬端珊瑚事件簿·犬武者」玩法說明</title>
+    <updated>2021-12-06T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120318521011199.jpg"><br/><br/>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17510">「萬端珊瑚事件簿·犬武者」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17510" rel="alternate"/>
+    <summary>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。</summary>
+    <published>2021-12-06T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>14862</id>
@@ -2080,5 +2071,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17463" rel="alternate"/>
     <summary>《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”</summary>
     <published>2021-12-03T20:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17510</id>
+    <title>「萬端珊瑚事件簿·犬武者」玩法說明</title>
+    <updated>2021-12-06T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120318521011199.jpg"><br/><br/>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17510">「萬端珊瑚事件簿·犬武者」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17510" rel="alternate"/>
+    <summary>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。</summary>
+    <published>2021-12-06T10:30:00+08:00</published>
   </entry>
 </feed>

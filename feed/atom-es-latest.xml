@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-06T02:29:52.515152+00:00</updated>
+  <updated>2021-12-06T03:11:27.869127+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15155</id>
-    <title>Actualización de la versión 2.1: Detalles del modo de juego de pesca</title>
-    <updated>2021-08-24T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318543868433.png"><br/><br/>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15155">Actualización de la versión 2.1: Detalles del modo de juego de pesca</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15155" rel="alternate"/>
-    <summary>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!</summary>
-    <published>2021-08-24T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>15278</id>
     <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</title>
@@ -921,5 +912,14 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
     <link href="https://genshin.mihoyo.com/es/news/detail/17455" rel="alternate"/>
     <summary>Queridos viajeros:</summary>
     <published>2021-12-03T20:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17501</id>
+    <title>Modo de juego «Expediente Sango: El perro guerrero»</title>
+    <updated>2021-12-06T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120316262088873.jpg"><br/><br/>Para ayudar en el caso de los animales desaparecidos de la Agencia de Detectives Bantan Sango, deberás ir a los lugares de investigación correspondientes para rescatar a los animales.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17501">Modo de juego «Expediente Sango: El perro guerrero»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17501" rel="alternate"/>
+    <summary>Para ayudar en el caso de los animales desaparecidos de la Agencia de Detectives Bantan Sango, deberás ir a los lugares de investigación correspondientes para rescatar a los animales.</summary>
+    <published>2021-12-06T10:30:00+01:00</published>
   </entry>
 </feed>

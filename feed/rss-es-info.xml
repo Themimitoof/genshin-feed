@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 06 Dec 2021 02:29:53 +0000</lastBuildDate>
-    <item>
-      <title>Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14772</link>
-      <description>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721390181925.jpg"><br/><br/>Durante el evento, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14772">Gachapón «Encarnación divina»: ¡probabilidad de obtención aumentada para Agitador del Relámpago y Hoja Afilada Celestial!</a>]]></content:encoded>
-      <guid isPermaLink="false">14772</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 03:11:29 +0000</lastBuildDate>
     <item>
       <title>Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14710</link>
@@ -814,6 +806,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[Queridos viajeros:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17455">Carta de agradecimiento a nuestros viajeros</a>]]></content:encoded>
       <guid isPermaLink="false">17455</guid>
       <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Modo de juego «Expediente Sango: El perro guerrero»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17501</link>
+      <description>Para ayudar en el caso de los animales desaparecidos de la Agencia de Detectives Bantan Sango, deberás ir a los lugares de investigación correspondientes para rescatar a los animales.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120316262088873.jpg"><br/><br/>Para ayudar en el caso de los animales desaparecidos de la Agencia de Detectives Bantan Sango, deberás ir a los lugares de investigación correspondientes para rescatar a los animales.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17501">Modo de juego «Expediente Sango: El perro guerrero»</a>]]></content:encoded>
+      <guid isPermaLink="false">17501</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

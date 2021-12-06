@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-06T02:29:43.993839+00:00</updated>
+  <updated>2021-12-06T03:11:15.974386+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -306,15 +306,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14658</id>
-    <title>Genshin Impact - Histoire de personnage | Yoimiya : « Symbole estival de l'Île de Narukami »</title>
-    <updated>2021-08-04T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210804/2021080410333140423.jpg"><br/><br/>Les touristes parcourent Hanamizaka, à la recherche du « symbole estival de l'Île de Narukami »...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14658">Genshin Impact - Histoire de personnage | Yoimiya : « Symbole estival de l'Île de Narukami »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14658" rel="alternate"/>
-    <summary>Les touristes parcourent Hanamizaka, à la recherche du « symbole estival de l'Île de Narukami »...</summary>
-    <published>2021-08-04T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>14660</id>
@@ -1179,15 +1170,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-12-03T20:00:00+01:00</published>
   </entry>
   <entry>
-    <id>14833</id>
-    <title>Genshin Impact - Yoimiya : Le langage des étincelles</title>
-    <updated>2021-08-10T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010335426035.jpg"><br/><br/>Les feux d'artifices qui renferment les souhaits des gens sont éternels, tels le soleil et la lune. 
-Tout comme les étoiles dans les yeux d'une jeune fille.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14833">Genshin Impact - Yoimiya : Le langage des étincelles</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14833" rel="alternate"/>
-    <summary>Les feux d'artifices qui renferment les souhaits des gens sont éternels, tels le soleil et la lune. 
-Tout comme les étoiles dans les yeux d'une jeune fille.</summary>
-    <published>2021-08-10T18:00:00+02:00</published>
+    <id>17508</id>
+    <title>Détails de l'événement « L'affaire du Bantan Sango : Le chien guerrier »</title>
+    <updated>2021-12-06T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317341646290.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17508">Détails de l'événement « L'affaire du Bantan Sango : Le chien guerrier »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17508" rel="alternate"/>
+    <published>2021-12-06T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>14858</id>
@@ -2043,5 +2031,13 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17461">Un grand merci à tous les voyageurs</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/17461" rel="alternate"/>
     <published>2021-12-03T20:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17508</id>
+    <title>Détails de l'événement « L'affaire du Bantan Sango : Le chien guerrier »</title>
+    <updated>2021-12-06T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317341646290.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17508">Détails de l'événement « L'affaire du Bantan Sango : Le chien guerrier »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17508" rel="alternate"/>
+    <published>2021-12-06T10:30:00+01:00</published>
   </entry>
 </feed>

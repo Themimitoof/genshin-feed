@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 06 Dec 2021 02:29:49 +0000</lastBuildDate>
-    <item>
-      <title>„Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.“ – „Mujina-Ninja“ – Sayu</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14742</link>
-      <description>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Sayu, einen Ninja aus dem „Shuumatsuban“ vor.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712143232807.jpg"><br/><br/>Liebe Reisende \ (^ o ^) / ~
-Heute stellen wir euch Sayu, einen Ninja aus dem „Shuumatsuban“ vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14742">„Scheint so, als ob ich heute einfach im Bett hätte bleiben sollen.“ – „Mujina-Ninja“ – Sayu</a>]]></content:encoded>
-      <guid isPermaLink="false">14742</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 03:11:23 +0000</lastBuildDate>
     <item>
       <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14769</link>
@@ -849,6 +839,14 @@ dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 
 dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17465">Dankesbrief</a>]]></content:encoded>
       <guid isPermaLink="false">17465</guid>
       <pubDate>Fri, 03 Dec 2021 20:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Fallakte Bantan Sango: Der Kriegshund“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17505</link>
+      <description>Damit die Detektei Bantan Sango ihre Ermittlungen zum „seltsamen Fall des massenhaften Verschwindens von Kleintieren“ abschließen kann, musst du den Bitten deines Auftraggebers folgen und Tiere an bestimmten Untersuchungsstellen retten.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317100056718.jpg"><br/><br/>Damit die Detektei Bantan Sango ihre Ermittlungen zum „seltsamen Fall des massenhaften Verschwindens von Kleintieren“ abschließen kann, musst du den Bitten deines Auftraggebers folgen und Tiere an bestimmten Untersuchungsstellen retten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17505">Erläuterungen zur Spielweise von „Fallakte Bantan Sango: Der Kriegshund“</a>]]></content:encoded>
+      <guid isPermaLink="false">17505</guid>
+      <pubDate>Mon, 06 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

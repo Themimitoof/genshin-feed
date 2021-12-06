@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-12-06T02:29:35.017178+00:00</updated>
+  <updated>2021-12-06T03:10:48.644525+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15237</id>
-    <title>Character Teaser - "Raiden Shogun: Nightmare" | Genshin Impact</title>
-    <updated>2021-08-26T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519470634683.jpg"><br/><br/>Only the shadow of the days of yore and empty dreams remain. Meanwhile, the hearts of mortals weigh heavy with eternal loneliness.
-Such was the lingering image left in the "Plane of Euthymia" on the day of the Vision Hunt Ceremony.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15237">Character Teaser - "Raiden Shogun: Nightmare" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15237" rel="alternate"/>
-    <summary>Only the shadow of the days of yore and empty dreams remain. Meanwhile, the hearts of mortals weigh heavy with eternal loneliness.
-Such was the lingering image left in the "Plane of Euthymia" on the day of the Vision Hunt Ceremony.</summary>
-    <published>2021-08-26T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15289</id>
     <title>"The world remains constant over the centuries. But human life is like the dew at dawn or a bubble rising through water."</title>
@@ -979,5 +968,14 @@ We will be giving out 800 Primogems from December 4 to December 7!<br><br>Read m
     <summary>Thanks to your support, Genshin Impact has won the " PlayStation®Partner Awards 2021 GRAND AWARD" and "PlayStation Game Music Award (1st Runner-Up)"! Thank you for coming alongside us through this journey.
 We will be giving out 800 Primogems from December 4 to December 7!</summary>
     <published>2021-12-03T20:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17502</id>
+    <title>"Bantan Sango Case Files: The Warrior Dog" Gameplay Details</title>
+    <updated>2021-12-06T10:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120316330635188.jpg"><br/><br/>To help Bantan Sango Detective Agency complete their investigations on "mass disappearances of little animals", follow your commission, and rescue animals in designated investigation locales.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17502">"Bantan Sango Case Files: The Warrior Dog" Gameplay Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17502" rel="alternate"/>
+    <summary>To help Bantan Sango Detective Agency complete their investigations on "mass disappearances of little animals", follow your commission, and rescue animals in designated investigation locales.</summary>
+    <published>2021-12-06T10:30:00-05:00</published>
   </entry>
 </feed>

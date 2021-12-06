@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-12-06T02:29:48.411291+00:00</updated>
+  <updated>2021-12-06T03:11:21.888491+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14824</id>
-    <title>Fähigkeiten bei Genshin Impact – Yoimiya: Knistergeflüster</title>
-    <updated>2021-08-10T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010234890949.jpg"><br/><br/>Das Feuerwerk, das die Wünsche der Menschen trägt, ist ewig wie der Mond und geht auf wie die Sonne.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14824">Fähigkeiten bei Genshin Impact – Yoimiya: Knistergeflüster</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14824" rel="alternate"/>
-    <summary>Das Feuerwerk, das die Wünsche der Menschen trägt, ist ewig wie der Mond und geht auf wie die Sonne.</summary>
-    <published>2021-08-10T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14865</id>
     <title>Erläuterungen zur Spielweise von „Theater der Vorrichtungen – Bühne der Wunder“</title>
@@ -955,5 +946,14 @@ dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 
     <summary>Lieber Reisender,
 dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 2021 GRAND AWARD“ sowie den „PlayStation Game Music Award“ (2. Platz für Spielmusik) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!</summary>
     <published>2021-12-03T20:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17505</id>
+    <title>Erläuterungen zur Spielweise von „Fallakte Bantan Sango: Der Kriegshund“</title>
+    <updated>2021-12-06T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317100056718.jpg"><br/><br/>Damit die Detektei Bantan Sango ihre Ermittlungen zum „seltsamen Fall des massenhaften Verschwindens von Kleintieren“ abschließen kann, musst du den Bitten deines Auftraggebers folgen und Tiere an bestimmten Untersuchungsstellen retten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17505">Erläuterungen zur Spielweise von „Fallakte Bantan Sango: Der Kriegshund“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17505" rel="alternate"/>
+    <summary>Damit die Detektei Bantan Sango ihre Ermittlungen zum „seltsamen Fall des massenhaften Verschwindens von Kleintieren“ abschließen kann, musst du den Bitten deines Auftraggebers folgen und Tiere an bestimmten Untersuchungsstellen retten.</summary>
+    <published>2021-12-06T10:30:00+01:00</published>
   </entry>
 </feed>

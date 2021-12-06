@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-12-06T02:29:45.370729+00:00</updated>
+  <updated>2021-12-06T03:11:18.046978+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14719</id>
-    <title>角色展示-「早柚：嗚呼影貉遁」｜原神</title>
-    <updated>2021-08-07T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080701124393814.jpg"><br/><br/>被誤認為狸貓，和不能偷懶睡覺，這二者之中究竟哪個更令人煩惱，早柚自己也說不上來。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14719">角色展示-「早柚：嗚呼影貉遁」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14719" rel="alternate"/>
-    <summary>被誤認為狸貓，和不能偷懶睡覺，這二者之中究竟哪個更令人煩惱，早柚自己也說不上來。</summary>
-    <published>2021-08-07T18:00:00+08:00</published>
-  </entry>
   <entry>
     <id>14718</id>
     <title>「工作還不如睡覺。」——「忍里之貉」· 早柚</title>
@@ -907,5 +898,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17463" rel="alternate"/>
     <summary>《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”</summary>
     <published>2021-12-03T20:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17510</id>
+    <title>「萬端珊瑚事件簿·犬武者」玩法說明</title>
+    <updated>2021-12-06T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120318521011199.jpg"><br/><br/>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17510">「萬端珊瑚事件簿·犬武者」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17510" rel="alternate"/>
+    <summary>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。</summary>
+    <published>2021-12-06T10:30:00+08:00</published>
   </entry>
 </feed>

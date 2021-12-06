@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-12-06T02:29:44.050088+00:00</updated>
+  <updated>2021-12-06T03:11:16.030817+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14835</id>
-    <title>拾枝雜談-「宵宮：焰硝火語」｜原神</title>
-    <updated>2021-08-10T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010502360386.jpg"><br/><br/>寄託了人們願望的煙花，如月之恆，如日之昇。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14835">拾枝雜談-「宵宮：焰硝火語」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14835" rel="alternate"/>
-    <summary>寄託了人們願望的煙花，如月之恆，如日之昇。</summary>
-    <published>2021-08-10T18:00:00+08:00</published>
-  </entry>
   <entry>
     <id>14862</id>
     <title>「機關棋譚·靈妙之局」玩法說明</title>
@@ -911,5 +902,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17463" rel="alternate"/>
     <summary>《原神》獲得了“PlayStation®Partner Awards 2021 GRAND AWARD”和“PlayStation Game Music Award（遊戲音樂獎第二名）”</summary>
     <published>2021-12-03T20:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17510</id>
+    <title>「萬端珊瑚事件簿·犬武者」玩法說明</title>
+    <updated>2021-12-06T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120318521011199.jpg"><br/><br/>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17510">「萬端珊瑚事件簿·犬武者」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17510" rel="alternate"/>
+    <summary>為了協助萬端珊瑚偵探社完成「小動物大量失蹤奇案」的調查，請遵循委託人的請求，前往特定調查地點救回小動物們，完成委託吧。</summary>
+    <published>2021-12-06T10:30:00+08:00</published>
   </entry>
 </feed>
