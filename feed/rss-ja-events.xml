@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Dec 2021 00:33:48 +0000</lastBuildDate>
-    <item>
-      <title>「無相の交響詩　奏鳴曲・盤石の心」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8022</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210115/2021011514433981900.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8022">「無相の交響詩　奏鳴曲・盤石の心」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">8022</guid>
-      <pubDate>Mon, 18 Jan 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 06 Dec 2021 01:57:19 +0000</lastBuildDate>
     <item>
       <title>「百貨珍品」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8195</link>
@@ -731,6 +724,13 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211202/2021120218001813119.jpg"><br/><br/>Webイベント・「旅の絵本」：イラストを完成させて、原石を獲得しよう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17453">「旅の絵本」イベント紹介</a>]]></content:encoded>
       <guid isPermaLink="false">17453</guid>
       <pubDate>Fri, 03 Dec 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「万端珊瑚事件簿・犬武者」イベント予告</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17507</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317283248485.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17507">「万端珊瑚事件簿・犬武者」イベント予告</a>]]></description>
+      <guid isPermaLink="false">17507</guid>
+      <pubDate>Sun, 05 Dec 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
