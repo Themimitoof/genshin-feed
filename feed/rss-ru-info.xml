@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Dec 2021 03:11:01 +0000</lastBuildDate>
-    <item>
-      <title>Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14765</link>
-      <description>Молитва «Гобелен золотого пламени»</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718364412651.jpg"><br/><br/>Молитва «Гобелен золотого пламени»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14765">Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">14765</guid>
-      <pubDate>Sun, 08 Aug 2021 12:01:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор событий версии 2.0 - Выпуск II</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14714</link>
-      <description>Обзор событий версии 2.0</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080619031767870.jpg"><br/><br/>Обзор событий версии 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14714">Обзор событий версии 2.0 - Выпуск II</a>]]></content:encoded>
-      <guid isPermaLink="false">14714</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 04:14:01 +0000</lastBuildDate>
     <item>
       <title>«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14782</link>
@@ -816,6 +800,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317023180767.jpg"><br/><br/>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17504">Описание события «Дело Бантан Санго: Пёс-воин»</a>]]></content:encoded>
       <guid isPermaLink="false">17504</guid>
       <pubDate>Mon, 06 Dec 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Таким и должно быть шоу!» Аратаки Итто - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17515</link>
+      <description>Даже самые традиционные пьесы заиграют новыми красками, если за дело возьмётся банда Аратаки.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120616254783567.jpg"><br/><br/>Даже самые традиционные пьесы заиграют новыми красками, если за дело возьмётся банда Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17515">«Таким и должно быть шоу!» Аратаки Итто - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17515</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17541</link>
+      <description>Путешественники! \ (^ o ^) / ~
+Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715134631342.png"><br/><br/>Путешественники! \ (^ o ^) / ~
+Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17541">«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</a>]]></content:encoded>
+      <guid isPermaLink="false">17541</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

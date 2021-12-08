@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-08T03:11:00.786623+00:00</updated>
+  <updated>2021-12-08T04:13:58.951782+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -344,24 +344,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>14751</id>
-    <title>Oração "Chama da Via Láctea": Probabilidade de Obtenção da "Dança das Chamas · Yoimiya (Pyro)" Aumentada!</title>
-    <updated>2021-08-08T12:01:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080713585354495.jpg"><br/><br/>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grandes melhorias para a sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14751">Oração "Chama da Via Láctea": Probabilidade de Obtenção da "Dança das Chamas · Yoimiya (Pyro)" Aumentada!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14751" rel="alternate"/>
-    <summary>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grandes melhorias para a sua equipe!</summary>
-    <published>2021-08-08T12:01:00+01:00</published>
-  </entry>
-  <entry>
-    <id>14711</id>
-    <title>Venha dar uma conferida na "Visão Geral do Evento da Versão 2.0 - Edição II" junto com a Paimon!</title>
-    <updated>2021-08-08T12:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080618573980925.jpg"><br/><br/>Olá, Viajantes! Hoje, Paimon está trazendo para vocês informações dos eventos recentes!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/14711">Venha dar uma conferida na "Visão Geral do Evento da Versão 2.0 - Edição II" junto com a Paimon!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/14711" rel="alternate"/>
-    <summary>Olá, Viajantes! Hoje, Paimon está trazendo para vocês informações dos eventos recentes!</summary>
-    <published>2021-08-08T12:10:00+01:00</published>
   </entry>
   <entry>
     <id>14774</id>
@@ -1246,22 +1228,24 @@ são responsabilidades da Kujou Sara, e também o que ela aspira.</summary>
     <published>2021-12-06T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>15227</id>
-    <title>[Diário em Inazuma] Edição Ilha Watatsumi &amp; Ilha Seirai</title>
-    <updated>2021-08-26T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517520240058.jpg"><br/><br/>Na Versão 2.1, duas novas ilhas serão desbloqueadas em Inazuma, a Ilha Seirai e a Ilha Watatsumi. Com costumes e cultura diferentes, os dois arquipélagos possuem características próprias, embarque nesta aventura junto conosco para conhecer mais sobre essas duas ilhas misteriosas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15227">[Diário em Inazuma] Edição Ilha Watatsumi & Ilha Seirai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15227" rel="alternate"/>
-    <summary>Na Versão 2.1, duas novas ilhas serão desbloqueadas em Inazuma, a Ilha Seirai e a Ilha Watatsumi. Com costumes e cultura diferentes, os dois arquipélagos possuem características próprias, embarque nesta aventura junto conosco para conhecer mais sobre essas duas ilhas misteriosas!</summary>
-    <published>2021-08-26T10:30:00+01:00</published>
+    <id>17516</id>
+    <title>Teaser de Personagem: "Arataki Itto - É Assim que se Faz uma Boa Apresentação" | Genshin Impact</title>
+    <updated>2021-12-08T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120616261354959.jpg"><br/><br/>Quando a Gangue Arataki está envolvida, até mesmo o repertório mais tradicional pode ter uma nova reviravolta.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17516">Teaser de Personagem: "Arataki Itto - É Assim que se Faz uma Boa Apresentação" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17516" rel="alternate"/>
+    <summary>Quando a Gangue Arataki está envolvida, até mesmo o repertório mais tradicional pode ter uma nova reviravolta.</summary>
+    <published>2021-12-08T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>15251</id>
-    <title>Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</title>
-    <updated>2021-08-26T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519551461981.jpg"><br/><br/>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15251">Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15251" rel="alternate"/>
-    <summary>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.</summary>
-    <published>2021-08-26T12:00:00+01:00</published>
+    <id>17542</id>
+    <title>"Arataki "o Onico" Itto, aqui, em carne e osso. Hahahahahaha... *Cof*"</title>
+    <updated>2021-12-08T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715311099900.png"><br/><br/>Viajantes \ (^ o ^) / ~
+Hoje estamos apresentando para vocês o Arataki Itto, o primeiro e maior chefe da Gangue Arataki.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17542">"Arataki "o Onico" Itto, aqui, em carne e osso. Hahahahahaha... *Cof*"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17542" rel="alternate"/>
+    <summary>Viajantes \ (^ o ^) / ~
+Hoje estamos apresentando para vocês o Arataki Itto, o primeiro e maior chefe da Gangue Arataki.</summary>
+    <published>2021-12-08T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>15282</id>
@@ -2148,5 +2132,25 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17500" rel="alternate"/>
     <summary>Para ajudar a Agência de Detetive de Bantan Sango a investigar o caso de "Desaparecimentos em Massa de Pequenos Animais", siga as instruções do solicitante, vá para os locais designados e resgate os pequenos animais.</summary>
     <published>2021-12-06T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17516</id>
+    <title>Teaser de Personagem: "Arataki Itto - É Assim que se Faz uma Boa Apresentação" | Genshin Impact</title>
+    <updated>2021-12-08T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120616261354959.jpg"><br/><br/>Quando a Gangue Arataki está envolvida, até mesmo o repertório mais tradicional pode ter uma nova reviravolta.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17516">Teaser de Personagem: "Arataki Itto - É Assim que se Faz uma Boa Apresentação" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17516" rel="alternate"/>
+    <summary>Quando a Gangue Arataki está envolvida, até mesmo o repertório mais tradicional pode ter uma nova reviravolta.</summary>
+    <published>2021-12-08T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17542</id>
+    <title>"Arataki "o Onico" Itto, aqui, em carne e osso. Hahahahahaha... *Cof*"</title>
+    <updated>2021-12-08T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715311099900.png"><br/><br/>Viajantes \ (^ o ^) / ~
+Hoje estamos apresentando para vocês o Arataki Itto, o primeiro e maior chefe da Gangue Arataki.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17542">"Arataki "o Onico" Itto, aqui, em carne e osso. Hahahahahaha... *Cof*"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17542" rel="alternate"/>
+    <summary>Viajantes \ (^ o ^) / ~
+Hoje estamos apresentando para vocês o Arataki Itto, o primeiro e maior chefe da Gangue Arataki.</summary>
+    <published>2021-12-08T12:00:00+00:00</published>
   </entry>
 </feed>

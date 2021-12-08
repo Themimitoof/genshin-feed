@@ -2,32 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2021-12-08T03:11:06.042674+00:00</updated>
+  <updated>2021-12-08T04:14:14.883591+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14737</id>
-    <title>Giới thiệu nhân vật trong Genshin Impact - "Sayu: Yoohoo Chi Thuật, Mujina Chạy Trốn"</title>
-    <updated>2021-08-07T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711152038097.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14737">Giới thiệu nhân vật trong Genshin Impact - "Sayu: Yoohoo Chi Thuật, Mujina Chạy Trốn"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14737" rel="alternate"/>
-    <published>2021-08-07T18:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14747</id>
-    <title>"Làm việc đâu bằng đi ngủ." - Ninja Mujina - Sayu</title>
-    <updated>2021-08-07T18:15:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080712383752628.jpg"><br/><br/>Hôm nay Paimon xin được giới thiệu với mọi người về Sayu - Ninja đến từ Shiyuumatsuban.
-Sayu lớn lên trong "Shuumatsuban" và có lòng trung thành rất cao đối với tổ chức. Tuy nhiên, điểm mạnh nhất ở cô không phải là "trung thành" mà là "lười biếng"...<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14747">"Làm việc đâu bằng đi ngủ." - Ninja Mujina - Sayu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14747" rel="alternate"/>
-    <summary>Hôm nay Paimon xin được giới thiệu với mọi người về Sayu - Ninja đến từ Shiyuumatsuban.
-Sayu lớn lên trong "Shuumatsuban" và có lòng trung thành rất cao đối với tổ chức. Tuy nhiên, điểm mạnh nhất ở cô không phải là "trung thành" mà là "lười biếng"...</summary>
-    <published>2021-08-07T18:15:00+07:00</published>
-  </entry>
   <entry>
     <id>14749</id>
     <title>Cầu nguyện Thiên Hà Rực Lửa: UP xác suất Vũ Điệu Bão Lửa - Yoimiya (Hỏa)!</title>
@@ -864,5 +845,21 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/17514" rel="alternate"/>
     <summary/>
     <published>2021-12-06T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17525</id>
+    <title>[Genshin Impact] Video nhân vật Arataki Itto - Cứ Thế Mà Diễn!	</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120617262422239.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17525">[Genshin Impact] Video nhân vật Arataki Itto - Cứ Thế Mà Diễn!	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17525" rel="alternate"/>
+    <published>2021-12-08T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17548</id>
+    <title>Arataki "Ta Thứ Hai Chả Ai Thứ Nhất" Itto. Hahahaha... khụ khụ...</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715451470073.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17548">Arataki "Ta Thứ Hai Chả Ai Thứ Nhất" Itto. Hahahaha... khụ khụ...</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17548" rel="alternate"/>
+    <published>2021-12-08T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-12-08T03:11:03.855229+00:00</updated>
+  <updated>2021-12-08T04:14:08.510326+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>14727</id>
-    <title>ตัวอย่างตัวละคร Genshin Impact - "Sayu: วิชานินจา Yoohoo การหลบหนีของมูจิน่า"</title>
-    <updated>2021-08-07T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080710584333171.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14727">ตัวอย่างตัวละคร Genshin Impact - "Sayu: วิชานินจา Yoohoo การหลบหนีของมูจิน่า"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14727" rel="alternate"/>
-    <published>2021-08-07T18:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14752</id>
-    <title>"การนอนหลับดีกว่าทำงานเสียอีก" - "นินจามูจิน่า" Sayu</title>
-    <updated>2021-08-07T18:15:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080714565610356.jpg"><br/><br/>นักเดินทางทั้งหลาย\ (^ o ^) / ~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14752">"การนอนหลับดีกว่าทำงานเสียอีก" - "นินจามูจิน่า" Sayu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14752" rel="alternate"/>
-    <summary>นักเดินทางทั้งหลาย\ (^ o ^) / ~</summary>
-    <published>2021-08-07T18:15:00+07:00</published>
-  </entry>
   <entry>
     <id>14754</id>
     <title>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ธนู · Thundering Pulse" "ดาบ - Skyward Blade"!</title>
@@ -855,5 +838,21 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/17513" rel="alternate"/>
     <summary/>
     <published>2021-12-06T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17521</id>
+    <title>[Genshin Impact] ธีมวิดีโอตัวละคร Arataki Itto - "มันต้องแสดงแบบนี้ต่างหาก!"</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120616284571300.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17521">[Genshin Impact] ธีมวิดีโอตัวละคร Arataki Itto - "มันต้องแสดงแบบนี้ต่างหาก!"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17521" rel="alternate"/>
+    <published>2021-12-08T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17545</id>
+    <title>"Arataki Itto หนึ่งเดียวในใต้หล้า ตัวจริงเสียงจริงมาแล้ว! ฮ่าฮ่าฮ่าฮ่า... แค่กกก..."</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715333940825.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17545">"Arataki Itto หนึ่งเดียวในใต้หล้า ตัวจริงเสียงจริงมาแล้ว! ฮ่าฮ่าฮ่าฮ่า... แค่กกก..."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17545" rel="alternate"/>
+    <published>2021-12-08T12:00:00+07:00</published>
   </entry>
 </feed>

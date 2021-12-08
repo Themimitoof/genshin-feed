@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 08 Dec 2021 03:10:49 +0000</lastBuildDate>
-    <item>
-      <title>Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14710</link>
-      <description>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080618562517541.jpg"><br/><br/>¡Hola, viajeros! Paimon les trae información sobre los últimos eventos. ¡Haz clic en la imagen de abajo para echarle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14710">Paimon te trae una recopilación de los eventos de la versión 2.0 (II)</a>]]></content:encoded>
-      <guid isPermaLink="false">14710</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14780</link>
-      <description>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080819392151874.jpg"><br/><br/>Aquellos de corazón alegre e inocente, seguramente disfrutarán el espectáculo de fuegos artificiales de Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14780">Demo de nuevo personaje de Genshin Impact - Yoimiya: el fuego del verano</a>]]></content:encoded>
-      <guid isPermaLink="false">14780</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 04:13:24 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Yoimiya: el lenguaje del fuego</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14850</link>
@@ -814,6 +798,22 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120316262088873.jpg"><br/><br/>Para ayudar en el caso de los animales desaparecidos de la Agencia de Detectives Bantan Sango, deberás ir a los lugares de investigación correspondientes para rescatar a los animales.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17501">Modo de juego «Expediente Sango: El perro guerrero»</a>]]></content:encoded>
       <guid isPermaLink="false">17501</guid>
       <pubDate>Mon, 06 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Arataki Itto: "¡A eso llamo yo un buen espectáculo!"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17523</link>
+      <description>Cuando se trata de la Banda de Arataki, incluso el repertorio más tradicional incluye un giro inesperado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120617221960757.jpg"><br/><br/>Cuando se trata de la Banda de Arataki, incluso el repertorio más tradicional incluye un giro inesperado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17523">Avance de la trama de Genshin Impact - Arataki Itto: "¡A eso llamo yo un buen espectáculo!"</a>]]></content:encoded>
+      <guid isPermaLink="false">17523</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡Arataki Itto, "el number one", en persona! Jajajaja... *ejem*.</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17550</link>
+      <description>Viajeros \ (^ o ^) / ~ Hoy les presentamos a Arataki Itto, el primer gran líder de la Banda de Arataki.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120716575987115.png"><br/><br/>Viajeros \ (^ o ^) / ~ Hoy les presentamos a Arataki Itto, el primer gran líder de la Banda de Arataki.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17550">¡Arataki Itto, "el number one", en persona! Jajajaja... *ejem*.</a>]]></content:encoded>
+      <guid isPermaLink="false">17550</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

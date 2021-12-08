@@ -2,35 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-12-08T03:10:37.532783+00:00</updated>
+  <updated>2021-12-08T04:12:54.567285+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14848</id>
-    <title>Collected Miscellany - "Yoimiya: Whispers of the Flames" | Genshin Impact</title>
-    <updated>2021-08-10T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081011514151609.jpg"><br/><br/>The fireworks that embody people's wishes are eternal like the moonlight and ever-rising like the sun.
-Just like the sparkles twinkling in the girl's eyes.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14848">Collected Miscellany - "Yoimiya: Whispers of the Flames" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14848" rel="alternate"/>
-    <summary>The fireworks that embody people's wishes are eternal like the moonlight and ever-rising like the sun.
-Just like the sparkles twinkling in the girl's eyes.</summary>
-    <published>2021-08-10T18:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>14864</id>
-    <title>"Theater Mechanicus: Stage of Wonders" Gameplay Details</title>
-    <updated>2021-08-11T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015524870424.jpg"><br/><br/>Thanks to the efforts of the Theater Mechanicus Representative Komakata, everyone's favorite game from Liyue is finally available in Inazuma. According to Komakata, in its latest iteration, the original gameplay of Theater Mechanicus has been expanded upon with more unique content...
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14864">"Theater Mechanicus: Stage of Wonders" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14864" rel="alternate"/>
-    <summary>Thanks to the efforts of the Theater Mechanicus Representative Komakata, everyone's favorite game from Liyue is finally available in Inazuma. According to Komakata, in its latest iteration, the original gameplay of Theater Mechanicus has been expanded upon with more unique content...
-</summary>
-    <published>2021-08-11T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>14880</id>
     <title>Collected Miscellany - "Sayu: Whirling Windwheel" | Genshin Impact</title>
@@ -987,5 +965,27 @@ We will be giving out 800 Primogems from December 4 to December 7!</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/17502" rel="alternate"/>
     <summary>To help Bantan Sango Detective Agency complete their investigations on "mass disappearances of little animals", follow your commission, and rescue animals in designated investigation locales.</summary>
     <published>2021-12-06T10:30:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17534</id>
+    <title>Character Teaser - "Arataki Itto: That's How the Show Should Go!" | Genshin Impact</title>
+    <updated>2021-12-08T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120709523492797.jpg"><br/><br/>When the Arataki Gang is involved, even the most traditional repertoire may usher in a new twist.
+Although some in the audience have enjoyed such a surprise, it has caused quite the trouble for the Tenryou Commission.
+Let's see who will get the last laugh this time: Arataki Itto with his booming laughter, or the soldiers who are swift at maintaining law and order.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17534">Character Teaser - "Arataki Itto: That's How the Show Should Go!" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17534" rel="alternate"/>
+    <summary>When the Arataki Gang is involved, even the most traditional repertoire may usher in a new twist.
+Although some in the audience have enjoyed such a surprise, it has caused quite the trouble for the Tenryou Commission.
+Let's see who will get the last laugh this time: Arataki Itto with his booming laughter, or the soldiers who are swift at maintaining law and order.</summary>
+    <published>2021-12-08T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17546</id>
+    <title>"Arataki 'Numero Uno' Itto, here in the flesh! Hahaha... *cough*"</title>
+    <updated>2021-12-08T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715293117573.png"><br/><br/>Today, we'd like to introduce you the first and greatest head of the Arataki Gang — Arataki Itto!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17546">"Arataki 'Numero Uno' Itto, here in the flesh! Hahaha... *cough*"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17546" rel="alternate"/>
+    <summary>Today, we'd like to introduce you the first and greatest head of the Arataki Gang — Arataki Itto!</summary>
+    <published>2021-12-08T12:00:00-05:00</published>
   </entry>
 </feed>

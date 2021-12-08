@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 08 Dec 2021 03:11:03 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "ห้วงแห่งภาพลวงตา"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15036</link>
-      <description>กิจกรรม "ห้วงแห่งภาพลวงตา" กำลังจะเริ่มขึ้นแล้ว!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816064661148.jpg"><br/><br/>กิจกรรม "ห้วงแห่งภาพลวงตา" กำลังจะเริ่มขึ้นแล้ว!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15036">คำอธิบายเกมเพลย์ "ห้วงแห่งภาพลวงตา"</a>]]></content:encoded>
-      <guid isPermaLink="false">15036</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>ตัวอย่าง Genshin Impact เวอร์ชัน 2.1 : "โลกดุจสวรรค์ใต้แสงจันทรา"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15080</link>
-      <description>ผู้คนมาร่วมแบ่งปันความปรารถนาอันแรงกล้าใต้แสงจันทรา เชยชมสายฟ้าและเปลวเพลิงอันร้อนแรง 
-ร่วมเพลิดเพลินไปกับควันไฟและแสงจากโคมไฟ</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014404561462.jpg"><br/><br/>ผู้คนมาร่วมแบ่งปันความปรารถนาอันแรงกล้าใต้แสงจันทรา เชยชมสายฟ้าและเปลวเพลิงอันร้อนแรง 
-ร่วมเพลิดเพลินไปกับควันไฟและแสงจากโคมไฟ<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15080">ตัวอย่าง Genshin Impact เวอร์ชัน 2.1 : "โลกดุจสวรรค์ใต้แสงจันทรา"</a>]]></content:encoded>
-      <guid isPermaLink="false">15080</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 04:14:06 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - รีเซ็ตโบนัสการเติมเงินครั้งแรก</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15095</link>
@@ -729,6 +711,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120610235486973.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17513">คำอธิบายเกมเพลย์ "แฟ้มคดีของ Bantan Sango - สุนัขนักรบ"</a>]]></description>
       <guid isPermaLink="false">17513</guid>
       <pubDate>Mon, 06 Dec 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] ธีมวิดีโอตัวละคร Arataki Itto - "มันต้องแสดงแบบนี้ต่างหาก!"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17521</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120616284571300.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17521">[Genshin Impact] ธีมวิดีโอตัวละคร Arataki Itto - "มันต้องแสดงแบบนี้ต่างหาก!"</a>]]></description>
+      <guid isPermaLink="false">17521</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>"Arataki Itto หนึ่งเดียวในใต้หล้า ตัวจริงเสียงจริงมาแล้ว! ฮ่าฮ่าฮ่าฮ่า... แค่กกก..."</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17545</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715333940825.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17545">"Arataki Itto หนึ่งเดียวในใต้หล้า ตัวจริงเสียงจริงมาแล้ว! ฮ่าฮ่าฮ่าฮ่า... แค่กกก..."</a>]]></description>
+      <guid isPermaLink="false">17545</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

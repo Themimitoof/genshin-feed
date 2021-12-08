@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-12-08T03:10:51.745955+00:00</updated>
+  <updated>2021-12-08T04:13:31.465090+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>14761</id>
-    <title>Event Permohonan "Pijar Api di Angkasa": Persentase Perolehan "Frolicking Flames" Yoimiya Meningkat!</title>
-    <updated>2021-08-08T12:01:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080716411672906.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14761">Event Permohonan "Pijar Api di Angkasa": Persentase Perolehan "Frolicking Flames" Yoimiya Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14761" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-08-08T12:01:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14716</id>
-    <title>Intip Preview Event Baru v2.0 Bersama Paimon - Edisi 2</title>
-    <updated>2021-08-08T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080619105085501.jpg"><br/><br/>Halo Traveler semua! Paimon datang bawa info terbaru nih, tekan gambar di bawah untuk lihat ya!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14716">Intip Preview Event Baru v2.0 Bersama Paimon - Edisi 2</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/14716" rel="alternate"/>
-    <summary>Halo Traveler semua! Paimon datang bawa info terbaru nih, tekan gambar di bawah untuk lihat ya!</summary>
-    <published>2021-08-08T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>14796</id>
     <title>Demo Karakter - "Yoimiya: Gebyar Pesta Musim Panas" | Genshin Impact</title>
@@ -916,5 +898,23 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
     <link href="https://genshin.mihoyo.com/id/news/detail/17506" rel="alternate"/>
     <summary>Untuk membantu Kantor Detektif Bantan Sango menyelesaikan investigasi mereka tentang "hilangnya banyak hewan kecil dalam skala besar", ikuti misimu dan selamatkan hewan di lokasi investigasi yang ditentukan.</summary>
     <published>2021-12-06T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17540</id>
+    <title>"Arataki "Sang Nomor Satu" Itto sudah tiba! Hahahaha ... *uhuk*"</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715111421897.png"><br/><br/>Hari ini, yuk kita kenalan dengan pendiri dan pemimpin Geng Arataki — Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17540">"Arataki "Sang Nomor Satu" Itto sudah tiba! Hahahaha ... *uhuk*"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17540" rel="alternate"/>
+    <summary>Hari ini, yuk kita kenalan dengan pendiri dan pemimpin Geng Arataki — Arataki Itto.</summary>
+    <published>2021-12-08T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17543</id>
+    <title>Kisah Karakter: "Arataki Itto — Ini Baru Namanya Pertunjukan!" | Genshin Impact</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715313368260.jpg"><br/><br/>Kalau Geng Arataki sudah ikut campur, opera yang paling tradisional pun pasti bisa membawa sebuah perubahan baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17543">Kisah Karakter: "Arataki Itto — Ini Baru Namanya Pertunjukan!" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17543" rel="alternate"/>
+    <summary>Kalau Geng Arataki sudah ikut campur, opera yang paling tradisional pun pasti bisa membawa sebuah perubahan baru.</summary>
+    <published>2021-12-08T12:00:00+07:00</published>
   </entry>
 </feed>

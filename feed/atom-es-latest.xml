@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-08T03:10:48.670500+00:00</updated>
+  <updated>2021-12-08T04:13:22.566628+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15278</id>
-    <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</title>
-    <updated>2021-08-26T04:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082522141972812.jpg"><br/><br/>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15278">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15278" rel="alternate"/>
-    <summary>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.</summary>
-    <published>2021-08-26T04:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15231</id>
-    <title>Diario de Inazuma: Isla Watatsumi e Isla Seirai</title>
-    <updated>2021-08-26T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518002913704.jpg"><br/><br/>En la versión 2.1, se desbloquearán dos nuevas islas en Inazuma, la Isla Seirai y la Isla Watatsumi. Ambas tienen costumbres diferentes, ¡descubramos juntos estos lugares misteriosos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15231">Diario de Inazuma: Isla Watatsumi e Isla Seirai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15231" rel="alternate"/>
-    <summary>En la versión 2.1, se desbloquearán dos nuevas islas en Inazuma, la Isla Seirai y la Isla Watatsumi. Ambas tienen costumbres diferentes, ¡descubramos juntos estos lugares misteriosos!</summary>
-    <published>2021-08-26T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>15280</id>
     <title>Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</title>
@@ -921,5 +903,23 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
     <link href="https://genshin.mihoyo.com/es/news/detail/17501" rel="alternate"/>
     <summary>Para ayudar en el caso de los animales desaparecidos de la Agencia de Detectives Bantan Sango, deberás ir a los lugares de investigación correspondientes para rescatar a los animales.</summary>
     <published>2021-12-06T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17523</id>
+    <title>Avance de la trama de Genshin Impact - Arataki Itto: "¡A eso llamo yo un buen espectáculo!"</title>
+    <updated>2021-12-08T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120617221960757.jpg"><br/><br/>Cuando se trata de la Banda de Arataki, incluso el repertorio más tradicional incluye un giro inesperado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17523">Avance de la trama de Genshin Impact - Arataki Itto: "¡A eso llamo yo un buen espectáculo!"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17523" rel="alternate"/>
+    <summary>Cuando se trata de la Banda de Arataki, incluso el repertorio más tradicional incluye un giro inesperado.</summary>
+    <published>2021-12-08T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17550</id>
+    <title>¡Arataki Itto, "el number one", en persona! Jajajaja... *ejem*.</title>
+    <updated>2021-12-08T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120716575987115.png"><br/><br/>Viajeros \ (^ o ^) / ~ Hoy les presentamos a Arataki Itto, el primer gran líder de la Banda de Arataki.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17550">¡Arataki Itto, "el number one", en persona! Jajajaja... *ejem*.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17550" rel="alternate"/>
+    <summary>Viajeros \ (^ o ^) / ~ Hoy les presentamos a Arataki Itto, el primer gran líder de la Banda de Arataki.</summary>
+    <published>2021-12-08T12:00:00+01:00</published>
   </entry>
 </feed>

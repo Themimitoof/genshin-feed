@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 08 Dec 2021 03:10:56 +0000</lastBuildDate>
-    <item>
-      <title>「일하느니 자겠어」 - 「닌자 너구리」· 사유</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14756</link>
-      <description>오늘 소개할 캐릭터는 「종말번대」의 닌자 - 사유야</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080715515027939.jpg"><br/><br/>오늘 소개할 캐릭터는 「종말번대」의 닌자 - 사유야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14756">「일하느니 자겠어」 - 「닌자 너구리」· 사유</a>]]></content:encoded>
-      <guid isPermaLink="false">14756</guid>
-      <pubDate>Sat, 07 Aug 2021 18:15:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「신의 주조」 기원: 「활·비뢰의 고동」, 「한손검·천공의 검」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14766</link>
-      <description>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718384573400.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14766">「신의 주조」 기원: 「활·비뢰의 고동」, 「한손검·천공의 검」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">14766</guid>
-      <pubDate>Sun, 08 Aug 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 04:13:45 +0000</lastBuildDate>
     <item>
       <title>「은하수를 물들인 불꽃」 기원: 「유염화무·요이미야(불)」 확률 UP!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14764</link>
@@ -844,6 +828,22 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211204/2021120423365497941.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17512">「만능 산고 사건부·견무사」 콘텐츠 안내</a>]]></description>
       <guid isPermaLink="false">17512</guid>
       <pubDate>Mon, 06 Dec 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「아라타키 천하제일의 이토가 왔다! 하하하하… 크흠…」 - 아라타키 이토</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17551</link>
+      <description>오늘은 「아라타키파」의 초대 두목 - 아라타키 이토를 소개해 줄게</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120719434443406.png"><br/><br/>오늘은 「아라타키파」의 초대 두목 - 아라타키 이토를 소개해 줄게<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17551">「아라타키 천하제일의 이토가 왔다! 하하하하… 크흠…」 - 아라타키 이토</a>]]></content:encoded>
+      <guid isPermaLink="false">17551</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 아라타키 이토 캐릭터 PV - 「이 정도는 해야지!」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17538</link>
+      <description>아라타키파가 개입하면 아무리 전통적인 연극이라도 새로운 전환점을 맞이할 수 있다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120714410861765.jpg"><br/><br/>아라타키파가 개입하면 아무리 전통적인 연극이라도 새로운 전환점을 맞이할 수 있다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17538"><원신> 아라타키 이토 캐릭터 PV - 「이 정도는 해야지!」</a>]]></content:encoded>
+      <guid isPermaLink="false">17538</guid>
+      <pubDate>Wed, 08 Dec 2021 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

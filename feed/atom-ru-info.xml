@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-12-08T03:11:01.515668+00:00</updated>
+  <updated>2021-12-08T04:14:01.007381+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>14765</id>
-    <title>Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</title>
-    <updated>2021-08-08T12:01:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080718364412651.jpg"><br/><br/>Молитва «Гобелен золотого пламени»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14765">Молитва «Гобелен золотого пламени»: повышен шанс получить персонажа «Пляшущие огоньки» Ёимия (Пиро) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14765" rel="alternate"/>
-    <summary>Молитва «Гобелен золотого пламени»</summary>
-    <published>2021-08-08T12:01:00+03:00</published>
-  </entry>
-  <entry>
-    <id>14714</id>
-    <title>Обзор событий версии 2.0 - Выпуск II</title>
-    <updated>2021-08-08T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080619031767870.jpg"><br/><br/>Обзор событий версии 2.0<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14714">Обзор событий версии 2.0 - Выпуск II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/14714" rel="alternate"/>
-    <summary>Обзор событий версии 2.0</summary>
-    <published>2021-08-08T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>14782</id>
     <title>«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</title>
@@ -917,5 +899,25 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17504" rel="alternate"/>
     <summary>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.</summary>
     <published>2021-12-06T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17515</id>
+    <title>«Таким и должно быть шоу!» Аратаки Итто - Истории персонажей | Genshin Impact</title>
+    <updated>2021-12-08T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120616254783567.jpg"><br/><br/>Даже самые традиционные пьесы заиграют новыми красками, если за дело возьмётся банда Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17515">«Таким и должно быть шоу!» Аратаки Итто - Истории персонажей | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17515" rel="alternate"/>
+    <summary>Даже самые традиционные пьесы заиграют новыми красками, если за дело возьмётся банда Аратаки.</summary>
+    <published>2021-12-08T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17541</id>
+    <title>«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</title>
+    <updated>2021-12-08T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715134631342.png"><br/><br/>Путешественники! \ (^ o ^) / ~
+Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17541">«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17541" rel="alternate"/>
+    <summary>Путешественники! \ (^ o ^) / ~
+Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.</summary>
+    <published>2021-12-08T12:00:00+03:00</published>
   </entry>
 </feed>

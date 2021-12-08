@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 08 Dec 2021 03:11:00 +0000</lastBuildDate>
-    <item>
-      <title>Новая система версии 2.1: Рыбалка</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15151</link>
-      <description>Рыбалка</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318171984634.png"><br/><br/>Рыбалка<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15151">Новая система версии 2.1: Рыбалка</a>]]></content:encoded>
-      <guid isPermaLink="false">15151</guid>
-      <pubDate>Tue, 24 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15264</link>
-      <description>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192761873.jpg"><br/><br/>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15264">Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">15264</guid>
-      <pubDate>Thu, 26 Aug 2021 04:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Dec 2021 04:13:58 +0000</lastBuildDate>
     <item>
       <title>[Записи об Инадзуме] Ватацуми и Сэйрай</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15233</link>
@@ -821,6 +805,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317023180767.jpg"><br/><br/>Чтобы помочь детективному агентству Бантан Санго завершить расследование массовых исчезновений маленьких животных, следуйте указаниям и спасайте животных в назначенных зонах поиска.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17504">Описание события «Дело Бантан Санго: Пёс-воин»</a>]]></content:encoded>
       <guid isPermaLink="false">17504</guid>
       <pubDate>Mon, 06 Dec 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Таким и должно быть шоу!» Аратаки Итто - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17515</link>
+      <description>Даже самые традиционные пьесы заиграют новыми красками, если за дело возьмётся банда Аратаки.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211206/2021120616254783567.jpg"><br/><br/>Даже самые традиционные пьесы заиграют новыми красками, если за дело возьмётся банда Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17515">«Таким и должно быть шоу!» Аратаки Итто - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17515</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17541</link>
+      <description>Путешественники! \ (^ o ^) / ~
+Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715134631342.png"><br/><br/>Путешественники! \ (^ o ^) / ~
+Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17541">«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</a>]]></content:encoded>
+      <guid isPermaLink="false">17541</guid>
+      <pubDate>Wed, 08 Dec 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

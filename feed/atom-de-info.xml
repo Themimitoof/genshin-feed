@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-12-08T03:10:46.600038+00:00</updated>
+  <updated>2021-12-08T04:13:17.003043+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>14769</id>
-    <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</title>
-    <updated>2021-08-08T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721213181605.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14769">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Donnerpuls“ und „Einhänder – Himmelsklinge“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14769" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</summary>
-    <published>2021-08-08T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14770</id>
-    <title>Gebet „Flammengalaxie“: Höhere Wahrscheinlichkeit für „Ausgelassene Flammen – Yoimiya (Pyro)“!</title>
-    <updated>2021-08-08T12:01:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080721274260374.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14770">Gebet „Flammengalaxie“: Höhere Wahrscheinlichkeit für „Ausgelassene Flammen – Yoimiya (Pyro)“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/14770" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</summary>
-    <published>2021-08-08T12:01:00+02:00</published>
-  </entry>
   <entry>
     <id>14709</id>
     <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.0 – Teil 2</title>
@@ -947,5 +929,25 @@ dank eurer Unterstützung hat Genshin Impact den „PlayStation®Partner Awards 
     <link href="https://genshin.mihoyo.com/de/news/detail/17505" rel="alternate"/>
     <summary>Damit die Detektei Bantan Sango ihre Ermittlungen zum „seltsamen Fall des massenhaften Verschwindens von Kleintieren“ abschließen kann, musst du den Bitten deines Auftraggebers folgen und Tiere an bestimmten Untersuchungsstellen retten.</summary>
     <published>2021-12-06T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17536</id>
+    <title>Figurenvorschau von Genshin Impact für Arataki Itto – „So geht das Theater!“</title>
+    <updated>2021-12-08T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120710301067399.jpg"><br/><br/>Wenn sich die Arataki-Bande selbst in den traditionsreichsten Spielplan einmischt, kann dies einen neuen Wendepunkt einleiten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17536">Figurenvorschau von Genshin Impact für Arataki Itto – „So geht das Theater!“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17536" rel="alternate"/>
+    <summary>Wenn sich die Arataki-Bande selbst in den traditionsreichsten Spielplan einmischt, kann dies einen neuen Wendepunkt einleiten.</summary>
+    <published>2021-12-08T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17544</id>
+    <title>„Arataki, die Nummer Eins der Welt, ist da! Hahahahaha ...*hust* ...“</title>
+    <updated>2021-12-08T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715330091730.png"><br/><br/>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch den ersten und größten Anführer der „Arataki-Bande“ vor, Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17544">„Arataki, die Nummer Eins der Welt, ist da! Hahahahaha ...*hust* ...“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17544" rel="alternate"/>
+    <summary>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch den ersten und größten Anführer der „Arataki-Bande“ vor, Arataki Itto.</summary>
+    <published>2021-12-08T12:00:00+01:00</published>
   </entry>
 </feed>

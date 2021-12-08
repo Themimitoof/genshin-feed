@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-08T03:10:51.085299+00:00</updated>
+  <updated>2021-12-08T04:13:29.895905+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15121</id>
-    <title>Halaman Preview v2.1 "Dunia di Bawah Cahaya Rembulan" Resmi Dibuka!</title>
-    <updated>2021-08-21T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082112301146492.jpg"><br/><br/>Dapatkan 20.000 Mora dengan mengunjungi situs event dan membagikan halaman tersebut<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15121">Halaman Preview v2.1 "Dunia di Bawah Cahaya Rembulan" Resmi Dibuka!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15121" rel="alternate"/>
-    <summary>Dapatkan 20.000 Mora dengan mengunjungi situs event dan membagikan halaman tersebut</summary>
-    <published>2021-08-21T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15161</id>
-    <title>Preview Update v2.1: Penjelasan Sistem Memancing</title>
-    <updated>2021-08-24T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082320211144421.png"><br/><br/>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15161">Preview Update v2.1: Penjelasan Sistem Memancing</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15161" rel="alternate"/>
-    <summary>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~</summary>
-    <published>2021-08-24T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>15262</id>
     <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
@@ -924,5 +906,23 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/17506" rel="alternate"/>
     <summary>Untuk membantu Kantor Detektif Bantan Sango menyelesaikan investigasi mereka tentang "hilangnya banyak hewan kecil dalam skala besar", ikuti misimu dan selamatkan hewan di lokasi investigasi yang ditentukan.</summary>
     <published>2021-12-06T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17540</id>
+    <title>"Arataki "Sang Nomor Satu" Itto sudah tiba! Hahahaha ... *uhuk*"</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715111421897.png"><br/><br/>Hari ini, yuk kita kenalan dengan pendiri dan pemimpin Geng Arataki — Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17540">"Arataki "Sang Nomor Satu" Itto sudah tiba! Hahahaha ... *uhuk*"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17540" rel="alternate"/>
+    <summary>Hari ini, yuk kita kenalan dengan pendiri dan pemimpin Geng Arataki — Arataki Itto.</summary>
+    <published>2021-12-08T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17543</id>
+    <title>Kisah Karakter: "Arataki Itto — Ini Baru Namanya Pertunjukan!" | Genshin Impact</title>
+    <updated>2021-12-08T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715313368260.jpg"><br/><br/>Kalau Geng Arataki sudah ikut campur, opera yang paling tradisional pun pasti bisa membawa sebuah perubahan baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17543">Kisah Karakter: "Arataki Itto — Ini Baru Namanya Pertunjukan!" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17543" rel="alternate"/>
+    <summary>Kalau Geng Arataki sudah ikut campur, opera yang paling tradisional pun pasti bisa membawa sebuah perubahan baru.</summary>
+    <published>2021-12-08T12:00:00+07:00</published>
   </entry>
 </feed>
