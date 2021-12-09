@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-12-09T03:11:06.020287+00:00</updated>
+  <updated>2021-12-09T04:14:16.807137+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>15082</id>
-    <title>[Genshin Impact] Video giới thiệu phiên bản 2.1: "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</title>
-    <updated>2021-08-20T22:45:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014441744418.jpg"><br/><br/>Tâm nguyện của mọi người đều tụ lại dưới ánh trăng sáng, <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15082">[Genshin Impact] Video giới thiệu phiên bản 2.1: "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15082" rel="alternate"/>
-    <summary>Tâm nguyện của mọi người đều tụ lại dưới ánh trăng sáng, </summary>
-    <published>2021-08-20T22:45:00+07:00</published>
-  </entry>
   <entry>
     <id>15098</id>
     <title>Genshin Impact - Thông Báo Đặt Lại x2 Nạp Lần Đầu</title>
@@ -848,5 +839,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715451470073.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17548">Arataki "Ta Thứ Hai Chả Ai Thứ Nhất" Itto. Hahahaha... khụ khụ...</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17548" rel="alternate"/>
     <published>2021-12-08T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17575</id>
+    <title>Sự kiện web có thưởng "Biểu Diễn Của Bang Arataki Bắt Đầu!" đã mở!</title>
+    <updated>2021-12-09T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120911263062319.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17575">Sự kiện web có thưởng "Biểu Diễn Của Bang Arataki Bắt Đầu!" đã mở!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17575" rel="alternate"/>
+    <published>2021-12-09T12:00:00+07:00</published>
   </entry>
 </feed>

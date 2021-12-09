@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-12-09T03:10:38.850866+00:00</updated>
+  <updated>2021-12-09T04:13:27.151179+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15039</id>
-    <title>Erläuterungen zur Spielweise von „Phantomfluss“</title>
-    <updated>2021-08-19T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081816231379568.jpg"><br/><br/>Die Aktion „Phantomfluss“ beginnt bald!
-Shousen, der Meister des Shinryuu von Inazuma erklärt sich bereit, dem Reisenden dabei zu helfen, ein fantastisches Turnier ohne Grenzen zu veranstalten. Bei der Teilnahme soll es auch noch die Möglichkeit geben, Preise zu gewinnen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15039">Erläuterungen zur Spielweise von „Phantomfluss“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15039" rel="alternate"/>
-    <summary>Die Aktion „Phantomfluss“ beginnt bald!
-Shousen, der Meister des Shinryuu von Inazuma erklärt sich bereit, dem Reisenden dabei zu helfen, ein fantastisches Turnier ohne Grenzen zu veranstalten. Bei der Teilnahme soll es auch noch die Möglichkeit geben, Preise zu gewinnen!</summary>
-    <published>2021-08-19T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>15070</id>
     <title>Vorschauvideo zu Version 2.1 von Genshin Impact: „Vom Mond beschienene Welt“</title>
@@ -957,5 +946,14 @@ Heute stellen wir euch den ersten und größten Anführer der „Arataki-Bande�
     <summary>Liebe Reisende \ (^ o ^) / ~
 Heute stellen wir euch den ersten und größten Anführer der „Arataki-Bande“ vor, Arataki Itto.</summary>
     <published>2021-12-08T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17566</id>
+    <title>Die Webaktion „Möge das Theater der Arataki-Bande beginnen!“ ist jetzt verfügbar</title>
+    <updated>2021-12-09T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910171383107.png"><br/><br/>„Schnell, unser Boss hat Großes vor. Da müssen wir auch mit anpacken! Wir dürfen ihn nicht enttäuschen!“<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17566">Die Webaktion „Möge das Theater der Arataki-Bande beginnen!“ ist jetzt verfügbar</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17566" rel="alternate"/>
+    <summary>„Schnell, unser Boss hat Großes vor. Da müssen wir auch mit anpacken! Wir dürfen ihn nicht enttäuschen!“</summary>
+    <published>2021-12-09T12:00:00+01:00</published>
   </entry>
 </feed>

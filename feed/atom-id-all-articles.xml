@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-12-09T03:10:49.274489+00:00</updated>
+  <updated>2021-12-09T04:13:45.982047+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -204,6 +204,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <summary>Halo, Traveler semua~
 Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua! Kalian bisa melihat siapa saja yang beruntung di bawah sini~ (•̀ᴗ•́)و</summary>
     <published>2021-12-01T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17571</id>
+    <title>Event Web "Pertunjukan Geng Arataki ... Dimulai!" Hadir</title>
+    <updated>2021-12-09T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA["Cepat, baru-baru ini bos punya rencana besar. Kita harus bantu dia, jangan sampai bikin dia repot!"<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17571">Event Web "Pertunjukan Geng Arataki ... Dimulai!" Hadir</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17571" rel="alternate"/>
+    <summary>"Cepat, baru-baru ini bos punya rencana besar. Kita harus bantu dia, jangan sampai bikin dia repot!"</summary>
+    <published>2021-12-09T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>735</id>
@@ -1247,15 +1256,6 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
     <published>2021-12-08T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15262</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
-    <updated>2021-08-26T04:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520175026278.jpg"><br/><br/>Bersama dengan Maestro Dirk Brossé dan Flanders Symphony Orchestra, Genshin Impact akan membawakan perjalanan musikal yang indah, dan membangkitkan kembali kenangan Traveler akan melodi-melodi yang bergaung di seantero Teyvat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15262">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15262" rel="alternate"/>
-    <summary>Bersama dengan Maestro Dirk Brossé dan Flanders Symphony Orchestra, Genshin Impact akan membawakan perjalanan musikal yang indah, dan membangkitkan kembali kenangan Traveler akan melodi-melodi yang bergaung di seantero Teyvat.</summary>
-    <published>2021-08-26T04:00:00+07:00</published>
-  </entry>
-  <entry>
     <id>15234</id>
     <title>Seluk-beluk Inazuma: Watatsumi Island dan Seirai Island</title>
     <updated>2021-08-26T10:30:00+07:00</updated>
@@ -2161,5 +2161,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/17543" rel="alternate"/>
     <summary>Kalau Geng Arataki sudah ikut campur, opera yang paling tradisional pun pasti bisa membawa sebuah perubahan baru.</summary>
     <published>2021-12-08T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17571</id>
+    <title>Event Web "Pertunjukan Geng Arataki ... Dimulai!" Hadir</title>
+    <updated>2021-12-09T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA["Cepat, baru-baru ini bos punya rencana besar. Kita harus bantu dia, jangan sampai bikin dia repot!"<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17571">Event Web "Pertunjukan Geng Arataki ... Dimulai!" Hadir</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17571" rel="alternate"/>
+    <summary>"Cepat, baru-baru ini bos punya rencana besar. Kita harus bantu dia, jangan sampai bikin dia repot!"</summary>
+    <published>2021-12-09T12:00:00+07:00</published>
   </entry>
 </feed>

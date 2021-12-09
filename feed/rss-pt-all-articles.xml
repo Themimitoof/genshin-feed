@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 09 Dec 2021 03:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 04:14:05 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -187,6 +187,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110120787804.png"><br/><br/>Olá, Viajantes~ Nosso evento já terminou, agradecemos pela participação de todos. Confira abaixo a lista de vencedores do evento ～(•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17378">[Anúncio dos Resultados] O Encontro da Luz e da Sombra</a>]]></content:encoded>
       <guid isPermaLink="false">17378</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evento Web "Que Comece o Show da Gangue Arataki" Agora Disponível</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17572</link>
+      <description>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910330981096.png"><br/><br/>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17572">Evento Web "Que Comece o Show da Gangue Arataki" Agora Disponível</a>]]></content:encoded>
+      <guid isPermaLink="false">17572</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0000</pubDate>
     </item>
     <item>
       <title>&lt;Genshin Impact&gt; explore o mundo de Teyvat com a Amber!</title>
@@ -1108,14 +1116,6 @@ Hoje estamos apresentando para vocês o Arataki Itto, o primeiro e maior chefe d
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>"O mundo permanece constante por séculos. Mas a vida humana é como o orvalho da manhã ou uma bolha subindo na água."</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15282</link>
-      <description>Olá, Viajantes! Hoje apresentaremos a nova personagem, Shogun Raiden. Vossa Excelência, a Narukami Ogosho Toda-Poderosa que prometeu ao povo de Inazuma uma Eternidade imutável.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610070784679.jpg"><br/><br/>Olá, Viajantes! Hoje apresentaremos a nova personagem, Shogun Raiden. Vossa Excelência, a Narukami Ogosho Toda-Poderosa que prometeu ao povo de Inazuma uma Eternidade imutável.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15282">"O mundo permanece constante por séculos. Mas a vida humana é como o orvalho da manhã ou uma bolha subindo na água."</a>]]></content:encoded>
-      <guid isPermaLink="false">15282</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>O pré-download estará dispnível em breve</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15334</link>
       <description>Caro Viajante: Para fornecermos uma melhor experiência aos Viajantes, a Equipe de Desenvolvimento estará lançando o pré-download para PC e dispositivos móveis.</description>
@@ -1910,6 +1910,14 @@ Hoje estamos apresentando para vocês o Arataki Itto, o primeiro e maior chefe d
 Hoje estamos apresentando para vocês o Arataki Itto, o primeiro e maior chefe da Gangue Arataki.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17542">"Arataki "o Onico" Itto, aqui, em carne e osso. Hahahahahaha... *Cof*"</a>]]></content:encoded>
       <guid isPermaLink="false">17542</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evento Web "Que Comece o Show da Gangue Arataki" Agora Disponível</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17572</link>
+      <description>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910330981096.png"><br/><br/>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17572">Evento Web "Que Comece o Show da Gangue Arataki" Agora Disponível</a>]]></content:encoded>
+      <guid isPermaLink="false">17572</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

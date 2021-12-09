@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - events</title>
-  <updated>2021-12-09T03:10:31.104991+00:00</updated>
+  <updated>2021-12-09T04:13:11.466547+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -192,5 +192,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/17376" rel="alternate"/>
     <summary>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"</summary>
     <published>2021-12-01T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17569</id>
+    <title>The "Let the Arataki Gang Show Begin!" Web Event Has Begun</title>
+    <updated>2021-12-09T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910291463472.png"><br/><br/>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17569">The "Let the Arataki Gang Show Begin!" Web Event Has Begun</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17569" rel="alternate"/>
+    <summary>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"</summary>
+    <published>2021-12-09T12:00:00-05:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-09T03:10:52.463064+00:00</updated>
+  <updated>2021-12-09T04:13:52.715493+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15174</id>
-    <title>2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</title>
-    <updated>2021-08-24T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082323131883766.png"><br/><br/> 2.1 버전에서 여행자들이 오래 기다렸던 「낚시」 콘텐츠가 업데이트될 거야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15174">2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15174" rel="alternate"/>
-    <summary> 2.1 버전에서 여행자들이 오래 기다렸던 「낚시」 콘텐츠가 업데이트될 거야</summary>
-    <published>2021-08-24T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>15271</id>
     <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</title>
@@ -943,5 +934,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17538" rel="alternate"/>
     <summary>아라타키파가 개입하면 아무리 전통적인 연극이라도 새로운 전환점을 맞이할 수 있다</summary>
     <published>2021-12-08T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17576</id>
+    <title>「아라타키파 극장 개막!」 웹이벤트 오픈!</title>
+    <updated>2021-12-09T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120911520652025.png"><br/><br/>이벤트 기간에 지정된 임무를 완료하여 아라타키 이토를 도와 극장 준비를 마치면 게임 내 아이템 보상을 받을 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17576">「아라타키파 극장 개막!」 웹이벤트 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17576" rel="alternate"/>
+    <summary>이벤트 기간에 지정된 임무를 완료하여 아라타키 이토를 도와 극장 준비를 마치면 게임 내 아이템 보상을 받을 수 있습니다</summary>
+    <published>2021-12-09T12:00:00+09:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 09 Dec 2021 03:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 04:13:25 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -104,6 +104,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110201434834.png"><br/><br/>此次活動已經結束了，感謝大家的參與。下面就讓我們來看看有哪些幸運兒吧～(•̀ᴗ•́)و ̑̑"<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17382">【結果公告】光影相約</a>]]></content:encoded>
       <guid isPermaLink="false">17382</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「開幕！荒瀧派劇場！」網頁活動現已開放！</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17573</link>
+      <description>「快快，老大最近要辦一件大事，我們也得去幫忙，可不能扯老大後腿！」</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910535184183.png"><br/><br/>「快快，老大最近要辦一件大事，我們也得去幫忙，可不能扯老大後腿！」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17573">「開幕！荒瀧派劇場！」網頁活動現已開放！</a>]]></content:encoded>
+      <guid isPermaLink="false">17573</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

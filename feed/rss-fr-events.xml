@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 09 Dec 2021 03:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 04:13:18 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -134,6 +134,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
 Cet événement est terminé, merci à tous pour votre participation. Jetons un œil à la liste des gagnants ~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17377">[Annonce des résultats] Rencontre entre ombres et lumières</a>]]></content:encoded>
       <guid isPermaLink="false">17377</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Lever de rideau sur le gang Arataki ! » est disponible !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17567</link>
+      <description>« Vite, le patron va organiser un grand événement, allons lui donner un coup de main ! Ne le laissons pas tomber ! »</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910203467987.png"><br/><br/>« Vite, le patron va organiser un grand événement, allons lui donner un coup de main ! Ne le laissons pas tomber ! »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17567">L'événement web « Lever de rideau sur le gang Arataki ! » est disponible !</a>]]></content:encoded>
+      <guid isPermaLink="false">17567</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-12-09T03:10:52.415508+00:00</updated>
+  <updated>2021-12-09T04:13:52.657034+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>8255</id>
-    <title>「スライムランド」イベント紹介</title>
-    <updated>2021-01-22T13:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210122/2021012211553941976.jpg"><br/><br/>「Webイベント」スライムたちの飼育員になりましょう——「スライムランド」正式開業！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8255">「スライムランド」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/8255" rel="alternate"/>
-    <summary>「Webイベント」スライムたちの飼育員になりましょう——「スライムランド」正式開業！</summary>
-    <published>2021-01-22T13:00:00+09:00</published>
-  </entry>
   <entry>
     <id>8277</id>
     <title>「百貨珍品」イベント紹介</title>
@@ -888,6 +879,15 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317595037662.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17509">「万端珊瑚事件簿・犬武者」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/17509" rel="alternate"/>
     <published>2021-12-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17565</id>
+    <title>「開幕！荒瀧派劇場！」イベント紹介</title>
+    <updated>2021-12-09T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910092345768.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17565">「開幕！荒瀧派劇場！」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17565" rel="alternate"/>
+    <summary/>
+    <published>2021-12-09T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>5839</id>
@@ -1982,15 +1982,6 @@
     <published>2021-11-16T22:50:00+09:00</published>
   </entry>
   <entry>
-    <id>13415</id>
-    <title>「真夏！島？大冒険！」Tips・第001期</title>
-    <updated>2021-06-09T10:29:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210608/2021060817313945243.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13415">「真夏！島？大冒険！」Tips・第001期</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13415" rel="alternate"/>
-    <summary/>
-    <published>2021-06-09T10:29:00+09:00</published>
-  </entry>
-  <entry>
     <id>13456</id>
     <title>「真夏！島？大冒険！」Tips・第002期</title>
     <updated>2021-06-11T10:29:00+09:00</updated>
@@ -2856,5 +2847,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211203/2021120317595037662.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17509">「万端珊瑚事件簿・犬武者」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/17509" rel="alternate"/>
     <published>2021-12-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17565</id>
+    <title>「開幕！荒瀧派劇場！」イベント紹介</title>
+    <updated>2021-12-09T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910092345768.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17565">「開幕！荒瀧派劇場！」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17565" rel="alternate"/>
+    <summary/>
+    <published>2021-12-09T12:00:00+09:00</published>
   </entry>
 </feed>

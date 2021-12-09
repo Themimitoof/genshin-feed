@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 09 Dec 2021 03:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 04:14:03 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -187,6 +187,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211201/2021120110120787804.png"><br/><br/>Olá, Viajantes~ Nosso evento já terminou, agradecemos pela participação de todos. Confira abaixo a lista de vencedores do evento ～(•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17378">[Anúncio dos Resultados] O Encontro da Luz e da Sombra</a>]]></content:encoded>
       <guid isPermaLink="false">17378</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evento Web "Que Comece o Show da Gangue Arataki" Agora Disponível</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17572</link>
+      <description>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910330981096.png"><br/><br/>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17572">Evento Web "Que Comece o Show da Gangue Arataki" Agora Disponível</a>]]></content:encoded>
+      <guid isPermaLink="false">17572</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

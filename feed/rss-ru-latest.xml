@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 09 Dec 2021 03:10:59 +0000</lastBuildDate>
-    <item>
-      <title>[Записи об Инадзуме] Ватацуми и Сэйрай</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15233</link>
-      <description>Записи об Инадзуме</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114179104.jpg"><br/><br/>Записи об Инадзуме<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15233">[Записи об Инадзуме] Ватацуми и Сэйрай</a>]]></content:encoded>
-      <guid isPermaLink="false">15233</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Dec 2021 04:14:05 +0000</lastBuildDate>
     <item>
       <title>«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15239</link>
@@ -823,6 +815,14 @@
 Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17541">«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</a>]]></content:encoded>
       <guid isPermaLink="false">17541</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Браузерное событие «Выступление банды Аратаки начинается!» объявляется открытым.</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17568</link>
+      <description>«Скорее, у босса важное дело. Надо ему помочь! Мы не можем его подвести!»</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910254335256.png"><br/><br/>«Скорее, у босса важное дело. Надо ему помочь! Мы не можем его подвести!»<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17568">Браузерное событие «Выступление банды Аратаки начинается!» объявляется открытым.</a>]]></content:encoded>
+      <guid isPermaLink="false">17568</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

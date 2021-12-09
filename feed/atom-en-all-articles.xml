@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-12-09T03:10:31.861019+00:00</updated>
+  <updated>2021-12-09T04:13:12.847119+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -192,6 +192,15 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/17376" rel="alternate"/>
     <summary>This event has ended, thank you for your participation. Let's see who the lucky winners are~ (•̀ᴗ•́)و"</summary>
     <published>2021-12-01T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17569</id>
+    <title>The "Let the Arataki Gang Show Begin!" Web Event Has Begun</title>
+    <updated>2021-12-09T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910291463472.png"><br/><br/>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17569">The "Let the Arataki Gang Show Begin!" Web Event Has Begun</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17569" rel="alternate"/>
+    <summary>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"</summary>
+    <published>2021-12-09T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -1346,15 +1355,6 @@ Let's see who will get the last laugh this time: Arataki Itto with his booming l
     <published>2021-12-08T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>15304</id>
-    <title>"My bow is for the service of people who need the help."</title>
-    <updated>2021-08-27T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082615010269267.jpg"><br/><br/>Today, we'd like to introduce to you a heroine from another world — Aloy!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15304">"My bow is for the service of people who need the help."</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15304" rel="alternate"/>
-    <summary>Today, we'd like to introduce to you a heroine from another world — Aloy!</summary>
-    <published>2021-08-27T12:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>15306</id>
     <title>Character Demo - "Aloy: Otherworldly Hunter" | Genshin Impact</title>
     <updated>2021-08-27T12:00:00-04:00</updated>
@@ -2315,5 +2315,14 @@ Let's see who will get the last laugh this time: Arataki Itto with his booming l
     <link href="https://genshin.mihoyo.com/en/news/detail/17546" rel="alternate"/>
     <summary>Today, we'd like to introduce you the first and greatest head of the Arataki Gang — Arataki Itto!</summary>
     <published>2021-12-08T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17569</id>
+    <title>The "Let the Arataki Gang Show Begin!" Web Event Has Begun</title>
+    <updated>2021-12-09T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910291463472.png"><br/><br/>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17569">The "Let the Arataki Gang Show Begin!" Web Event Has Begun</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17569" rel="alternate"/>
+    <summary>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"</summary>
+    <published>2021-12-09T12:00:00-05:00</published>
   </entry>
 </feed>

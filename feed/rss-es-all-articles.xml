@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 09 Dec 2021 03:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 04:13:39 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -155,6 +155,14 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
 El evento ha terminado, gracias a todos los que participaron. Veamos quiénes son los afortunados ganadores~ (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17379">Publicación de resultados: Encuentros de luz y sombra</a>]]></content:encoded>
       <guid isPermaLink="false">17379</guid>
       <pubDate>Wed, 01 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡Evento web «¡Que empiece la actuación de la Banda de Arataki!» ya disponible!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17570</link>
+      <description>"Deprisa, el jefe está organizando un gran evento, tenemos que ayudarle. ¡No podemos defraudarle!"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910304124058.png"><br/><br/>"Deprisa, el jefe está organizando un gran evento, tenemos que ayudarle. ¡No podemos defraudarle!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17570">¡Evento web «¡Que empiece la actuación de la Banda de Arataki!» ya disponible!</a>]]></content:encoded>
+      <guid isPermaLink="false">17570</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Genshin Impact: ¡Ven a explorar Teyvat con Amber!</title>
@@ -1078,14 +1086,6 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15280</link>
-      <description>Ya solo permanece la sombra de los días de antaño y sueños vacíos. Mientras, los corazones de los mortales se suman en la eterna soledad.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082522352857621.jpg"><br/><br/>Ya solo permanece la sombra de los días de antaño y sueños vacíos. Mientras, los corazones de los mortales se suman en la eterna soledad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15280">Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</a>]]></content:encoded>
-      <guid isPermaLink="false">15280</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</title>
       <link>https://genshin.mihoyo.com/es/news/detail/15285</link>
       <description>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.</description>
@@ -1886,6 +1886,14 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120716575987115.png"><br/><br/>Viajeros \ (^ o ^) / ~ Hoy les presentamos a Arataki Itto, el primer gran líder de la Banda de Arataki.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17550">¡Arataki Itto, "el number one", en persona! Jajajaja... *ejem*.</a>]]></content:encoded>
       <guid isPermaLink="false">17550</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡Evento web «¡Que empiece la actuación de la Banda de Arataki!» ya disponible!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17570</link>
+      <description>"Deprisa, el jefe está organizando un gran evento, tenemos que ayudarle. ¡No podemos defraudarle!"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910304124058.png"><br/><br/>"Deprisa, el jefe está organizando un gran evento, tenemos que ayudarle. ¡No podemos defraudarle!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17570">¡Evento web «¡Que empiece la actuación de la Banda de Arataki!» ya disponible!</a>]]></content:encoded>
+      <guid isPermaLink="false">17570</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

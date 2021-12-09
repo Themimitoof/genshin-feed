@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 09 Dec 2021 03:10:31 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement « Flux spectral »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15044</link>
-      <description>L'événement « Flux spectral » est sur le point de commencer !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210819/2021081914211671932.jpg"><br/><br/>L'événement « Flux spectral » est sur le point de commencer !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15044">Détails de l'événement « Flux spectral »</a>]]></content:encoded>
-      <guid isPermaLink="false">15044</guid>
-      <pubDate>Thu, 19 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 09 Dec 2021 04:13:12 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15092</link>
@@ -755,6 +747,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120723425093410.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17552">Et me voilà, Arataki Itto, le « numéro un », en chair et en os ! Héhéhé... *tousse*...</a>]]></description>
       <guid isPermaLink="false">17552</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Lever de rideau sur le gang Arataki ! » est disponible !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17567</link>
+      <description>« Vite, le patron va organiser un grand événement, allons lui donner un coup de main ! Ne le laissons pas tomber ! »</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910203467987.png"><br/><br/>« Vite, le patron va organiser un grand événement, allons lui donner un coup de main ! Ne le laissons pas tomber ! »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17567">L'événement web « Lever de rideau sur le gang Arataki ! » est disponible !</a>]]></content:encoded>
+      <guid isPermaLink="false">17567</guid>
+      <pubDate>Thu, 09 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
