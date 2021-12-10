@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-12-10T12:15:29.762557+00:00</updated>
+  <updated>2021-12-10T13:18:46.432604+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15306</id>
-    <title>Character Demo - "Aloy: Otherworldly Hunter" | Genshin Impact</title>
-    <updated>2021-08-27T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082617400996628.jpg"><br/><br/>A skilled hunter is always on the prowl for new and thrilling experiences.
-Braving this strange new world of Teyvat will be Aloy's latest trial.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15306">Character Demo - "Aloy: Otherworldly Hunter" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15306" rel="alternate"/>
-    <summary>A skilled hunter is always on the prowl for new and thrilling experiences.
-Braving this strange new world of Teyvat will be Aloy's latest trial.</summary>
-    <published>2021-08-27T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15349</id>
     <title>"To manifest Eternity per the Almighty Shogun's will — that is what I aspire to."</title>
@@ -979,5 +968,14 @@ Let's see who will get the last laugh this time: Arataki Itto with his booming l
     <link href="https://genshin.mihoyo.com/en/news/detail/17569" rel="alternate"/>
     <summary>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"</summary>
     <published>2021-12-09T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17656</id>
+    <title>TGA 2021 Genshin Impact Entry Video</title>
+    <updated>2021-12-10T20:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019574334005.jpg"><br/><br/>Thanks to your support, Genshin Impact has won the "Best Mobile Game" award at The Game Awards 2021. Thank you for coming alongside us through this journey!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17656">TGA 2021 Genshin Impact Entry Video</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17656" rel="alternate"/>
+    <summary>Thanks to your support, Genshin Impact has won the "Best Mobile Game" award at The Game Awards 2021. Thank you for coming alongside us through this journey!</summary>
+    <published>2021-12-10T20:30:00-05:00</published>
   </entry>
 </feed>

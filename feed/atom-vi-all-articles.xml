@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-12-10T12:16:24.055138+00:00</updated>
+  <updated>2021-12-10T13:19:34.885219+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -278,15 +278,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14749</id>
-    <title>Cầu nguyện Thiên Hà Rực Lửa: UP xác suất Vũ Điệu Bão Lửa - Yoimiya (Hỏa)!</title>
-    <updated>2021-08-08T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080713520645280.jpg"><br/><br/>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14749">Cầu nguyện Thiên Hà Rực Lửa: UP xác suất Vũ Điệu Bão Lửa - Yoimiya (Hỏa)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14749" rel="alternate"/>
-    <summary>Trong thời gian sự kiện, Nhà Lữ Hành có thể nhận nhiều vũ khí và nhân vật trong sự kiện cầu nguyện để tăng khả năng chiến đấu của đội!</summary>
-    <published>2021-08-08T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14750</id>
@@ -1133,13 +1124,12 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <published>2021-12-08T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15098</id>
-    <title>Genshin Impact - Thông Báo Đặt Lại x2 Nạp Lần Đầu</title>
-    <updated>2021-08-20T23:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018321914638.jpg"><br/><br/>Sau khi cập nhật phiên bản 2.1,<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15098">Genshin Impact - Thông Báo Đặt Lại x2 Nạp Lần Đầu</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15098" rel="alternate"/>
-    <summary>Sau khi cập nhật phiên bản 2.1,</summary>
-    <published>2021-08-20T23:30:00+07:00</published>
+    <id>17677</id>
+    <title>Video Tham Gia TGA 2021 Của Genshin Impact</title>
+    <updated>2021-12-10T20:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020212296040.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17677">Video Tham Gia TGA 2021 Của Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17677" rel="alternate"/>
+    <published>2021-12-10T20:30:00+07:00</published>
   </entry>
   <entry>
     <id>15063</id>
@@ -1970,5 +1960,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120911263062319.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17575">Sự kiện web có thưởng "Biểu Diễn Của Bang Arataki Bắt Đầu!" đã mở!</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17575" rel="alternate"/>
     <published>2021-12-09T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17677</id>
+    <title>Video Tham Gia TGA 2021 Của Genshin Impact</title>
+    <updated>2021-12-10T20:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020212296040.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17677">Video Tham Gia TGA 2021 Của Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17677" rel="alternate"/>
+    <published>2021-12-10T20:30:00+07:00</published>
   </entry>
 </feed>

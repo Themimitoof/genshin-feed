@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:48 +0000</lastBuildDate>
-    <item>
-      <title>"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15285</link>
-      <description>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610164747799.jpg"><br/><br/>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15285">"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</a>]]></content:encoded>
-      <guid isPermaLink="false">15285</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:03 +0000</lastBuildDate>
     <item>
       <title>Función de predescarga</title>
       <link>https://genshin.mihoyo.com/es/news/detail/15330</link>
@@ -818,6 +810,14 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910304124058.png"><br/><br/>"Deprisa, el jefe está organizando un gran evento, tenemos que ayudarle. ¡No podemos defraudarle!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17570">¡Evento web «¡Que empiece la actuación de la Banda de Arataki!» ya disponible!</a>]]></content:encoded>
       <guid isPermaLink="false">17570</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Video de participación de Genshin Impact en los TGA 2021</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17654</link>
+      <description>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019554425774.jpg"><br/><br/>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17654">Video de participación de Genshin Impact en los TGA 2021</a>]]></content:encoded>
+      <guid isPermaLink="false">17654</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

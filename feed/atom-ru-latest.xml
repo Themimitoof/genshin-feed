@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-12-10T12:16:10.132604+00:00</updated>
+  <updated>2021-12-10T13:19:22.500880+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15239</id>
-    <title>«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</title>
-    <updated>2021-08-26T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519472938251.jpg"><br/><br/>«Кошмар» Сёгун Райдэн - Истории персонажей<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15239">«Кошмар» Сёгун Райдэн - Истории персонажей | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15239" rel="alternate"/>
-    <summary>«Кошмар» Сёгун Райдэн - Истории персонажей</summary>
-    <published>2021-08-26T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>15283</id>
     <title>«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</title>
@@ -923,5 +914,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17568" rel="alternate"/>
     <summary>«Скорее, у босса важное дело. Надо ему помочь! Мы не можем его подвести!»</summary>
     <published>2021-12-09T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17664</id>
+    <title>Genshin Impact - видео участия в TGA 2021</title>
+    <updated>2021-12-10T20:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020064861090.jpg"><br/><br/>Благодаря вашей поддержке Genshin Impact победила в номинации «Лучшая мобильная игра» The Game Awards 2021. Мы признательны вам за то, что присоединились к нам в этом путешествии!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17664">Genshin Impact - видео участия в TGA 2021</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17664" rel="alternate"/>
+    <summary>Благодаря вашей поддержке Genshin Impact победила в номинации «Лучшая мобильная игра» The Game Awards 2021. Мы признательны вам за то, что присоединились к нам в этом путешествии!</summary>
+    <published>2021-12-10T20:30:00+03:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:39 +0000</lastBuildDate>
-    <item>
-      <title>2.1版本預告：「韶光撫月，天下人間」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15066</link>
-      <description>人們的心願彙集於月光之下，見證鳴雷與厲火，共賞炊煙與華燈。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082012583050722.jpg"><br/><br/>人們的心願彙集於月光之下，見證鳴雷與厲火，共賞炊煙與華燈。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15066">2.1版本預告：「韶光撫月，天下人間」｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">15066</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:18:55 +0000</lastBuildDate>
     <item>
       <title>《原神》首次儲值雙倍返利重置說明</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/15109</link>
@@ -811,6 +803,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910535184183.png"><br/><br/>「快快，老大最近要辦一件大事，我們也得去幫忙，可不能扯老大後腿！」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17573">「開幕！荒瀧派劇場！」網頁活動現已開放！</a>]]></content:encoded>
       <guid isPermaLink="false">17573</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>TGA 2021《原神》參選影片</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17660</link>
+      <description>在大家的支持下，《原神》獲得了“TGA 2021 Best Mobile Game (最佳行動遊戲)”獎項，感謝一路相伴！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020013239791.jpg"><br/><br/>在大家的支持下，《原神》獲得了“TGA 2021 Best Mobile Game (最佳行動遊戲)”獎項，感謝一路相伴！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17660">TGA 2021《原神》參選影片</a>]]></content:encoded>
+      <guid isPermaLink="false">17660</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

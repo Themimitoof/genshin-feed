@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-12-10T12:15:31.628993+00:00</updated>
+  <updated>2021-12-10T13:18:47.534694+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>14880</id>
-    <title>Collected Miscellany - "Sayu: Whirling Windwheel" | Genshin Impact</title>
-    <updated>2021-08-11T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081018161360495.jpg"><br/><br/>Eating high-carb foods and doing work that uses the least energy is the principle that little ninja Sayu lives by.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/14880">Collected Miscellany - "Sayu: Whirling Windwheel" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/14880" rel="alternate"/>
-    <summary>Eating high-carb foods and doing work that uses the least energy is the principle that little ninja Sayu lives by.
-</summary>
-    <published>2021-08-11T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15034</id>
     <title>"Phantom Flow" Gameplay Details</title>
@@ -987,5 +976,14 @@ Let's see who will get the last laugh this time: Arataki Itto with his booming l
     <link href="https://genshin.mihoyo.com/en/news/detail/17546" rel="alternate"/>
     <summary>Today, we'd like to introduce you the first and greatest head of the Arataki Gang — Arataki Itto!</summary>
     <published>2021-12-08T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17656</id>
+    <title>TGA 2021 Genshin Impact Entry Video</title>
+    <updated>2021-12-10T20:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019574334005.jpg"><br/><br/>Thanks to your support, Genshin Impact has won the "Best Mobile Game" award at The Game Awards 2021. Thank you for coming alongside us through this journey!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17656">TGA 2021 Genshin Impact Entry Video</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17656" rel="alternate"/>
+    <summary>Thanks to your support, Genshin Impact has won the "Best Mobile Game" award at The Game Awards 2021. Thank you for coming alongside us through this journey!</summary>
+    <published>2021-12-10T20:30:00-05:00</published>
   </entry>
 </feed>

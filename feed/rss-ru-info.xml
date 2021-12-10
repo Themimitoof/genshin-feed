@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:16:11 +0000</lastBuildDate>
-    <item>
-      <title>«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/14782</link>
-      <description>«Ослепительные огни лета» Ёимия</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080821010545153.jpg"><br/><br/>«Ослепительные огни лета» Ёимия<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/14782">«Ослепительные огни лета» Ёимия (Пиро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14782</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:23 +0000</lastBuildDate>
     <item>
       <title>Ёимия: Язык пламени | Коллекция Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/14831</link>
@@ -818,6 +810,14 @@
 Сегодня мы представляем вам Аратаки Итто, первого и величайшего предводителя банды Аратаки.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17541">«Итто "Номер один" Аратаки, собственной персоной! Ха-ха-ха-ха... кхм...»</a>]]></content:encoded>
       <guid isPermaLink="false">17541</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - видео участия в TGA 2021</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17664</link>
+      <description>Благодаря вашей поддержке Genshin Impact победила в номинации «Лучшая мобильная игра» The Game Awards 2021. Мы признательны вам за то, что присоединились к нам в этом путешествии!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020064861090.jpg"><br/><br/>Благодаря вашей поддержке Genshin Impact победила в номинации «Лучшая мобильная игра» The Game Awards 2021. Мы признательны вам за то, что присоединились к нам в этом путешествии!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17664">Genshin Impact - видео участия в TGA 2021</a>]]></content:encoded>
+      <guid isPermaLink="false">17664</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

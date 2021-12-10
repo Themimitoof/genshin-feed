@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2021-12-10T12:16:19.466556+00:00</updated>
+  <updated>2021-12-10T13:19:30.839274+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -293,15 +293,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>14754</id>
-    <title>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ธนู · Thundering Pulse" "ดาบ - Skyward Blade"!</title>
-    <updated>2021-08-08T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080715251068663.jpg"><br/><br/>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ธนู · Thundering Pulse" "ดาบ - Skyward Blade"!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/14754">การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ธนู · Thundering Pulse" "ดาบ - Skyward Blade"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/14754" rel="alternate"/>
-    <summary>การอธิษฐาน "สรรค์สร้างเซียน": โอกาสได้รับ UP "ธนู · Thundering Pulse" "ดาบ - Skyward Blade"!</summary>
-    <published>2021-08-08T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>14755</id>
@@ -1141,13 +1132,12 @@
     <published>2021-12-08T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15058</id>
-    <title>Realm of Tranquil Eternity: การแสดงซิมโฟนีออร์เคสตราแห่ง Inazuma | Genshin Impact</title>
-    <updated>2021-08-21T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011451980714.png"><br/><br/>การแสดงซิมโฟนีออร์เคสตราแห่งเมือง <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15058">Realm of Tranquil Eternity: การแสดงซิมโฟนีออร์เคสตราแห่ง Inazuma | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15058" rel="alternate"/>
-    <summary>การแสดงซิมโฟนีออร์เคสตราแห่งเมือง </summary>
-    <published>2021-08-21T12:00:00+07:00</published>
+    <id>17665</id>
+    <title>วิดีโอเข้าร่วมงาน TGA 2021 ของ Genshin Impact</title>
+    <updated>2021-12-10T20:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020065459989.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17665">วิดีโอเข้าร่วมงาน TGA 2021 ของ Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17665" rel="alternate"/>
+    <published>2021-12-10T20:30:00+07:00</published>
   </entry>
   <entry>
     <id>15118</id>
@@ -1980,5 +1970,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120911243280983.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17574">กิจกรรม "เปิดตัว! โรงละครแก๊ง Arataki!" บนเว็บไซต์เริ่มต้นขึ้นแล้ว</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17574" rel="alternate"/>
     <published>2021-12-09T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17665</id>
+    <title>วิดีโอเข้าร่วมงาน TGA 2021 ของ Genshin Impact</title>
+    <updated>2021-12-10T20:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020065459989.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17665">วิดีโอเข้าร่วมงาน TGA 2021 ของ Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17665" rel="alternate"/>
+    <published>2021-12-10T20:30:00+07:00</published>
   </entry>
 </feed>

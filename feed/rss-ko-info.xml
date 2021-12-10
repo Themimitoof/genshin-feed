@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:16:02 +0000</lastBuildDate>
-    <item>
-      <title>「은하수를 물들인 불꽃」 기원: 「유염화무·요이미야(불)」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/14764</link>
-      <description>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080717454722303.jpg"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14764">「은하수를 물들인 불꽃」 기원: 「유염화무·요이미야(불)」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">14764</guid>
-      <pubDate>Sun, 08 Aug 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:15 +0000</lastBuildDate>
     <item>
       <title>페이몬을 따라 이벤트 보기 - 2.0버전 이벤트 알림 제2회</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/14768</link>
@@ -844,6 +836,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120714410861765.jpg"><br/><br/>아라타키파가 개입하면 아무리 전통적인 연극이라도 새로운 전환점을 맞이할 수 있다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17538"><원신> 아라타키 이토 캐릭터 PV - 「이 정도는 해야지!」</a>]]></content:encoded>
       <guid isPermaLink="false">17538</guid>
       <pubDate>Wed, 08 Dec 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>TGA 2021 &lt;원신&gt; 참가 영상</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17651</link>
+      <description>여러분의 성원 아래 &lt;원신&gt;이 'TGA 2021 베스트 모바일 게임'을 수상했습니다. 함께해 주셔서 감사합니다!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121017323053822.jpg"><br/><br/>여러분의 성원 아래 <원신>이 'TGA 2021 베스트 모바일 게임'을 수상했습니다. 함께해 주셔서 감사합니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17651">TGA 2021 <원신> 참가 영상</a>]]></content:encoded>
+      <guid isPermaLink="false">17651</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

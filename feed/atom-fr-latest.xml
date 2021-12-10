@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-12-10T12:15:34.588348+00:00</updated>
+  <updated>2021-12-10T13:18:51.686073+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>15092</id>
-    <title>Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</title>
-    <updated>2021-08-20T22:45:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082015592517974.jpg"><br/><br/>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15092">Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15092" rel="alternate"/>
-    <summary>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.</summary>
-    <published>2021-08-20T22:45:00+02:00</published>
-  </entry>
   <entry>
     <id>15097</id>
     <title>Genshin Impact : Réinitialisation du double bonus pour la première recharge</title>
@@ -869,5 +860,13 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/17567" rel="alternate"/>
     <summary>« Vite, le patron va organiser un grand événement, allons lui donner un coup de main ! Ne le laissons pas tomber ! »</summary>
     <published>2021-12-09T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17673</id>
+    <title>Vidéo de participation de Genshin Impact à TGA 2021</title>
+    <updated>2021-12-10T20:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020175575989.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17673">Vidéo de participation de Genshin Impact à TGA 2021</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17673" rel="alternate"/>
+    <published>2021-12-10T20:30:00+01:00</published>
   </entry>
 </feed>

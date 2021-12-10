@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:50 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Yoimiya: el lenguaje del fuego</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/14850</link>
-      <description>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081011525467639.jpg"><br/><br/>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14850">Genshin Impact - Yoimiya: el lenguaje del fuego</a>]]></content:encoded>
-      <guid isPermaLink="false">14850</guid>
-      <pubDate>Tue, 10 Aug 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:04 +0000</lastBuildDate>
     <item>
       <title>Cómo jugar «Arena mecánica: Juego del ingenio»</title>
       <link>https://genshin.mihoyo.com/es/news/detail/14861</link>
@@ -814,6 +806,14 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!<br><
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120716575987115.png"><br/><br/>Viajeros \ (^ o ^) / ~ Hoy les presentamos a Arataki Itto, el primer gran líder de la Banda de Arataki.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17550">¡Arataki Itto, "el number one", en persona! Jajajaja... *ejem*.</a>]]></content:encoded>
       <guid isPermaLink="false">17550</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Video de participación de Genshin Impact en los TGA 2021</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17654</link>
+      <description>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019554425774.jpg"><br/><br/>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17654">Video de participación de Genshin Impact en los TGA 2021</a>]]></content:encoded>
+      <guid isPermaLink="false">17654</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

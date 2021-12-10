@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:45 +0000</lastBuildDate>
-    <item>
-      <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.0 – Teil 2</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/14709</link>
-      <description>Hallo, Reisende! Paimon bringt euch wieder die neusten Informationen! Klickt auf das Bild unten, um alles zu sehen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210806/2021080618540828583.jpg"><br/><br/>Hallo, Reisende! Paimon bringt euch wieder die neusten Informationen! Klickt auf das Bild unten, um alles zu sehen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/14709">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.0 – Teil 2</a>]]></content:encoded>
-      <guid isPermaLink="false">14709</guid>
-      <pubDate>Sun, 08 Aug 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:00 +0000</lastBuildDate>
     <item>
       <title>Figurenvorführung bei Genshin Impact – Yoimiya: Feurige Sommerlichter</title>
       <link>https://genshin.mihoyo.com/de/news/detail/14790</link>
@@ -849,6 +841,14 @@ Heute stellen wir euch den ersten und größten Anführer der „Arataki-Bande�
 Heute stellen wir euch den ersten und größten Anführer der „Arataki-Bande“ vor, Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17544">„Arataki, die Nummer Eins der Welt, ist da! Hahahahaha ...*hust* ...“</a>]]></content:encoded>
       <guid isPermaLink="false">17544</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Video zum Preiserhalt von Genshin Impact bei den TGA 2021</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17662</link>
+      <description>Dank eurer Unterstützung hat Genshin Impact den TGA-Preis für „Best Mobile Game“ (bestes Spiel für Mobilgeräte) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020033091670.jpg"><br/><br/>Dank eurer Unterstützung hat Genshin Impact den TGA-Preis für „Best Mobile Game“ (bestes Spiel für Mobilgeräte) erhalten. Vielen Dank, dass ihr uns auf dieser Reise begleitet!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17662">Video zum Preiserhalt von Genshin Impact bei den TGA 2021</a>]]></content:encoded>
+      <guid isPermaLink="false">17662</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

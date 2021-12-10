@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:16:01 +0000</lastBuildDate>
-    <item>
-      <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15271</link>
-      <description>﻿&lt;원신&gt; 협업 지휘자 Dirk Brossé 및 Flanders Symphony Orchestra와 함께 티바트 대륙에서 울려 퍼지는 감동적인 선율을 다시 되새기는 아름다운 음악 여행이 시작됩니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520323353747.jpg"><br/><br/>﻿<원신> 협업 지휘자 Dirk Brossé 및 Flanders Symphony Orchestra와 함께 티바트 대륙에서 울려 퍼지는 감동적인 선율을 다시 되새기는 아름다운 음악 여행이 시작됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15271">원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">15271</guid>
-      <pubDate>Thu, 26 Aug 2021 04:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:14 +0000</lastBuildDate>
     <item>
       <title>[이나즈마 수첩] 와타츠미섬&amp;세이라이섬 편</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15275</link>
@@ -839,6 +831,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120911520652025.png"><br/><br/>이벤트 기간에 지정된 임무를 완료하여 아라타키 이토를 도와 극장 준비를 마치면 게임 내 아이템 보상을 받을 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17576">「아라타키파 극장 개막!」 웹이벤트 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">17576</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>TGA 2021 &lt;원신&gt; 참가 영상</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17651</link>
+      <description>여러분의 성원 아래 &lt;원신&gt;이 'TGA 2021 베스트 모바일 게임'을 수상했습니다. 함께해 주셔서 감사합니다!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121017323053822.jpg"><br/><br/>여러분의 성원 아래 <원신>이 'TGA 2021 베스트 모바일 게임'을 수상했습니다. 함께해 주셔서 감사합니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17651">TGA 2021 <원신> 참가 영상</a>]]></content:encoded>
+      <guid isPermaLink="false">17651</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-12-10T12:15:36.203556+00:00</updated>
+  <updated>2021-12-10T13:18:52.822695+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>14731</id>
-    <title>Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</title>
-    <updated>2021-08-07T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711062970680.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14731">Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/14731" rel="alternate"/>
-    <published>2021-08-07T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>14757</id>
     <title>« Plutôt dormir que de travailler. » – Sayu · Mujina shinobi</title>
@@ -874,5 +866,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120723425093410.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17552">Et me voilà, Arataki Itto, le « numéro un », en chair et en os ! Héhéhé... *tousse*...</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/17552" rel="alternate"/>
     <published>2021-12-08T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17673</id>
+    <title>Vidéo de participation de Genshin Impact à TGA 2021</title>
+    <updated>2021-12-10T20:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020175575989.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17673">Vidéo de participation de Genshin Impact à TGA 2021</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17673" rel="alternate"/>
+    <published>2021-12-10T20:30:00+01:00</published>
   </entry>
 </feed>

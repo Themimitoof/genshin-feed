@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:54 +0000</lastBuildDate>
-    <item>
-      <title>Demo Karakter - "Yoimiya: Gebyar Pesta Musim Panas" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/14796</link>
-      <description>Mereka yang punya sifat ceria dan bersemangat seperti anak kecil, pasti akan merasa sangat disambut di Pertunjukan Kembang Api Yoimiya.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910411155183.jpg"><br/><br/>Mereka yang punya sifat ceria dan bersemangat seperti anak kecil, pasti akan merasa sangat disambut di Pertunjukan Kembang Api Yoimiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/14796">Demo Karakter - "Yoimiya: Gebyar Pesta Musim Panas" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">14796</guid>
-      <pubDate>Mon, 09 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:08 +0000</lastBuildDate>
     <item>
       <title>Aneka Koleksi Genshin Impact — "Yoimiya: Bara Api di Tiap Ucapan"</title>
       <link>https://genshin.mihoyo.com/id/news/detail/14846</link>
@@ -816,6 +808,14 @@ Berikut adalah konten dan kompensasi Update v2.3 "Debu dan Bayang-Bayang Salju"<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120715313368260.jpg"><br/><br/>Kalau Geng Arataki sudah ikut campur, opera yang paling tradisional pun pasti bisa membawa sebuah perubahan baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17543">Kisah Karakter: "Arataki Itto — Ini Baru Namanya Pertunjukan!" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17543</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Video Partisipasi Genshin Impact di TGA 2021</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17657</link>
+      <description>Berkat dukungan kalian semua, Genshin Impact telah memenangkan penghargaan "Best Mobile Game" di The Game Awards 2021. Terima kasih sudah menemani kami di sepanjang perjalanan!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019575819844.jpg"><br/><br/>Berkat dukungan kalian semua, Genshin Impact telah memenangkan penghargaan "Best Mobile Game" di The Game Awards 2021. Terima kasih sudah menemani kami di sepanjang perjalanan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17657">Video Partisipasi Genshin Impact di TGA 2021</a>]]></content:encoded>
+      <guid isPermaLink="false">17657</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

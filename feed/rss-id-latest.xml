@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:53 +0000</lastBuildDate>
-    <item>
-      <title>Seluk-beluk Inazuma: Watatsumi Island dan Seirai Island</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/15234</link>
-      <description>Dalam v2.1, ada dua kepulauan baru yang akan terbuka di Inazuma — Seirai Island dan Watatsumi Island. Dua pulau ini memiliki budaya dan kebiasaan yang sangat berbeda. Yuk kita kenali dua pulau misterius ini terlebih dulu!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114833410.jpg"><br/><br/>Dalam v2.1, ada dua kepulauan baru yang akan terbuka di Inazuma — Seirai Island dan Watatsumi Island. Dua pulau ini memiliki budaya dan kebiasaan yang sangat berbeda. Yuk kita kenali dua pulau misterius ini terlebih dulu!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15234">Seluk-beluk Inazuma: Watatsumi Island dan Seirai Island</a>]]></content:encoded>
-      <guid isPermaLink="false">15234</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:19:07 +0000</lastBuildDate>
     <item>
       <title>Kisah Karakter: "Raiden Shogun — Mimpi Buruk" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/id/news/detail/15246</link>
@@ -823,6 +815,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA["Cepat, baru-baru ini bos punya rencana besar. Kita harus bantu dia, jangan sampai bikin dia repot!"<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17571">Event Web "Pertunjukan Geng Arataki ... Dimulai!" Hadir</a>]]></content:encoded>
       <guid isPermaLink="false">17571</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Video Partisipasi Genshin Impact di TGA 2021</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17657</link>
+      <description>Berkat dukungan kalian semua, Genshin Impact telah memenangkan penghargaan "Best Mobile Game" di The Game Awards 2021. Terima kasih sudah menemani kami di sepanjang perjalanan!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019575819844.jpg"><br/><br/>Berkat dukungan kalian semua, Genshin Impact telah memenangkan penghargaan "Best Mobile Game" di The Game Awards 2021. Terima kasih sudah menemani kami di sepanjang perjalanan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17657">Video Partisipasi Genshin Impact di TGA 2021</a>]]></content:encoded>
+      <guid isPermaLink="false">17657</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

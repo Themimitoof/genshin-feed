@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-12-10T12:15:40.732909+00:00</updated>
+  <updated>2021-12-10T13:18:56.935158+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>14775</id>
-    <title>「焰色天河」祈願：「琉焰華舞·宵宮(火)」機率UP！</title>
-    <updated>2021-08-08T13:38:51+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210808/2021080813404143580.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/14775">「焰色天河」祈願：「琉焰華舞·宵宮(火)」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/14775" rel="alternate"/>
-    <published>2021-08-08T13:38:51+08:00</published>
-  </entry>
   <entry>
     <id>14777</id>
     <title>「神鑄賦形」祈願：「弓·飛雷之弦振」「單手劍·天空之刃」機率UP！</title>
@@ -908,5 +900,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17549" rel="alternate"/>
     <summary>今天為大家介紹的是「荒瀧派」初代目頭領——荒瀧一斗。</summary>
     <published>2021-12-08T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17660</id>
+    <title>TGA 2021《原神》參選影片</title>
+    <updated>2021-12-10T20:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020013239791.jpg"><br/><br/>在大家的支持下，《原神》獲得了“TGA 2021 Best Mobile Game (最佳行動遊戲)”獎項，感謝一路相伴！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17660">TGA 2021《原神》參選影片</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17660" rel="alternate"/>
+    <summary>在大家的支持下，《原神》獲得了“TGA 2021 Best Mobile Game (最佳行動遊戲)”獎項，感謝一路相伴！</summary>
+    <published>2021-12-10T20:30:00+08:00</published>
   </entry>
 </feed>

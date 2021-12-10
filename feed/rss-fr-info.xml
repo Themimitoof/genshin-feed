@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:36 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14731</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080711062970680.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14731">Genshin Impact - Démo personnage : « Sayu : École Yoohoo, technique de la fuite du mujina »</a>]]></description>
-      <guid isPermaLink="false">14731</guid>
-      <pubDate>Sat, 07 Aug 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:18:52 +0000</lastBuildDate>
     <item>
       <title>« Plutôt dormir que de travailler. » – Sayu · Mujina shinobi</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14757</link>
@@ -762,6 +755,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211207/2021120723425093410.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17552">Et me voilà, Arataki Itto, le « numéro un », en chair et en os ! Héhéhé... *tousse*...</a>]]></description>
       <guid isPermaLink="false">17552</guid>
       <pubDate>Wed, 08 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vidéo de participation de Genshin Impact à TGA 2021</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17673</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020175575989.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17673">Vidéo de participation de Genshin Impact à TGA 2021</a>]]></description>
+      <guid isPermaLink="false">17673</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

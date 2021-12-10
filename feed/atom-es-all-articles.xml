@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-12-10T12:15:53.084968+00:00</updated>
+  <updated>2021-12-10T13:19:07.279583+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -317,15 +317,6 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>14850</id>
-    <title>Genshin Impact - Yoimiya: el lenguaje del fuego</title>
-    <updated>2021-08-10T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081011525467639.jpg"><br/><br/>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/14850">Genshin Impact - Yoimiya: el lenguaje del fuego</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/14850" rel="alternate"/>
-    <summary>Aquellos fuegos artificiales que guardan los deseos de las personas son eternos como la luna, y se elevan como el sol.</summary>
-    <published>2021-08-10T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>14861</id>
@@ -1228,13 +1219,13 @@ El evento «Dominio del guerrero» ya está disponible. ¡No te lo pierdas!</sum
     <published>2021-12-08T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>15285</id>
-    <title>"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</title>
-    <updated>2021-08-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610164747799.jpg"><br/><br/>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15285">"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15285" rel="alternate"/>
-    <summary>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.</summary>
-    <published>2021-08-26T12:00:00+02:00</published>
+    <id>17654</id>
+    <title>Video de participación de Genshin Impact en los TGA 2021</title>
+    <updated>2021-12-10T20:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019554425774.jpg"><br/><br/>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17654">Video de participación de Genshin Impact en los TGA 2021</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17654" rel="alternate"/>
+    <summary>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!</summary>
+    <published>2021-12-10T20:30:00+01:00</published>
   </entry>
   <entry>
     <id>15330</id>
@@ -2139,5 +2130,14 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
     <link href="https://genshin.mihoyo.com/es/news/detail/17570" rel="alternate"/>
     <summary>"Deprisa, el jefe está organizando un gran evento, tenemos que ayudarle. ¡No podemos defraudarle!"</summary>
     <published>2021-12-09T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17654</id>
+    <title>Video de participación de Genshin Impact en los TGA 2021</title>
+    <updated>2021-12-10T20:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121019554425774.jpg"><br/><br/>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17654">Video de participación de Genshin Impact en los TGA 2021</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17654" rel="alternate"/>
+    <summary>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!</summary>
+    <published>2021-12-10T20:30:00+01:00</published>
   </entry>
 </feed>

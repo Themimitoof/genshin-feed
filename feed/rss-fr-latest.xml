@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 10 Dec 2021 12:15:34 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15092</link>
-      <description>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082015592517974.jpg"><br/><br/>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15092">Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</a>]]></content:encoded>
-      <guid isPermaLink="false">15092</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Dec 2021 13:18:51 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact : Réinitialisation du double bonus pour la première recharge</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15097</link>
@@ -755,6 +747,13 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910203467987.png"><br/><br/>« Vite, le patron va organiser un grand événement, allons lui donner un coup de main ! Ne le laissons pas tomber ! »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17567">L'événement web « Lever de rideau sur le gang Arataki ! » est disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">17567</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vidéo de participation de Genshin Impact à TGA 2021</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17673</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020175575989.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17673">Vidéo de participation de Genshin Impact à TGA 2021</a>]]></description>
+      <guid isPermaLink="false">17673</guid>
+      <pubDate>Fri, 10 Dec 2021 20:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

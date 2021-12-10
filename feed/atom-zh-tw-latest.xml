@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-12-10T12:15:39.916988+00:00</updated>
+  <updated>2021-12-10T13:18:55.870229+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15066</id>
-    <title>2.1版本預告：「韶光撫月，天下人間」｜原神</title>
-    <updated>2021-08-20T22:45:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082012583050722.jpg"><br/><br/>人們的心願彙集於月光之下，見證鳴雷與厲火，共賞炊煙與華燈。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15066">2.1版本預告：「韶光撫月，天下人間」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15066" rel="alternate"/>
-    <summary>人們的心願彙集於月光之下，見證鳴雷與厲火，共賞炊煙與華燈。</summary>
-    <published>2021-08-20T22:45:00+08:00</published>
-  </entry>
   <entry>
     <id>15109</id>
     <title>《原神》首次儲值雙倍返利重置說明</title>
@@ -911,5 +902,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17573" rel="alternate"/>
     <summary>「快快，老大最近要辦一件大事，我們也得去幫忙，可不能扯老大後腿！」</summary>
     <published>2021-12-09T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17660</id>
+    <title>TGA 2021《原神》參選影片</title>
+    <updated>2021-12-10T20:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020013239791.jpg"><br/><br/>在大家的支持下，《原神》獲得了“TGA 2021 Best Mobile Game (最佳行動遊戲)”獎項，感謝一路相伴！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17660">TGA 2021《原神》參選影片</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17660" rel="alternate"/>
+    <summary>在大家的支持下，《原神》獲得了“TGA 2021 Best Mobile Game (最佳行動遊戲)”獎項，感謝一路相伴！</summary>
+    <published>2021-12-10T20:30:00+08:00</published>
   </entry>
 </feed>
