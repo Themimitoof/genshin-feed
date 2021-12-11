@@ -2,62 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-12-11T03:10:47.376989+00:00</updated>
+  <updated>2021-12-11T04:13:30.251413+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>14768</id>
-    <title>페이몬을 따라 이벤트 보기 - 2.0버전 이벤트 알림 제2회</title>
-    <updated>2021-08-08T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210807/2021080719322154858.jpg"><br/><br/>페이몬이 최신 이벤트 정보를 가져왔어~! 같이 확인해 보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14768">페이몬을 따라 이벤트 보기 - 2.0버전 이벤트 알림 제2회</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14768" rel="alternate"/>
-    <summary>페이몬이 최신 이벤트 정보를 가져왔어~! 같이 확인해 보자~</summary>
-    <published>2021-08-08T12:10:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14792</id>
-    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「요이미야: 한여름의 불꽃」</title>
-    <updated>2021-08-09T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210809/2021080910343427717.jpg"><br/><br/>열정과 동심을 품은 사람은 반드시 요이미야가 정성껏 준비한 불꽃축제에서 극진한 대접을 받는다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14792"><원신> 신규 캐릭터 플레이 - 「요이미야: 한여름의 불꽃」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14792" rel="alternate"/>
-    <summary>열정과 동심을 품은 사람은 반드시 요이미야가 정성껏 준비한 불꽃축제에서 극진한 대접을 받는다.</summary>
-    <published>2021-08-09T12:01:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14853</id>
-    <title>&lt;원신&gt; 데인 여담 - 「요이미야: 염초 불꽃의 속삭임」</title>
-    <updated>2021-08-10T18:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081012323479707.jpg"><br/><br/>사람들의 소망을 담은 폭죽이 달이 차오르고 해가 떠오르는 것처럼 하늘을 수놓는다.
-그 모습이 꼭 소녀의 눈동자에 비친 별처럼 밝게 빛난다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14853"><원신> 데인 여담 - 「요이미야: 염초 불꽃의 속삭임」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14853" rel="alternate"/>
-    <summary>사람들의 소망을 담은 폭죽이 달이 차오르고 해가 떠오르는 것처럼 하늘을 수놓는다.
-그 모습이 꼭 소녀의 눈동자에 비친 별처럼 밝게 빛난다.</summary>
-    <published>2021-08-10T18:01:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14887</id>
-    <title>「기관 디펜스·신묘한 국면」 콘텐츠 안내</title>
-    <updated>2021-08-11T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081019314987742.jpg"><br/><br/>「기관 디펜스 대리인」 코마가타의 노력으로 리월의 「보드게임·기관 디펜스」가 이나즈마에 전파됐어. 코마가타의 말에 따르면, 이번 「기관 디펜스」에는 특별한 신규 플레이 방법이 추가된 것 같다던데…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14887">「기관 디펜스·신묘한 국면」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14887" rel="alternate"/>
-    <summary>「기관 디펜스 대리인」 코마가타의 노력으로 리월의 「보드게임·기관 디펜스」가 이나즈마에 전파됐어. 코마가타의 말에 따르면, 이번 「기관 디펜스」에는 특별한 신규 플레이 방법이 추가된 것 같다던데…</summary>
-    <published>2021-08-11T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14890</id>
-    <title>&lt;원신&gt; 데인 여담 - 「사유: 풍풍륜」</title>
-    <updated>2021-08-11T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210811/2021081110250631464.jpg"><br/><br/>작은 닌자 사유의 행동 규칙은 바로 '음식은 가장 많이 먹으면서, 일은 가장 조금만 하자!'이다.
-이 방법으로 키가 클 수 있다면, 더할 나위 없을 것이다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/14890"><원신> 데인 여담 - 「사유: 풍풍륜」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/14890" rel="alternate"/>
-    <summary>작은 닌자 사유의 행동 규칙은 바로 '음식은 가장 많이 먹으면서, 일은 가장 조금만 하자!'이다.
-이 방법으로 키가 클 수 있다면, 더할 나위 없을 것이다.</summary>
-    <published>2021-08-11T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>15042</id>
     <title>「환영의 심류」 콘텐츠 안내</title>
@@ -947,5 +898,50 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17651" rel="alternate"/>
     <summary>여러분의 성원 아래 &lt;원신&gt;이 'TGA 2021 베스트 모바일 게임'을 수상했습니다. 함께해 주셔서 감사합니다!</summary>
     <published>2021-12-10T20:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17646</id>
+    <title>「아침 훈련 시간인데, 같이 등산 갈래?」 - 고로</title>
+    <updated>2021-12-11T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121018525531820.png"><br/><br/>오늘 소개할 캐릭터는 와타츠미군의 대장 - 고로야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17646">「아침 훈련 시간인데, 같이 등산 갈래?」 - 고로</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17646" rel="alternate"/>
+    <summary>오늘 소개할 캐릭터는 와타츠미군의 대장 - 고로야</summary>
+    <published>2021-12-11T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17693</id>
+    <title>「귀문투연」 기원: 「하나미자카 쾌걸·아라타키 이토(바위)」 확률 UP!</title>
+    <updated>2021-12-11T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211211/2021121100391028836.jpg"><br/><br/>이벤트 기간에 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17693">「귀문투연」 기원: 「하나미자카 쾌걸·아라타키 이토(바위)」 확률 UP!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17693" rel="alternate"/>
+    <summary>이벤트 기간에 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!</summary>
+    <published>2021-12-11T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17694</id>
+    <title>「신의 주조」 기원: 「양손검·쇄석의 붉은 뿔」, 「활·천공의 날개」 확률 UP!</title>
+    <updated>2021-12-11T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211211/2021121100531955464.jpg"><br/><br/>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17694">「신의 주조」 기원: 「양손검·쇄석의 붉은 뿔」, 「활·천공의 날개」 확률 UP!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17694" rel="alternate"/>
+    <summary>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화하세요!</summary>
+    <published>2021-12-11T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17613</id>
+    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「고로: 뾰족 귀의 상승 대장」</title>
+    <updated>2021-12-11T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121011050552368.jpg"><br/><br/>출전하기 전에 고로 대장의 귀를 만지면 상승의 행운을 얻을 수 있다는 소문이 있다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17613"><원신> 신규 캐릭터 플레이 - 「고로: 뾰족 귀의 상승 대장」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17613" rel="alternate"/>
+    <summary>출전하기 전에 고로 대장의 귀를 만지면 상승의 행운을 얻을 수 있다는 소문이 있다</summary>
+    <published>2021-12-11T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17617</id>
+    <title>「눈보라 속 그림자」2.3 버전 이벤트 알림 제2회</title>
+    <updated>2021-12-11T12:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121011140785820.jpg"><br/><br/>이제 곧 새로운 이벤트들이 오픈될 예정이야. 같이 내용을 확인해 보자구~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17617">「눈보라 속 그림자」2.3 버전 이벤트 알림 제2회</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17617" rel="alternate"/>
+    <summary>이제 곧 새로운 이벤트들이 오픈될 예정이야. 같이 내용을 확인해 보자구~</summary>
+    <published>2021-12-11T12:10:00+09:00</published>
   </entry>
 </feed>

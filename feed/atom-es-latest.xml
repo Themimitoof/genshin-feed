@@ -2,58 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-11T03:10:39.712013+00:00</updated>
+  <updated>2021-12-11T04:13:09.220077+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15330</id>
-    <title>Función de predescarga</title>
-    <updated>2021-08-27T11:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082710583659385.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15330">Función de predescarga</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15330" rel="alternate"/>
-    <summary>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</summary>
-    <published>2021-08-27T11:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15292</id>
-    <title>"Mi arco y mis flechas están al servicio de los demás"</title>
-    <updated>2021-08-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611150941706.jpg"><br/><br/>¡Hola a todos!Hoy vamos a presentarles a una joven que viene de otro mundo, Aloy. ¡Echémosle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15292">"Mi arco y mis flechas están al servicio de los demás"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15292" rel="alternate"/>
-    <summary>¡Hola a todos!Hoy vamos a presentarles a una joven que viene de otro mundo, Aloy. ¡Echémosle un vistazo!</summary>
-    <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15315</id>
-    <title>Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</title>
-    <updated>2021-08-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
-    <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
-    <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15346</id>
-    <title>"Alcanzar la eternidad que desea la todopoderosa Shogun, eso es a lo que aspiro".</title>
-    <updated>2021-08-29T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720451168999.jpg"><br/><br/>Siendo una de las tres comisiones que conforman el Triunvirato, la Comisión Tenryou es la encargada de salvaguardar la seguridad de toda Inazuma. Como general de tal Comisión, Sara carga sobre sus hombros la responsabilidad de garantizar la paz en la metrópoli.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15346">"Alcanzar la eternidad que desea la todopoderosa Shogun, eso es a lo que aspiro".</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15346" rel="alternate"/>
-    <summary>Siendo una de las tres comisiones que conforman el Triunvirato, la Comisión Tenryou es la encargada de salvaguardar la seguridad de toda Inazuma. Como general de tal Comisión, Sara carga sobre sus hombros la responsabilidad de garantizar la paz en la metrópoli.</summary>
-    <published>2021-08-29T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15366</id>
-    <title>Demo de personaje de Genshin Impact - Kujou Sara: La voluntad del trueno</title>
-    <updated>2021-08-29T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082813025571545.jpg"><br/><br/>Cumplir la voluntad de Narukami y alcanzar la eternidad que desea la todopoderosa Shogun.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15366">Demo de personaje de Genshin Impact - Kujou Sara: La voluntad del trueno</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15366" rel="alternate"/>
-    <summary>Cumplir la voluntad de Narukami y alcanzar la eternidad que desea la todopoderosa Shogun.</summary>
-    <published>2021-08-29T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15415</id>
     <title>Aviso de actualización de la versión 2.1 «Una luna sobre los mortales»</title>
@@ -921,5 +876,51 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
     <link href="https://genshin.mihoyo.com/es/news/detail/17654" rel="alternate"/>
     <summary>Gracias a su apoyo incondicional, Genshin Impact obtuvo el premio "TGA 2021 al Mejor juego para móviles". ¡Gracias por acompañarnos en este viaje!</summary>
     <published>2021-12-10T20:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17591</id>
+    <title>Demo de nuevo personaje de Genshin Impact - Gorou: El general invicto de orejas puntiagudas</title>
+    <updated>2021-12-11T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915252693266.jpg"><br/><br/>¿Escuchaste? Si acaricias las orejas del general Gorou, tendrás suerte en la batalla.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17591">Demo de nuevo personaje de Genshin Impact - Gorou: El general invicto de orejas puntiagudas</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17591" rel="alternate"/>
+    <summary>¿Escuchaste? Si acaricias las orejas del general Gorou, tendrás suerte en la batalla.</summary>
+    <published>2021-12-11T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17645</id>
+    <title>«Ya salió el sol, es hora de entrenar. ¿Vamos a subir una montaña?»</title>
+    <updated>2021-12-11T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121018523954651.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17645">«Ya salió el sol, es hora de entrenar. ¿Vamos a subir una montaña?»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17645" rel="alternate"/>
+    <published>2021-12-11T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17669</id>
+    <title>Gachapón «Contienda oni»: ¡Probabilidad de obtención aumentada para Arataki Itto!</title>
+    <updated>2021-12-11T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020135627662.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17669">Gachapón «Contienda oni»: ¡Probabilidad de obtención aumentada para Arataki Itto!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17669" rel="alternate"/>
+    <summary>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-12-11T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17672</id>
+    <title>¡Nuevo gachapón «Encarnación divina» disponible! Probabilidad de obtención aumentada para Espadón Cornirrojo y Alas Celestiales</title>
+    <updated>2021-12-11T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020182172799.jpg"><br/><br/>En el evento de gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17672">¡Nuevo gachapón «Encarnación divina» disponible! Probabilidad de obtención aumentada para Espadón Cornirrojo y Alas Celestiales</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17672" rel="alternate"/>
+    <summary>En el evento de gachapón promocional «Encarnación divina», ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
+    <published>2021-12-11T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17554</id>
+    <title>Paimon te trae una recopilación de los eventos de la versión 2.3 (II)</title>
+    <updated>2021-12-11T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120810540021992.jpg"><br/><br/>Se acercan muchos eventos nuevos, ¡echémosles un vistazo!
+El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡No se lo pierdan!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17554">Paimon te trae una recopilación de los eventos de la versión 2.3 (II)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17554" rel="alternate"/>
+    <summary>Se acercan muchos eventos nuevos, ¡echémosles un vistazo!
+El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡No se lo pierdan!</summary>
+    <published>2021-12-11T12:10:00+01:00</published>
   </entry>
 </feed>
