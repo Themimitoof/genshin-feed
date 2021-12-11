@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2021-12-11T06:13:47.445531+00:00</updated>
+  <updated>2021-12-11T07:12:08.128640+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -1128,8 +1128,9 @@
     <id>17586</id>
     <title>Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.3 ช่วงที่ 2</title>
     <updated>2021-12-11T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915092137075.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17586">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.3 ช่วงที่ 2</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915092137075.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17586">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.3 ช่วงที่ 2</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17586" rel="alternate"/>
+    <summary/>
     <published>2021-12-11T12:10:00+07:00</published>
   </entry>
   <entry>
@@ -1963,8 +1964,9 @@
     <id>17586</id>
     <title>Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.3 ช่วงที่ 2</title>
     <updated>2021-12-11T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915092137075.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17586">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.3 ช่วงที่ 2</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915092137075.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17586">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.3 ช่วงที่ 2</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17586" rel="alternate"/>
+    <summary/>
     <published>2021-12-11T12:10:00+07:00</published>
   </entry>
 </feed>

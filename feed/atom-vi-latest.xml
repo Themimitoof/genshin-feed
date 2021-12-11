@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2021-12-11T06:13:47.500013+00:00</updated>
+  <updated>2021-12-11T07:12:08.176247+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -838,8 +838,9 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <id>17590</id>
     <title>Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.3 - Kỳ II</title>
     <updated>2021-12-11T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915140447172.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17590">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.3 - Kỳ II</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915140447172.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17590">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.3 - Kỳ II</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17590" rel="alternate"/>
+    <summary/>
     <published>2021-12-11T12:10:00+07:00</published>
   </entry>
 </feed>
