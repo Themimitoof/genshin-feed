@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-12-11T05:09:53.014751+00:00</updated>
+  <updated>2021-12-11T06:12:33.812762+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -907,8 +907,9 @@
     <id>17557</id>
     <title>派蒙帶你一圖流看活動——2.3版本活動快報第二期</title>
     <updated>2021-12-11T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120811403263512.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17557">派蒙帶你一圖流看活動——2.3版本活動快報第二期</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120811403263512.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17557">派蒙帶你一圖流看活動——2.3版本活動快報第二期</a>]]></content>
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17557" rel="alternate"/>
+    <summary/>
     <published>2021-12-11T12:10:00+08:00</published>
   </entry>
 </feed>
