@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:23 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -253,14 +253,6 @@
       <content:encoded><![CDATA[新版本要來啦！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/8428">「明霄昇海平」1.3版本更新通知</a>]]></content:encoded>
       <guid isPermaLink="false">8428</guid>
       <pubDate>Mon, 01 Feb 2021 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>「幻影心流」玩法說明</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15045</link>
-      <description>「幻影心流」活動即將開啟！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210819/2021081914243882912.jpg"><br/><br/>「幻影心流」活動即將開啟！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15045">「幻影心流」玩法說明</a>]]></content:encoded>
-      <guid isPermaLink="false">15045</guid>
-      <pubDate>Thu, 19 Aug 2021 14:17:23 +0800</pubDate>
     </item>
     <item>
       <title>2.1版本預告：「韶光撫月，天下人間」｜原神</title>
@@ -1057,12 +1049,12 @@
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0800</pubDate>
     </item>
     <item>
-      <title>【稻妻手帳】海祇島與清籟島篇</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15226</link>
-      <description>在2.1版本中，稻妻區域將開啟全新島嶼——「清籟島」和「海祇島」，這兩座島嶼有著截然不同的風土人情，讓我們一起來先行瞭解一下這兩座神秘的島嶼吧！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517513659286.jpg"><br/><br/>在2.1版本中，稻妻區域將開啟全新島嶼——「清籟島」和「海祇島」，這兩座島嶼有著截然不同的風土人情，讓我們一起來先行瞭解一下這兩座神秘的島嶼吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15226">【稻妻手帳】海祇島與清籟島篇</a>]]></content:encoded>
-      <guid isPermaLink="false">15226</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0800</pubDate>
+      <title>角色展示-「荒瀧一斗：堂堂參上！」｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17629</link>
+      <description>那顆經常用絨布悉心擦拭的神之眼，曾經一度離開荒瀧一斗的身邊。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121015452662191.jpg"><br/><br/>那顆經常用絨布悉心擦拭的神之眼，曾經一度離開荒瀧一斗的身邊。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17629">角色展示-「荒瀧一斗：堂堂參上！」｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">17629</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0800</pubDate>
     </item>
     <item>
       <title>雷電將軍角色預告——「噩夢」｜原神</title>
@@ -1857,6 +1849,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120811403263512.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17557">派蒙帶你一圖流看活動——2.3版本活動快報第二期</a>]]></description>
       <guid isPermaLink="false">17557</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>角色展示-「荒瀧一斗：堂堂參上！」｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17629</link>
+      <description>那顆經常用絨布悉心擦拭的神之眼，曾經一度離開荒瀧一斗的身邊。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121015452662191.jpg"><br/><br/>那顆經常用絨布悉心擦拭的神之眼，曾經一度離開荒瀧一斗的身邊。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17629">角色展示-「荒瀧一斗：堂堂參上！」｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">17629</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

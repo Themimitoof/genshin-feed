@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:19 +0000</lastBuildDate>
-    <item>
-      <title>Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15235</link>
-      <description>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518314437499.jpg"><br/><br/>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15235">Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</a>]]></content:encoded>
-      <guid isPermaLink="false">15235</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:08 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Histoire de personnage | Shogun Raiden : « Cauchemar »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15247</link>
@@ -747,6 +739,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120817173122362.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17562">Paimon vous présente un aperçu des événements de la version 2.3 - Partie II</a>]]></description>
       <guid isPermaLink="false">17562</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Démo personnage : « Arataki Itto : Toujours avec panache ! »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17634</link>
+      <description>Cet œil divin, qui était souvent poli avec soin, a autrefois été arraché à Arataki Itto.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121017303240846.jpg"><br/><br/>Cet œil divin, qui était souvent poli avec soin, a autrefois été arraché à Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17634">Genshin Impact - Démo personnage : « Arataki Itto : Toujours avec panache ! »</a>]]></content:encoded>
+      <guid isPermaLink="false">17634</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

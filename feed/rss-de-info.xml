@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:26 +0000</lastBuildDate>
-    <item>
-      <title>Vorschauvideo zu Version 2.1 von Genshin Impact: „Vom Mond beschienene Welt“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15070</link>
-      <description>Im Mondlicht haben sich die Menschen versammelt, um ihre liebsten Wünsche zu teilen. So erblickten sie Blitze und heftige Flammen und freuten sich über den Rauch der Herde und das Licht der Laternen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014025720399.jpg"><br/><br/>Im Mondlicht haben sich die Menschen versammelt, um ihre liebsten Wünsche zu teilen. So erblickten sie Blitze und heftige Flammen und freuten sich über den Rauch der Herde und das Licht der Laternen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15070">Vorschauvideo zu Version 2.1 von Genshin Impact: „Vom Mond beschienene Welt“</a>]]></content:encoded>
-      <guid isPermaLink="false">15070</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:25 +0000</lastBuildDate>
     <item>
       <title>Zurücksetzung der Verdopplung beim ersten Aufladen bei Genshin Impact</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15104</link>
@@ -848,6 +840,14 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120811023057285.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17555">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.3 – Teil 2</a>]]></description>
       <guid isPermaLink="false">17555</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17623</link>
+      <description>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014263066587.jpg"><br/><br/>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17623">Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</a>]]></content:encoded>
+      <guid isPermaLink="false">17623</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

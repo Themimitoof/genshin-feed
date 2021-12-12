@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:45 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] Video nhân vật Raiden Shogun - Ác Mộng</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15253</link>
-      <description>Hình bóng xưa kia nay chỉ còn là mộng ảo. Thiên hạ nhân tâm, cô tịch vĩnh hằng.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519560144733.jpg"><br/><br/>Hình bóng xưa kia nay chỉ còn là mộng ảo. Thiên hạ nhân tâm, cô tịch vĩnh hằng.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15253">[Genshin Impact] Video nhân vật Raiden Shogun - Ác Mộng</a>]]></content:encoded>
-      <guid isPermaLink="false">15253</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:14:25 +0000</lastBuildDate>
     <item>
       <title>"Cảnh sắc vĩnh hằng ngàn năm như một, nhưng thế gian loài người lại như ảo ảnh mây bay."</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/15290</link>
@@ -719,6 +711,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120915140447172.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17590">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.3 - Kỳ II</a>]]></description>
       <guid isPermaLink="false">17590</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Giới thiệu nhân vật trong Genshin Impact - Arataki Itto: Đường Hoàng Tham Gia!</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17641</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121018302456434.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17641">Giới thiệu nhân vật trong Genshin Impact - Arataki Itto: Đường Hoàng Tham Gia!</a>]]></description>
+      <guid isPermaLink="false">17641</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

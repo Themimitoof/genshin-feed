@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:29 +0000</lastBuildDate>
-    <item>
-      <title>Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15072</link>
-      <description>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014073664118.png"><br/><br/>La Orquesta Sinfónica de Inazuma fue grabada en la Ciudad de la Ópera de Tokio (Japón) por la Orquesta Filarmónica de Tokio, la más antigua de Japón. Los principales artistas de música folclórica de Japón interpretan juntos la banda sonora de Inazuma, y la pieza "Señor de la Tormenta" (Overlord of the Thunderstorm).<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15072">Mundo de calma eterna (Realm of Tranquil Eternity): Orquesta Sinfónica de Inazuma en vivo</a>]]></content:encoded>
-      <guid isPermaLink="false">15072</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:33 +0000</lastBuildDate>
     <item>
       <title>¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</title>
       <link>https://genshin.mihoyo.com/es/news/detail/15115</link>
@@ -816,6 +808,13 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
 El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡No se lo pierdan!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17554">Paimon te trae una recopilación de los eventos de la versión 2.3 (II)</a>]]></content:encoded>
       <guid isPermaLink="false">17554</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Demo de nuevo personaje de Genshin Impact - Arataki Itto: ¡Con todos ustedes...!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17631</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121016582418898.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17631">Demo de nuevo personaje de Genshin Impact - Arataki Itto: ¡Con todos ustedes...!</a>]]></description>
+      <guid isPermaLink="false">17631</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

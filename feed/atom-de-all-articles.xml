@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2021-12-12T03:10:28.423936+00:00</updated>
+  <updated>2021-12-12T04:13:30.939958+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -288,15 +288,6 @@ Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15070</id>
-    <title>Vorschauvideo zu Version 2.1 von Genshin Impact: „Vom Mond beschienene Welt“</title>
-    <updated>2021-08-20T22:45:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014025720399.jpg"><br/><br/>Im Mondlicht haben sich die Menschen versammelt, um ihre liebsten Wünsche zu teilen. So erblickten sie Blitze und heftige Flammen und freuten sich über den Rauch der Herde und das Licht der Laternen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15070">Vorschauvideo zu Version 2.1 von Genshin Impact: „Vom Mond beschienene Welt“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15070" rel="alternate"/>
-    <summary>Im Mondlicht haben sich die Menschen versammelt, um ihre liebsten Wünsche zu teilen. So erblickten sie Blitze und heftige Flammen und freuten sich über den Rauch der Herde und das Licht der Laternen.</summary>
-    <published>2021-08-20T22:45:00+02:00</published>
   </entry>
   <entry>
     <id>15104</id>
@@ -1231,13 +1222,13 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
     <published>2021-12-11T12:10:00+01:00</published>
   </entry>
   <entry>
-    <id>15232</id>
-    <title>Notizen über Inazuma – Watatsumi und Seirai</title>
-    <updated>2021-08-26T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518005178820.jpg"><br/><br/>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15232">Notizen über Inazuma – Watatsumi und Seirai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15232" rel="alternate"/>
-    <summary>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!</summary>
-    <published>2021-08-26T10:30:00+02:00</published>
+    <id>17623</id>
+    <title>Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</title>
+    <updated>2021-12-12T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014263066587.jpg"><br/><br/>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17623">Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17623" rel="alternate"/>
+    <summary>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.</summary>
+    <published>2021-12-12T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>15243</id>
@@ -2178,5 +2169,14 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
     <link href="https://genshin.mihoyo.com/de/news/detail/17555" rel="alternate"/>
     <summary/>
     <published>2021-12-11T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17623</id>
+    <title>Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</title>
+    <updated>2021-12-12T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014263066587.jpg"><br/><br/>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17623">Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17623" rel="alternate"/>
+    <summary>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.</summary>
+    <published>2021-12-12T12:00:00+01:00</published>
   </entry>
 </feed>

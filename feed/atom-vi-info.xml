@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2021-12-12T03:10:46.131927+00:00</updated>
+  <updated>2021-12-12T04:14:27.399174+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>14867</id>
-    <title>[Genshin Impact] - Sayu: Bánh Xe Gió Lăn Tròn</title>
-    <updated>2021-08-11T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081017290119164.jpg"><br/><br/>Ăn món nhiều năng lượng nhất, làm công việc tốn ít sức nhất, chính là quy tắc của ninja nhỏ bé - Sayu.
-Nếu làm vậy có thể trở nên cao lớn thì còn gì bằng.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/14867">[Genshin Impact] - Sayu: Bánh Xe Gió Lăn Tròn</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/14867" rel="alternate"/>
-    <summary>Ăn món nhiều năng lượng nhất, làm công việc tốn ít sức nhất, chính là quy tắc của ninja nhỏ bé - Sayu.
-Nếu làm vậy có thể trở nên cao lớn thì còn gì bằng.</summary>
-    <published>2021-08-11T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15035</id>
     <title>Hướng dẫn cách chơi "Trường Phái Geneishin"</title>
@@ -852,5 +841,13 @@ Tông chủ Shousen thuộc "Shinryuu" của Inazuma đồng ý mở một cuộ
     <link href="https://genshin.mihoyo.com/vi/news/detail/17590" rel="alternate"/>
     <summary/>
     <published>2021-12-11T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17641</id>
+    <title>Giới thiệu nhân vật trong Genshin Impact - Arataki Itto: Đường Hoàng Tham Gia!</title>
+    <updated>2021-12-12T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121018302456434.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17641">Giới thiệu nhân vật trong Genshin Impact - Arataki Itto: Đường Hoàng Tham Gia!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17641" rel="alternate"/>
+    <published>2021-12-12T12:00:00+07:00</published>
   </entry>
 </feed>

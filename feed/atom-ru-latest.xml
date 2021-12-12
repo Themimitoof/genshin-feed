@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-12-12T03:10:40.799076+00:00</updated>
+  <updated>2021-12-12T04:14:07.368507+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15374</id>
-    <title>«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-08-29T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817242216614.jpg"><br/><br/>Исполнение воли Наруками и достижение «вечности» для сёгуна<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15374">«Грозовая воля» Кудзё Сара (Электро) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15374" rel="alternate"/>
-    <summary>Исполнение воли Наруками и достижение «вечности» для сёгуна</summary>
-    <published>2021-08-29T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>15382</id>
     <title>Об обновлении 2.1 «Лунное утешение для бренного мира»</title>
@@ -924,5 +915,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17556" rel="alternate"/>
     <summary>В скором времени появится множество новых событий. Сейчас расскажем!</summary>
     <published>2021-12-11T12:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17621</id>
+    <title>«Великолепнейший» Аратаки Итто - Новый персонаж | Genshin Impact</title>
+    <updated>2021-12-12T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014241610326.jpg"><br/><br/>Когда-то у Аратаки Итто отобрали Глаз Бога, который он с такой любовью начищал фланелькой.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17621">«Великолепнейший» Аратаки Итто - Новый персонаж | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17621" rel="alternate"/>
+    <summary>Когда-то у Аратаки Итто отобрали Глаз Бога, который он с такой любовью начищал фланелькой.</summary>
+    <published>2021-12-12T12:00:00+03:00</published>
   </entry>
 </feed>

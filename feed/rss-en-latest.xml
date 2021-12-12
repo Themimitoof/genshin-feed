@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:15 +0000</lastBuildDate>
-    <item>
-      <title>"Lunar Realm" Event: Go fishing and obtain the event-exclusive fishing rod!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15386</link>
-      <description>During the event, join Inazuman fisherwoman Kujirai Momiji on her journey to chase the moon, in pursuit of a legendary great fish called the "Lunar Leviathan." After completing a series of quests and challenges, you can obtain the event-exclusive fishing rod "Moonstringer," Primogems, Mysterious Fish Furnishing, and other rewards.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819293042834.jpg"><br/><br/>During the event, join Inazuman fisherwoman Kujirai Momiji on her journey to chase the moon, in pursuit of a legendary great fish called the "Lunar Leviathan." After completing a series of quests and challenges, you can obtain the event-exclusive fishing rod "Moonstringer," Primogems, Mysterious Fish Furnishing, and other rewards.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15386">"Lunar Realm" Event: Go fishing and obtain the event-exclusive fishing rod!</a>]]></content:encoded>
-      <guid isPermaLink="false">15386</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:00 +0000</lastBuildDate>
     <item>
       <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15390</link>
@@ -879,6 +871,18 @@ It's hard to tell if this is true, but it can't be denied that Gorou's pointed e
 "Bantan Sango Case Files: The Warrior Dog" event is currently underway, don't miss out!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17553">Paimon's Sneak Peek at Version 2.3 New Events - Phase II</a>]]></content:encoded>
       <guid isPermaLink="false">17553</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Character Demo - "Arataki Itto: Make Way for the One and Oni!" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17619</link>
+      <description>The Vision, which was often carefully cleaned with flannel, had once been taken away from Arataki Itto.
+But Itto has never been discouraged. On the contrary, after overcoming various hardships to regain his elemental power, his fighting spirit has burned even brighter.
+Yes, that's right. I guess his mettle is exactly what makes him the boss of the Arataki Gang.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014180196504.jpg"><br/><br/>The Vision, which was often carefully cleaned with flannel, had once been taken away from Arataki Itto.
+But Itto has never been discouraged. On the contrary, after overcoming various hardships to regain his elemental power, his fighting spirit has burned even brighter.
+Yes, that's right. I guess his mettle is exactly what makes him the boss of the Arataki Gang.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17619">Character Demo - "Arataki Itto: Make Way for the One and Oni!" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17619</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

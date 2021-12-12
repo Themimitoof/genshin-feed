@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:15 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -277,16 +277,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Yoimiya : Le langage des étincelles</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14833</link>
-      <description>Les feux d'artifices qui renferment les souhaits des gens sont éternels, tels le soleil et la lune. 
-Tout comme les étoiles dans les yeux d'une jeune fille.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081010335426035.jpg"><br/><br/>Les feux d'artifices qui renferment les souhaits des gens sont éternels, tels le soleil et la lune. 
-Tout comme les étoiles dans les yeux d'une jeune fille.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14833">Genshin Impact - Yoimiya : Le langage des étincelles</a>]]></content:encoded>
-      <guid isPermaLink="false">14833</guid>
-      <pubDate>Tue, 10 Aug 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Théâtre mécanique - Scène des merveilles »</title>
@@ -1026,12 +1016,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0100</pubDate>
     </item>
     <item>
-      <title>Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15235</link>
-      <description>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518314437499.jpg"><br/><br/>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15235">Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</a>]]></content:encoded>
-      <guid isPermaLink="false">15235</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0200</pubDate>
+      <title>Genshin Impact - Démo personnage : « Arataki Itto : Toujours avec panache ! »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17634</link>
+      <description>Cet œil divin, qui était souvent poli avec soin, a autrefois été arraché à Arataki Itto.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121017303240846.jpg"><br/><br/>Cet œil divin, qui était souvent poli avec soin, a autrefois été arraché à Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17634">Genshin Impact - Démo personnage : « Arataki Itto : Toujours avec panache ! »</a>]]></content:encoded>
+      <guid isPermaLink="false">17634</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Histoire de personnage | Shogun Raiden : « Cauchemar »</title>
@@ -1763,6 +1753,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120817173122362.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17562">Paimon vous présente un aperçu des événements de la version 2.3 - Partie II</a>]]></description>
       <guid isPermaLink="false">17562</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Démo personnage : « Arataki Itto : Toujours avec panache ! »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17634</link>
+      <description>Cet œil divin, qui était souvent poli avec soin, a autrefois été arraché à Arataki Itto.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121017303240846.jpg"><br/><br/>Cet œil divin, qui était souvent poli avec soin, a autrefois été arraché à Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17634">Genshin Impact - Démo personnage : « Arataki Itto : Toujours avec panache ! »</a>]]></content:encoded>
+      <guid isPermaLink="false">17634</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

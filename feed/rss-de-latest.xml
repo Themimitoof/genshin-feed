@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:25 +0000</lastBuildDate>
-    <item>
-      <title>Notizen über Inazuma – Watatsumi und Seirai</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15232</link>
-      <description>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518005178820.jpg"><br/><br/>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15232">Notizen über Inazuma – Watatsumi und Seirai</a>]]></content:encoded>
-      <guid isPermaLink="false">15232</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:23 +0000</lastBuildDate>
     <item>
       <title>Figurenvorschau von Genshin Impact für Shougun Raiden – „Albtraum“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15243</link>
@@ -856,6 +848,14 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120811023057285.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17555">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.3 – Teil 2</a>]]></description>
       <guid isPermaLink="false">17555</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17623</link>
+      <description>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014263066587.jpg"><br/><br/>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17623">Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</a>]]></content:encoded>
+      <guid isPermaLink="false">17623</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

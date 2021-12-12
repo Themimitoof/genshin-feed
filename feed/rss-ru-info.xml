@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:41 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - сброс бонуса первого пополнения</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15099</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018372567654.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15099">Genshin Impact - сброс бонуса первого пополнения</a>]]></description>
-      <guid isPermaLink="false">15099</guid>
-      <pubDate>Fri, 20 Aug 2021 23:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:14:09 +0000</lastBuildDate>
     <item>
       <title>Realm of Tranquil Eternity: Genshin Impact, Симфонический оркестр Инадзумы</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15068</link>
@@ -819,6 +812,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211208/2021120811184091411.jpg"><br/><br/>В скором времени появится множество новых событий. Сейчас расскажем!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17556">Обзор событий версии 2.3 - Выпуск II</a>]]></content:encoded>
       <guid isPermaLink="false">17556</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Великолепнейший» Аратаки Итто - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17621</link>
+      <description>Когда-то у Аратаки Итто отобрали Глаз Бога, который он с такой любовью начищал фланелькой.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014241610326.jpg"><br/><br/>Когда-то у Аратаки Итто отобрали Глаз Бога, который он с такой любовью начищал фланелькой.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17621">«Великолепнейший» Аратаки Итто - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17621</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

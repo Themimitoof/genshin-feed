@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-12T03:10:40.745663+00:00</updated>
+  <updated>2021-12-12T04:14:07.313356+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -353,15 +353,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>15100</id>
-    <title>"Genshin Impact" - Redefinição do Bônus Duplo de Primeira Recarga</title>
-    <updated>2021-08-20T23:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018462197004.jpg"><br/><br/>Após a atualização da Versão 2.1, todos os produtos na interface de Recarga de Cristais serão redefinidos para o modo de bônus duplo de primeira recarga.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15100">"Genshin Impact" - Redefinição do Bônus Duplo de Primeira Recarga</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15100" rel="alternate"/>
-    <summary>Após a atualização da Versão 2.1, todos os produtos na interface de Recarga de Cristais serão redefinidos para o modo de bônus duplo de primeira recarga.</summary>
-    <published>2021-08-20T23:30:00+01:00</published>
   </entry>
   <entry>
     <id>15053</id>
@@ -1259,13 +1250,13 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <published>2021-12-11T12:10:00+00:00</published>
   </entry>
   <entry>
-    <id>15410</id>
-    <title>Evento "Acariciar Gentilmente a Lua": Participe para resgatar a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)"!</title>
-    <updated>2021-08-30T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916135067127.jpg"><br/><br/>Durante o período do evento, conclua a missão "Contos da Caça à Lua", ou participe dos desafios "Caçador do Luar" e "Trilha das Iguarias" para obter a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)", e seus Materiais de Refinamento, Coroa da Sabedoria, Gemas Essenciais, Receitas, entre outras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15410">Evento "Acariciar Gentilmente a Lua": Participe para resgatar a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15410" rel="alternate"/>
-    <summary>Durante o período do evento, conclua a missão "Contos da Caça à Lua", ou participe dos desafios "Caçador do Luar" e "Trilha das Iguarias" para obter a arma exclusiva do evento "Lorde do Mar Luxuoso (Espadão)", e seus Materiais de Refinamento, Coroa da Sabedoria, Gemas Essenciais, Receitas, entre outras recompensas.</summary>
-    <published>2021-08-30T12:00:00+01:00</published>
+    <id>17686</id>
+    <title>Demo de Novo Personagem - "Arataki Itto: Abram Caminho Para o Único e Poderoso Oni" | Genshin Impact</title>
+    <updated>2021-12-12T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020380133111.jpg"><br/><br/>Sua Visão, que muitas vezes era cuidadosamente limpada com um pano de flanela, já foi uma vez tirada dele no passado.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17686">Demo de Novo Personagem - "Arataki Itto: Abram Caminho Para o Único e Poderoso Oni" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17686" rel="alternate"/>
+    <summary>Sua Visão, que muitas vezes era cuidadosamente limpada com um pano de flanela, já foi uma vez tirada dele no passado.</summary>
+    <published>2021-12-12T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>15411</id>
@@ -2163,5 +2154,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <summary>Vários novos eventos estão para chegar, confira agora mesmo~
 Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Viajantes, não percam a oportunidade de embarcar nesta aventura!</summary>
     <published>2021-12-11T12:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17686</id>
+    <title>Demo de Novo Personagem - "Arataki Itto: Abram Caminho Para o Único e Poderoso Oni" | Genshin Impact</title>
+    <updated>2021-12-12T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121020380133111.jpg"><br/><br/>Sua Visão, que muitas vezes era cuidadosamente limpada com um pano de flanela, já foi uma vez tirada dele no passado.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17686">Demo de Novo Personagem - "Arataki Itto: Abram Caminho Para o Único e Poderoso Oni" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17686" rel="alternate"/>
+    <summary>Sua Visão, que muitas vezes era cuidadosamente limpada com um pano de flanela, já foi uma vez tirada dele no passado.</summary>
+    <published>2021-12-12T12:00:00+00:00</published>
   </entry>
 </feed>

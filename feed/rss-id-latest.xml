@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Sun, 12 Dec 2021 03:10:31 +0000</lastBuildDate>
-    <item>
-      <title>"Harapanku adalah mewujudkan Keabadian yang diimpikan Shogun."</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/15350</link>
-      <description>Hari ini, yuk kita kenalan dengan Jenderal Tenryou Commission — Kujou Sara!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721021945314.jpg"><br/><br/>Hari ini, yuk kita kenalan dengan Jenderal Tenryou Commission — Kujou Sara!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15350">"Harapanku adalah mewujudkan Keabadian yang diimpikan Shogun."</a>]]></content:encoded>
-      <guid isPermaLink="false">15350</guid>
-      <pubDate>Sun, 29 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Dec 2021 04:13:38 +0000</lastBuildDate>
     <item>
       <title>Demo Karakter - "Kujou Sara: Pengabdi Kehendak Petir" | Genshin Impact </title>
       <link>https://genshin.mihoyo.com/id/news/detail/15403</link>
@@ -825,6 +817,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!<br><br>Read more on <a h
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121011152667414.jpg"><br/><br/>Ada banyak event baru yang akan dibuka dalam waktu dekat, yuk kita lihat ada apa saja~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17618">Intip Preview Event Baru v2.3 Bersama Paimon - Edisi 2</a>]]></content:encoded>
       <guid isPermaLink="false">17618</guid>
       <pubDate>Sat, 11 Dec 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Demo Karakter — "Arataki Itto: Buka Jalan untuk Oni Terhebat Sepanjang Masa!" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17627</link>
+      <description>Vision yang selalu dibersihkannya secara hati-hati dengan kain beludru, pernah direnggut dari Arataki Itto.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014551898168.jpg"><br/><br/>Vision yang selalu dibersihkannya secara hati-hati dengan kain beludru, pernah direnggut dari Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17627">Demo Karakter — "Arataki Itto: Buka Jalan untuk Oni Terhebat Sepanjang Masa!" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17627</guid>
+      <pubDate>Sun, 12 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

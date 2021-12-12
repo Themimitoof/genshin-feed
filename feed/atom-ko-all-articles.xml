@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-12T03:10:38.332082+00:00</updated>
+  <updated>2021-12-12T04:13:59.203475+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -385,15 +385,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15042</id>
-    <title>「환영의 심류」 콘텐츠 안내</title>
-    <updated>2021-08-19T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210818/2021081820391837700.jpg"><br/><br/>「환영의 심류」 이벤트 오픈 예정!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15042">「환영의 심류」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15042" rel="alternate"/>
-    <summary>「환영의 심류」 이벤트 오픈 예정!</summary>
-    <published>2021-08-19T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>15101</id>
@@ -1322,15 +1313,13 @@
     <published>2021-12-11T12:10:00+09:00</published>
   </entry>
   <entry>
-    <id>15324</id>
-    <title>&lt;원신&gt; 캐릭터 플레이 - 「에일로이: 신기한 사냥」</title>
-    <updated>2021-08-27T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619280830502.jpg"><br/><br/>훌륭한 사냥꾼은 항상 스릴 있고 신기한 사냥터를 찾아다닌다.
-티바트라는 이 신기한 세계가 바로 에일로이가 마주한 새로운 도전이다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15324"><원신> 캐릭터 플레이 - 「에일로이: 신기한 사냥」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15324" rel="alternate"/>
-    <summary>훌륭한 사냥꾼은 항상 스릴 있고 신기한 사냥터를 찾아다닌다.
-티바트라는 이 신기한 세계가 바로 에일로이가 마주한 새로운 도전이다.</summary>
-    <published>2021-08-27T12:01:00+09:00</published>
+    <id>17625</id>
+    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「아라타키 이토: 당당히 참전!」</title>
+    <updated>2021-12-12T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014494081033.jpg"><br/><br/>융단으로 정성스럽게 닦는 신의 눈은 한때 아라타키 이토의 곁을 떠난 적이 있다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17625"><원신> 신규 캐릭터 플레이 - 「아라타키 이토: 당당히 참전!」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17625" rel="alternate"/>
+    <summary>융단으로 정성스럽게 닦는 신의 눈은 한때 아라타키 이토의 곁을 떠난 적이 있다.</summary>
+    <published>2021-12-12T12:01:00+09:00</published>
   </entry>
   <entry>
     <id>15381</id>
@@ -2253,5 +2242,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17617" rel="alternate"/>
     <summary>이제 곧 새로운 이벤트들이 오픈될 예정이야. 같이 내용을 확인해 보자구~</summary>
     <published>2021-12-11T12:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17625</id>
+    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「아라타키 이토: 당당히 참전!」</title>
+    <updated>2021-12-12T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014494081033.jpg"><br/><br/>융단으로 정성스럽게 닦는 신의 눈은 한때 아라타키 이토의 곁을 떠난 적이 있다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17625"><원신> 신규 캐릭터 플레이 - 「아라타키 이토: 당당히 참전!」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17625" rel="alternate"/>
+    <summary>융단으로 정성스럽게 닦는 신의 눈은 한때 아라타키 이토의 곁을 떠난 적이 있다.</summary>
+    <published>2021-12-12T12:01:00+09:00</published>
   </entry>
 </feed>
