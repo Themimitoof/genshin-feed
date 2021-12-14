@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2021-12-14T09:14:32.877790+00:00</updated>
+  <updated>2021-12-14T10:12:11.023794+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15068</id>
-    <title>Realm of Tranquil Eternity: Genshin Impact, Симфонический оркестр Инадзумы</title>
-    <updated>2021-08-21T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011334046440.png"><br/><br/>Realm of Tranquil Eternity: Genshin Impact<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15068">Realm of Tranquil Eternity: Genshin Impact, Симфонический оркестр Инадзумы</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15068" rel="alternate"/>
-    <summary>Realm of Tranquil Eternity: Genshin Impact</summary>
-    <published>2021-08-21T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>15122</id>
     <title>Превью-страница версии 2.1 «Лунное утешение для бренного мира» уже доступна!</title>
@@ -920,5 +911,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17621" rel="alternate"/>
     <summary>Когда-то у Аратаки Итто отобрали Глаз Бога, который он с такой любовью начищал фланелькой.</summary>
     <published>2021-12-12T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17711</id>
+    <title>Аратаки Итто: Невероятно сильный óни | Коллекция Genshin Impact</title>
+    <updated>2021-12-14T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121318070610777.jpg"><br/><br/>Для Аратаки Итто владение оружием на поле боя ничем не отличается от игры в карты или боёв жуков с соседскими детьми.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17711">Аратаки Итто: Невероятно сильный óни | Коллекция Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17711" rel="alternate"/>
+    <summary>Для Аратаки Итто владение оружием на поле боя ничем не отличается от игры в карты или боёв жуков с соседскими детьми.</summary>
+    <published>2021-12-14T18:00:00+03:00</published>
   </entry>
 </feed>

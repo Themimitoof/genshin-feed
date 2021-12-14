@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Dec 2021 09:14:20 +0000</lastBuildDate>
-    <item>
-      <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15390</link>
-      <description>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819383996293.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15390">Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</a>]]></content:encoded>
-      <guid isPermaLink="false">15390</guid>
-      <pubDate>Mon, 30 Aug 2021 12:01:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 10:11:30 +0000</lastBuildDate>
     <item>
       <title>Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15391</link>
@@ -883,6 +875,18 @@ But Itto has never been discouraged. On the contrary, after overcoming various h
 Yes, that's right. I guess his mettle is exactly what makes him the boss of the Arataki Gang.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17619">Character Demo - "Arataki Itto: Make Way for the One and Oni!" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17619</guid>
       <pubDate>Sun, 12 Dec 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Collected Miscellany - "Arataki Itto: Supreme Superstrength" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17730</link>
+      <description>In the eyes of Arataki Itto, wielding a weapon on the battlefield is no different from a game of cards or beetle fighting with the neighborhood kids.
+Both require a serious approach for the outcome to be determined righteously.
+If you lose, you must quietly accept your loss, but if you win, you can reign supreme.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319241645122.jpg"><br/><br/>In the eyes of Arataki Itto, wielding a weapon on the battlefield is no different from a game of cards or beetle fighting with the neighborhood kids.
+Both require a serious approach for the outcome to be determined righteously.
+If you lose, you must quietly accept your loss, but if you win, you can reign supreme.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17730">Collected Miscellany - "Arataki Itto: Supreme Superstrength" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17730</guid>
+      <pubDate>Tue, 14 Dec 2021 18:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-12-14T09:14:23.250642+00:00</updated>
+  <updated>2021-12-14T10:11:41.030683+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15260</id>
-    <title>雷電將軍角色預告——「噩夢」｜原神</title>
-    <updated>2021-08-26T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520161688003.jpg"><br/><br/>昔日流影，只存虛夢。天下人心，寂入恆常。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15260">雷電將軍角色預告——「噩夢」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15260" rel="alternate"/>
-    <summary>昔日流影，只存虛夢。天下人心，寂入恆常。</summary>
-    <published>2021-08-26T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>15287</id>
     <title>「浮世景色百千年依舊，人之在世卻如白露與泡影。」</title>
@@ -911,5 +902,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17629" rel="alternate"/>
     <summary>那顆經常用絨布悉心擦拭的神之眼，曾經一度離開荒瀧一斗的身邊。</summary>
     <published>2021-12-12T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17707</id>
+    <title>拾枝雜談-「荒瀧一斗：怪力亂神」｜原神</title>
+    <updated>2021-12-14T18:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121317441682599.jpg"><br/><br/>在荒瀧一斗眼中，揮舞棍棒與敵人戰鬥，跟和鄰里孩童鬥蟲打牌並無二致。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17707">拾枝雜談-「荒瀧一斗：怪力亂神」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17707" rel="alternate"/>
+    <summary>在荒瀧一斗眼中，揮舞棍棒與敵人戰鬥，跟和鄰里孩童鬥蟲打牌並無二致。</summary>
+    <published>2021-12-14T18:00:00+08:00</published>
   </entry>
 </feed>

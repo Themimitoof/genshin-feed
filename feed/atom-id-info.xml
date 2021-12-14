@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-12-14T09:14:27.522060+00:00</updated>
+  <updated>2021-12-14T10:11:55.985915+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15064</id>
-    <title>Realm of Tranquil Eternity: Pertunjukan Simfoni Live Inazuma | Genshin Impact</title>
-    <updated>2021-08-21T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082012025948997.png"><br/><br/>Pertunjukan ini menampilkan Tokyo Philharmonic Orchestra, yaitu orkestra simfoni tertua di Jepang, dan musisi papan atas musik rakyat Jepang yang menampilkan karya daerah Inazuma, yaitu "Inazuma" dan "Overlord of the Thunderstorm" bersama-sama.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15064">Realm of Tranquil Eternity: Pertunjukan Simfoni Live Inazuma | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15064" rel="alternate"/>
-    <summary>Pertunjukan ini menampilkan Tokyo Philharmonic Orchestra, yaitu orkestra simfoni tertua di Jepang, dan musisi papan atas musik rakyat Jepang yang menampilkan karya daerah Inazuma, yaitu "Inazuma" dan "Overlord of the Thunderstorm" bersama-sama.</summary>
-    <published>2021-08-21T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15121</id>
     <title>Halaman Preview v2.1 "Dunia di Bawah Cahaya Rembulan" Resmi Dibuka!</title>
@@ -918,5 +909,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17627" rel="alternate"/>
     <summary>Vision yang selalu dibersihkannya secara hati-hati dengan kain beludru, pernah direnggut dari Arataki Itto.</summary>
     <published>2021-12-12T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17723</id>
+    <title>Aneka Koleksi Genshin Impact — "Arataki Itto: Oni Terkuat dan Terhebat"</title>
+    <updated>2021-12-14T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319183216011.jpg"><br/><br/>Di mata Arataki Itto, menggunakan tongkat untuk bertarung melawan musuh tidak ada bedanya dengan bermain adu kumbang dan kartu dengan anak tetangga.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17723">Aneka Koleksi Genshin Impact — "Arataki Itto: Oni Terkuat dan Terhebat"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17723" rel="alternate"/>
+    <summary>Di mata Arataki Itto, menggunakan tongkat untuk bertarung melawan musuh tidak ada bedanya dengan bermain adu kumbang dan kartu dengan anak tetangga.</summary>
+    <published>2021-12-14T18:00:00+07:00</published>
   </entry>
 </feed>

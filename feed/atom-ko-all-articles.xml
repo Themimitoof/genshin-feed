@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-14T09:14:31.085315+00:00</updated>
+  <updated>2021-12-14T10:12:06.407747+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -385,17 +385,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15101</id>
-    <title>&lt;원신&gt; 2.1 버전 PV - 「달빛 속 광경, 하늘 아래 인간 세상」</title>
-    <updated>2021-08-20T22:45:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082019131717638.jpg"><br/><br/>사람들의 염원을 모아 이 달빛 아래서 뇌명과 열화를 지켜보고 밥 짓는 연기와 화려한 등불을 같이 감상한다
-천년의 달빛, 만년의 바위. 물 위에 비친 달그림자 만큼 속세의 일은 하염없다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15101"><원신> 2.1 버전 PV - 「달빛 속 광경, 하늘 아래 인간 세상」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15101" rel="alternate"/>
-    <summary>사람들의 염원을 모아 이 달빛 아래서 뇌명과 열화를 지켜보고 밥 짓는 연기와 화려한 등불을 같이 감상한다
-천년의 달빛, 만년의 바위. 물 위에 비친 달그림자 만큼 속세의 일은 하염없다</summary>
-    <published>2021-08-20T22:45:00+09:00</published>
   </entry>
   <entry>
     <id>15112</id>
@@ -1322,13 +1311,13 @@
     <published>2021-12-12T12:01:00+09:00</published>
   </entry>
   <entry>
-    <id>15381</id>
-    <title>「쇼군님을 위해 『영원함』을 실현 하는 게 내 『염원』이야」 - 쿠죠 사라</title>
-    <updated>2021-08-29T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082818091410347.jpg"><br/><br/>오늘 소개할 캐릭터는 텐료 봉행의 대장 - 쿠죠 사라야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15381">「쇼군님을 위해 『영원함』을 실현 하는 게 내 『염원』이야」 - 쿠죠 사라</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15381" rel="alternate"/>
-    <summary>오늘 소개할 캐릭터는 텐료 봉행의 대장 - 쿠죠 사라야</summary>
-    <published>2021-08-29T12:00:00+09:00</published>
+    <id>17732</id>
+    <title>&lt;원신&gt; 데인 여담 - 「아라타키 이토: 괴력난신」</title>
+    <updated>2021-12-14T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121410420962152.jpg"><br/><br/>아라타키 이토에게 있어 곤봉을 휘두르며 적과 싸우는 것은 동네 아이들과 곤충 싸움하는 것과 다를 바 없다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17732"><원신> 데인 여담 - 「아라타키 이토: 괴력난신」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17732" rel="alternate"/>
+    <summary>아라타키 이토에게 있어 곤봉을 휘두르며 적과 싸우는 것은 동네 아이들과 곤충 싸움하는 것과 다를 바 없다</summary>
+    <published>2021-12-14T18:01:00+09:00</published>
   </entry>
   <entry>
     <id>15377</id>
@@ -2251,5 +2240,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17625" rel="alternate"/>
     <summary>융단으로 정성스럽게 닦는 신의 눈은 한때 아라타키 이토의 곁을 떠난 적이 있다.</summary>
     <published>2021-12-12T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17732</id>
+    <title>&lt;원신&gt; 데인 여담 - 「아라타키 이토: 괴력난신」</title>
+    <updated>2021-12-14T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121410420962152.jpg"><br/><br/>아라타키 이토에게 있어 곤봉을 휘두르며 적과 싸우는 것은 동네 아이들과 곤충 싸움하는 것과 다를 바 없다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17732"><원신> 데인 여담 - 「아라타키 이토: 괴력난신」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17732" rel="alternate"/>
+    <summary>아라타키 이토에게 있어 곤봉을 휘두르며 적과 싸우는 것은 동네 아이들과 곤충 싸움하는 것과 다를 바 없다</summary>
+    <published>2021-12-14T18:01:00+09:00</published>
   </entry>
 </feed>

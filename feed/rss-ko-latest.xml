@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 14 Dec 2021 09:14:29 +0000</lastBuildDate>
-    <item>
-      <title>「쇼군님을 위해 『영원함』을 실현 하는 게 내 『염원』이야」 - 쿠죠 사라</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15381</link>
-      <description>오늘 소개할 캐릭터는 텐료 봉행의 대장 - 쿠죠 사라야</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082818091410347.jpg"><br/><br/>오늘 소개할 캐릭터는 텐료 봉행의 대장 - 쿠죠 사라야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15381">「쇼군님을 위해 『영원함』을 실현 하는 게 내 『염원』이야」 - 쿠죠 사라</a>]]></content:encoded>
-      <guid isPermaLink="false">15381</guid>
-      <pubDate>Sun, 29 Aug 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 10:12:02 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15377</link>
@@ -835,6 +827,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014494081033.jpg"><br/><br/>융단으로 정성스럽게 닦는 신의 눈은 한때 아라타키 이토의 곁을 떠난 적이 있다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17625"><원신> 신규 캐릭터 플레이 - 「아라타키 이토: 당당히 참전!」</a>]]></content:encoded>
       <guid isPermaLink="false">17625</guid>
       <pubDate>Sun, 12 Dec 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 데인 여담 - 「아라타키 이토: 괴력난신」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17732</link>
+      <description>아라타키 이토에게 있어 곤봉을 휘두르며 적과 싸우는 것은 동네 아이들과 곤충 싸움하는 것과 다를 바 없다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121410420962152.jpg"><br/><br/>아라타키 이토에게 있어 곤봉을 휘두르며 적과 싸우는 것은 동네 아이들과 곤충 싸움하는 것과 다를 바 없다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17732"><원신> 데인 여담 - 「아라타키 이토: 괴력난신」</a>]]></content:encoded>
+      <guid isPermaLink="false">17732</guid>
+      <pubDate>Tue, 14 Dec 2021 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

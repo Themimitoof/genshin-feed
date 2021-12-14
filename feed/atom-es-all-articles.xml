@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2021-12-14T09:14:27.068870+00:00</updated>
+  <updated>2021-12-14T10:11:54.515451+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -317,15 +317,6 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
     <link href="https://genshin.mihoyo.com/es/news/detail/15315" rel="alternate"/>
     <summary>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.</summary>
     <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15115</id>
-    <title>¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</title>
-    <updated>2021-08-21T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111292333189.jpg"><br/><br/>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15115">¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15115" rel="alternate"/>
-    <summary>Querido/a viajero/a:¡Ya puedes ver la vista previa de la versión 2.1 «Una luna sobre los mortales»!</summary>
-    <published>2021-08-21T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15155</id>
@@ -1228,13 +1219,13 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <published>2021-12-12T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>15430</id>
-    <title>Evento «Festival de la Luna»: Participa y consigue el arma exclusiva del evento Rey de los Mares (mandoble)</title>
-    <updated>2021-08-30T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010170243640.jpg"><br/><br/>Durante el evento, al completar las misiones de "Anécdotas de la luna" o participando en los desafíos "En busca del brillo lunar" y "Rastros exquisitos", obtendrás el arma exclusiva del evento Rey de los Mares (mandoble) así como sus materiales de refinamiento, corona de la sabiduría, Protogemas, recetas, y otras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15430">Evento «Festival de la Luna»: Participa y consigue el arma exclusiva del evento Rey de los Mares (mandoble)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15430" rel="alternate"/>
-    <summary>Durante el evento, al completar las misiones de "Anécdotas de la luna" o participando en los desafíos "En busca del brillo lunar" y "Rastros exquisitos", obtendrás el arma exclusiva del evento Rey de los Mares (mandoble) así como sus materiales de refinamiento, corona de la sabiduría, Protogemas, recetas, y otras recompensas.</summary>
-    <published>2021-08-30T12:00:00+02:00</published>
+    <id>17709</id>
+    <title>Genshin Impact - Arataki Itto: ¡Superestrella Oni!</title>
+    <updated>2021-12-14T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121317514476553.jpg"><br/><br/>Para Arataki Itto, empuñar un arma en el campo de batalla es como un juego de cartas o una pelea de escarabajos con los niños del vecindario.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17709">Genshin Impact - Arataki Itto: ¡Superestrella Oni!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17709" rel="alternate"/>
+    <summary>Para Arataki Itto, empuñar un arma en el campo de batalla es como un juego de cartas o una pelea de escarabajos con los niños del vecindario.</summary>
+    <published>2021-12-14T18:00:00+01:00</published>
   </entry>
   <entry>
     <id>15432</id>
@@ -2139,5 +2130,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121016582418898.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17631">Demo de nuevo personaje de Genshin Impact - Arataki Itto: ¡Con todos ustedes...!</a>]]></content>
     <link href="https://genshin.mihoyo.com/es/news/detail/17631" rel="alternate"/>
     <published>2021-12-12T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17709</id>
+    <title>Genshin Impact - Arataki Itto: ¡Superestrella Oni!</title>
+    <updated>2021-12-14T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121317514476553.jpg"><br/><br/>Para Arataki Itto, empuñar un arma en el campo de batalla es como un juego de cartas o una pelea de escarabajos con los niños del vecindario.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17709">Genshin Impact - Arataki Itto: ¡Superestrella Oni!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17709" rel="alternate"/>
+    <summary>Para Arataki Itto, empuñar un arma en el campo de batalla es como un juego de cartas o una pelea de escarabajos con los niños del vecindario.</summary>
+    <published>2021-12-14T18:00:00+01:00</published>
   </entry>
 </feed>

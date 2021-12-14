@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 14 Dec 2021 09:14:24 +0000</lastBuildDate>
-    <item>
-      <title>Zurücksetzung der Verdopplung beim ersten Aufladen bei Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15104</link>
-      <description>Die Verdopplung der Erträge beim ersten Aufladen wird nach der Aktualisierung auf Version 2.1 von Genshin Impact zurückgesetzt. Alle Aufladeboni für jeden Aufladewert im Fenster „Kristalle aufladen“ werden dann wieder auf den Zustand beim ersten Aufladen zurückgesetzt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082019455836514.jpg"><br/><br/>Die Verdopplung der Erträge beim ersten Aufladen wird nach der Aktualisierung auf Version 2.1 von Genshin Impact zurückgesetzt. Alle Aufladeboni für jeden Aufladewert im Fenster „Kristalle aufladen“ werden dann wieder auf den Zustand beim ersten Aufladen zurückgesetzt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15104">Zurücksetzung der Verdopplung beim ersten Aufladen bei Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15104</guid>
-      <pubDate>Fri, 20 Aug 2021 23:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 10:11:46 +0000</lastBuildDate>
     <item>
       <title>Realm of Tranquil Eternity: Sinfoniedarbietung für Inazuma von Genshin Impact</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15054</link>
@@ -848,6 +840,14 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121014263066587.jpg"><br/><br/>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17623">Figurenvorführung bei Genshin Impact – Arataki Itto: Die weltweite Nummer eins, zur Stelle!</a>]]></content:encoded>
       <guid isPermaLink="false">17623</guid>
       <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Arataki Itto: Superstarker Oni</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17714</link>
+      <description>Für Arataki Itto ist ein Schwert auf dem Schlachtfeld nicht viel anders als ein Käferkampf oder Kartenspiel mit den Kindern in der Nachbarschaft.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319053465094.jpg"><br/><br/>Für Arataki Itto ist ein Schwert auf dem Schlachtfeld nicht viel anders als ein Käferkampf oder Kartenspiel mit den Kindern in der Nachbarschaft.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17714">Fähigkeiten bei Genshin Impact – Arataki Itto: Superstarker Oni</a>]]></content:encoded>
+      <guid isPermaLink="false">17714</guid>
+      <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

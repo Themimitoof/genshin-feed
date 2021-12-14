@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-12-14T09:14:24.932453+00:00</updated>
+  <updated>2021-12-14T10:11:46.776129+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15104</id>
-    <title>Zurücksetzung der Verdopplung beim ersten Aufladen bei Genshin Impact</title>
-    <updated>2021-08-20T23:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082019455836514.jpg"><br/><br/>Die Verdopplung der Erträge beim ersten Aufladen wird nach der Aktualisierung auf Version 2.1 von Genshin Impact zurückgesetzt. Alle Aufladeboni für jeden Aufladewert im Fenster „Kristalle aufladen“ werden dann wieder auf den Zustand beim ersten Aufladen zurückgesetzt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15104">Zurücksetzung der Verdopplung beim ersten Aufladen bei Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15104" rel="alternate"/>
-    <summary>Die Verdopplung der Erträge beim ersten Aufladen wird nach der Aktualisierung auf Version 2.1 von Genshin Impact zurückgesetzt. Alle Aufladeboni für jeden Aufladewert im Fenster „Kristalle aufladen“ werden dann wieder auf den Zustand beim ersten Aufladen zurückgesetzt.</summary>
-    <published>2021-08-20T23:30:00+02:00</published>
-  </entry>
   <entry>
     <id>15054</id>
     <title>Realm of Tranquil Eternity: Sinfoniedarbietung für Inazuma von Genshin Impact</title>
@@ -949,5 +940,14 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
     <link href="https://genshin.mihoyo.com/de/news/detail/17623" rel="alternate"/>
     <summary>Das Göttliche Auge, das er oft sorgfältig mit einem Stofftuch reinigte, war Arataki Itto entrissen worden.</summary>
     <published>2021-12-12T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17714</id>
+    <title>Fähigkeiten bei Genshin Impact – Arataki Itto: Superstarker Oni</title>
+    <updated>2021-12-14T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319053465094.jpg"><br/><br/>Für Arataki Itto ist ein Schwert auf dem Schlachtfeld nicht viel anders als ein Käferkampf oder Kartenspiel mit den Kindern in der Nachbarschaft.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17714">Fähigkeiten bei Genshin Impact – Arataki Itto: Superstarker Oni</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17714" rel="alternate"/>
+    <summary>Für Arataki Itto ist ein Schwert auf dem Schlachtfeld nicht viel anders als ein Käferkampf oder Kartenspiel mit den Kindern in der Nachbarschaft.</summary>
+    <published>2021-12-14T18:00:00+01:00</published>
   </entry>
 </feed>

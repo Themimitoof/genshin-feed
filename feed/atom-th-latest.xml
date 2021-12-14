@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-12-14T09:14:33.901693+00:00</updated>
+  <updated>2021-12-14T10:12:14.125166+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>15333</id>
-    <title>ฟังก์ชันดาวน์โหลดล่วงหน้ากำลังจะเปิดแล้ว</title>
-    <updated>2021-08-27T11:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711041511908.jpg"><br/><br/>นักเดินทางที่รัก:<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15333">ฟังก์ชันดาวน์โหลดล่วงหน้ากำลังจะเปิดแล้ว</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15333" rel="alternate"/>
-    <summary>นักเดินทางที่รัก:</summary>
-    <published>2021-08-27T11:30:00+07:00</published>
-  </entry>
   <entry>
     <id>15300</id>
     <title>"คันธนูและลูกธนูของฉัน มีไว้ใช้เพื่อช่วยเหลือผู้คนเท่านั้น"</title>
@@ -843,5 +834,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121018284035084.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17639">ตัวอย่างตัวละคร Genshin Impact - "Arataki Itto: การเข้าร่วมอย่างทรงพลัง!"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17639" rel="alternate"/>
     <published>2021-12-12T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17718</id>
+    <title>[Genshin Impact] เก็บตกตัวละคร - "Arataki Itto: เทพซ่าบ้าพลัง"</title>
+    <updated>2021-12-14T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319164343434.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17718">[Genshin Impact] เก็บตกตัวละคร - "Arataki Itto: เทพซ่าบ้าพลัง"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17718" rel="alternate"/>
+    <published>2021-12-14T18:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 14 Dec 2021 09:14:22 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement « Théâtre mécanique - Scène des merveilles »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14858</link>
-      <description>Grâce aux efforts de Komakata, la représentante du Théâtre mécanique, le jeu préféré de tout Liyue est enfin disponible à Inazuma ! Selon Komakata, cette toute nouvelle version du jeu a approfondi les règles originales pour créer un contenu encore plus unique...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081015152689111.jpg"><br/><br/>Grâce aux efforts de Komakata, la représentante du Théâtre mécanique, le jeu préféré de tout Liyue est enfin disponible à Inazuma ! Selon Komakata, cette toute nouvelle version du jeu a approfondi les règles originales pour créer un contenu encore plus unique...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14858">Détails de l'événement « Théâtre mécanique - Scène des merveilles »</a>]]></content:encoded>
-      <guid isPermaLink="false">14858</guid>
-      <pubDate>Wed, 11 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Dec 2021 10:11:38 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Sayu : Roulade dans le vent</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/14873</link>
@@ -753,6 +745,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211210/2021121017303240846.jpg"><br/><br/>Cet œil divin, qui était souvent poli avec soin, a autrefois été arraché à Arataki Itto.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17634">Genshin Impact - Démo personnage : « Arataki Itto : Toujours avec panache ! »</a>]]></content:encoded>
       <guid isPermaLink="false">17634</guid>
       <pubDate>Sun, 12 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Arataki Itto : Étrange Oni</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17719</link>
+      <description>Aux yeux d'Arataki Itto, se battre à l'épée n'est pas bien différent d'une partie de jeu de cartes ou d'un combat de scarabées avec les enfants du quartier.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319155428772.jpg"><br/><br/>Aux yeux d'Arataki Itto, se battre à l'épée n'est pas bien différent d'une partie de jeu de cartes ou d'un combat de scarabées avec les enfants du quartier.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17719">Genshin Impact - Arataki Itto : Étrange Oni</a>]]></content:encoded>
+      <guid isPermaLink="false">17719</guid>
+      <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-12-14T09:14:21.775576+00:00</updated>
+  <updated>2021-12-14T10:11:36.461922+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -374,15 +374,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>15256</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</title>
-    <updated>2021-08-26T04:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520114091781.jpg"><br/><br/>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15256">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser I)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15256" rel="alternate"/>
-    <summary>Together with Maestro Dirk Brossé and the Flanders Symphony Orchestra, Genshin Impact is about to bring a wonderful musical journey, reliving the moving melodies that echo in Teyvat with Travelers.</summary>
-    <published>2021-08-26T04:00:00-04:00</published>
   </entry>
   <entry>
     <id>15228</id>
@@ -1357,13 +1348,17 @@ Yes, that's right. I guess his mettle is exactly what makes him the boss of the 
     <published>2021-12-12T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>15390</id>
-    <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</title>
-    <updated>2021-08-30T12:01:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819383996293.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15390">Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15390" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</summary>
-    <published>2021-08-30T12:01:00-04:00</published>
+    <id>17730</id>
+    <title>Collected Miscellany - "Arataki Itto: Supreme Superstrength" | Genshin Impact</title>
+    <updated>2021-12-14T18:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319241645122.jpg"><br/><br/>In the eyes of Arataki Itto, wielding a weapon on the battlefield is no different from a game of cards or beetle fighting with the neighborhood kids.
+Both require a serious approach for the outcome to be determined righteously.
+If you lose, you must quietly accept your loss, but if you win, you can reign supreme.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17730">Collected Miscellany - "Arataki Itto: Supreme Superstrength" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17730" rel="alternate"/>
+    <summary>In the eyes of Arataki Itto, wielding a weapon on the battlefield is no different from a game of cards or beetle fighting with the neighborhood kids.
+Both require a serious approach for the outcome to be determined righteously.
+If you lose, you must quietly accept your loss, but if you win, you can reign supreme.</summary>
+    <published>2021-12-14T18:00:00-05:00</published>
   </entry>
   <entry>
     <id>15391</id>
@@ -2332,5 +2327,18 @@ Yes, that's right. I guess his mettle is exactly what makes him the boss of the 
 But Itto has never been discouraged. On the contrary, after overcoming various hardships to regain his elemental power, his fighting spirit has burned even brighter.
 Yes, that's right. I guess his mettle is exactly what makes him the boss of the Arataki Gang.</summary>
     <published>2021-12-12T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17730</id>
+    <title>Collected Miscellany - "Arataki Itto: Supreme Superstrength" | Genshin Impact</title>
+    <updated>2021-12-14T18:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319241645122.jpg"><br/><br/>In the eyes of Arataki Itto, wielding a weapon on the battlefield is no different from a game of cards or beetle fighting with the neighborhood kids.
+Both require a serious approach for the outcome to be determined righteously.
+If you lose, you must quietly accept your loss, but if you win, you can reign supreme.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17730">Collected Miscellany - "Arataki Itto: Supreme Superstrength" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17730" rel="alternate"/>
+    <summary>In the eyes of Arataki Itto, wielding a weapon on the battlefield is no different from a game of cards or beetle fighting with the neighborhood kids.
+Both require a serious approach for the outcome to be determined righteously.
+If you lose, you must quietly accept your loss, but if you win, you can reign supreme.</summary>
+    <published>2021-12-14T18:00:00-05:00</published>
   </entry>
 </feed>

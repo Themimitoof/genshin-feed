@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-14T09:14:32.418350+00:00</updated>
+  <updated>2021-12-14T10:12:10.241316+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -353,15 +353,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>15053</id>
-    <title>Genshin Impact - Apresentação da Orquestra Sinfônica de Inazuma "Realm of Tranquil Eternity"</title>
-    <updated>2021-08-21T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011355651956.png"><br/><br/>Gravada no Tóquio Opera City, apresentado pela orquestra mais antiga do Japão, a Orquestra Filarmônica de Tóquio, a Orquestra Sinfônica de Inazuma reuniu os principais artistas de música folk do Japão para trazer aos Viajantes, a trilha sonora de Inazuma: "Inazuma" e "Overlord of the Thunderstorm".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15053">Genshin Impact - Apresentação da Orquestra Sinfônica de Inazuma "Realm of Tranquil Eternity"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15053" rel="alternate"/>
-    <summary>Gravada no Tóquio Opera City, apresentado pela orquestra mais antiga do Japão, a Orquestra Filarmônica de Tóquio, a Orquestra Sinfônica de Inazuma reuniu os principais artistas de música folk do Japão para trazer aos Viajantes, a trilha sonora de Inazuma: "Inazuma" e "Overlord of the Thunderstorm".</summary>
-    <published>2021-08-21T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>15114</id>
@@ -1259,13 +1250,13 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <published>2021-12-12T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>15411</id>
-    <title>Evento: "Hyakunin Ikki": Desafio de Batalhas de Troca de Equipes</title>
-    <updated>2021-08-30T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916202970029.jpg"><br/><br/>Durante o período do evento, forme uma equipe de dois personagens, participe do torneio livre "Hyakunin Ikki", derrote oponentes e ganhe pontos. Viajantes que atingirem a quantidade de pontos requerida poderão obter o Estilo de Cartão de Visita exclusivo do evento "Celebração: Ikki", Gemas Essenciais, entre outras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15411">Evento: "Hyakunin Ikki": Desafio de Batalhas de Troca de Equipes</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15411" rel="alternate"/>
-    <summary>Durante o período do evento, forme uma equipe de dois personagens, participe do torneio livre "Hyakunin Ikki", derrote oponentes e ganhe pontos. Viajantes que atingirem a quantidade de pontos requerida poderão obter o Estilo de Cartão de Visita exclusivo do evento "Celebração: Ikki", Gemas Essenciais, entre outras recompensas.</summary>
-    <published>2021-08-30T12:00:00+01:00</published>
+    <id>17713</id>
+    <title>Coleção Variada de Genshin Impact - "Arataki Itto: Supremo Superforça"</title>
+    <updated>2021-12-14T18:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319050283617.jpg"><br/><br/>Para o Arataki Itto, lutar contra inimigos com bastões não é diferente de um jogo de cartas com crianças.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17713">Coleção Variada de Genshin Impact - "Arataki Itto: Supremo Superforça"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17713" rel="alternate"/>
+    <summary>Para o Arataki Itto, lutar contra inimigos com bastões não é diferente de um jogo de cartas com crianças.</summary>
+    <published>2021-12-14T18:00:00+00:00</published>
   </entry>
   <entry>
     <id>15412</id>
@@ -2163,5 +2154,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17686" rel="alternate"/>
     <summary>Sua Visão, que muitas vezes era cuidadosamente limpada com um pano de flanela, já foi uma vez tirada dele no passado.</summary>
     <published>2021-12-12T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17713</id>
+    <title>Coleção Variada de Genshin Impact - "Arataki Itto: Supremo Superforça"</title>
+    <updated>2021-12-14T18:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319050283617.jpg"><br/><br/>Para o Arataki Itto, lutar contra inimigos com bastões não é diferente de um jogo de cartas com crianças.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17713">Coleção Variada de Genshin Impact - "Arataki Itto: Supremo Superforça"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17713" rel="alternate"/>
+    <summary>Para o Arataki Itto, lutar contra inimigos com bastões não é diferente de um jogo de cartas com crianças.</summary>
+    <published>2021-12-14T18:00:00+00:00</published>
   </entry>
 </feed>
