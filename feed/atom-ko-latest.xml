@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-15T03:11:14.727483+00:00</updated>
+  <updated>2021-12-15T04:13:38.050895+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15377</id>
-    <title>&lt;원신&gt; 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</title>
-    <updated>2021-08-29T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817350822457.jpg"><br/><br/>번개 신의 뜻을 행하고 쇼군님을 위한 「영원」을 실현하리라.
-쿠죠 사라의 사명이자 그녀의 염원이다.
-오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15377"><원신> 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15377" rel="alternate"/>
-    <summary>번개 신의 뜻을 행하고 쇼군님을 위한 「영원」을 실현하리라.
-쿠죠 사라의 사명이자 그녀의 염원이다.
-오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.</summary>
-    <published>2021-08-29T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>15418</id>
     <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
@@ -939,5 +926,16 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17732" rel="alternate"/>
     <summary>아라타키 이토에게 있어 곤봉을 휘두르며 적과 싸우는 것은 동네 아이들과 곤충 싸움하는 것과 다를 바 없다</summary>
     <published>2021-12-14T18:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17734</id>
+    <title>&lt;원신&gt; 데인 여담 - 「고로: 돌격형 승전법」</title>
+    <updated>2021-12-15T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121415380555122.jpg"><br/><br/>고로가 위험천만한 전장에서 매번 승리할 수 있는 건 유비무환과 임기응변
+그리고 동료를 수호하고자 하는 확고한 진심 때문이다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17734"><원신> 데인 여담 - 「고로: 돌격형 승전법」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17734" rel="alternate"/>
+    <summary>고로가 위험천만한 전장에서 매번 승리할 수 있는 건 유비무환과 임기응변
+그리고 동료를 수호하고자 하는 확고한 진심 때문이다</summary>
+    <published>2021-12-15T12:01:00+09:00</published>
   </entry>
 </feed>

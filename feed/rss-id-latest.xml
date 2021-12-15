@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 15 Dec 2021 03:11:07 +0000</lastBuildDate>
-    <item>
-      <title>Pengumuman Update v2.1 "Dunia di Bawah Cahaya Rembulan"</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/15424</link>
-      <description>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009412058419.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi. Setelah maintenance selesai, game akan diperbarui ke versi baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15424">Pengumuman Update v2.1 "Dunia di Bawah Cahaya Rembulan"</a>]]></content:encoded>
-      <guid isPermaLink="false">15424</guid>
-      <pubDate>Mon, 30 Aug 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Dec 2021 04:13:26 +0000</lastBuildDate>
     <item>
       <title>Quest Archon Chapter II: Bag. III "Sang Mahahadir di Dunia Fana" Segera Dibuka</title>
       <link>https://genshin.mihoyo.com/id/news/detail/15426</link>
@@ -825,6 +817,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!<br><br>Read more on <a h
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319183216011.jpg"><br/><br/>Di mata Arataki Itto, menggunakan tongkat untuk bertarung melawan musuh tidak ada bedanya dengan bermain adu kumbang dan kartu dengan anak tetangga.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17723">Aneka Koleksi Genshin Impact — "Arataki Itto: Oni Terkuat dan Terhebat"</a>]]></content:encoded>
       <guid isPermaLink="false">17723</guid>
       <pubDate>Tue, 14 Dec 2021 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Aneka Koleksi Genshin Impact — "Gorou: Bentuk Sebuah Kemenangan"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17752</link>
+      <description>Gorou bisa terus meraih kemenangan di medan perang yang penuh bahaya dengan mengandalkan persiapan yang matang</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121510230362626.jpg"><br/><br/>Gorou bisa terus meraih kemenangan di medan perang yang penuh bahaya dengan mengandalkan persiapan yang matang<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17752">Aneka Koleksi Genshin Impact — "Gorou: Bentuk Sebuah Kemenangan"</a>]]></content:encoded>
+      <guid isPermaLink="false">17752</guid>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

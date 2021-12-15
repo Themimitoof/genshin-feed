@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-12-15T03:11:32.301056+00:00</updated>
+  <updated>2021-12-15T04:14:09.268193+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -278,15 +278,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15082</id>
-    <title>[Genshin Impact] Video giới thiệu phiên bản 2.1: "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</title>
-    <updated>2021-08-20T22:45:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082014441744418.jpg"><br/><br/>Tâm nguyện của mọi người đều tụ lại dưới ánh trăng sáng, <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15082">[Genshin Impact] Video giới thiệu phiên bản 2.1: "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15082" rel="alternate"/>
-    <summary>Tâm nguyện của mọi người đều tụ lại dưới ánh trăng sáng, </summary>
-    <published>2021-08-20T22:45:00+07:00</published>
   </entry>
   <entry>
     <id>15098</id>
@@ -1118,13 +1109,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2021-12-14T18:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15332</id>
-    <title>Sắp Mở Tính Năng Tải Trước</title>
-    <updated>2021-08-27T11:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711023960143.jpg"><br/><br/>Nhà Lữ Hành thân mến:<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15332">Sắp Mở Tính Năng Tải Trước</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15332" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến:</summary>
-    <published>2021-08-27T11:30:00+07:00</published>
+    <id>17756</id>
+    <title>[Genshin Impact] - Gorou: Chiến Pháp Đột Kích</title>
+    <updated>2021-12-15T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121510292420192.jpg"><br/><br/>Gorou có thể nhiều lần giành chiến thắng trên chiến trường nguy hiểm bốn bề, nhờ luôn lo trước tính sau và tuỳ cơ ứng biến.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17756">[Genshin Impact] - Gorou: Chiến Pháp Đột Kích</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17756" rel="alternate"/>
+    <summary>Gorou có thể nhiều lần giành chiến thắng trên chiến trường nguy hiểm bốn bề, nhờ luôn lo trước tính sau và tuỳ cơ ứng biến.</summary>
+    <published>2021-12-15T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15296</id>
@@ -1948,5 +1939,14 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319194284473.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17727">Genshin Impact- Arataki Itto: Quỷ Lực Vô Song</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17727" rel="alternate"/>
     <published>2021-12-14T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17756</id>
+    <title>[Genshin Impact] - Gorou: Chiến Pháp Đột Kích</title>
+    <updated>2021-12-15T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121510292420192.jpg"><br/><br/>Gorou có thể nhiều lần giành chiến thắng trên chiến trường nguy hiểm bốn bề, nhờ luôn lo trước tính sau và tuỳ cơ ứng biến.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17756">[Genshin Impact] - Gorou: Chiến Pháp Đột Kích</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17756" rel="alternate"/>
+    <summary>Gorou có thể nhiều lần giành chiến thắng trên chiến trường nguy hiểm bốn bề, nhờ luôn lo trước tính sau và tuỳ cơ ứng biến.</summary>
+    <published>2021-12-15T12:00:00+07:00</published>
   </entry>
 </feed>

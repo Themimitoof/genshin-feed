@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Dec 2021 03:11:01 +0000</lastBuildDate>
-    <item>
-      <title>Realm of Tranquil Eternity: Sinfoniedarbietung für Inazuma von Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15054</link>
-      <description>Die Live-Aufnahme der Sinfonie für Inazuma wurde in der Tokyo Opera City Concert Hall in Japan durchgeführt. Das Tokyo Philharmonic Orchestra, Japans ältestes Sinfonieorchester, und Japans Top-Volksmusiker führten gemeinsam die Inazuma-Spielmusik „Inazuma“ und „Overlord of the Thunderstorm“ auf.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011340676823.png"><br/><br/>Die Live-Aufnahme der Sinfonie für Inazuma wurde in der Tokyo Opera City Concert Hall in Japan durchgeführt. Das Tokyo Philharmonic Orchestra, Japans ältestes Sinfonieorchester, und Japans Top-Volksmusiker führten gemeinsam die Inazuma-Spielmusik „Inazuma“ und „Overlord of the Thunderstorm“ auf.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15054">Realm of Tranquil Eternity: Sinfoniedarbietung für Inazuma von Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15054</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Dec 2021 04:13:15 +0000</lastBuildDate>
     <item>
       <title>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15117</link>
@@ -848,6 +840,16 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319053465094.jpg"><br/><br/>Für Arataki Itto ist ein Schwert auf dem Schlachtfeld nicht viel anders als ein Käferkampf oder Kartenspiel mit den Kindern in der Nachbarschaft.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17714">Fähigkeiten bei Genshin Impact – Arataki Itto: Superstarker Oni</a>]]></content:encoded>
       <guid isPermaLink="false">17714</guid>
       <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Gorou: Vorwärts zum Sieg</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17748</link>
+      <description>Gorous Fähigkeit, auf einem von Krisen geprägten Schlachtfeld immer wieder zu gewinnen, beruht auf Vorausplanung und Improvisation.
+Außerdem ist er fest entschlossen, seine Kameraden zu schützen.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121419541556866.jpg"><br/><br/>Gorous Fähigkeit, auf einem von Krisen geprägten Schlachtfeld immer wieder zu gewinnen, beruht auf Vorausplanung und Improvisation.
+Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17748">Fähigkeiten bei Genshin Impact – Gorou: Vorwärts zum Sieg</a>]]></content:encoded>
+      <guid isPermaLink="false">17748</guid>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-12-15T03:10:53.456369+00:00</updated>
+  <updated>2021-12-15T04:13:01.621910+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -374,15 +374,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>15228</id>
-    <title>The Inazuma Diaries: Watatsumi Island &amp; Seirai Island</title>
-    <updated>2021-08-26T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517523485210.jpg"><br/><br/>In Version 2.1, two new islands will be introduced in Inazuma, Seirai Island and Watatsumi Island. They both have different customs, let's go and discover these mysterious places together!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15228">The Inazuma Diaries: Watatsumi Island & Seirai Island</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15228" rel="alternate"/>
-    <summary>In Version 2.1, two new islands will be introduced in Inazuma, Seirai Island and Watatsumi Island. They both have different customs, let's go and discover these mysterious places together!</summary>
-    <published>2021-08-26T10:30:00-04:00</published>
   </entry>
   <entry>
     <id>15237</id>
@@ -1361,12 +1352,15 @@ If you lose, you must quietly accept your loss, but if you win, you can reign su
     <published>2021-12-14T18:00:00-05:00</published>
   </entry>
   <entry>
-    <id>15391</id>
-    <title>Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!</title>
-    <updated>2021-08-30T12:02:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819444599685.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15391">Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15391" rel="alternate"/>
-    <published>2021-08-30T12:02:00-04:00</published>
+    <id>17736</id>
+    <title>Collected Miscellany - "Gorou: Forward Unto Victory" | Genshin Impact</title>
+    <updated>2021-12-15T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121416163064940.jpg"><br/><br/>Gorou's ability to repeatedly win on the perilous battlefield relies on planning ahead and improvisation.
+And his sincere heart that is determined to protect his companions.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17736">Collected Miscellany - "Gorou: Forward Unto Victory" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17736" rel="alternate"/>
+    <summary>Gorou's ability to repeatedly win on the perilous battlefield relies on planning ahead and improvisation.
+And his sincere heart that is determined to protect his companions.</summary>
+    <published>2021-12-15T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>15353</id>
@@ -2340,5 +2334,16 @@ If you lose, you must quietly accept your loss, but if you win, you can reign su
 Both require a serious approach for the outcome to be determined righteously.
 If you lose, you must quietly accept your loss, but if you win, you can reign supreme.</summary>
     <published>2021-12-14T18:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17736</id>
+    <title>Collected Miscellany - "Gorou: Forward Unto Victory" | Genshin Impact</title>
+    <updated>2021-12-15T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121416163064940.jpg"><br/><br/>Gorou's ability to repeatedly win on the perilous battlefield relies on planning ahead and improvisation.
+And his sincere heart that is determined to protect his companions.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17736">Collected Miscellany - "Gorou: Forward Unto Victory" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17736" rel="alternate"/>
+    <summary>Gorou's ability to repeatedly win on the perilous battlefield relies on planning ahead and improvisation.
+And his sincere heart that is determined to protect his companions.</summary>
+    <published>2021-12-15T12:00:00-05:00</published>
   </entry>
 </feed>

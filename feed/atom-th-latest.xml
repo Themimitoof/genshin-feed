@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-12-15T03:11:25.667790+00:00</updated>
+  <updated>2021-12-15T04:13:56.545714+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>15300</id>
-    <title>"คันธนูและลูกธนูของฉัน มีไว้ใช้เพื่อช่วยเหลือผู้คนเท่านั้น"</title>
-    <updated>2021-08-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611405953769.jpg"><br/><br/>สวัสดี นักเดินทาง~<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15300">"คันธนูและลูกธนูของฉัน มีไว้ใช้เพื่อช่วยเหลือผู้คนเท่านั้น"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15300" rel="alternate"/>
-    <summary>สวัสดี นักเดินทาง~</summary>
-    <published>2021-08-27T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15323</id>
     <title>Genshin Impact ตัวอย่างตัวละคร - "Aloy: นักล่ามหัศจรรย์"</title>
@@ -842,5 +833,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319164343434.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17718">[Genshin Impact] เก็บตกตัวละคร - "Arataki Itto: เทพซ่าบ้าพลัง"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17718" rel="alternate"/>
     <published>2021-12-14T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17754</id>
+    <title>[Genshin Impact] เก็บตกตัวละคร - "Gorou: มุ่งสู่ชัยชนะ"</title>
+    <updated>2021-12-15T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121510261852772.jpg"><br/><br/>การที่ Gorou สามารถได้รับชัยชนะมากมายในสนามรบที่เต็มไปด้วยอันตรายได้ เพราะว่าความระมัดระวังรอบคอบ กับการปรับตัวให้เข้ากับการเปลี่ยนแปลงของสถานการณ์<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17754">[Genshin Impact] เก็บตกตัวละคร - "Gorou: มุ่งสู่ชัยชนะ"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17754" rel="alternate"/>
+    <summary>การที่ Gorou สามารถได้รับชัยชนะมากมายในสนามรบที่เต็มไปด้วยอันตรายได้ เพราะว่าความระมัดระวังรอบคอบ กับการปรับตัวให้เข้ากับการเปลี่ยนแปลงของสถานการณ์</summary>
+    <published>2021-12-15T12:00:00+07:00</published>
   </entry>
 </feed>

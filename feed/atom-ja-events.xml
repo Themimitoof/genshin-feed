@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2021-12-15T03:11:13.840852+00:00</updated>
+  <updated>2021-12-15T04:13:36.326060+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>events feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>8433</id>
-    <title>Ver.1.3「明霄、海に昇りて」イベント予告</title>
-    <updated>2021-02-01T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210202/2021020219424232338.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8433">Ver.1.3「明霄、海に昇りて」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/8433" rel="alternate"/>
-    <summary/>
-    <published>2021-02-01T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>8493</id>
     <title>「五彩招福」イベント紹介</title>
@@ -888,5 +879,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17674" rel="alternate"/>
     <summary/>
     <published>2021-12-11T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17758</id>
+    <title>「迷城戦線・光界編」イベント予告</title>
+    <updated>2021-12-15T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121511002195685.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17758">「迷城戦線・光界編」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17758" rel="alternate"/>
+    <summary/>
+    <published>2021-12-15T12:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-12-15T03:10:56.968727+00:00</updated>
+  <updated>2021-12-15T04:13:08.408214+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15287</id>
-    <title>「浮世景色百千年依舊，人之在世卻如白露與泡影。」</title>
-    <updated>2021-08-26T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610461427600.jpg"><br/><br/>旅行者們好，今天將為大家介紹的角色是雷電將軍。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15287">「浮世景色百千年依舊，人之在世卻如白露與泡影。」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15287" rel="alternate"/>
-    <summary>旅行者們好，今天將為大家介紹的角色是雷電將軍。</summary>
-    <published>2021-08-26T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>15336</id>
     <title>預先下載功能即將開放</title>
@@ -911,5 +902,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17707" rel="alternate"/>
     <summary>在荒瀧一斗眼中，揮舞棍棒與敵人戰鬥，跟和鄰里孩童鬥蟲打牌並無二致。</summary>
     <published>2021-12-14T18:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17739</id>
+    <title>拾枝雜談-「五郎：形勝戰法」｜原神</title>
+    <updated>2021-12-15T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121416194466030.jpg"><br/><br/>五郎能夠在危機四伏的戰場上屢屢得勝，靠的是未雨綢繆，與隨機應變。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17739">拾枝雜談-「五郎：形勝戰法」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17739" rel="alternate"/>
+    <summary>五郎能夠在危機四伏的戰場上屢屢得勝，靠的是未雨綢繆，與隨機應變。</summary>
+    <published>2021-12-15T12:00:00+08:00</published>
   </entry>
 </feed>

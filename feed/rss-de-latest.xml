@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 15 Dec 2021 03:11:00 +0000</lastBuildDate>
-    <item>
-      <title>„Die Landschaft der vergänglichen Welt bleibt Jahrtausende lang dieselbe, aber das Leben des Menschen ist wie Tau und Schatten.“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15286</link>
-      <description>Hallo, Reisende! Heute stellen wir euch die Figur Shougun Raiden vor.
-Ihre Exzellenz, die Allmächtige Narukami Ogosho. Sie hat dem Volk von Inazuma eine unvergängliche Ewigkeit versprochen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610180192505.jpg"><br/><br/>Hallo, Reisende! Heute stellen wir euch die Figur Shougun Raiden vor.
-Ihre Exzellenz, die Allmächtige Narukami Ogosho. Sie hat dem Volk von Inazuma eine unvergängliche Ewigkeit versprochen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15286">„Die Landschaft der vergänglichen Welt bleibt Jahrtausende lang dieselbe, aber das Leben des Menschen ist wie Tau und Schatten.“</a>]]></content:encoded>
-      <guid isPermaLink="false">15286</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Dec 2021 04:13:13 +0000</lastBuildDate>
     <item>
       <title>Vorzeitiges Herunterladen bald verfügbar</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15335</link>
@@ -856,6 +846,16 @@ Heute stellen wir euch den großen General der Truppen von Watatsumi vor, Gorou!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319053465094.jpg"><br/><br/>Für Arataki Itto ist ein Schwert auf dem Schlachtfeld nicht viel anders als ein Käferkampf oder Kartenspiel mit den Kindern in der Nachbarschaft.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17714">Fähigkeiten bei Genshin Impact – Arataki Itto: Superstarker Oni</a>]]></content:encoded>
       <guid isPermaLink="false">17714</guid>
       <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Gorou: Vorwärts zum Sieg</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17748</link>
+      <description>Gorous Fähigkeit, auf einem von Krisen geprägten Schlachtfeld immer wieder zu gewinnen, beruht auf Vorausplanung und Improvisation.
+Außerdem ist er fest entschlossen, seine Kameraden zu schützen.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121419541556866.jpg"><br/><br/>Gorous Fähigkeit, auf einem von Krisen geprägten Schlachtfeld immer wieder zu gewinnen, beruht auf Vorausplanung und Improvisation.
+Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17748">Fähigkeiten bei Genshin Impact – Gorou: Vorwärts zum Sieg</a>]]></content:encoded>
+      <guid isPermaLink="false">17748</guid>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

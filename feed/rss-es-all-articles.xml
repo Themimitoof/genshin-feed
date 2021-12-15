@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 15 Dec 2021 03:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Dec 2021 04:13:26 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -278,14 +278,6 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Actualización de la versión 2.1: Detalles del modo de juego de pesca</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15155</link>
-      <description>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318543868433.png"><br/><br/>Estimados viajeros: En la versión 2.1 habrá un nuevo modo de juego de pesca. ¡Echémosle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15155">Actualización de la versión 2.1: Detalles del modo de juego de pesca</a>]]></content:encoded>
-      <guid isPermaLink="false">15155</guid>
-      <pubDate>Tue, 24 Aug 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</title>
@@ -1087,12 +1079,11 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Evento «El club del combate»: Desafío de intercambio de equipos</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15432</link>
-      <description>Durante el evento, participa en el torneo de lucha «El club del combate» formando grupos de dos personajes, derrota a los enemigos y obtén puntos. Cuando consigas una puntuación determinada, obtendrás la tarjeta exclusiva "Celebración - Combate", Protogemas y más recompensas.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010250652135.jpg"><br/><br/>Durante el evento, participa en el torneo de lucha «El club del combate» formando grupos de dos personajes, derrota a los enemigos y obtén puntos. Cuando consigas una puntuación determinada, obtendrás la tarjeta exclusiva "Celebración - Combate", Protogemas y más recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15432">Evento «El club del combate»: Desafío de intercambio de equipos</a>]]></content:encoded>
-      <guid isPermaLink="false">15432</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0200</pubDate>
+      <title>Genshin Impact - Gorou: ¡Vamos por la victoria!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17750</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121420093990971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17750">Genshin Impact - Gorou: ¡Vamos por la victoria!</a>]]></description>
+      <guid isPermaLink="false">17750</guid>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Evento «Reino lunar»: ¡Pesca para obtener cañas exclusivas!</title>
@@ -1895,6 +1886,13 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121317514476553.jpg"><br/><br/>Para Arataki Itto, empuñar un arma en el campo de batalla es como un juego de cartas o una pelea de escarabajos con los niños del vecindario.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17709">Genshin Impact - Arataki Itto: ¡Superestrella Oni!</a>]]></content:encoded>
       <guid isPermaLink="false">17709</guid>
       <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Gorou: ¡Vamos por la victoria!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17750</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121420093990971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17750">Genshin Impact - Gorou: ¡Vamos por la victoria!</a>]]></description>
+      <guid isPermaLink="false">17750</guid>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

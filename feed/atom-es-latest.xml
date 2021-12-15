@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-15T03:11:04.202545+00:00</updated>
+  <updated>2021-12-15T04:13:20.178242+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15432</id>
-    <title>Evento «El club del combate»: Desafío de intercambio de equipos</title>
-    <updated>2021-08-30T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010250652135.jpg"><br/><br/>Durante el evento, participa en el torneo de lucha «El club del combate» formando grupos de dos personajes, derrota a los enemigos y obtén puntos. Cuando consigas una puntuación determinada, obtendrás la tarjeta exclusiva "Celebración - Combate", Protogemas y más recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15432">Evento «El club del combate»: Desafío de intercambio de equipos</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15432" rel="alternate"/>
-    <summary>Durante el evento, participa en el torneo de lucha «El club del combate» formando grupos de dos personajes, derrota a los enemigos y obtén puntos. Cuando consigas una puntuación determinada, obtendrás la tarjeta exclusiva "Celebración - Combate", Protogemas y más recompensas.</summary>
-    <published>2021-08-30T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15434</id>
     <title>Evento «Reino lunar»: ¡Pesca para obtener cañas exclusivas!</title>
@@ -921,5 +912,13 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <link href="https://genshin.mihoyo.com/es/news/detail/17709" rel="alternate"/>
     <summary>Para Arataki Itto, empuñar un arma en el campo de batalla es como un juego de cartas o una pelea de escarabajos con los niños del vecindario.</summary>
     <published>2021-12-14T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17750</id>
+    <title>Genshin Impact - Gorou: ¡Vamos por la victoria!</title>
+    <updated>2021-12-15T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121420093990971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17750">Genshin Impact - Gorou: ¡Vamos por la victoria!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17750" rel="alternate"/>
+    <published>2021-12-15T12:00:00+01:00</published>
   </entry>
 </feed>

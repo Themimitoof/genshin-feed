@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Dec 2021 03:10:49 +0000</lastBuildDate>
-    <item>
-      <title>Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15391</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819444599685.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15391">Event Wish "Reign of Serenity" - Boosted Drop Rate for "Plane of Euthymia" Raiden Shogun (Electro)!</a>]]></description>
-      <guid isPermaLink="false">15391</guid>
-      <pubDate>Mon, 30 Aug 2021 12:02:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Dec 2021 04:12:53 +0000</lastBuildDate>
     <item>
       <title>Paimon's Sneak Peek at Version 2.1 New Events - Phase I</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15353</link>
@@ -887,6 +880,16 @@ Both require a serious approach for the outcome to be determined righteously.
 If you lose, you must quietly accept your loss, but if you win, you can reign supreme.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17730">Collected Miscellany - "Arataki Itto: Supreme Superstrength" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17730</guid>
       <pubDate>Tue, 14 Dec 2021 18:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Collected Miscellany - "Gorou: Forward Unto Victory" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17736</link>
+      <description>Gorou's ability to repeatedly win on the perilous battlefield relies on planning ahead and improvisation.
+And his sincere heart that is determined to protect his companions.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121416163064940.jpg"><br/><br/>Gorou's ability to repeatedly win on the perilous battlefield relies on planning ahead and improvisation.
+And his sincere heart that is determined to protect his companions.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17736">Collected Miscellany - "Gorou: Forward Unto Victory" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17736</guid>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 15 Dec 2021 03:10:54 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Sayu : Roulade dans le vent</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/14873</link>
-      <description>Manger de la nourriture pleine d'énergie, mais travailler pour en consommer le moins possible, voilà le principe de vie de cette toute petite ninja.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210810/2021081017593647713.jpg"><br/><br/>Manger de la nourriture pleine d'énergie, mais travailler pour en consommer le moins possible, voilà le principe de vie de cette toute petite ninja.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/14873">Genshin Impact - Sayu : Roulade dans le vent</a>]]></content:encoded>
-      <guid isPermaLink="false">14873</guid>
-      <pubDate>Wed, 11 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 15 Dec 2021 04:13:03 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement « Flux spectral »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15044</link>
@@ -753,6 +745,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211213/2021121319155428772.jpg"><br/><br/>Aux yeux d'Arataki Itto, se battre à l'épée n'est pas bien différent d'une partie de jeu de cartes ou d'un combat de scarabées avec les enfants du quartier.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17719">Genshin Impact - Arataki Itto : Étrange Oni</a>]]></content:encoded>
       <guid isPermaLink="false">17719</guid>
       <pubDate>Tue, 14 Dec 2021 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Gorou : Vers la victoire</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17744</link>
+      <description>La capacité de Gorou à remporter sans cesse la victoire dans des situations critiques repose sur son sens de la préparation et de l'adaptation.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121416495360314.jpg"><br/><br/>La capacité de Gorou à remporter sans cesse la victoire dans des situations critiques repose sur son sens de la préparation et de l'adaptation.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17744">Genshin Impact - Gorou : Vers la victoire</a>]]></content:encoded>
+      <guid isPermaLink="false">17744</guid>
+      <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
