@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-15T06:12:29.337339+00:00</updated>
+  <updated>2021-12-15T07:12:10.598676+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -385,15 +385,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15110</id>
-    <title>고요한 무망의 국가: &lt;원신&gt; 이나즈마 오케스트라 현장</title>
-    <updated>2021-08-21T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082105030153066.png"><br/><br/>이번 이나즈마 오케스트라 현장은 일본 도쿄 오페라 시티 콘서트홀에서 촬영했고 아주 오랜 역사를 지닌 도쿄 필하모니 오케스트라와 일본 최고의 민속 악기 연주가들이 함께 이나즈마 게임 음악 <Inazuma>와 <Overlord of the Thunderstorm>를 연주했다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15110">고요한 무망의 국가: <원신> 이나즈마 오케스트라 현장</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15110" rel="alternate"/>
-    <summary>이번 이나즈마 오케스트라 현장은 일본 도쿄 오페라 시티 콘서트홀에서 촬영했고 아주 오랜 역사를 지닌 도쿄 필하모니 오케스트라와 일본 최고의 민속 악기 연주가들이 함께 이나즈마 게임 음악 &lt;Inazuma&gt;와 &lt;Overlord of the Thunderstorm&gt;를 연주했다</summary>
-    <published>2021-08-21T12:01:00+09:00</published>
   </entry>
   <entry>
     <id>15103</id>
@@ -1203,6 +1194,15 @@
     <published>2021-11-25T12:01:00+09:00</published>
   </entry>
   <entry>
+    <id>17761</id>
+    <title>원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</title>
+    <updated>2021-12-01T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121514475673927.jpg"><br/><br/>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17761">원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17761" rel="alternate"/>
+    <summary>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.</summary>
+    <published>2021-12-01T18:00:00+09:00</published>
+  </entry>
+  <entry>
     <id>17457</id>
     <title>여행자님에게 보내는 감사 편지</title>
     <updated>2021-12-03T20:00:00+09:00</updated>
@@ -1320,15 +1320,6 @@
     <summary>고로가 위험천만한 전장에서 매번 승리할 수 있는 건 유비무환과 임기응변
 그리고 동료를 수호하고자 하는 확고한 진심 때문이다</summary>
     <published>2021-12-15T12:01:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15418</id>
-    <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
-    <updated>2021-08-30T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083007444831459.jpg"><br/><br/>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15418">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15418" rel="alternate"/>
-    <summary>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다</summary>
-    <published>2021-08-30T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>15431</id>
@@ -2121,6 +2112,15 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17381" rel="alternate"/>
     <summary>행운의 수상자가 누군지 확인해 보자~</summary>
     <published>2021-12-01T12:00:26+09:00</published>
+  </entry>
+  <entry>
+    <id>17761</id>
+    <title>원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</title>
+    <updated>2021-12-01T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121514475673927.jpg"><br/><br/>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17761">원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17761" rel="alternate"/>
+    <summary>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.</summary>
+    <published>2021-12-01T18:00:00+09:00</published>
   </entry>
   <entry>
     <id>17457</id>

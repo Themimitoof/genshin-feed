@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-15T06:12:25.928453+00:00</updated>
+  <updated>2021-12-15T07:12:06.082392+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15418</id>
-    <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
-    <updated>2021-08-30T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083007444831459.jpg"><br/><br/>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15418">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15418" rel="alternate"/>
-    <summary>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다</summary>
-    <published>2021-08-30T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>15431</id>
     <title>「신의 주조」 기원: 「장병기·예초의 번개」, 「양손검·무공의 검」 확률 UP!</title>
@@ -809,6 +800,15 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17381" rel="alternate"/>
     <summary>행운의 수상자가 누군지 확인해 보자~</summary>
     <published>2021-12-01T12:00:26+09:00</published>
+  </entry>
+  <entry>
+    <id>17761</id>
+    <title>원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</title>
+    <updated>2021-12-01T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121514475673927.jpg"><br/><br/>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17761">원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17761" rel="alternate"/>
+    <summary>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.</summary>
+    <published>2021-12-01T18:00:00+09:00</published>
   </entry>
   <entry>
     <id>17457</id>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-12-15T06:12:26.880786+00:00</updated>
+  <updated>2021-12-15T07:12:07.405712+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15110</id>
-    <title>고요한 무망의 국가: &lt;원신&gt; 이나즈마 오케스트라 현장</title>
-    <updated>2021-08-21T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082105030153066.png"><br/><br/>이번 이나즈마 오케스트라 현장은 일본 도쿄 오페라 시티 콘서트홀에서 촬영했고 아주 오랜 역사를 지닌 도쿄 필하모니 오케스트라와 일본 최고의 민속 악기 연주가들이 함께 이나즈마 게임 음악 <Inazuma>와 <Overlord of the Thunderstorm>를 연주했다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15110">고요한 무망의 국가: <원신> 이나즈마 오케스트라 현장</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15110" rel="alternate"/>
-    <summary>이번 이나즈마 오케스트라 현장은 일본 도쿄 오페라 시티 콘서트홀에서 촬영했고 아주 오랜 역사를 지닌 도쿄 필하모니 오케스트라와 일본 최고의 민속 악기 연주가들이 함께 이나즈마 게임 음악 &lt;Inazuma&gt;와 &lt;Overlord of the Thunderstorm&gt;를 연주했다</summary>
-    <published>2021-08-21T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>15103</id>
     <title>&lt;원신&gt; 첫 충전 2배 페이백 초기화 설명</title>
@@ -824,6 +815,15 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17312" rel="alternate"/>
     <summary>바람이 몰아치는 낭떠러지, 무성한 숲, 산기슭의 눈</summary>
     <published>2021-11-25T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17761</id>
+    <title>원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</title>
+    <updated>2021-12-01T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121514475673927.jpg"><br/><br/>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17761">원신은 앞으로 에픽 게임 스토어 결제를 지원합니다.</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17761" rel="alternate"/>
+    <summary>에픽 게임 스토어 유저는 이제 에픽 게임 스토어에서 지원하는 결제 방식을 사용할 수 있습니다.</summary>
+    <published>2021-12-01T18:00:00+09:00</published>
   </entry>
   <entry>
     <id>17457</id>
