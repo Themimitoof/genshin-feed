@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-12-16T02:29:01.023287+00:00</updated>
+  <updated>2021-12-16T03:11:40.308222+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>13484</id>
-    <title>「真夏！島？大冒険！」Tips・第004期</title>
-    <updated>2021-06-17T10:29:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210616/2021061611462549289.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13484">「真夏！島？大冒険！」Tips・第004期</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13484" rel="alternate"/>
-    <published>2021-06-17T10:29:00+09:00</published>
-  </entry>
   <entry>
     <id>13519</id>
     <title>Ver.1.6「真夏！島？大冒険！」キービジュアル壁紙公開！</title>
@@ -885,5 +877,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17758" rel="alternate"/>
     <summary/>
     <published>2021-12-15T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17759</id>
+    <title>「迷城戦線・光界編」イベント紹介</title>
+    <updated>2021-12-16T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121511095949654.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17759">「迷城戦線・光界編」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17759" rel="alternate"/>
+    <published>2021-12-16T10:30:00+09:00</published>
   </entry>
 </feed>

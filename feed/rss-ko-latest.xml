@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:29:03 +0000</lastBuildDate>
-    <item>
-      <title>「신의 주조」 기원: 「장병기·예초의 번개」, 「양손검·무공의 검」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15431</link>
-      <description>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010181974971.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15431">「신의 주조」 기원: 「장병기·예초의 번개」, 「양손검·무공의 검」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">15431</guid>
-      <pubDate>Mon, 30 Aug 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Dec 2021 03:11:47 +0000</lastBuildDate>
     <item>
       <title>「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15420</link>
@@ -833,6 +825,14 @@
 그리고 동료를 수호하고자 하는 확고한 진심 때문이다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17734"><원신> 데인 여담 - 「고로: 돌격형 승전법」</a>]]></content:encoded>
       <guid isPermaLink="false">17734</guid>
       <pubDate>Wed, 15 Dec 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「잃어버린 도시 전선·빛의 경계」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17772</link>
+      <description>잃어버린 도시 밖에 있는 그 어떠한 것도 안으로 갖고 들어갈 수 없습니다. 함께 모험할 팀원을 선택해 가장 깊은 곳에 있는 비밀을 밝히세요</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121518421368575.jpg"><br/><br/>잃어버린 도시 밖에 있는 그 어떠한 것도 안으로 갖고 들어갈 수 없습니다. 함께 모험할 팀원을 선택해 가장 깊은 곳에 있는 비밀을 밝히세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17772">「잃어버린 도시 전선·빛의 경계」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">17772</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 03:11:25 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -254,14 +254,6 @@ Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812121526926.png"><br/><br/>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/7463">Vorschau zur Aktualisierung auf Version 1.2 „Kreide und Drachen“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">7463</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15117</link>
-      <description>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111335210742.jpg"><br/><br/>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15117">Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</a>]]></content:encoded>
-      <guid isPermaLink="false">15117</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Aktualisierungsübersicht für Version 2.1: Erläuterungen zur Spielweise des Angelsystems</title>
@@ -1098,14 +1090,12 @@ Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read mo
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Vorzeitiges Herunterladen bald verfügbar</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15335</link>
-      <description>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711125758145.jpg"><br/><br/>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze die Funktion zum vorzeitigen Herunterladen für PC und mobile Geräte verfügbar machen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15335">Vorzeitiges Herunterladen bald verfügbar</a>]]></content:encoded>
-      <guid isPermaLink="false">15335</guid>
-      <pubDate>Fri, 27 Aug 2021 11:30:00 +0200</pubDate>
+      <title>Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17769</link>
+      <description>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516441645272.jpg"><br/><br/>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17769">Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</a>]]></content:encoded>
+      <guid isPermaLink="false">17769</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>„Meinen Bogen und meine Pfeile benutze ich nur, um anderen zu helfen.“</title>
@@ -1944,6 +1934,14 @@ Außerdem ist er fest entschlossen, seine Kameraden zu schützen.</description>
 Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17748">Fähigkeiten bei Genshin Impact – Gorou: Vorwärts zum Sieg</a>]]></content:encoded>
       <guid isPermaLink="false">17748</guid>
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17769</link>
+      <description>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516441645272.jpg"><br/><br/>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17769">Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</a>]]></content:encoded>
+      <guid isPermaLink="false">17769</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

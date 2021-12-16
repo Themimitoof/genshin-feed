@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-12-16T02:29:00.970513+00:00</updated>
+  <updated>2021-12-16T03:11:40.262598+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -346,15 +346,6 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15161</id>
-    <title>Preview Update v2.1: Penjelasan Sistem Memancing</title>
-    <updated>2021-08-24T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082320211144421.png"><br/><br/>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15161">Preview Update v2.1: Penjelasan Sistem Memancing</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15161" rel="alternate"/>
-    <summary>Halo Traveler semua~ Di v2.1, sistem Memancing yang sudah ditunggu-tunggu sudah bisa dimainkan nih. Yuk, kita lihat sama-sama cara memainkannya~</summary>
-    <published>2021-08-24T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15262</id>
@@ -1258,13 +1249,13 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <published>2021-12-15T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15426</id>
-    <title>Quest Archon Chapter II: Bag. III "Sang Mahahadir di Dunia Fana" Segera Dibuka</title>
-    <updated>2021-08-30T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009561015685.jpg"><br/><br/>Tri-Commission, Pasukan Pemberontak, Dekrit Perburuan Vision, "Musou no Hitotachi" ... Traveler sudah terlibat dalam pusat pertempuran Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15426">Quest Archon Chapter II: Bag. III "Sang Mahahadir di Dunia Fana" Segera Dibuka</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15426" rel="alternate"/>
-    <summary>Tri-Commission, Pasukan Pemberontak, Dekrit Perburuan Vision, "Musou no Hitotachi" ... Traveler sudah terlibat dalam pusat pertempuran Inazuma.</summary>
-    <published>2021-08-30T12:00:00+07:00</published>
+    <id>17777</id>
+    <title>Cara Bermain "Kota Kabut: Alam Cahaya"</title>
+    <updated>2021-12-16T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211216/2021121610135014099.jpg"><br/><br/>Tidak ada benda apa pun yang bisa dibawa ke dalam Kota Kabut. Bentuk tim petualang terbaikmu dan bersiaplah untuk menjelajahi tempat yang penuh dengan rahasia ini.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17777">Cara Bermain "Kota Kabut: Alam Cahaya"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17777" rel="alternate"/>
+    <summary>Tidak ada benda apa pun yang bisa dibawa ke dalam Kota Kabut. Bentuk tim petualang terbaikmu dan bersiaplah untuk menjelajahi tempat yang penuh dengan rahasia ini.</summary>
+    <published>2021-12-16T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15429</id>
@@ -2174,5 +2165,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17752" rel="alternate"/>
     <summary>Gorou bisa terus meraih kemenangan di medan perang yang penuh bahaya dengan mengandalkan persiapan yang matang</summary>
     <published>2021-12-15T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17777</id>
+    <title>Cara Bermain "Kota Kabut: Alam Cahaya"</title>
+    <updated>2021-12-16T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211216/2021121610135014099.jpg"><br/><br/>Tidak ada benda apa pun yang bisa dibawa ke dalam Kota Kabut. Bentuk tim petualang terbaikmu dan bersiaplah untuk menjelajahi tempat yang penuh dengan rahasia ini.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17777">Cara Bermain "Kota Kabut: Alam Cahaya"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17777" rel="alternate"/>
+    <summary>Tidak ada benda apa pun yang bisa dibawa ke dalam Kota Kabut. Bentuk tim petualang terbaikmu dan bersiaplah untuk menjelajahi tempat yang penuh dengan rahasia ini.</summary>
+    <published>2021-12-16T10:30:00+07:00</published>
   </entry>
 </feed>

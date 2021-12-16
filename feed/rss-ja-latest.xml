@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:29:01 +0000</lastBuildDate>
-    <item>
-      <title>「真夏！島？大冒険！」Tips・第004期</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13484</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210616/2021061611462549289.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13484">「真夏！島？大冒険！」Tips・第004期</a>]]></description>
-      <guid isPermaLink="false">13484</guid>
-      <pubDate>Thu, 17 Jun 2021 10:29:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Dec 2021 03:11:40 +0000</lastBuildDate>
     <item>
       <title>Ver.1.6「真夏！島？大冒険！」キービジュアル壁紙公開！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/13519</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121511002195685.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17758">「迷城戦線・光界編」イベント予告</a>]]></description>
       <guid isPermaLink="false">17758</guid>
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「迷城戦線・光界編」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17759</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121511095949654.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17759">「迷城戦線・光界編」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17759</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

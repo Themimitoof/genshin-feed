@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2021-12-16T02:29:11.998853+00:00</updated>
+  <updated>2021-12-16T03:12:16.493353+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -293,15 +293,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15095</id>
-    <title>Genshin Impact - รีเซ็ตโบนัสการเติมเงินครั้งแรก</title>
-    <updated>2021-08-20T23:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082018304933353.jpg"><br/><br/>หลังอัปเดตเวอร์ชัน 2.1 Genshin Impact<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15095">Genshin Impact - รีเซ็ตโบนัสการเติมเงินครั้งแรก</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15095" rel="alternate"/>
-    <summary>หลังอัปเดตเวอร์ชัน 2.1 Genshin Impact</summary>
-    <published>2021-08-20T23:30:00+07:00</published>
   </entry>
   <entry>
     <id>15058</id>
@@ -1130,13 +1121,12 @@
     <published>2021-12-15T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15323</id>
-    <title>Genshin Impact ตัวอย่างตัวละคร - "Aloy: นักล่ามหัศจรรย์"</title>
-    <updated>2021-08-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619274565395.jpg"><br/><br/>นักล่าผู้เก่งกาจ ที่คอยไล่ตามหาพื้นที่ล่าอันแสนตื่นเต้นและแปลกใหม่อยู่เสมอ<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15323">Genshin Impact ตัวอย่างตัวละคร - "Aloy: นักล่ามหัศจรรย์"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15323" rel="alternate"/>
-    <summary>นักล่าผู้เก่งกาจ ที่คอยไล่ตามหาพื้นที่ล่าอันแสนตื่นเต้นและแปลกใหม่อยู่เสมอ</summary>
-    <published>2021-08-27T12:00:00+07:00</published>
+    <id>17768</id>
+    <title>คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ - แสงสว่างในโลกกว้าง"</title>
+    <updated>2021-12-16T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516225942501.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17768">คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ - แสงสว่างในโลกกว้าง"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17768" rel="alternate"/>
+    <published>2021-12-16T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15379</id>
@@ -1962,5 +1952,13 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/17754" rel="alternate"/>
     <summary>การที่ Gorou สามารถได้รับชัยชนะมากมายในสนามรบที่เต็มไปด้วยอันตรายได้ เพราะว่าความระมัดระวังรอบคอบ กับการปรับตัวให้เข้ากับการเปลี่ยนแปลงของสถานการณ์</summary>
     <published>2021-12-15T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17768</id>
+    <title>คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ - แสงสว่างในโลกกว้าง"</title>
+    <updated>2021-12-16T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516225942501.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17768">คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ - แสงสว่างในโลกกว้าง"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17768" rel="alternate"/>
+    <published>2021-12-16T10:30:00+07:00</published>
   </entry>
 </feed>

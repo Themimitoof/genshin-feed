@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:29:05 +0000</lastBuildDate>
-    <item>
-      <title>Nova Oração Encarnação Divina: Aumentada a probabilidade de obtenção da "Luz do Cortador de Grama (Lança) e da "Espada Áspera (Espadão)"!</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15413</link>
-      <description>Durante o período do Evento, o Viajante poderá obter mais armas e personagens na Oração "Encarnação Divina", aumentando a força de combate da equipe!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916364635665.jpg"><br/><br/>Durante o período do Evento, o Viajante poderá obter mais armas e personagens na Oração "Encarnação Divina", aumentando a força de combate da equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15413">Nova Oração Encarnação Divina: Aumentada a probabilidade de obtenção da "Luz do Cortador de Grama (Lança) e da "Espada Áspera (Espadão)"!</a>]]></content:encoded>
-      <guid isPermaLink="false">15413</guid>
-      <pubDate>Mon, 30 Aug 2021 12:01:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Dec 2021 03:11:55 +0000</lastBuildDate>
     <item>
       <title>Oração "Reino da Serenidade": Taxa de Drop de "Plano da Eutimia - Shogun Raiden (Electro)" aumentada! </title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15414</link>
@@ -812,6 +804,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121416380854580.jpg"><br/><br/>Graças a sua personalidade cautelosa, e a sua incrível habilidade de poder se adaptar com qualquer situação, Gorou é capaz de vencer repetidamente no perigoso campo de batalha.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17742">Coleção Variada de Genshin Impact - "Gorou: Para a Vitória"</a>]]></content:encoded>
       <guid isPermaLink="false">17742</guid>
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Descrição do Modo de Jogo "Linha de Frente: Reino da Luz"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17762</link>
+      <description>Nada de fora da Cidade Perdida pode ser levada para dentro. Escolha os membros de sua Equipe de Aventura e prepare-se para uma jornada rumo aos segredos das profundezas!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121515300513096.jpg"><br/><br/>Nada de fora da Cidade Perdida pode ser levada para dentro. Escolha os membros de sua Equipe de Aventura e prepare-se para uma jornada rumo aos segredos das profundezas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17762">Descrição do Modo de Jogo "Linha de Frente: Reino da Luz"</a>]]></content:encoded>
+      <guid isPermaLink="false">17762</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

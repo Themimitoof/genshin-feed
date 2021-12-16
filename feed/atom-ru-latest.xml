@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-12-16T02:29:07.705733+00:00</updated>
+  <updated>2021-12-16T03:12:02.703376+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15392</id>
-    <title>Командный турнир «Хякунин икки»</title>
-    <updated>2021-08-30T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15392">Командный турнир «Хякунин икки»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15392" rel="alternate"/>
-    <summary>В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.</summary>
-    <published>2021-08-30T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>15394</id>
     <title>Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</title>
@@ -924,5 +915,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17738" rel="alternate"/>
     <summary>Горо раз за разом побеждает на поле боя, где опасности подстерегают со всех сторон, потому что он осторожен и умеет приспосабливаться к обстоятельствам.</summary>
     <published>2021-12-15T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17764</id>
+    <title>«Туманное подземелье: Обитель света»: описание события</title>
+    <updated>2021-12-16T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121515460285685.jpg"><br/><br/>В Затерянный город нельзя ничего пронести. Соберите свой лучший отряд искателей приключений и отправляйтесь в полные сокровенных тайн глубины.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17764">«Туманное подземелье: Обитель света»: описание события</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17764" rel="alternate"/>
+    <summary>В Затерянный город нельзя ничего пронести. Соберите свой лучший отряд искателей приключений и отправляйтесь в полные сокровенных тайн глубины.</summary>
+    <published>2021-12-16T10:30:00+03:00</published>
   </entry>
 </feed>

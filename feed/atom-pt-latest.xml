@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-12-16T02:29:05.404179+00:00</updated>
+  <updated>2021-12-16T03:11:55.506512+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15413</id>
-    <title>Nova Oração Encarnação Divina: Aumentada a probabilidade de obtenção da "Luz do Cortador de Grama (Lança) e da "Espada Áspera (Espadão)"!</title>
-    <updated>2021-08-30T12:01:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916364635665.jpg"><br/><br/>Durante o período do Evento, o Viajante poderá obter mais armas e personagens na Oração "Encarnação Divina", aumentando a força de combate da equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15413">Nova Oração Encarnação Divina: Aumentada a probabilidade de obtenção da "Luz do Cortador de Grama (Lança) e da "Espada Áspera (Espadão)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15413" rel="alternate"/>
-    <summary>Durante o período do Evento, o Viajante poderá obter mais armas e personagens na Oração "Encarnação Divina", aumentando a força de combate da equipe!</summary>
-    <published>2021-08-30T12:01:00+01:00</published>
-  </entry>
   <entry>
     <id>15414</id>
     <title>Oração "Reino da Serenidade": Taxa de Drop de "Plano da Eutimia - Shogun Raiden (Electro)" aumentada! </title>
@@ -914,5 +905,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17742" rel="alternate"/>
     <summary>Graças a sua personalidade cautelosa, e a sua incrível habilidade de poder se adaptar com qualquer situação, Gorou é capaz de vencer repetidamente no perigoso campo de batalha.</summary>
     <published>2021-12-15T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17762</id>
+    <title>Descrição do Modo de Jogo "Linha de Frente: Reino da Luz"</title>
+    <updated>2021-12-16T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121515300513096.jpg"><br/><br/>Nada de fora da Cidade Perdida pode ser levada para dentro. Escolha os membros de sua Equipe de Aventura e prepare-se para uma jornada rumo aos segredos das profundezas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17762">Descrição do Modo de Jogo "Linha de Frente: Reino da Luz"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17762" rel="alternate"/>
+    <summary>Nada de fora da Cidade Perdida pode ser levada para dentro. Escolha os membros de sua Equipe de Aventura e prepare-se para uma jornada rumo aos segredos das profundezas!</summary>
+    <published>2021-12-16T10:30:00+00:00</published>
   </entry>
 </feed>

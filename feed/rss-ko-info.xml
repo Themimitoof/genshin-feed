@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:29:03 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 첫 충전 2배 페이백 초기화 설명</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15103</link>
-      <description>&lt;원신&gt;은 2.1 버전 업데이트 이후 첫 충전 2배를 초기화 할 예정입니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082019453922773.jpg"><br/><br/><원신>은 2.1 버전 업데이트 이후 첫 충전 2배를 초기화 할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15103"><원신> 첫 충전 2배 페이백 초기화 설명</a>]]></content:encoded>
-      <guid isPermaLink="false">15103</guid>
-      <pubDate>Sat, 21 Aug 2021 23:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Dec 2021 03:11:50 +0000</lastBuildDate>
     <item>
       <title>2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15174</link>
@@ -840,6 +832,14 @@
 그리고 동료를 수호하고자 하는 확고한 진심 때문이다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17734"><원신> 데인 여담 - 「고로: 돌격형 승전법」</a>]]></content:encoded>
       <guid isPermaLink="false">17734</guid>
       <pubDate>Wed, 15 Dec 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「잃어버린 도시 전선·빛의 경계」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17772</link>
+      <description>잃어버린 도시 밖에 있는 그 어떠한 것도 안으로 갖고 들어갈 수 없습니다. 함께 모험할 팀원을 선택해 가장 깊은 곳에 있는 비밀을 밝히세요</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121518421368575.jpg"><br/><br/>잃어버린 도시 밖에 있는 그 어떠한 것도 안으로 갖고 들어갈 수 없습니다. 함께 모험할 팀원을 선택해 가장 깊은 곳에 있는 비밀을 밝히세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17772">「잃어버린 도시 전선·빛의 경계」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">17772</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

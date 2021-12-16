@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:28:48 +0000</lastBuildDate>
-    <item>
-      <title>Le pré-téléchargement sera bientôt disponible</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15337</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711182382421.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15337">Le pré-téléchargement sera bientôt disponible</a>]]></description>
-      <guid isPermaLink="false">15337</guid>
-      <pubDate>Fri, 27 Aug 2021 11:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Dec 2021 03:10:53 +0000</lastBuildDate>
     <item>
       <title>« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15301</link>
@@ -749,6 +742,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121416495360314.jpg"><br/><br/>La capacité de Gorou à remporter sans cesse la victoire dans des situations critiques repose sur son sens de la préparation et de l'adaptation.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17744">Genshin Impact - Gorou : Vers la victoire</a>]]></content:encoded>
       <guid isPermaLink="false">17744</guid>
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Cité perdue : Domaine de lumière »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17771</link>
+      <description>Rien ni personne n'entre jamais dans la cité perdue. Rassemblez votre équipe et préparez-vous à plonger au cœur de ses secrets les plus profonds.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121518211749260.jpg"><br/><br/>Rien ni personne n'entre jamais dans la cité perdue. Rassemblez votre équipe et préparez-vous à plonger au cœur de ses secrets les plus profonds.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17771">Détails de l'événement « Cité perdue : Domaine de lumière »</a>]]></content:encoded>
+      <guid isPermaLink="false">17771</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

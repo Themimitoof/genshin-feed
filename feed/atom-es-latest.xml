@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-16T02:28:55.779322+00:00</updated>
+  <updated>2021-12-16T03:11:25.409145+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15434</id>
-    <title>Evento «Reino lunar»: ¡Pesca para obtener cañas exclusivas!</title>
-    <updated>2021-08-30T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010290456161.jpg"><br/><br/>Durante el evento, únete a Kujirai Momiji, una pescadora de Inazuma, en su búsqueda por capturar el legendario pez "leviatán lunar". Completa las misiones del evento para obtener la caña de pescar exclusiva Cuerda de la luna, Protogemas, misteriosos peces ornamentales y otras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15434">Evento «Reino lunar»: ¡Pesca para obtener cañas exclusivas!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15434" rel="alternate"/>
-    <summary>Durante el evento, únete a Kujirai Momiji, una pescadora de Inazuma, en su búsqueda por capturar el legendario pez "leviatán lunar". Completa las misiones del evento para obtener la caña de pescar exclusiva Cuerda de la luna, Protogemas, misteriosos peces ornamentales y otras recompensas.</summary>
-    <published>2021-08-30T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15416</id>
     <title>¡Gachapón «Encarnación divina»! ¡Probabilidad de obtención de Luz del Segador (lanza) y Espada de la Desidia (mandoble) aumentada!</title>
@@ -920,5 +911,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121420093990971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17750">Genshin Impact - Gorou: ¡Vamos por la victoria!</a>]]></content>
     <link href="https://genshin.mihoyo.com/es/news/detail/17750" rel="alternate"/>
     <published>2021-12-15T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17766</id>
+    <title>Detalles del evento «Mazmorra de la bruma: Reino de luz»</title>
+    <updated>2021-12-16T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516104392729.jpg"><br/><br/>En la Mazmorra de la bruma no puede entrar nada del exterior. Elige a quienes te acompañarán en esta aventura y adéntrate en los secretos de este lugar.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17766">Detalles del evento «Mazmorra de la bruma: Reino de luz»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17766" rel="alternate"/>
+    <summary>En la Mazmorra de la bruma no puede entrar nada del exterior. Elige a quienes te acompañarán en esta aventura y adéntrate en los secretos de este lugar.</summary>
+    <published>2021-12-16T10:30:00+01:00</published>
   </entry>
 </feed>

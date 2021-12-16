@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:28:53 +0000</lastBuildDate>
-    <item>
-      <title>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15117</link>
-      <description>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082111335210742.jpg"><br/><br/>Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15117">Vorstellungsseite zu Version 2.1 „Vom Mond beschienene Welt“ jetzt verfügbar!</a>]]></content:encoded>
-      <guid isPermaLink="false">15117</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 16 Dec 2021 03:11:19 +0000</lastBuildDate>
     <item>
       <title>Aktualisierungsübersicht für Version 2.1: Erläuterungen zur Spielweise des Angelsystems</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15152</link>
@@ -850,6 +842,14 @@ Außerdem ist er fest entschlossen, seine Kameraden zu schützen.</description>
 Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17748">Fähigkeiten bei Genshin Impact – Gorou: Vorwärts zum Sieg</a>]]></content:encoded>
       <guid isPermaLink="false">17748</guid>
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17769</link>
+      <description>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516441645272.jpg"><br/><br/>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17769">Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</a>]]></content:encoded>
+      <guid isPermaLink="false">17769</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

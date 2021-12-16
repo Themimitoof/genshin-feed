@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-12-16T02:28:44.639089+00:00</updated>
+  <updated>2021-12-16T03:10:45.010872+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15353</id>
-    <title>Paimon's Sneak Peek at Version 2.1 New Events - Phase I</title>
-    <updated>2021-08-30T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721082073326.jpg"><br/><br/>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15353">Paimon's Sneak Peek at Version 2.1 New Events - Phase I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15353" rel="alternate"/>
-    <summary>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~</summary>
-    <published>2021-08-30T12:10:00-04:00</published>
-  </entry>
   <entry>
     <id>15468</id>
     <title>Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</title>
@@ -992,5 +983,14 @@ And his sincere heart that is determined to protect his companions.<br><br>Read 
     <summary>Gorou's ability to repeatedly win on the perilous battlefield relies on planning ahead and improvisation.
 And his sincere heart that is determined to protect his companions.</summary>
     <published>2021-12-15T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17763</id>
+    <title>"Misty Dungeon: Realm of Light" Gameplay Details</title>
+    <updated>2021-12-16T10:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121515450315328.jpg"><br/><br/>Nothing from outside the Lost City can ever be taken inside. Assemble your adventure dream team and prepare to journey to a place of profound secrets.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17763">"Misty Dungeon: Realm of Light" Gameplay Details</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17763" rel="alternate"/>
+    <summary>Nothing from outside the Lost City can ever be taken inside. Assemble your adventure dream team and prepare to journey to a place of profound secrets.</summary>
+    <published>2021-12-16T10:30:00-05:00</published>
   </entry>
 </feed>

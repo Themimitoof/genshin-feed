@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 16 Dec 2021 02:28:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 03:11:32 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -278,14 +278,6 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15278</link>
-      <description>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082522141972812.jpg"><br/><br/>El director Dirk Brossé y la Orquesta Sinfónica de Flandes nos traerán un maravilloso viaje musical en el que podremos revivir las emocionantes melodías que resuenan en los diferentes escenarios de Teyvat.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15278">CONCIERTO GENSHIN 2021 - Melodías de un viaje eterno (Melodies of an Endless Journey) teaser 1</a>]]></content:encoded>
-      <guid isPermaLink="false">15278</guid>
-      <pubDate>Thu, 26 Aug 2021 04:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Diario de Inazuma: Isla Watatsumi e Isla Seirai</title>
@@ -1086,12 +1078,12 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Evento «Reino lunar»: ¡Pesca para obtener cañas exclusivas!</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15434</link>
-      <description>Durante el evento, únete a Kujirai Momiji, una pescadora de Inazuma, en su búsqueda por capturar el legendario pez "leviatán lunar". Completa las misiones del evento para obtener la caña de pescar exclusiva Cuerda de la luna, Protogemas, misteriosos peces ornamentales y otras recompensas.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010290456161.jpg"><br/><br/>Durante el evento, únete a Kujirai Momiji, una pescadora de Inazuma, en su búsqueda por capturar el legendario pez "leviatán lunar". Completa las misiones del evento para obtener la caña de pescar exclusiva Cuerda de la luna, Protogemas, misteriosos peces ornamentales y otras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15434">Evento «Reino lunar»: ¡Pesca para obtener cañas exclusivas!</a>]]></content:encoded>
-      <guid isPermaLink="false">15434</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0200</pubDate>
+      <title>Detalles del evento «Mazmorra de la bruma: Reino de luz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17766</link>
+      <description>En la Mazmorra de la bruma no puede entrar nada del exterior. Elige a quienes te acompañarán en esta aventura y adéntrate en los secretos de este lugar.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516104392729.jpg"><br/><br/>En la Mazmorra de la bruma no puede entrar nada del exterior. Elige a quienes te acompañarán en esta aventura y adéntrate en los secretos de este lugar.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17766">Detalles del evento «Mazmorra de la bruma: Reino de luz»</a>]]></content:encoded>
+      <guid isPermaLink="false">17766</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>¡Gachapón «Encarnación divina»! ¡Probabilidad de obtención de Luz del Segador (lanza) y Espada de la Desidia (mandoble) aumentada!</title>
@@ -1893,6 +1885,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211214/2021121420093990971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17750">Genshin Impact - Gorou: ¡Vamos por la victoria!</a>]]></description>
       <guid isPermaLink="false">17750</guid>
       <pubDate>Wed, 15 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Detalles del evento «Mazmorra de la bruma: Reino de luz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17766</link>
+      <description>En la Mazmorra de la bruma no puede entrar nada del exterior. Elige a quienes te acompañarán en esta aventura y adéntrate en los secretos de este lugar.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516104392729.jpg"><br/><br/>En la Mazmorra de la bruma no puede entrar nada del exterior. Elige a quienes te acompañarán en esta aventura y adéntrate en los secretos de este lugar.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17766">Detalles del evento «Mazmorra de la bruma: Reino de luz»</a>]]></content:encoded>
+      <guid isPermaLink="false">17766</guid>
+      <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
