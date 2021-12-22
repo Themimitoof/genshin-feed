@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-12-22T03:12:21.527315+00:00</updated>
+  <updated>2021-12-22T04:14:09.795079+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>8594</id>
-    <title>「海灯祭」イベント紹介</title>
-    <updated>2021-02-09T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210209/2021020910062172511.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8594">「海灯祭」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/8594" rel="alternate"/>
-    <summary/>
-    <published>2021-02-09T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>8595</id>
     <title>「機関棋譚」イベント紹介</title>
@@ -887,6 +878,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121511095949654.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17759">「迷城戦線・光界編」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/17759" rel="alternate"/>
     <published>2021-12-16T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17826</id>
+    <title>「エネルギー原盤・後序」イベント予告</title>
+    <updated>2021-12-22T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211221/2021122118530590519.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17826">「エネルギー原盤・後序」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17826" rel="alternate"/>
+    <published>2021-12-22T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>5839</id>
@@ -1981,22 +1980,13 @@
     <published>2021-11-16T22:50:00+09:00</published>
   </entry>
   <entry>
-    <id>13519</id>
-    <title>Ver.1.6「真夏！島？大冒険！」キービジュアル壁紙公開！</title>
-    <updated>2021-06-19T11:59:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210618/2021061819582994909.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13519">Ver.1.6「真夏！島？大冒険！」キービジュアル壁紙公開！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13519" rel="alternate"/>
+    <id>17825</id>
+    <title>Ver.2.3スタンプ配布</title>
+    <updated>2021-12-22T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211221/2021122115593522371.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17825">Ver.2.3スタンプ配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17825" rel="alternate"/>
     <summary/>
-    <published>2021-06-19T11:59:00+09:00</published>
-  </entry>
-  <entry>
-    <id>13502</id>
-    <title>ヒルチャールスタンプ配布</title>
-    <updated>2021-06-20T10:29:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13502">ヒルチャールスタンプ配布</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13502" rel="alternate"/>
-    <summary/>
-    <published>2021-06-20T10:29:00+09:00</published>
+    <published>2021-12-22T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>13529</id>
@@ -2856,5 +2846,22 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121511095949654.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17759">「迷城戦線・光界編」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/17759" rel="alternate"/>
     <published>2021-12-16T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17825</id>
+    <title>Ver.2.3スタンプ配布</title>
+    <updated>2021-12-22T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211221/2021122115593522371.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17825">Ver.2.3スタンプ配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17825" rel="alternate"/>
+    <summary/>
+    <published>2021-12-22T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17826</id>
+    <title>「エネルギー原盤・後序」イベント予告</title>
+    <updated>2021-12-22T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211221/2021122118530590519.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17826">「エネルギー原盤・後序」イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17826" rel="alternate"/>
+    <published>2021-12-22T12:00:00+09:00</published>
   </entry>
 </feed>
