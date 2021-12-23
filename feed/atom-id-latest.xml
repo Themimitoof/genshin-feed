@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-23T01:59:10.731132+00:00</updated>
+  <updated>2021-12-23T02:35:24.953535+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15429</id>
-    <title>Event "Sentuhan Cahaya Rembulan": Ikuti dan Dapatkan Claymore Eksklusif "Luxurious Sea-Lord"!</title>
-    <updated>2021-08-30T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010155478376.jpg"><br/><br/>Selama event berlangsung, selesaikan misi di "Kisah Moonchase" atau ikuti event "Pemburu Cahaya Rembulan" dan tantangan "Jejak Kuliner", untuk mendapatkan Claymore Eksklusif "Luxurious Sea-Lord" dan Material Refinement-nya, Crown of Insight, Primogem, resep, serta hadiah lainnya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15429">Event "Sentuhan Cahaya Rembulan": Ikuti dan Dapatkan Claymore Eksklusif "Luxurious Sea-Lord"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15429" rel="alternate"/>
-    <summary>Selama event berlangsung, selesaikan misi di "Kisah Moonchase" atau ikuti event "Pemburu Cahaya Rembulan" dan tantangan "Jejak Kuliner", untuk mendapatkan Claymore Eksklusif "Luxurious Sea-Lord" dan Material Refinement-nya, Crown of Insight, Primogem, resep, serta hadiah lainnya.</summary>
-    <published>2021-08-30T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15441</id>
     <title>Event "Kerajaan Bulan": Pancing Ikan dan Dapatkan Joran Eksklusif!</title>
@@ -926,5 +917,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17777" rel="alternate"/>
     <summary>Tidak ada benda apa pun yang bisa dibawa ke dalam Kota Kabut. Bentuk tim petualang terbaikmu dan bersiaplah untuk menjelajahi tempat yang penuh dengan rahasia ini.</summary>
     <published>2021-12-16T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17830</id>
+    <title>Cara Bermain "Buah Penelitian Cakram Pengetahuan"</title>
+    <updated>2021-12-23T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122212480922178.jpg"><br/><br/>Event Buah Penelitian Cakram Pengetahuan akan segera dimulai.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17830">Cara Bermain "Buah Penelitian Cakram Pengetahuan"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17830" rel="alternate"/>
+    <summary>Event Buah Penelitian Cakram Pengetahuan akan segera dimulai.</summary>
+    <published>2021-12-23T10:30:00+07:00</published>
   </entry>
 </feed>

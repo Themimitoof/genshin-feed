@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:15 +0000</lastBuildDate>
-    <item>
-      <title>Giới thiệu nhân vật trong Genshin Impact - Aloy: Thợ Săn Bí Ẩn</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15326</link>
-      <description>Một thợ săn ưu tú sẽ luôn tìm kiếm những bãi săn mạo hiểm và mới lạ.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619284912198.jpg"><br/><br/>Một thợ săn ưu tú sẽ luôn tìm kiếm những bãi săn mạo hiểm và mới lạ.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15326">Giới thiệu nhân vật trong Genshin Impact - Aloy: Thợ Săn Bí Ẩn</a>]]></content:encoded>
-      <guid isPermaLink="false">15326</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:36:04 +0000</lastBuildDate>
     <item>
       <title>"Thực hiện 'vĩnh hằng' cho Shogun đại nhân chính là nguyện vọng của tôi."</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/15380</link>
@@ -716,6 +708,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516205255420.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17767">Hướng Dẫn Cách Chơi "Chiến Tuyến Mê Thành - Chương Ánh Sáng"		</a>]]></description>
       <guid isPermaLink="false">17767</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Hướng Dẫn Cách Chơi "Đĩa Dẫn Năng Lượng - Hồi Kết"		</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/17842</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122217012113549.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17842">Hướng Dẫn Cách Chơi "Đĩa Dẫn Năng Lượng - Hồi Kết"		</a>]]></description>
+      <guid isPermaLink="false">17842</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

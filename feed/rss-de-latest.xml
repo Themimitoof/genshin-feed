@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:09 +0000</lastBuildDate>
-    <item>
-      <title>„Meinen Bogen und meine Pfeile benutze ich nur, um anderen zu helfen.“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15299</link>
-      <description>Hallo, Reisende!
-Heute stellen wir euch ein Mädchen aus einer anderen Welt vor, und zwar Aloy. Viel Spaß dabei!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611304699906.jpg"><br/><br/>Hallo, Reisende!
-Heute stellen wir euch ein Mädchen aus einer anderen Welt vor, und zwar Aloy. Viel Spaß dabei!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15299">„Meinen Bogen und meine Pfeile benutze ich nur, um anderen zu helfen.“</a>]]></content:encoded>
-      <guid isPermaLink="false">15299</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:35:11 +0000</lastBuildDate>
     <item>
       <title>Figurenvorführung bei Genshin Impact – Aloy: Jägerin aus der Fremde</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15311</link>
@@ -854,6 +844,14 @@ Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516441645272.jpg"><br/><br/>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17769">Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</a>]]></content:encoded>
       <guid isPermaLink="false">17769</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Energieleitscheibe – Nachwort“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17832</link>
+      <description>Die Aktion „Energieleitscheibe – Nachwort“ beginnt bald. Du triffst den reisenden Sumeru-Gelehrten Hosseini noch einmal in Liyue. Er hat sich wieder auf die Energieleitscheibe konzentriert ...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214351041458.jpg"><br/><br/>Die Aktion „Energieleitscheibe – Nachwort“ beginnt bald. Du triffst den reisenden Sumeru-Gelehrten Hosseini noch einmal in Liyue. Er hat sich wieder auf die Energieleitscheibe konzentriert ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17832">Erläuterungen zur Spielweise von „Energieleitscheibe – Nachwort“</a>]]></content:encoded>
+      <guid isPermaLink="false">17832</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2021-12-23T01:59:11.509968+00:00</updated>
+  <updated>2021-12-23T02:35:32.071157+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>13529</id>
-    <title>「風来の剣闘奇譚」イベント予告</title>
-    <updated>2021-06-23T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062216211319551.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13529">「風来の剣闘奇譚」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13529" rel="alternate"/>
-    <summary/>
-    <published>2021-06-23T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>13575</id>
     <title>「風来の剣闘奇譚」イベント説明</title>
@@ -884,5 +875,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211221/2021122118530590519.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17826">「エネルギー原盤・後序」イベント予告</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/17826" rel="alternate"/>
     <published>2021-12-22T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17831</id>
+    <title>「エネルギー原盤・後序」イベント紹介</title>
+    <updated>2021-12-23T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214304228659.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17831">「エネルギー原盤・後序」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17831" rel="alternate"/>
+    <published>2021-12-23T10:30:00+09:00</published>
   </entry>
 </feed>

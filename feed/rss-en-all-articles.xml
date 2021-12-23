@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Dec 2021 02:34:58 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -329,16 +329,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>"The world remains constant over the centuries. But human life is like the dew at dawn or a bubble rising through water."</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15289</link>
-      <description>Hello, Travelers! Today, we will be introducing a new character, the Raiden Shogun.
-</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610521897363.jpg"><br/><br/>Hello, Travelers! Today, we will be introducing a new character, the Raiden Shogun.
-<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15289">"The world remains constant over the centuries. But human life is like the dew at dawn or a bubble rising through water."</a>]]></content:encoded>
-      <guid isPermaLink="false">15289</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Pre-Installation Function Coming Soon</title>
@@ -1215,14 +1205,11 @@ And his sincere heart that is determined to protect his companions.<br><br>Read 
       <pubDate>Thu, 16 Dec 2021 10:30:00 -0500</pubDate>
     </item>
     <item>
-      <title>Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15468</link>
-      <description>The sentimental cherry blossoms of days of yore have been stained with black.
-When thunder falls silent, the fleeting dream of an illusory bubble will be shattered.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110234372897.jpg"><br/><br/>The sentimental cherry blossoms of days of yore have been stained with black.
-When thunder falls silent, the fleeting dream of an illusory bubble will be shattered.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15468">Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15468</guid>
-      <pubDate>Tue, 31 Aug 2021 12:00:00 -0400</pubDate>
+      <title>"Energy Amplifier Fruition" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17835</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122215182167836.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17835">"Energy Amplifier Fruition" Gameplay Details</a>]]></description>
+      <guid isPermaLink="false">17835</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 -0500</pubDate>
     </item>
     <item>
       <title>Dear Travelers, we will temporarily close the Top-Up Center on Genshin Impact's official site</title>
@@ -2095,6 +2082,13 @@ And his sincere heart that is determined to protect his companions.<br><br>Read 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121515450315328.jpg"><br/><br/>Nothing from outside the Lost City can ever be taken inside. Assemble your adventure dream team and prepare to journey to a place of profound secrets.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17763">"Misty Dungeon: Realm of Light" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">17763</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Energy Amplifier Fruition" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17835</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122215182167836.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17835">"Energy Amplifier Fruition" Gameplay Details</a>]]></description>
+      <guid isPermaLink="false">17835</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

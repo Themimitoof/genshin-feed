@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-12-23T01:59:14.564544+00:00</updated>
+  <updated>2021-12-23T02:35:57.301465+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -344,15 +344,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15264</id>
-    <title>Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</title>
-    <updated>2021-08-26T04:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192761873.jpg"><br/><br/>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15264">Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15264" rel="alternate"/>
-    <summary>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие</summary>
-    <published>2021-08-26T04:00:00+03:00</published>
   </entry>
   <entry>
     <id>15233</id>
@@ -1258,13 +1249,13 @@
     <published>2021-12-16T10:30:00+03:00</published>
   </entry>
   <entry>
-    <id>15394</id>
-    <title>Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</title>
-    <updated>2021-08-30T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[В период события отправляйтесь вместе с мастерицей рыбалки из Инадзумы, Кудзирай Момидзи, на поиски легендарной рыбы - Лунного левиафана. Выполняйте различные задания и испытания события, чтобы получить эксклюзивную удочку события «Лунная нить», Камни Истока, Загадочную декоративную рыбу и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15394">Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15394" rel="alternate"/>
-    <summary>В период события отправляйтесь вместе с мастерицей рыбалки из Инадзумы, Кудзирай Момидзи, на поиски легендарной рыбы - Лунного левиафана. Выполняйте различные задания и испытания события, чтобы получить эксклюзивную удочку события «Лунная нить», Камни Истока, Загадочную декоративную рыбу и другие награды.</summary>
-    <published>2021-08-30T12:00:00+03:00</published>
+    <id>17833</id>
+    <title>Правила события «Диск усиления: Послесловие»</title>
+    <updated>2021-12-23T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214481048758.jpg"><br/><br/>Событие «Диск усиления: Послесловие» скоро начнётся! В Ли Юэ вы встречаете Хуссени, учёного из Сумеру. В центре его научных изысканий опять оказался Диск усиления...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17833">Правила события «Диск усиления: Послесловие»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17833" rel="alternate"/>
+    <summary>Событие «Диск усиления: Послесловие» скоро начнётся! В Ли Юэ вы встречаете Хуссени, учёного из Сумеру. В центре его научных изысканий опять оказался Диск усиления...</summary>
+    <published>2021-12-23T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>15396</id>
@@ -2172,5 +2163,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/17764" rel="alternate"/>
     <summary>В Затерянный город нельзя ничего пронести. Соберите свой лучший отряд искателей приключений и отправляйтесь в полные сокровенных тайн глубины.</summary>
     <published>2021-12-16T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17833</id>
+    <title>Правила события «Диск усиления: Послесловие»</title>
+    <updated>2021-12-23T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214481048758.jpg"><br/><br/>Событие «Диск усиления: Послесловие» скоро начнётся! В Ли Юэ вы встречаете Хуссени, учёного из Сумеру. В центре его научных изысканий опять оказался Диск усиления...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17833">Правила события «Диск усиления: Послесловие»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17833" rel="alternate"/>
+    <summary>Событие «Диск усиления: Послесловие» скоро начнётся! В Ли Юэ вы встречаете Хуссени, учёного из Сумеру. В центре его научных изысканий опять оказался Диск усиления...</summary>
+    <published>2021-12-23T10:30:00+03:00</published>
   </entry>
 </feed>

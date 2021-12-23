@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:12 +0000</lastBuildDate>
-    <item>
-      <title>「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15420</link>
-      <description>이벤트 기간에 여행자는 「축월의 미담」의 임무를 완료하거나 「달빛을 찾아서」, 「미식 찾는 선인의 흔적」 도전에 참여해 이벤트 전용 무기 「양손검·진주를 문 해황」과 해당 무기 재련 재료, 지식의 왕관, 원석, 레시피 등의 보상을 획득할 수 있습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008385048864.jpg"><br/><br/>이벤트 기간에 여행자는 「축월의 미담」의 임무를 완료하거나 「달빛을 찾아서」, 「미식 찾는 선인의 흔적」 도전에 참여해 이벤트 전용 무기 「양손검·진주를 문 해황」과 해당 무기 재련 재료, 지식의 왕관, 원석, 레시피 등의 보상을 획득할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15420">「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</a>]]></content:encoded>
-      <guid isPermaLink="false">15420</guid>
-      <pubDate>Mon, 30 Aug 2021 12:02:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:35:38 +0000</lastBuildDate>
     <item>
       <title>「백 명의 봉기」 이벤트: 파티 변경 난투 도전</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15421</link>
@@ -833,6 +825,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121518421368575.jpg"><br/><br/>잃어버린 도시 밖에 있는 그 어떠한 것도 안으로 갖고 들어갈 수 없습니다. 함께 모험할 팀원을 선택해 가장 깊은 곳에 있는 비밀을 밝히세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17772">「잃어버린 도시 전선·빛의 경계」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">17772</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「전도 원판·발미」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17834</link>
+      <description>「전도 원판·발미」 이벤트가 곧 오픈됩니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214482187375.jpg"><br/><br/>「전도 원판·발미」 이벤트가 곧 오픈됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17834">「전도 원판·발미」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">17834</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

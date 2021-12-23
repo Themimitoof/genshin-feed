@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:12 +0000</lastBuildDate>
-    <item>
-      <title>2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15174</link>
-      <description> 2.1 버전에서 여행자들이 오래 기다렸던 「낚시」 콘텐츠가 업데이트될 거야</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082323131883766.png"><br/><br/> 2.1 버전에서 여행자들이 오래 기다렸던 「낚시」 콘텐츠가 업데이트될 거야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15174">2.1 버전 업데이트 알림: 「낚시」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">15174</guid>
-      <pubDate>Tue, 24 Aug 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:35:39 +0000</lastBuildDate>
     <item>
       <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15271</link>
@@ -840,6 +832,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121518421368575.jpg"><br/><br/>잃어버린 도시 밖에 있는 그 어떠한 것도 안으로 갖고 들어갈 수 없습니다. 함께 모험할 팀원을 선택해 가장 깊은 곳에 있는 비밀을 밝히세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17772">「잃어버린 도시 전선·빛의 경계」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">17772</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「전도 원판·발미」 콘텐츠 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/17834</link>
+      <description>「전도 원판·발미」 이벤트가 곧 오픈됩니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214482187375.jpg"><br/><br/>「전도 원판·발미」 이벤트가 곧 오픈됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17834">「전도 원판·발미」 콘텐츠 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">17834</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

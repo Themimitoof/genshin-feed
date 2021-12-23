@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:07 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15092</link>
-      <description>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082015592517974.jpg"><br/><br/>Les vœux de tous se rassemblent au clair de lune. Soyez témoins de la force du tonnerre, contemplez la beauté de la fumée qui s'échappe des cheminées et la lueur des lanternes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15092">Genshin Impact - Bande-annonce de la version 2.1 « Caresse sélénite sur les mortels »</a>]]></content:encoded>
-      <guid isPermaLink="false">15092</guid>
-      <pubDate>Fri, 20 Aug 2021 22:45:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:35:00 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact : Réinitialisation du double bonus pour la première recharge</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15097</link>
@@ -753,6 +745,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121518211749260.jpg"><br/><br/>Rien ni personne n'entre jamais dans la cité perdue. Rassemblez votre équipe et préparez-vous à plonger au cœur de ses secrets les plus profonds.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17771">Détails de l'événement « Cité perdue : Domaine de lumière »</a>]]></content:encoded>
       <guid isPermaLink="false">17771</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Conclusion de l'Amplificateur d'énergie »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17848</link>
+      <description>L'événement « Conclusion de l'Amplificateur d'énergie » sera bientôt disponible. Vous rencontrez à nouveau Hussein, l'érudit de Sumeru, à Liyue. Ce dernier a recentré ses recherches académiques sur l'Amplificateur d'énergie...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122217293362639.jpg"><br/><br/>L'événement « Conclusion de l'Amplificateur d'énergie » sera bientôt disponible. Vous rencontrez à nouveau Hussein, l'érudit de Sumeru, à Liyue. Ce dernier a recentré ses recherches académiques sur l'Amplificateur d'énergie...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17848">Détails de l'événement « Conclusion de l'Amplificateur d'énergie »</a>]]></content:encoded>
+      <guid isPermaLink="false">17848</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

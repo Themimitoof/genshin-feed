@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-12-23T01:59:13.260378+00:00</updated>
+  <updated>2021-12-23T02:35:46.349174+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15269</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
-    <updated>2021-08-26T04:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520231831983.jpg"><br/><br/>Junto com o Maestre Dirk Brossé e Orquestra Sinfônica da Flanders, Genshin Impact está pronta para trazer uma incrível jornada musical, revivendo as melodias comoventes que ecoam em Teyvat com os Viajantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15269">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15269" rel="alternate"/>
-    <summary>Junto com o Maestre Dirk Brossé e Orquestra Sinfônica da Flanders, Genshin Impact está pronta para trazer uma incrível jornada musical, revivendo as melodias comoventes que ecoam em Teyvat com os Viajantes.</summary>
-    <published>2021-08-26T04:00:00+01:00</published>
-  </entry>
   <entry>
     <id>15227</id>
     <title>[Diário em Inazuma] Edição Ilha Watatsumi &amp; Ilha Seirai</title>
@@ -912,5 +903,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17762" rel="alternate"/>
     <summary>Nada de fora da Cidade Perdida pode ser levada para dentro. Escolha os membros de sua Equipe de Aventura e prepare-se para uma jornada rumo aos segredos das profundezas!</summary>
     <published>2021-12-16T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17828</id>
+    <title>Descrição do Modo de Jogo "Fruição do Disco de Adivinhação"</title>
+    <updated>2021-12-23T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122211461411432.jpg"><br/><br/>O evento "Fruição do Disco de Adivinhação" estará disponível em breve!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17828">Descrição do Modo de Jogo "Fruição do Disco de Adivinhação"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17828" rel="alternate"/>
+    <summary>O evento "Fruição do Disco de Adivinhação" estará disponível em breve!</summary>
+    <published>2021-12-23T10:30:00+00:00</published>
   </entry>
 </feed>

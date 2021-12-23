@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-12-23T01:59:13.055484+00:00</updated>
+  <updated>2021-12-23T02:35:44.587728+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15414</id>
-    <title>Oração "Reino da Serenidade": Taxa de Drop de "Plano da Eutimia - Shogun Raiden (Electro)" aumentada! </title>
-    <updated>2021-08-30T12:02:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916431987878.jpg"><br/><br/>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15414">Oração "Reino da Serenidade": Taxa de Drop de "Plano da Eutimia - Shogun Raiden (Electro)" aumentada! </a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15414" rel="alternate"/>
-    <summary>Durante o evento, os Viajantes poderão obter mais armas e personagens através das orações, trazendo grande melhorias!</summary>
-    <published>2021-08-30T12:02:00+01:00</published>
-  </entry>
   <entry>
     <id>15345</id>
     <title>Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.1 - Fase I</title>
@@ -914,5 +905,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17762" rel="alternate"/>
     <summary>Nada de fora da Cidade Perdida pode ser levada para dentro. Escolha os membros de sua Equipe de Aventura e prepare-se para uma jornada rumo aos segredos das profundezas!</summary>
     <published>2021-12-16T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17828</id>
+    <title>Descrição do Modo de Jogo "Fruição do Disco de Adivinhação"</title>
+    <updated>2021-12-23T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122211461411432.jpg"><br/><br/>O evento "Fruição do Disco de Adivinhação" estará disponível em breve!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17828">Descrição do Modo de Jogo "Fruição do Disco de Adivinhação"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17828" rel="alternate"/>
+    <summary>O evento "Fruição do Disco de Adivinhação" estará disponível em breve!</summary>
+    <published>2021-12-23T10:30:00+00:00</published>
   </entry>
 </feed>

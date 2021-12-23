@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - info</title>
-  <updated>2021-12-23T01:59:10.140319+00:00</updated>
+  <updated>2021-12-23T02:35:20.080111+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15231</id>
-    <title>Diario de Inazuma: Isla Watatsumi e Isla Seirai</title>
-    <updated>2021-08-26T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518002913704.jpg"><br/><br/>En la versión 2.1, se desbloquearán dos nuevas islas en Inazuma, la Isla Seirai y la Isla Watatsumi. Ambas tienen costumbres diferentes, ¡descubramos juntos estos lugares misteriosos!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15231">Diario de Inazuma: Isla Watatsumi e Isla Seirai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15231" rel="alternate"/>
-    <summary>En la versión 2.1, se desbloquearán dos nuevas islas en Inazuma, la Isla Seirai y la Isla Watatsumi. Ambas tienen costumbres diferentes, ¡descubramos juntos estos lugares misteriosos!</summary>
-    <published>2021-08-26T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>15280</id>
     <title>Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</title>
@@ -916,5 +907,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <link href="https://genshin.mihoyo.com/es/news/detail/17766" rel="alternate"/>
     <summary>En la Mazmorra de la bruma no puede entrar nada del exterior. Elige a quienes te acompañarán en esta aventura y adéntrate en los secretos de este lugar.</summary>
     <published>2021-12-16T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17836</id>
+    <title>Detalles del evento «Resultados del amplificador de energía»</title>
+    <updated>2021-12-23T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122215190949527.jpg"><br/><br/>El evento «Resultados del amplificador de energía» está a punto de comenzar. Vuelves a encontrarte con Hosseini, el erudito itinerante de Sumeru, en Liyue. Parece que ha vuelto a poner el foco de su investigación en el amplificador de energía...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17836">Detalles del evento «Resultados del amplificador de energía»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17836" rel="alternate"/>
+    <summary>El evento «Resultados del amplificador de energía» está a punto de comenzar. Vuelves a encontrarte con Hosseini, el erudito itinerante de Sumeru, en Liyue. Parece que ha vuelto a poner el foco de su investigación en el amplificador de energía...</summary>
+    <published>2021-12-23T10:30:00+01:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-12-23T01:59:07.503487+00:00</updated>
+  <updated>2021-12-23T02:34:58.124431+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>15301</id>
-    <title>« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</title>
-    <updated>2021-08-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611580320836.jpg"><br/><br/>Bonjour, chers voyageurs !  Aujourd'hui nous vous présentons une jeune femme originaire d'un autre monde, Aloy. Découvrons-la ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15301">« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15301" rel="alternate"/>
-    <summary>Bonjour, chers voyageurs !  Aujourd'hui nous vous présentons une jeune femme originaire d'un autre monde, Aloy. Découvrons-la ensemble !</summary>
-    <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15327</id>
     <title>Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</title>
@@ -864,5 +855,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/17771" rel="alternate"/>
     <summary>Rien ni personne n'entre jamais dans la cité perdue. Rassemblez votre équipe et préparez-vous à plonger au cœur de ses secrets les plus profonds.</summary>
     <published>2021-12-16T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17848</id>
+    <title>Détails de l'événement « Conclusion de l'Amplificateur d'énergie »</title>
+    <updated>2021-12-23T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122217293362639.jpg"><br/><br/>L'événement « Conclusion de l'Amplificateur d'énergie » sera bientôt disponible. Vous rencontrez à nouveau Hussein, l'érudit de Sumeru, à Liyue. Ce dernier a recentré ses recherches académiques sur l'Amplificateur d'énergie...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17848">Détails de l'événement « Conclusion de l'Amplificateur d'énergie »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17848" rel="alternate"/>
+    <summary>L'événement « Conclusion de l'Amplificateur d'énergie » sera bientôt disponible. Vous rencontrez à nouveau Hussein, l'érudit de Sumeru, à Liyue. Ce dernier a recentré ses recherches académiques sur l'Amplificateur d'énergie...</summary>
+    <published>2021-12-23T10:30:00+01:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:14 +0000</lastBuildDate>
-    <item>
-      <title>Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15264</link>
-      <description>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192761873.jpg"><br/><br/>Вместе с маэстро Дирк Броссе и Симфоническим оркестр Фландрии Genshin Impact унесёт вас в чудесное музыкальное странствие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15264">Концерт Genshin 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">15264</guid>
-      <pubDate>Thu, 26 Aug 2021 04:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:35:53 +0000</lastBuildDate>
     <item>
       <title>[Записи об Инадзуме] Ватацуми и Сэйрай</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15233</link>
@@ -820,6 +812,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121515460285685.jpg"><br/><br/>В Затерянный город нельзя ничего пронести. Соберите свой лучший отряд искателей приключений и отправляйтесь в полные сокровенных тайн глубины.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17764">«Туманное подземелье: Обитель света»: описание события</a>]]></content:encoded>
       <guid isPermaLink="false">17764</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Правила события «Диск усиления: Послесловие»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/17833</link>
+      <description>Событие «Диск усиления: Послесловие» скоро начнётся! В Ли Юэ вы встречаете Хуссени, учёного из Сумеру. В центре его научных изысканий опять оказался Диск усиления...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214481048758.jpg"><br/><br/>Событие «Диск усиления: Послесловие» скоро начнётся! В Ли Юэ вы встречаете Хуссени, учёного из Сумеру. В центре его научных изысканий опять оказался Диск усиления...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17833">Правила события «Диск усиления: Послесловие»</a>]]></content:encoded>
+      <guid isPermaLink="false">17833</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

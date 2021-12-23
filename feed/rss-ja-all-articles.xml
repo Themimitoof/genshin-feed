@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:12 +0000</lastBuildDate>
-    <item>
-      <title>「機関棋譚」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8595</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210208/2021020820552811812.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8595">「機関棋譚」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">8595</guid>
-      <pubDate>Tue, 09 Feb 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:35:37 +0000</lastBuildDate>
     <item>
       <title>「明霄の灯を貴方へ」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8728</link>
@@ -730,6 +723,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211221/2021122118530590519.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17826">「エネルギー原盤・後序」イベント予告</a>]]></description>
       <guid isPermaLink="false">17826</guid>
       <pubDate>Wed, 22 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「エネルギー原盤・後序」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17831</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214304228659.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17831">「エネルギー原盤・後序」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17831</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</title>
@@ -1620,13 +1620,6 @@
       <pubDate>Wed, 22 Dec 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「風来の剣闘奇譚」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13529</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210622/2021062216211319551.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13529">「風来の剣闘奇譚」イベント予告</a>]]></description>
-      <guid isPermaLink="false">13529</guid>
-      <pubDate>Wed, 23 Jun 2021 12:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>「風来の剣闘奇譚」イベント説明</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/13575</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062314312310345.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13575">「風来の剣闘奇譚」イベント説明</a>]]></description>
@@ -2324,6 +2317,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211221/2021122118530590519.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17826">「エネルギー原盤・後序」イベント予告</a>]]></description>
       <guid isPermaLink="false">17826</guid>
       <pubDate>Wed, 22 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「エネルギー原盤・後序」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17831</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214304228659.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17831">「エネルギー原盤・後序」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">17831</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

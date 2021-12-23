@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2021-12-23T01:59:15.541479+00:00</updated>
+  <updated>2021-12-23T02:36:04.008065+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -293,15 +293,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15058</id>
-    <title>Realm of Tranquil Eternity: การแสดงซิมโฟนีออร์เคสตราแห่ง Inazuma | Genshin Impact</title>
-    <updated>2021-08-21T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082011451980714.png"><br/><br/>การแสดงซิมโฟนีออร์เคสตราแห่งเมือง <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15058">Realm of Tranquil Eternity: การแสดงซิมโฟนีออร์เคสตราแห่ง Inazuma | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15058" rel="alternate"/>
-    <summary>การแสดงซิมโฟนีออร์เคสตราแห่งเมือง </summary>
-    <published>2021-08-21T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15118</id>
@@ -1129,12 +1120,12 @@
     <published>2021-12-16T10:30:00+07:00</published>
   </entry>
   <entry>
-    <id>15379</id>
-    <title>"ความปรารถนาของฉันคือการทำให้ "ความเป็นนิรันดร์" ของท่านโชกุนเป็นจริง"</title>
-    <updated>2021-08-29T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817425240461.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15379">"ความปรารถนาของฉันคือการทำให้ "ความเป็นนิรันดร์" ของท่านโชกุนเป็นจริง"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15379" rel="alternate"/>
-    <published>2021-08-29T12:00:00+07:00</published>
+    <id>17844</id>
+    <title>คำอธิบายเกมเพลย์ "แผ่นควบคุมพลังงาน - บทส่งท้าย"</title>
+    <updated>2021-12-23T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122217024226864.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17844">คำอธิบายเกมเพลย์ "แผ่นควบคุมพลังงาน - บทส่งท้าย"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17844" rel="alternate"/>
+    <published>2021-12-23T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15399</id>
@@ -1960,5 +1951,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516225942501.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17768">คำอธิบายเกมเพลย์ "การต่อสู้แห่งเมืองลี้ลับ - แสงสว่างในโลกกว้าง"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17768" rel="alternate"/>
     <published>2021-12-16T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17844</id>
+    <title>คำอธิบายเกมเพลย์ "แผ่นควบคุมพลังงาน - บทส่งท้าย"</title>
+    <updated>2021-12-23T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122217024226864.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17844">คำอธิบายเกมเพลย์ "แผ่นควบคุมพลังงาน - บทส่งท้าย"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17844" rel="alternate"/>
+    <published>2021-12-23T10:30:00+07:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 23 Dec 2021 01:59:09 +0000</lastBuildDate>
-    <item>
-      <title>Aktualisierungsübersicht für Version 2.1: Erläuterungen zur Spielweise des Angelsystems</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15152</link>
-      <description>Seid gegrüßt, liebe Reisende, in der neuen Version 2.1 werden ihr endlich angeln können. Heute stellen wir euch die Neuerungen einmal genauer vor!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210823/2021082318212553265.png"><br/><br/>Seid gegrüßt, liebe Reisende, in der neuen Version 2.1 werden ihr endlich angeln können. Heute stellen wir euch die Neuerungen einmal genauer vor!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15152">Aktualisierungsübersicht für Version 2.1: Erläuterungen zur Spielweise des Angelsystems</a>]]></content:encoded>
-      <guid isPermaLink="false">15152</guid>
-      <pubDate>Tue, 24 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 23 Dec 2021 02:35:13 +0000</lastBuildDate>
     <item>
       <title>GENSHIN CONCERT 2021 – Melodies of an Endless Journey (teaser 1)</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15257</link>
@@ -850,6 +842,14 @@ Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211215/2021121516441645272.jpg"><br/><br/>Nichts von außerhalb gelangt jemals in die verlorene Stadt. Rekrutiere deine Traumtruppe für das Abenteuer und bereite dich auf eine Reise zu einem Ort voller Geheimnisse vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17769">Erläuterungen zur Spielweise von „Verlorene Stadt an der Front – Reich des Lichts“</a>]]></content:encoded>
       <guid isPermaLink="false">17769</guid>
       <pubDate>Thu, 16 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Energieleitscheibe – Nachwort“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17832</link>
+      <description>Die Aktion „Energieleitscheibe – Nachwort“ beginnt bald. Du triffst den reisenden Sumeru-Gelehrten Hosseini noch einmal in Liyue. Er hat sich wieder auf die Energieleitscheibe konzentriert ...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214351041458.jpg"><br/><br/>Die Aktion „Energieleitscheibe – Nachwort“ beginnt bald. Du triffst den reisenden Sumeru-Gelehrten Hosseini noch einmal in Liyue. Er hat sich wieder auf die Energieleitscheibe konzentriert ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17832">Erläuterungen zur Spielweise von „Energieleitscheibe – Nachwort“</a>]]></content:encoded>
+      <guid isPermaLink="false">17832</guid>
+      <pubDate>Thu, 23 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
