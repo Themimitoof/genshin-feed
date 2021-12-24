@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-24T01:58:00.815176+00:00</updated>
+  <updated>2021-12-24T02:33:07.962055+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15417</id>
-    <title>Gachapón «Reino de la serenidad»: ¡probabilidad de obtención de Shogun Raiden aumentada!</title>
-    <updated>2021-08-30T12:02:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082921001750089.jpg"><br/><br/>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15417">Gachapón «Reino de la serenidad»: ¡probabilidad de obtención de Shogun Raiden aumentada!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15417" rel="alternate"/>
-    <summary>En el evento de gachapón, ¡podrás obtener más armas y personajes para fortalecer tu equipo!</summary>
-    <published>2021-08-30T12:02:00+02:00</published>
-  </entry>
   <entry>
     <id>15344</id>
     <title>Paimon te trae una recopilación de los eventos de la versión 2.1 (I)</title>
@@ -920,5 +911,13 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <link href="https://genshin.mihoyo.com/es/news/detail/17836" rel="alternate"/>
     <summary>El evento «Resultados del amplificador de energía» está a punto de comenzar. Vuelves a encontrarte con Hosseini, el erudito itinerante de Sumeru, en Liyue. Parece que ha vuelto a poner el foco de su investigación en el amplificador de energía...</summary>
     <published>2021-12-23T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17851</id>
+    <title>Charla con los desarrolladores (24 de diciembre) - Algo nuevo se cuece dentro de la Relajatetera...</title>
+    <updated>2021-12-24T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315191834999.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17851">Charla con los desarrolladores (24 de diciembre) - Algo nuevo se cuece dentro de la Relajatetera...</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17851" rel="alternate"/>
+    <published>2021-12-24T10:30:00+01:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-24T01:58:19.263876+00:00</updated>
+  <updated>2021-12-24T02:33:26.040147+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -385,15 +385,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15271</id>
-    <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</title>
-    <updated>2021-08-26T04:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520323353747.jpg"><br/><br/>﻿<원신> 협업 지휘자 Dirk Brossé 및 Flanders Symphony Orchestra와 함께 티바트 대륙에서 울려 퍼지는 감동적인 선율을 다시 되새기는 아름다운 음악 여행이 시작됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15271">원신 콘서트 2021 - Melodies of an Endless Journey (티저 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15271" rel="alternate"/>
-    <summary>﻿&lt;원신&gt; 협업 지휘자 Dirk Brossé 및 Flanders Symphony Orchestra와 함께 티바트 대륙에서 울려 퍼지는 감동적인 선율을 다시 되새기는 아름다운 음악 여행이 시작됩니다</summary>
-    <published>2021-08-26T04:00:00+09:00</published>
   </entry>
   <entry>
     <id>15275</id>
@@ -1322,13 +1313,13 @@
     <published>2021-12-23T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>15421</id>
-    <title>「백 명의 봉기」 이벤트: 파티 변경 난투 도전</title>
-    <updated>2021-08-30T12:02:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008523473670.jpg"><br/><br/>이벤트 기간 동안 난투 대회 「백 명의 봉기」에 참여해 2인 1팀의 파티를 구성하여 적을 처치하고 지정된 점수를 달성하면 이벤트 전용 명함 「축제·봉기」와 원석 등의 보상을 획득할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15421">「백 명의 봉기」 이벤트: 파티 변경 난투 도전</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15421" rel="alternate"/>
-    <summary>이벤트 기간 동안 난투 대회 「백 명의 봉기」에 참여해 2인 1팀의 파티를 구성하여 적을 처치하고 지정된 점수를 달성하면 이벤트 전용 명함 「축제·봉기」와 원석 등의 보상을 획득할 수 있습니다</summary>
-    <published>2021-08-30T12:02:00+09:00</published>
+    <id>17862</id>
+    <title>[12.24] 개발진 간담회 - 속세의 주전자에서 짜릿한…</title>
+    <updated>2021-12-24T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122321543829984.jpg"><br/><br/>﻿따끈따끈한 개발진 간담회 등장~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17862">[12.24] 개발진 간담회 - 속세의 주전자에서 짜릿한…</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17862" rel="alternate"/>
+    <summary>﻿따끈따끈한 개발진 간담회 등장~</summary>
+    <published>2021-12-24T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>15428</id>
@@ -2249,5 +2240,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17834" rel="alternate"/>
     <summary>「전도 원판·발미」 이벤트가 곧 오픈됩니다</summary>
     <published>2021-12-23T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17862</id>
+    <title>[12.24] 개발진 간담회 - 속세의 주전자에서 짜릿한…</title>
+    <updated>2021-12-24T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122321543829984.jpg"><br/><br/>﻿따끈따끈한 개발진 간담회 등장~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17862">[12.24] 개발진 간담회 - 속세의 주전자에서 짜릿한…</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17862" rel="alternate"/>
+    <summary>﻿따끈따끈한 개발진 간담회 등장~</summary>
+    <published>2021-12-24T10:30:00+09:00</published>
   </entry>
 </feed>

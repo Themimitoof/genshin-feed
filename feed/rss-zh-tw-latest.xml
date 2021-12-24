@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 24 Dec 2021 01:57:50 +0000</lastBuildDate>
-    <item>
-      <title>角色展示-「亞蘿伊：奇異狩獵」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15317</link>
-      <description>一名優秀的獵人，不斷追尋驚險又新奇的獵場。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619163658569.jpg"><br/><br/>一名優秀的獵人，不斷追尋驚險又新奇的獵場。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15317">角色展示-「亞蘿伊：奇異狩獵」｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">15317</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 02:32:58 +0000</lastBuildDate>
     <item>
       <title>「為將軍大人實現『永恆』，這就是我的『願望』。」</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/15354</link>
@@ -810,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122211560561765.jpg"><br/><br/>「導能原盤·跋尾」活動即將開始。在璃月，你與須彌的遊學者胡塞尼再會了。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17829">「導能原盤·跋尾」玩法說明</a>]]></content:encoded>
       <guid isPermaLink="false">17829</guid>
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>12.24開發團隊座談會——在塵歌壺裡來一場緊張刺激的…</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17853</link>
+      <description>新鮮的開發團隊座談會來啦~一起往下看看吧！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315254516048.jpg"><br/><br/>新鮮的開發團隊座談會來啦~一起往下看看吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17853">12.24開發團隊座談會——在塵歌壺裡來一場緊張刺激的…</a>]]></content:encoded>
+      <guid isPermaLink="false">17853</guid>
+      <pubDate>Fri, 24 Dec 2021 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

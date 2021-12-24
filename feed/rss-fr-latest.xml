@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 24 Dec 2021 01:57:45 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15327</link>
-      <description>Une bonne chasseuse est toujours à l'affût d'expériences inouïes et passionnantes.
-Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082623043672952.jpg"><br/><br/>Une bonne chasseuse est toujours à l'affût d'expériences inouïes et passionnantes.
-Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15327">Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</a>]]></content:encoded>
-      <guid isPermaLink="false">15327</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 02:32:54 +0000</lastBuildDate>
     <item>
       <title>« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15360</link>
@@ -750,6 +740,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122217293362639.jpg"><br/><br/>L'événement « Conclusion de l'Amplificateur d'énergie » sera bientôt disponible. Vous rencontrez à nouveau Hussein, l'érudit de Sumeru, à Liyue. Ce dernier a recentré ses recherches académiques sur l'Amplificateur d'énergie...<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17848">Détails de l'événement « Conclusion de l'Amplificateur d'énergie »</a>]]></content:encoded>
       <guid isPermaLink="false">17848</guid>
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Discussion avec les développeurs du 24 décembre : quelque chose d'intrigant arrive dans la Sérénithéière...</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17860</link>
+      <description>Nous sommes de retour avec une nouvelle édition de « Discussion avec les développeurs » ~ Voyons ensemble ce qu'ils nous réservent !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316334919515.jpg"><br/><br/>Nous sommes de retour avec une nouvelle édition de « Discussion avec les développeurs » ~ Voyons ensemble ce qu'ils nous réservent !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17860">Discussion avec les développeurs du 24 décembre : quelque chose d'intrigant arrive dans la Sérénithéière...</a>]]></content:encoded>
+      <guid isPermaLink="false">17860</guid>
+      <pubDate>Fri, 24 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-12-24T01:57:56.003317+00:00</updated>
+  <updated>2021-12-24T02:33:03.210691+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15311</id>
-    <title>Figurenvorführung bei Genshin Impact – Aloy: Jägerin aus der Fremde</title>
-    <updated>2021-08-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618372631580.jpg"><br/><br/>Ein erfahrener Jäger ist immer auf der Suche nach neuen und aufregenden Erlebnissen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15311">Figurenvorführung bei Genshin Impact – Aloy: Jägerin aus der Fremde</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15311" rel="alternate"/>
-    <summary>Ein erfahrener Jäger ist immer auf der Suche nach neuen und aufregenden Erlebnissen.</summary>
-    <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15352</id>
     <title>„Es ist mein ‚Begehren‘, die ‚Ewigkeit‘ für den allmächtigen Shougun zu erreichen.“</title>
@@ -953,5 +944,14 @@ Außerdem ist er fest entschlossen, seine Kameraden zu schützen.</summary>
     <link href="https://genshin.mihoyo.com/de/news/detail/17832" rel="alternate"/>
     <summary>Die Aktion „Energieleitscheibe – Nachwort“ beginnt bald. Du triffst den reisenden Sumeru-Gelehrten Hosseini noch einmal in Liyue. Er hat sich wieder auf die Energieleitscheibe konzentriert ...</summary>
     <published>2021-12-23T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17859</id>
+    <title>Fragerunde mit den Entwicklern vom 24. Dezember – Lass uns in der Kanne der Vergänglichkeit etwas Spannendes machen ...</title>
+    <updated>2021-12-24T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316093296042.jpg"><br/><br/>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17859">Fragerunde mit den Entwicklern vom 24. Dezember – Lass uns in der Kanne der Vergänglichkeit etwas Spannendes machen ...</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/17859" rel="alternate"/>
+    <summary>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!</summary>
+    <published>2021-12-24T10:30:00+01:00</published>
   </entry>
 </feed>

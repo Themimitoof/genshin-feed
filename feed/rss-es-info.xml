@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 24 Dec 2021 01:58:01 +0000</lastBuildDate>
-    <item>
-      <title>Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15280</link>
-      <description>Ya solo permanece la sombra de los días de antaño y sueños vacíos. Mientras, los corazones de los mortales se suman en la eterna soledad.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082522352857621.jpg"><br/><br/>Ya solo permanece la sombra de los días de antaño y sueños vacíos. Mientras, los corazones de los mortales se suman en la eterna soledad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15280">Avance de la trama de Genshin Impact - Shogun Raiden: pesadillas</a>]]></content:encoded>
-      <guid isPermaLink="false">15280</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 02:33:09 +0000</lastBuildDate>
     <item>
       <title>"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</title>
       <link>https://genshin.mihoyo.com/es/news/detail/15285</link>
@@ -814,6 +806,13 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122215190949527.jpg"><br/><br/>El evento «Resultados del amplificador de energía» está a punto de comenzar. Vuelves a encontrarte con Hosseini, el erudito itinerante de Sumeru, en Liyue. Parece que ha vuelto a poner el foco de su investigación en el amplificador de energía...<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17836">Detalles del evento «Resultados del amplificador de energía»</a>]]></content:encoded>
       <guid isPermaLink="false">17836</guid>
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Charla con los desarrolladores (24 de diciembre) - Algo nuevo se cuece dentro de la Relajatetera...</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17851</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315191834999.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17851">Charla con los desarrolladores (24 de diciembre) - Algo nuevo se cuece dentro de la Relajatetera...</a>]]></description>
+      <guid isPermaLink="false">17851</guid>
+      <pubDate>Fri, 24 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-12-24T01:58:10.015074+00:00</updated>
+  <updated>2021-12-24T02:33:17.895634+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -346,15 +346,6 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15234</id>
-    <title>Seluk-beluk Inazuma: Watatsumi Island dan Seirai Island</title>
-    <updated>2021-08-26T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518114833410.jpg"><br/><br/>Dalam v2.1, ada dua kepulauan baru yang akan terbuka di Inazuma — Seirai Island dan Watatsumi Island. Dua pulau ini memiliki budaya dan kebiasaan yang sangat berbeda. Yuk kita kenali dua pulau misterius ini terlebih dulu!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15234">Seluk-beluk Inazuma: Watatsumi Island dan Seirai Island</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15234" rel="alternate"/>
-    <summary>Dalam v2.1, ada dua kepulauan baru yang akan terbuka di Inazuma — Seirai Island dan Watatsumi Island. Dua pulau ini memiliki budaya dan kebiasaan yang sangat berbeda. Yuk kita kenali dua pulau misterius ini terlebih dulu!</summary>
-    <published>2021-08-26T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15246</id>
@@ -1258,13 +1249,13 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <published>2021-12-23T10:30:00+07:00</published>
   </entry>
   <entry>
-    <id>15441</id>
-    <title>Event "Kerajaan Bulan": Pancing Ikan dan Dapatkan Joran Eksklusif!</title>
-    <updated>2021-08-30T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010361624195.jpg"><br/><br/>Selama event berlangsung, bergabunglah dengan nelayan Inazuma — Kujirai Momiji, dalam petualangannya mencari ikan besar legendaris, Lunar Leviathan. <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15441">Event "Kerajaan Bulan": Pancing Ikan dan Dapatkan Joran Eksklusif!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15441" rel="alternate"/>
-    <summary>Selama event berlangsung, bergabunglah dengan nelayan Inazuma — Kujirai Momiji, dalam petualangannya mencari ikan besar legendaris, Lunar Leviathan. </summary>
-    <published>2021-08-30T12:00:00+07:00</published>
+    <id>17855</id>
+    <title>Sesi Tanya Jawab Dengan Tim Pengembang 24 Desember — Sesuatu yang Menegangkan dan Mendebarkan di Serenitea Pot ...</title>
+    <updated>2021-12-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315591231461.jpg"><br/><br/>Waktunya Sesi Tanya Jawab dengan Tim Pengembang! Ayo kita simak sama-sama~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17855">Sesi Tanya Jawab Dengan Tim Pengembang 24 Desember — Sesuatu yang Menegangkan dan Mendebarkan di Serenitea Pot ...</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17855" rel="alternate"/>
+    <summary>Waktunya Sesi Tanya Jawab dengan Tim Pengembang! Ayo kita simak sama-sama~</summary>
+    <published>2021-12-24T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15451</id>
@@ -2174,5 +2165,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17830" rel="alternate"/>
     <summary>Event Buah Penelitian Cakram Pengetahuan akan segera dimulai.</summary>
     <published>2021-12-23T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17855</id>
+    <title>Sesi Tanya Jawab Dengan Tim Pengembang 24 Desember — Sesuatu yang Menegangkan dan Mendebarkan di Serenitea Pot ...</title>
+    <updated>2021-12-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315591231461.jpg"><br/><br/>Waktunya Sesi Tanya Jawab dengan Tim Pengembang! Ayo kita simak sama-sama~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17855">Sesi Tanya Jawab Dengan Tim Pengembang 24 Desember — Sesuatu yang Menegangkan dan Mendebarkan di Serenitea Pot ...</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17855" rel="alternate"/>
+    <summary>Waktunya Sesi Tanya Jawab dengan Tim Pengembang! Ayo kita simak sama-sama~</summary>
+    <published>2021-12-24T10:30:00+07:00</published>
   </entry>
 </feed>

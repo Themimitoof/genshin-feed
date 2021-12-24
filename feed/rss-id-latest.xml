@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 24 Dec 2021 01:58:05 +0000</lastBuildDate>
-    <item>
-      <title>Event "Kerajaan Bulan": Pancing Ikan dan Dapatkan Joran Eksklusif!</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/15441</link>
-      <description>Selama event berlangsung, bergabunglah dengan nelayan Inazuma — Kujirai Momiji, dalam petualangannya mencari ikan besar legendaris, Lunar Leviathan. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010361624195.jpg"><br/><br/>Selama event berlangsung, bergabunglah dengan nelayan Inazuma — Kujirai Momiji, dalam petualangannya mencari ikan besar legendaris, Lunar Leviathan. <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15441">Event "Kerajaan Bulan": Pancing Ikan dan Dapatkan Joran Eksklusif!</a>]]></content:encoded>
-      <guid isPermaLink="false">15441</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 02:33:13 +0000</lastBuildDate>
     <item>
       <title>Event Permohonan "Epitome Invocation": Persentase Perolehan Engulfing Lightning (Polearm) dan The Unforged (Claymore) Meningkat!</title>
       <link>https://genshin.mihoyo.com/id/news/detail/15451</link>
@@ -825,6 +817,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!<br><br>Read more on <a h
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122212480922178.jpg"><br/><br/>Event Buah Penelitian Cakram Pengetahuan akan segera dimulai.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17830">Cara Bermain "Buah Penelitian Cakram Pengetahuan"</a>]]></content:encoded>
       <guid isPermaLink="false">17830</guid>
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sesi Tanya Jawab Dengan Tim Pengembang 24 Desember — Sesuatu yang Menegangkan dan Mendebarkan di Serenitea Pot ...</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/17855</link>
+      <description>Waktunya Sesi Tanya Jawab dengan Tim Pengembang! Ayo kita simak sama-sama~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315591231461.jpg"><br/><br/>Waktunya Sesi Tanya Jawab dengan Tim Pengembang! Ayo kita simak sama-sama~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17855">Sesi Tanya Jawab Dengan Tim Pengembang 24 Desember — Sesuatu yang Menegangkan dan Mendebarkan di Serenitea Pot ...</a>]]></content:encoded>
+      <guid isPermaLink="false">17855</guid>
+      <pubDate>Fri, 24 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

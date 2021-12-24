@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 24 Dec 2021 01:58:20 +0000</lastBuildDate>
-    <item>
-      <title>[Diário em Inazuma] Edição Ilha Watatsumi &amp; Ilha Seirai</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15227</link>
-      <description>Na Versão 2.1, duas novas ilhas serão desbloqueadas em Inazuma, a Ilha Seirai e a Ilha Watatsumi. Com costumes e cultura diferentes, os dois arquipélagos possuem características próprias, embarque nesta aventura junto conosco para conhecer mais sobre essas duas ilhas misteriosas!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517520240058.jpg"><br/><br/>Na Versão 2.1, duas novas ilhas serão desbloqueadas em Inazuma, a Ilha Seirai e a Ilha Watatsumi. Com costumes e cultura diferentes, os dois arquipélagos possuem características próprias, embarque nesta aventura junto conosco para conhecer mais sobre essas duas ilhas misteriosas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15227">[Diário em Inazuma] Edição Ilha Watatsumi & Ilha Seirai</a>]]></content:encoded>
-      <guid isPermaLink="false">15227</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 02:33:27 +0000</lastBuildDate>
     <item>
       <title>Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15251</link>
@@ -811,6 +803,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122211461411432.jpg"><br/><br/>O evento "Fruição do Disco de Adivinhação" estará disponível em breve!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17828">Descrição do Modo de Jogo "Fruição do Disco de Adivinhação"</a>]]></content:encoded>
       <guid isPermaLink="false">17828</guid>
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conversa com os Desenvolvedores do Dia 24 de Dezembro - Algo emocionante no Bule de Relachá...</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17854</link>
+      <description>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315522026992.jpg"><br/><br/>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17854">Conversa com os Desenvolvedores do Dia 24 de Dezembro - Algo emocionante no Bule de Relachá...</a>]]></content:encoded>
+      <guid isPermaLink="false">17854</guid>
+      <pubDate>Fri, 24 Dec 2021 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

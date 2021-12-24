@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-24T01:58:24.218436+00:00</updated>
+  <updated>2021-12-24T02:33:30.268523+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -353,15 +353,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>15227</id>
-    <title>[Diário em Inazuma] Edição Ilha Watatsumi &amp; Ilha Seirai</title>
-    <updated>2021-08-26T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517520240058.jpg"><br/><br/>Na Versão 2.1, duas novas ilhas serão desbloqueadas em Inazuma, a Ilha Seirai e a Ilha Watatsumi. Com costumes e cultura diferentes, os dois arquipélagos possuem características próprias, embarque nesta aventura junto conosco para conhecer mais sobre essas duas ilhas misteriosas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15227">[Diário em Inazuma] Edição Ilha Watatsumi & Ilha Seirai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15227" rel="alternate"/>
-    <summary>Na Versão 2.1, duas novas ilhas serão desbloqueadas em Inazuma, a Ilha Seirai e a Ilha Watatsumi. Com costumes e cultura diferentes, os dois arquipélagos possuem características próprias, embarque nesta aventura junto conosco para conhecer mais sobre essas duas ilhas misteriosas!</summary>
-    <published>2021-08-26T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>15251</id>
@@ -1259,13 +1250,13 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <published>2021-12-23T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>15345</id>
-    <title>Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.1 - Fase I</title>
-    <updated>2021-08-30T12:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720435546238.jpg"><br/><br/>Olá Viajantes, a Versão 2.1 está chegando! Vocês estão preparados para os eventos que estão por vir? <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15345">Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.1 - Fase I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15345" rel="alternate"/>
-    <summary>Olá Viajantes, a Versão 2.1 está chegando! Vocês estão preparados para os eventos que estão por vir? </summary>
-    <published>2021-08-30T12:10:00+01:00</published>
+    <id>17854</id>
+    <title>Conversa com os Desenvolvedores do Dia 24 de Dezembro - Algo emocionante no Bule de Relachá...</title>
+    <updated>2021-12-24T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315522026992.jpg"><br/><br/>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17854">Conversa com os Desenvolvedores do Dia 24 de Dezembro - Algo emocionante no Bule de Relachá...</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17854" rel="alternate"/>
+    <summary>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!</summary>
+    <published>2021-12-24T10:30:00+00:00</published>
   </entry>
   <entry>
     <id>15485</id>
@@ -2163,5 +2154,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17828" rel="alternate"/>
     <summary>O evento "Fruição do Disco de Adivinhação" estará disponível em breve!</summary>
     <published>2021-12-23T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17854</id>
+    <title>Conversa com os Desenvolvedores do Dia 24 de Dezembro - Algo emocionante no Bule de Relachá...</title>
+    <updated>2021-12-24T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315522026992.jpg"><br/><br/>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17854">Conversa com os Desenvolvedores do Dia 24 de Dezembro - Algo emocionante no Bule de Relachá...</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17854" rel="alternate"/>
+    <summary>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!</summary>
+    <published>2021-12-24T10:30:00+00:00</published>
   </entry>
 </feed>
