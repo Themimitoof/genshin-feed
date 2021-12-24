@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-24T10:12:09.900973+00:00</updated>
+  <updated>2021-12-24T11:10:01.728024+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -219,6 +219,15 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17572" rel="alternate"/>
     <summary>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"</summary>
     <published>2021-12-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17858</id>
+    <title>“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</title>
+    <updated>2021-12-24T19:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316070591240.jpg"><br/><br/>Que decoração você desenharia na árvore?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17858">“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17858" rel="alternate"/>
+    <summary>Que decoração você desenharia na árvore?</summary>
+    <published>2021-12-24T19:00:00+00:00</published>
   </entry>
   <entry>
     <id>738</id>
@@ -1259,15 +1268,6 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <published>2021-12-24T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>15485</id>
-    <title>Demo da Nova Personagem de Genshin Impact - "Shogun Raiden: Terra da Eternidade e Julgamento"</title>
-    <updated>2021-08-31T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110550947678.jpg"><br/><br/>"Os sentimentos da Sakura do passado hoje já se escureceram. Quando chegar o momento do silêncio severo do trovão, se acordará do sonho de ilusões".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15485">Demo da Nova Personagem de Genshin Impact - "Shogun Raiden: Terra da Eternidade e Julgamento"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15485" rel="alternate"/>
-    <summary>"Os sentimentos da Sakura do passado hoje já se escureceram. Quando chegar o momento do silêncio severo do trovão, se acordará do sonho de ilusões".</summary>
-    <published>2021-08-31T12:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>15541</id>
     <title>Nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact</title>
     <updated>2021-09-01T06:00:00+01:00</updated>
@@ -2163,5 +2163,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17854" rel="alternate"/>
     <summary>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!</summary>
     <published>2021-12-24T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17858</id>
+    <title>“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</title>
+    <updated>2021-12-24T19:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316070591240.jpg"><br/><br/>Que decoração você desenharia na árvore?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17858">“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17858" rel="alternate"/>
+    <summary>Que decoração você desenharia na árvore?</summary>
+    <published>2021-12-24T19:00:00+00:00</published>
   </entry>
 </feed>

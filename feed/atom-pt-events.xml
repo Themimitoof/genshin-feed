@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2021-12-24T10:12:09.075575+00:00</updated>
+  <updated>2021-12-24T11:10:01.381161+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -219,5 +219,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17572" rel="alternate"/>
     <summary>"Vai, vai, rápido! O chefe tem um grande plano. Temos que ajudar, mas não podemos atrapalhá-lo!"</summary>
     <published>2021-12-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17858</id>
+    <title>“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</title>
+    <updated>2021-12-24T19:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316070591240.jpg"><br/><br/>Que decoração você desenharia na árvore?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17858">“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17858" rel="alternate"/>
+    <summary>Que decoração você desenharia na árvore?</summary>
+    <published>2021-12-24T19:00:00+00:00</published>
   </entry>
 </feed>

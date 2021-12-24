@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 24 Dec 2021 10:12:06 +0000</lastBuildDate>
-    <item>
-      <title>Demo da Nova Personagem de Genshin Impact - "Shogun Raiden: Terra da Eternidade e Julgamento"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15485</link>
-      <description>"Os sentimentos da Sakura do passado hoje já se escureceram. Quando chegar o momento do silêncio severo do trovão, se acordará do sonho de ilusões".</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110550947678.jpg"><br/><br/>"Os sentimentos da Sakura do passado hoje já se escureceram. Quando chegar o momento do silêncio severo do trovão, se acordará do sonho de ilusões".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15485">Demo da Nova Personagem de Genshin Impact - "Shogun Raiden: Terra da Eternidade e Julgamento"</a>]]></content:encoded>
-      <guid isPermaLink="false">15485</guid>
-      <pubDate>Tue, 31 Aug 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Dec 2021 11:09:58 +0000</lastBuildDate>
     <item>
       <title>Nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15541</link>
@@ -812,6 +804,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315522026992.jpg"><br/><br/>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17854">Conversa com os Desenvolvedores do Dia 24 de Dezembro - Algo emocionante no Bule de Relachá...</a>]]></content:encoded>
       <guid isPermaLink="false">17854</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/17858</link>
+      <description>Que decoração você desenharia na árvore?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316070591240.jpg"><br/><br/>Que decoração você desenharia na árvore?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17858">“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</a>]]></content:encoded>
+      <guid isPermaLink="false">17858</guid>
+      <pubDate>Fri, 24 Dec 2021 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
