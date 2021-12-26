@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-26T12:15:38.106922+00:00</updated>
+  <updated>2021-12-26T13:18:29.165927+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -315,15 +315,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15088</id>
-    <title>Genshin Impact - Performance de la symphonie d'Inazuma « Realm of Tranquil Eternity »</title>
-    <updated>2021-08-21T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082015373227204.png"><br/><br/>Cette performance de la symphonie d'Inazuma a été enregistrée au Tokyo Opera City au Japon par l'orchestre philarmonique de Tokyo. Les plus grands artistes de la musique folklorique japonaise jouent ensemble la bande originale d'Inazuma, ainsi que la pièce « Overlord of the Thunderstorm ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15088">Genshin Impact - Performance de la symphonie d'Inazuma « Realm of Tranquil Eternity »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15088" rel="alternate"/>
-    <summary>Cette performance de la symphonie d'Inazuma a été enregistrée au Tokyo Opera City au Japon par l'orchestre philarmonique de Tokyo. Les plus grands artistes de la musique folklorique japonaise jouent ensemble la bande originale d'Inazuma, ainsi que la pièce « Overlord of the Thunderstorm ».</summary>
-    <published>2021-08-21T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15120</id>
@@ -1174,12 +1165,13 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-12-24T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>15360</id>
-    <title>« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</title>
-    <updated>2021-08-29T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812173625112.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15360">« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15360" rel="alternate"/>
-    <published>2021-08-29T12:00:00+02:00</published>
+    <id>17924</id>
+    <title>Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</title>
+    <updated>2021-12-26T20:45:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419172631850.jpg"><br/><br/>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17924">Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17924" rel="alternate"/>
+    <summary>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.</summary>
+    <published>2021-12-26T20:45:00+01:00</published>
   </entry>
   <entry>
     <id>15361</id>
@@ -2026,5 +2018,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/17860" rel="alternate"/>
     <summary>Nous sommes de retour avec une nouvelle édition de « Discussion avec les développeurs » ~ Voyons ensemble ce qu'ils nous réservent !</summary>
     <published>2021-12-24T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17924</id>
+    <title>Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</title>
+    <updated>2021-12-26T20:45:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419172631850.jpg"><br/><br/>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17924">Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17924" rel="alternate"/>
+    <summary>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.</summary>
+    <published>2021-12-26T20:45:00+01:00</published>
   </entry>
 </feed>

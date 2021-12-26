@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-26T12:15:39.684558+00:00</updated>
+  <updated>2021-12-26T13:18:35.076467+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15344</id>
-    <title>Paimon te trae una recopilación de los eventos de la versión 2.1 (I)</title>
-    <updated>2021-08-30T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720371052370.jpg"><br/><br/>Estimados viajeros: ¿Están listos para los eventos de la versión 2.1? ¡Haz clic en la imagen para echarles un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15344">Paimon te trae una recopilación de los eventos de la versión 2.1 (I)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15344" rel="alternate"/>
-    <summary>Estimados viajeros: ¿Están listos para los eventos de la versión 2.1? ¡Haz clic en la imagen para echarles un vistazo!</summary>
-    <published>2021-08-30T12:10:00+02:00</published>
-  </entry>
   <entry>
     <id>15463</id>
     <title>Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</title>
@@ -919,5 +910,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315191834999.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17851">Charla con los desarrolladores (24 de diciembre) - Algo nuevo se cuece dentro de la Relajatetera...</a>]]></content>
     <link href="https://genshin.mihoyo.com/es/news/detail/17851" rel="alternate"/>
     <published>2021-12-24T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17897</id>
+    <title>Avance de la versión 2.4 de Genshin Impact «Iridiscencia fugaz»</title>
+    <updated>2021-12-26T20:45:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418023332136.jpg"><br/><br/>Donde apenas llega la luz, una sombra amenazante acecha.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17897">Avance de la versión 2.4 de Genshin Impact «Iridiscencia fugaz»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17897" rel="alternate"/>
+    <summary>Donde apenas llega la luz, una sombra amenazante acecha.</summary>
+    <published>2021-12-26T20:45:00+01:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-26T12:15:41.903671+00:00</updated>
+  <updated>2021-12-26T13:18:46.700063+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15428</id>
-    <title>「정토 좇는 천하인」기원: 「일심정토·라이덴 쇼군(번개)」 확률 UP!</title>
-    <updated>2021-08-30T12:02:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010002928812.jpg"><br/><br/>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15428">「정토 좇는 천하인」기원: 「일심정토·라이덴 쇼군(번개)」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15428" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다!</summary>
-    <published>2021-08-30T12:02:00+09:00</published>
-  </entry>
   <entry>
     <id>15422</id>
     <title>「달의 왕국」이벤트: 낚시로 한정 낚싯대 획득!</title>
@@ -937,5 +928,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17862" rel="alternate"/>
     <summary>﻿따끈따끈한 개발진 간담회 등장~</summary>
     <published>2021-12-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17912</id>
+    <title>&lt;원신&gt; 2.4 버전 PV - 「화려히 수놓인 유년」</title>
+    <updated>2021-12-26T20:45:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418310094194.jpg"><br/><br/>빛이 닿지 않는 곳에 기회를 엿보는 기괴한 적들이 숨어있다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17912"><원신> 2.4 버전 PV - 「화려히 수놓인 유년」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17912" rel="alternate"/>
+    <summary>빛이 닿지 않는 곳에 기회를 엿보는 기괴한 적들이 숨어있다.</summary>
+    <published>2021-12-26T20:45:00+09:00</published>
   </entry>
 </feed>

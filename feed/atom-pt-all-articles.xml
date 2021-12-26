@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-26T12:15:43.355491+00:00</updated>
+  <updated>2021-12-26T13:18:54.400589+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -362,15 +362,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>15251</id>
-    <title>Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</title>
-    <updated>2021-08-26T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519551461981.jpg"><br/><br/>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15251">Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15251" rel="alternate"/>
-    <summary>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.</summary>
-    <published>2021-08-26T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>15282</id>
@@ -1268,13 +1259,13 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <published>2021-12-24T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>15541</id>
-    <title>Nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact</title>
-    <updated>2021-09-01T06:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[Devido a um problema técnico, nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact e estimamos que ela será reaberta em 01/09 11:00 (UTC +8)<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15541">Nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15541" rel="alternate"/>
-    <summary>Devido a um problema técnico, nós fecharemos em 01/09/2021 06:00 (UTC +8) a Central de Recargas oficial de Genshin Impact e estimamos que ela será reaberta em 01/09 11:00 (UTC +8)</summary>
-    <published>2021-09-01T06:00:00+01:00</published>
+    <id>17891</id>
+    <title>Teaser Versão 2.4 - "Cores Efêmeras Voadoras" | Genshin Impact</title>
+    <updated>2021-12-26T20:45:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417443423178.jpg"><br/><br/>Em um lugar remoto onde as comemorações não chegam, um monstro misterioso começa a ameaçar.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17891">Teaser Versão 2.4 - "Cores Efêmeras Voadoras" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17891" rel="alternate"/>
+    <summary>Em um lugar remoto onde as comemorações não chegam, um monstro misterioso começa a ameaçar.</summary>
+    <published>2021-12-26T20:45:00+00:00</published>
   </entry>
   <entry>
     <id>15512</id>
@@ -2172,5 +2163,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17858" rel="alternate"/>
     <summary>Que decoração você desenharia na árvore?</summary>
     <published>2021-12-24T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17891</id>
+    <title>Teaser Versão 2.4 - "Cores Efêmeras Voadoras" | Genshin Impact</title>
+    <updated>2021-12-26T20:45:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417443423178.jpg"><br/><br/>Em um lugar remoto onde as comemorações não chegam, um monstro misterioso começa a ameaçar.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17891">Teaser Versão 2.4 - "Cores Efêmeras Voadoras" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17891" rel="alternate"/>
+    <summary>Em um lugar remoto onde as comemorações não chegam, um monstro misterioso começa a ameaçar.</summary>
+    <published>2021-12-26T20:45:00+00:00</published>
   </entry>
 </feed>

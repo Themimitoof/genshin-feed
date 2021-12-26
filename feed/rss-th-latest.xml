@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:15:44 +0000</lastBuildDate>
-    <item>
-      <title>แจ้งการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15401</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901503016124.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15401">แจ้งการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</a>]]></description>
-      <guid isPermaLink="false">15401</guid>
-      <pubDate>Mon, 30 Aug 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 13:18:58 +0000</lastBuildDate>
     <item>
       <title>กิจกรรม "ร้อยใจรวมเป็นหนึ่ง": การท้าทายต่อสู้แบบเปลี่ยนทีม</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15437</link>
@@ -715,6 +708,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316000080803.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17856">24 ธ.ค. พูดคุยกับทีมนักพัฒนา - ประสบการณ์น่าตื่นเต้นใน Serenitea Pot...</a>]]></description>
       <guid isPermaLink="false">17856</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>ตัวอย่าง Genshin Impact เวอร์ชัน 2.4: "แสงสีสันแต่งแต้มท้องนภา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17905</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418190923268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17905">ตัวอย่าง Genshin Impact เวอร์ชัน 2.4: "แสงสีสันแต่งแต้มท้องนภา"</a>]]></description>
+      <guid isPermaLink="false">17905</guid>
+      <pubDate>Sun, 26 Dec 2021 20:45:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

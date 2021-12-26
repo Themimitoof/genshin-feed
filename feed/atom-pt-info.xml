@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2021-12-26T12:15:42.846695+00:00</updated>
+  <updated>2021-12-26T13:18:52.012404+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15251</id>
-    <title>Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</title>
-    <updated>2021-08-26T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519551461981.jpg"><br/><br/>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15251">Teaser de Personagem: "Shogun Raiden: Pesadelo" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15251" rel="alternate"/>
-    <summary>Apenas sombras dos dias de outrora e sonhos vazios permanecem. Os corações mortais mergulham na solidão eterna.</summary>
-    <published>2021-08-26T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>15282</id>
     <title>"O mundo permanece constante por séculos. Mas a vida humana é como o orvalho da manhã ou uma bolha subindo na água."</title>
@@ -912,5 +903,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/17854" rel="alternate"/>
     <summary>A nova conversa com os desenvolvedores está chegando~ Venha dar uma conferida!</summary>
     <published>2021-12-24T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>17891</id>
+    <title>Teaser Versão 2.4 - "Cores Efêmeras Voadoras" | Genshin Impact</title>
+    <updated>2021-12-26T20:45:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417443423178.jpg"><br/><br/>Em um lugar remoto onde as comemorações não chegam, um monstro misterioso começa a ameaçar.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17891">Teaser Versão 2.4 - "Cores Efêmeras Voadoras" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/17891" rel="alternate"/>
+    <summary>Em um lugar remoto onde as comemorações não chegam, um monstro misterioso começa a ameaçar.</summary>
+    <published>2021-12-26T20:45:00+00:00</published>
   </entry>
 </feed>

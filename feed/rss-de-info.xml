@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:15:39 +0000</lastBuildDate>
-    <item>
-      <title>Notizen über Inazuma – Watatsumi und Seirai</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15232</link>
-      <description>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518005178820.jpg"><br/><br/>In Version 2.1 wird es im Gebiet von Inazuma die beiden neuen Inseln „Seirai“ und „Watatsumi“ geben, die jeweils unterschiedliche Ausprägungen haben. Mehr über diese faszinierenden Inseln findest du hier!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15232">Notizen über Inazuma – Watatsumi und Seirai</a>]]></content:encoded>
-      <guid isPermaLink="false">15232</guid>
-      <pubDate>Thu, 26 Aug 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 13:18:32 +0000</lastBuildDate>
     <item>
       <title>Figurenvorschau von Genshin Impact für Shougun Raiden – „Albtraum“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15243</link>
@@ -850,6 +842,14 @@ Außerdem ist er fest entschlossen, seine Kameraden zu schützen.<br><br>Read mo
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316093296042.jpg"><br/><br/>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17859">Fragerunde mit den Entwicklern vom 24. Dezember – Lass uns in der Kanne der Vergänglichkeit etwas Spannendes machen ...</a>]]></content:encoded>
       <guid isPermaLink="false">17859</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vorschauvideo zu Version 2.4 von Genshin Impact: „Flüchtige Farben im Flug“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/17895</link>
+      <description>Wo das Licht kaum hinreicht, lauert ein heimtückischer Feind in den Schatten.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417571249225.jpg"><br/><br/>Wo das Licht kaum hinreicht, lauert ein heimtückischer Feind in den Schatten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/17895">Vorschauvideo zu Version 2.4 von Genshin Impact: „Flüchtige Farben im Flug“</a>]]></content:encoded>
+      <guid isPermaLink="false">17895</guid>
+      <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

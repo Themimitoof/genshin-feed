@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-12-26T12:15:37.422051+00:00</updated>
+  <updated>2021-12-26T13:18:25.470049+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>15360</id>
-    <title>« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</title>
-    <updated>2021-08-29T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812173625112.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15360">« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15360" rel="alternate"/>
-    <published>2021-08-29T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15361</id>
     <title> Genshin Impact - Démo personnage : « Kujou Sara : Ambition de la foudre »</title>
@@ -862,5 +854,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/17860" rel="alternate"/>
     <summary>Nous sommes de retour avec une nouvelle édition de « Discussion avec les développeurs » ~ Voyons ensemble ce qu'ils nous réservent !</summary>
     <published>2021-12-24T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17924</id>
+    <title>Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</title>
+    <updated>2021-12-26T20:45:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419172631850.jpg"><br/><br/>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17924">Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17924" rel="alternate"/>
+    <summary>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.</summary>
+    <published>2021-12-26T20:45:00+01:00</published>
   </entry>
 </feed>

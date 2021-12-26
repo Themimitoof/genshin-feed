@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:15:38 +0000</lastBuildDate>
-    <item>
-      <title>「為將軍大人實現『永恆』，這就是我的『願望』。」</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15354</link>
-      <description>今天為大家介紹的是來自天領奉行的大將——九條裟羅。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721232554051.jpg"><br/><br/>今天為大家介紹的是來自天領奉行的大將——九條裟羅。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15354">「為將軍大人實現『永恆』，這就是我的『願望』。」</a>]]></content:encoded>
-      <guid isPermaLink="false">15354</guid>
-      <pubDate>Sun, 29 Aug 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 13:18:29 +0000</lastBuildDate>
     <item>
       <title>角色展示-「九條裟羅：雷閃之志」｜原神</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/15355</link>
@@ -810,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315254516048.jpg"><br/><br/>新鮮的開發團隊座談會來啦~一起往下看看吧！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17853">12.24開發團隊座談會——在塵歌壺裡來一場緊張刺激的…</a>]]></content:encoded>
       <guid isPermaLink="false">17853</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>2.4版本預告：「飛彩鐫流年」｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17901</link>
+      <description>華彩難及之處，詭譎的敵影伺機而動。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418111020379.jpg"><br/><br/>華彩難及之處，詭譎的敵影伺機而動。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17901">2.4版本預告：「飛彩鐫流年」｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">17901</guid>
+      <pubDate>Sun, 26 Dec 2021 20:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

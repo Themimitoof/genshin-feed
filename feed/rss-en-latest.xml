@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:15:36 +0000</lastBuildDate>
-    <item>
-      <title>Version 2.1 "Floating World Under the Moonlight" Update Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15513</link>
-      <description>Below are the details of the Version 2.1 update "Floating World Under the Moonlight" and the update compensation.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119155180810.jpg"><br/><br/>Below are the details of the Version 2.1 update "Floating World Under the Moonlight" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15513">Version 2.1 "Floating World Under the Moonlight" Update Details</a>]]></content:encoded>
-      <guid isPermaLink="false">15513</guid>
-      <pubDate>Wed, 01 Sep 2021 07:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 13:18:20 +0000</lastBuildDate>
     <item>
       <title>"Hyakunin Ikki" Gameplay Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15495</link>
@@ -887,6 +879,14 @@ And his sincere heart that is determined to protect his companions.<br><br>Read 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122314582332322.jpg"><br/><br/>A new Developers Discussion is here~ Let's see what they have in store for us!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17850">Something Thrilling and Intriguing in the Serenitea Pot... | Developers Discussion - 12/24</a>]]></content:encoded>
       <guid isPermaLink="false">17850</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Version 2.4 "Fleeting Colors in Flight" Trailer | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17918</link>
+      <description>Where light can barely reach, a treacherous foe lies in wait in the shadows.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418562789316.jpg"><br/><br/>Where light can barely reach, a treacherous foe lies in wait in the shadows.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17918">Version 2.4 "Fleeting Colors in Flight" Trailer | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17918</guid>
+      <pubDate>Sun, 26 Dec 2021 20:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

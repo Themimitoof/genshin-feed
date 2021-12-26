@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-12-26T12:15:43.408829+00:00</updated>
+  <updated>2021-12-26T13:18:54.447261+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15371</id>
-    <title>Обзор событий версии 2.1 - Выпуск I</title>
-    <updated>2021-08-30T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082816120752594.jpg"><br/><br/>Привет, путешественники! Версия 2.1 уже не за горами. Готовы к новым увлекательным событиям? Нажмите на изображение ниже, чтобы узнать больше!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15371">Обзор событий версии 2.1 - Выпуск I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15371" rel="alternate"/>
-    <summary>Привет, путешественники! Версия 2.1 уже не за горами. Готовы к новым увлекательным событиям? Нажмите на изображение ниже, чтобы узнать больше!</summary>
-    <published>2021-08-30T12:10:00+03:00</published>
-  </entry>
   <entry>
     <id>15467</id>
     <title>«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</title>
@@ -926,5 +917,16 @@
     <summary>Привет, Путешественники!
 Приближается пора зимних праздников, а вместе с ними и праздничное настроение. </summary>
     <published>2021-12-25T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17888</id>
+    <title>Genshin Impact | Версия 2.4 - Краски мимолётности</title>
+    <updated>2021-12-26T20:45:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417424199548.jpg"><br/><br/>Там, где цвета тусклы, скрываются коварные тени.
+Там, где царит ночь, ещё горят костры.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17888">Genshin Impact | Версия 2.4 - Краски мимолётности</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17888" rel="alternate"/>
+    <summary>Там, где цвета тусклы, скрываются коварные тени.
+Там, где царит ночь, ещё горят костры.</summary>
+    <published>2021-12-26T20:45:00+03:00</published>
   </entry>
 </feed>

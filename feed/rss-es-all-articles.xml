@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 13:18:38 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -278,14 +278,6 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15285</link>
-      <description>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610164747799.jpg"><br/><br/>¡Hola, viajeros! El personaje que les presentaremos hoy es Shogun Raiden.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15285">"El mundo permanece constante a lo largo de los siglos. Pero la vida humana es como el rocío del amanecer o como una burbuja que se eleva sobre el agua".</a>]]></content:encoded>
-      <guid isPermaLink="false">15285</guid>
-      <pubDate>Thu, 26 Aug 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Función de predescarga</title>
@@ -1085,12 +1077,12 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
-      <title>Paimon te trae una recopilación de los eventos de la versión 2.1 (I)</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15344</link>
-      <description>Estimados viajeros: ¿Están listos para los eventos de la versión 2.1? ¡Haz clic en la imagen para echarles un vistazo!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720371052370.jpg"><br/><br/>Estimados viajeros: ¿Están listos para los eventos de la versión 2.1? ¡Haz clic en la imagen para echarles un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15344">Paimon te trae una recopilación de los eventos de la versión 2.1 (I)</a>]]></content:encoded>
-      <guid isPermaLink="false">15344</guid>
-      <pubDate>Mon, 30 Aug 2021 12:10:00 +0200</pubDate>
+      <title>Avance de la versión 2.4 de Genshin Impact «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17897</link>
+      <description>Donde apenas llega la luz, una sombra amenazante acecha.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418023332136.jpg"><br/><br/>Donde apenas llega la luz, una sombra amenazante acecha.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17897">Avance de la versión 2.4 de Genshin Impact «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">17897</guid>
+      <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
     </item>
     <item>
       <title>Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</title>
@@ -1891,6 +1883,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122315191834999.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17851">Charla con los desarrolladores (24 de diciembre) - Algo nuevo se cuece dentro de la Relajatetera...</a>]]></description>
       <guid isPermaLink="false">17851</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Avance de la versión 2.4 de Genshin Impact «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17897</link>
+      <description>Donde apenas llega la luz, una sombra amenazante acecha.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418023332136.jpg"><br/><br/>Donde apenas llega la luz, una sombra amenazante acecha.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17897">Avance de la versión 2.4 de Genshin Impact «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">17897</guid>
+      <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

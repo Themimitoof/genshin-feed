@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Dec 2021 12:15:37 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Performance de la symphonie d'Inazuma « Realm of Tranquil Eternity »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15088</link>
-      <description>Cette performance de la symphonie d'Inazuma a été enregistrée au Tokyo Opera City au Japon par l'orchestre philarmonique de Tokyo. Les plus grands artistes de la musique folklorique japonaise jouent ensemble la bande originale d'Inazuma, ainsi que la pièce « Overlord of the Thunderstorm ».</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210820/2021082015373227204.png"><br/><br/>Cette performance de la symphonie d'Inazuma a été enregistrée au Tokyo Opera City au Japon par l'orchestre philarmonique de Tokyo. Les plus grands artistes de la musique folklorique japonaise jouent ensemble la bande originale d'Inazuma, ainsi que la pièce « Overlord of the Thunderstorm ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15088">Genshin Impact - Performance de la symphonie d'Inazuma « Realm of Tranquil Eternity »</a>]]></content:encoded>
-      <guid isPermaLink="false">15088</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 13:18:26 +0000</lastBuildDate>
     <item>
       <title>L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15120</link>
@@ -753,6 +745,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316334919515.jpg"><br/><br/>Nous sommes de retour avec une nouvelle édition de « Discussion avec les développeurs » ~ Voyons ensemble ce qu'ils nous réservent !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17860">Discussion avec les développeurs du 24 décembre : quelque chose d'intrigant arrive dans la Sérénithéière...</a>]]></content:encoded>
       <guid isPermaLink="false">17860</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17924</link>
+      <description>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419172631850.jpg"><br/><br/>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17924">Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</a>]]></content:encoded>
+      <guid isPermaLink="false">17924</guid>
+      <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-12-26T12:15:36.114645+00:00</updated>
+  <updated>2021-12-26T13:18:20.874331+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15513</id>
-    <title>Version 2.1 "Floating World Under the Moonlight" Update Details</title>
-    <updated>2021-09-01T07:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119155180810.jpg"><br/><br/>Below are the details of the Version 2.1 update "Floating World Under the Moonlight" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15513">Version 2.1 "Floating World Under the Moonlight" Update Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15513" rel="alternate"/>
-    <summary>Below are the details of the Version 2.1 update "Floating World Under the Moonlight" and the update compensation.</summary>
-    <published>2021-09-01T07:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15495</id>
     <title>"Hyakunin Ikki" Gameplay Details</title>
@@ -989,5 +980,14 @@ And his sincere heart that is determined to protect his companions.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/17850" rel="alternate"/>
     <summary>A new Developers Discussion is here~ Let's see what they have in store for us!</summary>
     <published>2021-12-24T10:30:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17918</id>
+    <title>Version 2.4 "Fleeting Colors in Flight" Trailer | Genshin Impact</title>
+    <updated>2021-12-26T20:45:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418562789316.jpg"><br/><br/>Where light can barely reach, a treacherous foe lies in wait in the shadows.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17918">Version 2.4 "Fleeting Colors in Flight" Trailer | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17918" rel="alternate"/>
+    <summary>Where light can barely reach, a treacherous foe lies in wait in the shadows.</summary>
+    <published>2021-12-26T20:45:00-05:00</published>
   </entry>
 </feed>
