@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - latest</title>
-  <updated>2021-12-26T13:18:35.076467+00:00</updated>
+  <updated>2021-12-26T14:09:45.881270+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/es/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in es</subtitle>
-  <entry>
-    <id>15463</id>
-    <title>Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</title>
-    <updated>2021-08-31T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110124466260.jpg"><br/><br/>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15463">Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</a>]]></content>
-    <link href="https://genshin.mihoyo.com/es/news/detail/15463" rel="alternate"/>
-    <summary>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.</summary>
-    <published>2021-08-31T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15540</id>
     <title>Cerraremos temporalmente el Centro de recarga de la web oficial de Genshin Impact</title>
@@ -919,5 +910,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
     <link href="https://genshin.mihoyo.com/es/news/detail/17897" rel="alternate"/>
     <summary>Donde apenas llega la luz, una sombra amenazante acecha.</summary>
     <published>2021-12-26T20:45:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17903</id>
+    <title>Un camino de copos y estrellas - Evento de iluminación de los Alpes (Avance 1) |Genshin Impact</title>
+    <updated>2021-12-26T21:45:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418153370268.jpg"><br/><br/>¡Hace ya un año que estrenamos Espinadragón y desde entonces hemos vivido momentos inolvidables!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17903">Un camino de copos y estrellas - Evento de iluminación de los Alpes (Avance 1) |Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/17903" rel="alternate"/>
+    <summary>¡Hace ya un año que estrenamos Espinadragón y desde entonces hemos vivido momentos inolvidables!</summary>
+    <published>2021-12-26T21:45:00+01:00</published>
   </entry>
 </feed>

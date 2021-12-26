@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-12-26T13:18:58.857436+00:00</updated>
+  <updated>2021-12-26T14:10:08.577412+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -355,15 +355,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15283</id>
-    <title>«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</title>
-    <updated>2021-08-26T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610095583432.jpg"><br/><br/>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15283">«Пейзаж бренности остаётся неизменным на протяжении тысячелетий, но мир людей подобен осенней росе или пузырю на воде».</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15283" rel="alternate"/>
-    <summary>Привет, Путешественники! Сегодня мы представляем вам сёгуна Райдэн.</summary>
-    <published>2021-08-26T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>15329</id>
@@ -1271,13 +1262,13 @@
     <published>2021-12-26T20:45:00+03:00</published>
   </entry>
   <entry>
-    <id>15467</id>
-    <title>«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-08-31T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110245153815.jpg"><br/><br/>Райдэн (Электро)<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15467">«Вердикт эвтюмии» Сёгун Райдэн (Электро) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15467" rel="alternate"/>
-    <summary>Райдэн (Электро)</summary>
-    <published>2021-08-31T12:00:00+03:00</published>
+    <id>17879</id>
+    <title>Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 1)</title>
+    <updated>2021-12-26T21:45:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122415545499684.jpg"><br/><br/>Вот уже год Драконий хребет приносит игрокам драгоценные воспоминания.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17879">Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17879" rel="alternate"/>
+    <summary>Вот уже год Драконий хребет приносит игрокам драгоценные воспоминания.</summary>
+    <published>2021-12-26T21:45:00+03:00</published>
   </entry>
   <entry>
     <id>15542</id>
@@ -2189,5 +2180,14 @@
     <summary>Там, где цвета тусклы, скрываются коварные тени.
 Там, где царит ночь, ещё горят костры.</summary>
     <published>2021-12-26T20:45:00+03:00</published>
+  </entry>
+  <entry>
+    <id>17879</id>
+    <title>Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 1)</title>
+    <updated>2021-12-26T21:45:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122415545499684.jpg"><br/><br/>Вот уже год Драконий хребет приносит игрокам драгоценные воспоминания.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/17879">Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/17879" rel="alternate"/>
+    <summary>Вот уже год Драконий хребет приносит игрокам драгоценные воспоминания.</summary>
+    <published>2021-12-26T21:45:00+03:00</published>
   </entry>
 </feed>

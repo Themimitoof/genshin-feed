@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-12-26T13:19:06.819926+00:00</updated>
+  <updated>2021-12-26T14:10:15.424798+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -278,15 +278,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15268</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
-    <updated>2021-08-26T04:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520224321920.jpg"><br/><br/>Genshin Impact bắt tay với nhạc trưởng Dirk Brossé <br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15268">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15268" rel="alternate"/>
-    <summary>Genshin Impact bắt tay với nhạc trưởng Dirk Brossé </summary>
-    <published>2021-08-26T04:00:00+07:00</published>
   </entry>
   <entry>
     <id>15229</id>
@@ -1115,13 +1106,12 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2021-12-26T20:45:00+07:00</published>
   </entry>
   <entry>
-    <id>15402</id>
-    <title>Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</title>
-    <updated>2021-08-30T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901524849196.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15402">Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15402" rel="alternate"/>
-    <summary/>
-    <published>2021-08-30T10:30:00+07:00</published>
+    <id>17885</id>
+    <title>Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao - Sự kiện thắp sáng Apls của Genshin Impact (Teaser 1)</title>
+    <updated>2021-12-26T21:45:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417122721087.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17885">Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao - Sự kiện thắp sáng Apls của Genshin Impact (Teaser 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17885" rel="alternate"/>
+    <published>2021-12-26T21:45:00+07:00</published>
   </entry>
   <entry>
     <id>15439</id>
@@ -1944,5 +1934,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418220695026.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17907">[Genshin Impact] Video giới thiệu phiên bản 2.4: Muôn Sắc Khắc Niên Hoa</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17907" rel="alternate"/>
     <published>2021-12-26T20:45:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17885</id>
+    <title>Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao - Sự kiện thắp sáng Apls của Genshin Impact (Teaser 1)</title>
+    <updated>2021-12-26T21:45:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417122721087.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17885">Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao - Sự kiện thắp sáng Apls của Genshin Impact (Teaser 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/17885" rel="alternate"/>
+    <published>2021-12-26T21:45:00+07:00</published>
   </entry>
 </feed>

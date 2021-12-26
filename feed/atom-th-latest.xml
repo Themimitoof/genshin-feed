@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-12-26T13:18:58.904759+00:00</updated>
+  <updated>2021-12-26T14:10:08.625933+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>15437</id>
-    <title>กิจกรรม "ร้อยใจรวมเป็นหนึ่ง": การท้าทายต่อสู้แบบเปลี่ยนทีม</title>
-    <updated>2021-08-30T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083016054121250.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15437">กิจกรรม "ร้อยใจรวมเป็นหนึ่ง": การท้าทายต่อสู้แบบเปลี่ยนทีม</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15437" rel="alternate"/>
-    <summary/>
-    <published>2021-08-30T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15442</id>
     <title>กิจกรรม "แสงนวลเคล้าจันทร์": เข้าร่วมกิจกรรมแลกเปลี่ยนอาวุธพิเศษ "ดาบใหญ่ - Luxurious Sea-Lord"!</title>
@@ -841,5 +832,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418190923268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17905">ตัวอย่าง Genshin Impact เวอร์ชัน 2.4: "แสงสีสันแต่งแต้มท้องนภา"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17905" rel="alternate"/>
     <published>2021-12-26T20:45:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17883</id>
+    <title>การเดินทางของหิมะและดวงดาว - กิจกรรมจุดประกายแสงบนเทือกเขาแอลป์ของ Genshin Impact (Teaser 1)</title>
+    <updated>2021-12-26T21:45:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417101651205.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17883">การเดินทางของหิมะและดวงดาว - กิจกรรมจุดประกายแสงบนเทือกเขาแอลป์ของ Genshin Impact (Teaser 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17883" rel="alternate"/>
+    <published>2021-12-26T21:45:00+07:00</published>
   </entry>
 </feed>

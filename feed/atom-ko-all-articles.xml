@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-26T13:18:50.764059+00:00</updated>
+  <updated>2021-12-26T14:10:01.407072+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -385,15 +385,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15298</id>
-    <title>「속세의 풍경은 항상 그대로인데, 인간의 일생은 이슬처럼 덧없구나」 - 라이덴 쇼군</title>
-    <updated>2021-08-26T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611295184187.jpg"><br/><br/>오늘 소개할 캐릭터는 라이덴 쇼군이야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15298">「속세의 풍경은 항상 그대로인데, 인간의 일생은 이슬처럼 덧없구나」 - 라이덴 쇼군</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15298" rel="alternate"/>
-    <summary>오늘 소개할 캐릭터는 라이덴 쇼군이야</summary>
-    <published>2021-08-26T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>15276</id>
@@ -1322,15 +1313,13 @@
     <published>2021-12-26T20:45:00+09:00</published>
   </entry>
   <entry>
-    <id>15422</id>
-    <title>「달의 왕국」이벤트: 낚시로 한정 낚싯대 획득!</title>
-    <updated>2021-08-30T12:03:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009110627594.jpg"><br/><br/>이벤트 기간 동안 이나즈마 낚시꾼 「쿠지라이 모미지」의 달을 쫓는 여행에 합류해 전설의 물고기 「해중월」을 쫓아야 합니다. 각종 이벤트 임무와 도전을 완료하면 이벤트 한정 낚싯대 「달을 묶은 밧줄」, 원석, 신비로운 장식 물고기 등의 보상을 획득할 수 있습니다
-<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15422">「달의 왕국」이벤트: 낚시로 한정 낚싯대 획득!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15422" rel="alternate"/>
-    <summary>이벤트 기간 동안 이나즈마 낚시꾼 「쿠지라이 모미지」의 달을 쫓는 여행에 합류해 전설의 물고기 「해중월」을 쫓아야 합니다. 각종 이벤트 임무와 도전을 완료하면 이벤트 한정 낚싯대 「달을 묶은 밧줄」, 원석, 신비로운 장식 물고기 등의 보상을 획득할 수 있습니다
-</summary>
-    <published>2021-08-30T12:03:00+09:00</published>
+    <id>17920</id>
+    <title>&lt;원신&gt; 설봉의 절경, 반짝이는 별의 여정 - 원신 알프스 빛 밝히기 이벤트 (티저 1)</title>
+    <updated>2021-12-26T21:46:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418583311313.jpg"><br/><br/>당신의 빛으로 알프스를 밝혀 이세계로 떠나는 여행에 당신을 초대합니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17920"><원신> 설봉의 절경, 반짝이는 별의 여정 - 원신 알프스 빛 밝히기 이벤트 (티저 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17920" rel="alternate"/>
+    <summary>당신의 빛으로 알프스를 밝혀 이세계로 떠나는 여행에 당신을 초대합니다</summary>
+    <published>2021-12-26T21:46:00+09:00</published>
   </entry>
   <entry>
     <id>15447</id>
@@ -2249,5 +2238,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17912" rel="alternate"/>
     <summary>빛이 닿지 않는 곳에 기회를 엿보는 기괴한 적들이 숨어있다.</summary>
     <published>2021-12-26T20:45:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17920</id>
+    <title>&lt;원신&gt; 설봉의 절경, 반짝이는 별의 여정 - 원신 알프스 빛 밝히기 이벤트 (티저 1)</title>
+    <updated>2021-12-26T21:46:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418583311313.jpg"><br/><br/>당신의 빛으로 알프스를 밝혀 이세계로 떠나는 여행에 당신을 초대합니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17920"><원신> 설봉의 절경, 반짝이는 별의 여정 - 원신 알프스 빛 밝히기 이벤트 (티저 1)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17920" rel="alternate"/>
+    <summary>당신의 빛으로 알프스를 밝혀 이세계로 떠나는 여행에 당신을 초대합니다</summary>
+    <published>2021-12-26T21:46:00+09:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-12-26T13:18:20.874331+00:00</updated>
+  <updated>2021-12-26T14:09:31.728247+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15495</id>
-    <title>"Hyakunin Ikki" Gameplay Details</title>
-    <updated>2021-09-01T11:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116360290298.jpg"><br/><br/>A free-for-all fighting tournament called Hyakunin Ikki is being held in an unknown guild hall near Inazuma City. Take part and show off your elegant combat skills by defeating opponents and earning scores to win challenge rewards.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15495">"Hyakunin Ikki" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15495" rel="alternate"/>
-    <summary>A free-for-all fighting tournament called Hyakunin Ikki is being held in an unknown guild hall near Inazuma City. Take part and show off your elegant combat skills by defeating opponents and earning scores to win challenge rewards.</summary>
-    <published>2021-09-01T11:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15517</id>
     <title>Explanations of Version 2.1 Update Details</title>
@@ -989,5 +980,14 @@ And his sincere heart that is determined to protect his companions.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/17918" rel="alternate"/>
     <summary>Where light can barely reach, a treacherous foe lies in wait in the shadows.</summary>
     <published>2021-12-26T20:45:00-05:00</published>
+  </entry>
+  <entry>
+    <id>17922</id>
+    <title>Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 1) | Genshin Impact</title>
+    <updated>2021-12-26T21:45:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419035695650.jpg"><br/><br/>Dragonspine has been available for a year and it has brought many precious memories to players.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17922">Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 1) | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/17922" rel="alternate"/>
+    <summary>Dragonspine has been available for a year and it has brought many precious memories to players.</summary>
+    <published>2021-12-26T21:45:00-05:00</published>
   </entry>
 </feed>

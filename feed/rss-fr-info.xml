@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Dec 2021 13:18:26 +0000</lastBuildDate>
-    <item>
-      <title>L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15120</link>
-      <description>Chers voyageurs,
-L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082112042775399.jpg"><br/><br/>Chers voyageurs,
-L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15120">L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</a>]]></content:encoded>
-      <guid isPermaLink="false">15120</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 14:09:37 +0000</lastBuildDate>
     <item>
       <title>Aperçu de la mise à jour de version 2.1 : détails du système de pêche</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15175</link>
@@ -753,6 +743,14 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419172631850.jpg"><br/><br/>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17924">Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</a>]]></content:encoded>
       <guid isPermaLink="false">17924</guid>
       <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 1)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17916</link>
+      <description>Voilà déjà un an que les Monts Dosdragon sont disponibles et qu'ils ont apportés de nombreux souvenirs aux joueurs.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418373635591.jpg"><br/><br/>Voilà déjà un an que les Monts Dosdragon sont disponibles et qu'ils ont apportés de nombreux souvenirs aux joueurs.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17916">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">17916</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

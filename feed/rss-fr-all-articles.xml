@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Dec 2021 13:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 14:09:39 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -277,16 +277,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15120</link>
-      <description>Chers voyageurs,
-L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210821/2021082112042775399.jpg"><br/><br/>Chers voyageurs,
-L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15120">L'aperçu de la version 2.1 « Caresse sélénite sur les mortels » est enfin disponible !</a>]]></content:encoded>
-      <guid isPermaLink="false">15120</guid>
-      <pubDate>Sat, 21 Aug 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Aperçu de la mise à jour de version 2.1 : détails du système de pêche</title>
@@ -1024,12 +1014,12 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
       <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
     </item>
     <item>
-      <title> Genshin Impact - Démo personnage : « Kujou Sara : Ambition de la foudre »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15361</link>
-      <description>Exécuter la volonté de la Shogun toute-puissante et atteindre l'éternité qu'elle souhaite.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812251160117.jpg"><br/><br/>Exécuter la volonté de la Shogun toute-puissante et atteindre l'éternité qu'elle souhaite.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15361"> Genshin Impact - Démo personnage : « Kujou Sara : Ambition de la foudre »</a>]]></content:encoded>
-      <guid isPermaLink="false">15361</guid>
-      <pubDate>Sun, 29 Aug 2021 12:00:00 +0200</pubDate>
+      <title>« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 1)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17916</link>
+      <description>Voilà déjà un an que les Monts Dosdragon sont disponibles et qu'ils ont apportés de nombreux souvenirs aux joueurs.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418373635591.jpg"><br/><br/>Voilà déjà un an que les Monts Dosdragon sont disponibles et qu'ils ont apportés de nombreux souvenirs aux joueurs.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17916">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">17916</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 +0100</pubDate>
     </item>
     <item>
       <title>Notification de la mise à jour de version 2.1 « Caresse sélénite sur les mortels »</title>
@@ -1763,6 +1753,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419172631850.jpg"><br/><br/>Une ombre menaçante s'apprête à frapper là où la lumière parvient difficilement.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17924">Genshin Impact - Bande-annonce de la version 2.4 « Couleurs éphémères en vol »</a>]]></content:encoded>
       <guid isPermaLink="false">17924</guid>
       <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 1)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/17916</link>
+      <description>Voilà déjà un an que les Monts Dosdragon sont disponibles et qu'ils ont apportés de nombreux souvenirs aux joueurs.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418373635591.jpg"><br/><br/>Voilà déjà un an que les Monts Dosdragon sont disponibles et qu'ils ont apportés de nombreux souvenirs aux joueurs.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17916">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">17916</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

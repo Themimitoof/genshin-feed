@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Sun, 26 Dec 2021 13:19:00 +0000</lastBuildDate>
-    <item>
-      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15265</link>
-      <description>Genshin Impact กับวาทยกร Dirk Brossé และวงดนตรี Flanders Symphony Orchestra</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082520192868582.jpg"><br/><br/>Genshin Impact กับวาทยกร Dirk Brossé และวงดนตรี Flanders Symphony Orchestra<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15265">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content:encoded>
-      <guid isPermaLink="false">15265</guid>
-      <pubDate>Thu, 26 Aug 2021 04:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 14:10:09 +0000</lastBuildDate>
     <item>
       <title>[บันทึก Inazuma] บทแห่งเกาะ Watatsumi &amp; เกาะ Seirai</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15230</link>
@@ -719,6 +711,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418190923268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17905">ตัวอย่าง Genshin Impact เวอร์ชัน 2.4: "แสงสีสันแต่งแต้มท้องนภา"</a>]]></description>
       <guid isPermaLink="false">17905</guid>
       <pubDate>Sun, 26 Dec 2021 20:45:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>การเดินทางของหิมะและดวงดาว - กิจกรรมจุดประกายแสงบนเทือกเขาแอลป์ของ Genshin Impact (Teaser 1)</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/17883</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417101651205.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17883">การเดินทางของหิมะและดวงดาว - กิจกรรมจุดประกายแสงบนเทือกเขาแอลป์ของ Genshin Impact (Teaser 1)</a>]]></description>
+      <guid isPermaLink="false">17883</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

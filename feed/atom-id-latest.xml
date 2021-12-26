@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-26T13:18:38.747574+00:00</updated>
+  <updated>2021-12-26T14:09:49.546106+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15448</id>
-    <title>Event Permohonan "Sang Penguasa Tunggal": Persentase Perolehan "Plane of Euthymia" Raiden Shogun (Electro) Meningkat!</title>
-    <updated>2021-08-30T12:02:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083011073520139.jpg"><br/><br/>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15448">Event Permohonan "Sang Penguasa Tunggal": Persentase Perolehan "Plane of Euthymia" Raiden Shogun (Electro) Meningkat!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15448" rel="alternate"/>
-    <summary>Dapatkan Senjata dan Karakter di Event Permohonan untuk membuat anggota party menjadi lebih kuat dalam pertarungan!</summary>
-    <published>2021-08-30T12:02:00+07:00</published>
-  </entry>
   <entry>
     <id>15423</id>
     <title>Intip Preview Event v2.1 Bersama Paimon - Edisi 1</title>
@@ -926,5 +917,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17909" rel="alternate"/>
     <summary>Di tempat yang tidak terjangkau oleh cahaya, bayangan musuh misterius sedang menunggu dalam kegelapan.</summary>
     <published>2021-12-26T20:45:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17881</id>
+    <title>Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 1) | Genshin Impact</title>
+    <updated>2021-12-26T21:45:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122416441660037.jpg"><br/><br/>Dragonspine telah hadir selama setahun dan memberikan jutaan kenangan yang berharga pada para pemain<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17881">Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 1) | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17881" rel="alternate"/>
+    <summary>Dragonspine telah hadir selama setahun dan memberikan jutaan kenangan yang berharga pada para pemain</summary>
+    <published>2021-12-26T21:45:00+07:00</published>
   </entry>
 </feed>

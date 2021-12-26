@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Dec 2021 13:18:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 14:09:35 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -329,16 +329,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Character Demo - "Aloy: Otherworldly Hunter" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15306</link>
-      <description>A skilled hunter is always on the prowl for new and thrilling experiences.
-Braving this strange new world of Teyvat will be Aloy's latest trial.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082617400996628.jpg"><br/><br/>A skilled hunter is always on the prowl for new and thrilling experiences.
-Braving this strange new world of Teyvat will be Aloy's latest trial.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15306">Character Demo - "Aloy: Otherworldly Hunter" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15306</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>"To manifest Eternity per the Almighty Shogun's will — that is what I aspire to."</title>
@@ -1212,12 +1202,12 @@ And his sincere heart that is determined to protect his companions.<br><br>Read 
       <pubDate>Sun, 26 Dec 2021 20:45:00 -0500</pubDate>
     </item>
     <item>
-      <title>"Hyakunin Ikki" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15495</link>
-      <description>A free-for-all fighting tournament called Hyakunin Ikki is being held in an unknown guild hall near Inazuma City. Take part and show off your elegant combat skills by defeating opponents and earning scores to win challenge rewards.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116360290298.jpg"><br/><br/>A free-for-all fighting tournament called Hyakunin Ikki is being held in an unknown guild hall near Inazuma City. Take part and show off your elegant combat skills by defeating opponents and earning scores to win challenge rewards.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15495">"Hyakunin Ikki" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">15495</guid>
-      <pubDate>Wed, 01 Sep 2021 11:00:00 -0400</pubDate>
+      <title>Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 1) | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17922</link>
+      <description>Dragonspine has been available for a year and it has brought many precious memories to players.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419035695650.jpg"><br/><br/>Dragonspine has been available for a year and it has brought many precious memories to players.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17922">Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 1) | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17922</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 -0500</pubDate>
     </item>
     <item>
       <title>Explanations of Version 2.1 Update Details</title>
@@ -2089,6 +2079,14 @@ And his sincere heart that is determined to protect his companions.<br><br>Read 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418562789316.jpg"><br/><br/>Where light can barely reach, a treacherous foe lies in wait in the shadows.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17918">Version 2.4 "Fleeting Colors in Flight" Trailer | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">17918</guid>
       <pubDate>Sun, 26 Dec 2021 20:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 1) | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/17922</link>
+      <description>Dragonspine has been available for a year and it has brought many precious memories to players.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122419035695650.jpg"><br/><br/>Dragonspine has been available for a year and it has brought many precious memories to players.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17922">Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 1) | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17922</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

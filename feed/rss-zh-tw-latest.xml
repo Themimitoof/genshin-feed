@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 26 Dec 2021 13:18:29 +0000</lastBuildDate>
-    <item>
-      <title>角色展示-「九條裟羅：雷閃之志」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15355</link>
-      <description>踐行鳴神的意志，為將軍大人實現「永恆」，既是九條裟羅的職責所在，也是她的心願所向。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082810491954654.jpg"><br/><br/>踐行鳴神的意志，為將軍大人實現「永恆」，既是九條裟羅的職責所在，也是她的心願所向。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15355">角色展示-「九條裟羅：雷閃之志」｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">15355</guid>
-      <pubDate>Sun, 29 Aug 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 26 Dec 2021 14:09:39 +0000</lastBuildDate>
     <item>
       <title>「韶光撫月，天下人間」2.1版本更新通知</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/15357</link>
@@ -810,6 +802,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418111020379.jpg"><br/><br/>華彩難及之處，詭譎的敵影伺機而動。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17901">2.4版本預告：「飛彩鐫流年」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">17901</guid>
       <pubDate>Sun, 26 Dec 2021 20:45:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>雪峰勝景 星耀奇旅—《原神》阿爾卑斯點亮活動 (Teaser 1)</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/17877</link>
+      <description>龍脊雪山上線一年來，帶給玩家無數珍貴的回憶</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122415251668144.jpg"><br/><br/>龍脊雪山上線一年來，帶給玩家無數珍貴的回憶<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17877">雪峰勝景 星耀奇旅—《原神》阿爾卑斯點亮活動 (Teaser 1)</a>]]></content:encoded>
+      <guid isPermaLink="false">17877</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

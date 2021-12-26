@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 26 Dec 2021 13:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 14:09:49 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -278,14 +278,6 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082618532621724.jpg"><br/><br/>Una cazadora habilidosa siempre está en la búsqueda de nuevas experiencias emocionantes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15315">Demo de personaje de Genshin Impact - Aloy: la cazadora misteriosa</a>]]></content:encoded>
       <guid isPermaLink="false">15315</guid>
       <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Función de predescarga</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15330</link>
-      <description>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082710583659385.jpg"><br/><br/>Querido/a viajero/a: Con el fin de proporcionarte una mejor experiencia de juego, los desarrolladores activarán próximamente la función de predescarga para PC y dispositivos móviles.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15330">Función de predescarga</a>]]></content:encoded>
-      <guid isPermaLink="false">15330</guid>
-      <pubDate>Fri, 27 Aug 2021 11:30:00 +0200</pubDate>
     </item>
     <item>
       <title>"Mi arco y mis flechas están al servicio de los demás"</title>
@@ -1085,12 +1077,12 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
     </item>
     <item>
-      <title>Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</title>
-      <link>https://genshin.mihoyo.com/es/news/detail/15463</link>
-      <description>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110124466260.jpg"><br/><br/>"Las flores de cerezo que un día rebosaron de sentimientos se tiñeron de luto.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/15463">Demo de personaje de Genshin Impact - Shogun Raiden: El juicio de la eutimia</a>]]></content:encoded>
-      <guid isPermaLink="false">15463</guid>
-      <pubDate>Tue, 31 Aug 2021 12:00:00 +0200</pubDate>
+      <title>Un camino de copos y estrellas - Evento de iluminación de los Alpes (Avance 1) |Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17903</link>
+      <description>¡Hace ya un año que estrenamos Espinadragón y desde entonces hemos vivido momentos inolvidables!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418153370268.jpg"><br/><br/>¡Hace ya un año que estrenamos Espinadragón y desde entonces hemos vivido momentos inolvidables!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17903">Un camino de copos y estrellas - Evento de iluminación de los Alpes (Avance 1) |Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17903</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 +0100</pubDate>
     </item>
     <item>
       <title>Cerraremos temporalmente el Centro de recarga de la web oficial de Genshin Impact</title>
@@ -1891,6 +1883,14 @@ El evento «Expediente Sango: El perro guerrero» está a punto de comenzar. ¡N
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418023332136.jpg"><br/><br/>Donde apenas llega la luz, una sombra amenazante acecha.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17897">Avance de la versión 2.4 de Genshin Impact «Iridiscencia fugaz»</a>]]></content:encoded>
       <guid isPermaLink="false">17897</guid>
       <pubDate>Sun, 26 Dec 2021 20:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Un camino de copos y estrellas - Evento de iluminación de los Alpes (Avance 1) |Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/17903</link>
+      <description>¡Hace ya un año que estrenamos Espinadragón y desde entonces hemos vivido momentos inolvidables!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418153370268.jpg"><br/><br/>¡Hace ya un año que estrenamos Espinadragón y desde entonces hemos vivido momentos inolvidables!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17903">Un camino de copos y estrellas - Evento de iluminación de los Alpes (Avance 1) |Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">17903</guid>
+      <pubDate>Sun, 26 Dec 2021 21:45:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
