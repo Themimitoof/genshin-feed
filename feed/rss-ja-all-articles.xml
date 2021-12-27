@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Dec 2021 04:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 05:14:54 +0000</lastBuildDate>
     <item>
       <title>「明霄の灯を貴方へ」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8728</link>
@@ -732,13 +732,6 @@
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>「冒険者・集結」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6058</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201022/2020102219070838480.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6058">「冒険者・集結」イベント予告</a>]]></description>
-      <guid isPermaLink="false">6058</guid>
-      <pubDate>Thu, 22 Oct 2020 21:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>「原神」×中国四川省「⻩龍」コラボ写真公開！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6112</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201027/2020102716325984816.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6112">「原神」×中国四川省「⻩龍」コラボ写真公開！</a>]]></description>
@@ -1441,6 +1434,13 @@
       <pubDate>Mon, 27 Dec 2021 12:10:00 +0900</pubDate>
     </item>
     <item>
+      <title>年末年始期間中のサポートメールについてのご連絡</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17983</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17983">年末年始期間中のサポートメールについてのご連絡</a>]]></description>
+      <guid isPermaLink="false">17983</guid>
+      <pubDate>Mon, 27 Dec 2021 12:15:00 +0900</pubDate>
+    </item>
+    <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
       <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
@@ -1633,13 +1633,6 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122711564898426.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17994">Ver.2.4「流るる星霜、華咲きて」特設ページ</a>]]></description>
       <guid isPermaLink="false">17994</guid>
       <pubDate>Mon, 27 Dec 2021 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「ボンボン魔球大合戦」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13782</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062914423235744.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13782">「ボンボン魔球大合戦」イベント予告</a>]]></description>
-      <guid isPermaLink="false">13782</guid>
-      <pubDate>Wed, 30 Jun 2021 11:59:00 +0900</pubDate>
     </item>
     <item>
       <title>「ボンボン魔球大合戦」イベント紹介</title>
@@ -2339,6 +2332,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418475588513.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17914">コスチューム公開・凝光「紗の幽蘭」</a>]]></description>
       <guid isPermaLink="false">17914</guid>
       <pubDate>Mon, 27 Dec 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>年末年始期間中のサポートメールについてのご連絡</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17983</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17983">年末年始期間中のサポートメールについてのご連絡</a>]]></description>
+      <guid isPermaLink="false">17983</guid>
+      <pubDate>Mon, 27 Dec 2021 12:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
