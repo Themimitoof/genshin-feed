@@ -2,53 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-27T03:12:00.015977+00:00</updated>
+  <updated>2021-12-27T04:14:30.811527+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15447</id>
-    <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 이벤트 알림 제1회</title>
-    <updated>2021-08-30T12:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083011044596887.jpg"><br/><br/>2.1 버전이 곧 출시될 예정이야! 여행자는 흥미진진한 새로운 이벤트를 맞이할 준비가 됐어? 
-우리 같이 더 많은 이벤트 정보를 확인해 보자구~!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15447">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 이벤트 알림 제1회</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15447" rel="alternate"/>
-    <summary>2.1 버전이 곧 출시될 예정이야! 여행자는 흥미진진한 새로운 이벤트를 맞이할 준비가 됐어? 
-우리 같이 더 많은 이벤트 정보를 확인해 보자구~!</summary>
-    <published>2021-08-30T12:10:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15471</id>
-    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「라이덴 쇼군: 정토 심판」</title>
-    <updated>2021-08-31T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110311590861.jpg"><br/><br/>「지난날 다정하던 벚꽃이 오늘날 새까맣게 물들었다
-천둥소리가 사그라들며 고요해질 때, 아득한 포영의 꿈이 깨어날 것이다」<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15471"><원신> 신규 캐릭터 플레이 - 「라이덴 쇼군: 정토 심판」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15471" rel="alternate"/>
-    <summary>「지난날 다정하던 벚꽃이 오늘날 새까맣게 물들었다
-천둥소리가 사그라들며 고요해질 때, 아득한 포영의 꿈이 깨어날 것이다」</summary>
-    <published>2021-08-31T12:01:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15543</id>
-    <title>기술상의 이유로 2021년 9월 1일 6:00(UDT+8), &lt;원신&gt; 공식 홈페이지의 충전센터를 닫았다가 9월 1일 11:00(UDT+8)에 다시 오픈할 예정입니다. </title>
-    <updated>2021-09-01T06:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[실제 재오픈 시점은 상황에 따라 변동될 수 있으며, 해당 시간 동안 공식 사이트의 충전센터를 통해 「공월 축복」과 「창세의 결정」을 구매하실 수 없습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15543">기술상의 이유로 2021년 9월 1일 6:00(UDT+8), <원신> 공식 홈페이지의 충전센터를 닫았다가 9월 1일 11:00(UDT+8)에 다시 오픈할 예정입니다. </a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15543" rel="alternate"/>
-    <summary>실제 재오픈 시점은 상황에 따라 변동될 수 있으며, 해당 시간 동안 공식 사이트의 충전센터를 통해 「공월 축복」과 「창세의 결정」을 구매하실 수 없습니다</summary>
-    <published>2021-09-01T06:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15527</id>
-    <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 상세안내</title>
-    <updated>2021-09-01T07:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083121445967704.jpg"><br/><br/>2.1 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15527">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 상세안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15527" rel="alternate"/>
-    <summary>2.1 버전 업데이트 안내</summary>
-    <published>2021-09-01T07:00:00+09:00</published>
-  </entry>
   <entry>
     <id>15505</id>
     <title>「백 명의 봉기」 콘텐츠 안내</title>
@@ -935,5 +895,43 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17920" rel="alternate"/>
     <summary>당신의 빛으로 알프스를 밝혀 이세계로 떠나는 여행에 당신을 초대합니다</summary>
     <published>2021-12-26T21:46:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17960</id>
+    <title>&lt;원신&gt; 티바트 스타일·코스튬 PV - 선회하는 오색의 비단결</title>
+    <updated>2021-12-27T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211226/2021122616235856891.jpg"><br/><br/>살랑이는 비단옷이 아름다운 자태의 실루엣을 스치고,
+기쁜 날에 함께 모여 달과 별의 영원한 빛을 위해 잔을 든다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17960"><원신> 티바트 스타일·코스튬 PV - 선회하는 오색의 비단결</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17960" rel="alternate"/>
+    <summary>살랑이는 비단옷이 아름다운 자태의 실루엣을 스치고,
+기쁜 날에 함께 모여 달과 별의 영원한 빛을 위해 잔을 든다</summary>
+    <published>2021-12-27T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17992</id>
+    <title>2.4 신규 버전 「화려히 수놓인 유년」사전 공개 페이지 오픈!</title>
+    <updated>2021-12-27T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122711490554072.jpg"><br/><br/>2.4 신규 버전 「화려히 수놓인 유년」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17992">2.4 신규 버전 「화려히 수놓인 유년」사전 공개 페이지 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17992" rel="alternate"/>
+    <summary>2.4 신규 버전 「화려히 수놓인 유년」 사전 공개 페이지 오픈!</summary>
+    <published>2021-12-27T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17962</id>
+    <title>[코스튬 이미지]「날이 어두워지기 전에 서둘러야겠어」 - 「살랑이는 무지개 자락」 각청 신규 코스튬 공개</title>
+    <updated>2021-12-27T12:05:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211226/2021122616515770462.jpg"><br/><br/>각청 신규 코스튬 - 「살랑이는 무지개 자락」이 2.4 버전 업데이트 후 출시 예정<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17962">[코스튬 이미지]「날이 어두워지기 전에 서둘러야겠어」 - 「살랑이는 무지개 자락」 각청 신규 코스튬 공개</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17962" rel="alternate"/>
+    <summary>각청 신규 코스튬 - 「살랑이는 무지개 자락」이 2.4 버전 업데이트 후 출시 예정</summary>
+    <published>2021-12-27T12:05:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17963</id>
+    <title>[코스튬 이미지]「좋은 경치에 네가 있으니, 헛되진 않네」 - 「비단 속 난초」 응광 신규 코스튬 공개</title>
+    <updated>2021-12-27T12:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211226/2021122617152294667.jpg"><br/><br/>응광 신규 코스튬 - 「비단 속 난초」가 2.4 버전 업데이트 후 출시 예정<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17963">[코스튬 이미지]「좋은 경치에 네가 있으니, 헛되진 않네」 - 「비단 속 난초」 응광 신규 코스튬 공개</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/17963" rel="alternate"/>
+    <summary>응광 신규 코스튬 - 「비단 속 난초」가 2.4 버전 업데이트 후 출시 예정</summary>
+    <published>2021-12-27T12:10:00+09:00</published>
   </entry>
 </feed>

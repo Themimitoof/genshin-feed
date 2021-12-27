@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-27T03:11:47.177456+00:00</updated>
+  <updated>2021-12-27T04:13:56.316573+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -315,41 +315,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15175</id>
-    <title>Aperçu de la mise à jour de version 2.1 : détails du système de pêche</title>
-    <updated>2021-08-24T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210824/2021082410132191810.png"><br/><br/>Bonjour, voyageurs ! Le nouveau système de pêche arrive dans la version 2.1. Voyons cela ensemble ~<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15175">Aperçu de la mise à jour de version 2.1 : détails du système de pêche</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15175" rel="alternate"/>
-    <summary>Bonjour, voyageurs ! Le nouveau système de pêche arrive dans la version 2.1. Voyons cela ensemble ~</summary>
-    <published>2021-08-24T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15236</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</title>
-    <updated>2021-08-26T04:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519452854366.jpg"><br/><br/>Le Maestro Dirk Bossé et le Flanders Company Orchestra nous entraînent dans une merveilleuse aventure musicale. Revivons tous ensemble nos souvenirs de Teyvat grâce à leurs mélodies.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15236">GENSHIN CONCERT 2021 - Melodies of an Endless Journey (teaser 1)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15236" rel="alternate"/>
-    <summary>Le Maestro Dirk Bossé et le Flanders Company Orchestra nous entraînent dans une merveilleuse aventure musicale. Revivons tous ensemble nos souvenirs de Teyvat grâce à leurs mélodies.</summary>
-    <published>2021-08-26T04:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15235</id>
-    <title>Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</title>
-    <updated>2021-08-26T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082518314437499.jpg"><br/><br/>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15235">Les carnets d'Inazuma : Île de Watatsumi et Île de Seirai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15235" rel="alternate"/>
-    <summary>Dans la version 2.1, deux nouvelles zones d'Inazuma seront disponibles : l'Île de Seirai et l'Île de Watatsumi. Ces deux îles possèdent des particularités qui leur sont propres, découvrons ensemble ces lieux mystérieux !</summary>
-    <published>2021-08-26T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15247</id>
-    <title>Genshin Impact - Histoire de personnage | Shogun Raiden : « Cauchemar »</title>
-    <updated>2021-08-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519513895699.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15247">Genshin Impact - Histoire de personnage | Shogun Raiden : « Cauchemar »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15247" rel="alternate"/>
-    <published>2021-08-26T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15291</id>
@@ -1172,40 +1137,42 @@ Voici les détails de la mise à jour et de la compensation de la version 2.1 «
     <published>2021-12-26T21:45:00+01:00</published>
   </entry>
   <entry>
-    <id>15363</id>
-    <title>Notification de la mise à jour de version 2.1 « Caresse sélénite sur les mortels »</title>
-    <updated>2021-08-30T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812514097952.jpg"><br/><br/>Chers voyageurs,
-Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15363">Notification de la mise à jour de version 2.1 « Caresse sélénite sur les mortels »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15363" rel="alternate"/>
+    <id>17926</id>
+    <title>Genshin Impact - Aperçu de la mode de Teyvat : Teintes tourbillonnantes</title>
+    <updated>2021-12-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122421052087380.jpg"><br/><br/>Des robes délicates dansent avec légèreté, épousant de gracieuses silhouettes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17926">Genshin Impact - Aperçu de la mode de Teyvat : Teintes tourbillonnantes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17926" rel="alternate"/>
+    <summary>Des robes délicates dansent avec légèreté, épousant de gracieuses silhouettes.</summary>
+    <published>2021-12-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17996</id>
+    <title>Aperçu de la version 2.4 de Genshin Impact</title>
+    <updated>2021-12-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122712000741092.jpg"><br/><br/>Chers voyageurs,
+L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17996">Aperçu de la version 2.4 de Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17996" rel="alternate"/>
     <summary>Chers voyageurs,
-Afin de vous garantir une expérience optimale sur Genshin Impact, nous mettrons nos serveurs en maintenance pour procéder à la mise à jour vers la nouvelle version du jeu.</summary>
-    <published>2021-08-30T10:30:00+02:00</published>
+L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible !</summary>
+    <published>2021-12-27T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>15365</id>
-    <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Lumière du faucheur (Arme d'hast) et Lame brute (Épée à deux mains) !</title>
-    <updated>2021-08-30T12:01:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082813003069155.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15365">Vœux « Incarnation divine » : taux d'obtention boosté pour Lumière du faucheur (Arme d'hast) et Lame brute (Épée à deux mains) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15365" rel="alternate"/>
-    <published>2021-08-30T12:01:00+02:00</published>
+    <id>17887</id>
+    <title>« Profitons de l'instant avant que la nuit ne tombe. » — Présentation de la nouvelle tenue de Keqing « Splendeur opulente »</title>
+    <updated>2021-12-27T12:05:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417193974054.jpg"><br/><br/>La nouvelle tenue de Keqing « Splendeur opulente » sera bientôt disponible après la mise à jour de version 2.4. <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17887">« Profitons de l'instant avant que la nuit ne tombe. » — Présentation de la nouvelle tenue de Keqing « Splendeur opulente »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17887" rel="alternate"/>
+    <summary>La nouvelle tenue de Keqing « Splendeur opulente » sera bientôt disponible après la mise à jour de version 2.4. </summary>
+    <published>2021-12-27T12:05:00+01:00</published>
   </entry>
   <entry>
-    <id>15364</id>
-    <title>Vœux « Règne de sérénité » : taux d'obtention boosté pour Shogun Raiden · Plan euthymique (Électro) !</title>
-    <updated>2021-08-30T12:02:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812580241808.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15364">Vœux « Règne de sérénité » : taux d'obtention boosté pour Shogun Raiden · Plan euthymique (Électro) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15364" rel="alternate"/>
-    <published>2021-08-30T12:02:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15368</id>
-    <title>Paimon vous présente un aperçu des nouveaux événements de la version 2.1 - Partie </title>
-    <updated>2021-08-30T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082813093616741.jpg"><br/><br/>Bonjour, voyageurs ! Êtes-vous prêts pour les nouveaux événements de la version 2.1 ? Cliquez sur l'image ci-dessous pour y jeter un œil !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15368">Paimon vous présente un aperçu des nouveaux événements de la version 2.1 - Partie </a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15368" rel="alternate"/>
-    <summary>Bonjour, voyageurs ! Êtes-vous prêts pour les nouveaux événements de la version 2.1 ? Cliquez sur l'image ci-dessous pour y jeter un œil !</summary>
-    <published>2021-08-30T12:10:00+02:00</published>
+    <id>17890</id>
+    <title>« Ces beaux moments ne sont pas vains lorsque vous êtes à mes côtés. » — Présentation de la nouvelle tenue de Ningguang « Robe de soirée d'orchidées »</title>
+    <updated>2021-12-27T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417431334064.jpg"><br/><br/>La nouvelle tenue de Ningguang « Robe de soirée d'orchidées » sera bientôt disponible après la mise à jour de version 2.4.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17890">« Ces beaux moments ne sont pas vains lorsque vous êtes à mes côtés. » — Présentation de la nouvelle tenue de Ningguang « Robe de soirée d'orchidées »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17890" rel="alternate"/>
+    <summary>La nouvelle tenue de Ningguang « Robe de soirée d'orchidées » sera bientôt disponible après la mise à jour de version 2.4.</summary>
+    <published>2021-12-27T12:10:00+01:00</published>
   </entry>
   <entry>
     <id>15465</id>
@@ -2025,5 +1992,43 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/17916" rel="alternate"/>
     <summary>Voilà déjà un an que les Monts Dosdragon sont disponibles et qu'ils ont apportés de nombreux souvenirs aux joueurs.</summary>
     <published>2021-12-26T21:45:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17926</id>
+    <title>Genshin Impact - Aperçu de la mode de Teyvat : Teintes tourbillonnantes</title>
+    <updated>2021-12-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122421052087380.jpg"><br/><br/>Des robes délicates dansent avec légèreté, épousant de gracieuses silhouettes.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17926">Genshin Impact - Aperçu de la mode de Teyvat : Teintes tourbillonnantes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17926" rel="alternate"/>
+    <summary>Des robes délicates dansent avec légèreté, épousant de gracieuses silhouettes.</summary>
+    <published>2021-12-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17996</id>
+    <title>Aperçu de la version 2.4 de Genshin Impact</title>
+    <updated>2021-12-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122712000741092.jpg"><br/><br/>Chers voyageurs,
+L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17996">Aperçu de la version 2.4 de Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17996" rel="alternate"/>
+    <summary>Chers voyageurs,
+L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible !</summary>
+    <published>2021-12-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17887</id>
+    <title>« Profitons de l'instant avant que la nuit ne tombe. » — Présentation de la nouvelle tenue de Keqing « Splendeur opulente »</title>
+    <updated>2021-12-27T12:05:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417193974054.jpg"><br/><br/>La nouvelle tenue de Keqing « Splendeur opulente » sera bientôt disponible après la mise à jour de version 2.4. <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17887">« Profitons de l'instant avant que la nuit ne tombe. » — Présentation de la nouvelle tenue de Keqing « Splendeur opulente »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17887" rel="alternate"/>
+    <summary>La nouvelle tenue de Keqing « Splendeur opulente » sera bientôt disponible après la mise à jour de version 2.4. </summary>
+    <published>2021-12-27T12:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>17890</id>
+    <title>« Ces beaux moments ne sont pas vains lorsque vous êtes à mes côtés. » — Présentation de la nouvelle tenue de Ningguang « Robe de soirée d'orchidées »</title>
+    <updated>2021-12-27T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417431334064.jpg"><br/><br/>La nouvelle tenue de Ningguang « Robe de soirée d'orchidées » sera bientôt disponible après la mise à jour de version 2.4.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17890">« Ces beaux moments ne sont pas vains lorsque vous êtes à mes côtés. » — Présentation de la nouvelle tenue de Ningguang « Robe de soirée d'orchidées »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/17890" rel="alternate"/>
+    <summary>La nouvelle tenue de Ningguang « Robe de soirée d'orchidées » sera bientôt disponible après la mise à jour de version 2.4.</summary>
+    <published>2021-12-27T12:10:00+01:00</published>
   </entry>
 </feed>

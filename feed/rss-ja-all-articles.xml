@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Dec 2021 03:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Dec 2021 04:14:30 +0000</lastBuildDate>
     <item>
       <title>「明霄の灯を貴方へ」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8728</link>
@@ -732,20 +732,6 @@
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5839</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200929/2020092917432173258.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5839">原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</a>]]></description>
-      <guid isPermaLink="false">5839</guid>
-      <pubDate>Wed, 14 Oct 2020 07:30:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>10月22日メンテナンスのお知らせ（更新済み）</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6013</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201022/2020102219095912610.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6013">10月22日メンテナンスのお知らせ（更新済み）</a>]]></description>
-      <guid isPermaLink="false">6013</guid>
-      <pubDate>Tue, 20 Oct 2020 19:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>「冒険者・集結」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6058</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201022/2020102219070838480.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6058">「冒険者・集結」イベント予告</a>]]></description>
@@ -1441,6 +1427,20 @@
       <pubDate>Wed, 24 Nov 2021 10:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>コスチューム公開・刻晴「霓裾の舞」</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17915</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418482260749.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17915">コスチューム公開・刻晴「霓裾の舞」</a>]]></description>
+      <guid isPermaLink="false">17915</guid>
+      <pubDate>Mon, 27 Dec 2021 12:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>コスチューム公開・凝光「紗の幽蘭」</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17914</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418475588513.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17914">コスチューム公開・凝光「紗の幽蘭」</a>]]></description>
+      <guid isPermaLink="false">17914</guid>
+      <pubDate>Mon, 27 Dec 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
       <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
@@ -1628,26 +1628,11 @@
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>「長い旅路」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13610</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210623/2021062319520985668.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13610">「長い旅路」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">13610</guid>
-      <pubDate>Thu, 24 Jun 2021 13:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「秋風に舞いし紅葉」任務予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13701</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210628/2021062810445974359.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13701">「秋風に舞いし紅葉」任務予告</a>]]></description>
-      <guid isPermaLink="false">13701</guid>
-      <pubDate>Sun, 27 Jun 2021 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>運営チームからの手紙</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13768</link>
-      <description>ワープ機能を持つ調度品がやってきます！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513121383002.jpg"><br/><br/>ワープ機能を持つ調度品がやってきます！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13768">運営チームからの手紙</a>]]></content:encoded>
-      <guid isPermaLink="false">13768</guid>
-      <pubDate>Wed, 30 Jun 2021 10:30:00 +0900</pubDate>
+      <title>Ver.2.4「流るる星霜、華咲きて」特設ページ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17994</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122711564898426.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17994">Ver.2.4「流るる星霜、華咲きて」特設ページ</a>]]></description>
+      <guid isPermaLink="false">17994</guid>
+      <pubDate>Mon, 27 Dec 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「ボンボン魔球大合戦」イベント予告</title>
@@ -2333,6 +2318,27 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122311383521856.jpg"><br/><br/>塵歌壺にて刺激的で緊迫感のあるゲームを楽しみましょう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17849">運営チームからの手紙</a>]]></content:encoded>
       <guid isPermaLink="false">17849</guid>
       <pubDate>Fri, 24 Dec 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.4「流るる星霜、華咲きて」特設ページ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17994</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122711564898426.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17994">Ver.2.4「流るる星霜、華咲きて」特設ページ</a>]]></description>
+      <guid isPermaLink="false">17994</guid>
+      <pubDate>Mon, 27 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>コスチューム公開・刻晴「霓裾の舞」</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17915</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418482260749.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17915">コスチューム公開・刻晴「霓裾の舞」</a>]]></description>
+      <guid isPermaLink="false">17915</guid>
+      <pubDate>Mon, 27 Dec 2021 12:05:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>コスチューム公開・凝光「紗の幽蘭」</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17914</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418475588513.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17914">コスチューム公開・凝光「紗の幽蘭」</a>]]></description>
+      <guid isPermaLink="false">17914</guid>
+      <pubDate>Mon, 27 Dec 2021 12:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,49 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - info</title>
-  <updated>2021-12-27T03:11:55.957586+00:00</updated>
+  <updated>2021-12-27T04:14:18.656532+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15339</id>
-    <title>Fitur Pra-Unduh Akan Segera Dibuka</title>
-    <updated>2021-08-27T11:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711355075381.jpg"><br/><br/>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15339">Fitur Pra-Unduh Akan Segera Dibuka</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15339" rel="alternate"/>
-    <summary>Demi memberikan pengalaman bermain yang lebih baik, tim kami akan segera menghadirkan fitur pra-unduh di versi PC dan mobile dalam waktu dekat.</summary>
-    <published>2021-08-27T11:30:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15297</id>
-    <title>"Busurku ... dipakai untuk menolong orang-orang yang butuh bantuan."</title>
-    <updated>2021-08-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611274694477.jpg"><br/><br/>Hari ini, ayo Paimon kenalkan seorang gadis dari dunia lain — Aloy!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15297">"Busurku ... dipakai untuk menolong orang-orang yang butuh bantuan."</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15297" rel="alternate"/>
-    <summary>Hari ini, ayo Paimon kenalkan seorang gadis dari dunia lain — Aloy!</summary>
-    <published>2021-08-27T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15318</id>
-    <title>Demo Karakter - "Aloy: Sang Pemburu Asing" | Genshin Impact </title>
-    <updated>2021-08-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619170284754.jpg"><br/><br/>Seorang pemburu yang hebat, selalu mencari sebuah tempat berburu yang baru dan menakjubkan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15318">Demo Karakter - "Aloy: Sang Pemburu Asing" | Genshin Impact </a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15318" rel="alternate"/>
-    <summary>Seorang pemburu yang hebat, selalu mencari sebuah tempat berburu yang baru dan menakjubkan.</summary>
-    <published>2021-08-27T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15350</id>
-    <title>"Harapanku adalah mewujudkan Keabadian yang diimpikan Shogun."</title>
-    <updated>2021-08-29T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721021945314.jpg"><br/><br/>Hari ini, yuk kita kenalan dengan Jenderal Tenryou Commission — Kujou Sara!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15350">"Harapanku adalah mewujudkan Keabadian yang diimpikan Shogun."</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15350" rel="alternate"/>
-    <summary>Hari ini, yuk kita kenalan dengan Jenderal Tenryou Commission — Kujou Sara!</summary>
-    <published>2021-08-29T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15403</id>
     <title>Demo Karakter - "Kujou Sara: Pengabdi Kehendak Petir" | Genshin Impact </title>
@@ -918,5 +882,41 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17881" rel="alternate"/>
     <summary>Dragonspine telah hadir selama setahun dan memberikan jutaan kenangan yang berharga pada para pemain</summary>
     <published>2021-12-26T21:45:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17930</id>
+    <title>Teaser Kostum: Fashion Teyvat — Warna dalam Lambaian Gaun | Genshin Impact</title>
+    <updated>2021-12-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211225/2021122513103251167.jpg"><br/><br/>Hentakan irama gadis anggun, menyisakan bayangan gemulai dalam rangkulan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17930">Teaser Kostum: Fashion Teyvat — Warna dalam Lambaian Gaun | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17930" rel="alternate"/>
+    <summary>Hentakan irama gadis anggun, menyisakan bayangan gemulai dalam rangkulan.</summary>
+    <published>2021-12-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17997</id>
+    <title>Preview Genshin Impact v2.4</title>
+    <updated>2021-12-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122712025081918.jpg"><br/><br/>Halaman Preview Versi 2.4 "Sekilas Rona di Angkasa" Resmi Dibuka!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17997">Preview Genshin Impact v2.4</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17997" rel="alternate"/>
+    <summary>Halaman Preview Versi 2.4 "Sekilas Rona di Angkasa" Resmi Dibuka!</summary>
+    <published>2021-12-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17875</id>
+    <title>"Manfaatkan waktu sebaik-baiknya sebelum malam tiba." — Galeri Kostum Baru Keqing "Opulent Splendor"</title>
+    <updated>2021-12-27T12:05:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122414303515204.jpg"><br/><br/>Kostum baru Keqing — Opulent Splendor akan hadir setelah update 2.4 selesai.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17875">"Manfaatkan waktu sebaik-baiknya sebelum malam tiba." — Galeri Kostum Baru Keqing "Opulent Splendor"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17875" rel="alternate"/>
+    <summary>Kostum baru Keqing — Opulent Splendor akan hadir setelah update 2.4 selesai.</summary>
+    <published>2021-12-27T12:05:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17876</id>
+    <title>"Tidak sia-sia bisa melihat pemandangan seindah ini bersamamu." — Galeri Kostum Baru Ningguang "Orchid's Evening Gown"</title>
+    <updated>2021-12-27T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122414510942019.jpg"><br/><br/>Kostum baru Ningguang, Orchid's Evening Gown, akan hadir setelah update v2.4.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/17876">"Tidak sia-sia bisa melihat pemandangan seindah ini bersamamu." — Galeri Kostum Baru Ningguang "Orchid's Evening Gown"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/17876" rel="alternate"/>
+    <summary>Kostum baru Ningguang, Orchid's Evening Gown, akan hadir setelah update v2.4.</summary>
+    <published>2021-12-27T12:10:00+07:00</published>
   </entry>
 </feed>

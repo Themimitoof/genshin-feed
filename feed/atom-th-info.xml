@@ -2,49 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-12-27T03:12:07.865326+00:00</updated>
+  <updated>2021-12-27T04:14:53.689387+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>15230</id>
-    <title>[บันทึก Inazuma] บทแห่งเกาะ Watatsumi &amp; เกาะ Seirai</title>
-    <updated>2021-08-26T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082517584361369.jpg"><br/><br/>ในเวอร์ชัน 2.1 พื้นที่ Inazuma จะเปิดเกาะใหม่ <br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15230">[บันทึก Inazuma] บทแห่งเกาะ Watatsumi & เกาะ Seirai</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15230" rel="alternate"/>
-    <summary>ในเวอร์ชัน 2.1 พื้นที่ Inazuma จะเปิดเกาะใหม่ </summary>
-    <published>2021-08-26T10:30:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15248</id>
-    <title>[Genshin Impact] ธีมวิดีโอตัวละคร Raiden Shogun - "ฝันร้าย"</title>
-    <updated>2021-08-26T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210825/2021082519525367756.jpg"><br/><br/>แสงทอในวันวาน เหลือเพียงภาพฝันอันเลือนราง ความปรารถนาของมนุษย์ จมดิ่งสู่ความเงียบงันชั่วนิรันดร์<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15248">[Genshin Impact] ธีมวิดีโอตัวละคร Raiden Shogun - "ฝันร้าย"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15248" rel="alternate"/>
-    <summary>แสงทอในวันวาน เหลือเพียงภาพฝันอันเลือนราง ความปรารถนาของมนุษย์ จมดิ่งสู่ความเงียบงันชั่วนิรันดร์</summary>
-    <published>2021-08-26T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15288</id>
-    <title>"วิวทิวทัศน์ของโลกมนุษย์ ไม่ว่าผ่านไปกี่ร้อยกี่พันปีก็ยังคงเหมือนเดิม ชีวิตมนุษย์ก็เหมือนดั่งหยาดน้ำค้าง ดั่งฟองสบู่"</title>
-    <updated>2021-08-26T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082610470767133.jpg"><br/><br/>สวัสดีนักเดินทางทุกคน ตัวละครที่แนะนำให้ทุกคนรู้จักในวันนี้ก็คือ Raiden Shogun<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15288">"วิวทิวทัศน์ของโลกมนุษย์ ไม่ว่าผ่านไปกี่ร้อยกี่พันปีก็ยังคงเหมือนเดิม ชีวิตมนุษย์ก็เหมือนดั่งหยาดน้ำค้าง ดั่งฟองสบู่"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15288" rel="alternate"/>
-    <summary>สวัสดีนักเดินทางทุกคน ตัวละครที่แนะนำให้ทุกคนรู้จักในวันนี้ก็คือ Raiden Shogun</summary>
-    <published>2021-08-26T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15333</id>
-    <title>ฟังก์ชันดาวน์โหลดล่วงหน้ากำลังจะเปิดแล้ว</title>
-    <updated>2021-08-27T11:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711041511908.jpg"><br/><br/>นักเดินทางที่รัก:<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15333">ฟังก์ชันดาวน์โหลดล่วงหน้ากำลังจะเปิดแล้ว</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15333" rel="alternate"/>
-    <summary>นักเดินทางที่รัก:</summary>
-    <published>2021-08-27T11:30:00+07:00</published>
-  </entry>
   <entry>
     <id>15300</id>
     <title>"คันธนูและลูกธนูของฉัน มีไว้ใช้เพื่อช่วยเหลือผู้คนเท่านั้น"</title>
@@ -838,5 +802,38 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417101651205.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17883">การเดินทางของหิมะและดวงดาว - กิจกรรมจุดประกายแสงบนเทือกเขาแอลป์ของ Genshin Impact (Teaser 1)</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17883" rel="alternate"/>
     <published>2021-12-26T21:45:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17977</id>
+    <title>[Genshin Impact] PV แฟชั่นคอสตูม Teyvat - สีสันพลิ้วไหวบนผืนผ้า</title>
+    <updated>2021-12-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122700354191036.jpg"><br/><br/>ผืนผ้าเบาบาง โอบร่างงามพลิ้วไหว<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17977">[Genshin Impact] PV แฟชั่นคอสตูม Teyvat - สีสันพลิ้วไหวบนผืนผ้า</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17977" rel="alternate"/>
+    <summary>ผืนผ้าเบาบาง โอบร่างงามพลิ้วไหว</summary>
+    <published>2021-12-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17988</id>
+    <title>ตัวอย่างเนื้อหาเวอร์ชัน 2.4</title>
+    <updated>2021-12-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122711411919924.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17988">ตัวอย่างเนื้อหาเวอร์ชัน 2.4</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17988" rel="alternate"/>
+    <published>2021-12-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17869</id>
+    <title>"ก่อนที่อาทิตย์จะลาลับขอบฟ้าไป ต้องรีบหน่อยแล้วล่ะ" - "รัศมีรุ้งเจิดจรัส" คอสตูมใหม่ของ Keqing</title>
+    <updated>2021-12-27T12:05:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122411395334944.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17869">"ก่อนที่อาทิตย์จะลาลับขอบฟ้าไป ต้องรีบหน่อยแล้วล่ะ" - "รัศมีรุ้งเจิดจรัส" คอสตูมใหม่ของ Keqing</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17869" rel="alternate"/>
+    <published>2021-12-27T12:05:00+07:00</published>
+  </entry>
+  <entry>
+    <id>17867</id>
+    <title>"วันที่สวยงามเช่นนี้ไม่สูญเปล่าแล้ว เพราะมีเธออยู่เคียงข้างยังไงล่ะ" - "กล้วยไม้อนธการ" คอสตูมใหม่ของ Ningguang</title>
+    <updated>2021-12-27T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122411343635007.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17867">"วันที่สวยงามเช่นนี้ไม่สูญเปล่าแล้ว เพราะมีเธออยู่เคียงข้างยังไงล่ะ" - "กล้วยไม้อนธการ" คอสตูมใหม่ของ Ningguang</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/17867" rel="alternate"/>
+    <published>2021-12-27T12:10:00+07:00</published>
   </entry>
 </feed>

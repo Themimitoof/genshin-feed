@@ -2,49 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2021-12-27T03:11:47.229167+00:00</updated>
+  <updated>2021-12-27T04:13:56.371297+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15357</id>
-    <title>「韶光撫月，天下人間」2.1版本更新通知</title>
-    <updated>2021-08-30T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082811255776621.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15357">「韶光撫月，天下人間」2.1版本更新通知</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15357" rel="alternate"/>
-    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
-    <published>2021-08-30T10:30:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15406</id>
-    <title>「百人一揆」活動：換隊亂鬥挑戰</title>
-    <updated>2021-08-30T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914210564288.jpg"><br/><br/>活動期間，參與亂鬥大會「百人一揆」，以兩人一組的編制擊敗對手贏得積分，達到指定積分可獲得活動專屬名片紋飾「慶典·一揆」、原石等獎勵。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15406">「百人一揆」活動：換隊亂鬥挑戰</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15406" rel="alternate"/>
-    <summary>活動期間，參與亂鬥大會「百人一揆」，以兩人一組的編制擊敗對手贏得積分，達到指定積分可獲得活動專屬名片紋飾「慶典·一揆」、原石等獎勵。</summary>
-    <published>2021-08-30T12:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15407</id>
-    <title>「月中王國」活動：釣魚可獲限定魚竿！</title>
-    <updated>2021-08-30T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914283836188.jpg"><br/><br/>活動期間，加入稻妻漁師「鯨井椛」的追月之旅，追逐傳說中名為「海中月」的大魚。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15407">「月中王國」活動：釣魚可獲限定魚竿！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15407" rel="alternate"/>
-    <summary>活動期間，加入稻妻漁師「鯨井椛」的追月之旅，追逐傳說中名為「海中月」的大魚。</summary>
-    <published>2021-08-30T12:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15408</id>
-    <title>「神鑄賦形」祈願：「長柄武器·薙草之稻光」、「雙手劍·無工之劍」機率UP！</title>
-    <updated>2021-08-30T12:01:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914430199429.jpg"><br/><br/>活動期間，旅行者可以在「神鑄賦形」活動祈願中獲得更多武器與角色，提升隊伍的戰鬥力！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15408">「神鑄賦形」祈願：「長柄武器·薙草之稻光」、「雙手劍·無工之劍」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15408" rel="alternate"/>
-    <summary>活動期間，旅行者可以在「神鑄賦形」活動祈願中獲得更多武器與角色，提升隊伍的戰鬥力！</summary>
-    <published>2021-08-30T12:01:00+08:00</published>
-  </entry>
   <entry>
     <id>15409</id>
     <title>「影寂天下人」祈願：「一心淨土·雷電將軍(雷)」機率UP！</title>
@@ -911,5 +875,43 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17877" rel="alternate"/>
     <summary>龍脊雪山上線一年來，帶給玩家無數珍貴的回憶</summary>
     <published>2021-12-26T21:45:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17928</id>
+    <title>提瓦特風尚·衣裝預覽 - 衣旋彩隨｜原神</title>
+    <updated>2021-12-27T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122422101960511.jpg"><br/><br/>羅綺翩躚，撫欄麗影娉婷。良辰共聚，舉杯星月久盈。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17928">提瓦特風尚·衣裝預覽 - 衣旋彩隨｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17928" rel="alternate"/>
+    <summary>羅綺翩躚，撫欄麗影娉婷。良辰共聚，舉杯星月久盈。</summary>
+    <published>2021-12-27T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17989</id>
+    <title>【原神】2.4版本內容搶先看</title>
+    <updated>2021-12-27T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122711413581677.jpg"><br/><br/>2.4新版本「飛彩鐫流年」先行展示網頁現已開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17989">【原神】2.4版本內容搶先看</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17989" rel="alternate"/>
+    <summary>2.4新版本「飛彩鐫流年」先行展示網頁現已開放！</summary>
+    <published>2021-12-27T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17871</id>
+    <title>「夜幕降臨之前，要抓緊時間了。」——「霓裾翩躚」刻晴全新衣裝展示</title>
+    <updated>2021-12-27T12:05:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122411420520705.jpg"><br/><br/>旅行者們好呀~刻晴全新衣裝——「霓裾翩躚」即將在2.4版本更新完成後上線，旅行者們可前往角色裝扮商城購買該衣裝，一起來看看吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17871">「夜幕降臨之前，要抓緊時間了。」——「霓裾翩躚」刻晴全新衣裝展示</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17871" rel="alternate"/>
+    <summary>旅行者們好呀~刻晴全新衣裝——「霓裾翩躚」即將在2.4版本更新完成後上線，旅行者們可前往角色裝扮商城購買該衣裝，一起來看看吧~</summary>
+    <published>2021-12-27T12:05:00+08:00</published>
+  </entry>
+  <entry>
+    <id>17872</id>
+    <title>「良辰美景有你相伴，也算不枉。」——「紗中幽蘭」凝光全新衣裝展示</title>
+    <updated>2021-12-27T12:10:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122411485564862.jpg"><br/><br/>旅行者們好呀~
+凝光全新衣裝——「紗中幽蘭」即將在2.4版本更新後上線，旅行者可以透過限時活動「飛彩鐫流年」免費獲得該衣裝，一起來看看吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/17872">「良辰美景有你相伴，也算不枉。」——「紗中幽蘭」凝光全新衣裝展示</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17872" rel="alternate"/>
+    <summary>旅行者們好呀~
+凝光全新衣裝——「紗中幽蘭」即將在2.4版本更新後上線，旅行者可以透過限時活動「飛彩鐫流年」免費獲得該衣裝，一起來看看吧~</summary>
+    <published>2021-12-27T12:10:00+08:00</published>
   </entry>
 </feed>

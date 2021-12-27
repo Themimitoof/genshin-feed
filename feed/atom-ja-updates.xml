@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - updates</title>
-  <updated>2021-12-27T03:11:58.902275+00:00</updated>
+  <updated>2021-12-27T04:14:27.167019+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>updates feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>5839</id>
-    <title>原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</title>
-    <updated>2020-10-14T07:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20200929/2020092917432173258.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5839">原神リリース記念キャンペーン第2弾〜第7弾 詳細（※追記内容あり）</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/5839" rel="alternate"/>
-    <summary/>
-    <published>2020-10-14T07:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>6013</id>
-    <title>10月22日メンテナンスのお知らせ（更新済み）</title>
-    <updated>2020-10-20T19:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201022/2020102219095912610.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6013">10月22日メンテナンスのお知らせ（更新済み）</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/6013" rel="alternate"/>
-    <summary/>
-    <published>2020-10-20T19:00:00+09:00</published>
-  </entry>
   <entry>
     <id>6058</id>
     <title>「冒険者・集結」イベント予告</title>
@@ -895,5 +877,23 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17287" rel="alternate"/>
     <summary>Epic Games Storeをご利用の旅人さんは、今後Epic Games Storeがサポートするお支払い方法を選択できるようになりました</summary>
     <published>2021-11-24T10:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17915</id>
+    <title>コスチューム公開・刻晴「霓裾の舞」</title>
+    <updated>2021-12-27T12:05:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418482260749.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17915">コスチューム公開・刻晴「霓裾の舞」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17915" rel="alternate"/>
+    <summary/>
+    <published>2021-12-27T12:05:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17914</id>
+    <title>コスチューム公開・凝光「紗の幽蘭」</title>
+    <updated>2021-12-27T12:10:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122418475588513.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17914">コスチューム公開・凝光「紗の幽蘭」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17914" rel="alternate"/>
+    <summary/>
+    <published>2021-12-27T12:10:00+09:00</published>
   </entry>
 </feed>
