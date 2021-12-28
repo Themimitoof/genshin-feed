@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-12-28T01:58:56.497780+00:00</updated>
+  <updated>2021-12-28T02:34:19.573378+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -287,15 +287,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15317</id>
-    <title>角色展示-「亞蘿伊：奇異狩獵」｜原神</title>
-    <updated>2021-08-27T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619163658569.jpg"><br/><br/>一名優秀的獵人，不斷追尋驚險又新奇的獵場。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15317">角色展示-「亞蘿伊：奇異狩獵」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15317" rel="alternate"/>
-    <summary>一名優秀的獵人，不斷追尋驚險又新奇的獵場。</summary>
-    <published>2021-08-27T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>15354</id>
@@ -1194,12 +1185,13 @@
     <published>2021-12-27T12:10:00+08:00</published>
   </entry>
   <entry>
-    <id>15409</id>
-    <title>「影寂天下人」祈願：「一心淨土·雷電將軍(雷)」機率UP！</title>
-    <updated>2021-08-30T12:02:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914473874658.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15409">「影寂天下人」祈願：「一心淨土·雷電將軍(雷)」機率UP！</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15409" rel="alternate"/>
-    <published>2021-08-30T12:02:00+08:00</published>
+    <id>18060</id>
+    <title>【稻妻手帳】淵下宮篇001期——全新機關</title>
+    <updated>2021-12-28T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720002584664.jpg"><br/><br/>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18060">【稻妻手帳】淵下宮篇001期——全新機關</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18060" rel="alternate"/>
+    <summary>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。</summary>
+    <published>2021-12-28T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>15351</id>
@@ -2097,5 +2089,14 @@
     <summary>旅行者們好呀~
 凝光全新衣裝——「紗中幽蘭」即將在2.4版本更新後上線，旅行者可以透過限時活動「飛彩鐫流年」免費獲得該衣裝，一起來看看吧~</summary>
     <published>2021-12-27T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18060</id>
+    <title>【稻妻手帳】淵下宮篇001期——全新機關</title>
+    <updated>2021-12-28T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720002584664.jpg"><br/><br/>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18060">【稻妻手帳】淵下宮篇001期——全新機關</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18060" rel="alternate"/>
+    <summary>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。</summary>
+    <published>2021-12-28T10:30:00+08:00</published>
   </entry>
 </feed>

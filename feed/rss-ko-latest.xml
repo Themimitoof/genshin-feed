@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 28 Dec 2021 01:59:09 +0000</lastBuildDate>
-    <item>
-      <title>「백 명의 봉기」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15505</link>
-      <description>이나즈마성의 비밀 회장에서 신비한 난투 대회 「백 명의 봉기」가 주최되고 있어</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083118551419403.jpg"><br/><br/>이나즈마성의 비밀 회장에서 신비한 난투 대회 「백 명의 봉기」가 주최되고 있어<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15505">「백 명의 봉기」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">15505</guid>
-      <pubDate>Wed, 01 Sep 2021 11:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 02:34:48 +0000</lastBuildDate>
     <item>
       <title>「동행」 웹이벤트 오픈! 복귀 모험가, 신인 모험가와 동행하고 선물을 받아 가세요!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15561</link>
@@ -829,6 +821,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211226/2021122617152294667.jpg"><br/><br/>응광 신규 코스튬 - 「비단 속 난초」가 2.4 버전 업데이트 후 출시 예정<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/17963">[코스튬 이미지]「좋은 경치에 네가 있으니, 헛되진 않네」 - 「비단 속 난초」 응광 신규 코스튬 공개</a>]]></content:encoded>
       <guid isPermaLink="false">17963</guid>
       <pubDate>Mon, 27 Dec 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이나즈마 수첩] 연하궁편 1회 - 신규 장치</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18051</link>
+      <description>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719335353624.jpg"><br/><br/>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18051">[이나즈마 수첩] 연하궁편 1회 - 신규 장치</a>]]></content:encoded>
+      <guid isPermaLink="false">18051</guid>
+      <pubDate>Tue, 28 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

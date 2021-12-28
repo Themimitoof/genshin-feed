@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-12-28T01:58:50.550649+00:00</updated>
+  <updated>2021-12-28T02:34:06.330764+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>15291</id>
-    <title>« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</title>
-    <updated>2021-08-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611115184840.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15291">« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15291" rel="alternate"/>
-    <summary/>
-    <published>2021-08-26T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15337</id>
     <title>Le pré-téléchargement sera bientôt disponible</title>
@@ -866,5 +857,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <link href="https://genshin.mihoyo.com/fr/news/detail/17890" rel="alternate"/>
     <summary>La nouvelle tenue de Ningguang « Robe de soirée d'orchidées » sera bientôt disponible après la mise à jour de version 2.4.</summary>
     <published>2021-12-27T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18066</id>
+    <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</title>
+    <updated>2021-12-28T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720310022375.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18066">Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18066" rel="alternate"/>
+    <published>2021-12-28T10:30:00+01:00</published>
   </entry>
 </feed>

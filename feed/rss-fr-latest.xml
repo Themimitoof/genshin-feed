@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 28 Dec 2021 01:58:49 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Shogun Raiden : Jugement de l'euthymie »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15465</link>
-      <description>« Les fleurs de cerisier d'autrefois sont désormais recouverts de noir.
-Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se brise. »</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110234328426.jpg"><br/><br/>« Les fleurs de cerisier d'autrefois sont désormais recouverts de noir.
-Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se brise. »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15465">Genshin Impact - Démo personnage : « Shogun Raiden : Jugement de l'euthymie »</a>]]></content:encoded>
-      <guid isPermaLink="false">15465</guid>
-      <pubDate>Tue, 31 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 02:34:04 +0000</lastBuildDate>
     <item>
       <title>En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15539</link>
@@ -751,6 +741,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122417431334064.jpg"><br/><br/>La nouvelle tenue de Ningguang « Robe de soirée d'orchidées » sera bientôt disponible après la mise à jour de version 2.4.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/17890">« Ces beaux moments ne sont pas vains lorsque vous êtes à mes côtés. » — Présentation de la nouvelle tenue de Ningguang « Robe de soirée d'orchidées »</a>]]></content:encoded>
       <guid isPermaLink="false">17890</guid>
       <pubDate>Mon, 27 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18066</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720310022375.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18066">Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</a>]]></description>
+      <guid isPermaLink="false">18066</guid>
+      <pubDate>Tue, 28 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

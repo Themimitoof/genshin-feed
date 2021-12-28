@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-28T01:59:12.805262+00:00</updated>
+  <updated>2021-12-28T02:34:54.801334+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -385,15 +385,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15381</id>
-    <title>「쇼군님을 위해 『영원함』을 실현 하는 게 내 『염원』이야」 - 쿠죠 사라</title>
-    <updated>2021-08-29T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082818091410347.jpg"><br/><br/>오늘 소개할 캐릭터는 텐료 봉행의 대장 - 쿠죠 사라야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15381">「쇼군님을 위해 『영원함』을 실현 하는 게 내 『염원』이야」 - 쿠죠 사라</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15381" rel="alternate"/>
-    <summary>오늘 소개할 캐릭터는 텐료 봉행의 대장 - 쿠죠 사라야</summary>
-    <published>2021-08-29T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>15377</id>
@@ -1320,13 +1311,13 @@
     <published>2021-12-27T12:10:00+09:00</published>
   </entry>
   <entry>
-    <id>15505</id>
-    <title>「백 명의 봉기」 콘텐츠 안내</title>
-    <updated>2021-09-01T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083118551419403.jpg"><br/><br/>이나즈마성의 비밀 회장에서 신비한 난투 대회 「백 명의 봉기」가 주최되고 있어<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15505">「백 명의 봉기」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15505" rel="alternate"/>
-    <summary>이나즈마성의 비밀 회장에서 신비한 난투 대회 「백 명의 봉기」가 주최되고 있어</summary>
-    <published>2021-09-01T11:00:00+09:00</published>
+    <id>18051</id>
+    <title>[이나즈마 수첩] 연하궁편 1회 - 신규 장치</title>
+    <updated>2021-12-28T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719335353624.jpg"><br/><br/>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18051">[이나즈마 수첩] 연하궁편 1회 - 신규 장치</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18051" rel="alternate"/>
+    <summary>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다</summary>
+    <published>2021-12-28T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>15561</id>
@@ -2243,5 +2234,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17963" rel="alternate"/>
     <summary>응광 신규 코스튬 - 「비단 속 난초」가 2.4 버전 업데이트 후 출시 예정</summary>
     <published>2021-12-27T12:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18051</id>
+    <title>[이나즈마 수첩] 연하궁편 1회 - 신규 장치</title>
+    <updated>2021-12-28T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719335353624.jpg"><br/><br/>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18051">[이나즈마 수첩] 연하궁편 1회 - 신규 장치</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18051" rel="alternate"/>
+    <summary>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다</summary>
+    <published>2021-12-28T10:30:00+09:00</published>
   </entry>
 </feed>

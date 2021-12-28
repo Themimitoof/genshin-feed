@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-12-28T01:59:06.503111+00:00</updated>
+  <updated>2021-12-28T02:34:40.766133+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -346,15 +346,6 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/7469" rel="alternate"/>
     <summary>Semuanya berjalan dengan mulus, hingga sesuatu yang tidak terduga terjadi... Petualanganmu di Dragonspine, dimulai!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15403</id>
-    <title>Demo Karakter - "Kujou Sara: Pengabdi Kehendak Petir" | Genshin Impact </title>
-    <updated>2021-08-29T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901584219923.jpg"><br/><br/>Melaksanakan kehendak sang dewa petir, dan membantu Shogun Yang Mahakuasa mewujudkan "keabadian".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15403">Demo Karakter - "Kujou Sara: Pengabdi Kehendak Petir" | Genshin Impact </a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15403" rel="alternate"/>
-    <summary>Melaksanakan kehendak sang dewa petir, dan membantu Shogun Yang Mahakuasa mewujudkan "keabadian".</summary>
-    <published>2021-08-29T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15424</id>
@@ -1258,13 +1249,13 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <published>2021-12-27T12:10:00+07:00</published>
   </entry>
   <entry>
-    <id>15497</id>
-    <title>Cara Bermain "Hyakunin Ikki"</title>
-    <updated>2021-09-01T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083117092730845.jpg"><br/><br/>Di aula rahasia Kota Inazuma, diadakanlah sebuah pertarungan misterius yang dinamakan "Hyakunin Ikki". Bentuklah tim yang terdiri dari dua orang untuk menunjukkan keelokan seni bela dirimu di atas arena, dan kalahkanlah lawan untuk mendapatkan poin, serta kesempatan untuk memenangkan hadiah tantangan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15497">Cara Bermain "Hyakunin Ikki"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15497" rel="alternate"/>
-    <summary>Di aula rahasia Kota Inazuma, diadakanlah sebuah pertarungan misterius yang dinamakan "Hyakunin Ikki". Bentuklah tim yang terdiri dari dua orang untuk menunjukkan keelokan seni bela dirimu di atas arena, dan kalahkanlah lawan untuk mendapatkan poin, serta kesempatan untuk memenangkan hadiah tantangan.</summary>
-    <published>2021-09-01T11:00:00+07:00</published>
+    <id>18045</id>
+    <title>Seluk-beluk Inazuma, Enkanomiya Edisi 1: Mekanisme Baru</title>
+    <updated>2021-12-28T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719280886203.jpg"><br/><br/>Di v2.4, wilayah Enkanomiya yang berada di bawah Pulau Watatsumi, Inazuma akan terbuka.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18045">Seluk-beluk Inazuma, Enkanomiya Edisi 1: Mekanisme Baru</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18045" rel="alternate"/>
+    <summary>Di v2.4, wilayah Enkanomiya yang berada di bawah Pulau Watatsumi, Inazuma akan terbuka.</summary>
+    <published>2021-12-28T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15520</id>
@@ -2174,5 +2165,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/17876" rel="alternate"/>
     <summary>Kostum baru Ningguang, Orchid's Evening Gown, akan hadir setelah update v2.4.</summary>
     <published>2021-12-27T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18045</id>
+    <title>Seluk-beluk Inazuma, Enkanomiya Edisi 1: Mekanisme Baru</title>
+    <updated>2021-12-28T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719280886203.jpg"><br/><br/>Di v2.4, wilayah Enkanomiya yang berada di bawah Pulau Watatsumi, Inazuma akan terbuka.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18045">Seluk-beluk Inazuma, Enkanomiya Edisi 1: Mekanisme Baru</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18045" rel="alternate"/>
+    <summary>Di v2.4, wilayah Enkanomiya yang berada di bawah Pulau Watatsumi, Inazuma akan terbuka.</summary>
+    <published>2021-12-28T10:30:00+07:00</published>
   </entry>
 </feed>

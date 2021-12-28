@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Dec 2021 01:58:46 +0000</lastBuildDate>
-    <item>
-      <title>"Hyakunin Ikki" Event: A team-switching combat challenge awaits</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15385</link>
-      <description>During the event, take part in the free-for-all fighting tournament "Hyakunin Ikki" and show off your elegant combat skills by defeating opponents in tag teams of two characters. By reaching the target scores, Travelers can obtain rewards such as the event-exclusive namecard style "Celebration: Ikki", Primogems, and more.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819234427074.jpg"><br/><br/>During the event, take part in the free-for-all fighting tournament "Hyakunin Ikki" and show off your elegant combat skills by defeating opponents in tag teams of two characters. By reaching the target scores, Travelers can obtain rewards such as the event-exclusive namecard style "Celebration: Ikki", Primogems, and more.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15385">"Hyakunin Ikki" Event: A team-switching combat challenge awaits</a>]]></content:encoded>
-      <guid isPermaLink="false">15385</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 02:33:59 +0000</lastBuildDate>
     <item>
       <title>"Lunar Realm" Event: Go fishing and obtain the event-exclusive fishing rod!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15386</link>
@@ -889,6 +881,14 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211226/2021122610431437658.jpg"><br/><br/>Ningguang's new outfit "Orchid's Evening Gown" will be available soon after the Version 2.4 update. Get it for free during the limited-time event "Fleeting Colors in Flight"! Let's check it out~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17933">"I guess this is warranted. It's beautiful outside, and you're here to see it with me." – Ningguang's New Outfit Showcase "Orchid's Evening Gown"</a>]]></content:encoded>
       <guid isPermaLink="false">17933</guid>
       <pubDate>Mon, 27 Dec 2021 12:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Inazuma Diaries: Enkanomiya Vol. 1 — New Mechanisms</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18038</link>
+      <description>In Version 2.4, Enkanomiya on Watatsumi Island, Inazuma will become available. This mysterious area under Sangonomiya must have piqued the curiosity of Travelers who've visited Watatsumi Island. Let's check out the various new gameplay mechanics Enkanomiya has to offer~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719185827933.jpg"><br/><br/>In Version 2.4, Enkanomiya on Watatsumi Island, Inazuma will become available. This mysterious area under Sangonomiya must have piqued the curiosity of Travelers who've visited Watatsumi Island. Let's check out the various new gameplay mechanics Enkanomiya has to offer~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18038">The Inazuma Diaries: Enkanomiya Vol. 1 — New Mechanisms</a>]]></content:encoded>
+      <guid isPermaLink="false">18038</guid>
+      <pubDate>Tue, 28 Dec 2021 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

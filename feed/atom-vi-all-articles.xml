@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-12-28T01:59:25.624712+00:00</updated>
+  <updated>2021-12-28T02:35:24.596093+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -278,15 +278,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15296</id>
-    <title>"Cung tên của tôi chỉ dùng để giúp đỡ mọi người."	</title>
-    <updated>2021-08-27T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611251057741.jpg"><br/><br/>Nhà Lữ Hành thân mến!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15296">"Cung tên của tôi chỉ dùng để giúp đỡ mọi người."	</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15296" rel="alternate"/>
-    <summary>Nhà Lữ Hành thân mến!</summary>
-    <published>2021-08-27T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15326</id>
@@ -1111,12 +1102,12 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2021-12-27T12:10:00+07:00</published>
   </entry>
   <entry>
-    <id>15450</id>
-    <title>Cầu nguyện "Cô Độc Giữa Nhân Gian", UP xác suất Nhất Tâm Tịnh Thổ - Raiden Shogun (Lôi)!</title>
-    <updated>2021-08-30T12:02:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083011124330991.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15450">Cầu nguyện "Cô Độc Giữa Nhân Gian", UP xác suất Nhất Tâm Tịnh Thổ - Raiden Shogun (Lôi)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15450" rel="alternate"/>
-    <published>2021-08-30T12:02:00+07:00</published>
+    <id>18043</id>
+    <title>[Sổ Tay Inazuma] Chương Enkanomiya Kỳ 001 - Cơ Quan Mới	</title>
+    <updated>2021-12-28T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719242646996.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18043">[Sổ Tay Inazuma] Chương Enkanomiya Kỳ 001 - Cơ Quan Mới	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18043" rel="alternate"/>
+    <published>2021-12-28T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15373</id>
@@ -1938,5 +1929,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122411371540410.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/17868">"Cảnh sắc tươi đẹp như vậy có bạn bên cạnh, cũng không uổng phí" - Giới thiệu trang phục mới của Ningguang "U Lan Tinh Diệu"	</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/17868" rel="alternate"/>
     <published>2021-12-27T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18043</id>
+    <title>[Sổ Tay Inazuma] Chương Enkanomiya Kỳ 001 - Cơ Quan Mới	</title>
+    <updated>2021-12-28T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719242646996.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18043">[Sổ Tay Inazuma] Chương Enkanomiya Kỳ 001 - Cơ Quan Mới	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18043" rel="alternate"/>
+    <published>2021-12-28T10:30:00+07:00</published>
   </entry>
 </feed>

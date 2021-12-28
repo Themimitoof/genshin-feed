@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 28 Dec 2021 01:59:19 +0000</lastBuildDate>
-    <item>
-      <title>Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.1 ช่วงที่ 1</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15376</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817272059328.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15376">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.1 ช่วงที่ 1</a>]]></description>
-      <guid isPermaLink="false">15376</guid>
-      <pubDate>Mon, 30 Aug 2021 12:10:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 02:35:09 +0000</lastBuildDate>
     <item>
       <title>ตัวอย่างตัวละคร Genshin Impact - "Raiden Shogun: คำพิพากษาแห่งดินแดนอันบริสุทธิ์"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15479</link>
@@ -716,6 +709,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211224/2021122411343635007.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17867">"วันที่สวยงามเช่นนี้ไม่สูญเปล่าแล้ว เพราะมีเธออยู่เคียงข้างยังไงล่ะ" - "กล้วยไม้อนธการ" คอสตูมใหม่ของ Ningguang</a>]]></description>
       <guid isPermaLink="false">17867</guid>
       <pubDate>Mon, 27 Dec 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 1 - กลไกชนิดใหม่</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18040</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719210115321.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18040">[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 1 - กลไกชนิดใหม่</a>]]></description>
+      <guid isPermaLink="false">18040</guid>
+      <pubDate>Tue, 28 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

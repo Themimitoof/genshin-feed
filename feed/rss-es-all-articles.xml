@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 28 Dec 2021 01:59:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 02:34:33 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -290,6 +290,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Mon, 27 Dec 2021 12:10:00 +0100</pubDate>
     </item>
     <item>
+      <title>Diario de Inazuma, Enkanomiya (I) - Nuevos mecanismos</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18032</link>
+      <description>En la versión 2.4 estará disponible la nueva región de Enkanomiya, en la Isla Watatsumi en Inazuma. Seguro que los que ya hayan explorado la Isla Watatsumi están deseando desentrañar los misterios que se esconden en estas misteriosas profundidades. Enkanomiya está repleta de nuevos mecanismos, ¡echémosles un vistazo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122718582257856.jpg"><br/><br/>En la versión 2.4 estará disponible la nueva región de Enkanomiya, en la Isla Watatsumi en Inazuma. Seguro que los que ya hayan explorado la Isla Watatsumi están deseando desentrañar los misterios que se esconden en estas misteriosas profundidades. Enkanomiya está repleta de nuevos mecanismos, ¡echémosles un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18032">Diario de Inazuma, Enkanomiya (I) - Nuevos mecanismos</a>]]></content:encoded>
+      <guid isPermaLink="false">18032</guid>
+      <pubDate>Tue, 28 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -298,6 +306,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
 Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la actualización de la versión 2.4. Puedes conseguirlo de manera gratuita en el evento «Iridiscencia fugaz». ¡Echémosle un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17967">Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</a>]]></content:encoded>
       <guid isPermaLink="false">17967</guid>
       <pubDate>Mon, 27 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Diario de Inazuma, Enkanomiya (I) - Nuevos mecanismos</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18032</link>
+      <description>En la versión 2.4 estará disponible la nueva región de Enkanomiya, en la Isla Watatsumi en Inazuma. Seguro que los que ya hayan explorado la Isla Watatsumi están deseando desentrañar los misterios que se esconden en estas misteriosas profundidades. Enkanomiya está repleta de nuevos mecanismos, ¡echémosles un vistazo!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122718582257856.jpg"><br/><br/>En la versión 2.4 estará disponible la nueva región de Enkanomiya, en la Isla Watatsumi en Inazuma. Seguro que los que ya hayan explorado la Isla Watatsumi están deseando desentrañar los misterios que se esconden en estas misteriosas profundidades. Enkanomiya está repleta de nuevos mecanismos, ¡echémosles un vistazo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18032">Diario de Inazuma, Enkanomiya (I) - Nuevos mecanismos</a>]]></content:encoded>
+      <guid isPermaLink="false">18032</guid>
+      <pubDate>Tue, 28 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

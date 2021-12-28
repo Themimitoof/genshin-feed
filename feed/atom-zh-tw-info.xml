@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-12-28T01:58:53.979939+00:00</updated>
+  <updated>2021-12-28T02:34:13.738897+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15317</id>
-    <title>角色展示-「亞蘿伊：奇異狩獵」｜原神</title>
-    <updated>2021-08-27T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619163658569.jpg"><br/><br/>一名優秀的獵人，不斷追尋驚險又新奇的獵場。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15317">角色展示-「亞蘿伊：奇異狩獵」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15317" rel="alternate"/>
-    <summary>一名優秀的獵人，不斷追尋驚險又新奇的獵場。</summary>
-    <published>2021-08-27T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>15354</id>
     <title>「為將軍大人實現『永恆』，這就是我的『願望』。」</title>
@@ -913,5 +904,14 @@
     <summary>旅行者們好呀~
 凝光全新衣裝——「紗中幽蘭」即將在2.4版本更新後上線，旅行者可以透過限時活動「飛彩鐫流年」免費獲得該衣裝，一起來看看吧~</summary>
     <published>2021-12-27T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18060</id>
+    <title>【稻妻手帳】淵下宮篇001期——全新機關</title>
+    <updated>2021-12-28T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720002584664.jpg"><br/><br/>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18060">【稻妻手帳】淵下宮篇001期——全新機關</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18060" rel="alternate"/>
+    <summary>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。</summary>
+    <published>2021-12-28T10:30:00+08:00</published>
   </entry>
 </feed>

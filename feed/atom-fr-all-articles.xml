@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-28T01:58:52.844015+00:00</updated>
+  <updated>2021-12-28T02:34:11.678185+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -315,15 +315,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15291</id>
-    <title>« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</title>
-    <updated>2021-08-26T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611115184840.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15291">« Le monde demeure inchangé à travers les millénaires. La vie humaine est comme la rosée du matin ou une bulle à la surface de l'eau. »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15291" rel="alternate"/>
-    <summary/>
-    <published>2021-08-26T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15337</id>
@@ -1175,15 +1166,12 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <published>2021-12-27T12:10:00+01:00</published>
   </entry>
   <entry>
-    <id>15465</id>
-    <title>Genshin Impact - Démo personnage : « Shogun Raiden : Jugement de l'euthymie »</title>
-    <updated>2021-08-31T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110234328426.jpg"><br/><br/>« Les fleurs de cerisier d'autrefois sont désormais recouverts de noir.
-Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se brise. »<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15465">Genshin Impact - Démo personnage : « Shogun Raiden : Jugement de l'euthymie »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15465" rel="alternate"/>
-    <summary>« Les fleurs de cerisier d'autrefois sont désormais recouverts de noir.
-Une fois que le tonnerre cesse, le rêve éphémère de la bulle illusoire se brise. »</summary>
-    <published>2021-08-31T12:00:00+02:00</published>
+    <id>18066</id>
+    <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</title>
+    <updated>2021-12-28T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720310022375.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18066">Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18066" rel="alternate"/>
+    <published>2021-12-28T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>15539</id>
@@ -2030,5 +2018,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <link href="https://genshin.mihoyo.com/fr/news/detail/17890" rel="alternate"/>
     <summary>La nouvelle tenue de Ningguang « Robe de soirée d'orchidées » sera bientôt disponible après la mise à jour de version 2.4.</summary>
     <published>2021-12-27T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18066</id>
+    <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</title>
+    <updated>2021-12-28T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720310022375.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18066">Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18066" rel="alternate"/>
+    <published>2021-12-28T10:30:00+01:00</published>
   </entry>
 </feed>
