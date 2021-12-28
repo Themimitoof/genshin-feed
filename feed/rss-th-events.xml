@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 28 Dec 2021 03:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 04:14:48 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -151,6 +151,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120911243280983.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17574">กิจกรรม "เปิดตัว! โรงละครแก๊ง Arataki!" บนเว็บไซต์เริ่มต้นขึ้นแล้ว</a>]]></description>
       <guid isPermaLink="false">17574</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>กิจกรรมเซียมซีที่ระลึกเวอร์ชัน 2.3</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18047</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719300198994.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18047">กิจกรรมเซียมซีที่ระลึกเวอร์ชัน 2.3</a>]]></description>
+      <guid isPermaLink="false">18047</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์" กำลังจะเริ่มขึ้นแล้ว!</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18057</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720273332305.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18057">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์" กำลังจะเริ่มขึ้นแล้ว!</a>]]></description>
+      <guid isPermaLink="false">18057</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

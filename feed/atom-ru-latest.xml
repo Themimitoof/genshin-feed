@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-12-28T03:11:39.785694+00:00</updated>
+  <updated>2021-12-28T04:14:37.602208+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15545</id>
-    <title>Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</title>
-    <updated>2021-09-01T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110014847034.jpg"><br/><br/>Сёгун Райдэн: Грозовое небытие<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15545">Сёгун Райдэн: Грозовое небытие | Коллекция Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15545" rel="alternate"/>
-    <summary>Сёгун Райдэн: Грозовое небытие</summary>
-    <published>2021-09-01T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15598</id>
-    <title>Элой: Сверкающая изморозь другого мира | Коллекция Genshin Impact</title>
-    <updated>2021-09-02T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116343755228.jpg"><br/><br/>Элой: Сверкающая изморозь другого мира<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15598">Элой: Сверкающая изморозь другого мира | Коллекция Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15598" rel="alternate"/>
-    <summary>Элой: Сверкающая изморозь другого мира</summary>
-    <published>2021-09-02T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>15631</id>
     <title>Кудзё Сара: Перо молнии | Коллекция Genshin Impact</title>
@@ -928,5 +910,23 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18044" rel="alternate"/>
     <summary>В версии 2.4 станет доступен новый регион Инадзумы, Энканомия. Это таинственное место под Сангономией наверняка вызвало любопытство Путешественников, посетивших остров Ватацуми. Давайте подробнее рассмотрим новые механизмы, которые встретятся в Энканомии!</summary>
     <published>2021-12-28T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18070</id>
+    <title>[Конкурс с наградами] «Защитник Якса» Сяо - Конкурс фан-арта начался!</title>
+    <updated>2021-12-28T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810081233168.png"><br/><br/>Событие фан-арта «Защитник Якса» Сяо объявляем открытым! Приготовьте всё, что нужно для рисования, и принимайте участие!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18070">[Конкурс с наградами] «Защитник Якса» Сяо - Конкурс фан-арта начался!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18070" rel="alternate"/>
+    <summary>Событие фан-арта «Защитник Якса» Сяо объявляем открытым! Приготовьте всё, что нужно для рисования, и принимайте участие!</summary>
+    <published>2021-12-28T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18072</id>
+    <title>Событие «Памятная лотерея» версии 2.3</title>
+    <updated>2021-12-28T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810441043909.jpg"><br/><br/>Версия 2.3 «Белая пыль и снежная тень» закончится 04.01.2022. Какие у вас впечатления?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18072">Событие «Памятная лотерея» версии 2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18072" rel="alternate"/>
+    <summary>Версия 2.3 «Белая пыль и снежная тень» закончится 04.01.2022. Какие у вас впечатления?</summary>
+    <published>2021-12-28T12:00:00+03:00</published>
   </entry>
 </feed>

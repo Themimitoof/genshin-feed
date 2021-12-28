@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2021-12-28T03:11:38.820223+00:00</updated>
+  <updated>2021-12-28T04:14:36.113853+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -228,5 +228,23 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/17858" rel="alternate"/>
     <summary>Que decoração você desenharia na árvore?</summary>
     <published>2021-12-24T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18042</id>
+    <title>Evento de Sorteio Comemorativo da Versão 2.3</title>
+    <updated>2021-12-28T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719232624009.jpg"><br/><br/>Em comemoração à versão 2.3 ""Poeira e Neve Escura"", estamos realizando um evento de sorteio para a comunidade! Participe do evento, compartilhe seu desejo para ter chances de obter Gemas Essenciais como recompensas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18042">Evento de Sorteio Comemorativo da Versão 2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18042" rel="alternate"/>
+    <summary>Em comemoração à versão 2.3 ""Poeira e Neve Escura"", estamos realizando um evento de sorteio para a comunidade! Participe do evento, compartilhe seu desejo para ter chances de obter Gemas Essenciais como recompensas!</summary>
+    <published>2021-12-28T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18055</id>
+    <title>[Evento com Recompensas] Evento de Arte de Fãs "Guardião Yaksha" agora disponível!</title>
+    <updated>2021-12-28T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720292019116.png"><br/><br/>O evento de Coleção de Emojis do Xiao está disponível! Pegue a sua caneta e desenhe emojis para Xiao~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18055">[Evento com Recompensas] Evento de Arte de Fãs "Guardião Yaksha" agora disponível!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18055" rel="alternate"/>
+    <summary>O evento de Coleção de Emojis do Xiao está disponível! Pegue a sua caneta e desenhe emojis para Xiao~</summary>
+    <published>2021-12-28T12:00:00+00:00</published>
   </entry>
 </feed>

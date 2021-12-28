@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Dec 2021 03:11:32 +0000</lastBuildDate>
-    <item>
-      <title>「明霄の灯を貴方へ」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8728</link>
-      <description>Webイベント・「明霄の灯を貴方へ」：5種の霄灯を灯し、10億原石報酬を共に分け合おう！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210219/2021021911175273332.jpg"><br/><br/>Webイベント・「明霄の灯を貴方へ」：5種の霄灯を灯し、10億原石報酬を共に分け合おう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8728">「明霄の灯を貴方へ」イベント紹介</a>]]></content:encoded>
-      <guid isPermaLink="false">8728</guid>
-      <pubDate>Fri, 19 Feb 2021 13:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 04:14:24 +0000</lastBuildDate>
     <item>
       <title>「地脈の奔流」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8793</link>
@@ -730,6 +722,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214304228659.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17831">「エネルギー原盤・後序」イベント紹介</a>]]></description>
       <guid isPermaLink="false">17831</guid>
       <pubDate>Thu, 23 Dec 2021 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「護法夜叉」魈イラスト募集コンテスト</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18069</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810010811561.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18069">「護法夜叉」魈イラスト募集コンテスト</a>]]></description>
+      <guid isPermaLink="false">18069</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「原神」×中国四川省「⻩龍」コラボ写真公開！</title>
@@ -1635,13 +1634,6 @@
       <pubDate>Mon, 27 Dec 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「ボンボン魔球大合戦」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13769</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062911424331246.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13769">「ボンボン魔球大合戦」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">13769</guid>
-      <pubDate>Wed, 30 Jun 2021 16:58:00 +0900</pubDate>
-    </item>
-    <item>
       <title>楓原万葉エピソード動画の壁紙公開！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/13854</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210701/2021070119554049185.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13854">楓原万葉エピソード動画の壁紙公開！</a>]]></description>
@@ -2339,6 +2331,13 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17983">年末年始期間中のサポートメールについてのご連絡</a>]]></description>
       <guid isPermaLink="false">17983</guid>
       <pubDate>Mon, 27 Dec 2021 12:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「護法夜叉」魈イラスト募集コンテスト</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18069</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810010811561.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18069">「護法夜叉」魈イラスト募集コンテスト</a>]]></description>
+      <guid isPermaLink="false">18069</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

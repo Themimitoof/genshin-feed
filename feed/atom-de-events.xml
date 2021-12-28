@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - events</title>
-  <updated>2021-12-28T03:11:21.907716+00:00</updated>
+  <updated>2021-12-28T04:14:05.100897+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -126,5 +126,25 @@ Diese Aktion ist beendet und wir danken allen für ihre Teilnahme. Sehen wir uns
     <link href="https://genshin.mihoyo.com/de/news/detail/17566" rel="alternate"/>
     <summary>„Schnell, unser Boss hat Großes vor. Da müssen wir auch mit anpacken! Wir dürfen ihn nicht enttäuschen!“</summary>
     <published>2021-12-09T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18065</id>
+    <title>Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao startet jetzt!</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720230714127.png"><br/><br/>Hallo, liebe Reisende!
+Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm dir einen Stift und nimm teil!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18065">Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao startet jetzt!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18065" rel="alternate"/>
+    <summary>Hallo, liebe Reisende!
+Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm dir einen Stift und nimm teil!</summary>
+    <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18071</id>
+    <title>Verlosungsaktion zum Andenken von Version 2.3</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810403529989.jpg"><br/><br/>Hallo, Reisende! Version 2.3 „Schatten im Schneesturm“ wird am 4. Januar 2022 zu Ende sein. Wie fandet ihr die neuen Inhalte der Version?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18071">Verlosungsaktion zum Andenken von Version 2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18071" rel="alternate"/>
+    <summary>Hallo, Reisende! Version 2.3 „Schatten im Schneesturm“ wird am 4. Januar 2022 zu Ende sein. Wie fandet ihr die neuen Inhalte der Version?</summary>
+    <published>2021-12-28T12:00:00+01:00</published>
   </entry>
 </feed>

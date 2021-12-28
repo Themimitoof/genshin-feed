@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Dec 2021 03:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 04:13:44 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -179,6 +179,22 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910291463472.png"><br/><br/>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/17569">The "Let the Arataki Gang Show Begin!" Web Event Has Begun</a>]]></content:encoded>
       <guid isPermaLink="false">17569</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Version 2.3 Commemorative Lottery Event</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18052</link>
+      <description>To commemorate V2.3 "Shadows Amidst Snowstorms," we have specially prepared a lottery community event! Participate in the event and write down your well-wishes, and get the chance to win Primogems and attractive merchandise prizes!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719341854061.jpg"><br/><br/>To commemorate V2.3 "Shadows Amidst Snowstorms," we have specially prepared a lottery community event! Participate in the event and write down your well-wishes, and get the chance to win Primogems and attractive merchandise prizes!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18052">Version 2.3 Commemorative Lottery Event</a>]]></content:encoded>
+      <guid isPermaLink="false">18052</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Prize Giveaway: The "Vigilant Yaksha" Xiao Fan Art Contest Has Begun!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18056</link>
+      <description>Xiao's Fan Art Contest has begun! Get your drawing tools ready, and come participate~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720284849303.png"><br/><br/>Xiao's Fan Art Contest has begun! Get your drawing tools ready, and come participate~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18056">Prize Giveaway: The "Vigilant Yaksha" Xiao Fan Art Contest Has Begun!</a>]]></content:encoded>
+      <guid isPermaLink="false">18056</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

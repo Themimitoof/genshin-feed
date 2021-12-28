@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-28T03:11:15.771963+00:00</updated>
+  <updated>2021-12-28T04:13:53.529634+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -162,6 +162,23 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/17567" rel="alternate"/>
     <summary>« Vite, le patron va organiser un grand événement, allons lui donner un coup de main ! Ne le laissons pas tomber ! »</summary>
     <published>2021-12-09T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18067</id>
+    <title>Événement de loterie commémorative de la version 2.3</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720561280784.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18067">Événement de loterie commémorative de la version 2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18067" rel="alternate"/>
+    <summary/>
+    <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18068</id>
+    <title>[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122721233220593.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18068">[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18068" rel="alternate"/>
+    <published>2021-12-28T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>737</id>
@@ -1174,28 +1191,6 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <published>2021-12-28T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>15539</id>
-    <title>En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible</title>
-    <updated>2021-09-01T06:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible le 1er septembre 2021 à partir de 06 h 00 (UTC+8). Il rouvrira le 1er septembre 2021 vers 11 h 00 (UTC+8).<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15539">En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15539" rel="alternate"/>
-    <summary>En raison d'un problème technique, le centre de recharge officiel sera temporairement inaccessible le 1er septembre 2021 à partir de 06 h 00 (UTC+8). Il rouvrira le 1er septembre 2021 vers 11 h 00 (UTC+8).</summary>
-    <published>2021-09-01T06:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15529</id>
-    <title>Détails de la mise à jour de version 2.1 « Caresse sélénite sur les mortels » </title>
-    <updated>2021-09-01T07:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122124546986.jpg"><br/><br/>Chers voyageurs,
-
-Voici les détails de la mise à jour et de la compensation de la version 2.1 « Caresse sélénite sur les mortels ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15529">Détails de la mise à jour de version 2.1 « Caresse sélénite sur les mortels » </a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15529" rel="alternate"/>
-    <summary>Chers voyageurs,
-
-Voici les détails de la mise à jour et de la compensation de la version 2.1 « Caresse sélénite sur les mortels ».</summary>
-    <published>2021-09-01T07:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>15528</id>
     <title>Détails de l'événement « Hyakunin Ikki »</title>
     <updated>2021-09-01T11:00:00+02:00</updated>
@@ -2026,5 +2021,22 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720310022375.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18066">Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18066" rel="alternate"/>
     <published>2021-12-28T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18067</id>
+    <title>Événement de loterie commémorative de la version 2.3</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720561280784.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18067">Événement de loterie commémorative de la version 2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18067" rel="alternate"/>
+    <summary/>
+    <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18068</id>
+    <title>[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122721233220593.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18068">[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18068" rel="alternate"/>
+    <published>2021-12-28T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-28T03:11:26.051293+00:00</updated>
+  <updated>2021-12-28T04:14:12.683396+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15520</id>
-    <title>Serba-serbi Tentang Update v2.1</title>
-    <updated>2021-09-01T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119462139145.png"><br/><br/>Halo, Traveler! Dengar-dengar di v2.1 nanti ada pulau baru lagi yang bisa kita jelajahi! Paimon juga ingin bertualang ke sana, siapa tahu bisa dapat teman baru, hihi~ Selain itu, masih banyak konten lain yang bisa kita mainkan loh, kalian sudah siap belum? Yuk kita lihat sama-sama!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15520">Serba-serbi Tentang Update v2.1</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15520" rel="alternate"/>
-    <summary>Halo, Traveler! Dengar-dengar di v2.1 nanti ada pulau baru lagi yang bisa kita jelajahi! Paimon juga ingin bertualang ke sana, siapa tahu bisa dapat teman baru, hihi~ Selain itu, masih banyak konten lain yang bisa kita mainkan loh, kalian sudah siap belum? Yuk kita lihat sama-sama!</summary>
-    <published>2021-09-01T11:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15569</id>
-    <title>Event Web "Teman Seperjalanan" Dimulai! Bertualanglah Bersama Mereka yang Kembali dan Baru Datang untuk Memenangkan Hadiah!</title>
-    <updated>2021-09-01T11:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111011397774.jpg"><br/><br/>Para petualang dapat menyelesaikan misi bersama dengan petualang yang kembali dan petualang yang baru untuk mendapatkan hadiah keren.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15569">Event Web "Teman Seperjalanan" Dimulai! Bertualanglah Bersama Mereka yang Kembali dan Baru Datang untuk Memenangkan Hadiah!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15569" rel="alternate"/>
-    <summary>Para petualang dapat menyelesaikan misi bersama dengan petualang yang kembali dan petualang yang baru untuk mendapatkan hadiah keren.</summary>
-    <published>2021-09-01T11:10:00+07:00</published>
-  </entry>
   <entry>
     <id>15552</id>
     <title>Aneka Koleksi Genshin Impact — "Raiden Shogun: Guntur yang Tenang"</title>
@@ -926,5 +908,23 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/18045" rel="alternate"/>
     <summary>Di v2.4, wilayah Enkanomiya yang berada di bawah Pulau Watatsumi, Inazuma akan terbuka.</summary>
     <published>2021-12-28T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18061</id>
+    <title>Event Lotre Kenang-kenangan v2.3</title>
+    <updated>2021-12-28T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720043473516.jpg"><br/><br/>Halo Traveler! Versi 2.3 "Debu dan Bayang-Bayang Salju" akan segera berakhir pada tanggal 4 Januari 2022, bagaimana pengalaman kalian memainkan konten versi barunya?<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18061">Event Lotre Kenang-kenangan v2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18061" rel="alternate"/>
+    <summary>Halo Traveler! Versi 2.3 "Debu dan Bayang-Bayang Salju" akan segera berakhir pada tanggal 4 Januari 2022, bagaimana pengalaman kalian memainkan konten versi barunya?</summary>
+    <published>2021-12-28T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18064</id>
+    <title>[Event Berhadiah] Kontes Gambar Fan Art "Vigilant Yaksha" Xiao Dimulai!</title>
+    <updated>2021-12-28T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720261839093.png"><br/><br/>Kontes Gambar Fan Art Xiao sudah dimulai! Siapkan alat gambarmu dan ikuti eventnya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18064">[Event Berhadiah] Kontes Gambar Fan Art "Vigilant Yaksha" Xiao Dimulai!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18064" rel="alternate"/>
+    <summary>Kontes Gambar Fan Art Xiao sudah dimulai! Siapkan alat gambarmu dan ikuti eventnya~</summary>
+    <published>2021-12-28T12:00:00+07:00</published>
   </entry>
 </feed>

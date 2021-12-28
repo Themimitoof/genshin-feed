@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-12-28T03:11:12.533790+00:00</updated>
+  <updated>2021-12-28T04:13:45.556167+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -201,6 +201,24 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/17569" rel="alternate"/>
     <summary>"Quickly now, the Boss has a big plan coming up recently. We have to help him and not get in his way!"</summary>
     <published>2021-12-09T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18052</id>
+    <title>Version 2.3 Commemorative Lottery Event</title>
+    <updated>2021-12-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719341854061.jpg"><br/><br/>To commemorate V2.3 "Shadows Amidst Snowstorms," we have specially prepared a lottery community event! Participate in the event and write down your well-wishes, and get the chance to win Primogems and attractive merchandise prizes!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18052">Version 2.3 Commemorative Lottery Event</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18052" rel="alternate"/>
+    <summary>To commemorate V2.3 "Shadows Amidst Snowstorms," we have specially prepared a lottery community event! Participate in the event and write down your well-wishes, and get the chance to win Primogems and attractive merchandise prizes!</summary>
+    <published>2021-12-28T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18056</id>
+    <title>Prize Giveaway: The "Vigilant Yaksha" Xiao Fan Art Contest Has Begun!</title>
+    <updated>2021-12-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720284849303.png"><br/><br/>Xiao's Fan Art Contest has begun! Get your drawing tools ready, and come participate~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18056">Prize Giveaway: The "Vigilant Yaksha" Xiao Fan Art Contest Has Begun!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18056" rel="alternate"/>
+    <summary>Xiao's Fan Art Contest has begun! Get your drawing tools ready, and come participate~</summary>
+    <published>2021-12-28T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -1358,28 +1376,6 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
     <published>2021-12-28T10:30:00-05:00</published>
   </entry>
   <entry>
-    <id>15656</id>
-    <title>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</title>
-    <updated>2021-09-02T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216284771801.jpg"><br/><br/>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15656">The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15656" rel="alternate"/>
-    <summary>The Genshin Impact Version Streamer Recruitment Event on Twitch has started. Live stream your content, complete missions, and earn Primogems!</summary>
-    <published>2021-09-02T18:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>15704</id>
-    <title>Story Teaser: Promise of a People's Dream | Genshin Impact</title>
-    <updated>2021-09-06T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611264445845.jpg"><br/><br/>A nation that surges ahead has become stuck in a fleeting shadow of a moment. Perhaps only if time stands still will Inazuma truly shine eternal...
-Using her blade, she purged all obstacles to Inazuma's progress, making a promise of a beautiful vision of eternity to her subjects.
-Such is the singular will of the Raiden Shogun over the land of Narukami.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15704">Story Teaser: Promise of a People's Dream | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15704" rel="alternate"/>
-    <summary>A nation that surges ahead has become stuck in a fleeting shadow of a moment. Perhaps only if time stands still will Inazuma truly shine eternal...
-Using her blade, she purged all obstacles to Inazuma's progress, making a promise of a beautiful vision of eternity to her subjects.
-Such is the singular will of the Raiden Shogun over the land of Narukami.</summary>
-    <published>2021-09-06T18:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>15731</id>
     <title>Engraved Wishes</title>
     <updated>2021-09-07T12:00:00-04:00</updated>
@@ -2329,5 +2325,23 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
     <link href="https://genshin.mihoyo.com/en/news/detail/18038" rel="alternate"/>
     <summary>In Version 2.4, Enkanomiya on Watatsumi Island, Inazuma will become available. This mysterious area under Sangonomiya must have piqued the curiosity of Travelers who've visited Watatsumi Island. Let's check out the various new gameplay mechanics Enkanomiya has to offer~</summary>
     <published>2021-12-28T10:30:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18052</id>
+    <title>Version 2.3 Commemorative Lottery Event</title>
+    <updated>2021-12-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719341854061.jpg"><br/><br/>To commemorate V2.3 "Shadows Amidst Snowstorms," we have specially prepared a lottery community event! Participate in the event and write down your well-wishes, and get the chance to win Primogems and attractive merchandise prizes!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18052">Version 2.3 Commemorative Lottery Event</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18052" rel="alternate"/>
+    <summary>To commemorate V2.3 "Shadows Amidst Snowstorms," we have specially prepared a lottery community event! Participate in the event and write down your well-wishes, and get the chance to win Primogems and attractive merchandise prizes!</summary>
+    <published>2021-12-28T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18056</id>
+    <title>Prize Giveaway: The "Vigilant Yaksha" Xiao Fan Art Contest Has Begun!</title>
+    <updated>2021-12-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720284849303.png"><br/><br/>Xiao's Fan Art Contest has begun! Get your drawing tools ready, and come participate~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18056">Prize Giveaway: The "Vigilant Yaksha" Xiao Fan Art Contest Has Begun!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18056" rel="alternate"/>
+    <summary>Xiao's Fan Art Contest has begun! Get your drawing tools ready, and come participate~</summary>
+    <published>2021-12-28T12:00:00-05:00</published>
   </entry>
 </feed>

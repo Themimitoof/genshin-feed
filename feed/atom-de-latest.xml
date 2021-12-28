@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-12-28T03:11:19.251054+00:00</updated>
+  <updated>2021-12-28T04:13:59.837348+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15440</id>
-    <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Stangenwaffe – Grasschnittstrahl“ und „Zweihänder – Grobes Schwert“!</title>
-    <updated>2021-08-30T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010332381471.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15440">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Stangenwaffe – Grasschnittstrahl“ und „Zweihänder – Grobes Schwert“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15440" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du beim Aktionsgebet „Göttliches Werk“ viele Waffen und Figuren erhalten, um deine Truppe noch stärker zu machen!</summary>
-    <published>2021-08-30T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15347</id>
-    <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.1 – Teil 1</title>
-    <updated>2021-08-30T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082720392760439.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15347">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.1 – Teil 1</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15347" rel="alternate"/>
-    <published>2021-08-30T12:10:00+02:00</published>
-  </entry>
   <entry>
     <id>15483</id>
     <title>Figurenvorführung bei Genshin Impact – Shougun Raiden: Schuldspruch der Utopie</title>
@@ -957,5 +940,25 @@ Ningguangs neue Kleidung, das „Orchideen-Abendkleid“, wird nach der Aktualis
     <link href="https://genshin.mihoyo.com/de/news/detail/18059" rel="alternate"/>
     <summary>Bei Version 2.4 wird das neue Gebiet Enkanomiya auf Watatsumi in Inazuma freigeschaltet werden. Wer Watatsumi schon erkundet hat, wird mit Sicherheit von Enkanomiya unter Sangonomiya gehört haben und sehr neugierig auf die Geheimnisse darin sein. In Enkanomiya gibt es viele neue Spielweisen mit Vorrichtungen, die wir uns einmal anschauen sollten!</summary>
     <published>2021-12-28T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18065</id>
+    <title>Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao startet jetzt!</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720230714127.png"><br/><br/>Hallo, liebe Reisende!
+Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm dir einen Stift und nimm teil!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18065">Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao startet jetzt!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18065" rel="alternate"/>
+    <summary>Hallo, liebe Reisende!
+Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm dir einen Stift und nimm teil!</summary>
+    <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18071</id>
+    <title>Verlosungsaktion zum Andenken von Version 2.3</title>
+    <updated>2021-12-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810403529989.jpg"><br/><br/>Hallo, Reisende! Version 2.3 „Schatten im Schneesturm“ wird am 4. Januar 2022 zu Ende sein. Wie fandet ihr die neuen Inhalte der Version?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18071">Verlosungsaktion zum Andenken von Version 2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18071" rel="alternate"/>
+    <summary>Hallo, Reisende! Version 2.3 „Schatten im Schneesturm“ wird am 4. Januar 2022 zu Ende sein. Wie fandet ihr die neuen Inhalte der Version?</summary>
+    <published>2021-12-28T12:00:00+01:00</published>
   </entry>
 </feed>

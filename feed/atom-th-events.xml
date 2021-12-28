@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - events</title>
-  <updated>2021-12-28T03:11:47.136854+00:00</updated>
+  <updated>2021-12-28T04:14:48.680371+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -177,5 +177,23 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120911243280983.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/17574">กิจกรรม "เปิดตัว! โรงละครแก๊ง Arataki!" บนเว็บไซต์เริ่มต้นขึ้นแล้ว</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/17574" rel="alternate"/>
     <published>2021-12-09T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18047</id>
+    <title>กิจกรรมเซียมซีที่ระลึกเวอร์ชัน 2.3</title>
+    <updated>2021-12-28T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719300198994.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18047">กิจกรรมเซียมซีที่ระลึกเวอร์ชัน 2.3</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18047" rel="alternate"/>
+    <summary/>
+    <published>2021-12-28T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18057</id>
+    <title>[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์" กำลังจะเริ่มขึ้นแล้ว!</title>
+    <updated>2021-12-28T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720273332305.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18057">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์" กำลังจะเริ่มขึ้นแล้ว!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18057" rel="alternate"/>
+    <summary/>
+    <published>2021-12-28T12:00:00+07:00</published>
   </entry>
 </feed>

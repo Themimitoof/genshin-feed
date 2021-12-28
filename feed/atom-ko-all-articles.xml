@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-28T03:11:35.957711+00:00</updated>
+  <updated>2021-12-28T04:14:30.955649+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -190,6 +190,24 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/17576" rel="alternate"/>
     <summary>이벤트 기간에 지정된 임무를 완료하여 아라타키 이토를 도와 극장 준비를 마치면 게임 내 아이템 보상을 받을 수 있습니다</summary>
     <published>2021-12-09T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18073</id>
+    <title>[보상 이벤트] 「호법야차」 소 팬아트 공모전 오픈!</title>
+    <updated>2021-12-28T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122811212578939.png"><br/><br/>소 팬아트 공모전 오픈! 여러분의 손으로 팬아트를 그려보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18073">[보상 이벤트] 「호법야차」 소 팬아트 공모전 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18073" rel="alternate"/>
+    <summary>소 팬아트 공모전 오픈! 여러분의 손으로 팬아트를 그려보세요</summary>
+    <published>2021-12-28T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18074</id>
+    <title>2.3 버전 기념 제비뽑기 이벤트</title>
+    <updated>2021-12-28T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122811442821872.jpg"><br/><br/>2.3 버전 「눈보라 속 그림자」을 기념하고자 축복 제비뽑기 커뮤니티 이벤트를 준비했어! 이벤트에 참여해서 여행자의 축복을 보내주면 원석 보상을 획득할 수도 있다구!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18074">2.3 버전 기념 제비뽑기 이벤트</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18074" rel="alternate"/>
+    <summary>2.3 버전 「눈보라 속 그림자」을 기념하고자 축복 제비뽑기 커뮤니티 이벤트를 준비했어! 이벤트에 참여해서 여행자의 축복을 보내주면 원석 보상을 획득할 수도 있다구!</summary>
+    <published>2021-12-28T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>693</id>
@@ -1320,26 +1338,6 @@
     <published>2021-12-28T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>15561</id>
-    <title>「동행」 웹이벤트 오픈! 복귀 모험가, 신인 모험가와 동행하고 선물을 받아 가세요!</title>
-    <updated>2021-09-01T11:10:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110373152566.jpg"><br/><br/>모험가 길드에서 기간 한정 특수 의뢰를 게시했습니다
-모험가들은 복귀 모험가나 신인 모험가들과 동행하고 의뢰를 해결하여 더 많은 선물을 받을 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15561">「동행」 웹이벤트 오픈! 복귀 모험가, 신인 모험가와 동행하고 선물을 받아 가세요!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15561" rel="alternate"/>
-    <summary>모험가 길드에서 기간 한정 특수 의뢰를 게시했습니다
-모험가들은 복귀 모험가나 신인 모험가들과 동행하고 의뢰를 해결하여 더 많은 선물을 받을 수 있습니다</summary>
-    <published>2021-09-01T11:10:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15530</id>
-    <title>2.1 버전 업데이트 Tips</title>
-    <updated>2021-09-01T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111132072814.png"><br/><br/>﻿페이몬이 이번 업데이트에 대한 개발진의 추가 안내를 얘기해 줄게<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15530">2.1 버전 업데이트 Tips</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15530" rel="alternate"/>
-    <summary>﻿페이몬이 이번 업데이트에 대한 개발진의 추가 안내를 얘기해 줄게</summary>
-    <published>2021-09-01T12:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>15532</id>
     <title>&lt;원신&gt; 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</title>
     <updated>2021-09-01T12:01:00+09:00</updated>
@@ -2243,5 +2241,23 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18051" rel="alternate"/>
     <summary>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다</summary>
     <published>2021-12-28T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18073</id>
+    <title>[보상 이벤트] 「호법야차」 소 팬아트 공모전 오픈!</title>
+    <updated>2021-12-28T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122811212578939.png"><br/><br/>소 팬아트 공모전 오픈! 여러분의 손으로 팬아트를 그려보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18073">[보상 이벤트] 「호법야차」 소 팬아트 공모전 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18073" rel="alternate"/>
+    <summary>소 팬아트 공모전 오픈! 여러분의 손으로 팬아트를 그려보세요</summary>
+    <published>2021-12-28T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18074</id>
+    <title>2.3 버전 기념 제비뽑기 이벤트</title>
+    <updated>2021-12-28T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122811442821872.jpg"><br/><br/>2.3 버전 「눈보라 속 그림자」을 기념하고자 축복 제비뽑기 커뮤니티 이벤트를 준비했어! 이벤트에 참여해서 여행자의 축복을 보내주면 원석 보상을 획득할 수도 있다구!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18074">2.3 버전 기념 제비뽑기 이벤트</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18074" rel="alternate"/>
+    <summary>2.3 버전 「눈보라 속 그림자」을 기념하고자 축복 제비뽑기 커뮤니티 이벤트를 준비했어! 이벤트에 참여해서 여행자의 축복을 보내주면 원석 보상을 획득할 수도 있다구!</summary>
+    <published>2021-12-28T12:00:00+09:00</published>
   </entry>
 </feed>

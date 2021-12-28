@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-12-28T03:11:32.516244+00:00</updated>
+  <updated>2021-12-28T04:14:24.652717+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>8728</id>
-    <title>「明霄の灯を貴方へ」イベント紹介</title>
-    <updated>2021-02-19T13:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210219/2021021911175273332.jpg"><br/><br/>Webイベント・「明霄の灯を貴方へ」：5種の霄灯を灯し、10億原石報酬を共に分け合おう！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8728">「明霄の灯を貴方へ」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/8728" rel="alternate"/>
-    <summary>Webイベント・「明霄の灯を貴方へ」：5種の霄灯を灯し、10億原石報酬を共に分け合おう！</summary>
-    <published>2021-02-19T13:00:00+09:00</published>
-  </entry>
   <entry>
     <id>8793</id>
     <title>「地脈の奔流」イベント予告</title>
@@ -885,6 +876,15 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211222/2021122214304228659.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17831">「エネルギー原盤・後序」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/17831" rel="alternate"/>
     <published>2021-12-23T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18069</id>
+    <title>「護法夜叉」魈イラスト募集コンテスト</title>
+    <updated>2021-12-28T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810010811561.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18069">「護法夜叉」魈イラスト募集コンテスト</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18069" rel="alternate"/>
+    <summary/>
+    <published>2021-12-28T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>6112</id>
@@ -2006,15 +2006,6 @@
     <published>2021-12-27T12:00:00+09:00</published>
   </entry>
   <entry>
-    <id>13769</id>
-    <title>「ボンボン魔球大合戦」イベント紹介</title>
-    <updated>2021-06-30T16:58:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210629/2021062911424331246.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13769">「ボンボン魔球大合戦」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13769" rel="alternate"/>
-    <summary/>
-    <published>2021-06-30T16:58:00+09:00</published>
-  </entry>
-  <entry>
     <id>13854</id>
     <title>楓原万葉エピソード動画の壁紙公開！</title>
     <updated>2021-07-02T11:59:00+09:00</updated>
@@ -2880,5 +2871,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/17983" rel="alternate"/>
     <summary/>
     <published>2021-12-27T12:15:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18069</id>
+    <title>「護法夜叉」魈イラスト募集コンテスト</title>
+    <updated>2021-12-28T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810010811561.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18069">「護法夜叉」魈イラスト募集コンテスト</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18069" rel="alternate"/>
+    <summary/>
+    <published>2021-12-28T12:00:00+09:00</published>
   </entry>
 </feed>

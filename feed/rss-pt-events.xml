@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 28 Dec 2021 03:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 04:14:36 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -203,6 +203,22 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211223/2021122316070591240.jpg"><br/><br/>Que decoração você desenharia na árvore?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/17858">“Enfeites para uma Árvore” — Evento da comunidade de língua portuguesa</a>]]></content:encoded>
       <guid isPermaLink="false">17858</guid>
       <pubDate>Fri, 24 Dec 2021 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evento de Sorteio Comemorativo da Versão 2.3</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18042</link>
+      <description>Em comemoração à versão 2.3 ""Poeira e Neve Escura"", estamos realizando um evento de sorteio para a comunidade! Participe do evento, compartilhe seu desejo para ter chances de obter Gemas Essenciais como recompensas!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719232624009.jpg"><br/><br/>Em comemoração à versão 2.3 ""Poeira e Neve Escura"", estamos realizando um evento de sorteio para a comunidade! Participe do evento, compartilhe seu desejo para ter chances de obter Gemas Essenciais como recompensas!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18042">Evento de Sorteio Comemorativo da Versão 2.3</a>]]></content:encoded>
+      <guid isPermaLink="false">18042</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Evento com Recompensas] Evento de Arte de Fãs "Guardião Yaksha" agora disponível!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18055</link>
+      <description>O evento de Coleção de Emojis do Xiao está disponível! Pegue a sua caneta e desenhe emojis para Xiao~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720292019116.png"><br/><br/>O evento de Coleção de Emojis do Xiao está disponível! Pegue a sua caneta e desenhe emojis para Xiao~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18055">[Evento com Recompensas] Evento de Arte de Fãs "Guardião Yaksha" agora disponível!</a>]]></content:encoded>
+      <guid isPermaLink="false">18055</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

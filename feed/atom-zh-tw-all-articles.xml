@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-12-28T03:11:19.206937+00:00</updated>
+  <updated>2021-12-28T04:13:59.782512+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -125,6 +125,24 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/17573" rel="alternate"/>
     <summary>「快快，老大最近要辦一件大事，我們也得去幫忙，可不能扯老大後腿！」</summary>
     <published>2021-12-09T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18062</id>
+    <title>2.3版本紀念抽籤活動</title>
+    <updated>2021-12-28T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720090011959.jpg"><br/><br/>旅行者們好呀，2.3版本「皚塵與雪影」到2022年1月4日就要結束啦，版本的新內容體驗得如何？<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18062">2.3版本紀念抽籤活動</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18062" rel="alternate"/>
+    <summary>旅行者們好呀，2.3版本「皚塵與雪影」到2022年1月4日就要結束啦，版本的新內容體驗得如何？</summary>
+    <published>2021-12-28T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18063</id>
+    <title>【有獎活動】「護法夜叉」魈同人繪畫徵集活動開啟！</title>
+    <updated>2021-12-28T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720262380106.png"><br/><br/>魈同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18063">【有獎活動】「護法夜叉」魈同人繪畫徵集活動開啟！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18063" rel="alternate"/>
+    <summary>魈同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~</summary>
+    <published>2021-12-28T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>3463</id>
@@ -1194,24 +1212,6 @@
     <published>2021-12-28T10:30:00+08:00</published>
   </entry>
   <entry>
-    <id>15351</id>
-    <title>派蒙帶你一圖流看活動——2.1版本活動快報第一期</title>
-    <updated>2021-08-30T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721051480534.jpg"><br/><br/>2.1版本即將來臨，旅行者們準備好迎接全新的精彩活動了嗎？<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15351">派蒙帶你一圖流看活動——2.1版本活動快報第一期</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15351" rel="alternate"/>
-    <summary>2.1版本即將來臨，旅行者們準備好迎接全新的精彩活動了嗎？</summary>
-    <published>2021-08-30T12:10:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15474</id>
-    <title>角色展示-「雷電將軍：淨土裁斷」｜原神</title>
-    <updated>2021-08-31T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110344274125.jpg"><br/><br/>「昔日多情的櫻花，如今已作墨色。待到雷聲沉鬱的寂然之刻，方曉渺渺泡影之夢將覺。」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15474">角色展示-「雷電將軍：淨土裁斷」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15474" rel="alternate"/>
-    <summary>「昔日多情的櫻花，如今已作墨色。待到雷聲沉鬱的寂然之刻，方曉渺渺泡影之夢將覺。」</summary>
-    <published>2021-08-31T12:00:00+08:00</published>
-  </entry>
-  <entry>
     <id>15535</id>
     <title>我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心</title>
     <updated>2021-09-01T06:00:00+08:00</updated>
@@ -2098,5 +2098,23 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18060" rel="alternate"/>
     <summary>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。</summary>
     <published>2021-12-28T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18062</id>
+    <title>2.3版本紀念抽籤活動</title>
+    <updated>2021-12-28T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720090011959.jpg"><br/><br/>旅行者們好呀，2.3版本「皚塵與雪影」到2022年1月4日就要結束啦，版本的新內容體驗得如何？<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18062">2.3版本紀念抽籤活動</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18062" rel="alternate"/>
+    <summary>旅行者們好呀，2.3版本「皚塵與雪影」到2022年1月4日就要結束啦，版本的新內容體驗得如何？</summary>
+    <published>2021-12-28T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18063</id>
+    <title>【有獎活動】「護法夜叉」魈同人繪畫徵集活動開啟！</title>
+    <updated>2021-12-28T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720262380106.png"><br/><br/>魈同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18063">【有獎活動】「護法夜叉」魈同人繪畫徵集活動開啟！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18063" rel="alternate"/>
+    <summary>魈同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~</summary>
+    <published>2021-12-28T12:00:00+08:00</published>
   </entry>
 </feed>

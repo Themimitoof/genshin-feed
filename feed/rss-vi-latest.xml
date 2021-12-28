@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 28 Dec 2021 03:11:48 +0000</lastBuildDate>
-    <item>
-      <title>Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.1 - Kỳ I</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15373</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817221953024.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15373">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.1 - Kỳ I</a>]]></description>
-      <guid isPermaLink="false">15373</guid>
-      <pubDate>Mon, 30 Aug 2021 12:10:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Giới thiệu nhân vật trong Genshin Impact - Raiden Shogun: Tịnh Thổ Phán Xét</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15481</link>
-      <description>Cảnh báo: Video này có thể gây ra phản ứng khó chịu cho người mắc bệnh động kinh và nhạy cảm với ánh sáng, kiến nghị khán giả thận trọng khi xem.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110375758598.jpg"><br/><br/>Cảnh báo: Video này có thể gây ra phản ứng khó chịu cho người mắc bệnh động kinh và nhạy cảm với ánh sáng, kiến nghị khán giả thận trọng khi xem.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15481">Giới thiệu nhân vật trong Genshin Impact - Raiden Shogun: Tịnh Thổ Phán Xét</a>]]></content:encoded>
-      <guid isPermaLink="false">15481</guid>
-      <pubDate>Tue, 31 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 28 Dec 2021 04:14:50 +0000</lastBuildDate>
     <item>
       <title>Do vấn đề kỹ thuật, chúng tôi sẽ đóng Trung Tâm Nạp của trang chủ Genshin Impact</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/15544</link>
@@ -716,6 +701,20 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719242646996.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18043">[Sổ Tay Inazuma] Chương Enkanomiya Kỳ 001 - Cơ Quan Mới	</a>]]></description>
       <guid isPermaLink="false">18043</guid>
       <pubDate>Tue, 28 Dec 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự Kiện Rút Thẻ Kỷ Niệm Phiên Bản 2.3</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18049</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719314755662.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18049">Sự Kiện Rút Thẻ Kỷ Niệm Phiên Bản 2.3</a>]]></description>
+      <guid isPermaLink="false">18049</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Sự Kiện Có Thưởng] Sự Kiện Thu Thập Fan Art "Hộ Pháp Dạ Xoa - Xiao" Đã Mở!</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18058</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720265575981.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18058">[Sự Kiện Có Thưởng] Sự Kiện Thu Thập Fan Art "Hộ Pháp Dạ Xoa - Xiao" Đã Mở!</a>]]></description>
+      <guid isPermaLink="false">18058</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

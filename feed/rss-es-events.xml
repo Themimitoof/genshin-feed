@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 28 Dec 2021 03:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 04:14:11 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -163,6 +163,22 @@ El evento ha terminado, gracias a todos los que participaron. Veamos quiénes so
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211209/2021120910304124058.png"><br/><br/>"Deprisa, el jefe está organizando un gran evento, tenemos que ayudarle. ¡No podemos defraudarle!"<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/17570">¡Evento web «¡Que empiece la actuación de la Banda de Arataki!» ya disponible!</a>]]></content:encoded>
       <guid isPermaLink="false">17570</guid>
       <pubDate>Thu, 09 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lotería conmemorativa de la versión 2.3</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18035</link>
+      <description>¡Hola, viajeros! La versión 2.3 «Sombras de nieve y polvo» acabará el 4 de enero de 2022. ¿Qué les ha parecido?</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719070857092.jpg"><br/><br/>¡Hola, viajeros! La versión 2.3 «Sombras de nieve y polvo» acabará el 4 de enero de 2022. ¿Qué les ha parecido?<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18035">Lotería conmemorativa de la versión 2.3</a>]]></content:encoded>
+      <guid isPermaLink="false">18035</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡El concurso de obras de arte de fans de Xiao, "el Guardián Yaksha", ha comenzado!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18053</link>
+      <description>¡Hola, viajeros!¡Ya ha comenzado el concurso de obras de arte de los fans de Xiao! Prepara tu pincel y ven a participar~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720302527725.png"><br/><br/>¡Hola, viajeros!¡Ya ha comenzado el concurso de obras de arte de los fans de Xiao! Prepara tu pincel y ven a participar~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18053">¡El concurso de obras de arte de fans de Xiao, "el Guardián Yaksha", ha comenzado!</a>]]></content:encoded>
+      <guid isPermaLink="false">18053</guid>
+      <pubDate>Tue, 28 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
