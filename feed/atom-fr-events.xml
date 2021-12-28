@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - events</title>
-  <updated>2021-12-28T05:11:46.182708+00:00</updated>
+  <updated>2021-12-28T06:13:16.702675+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -176,8 +176,9 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <id>18068</id>
     <title>[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</title>
     <updated>2021-12-28T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122721233220593.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18068">[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122721233220593.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18068">[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18068" rel="alternate"/>
+    <summary/>
     <published>2021-12-28T12:00:00+01:00</published>
   </entry>
 </feed>
