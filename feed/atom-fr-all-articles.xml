@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-29T08:12:56.490648+00:00</updated>
+  <updated>2021-12-29T09:11:16.783095+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -180,6 +180,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/18068" rel="alternate"/>
     <summary/>
     <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18128</id>
+    <title>Lumières et neige éternelle</title>
+    <updated>2021-12-29T09:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916130414015.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18128">Lumières et neige éternelle</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18128" rel="alternate"/>
+    <published>2021-12-29T09:30:00+01:00</published>
   </entry>
   <entry>
     <id>737</id>
@@ -1193,15 +1201,6 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <published>2021-12-29T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>15531</id>
-    <title>Précisions sur certains éléments de la mise à jour de version 2.1</title>
-    <updated>2021-09-01T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122322987630.png"><br/><br/>Bonjour, chers voyageurs ! De nouvelles îles attendent d'être explorées dans la version 2.1 ! <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15531">Précisions sur certains éléments de la mise à jour de version 2.1</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15531" rel="alternate"/>
-    <summary>Bonjour, chers voyageurs ! De nouvelles îles attendent d'être explorées dans la version 2.1 ! </summary>
-    <published>2021-09-01T11:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>15577</id>
     <title>Genshin Impact - Shogun Raiden : Tonnerre et silence</title>
     <updated>2021-09-01T12:00:00+02:00</updated>
@@ -2032,6 +2031,14 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <link href="https://genshin.mihoyo.com/fr/news/detail/18068" rel="alternate"/>
     <summary/>
     <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18128</id>
+    <title>Lumières et neige éternelle</title>
+    <updated>2021-12-29T09:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916130414015.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18128">Lumières et neige éternelle</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18128" rel="alternate"/>
+    <published>2021-12-29T09:30:00+01:00</published>
   </entry>
   <entry>
     <id>18080</id>
