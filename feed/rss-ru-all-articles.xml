@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Dec 2021 10:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 11:09:53 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -197,6 +197,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913293064929.jpg"><br/><br/>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18105">Звёздный путь среди снегов</a>]]></content:encoded>
       <guid isPermaLink="false">18105</guid>
       <pubDate>Wed, 29 Dec 2021 14:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Расскажите о событии, пусть Альпы засияют!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18109</link>
+      <description>Расскажите о событии, пусть Альпы засияют!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914522448391.jpg"><br/><br/>Расскажите о событии, пусть Альпы засияют!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18109">Расскажите о событии, пусть Альпы засияют!</a>]]></content:encoded>
+      <guid isPermaLink="false">18109</guid>
+      <pubDate>Wed, 29 Dec 2021 19:00:00 +0300</pubDate>
     </item>
     <item>
       <title>"Genshin Impact" Исследуйте континент Тейват вместе с Эмбер!</title>
@@ -1154,14 +1162,6 @@
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Тизер «Обещанная мечта» | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15683</link>
-      <description>Страна, мчавшаяся вперёд, превратилась в мимолётную тень. Может, если остановить мгновение, её сияние продлится вечно...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610451410166.jpg"><br/><br/>Страна, мчавшаяся вперёд, превратилась в мимолётную тень. Может, если остановить мгновение, её сияние продлится вечно...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15683">Тизер «Обещанная мечта» | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15683</guid>
-      <pubDate>Mon, 06 Sep 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
       <title>Высеченные пожелания</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15737</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711524442206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15737">Высеченные пожелания</a>]]></description>
@@ -1972,6 +1972,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913293064929.jpg"><br/><br/>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18105">Звёздный путь среди снегов</a>]]></content:encoded>
       <guid isPermaLink="false">18105</guid>
       <pubDate>Wed, 29 Dec 2021 14:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Расскажите о событии, пусть Альпы засияют!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18109</link>
+      <description>Расскажите о событии, пусть Альпы засияют!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914522448391.jpg"><br/><br/>Расскажите о событии, пусть Альпы засияют!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18109">Расскажите о событии, пусть Альпы засияют!</a>]]></content:encoded>
+      <guid isPermaLink="false">18109</guid>
+      <pubDate>Wed, 29 Dec 2021 19:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

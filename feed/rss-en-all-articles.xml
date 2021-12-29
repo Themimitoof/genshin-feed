@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 10:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 11:09:12 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -203,6 +203,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912510292801.jpg"><br/><br/>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18103">Enchanting Journey of Snow and Stars</a>]]></content:encoded>
       <guid isPermaLink="false">18103</guid>
       <pubDate>Wed, 29 Dec 2021 14:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Participate in sharing the event to help light up the Alps</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18111</link>
+      <description>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915263182024.jpg"><br/><br/>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18111">Participate in sharing the event to help light up the Alps</a>]]></content:encoded>
+      <guid isPermaLink="false">18111</guid>
+      <pubDate>Wed, 29 Dec 2021 19:00:00 -0500</pubDate>
     </item>
     <item>
       <title>Manga Update: Chapter 9 Part 1 is Going to Update!</title>
@@ -1236,14 +1244,6 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
       <pubDate>Wed, 29 Dec 2021 10:30:00 -0500</pubDate>
     </item>
     <item>
-      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15785</link>
-      <description>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017340139230.png"><br/><br/>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15785">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</a>]]></content:encoded>
-      <guid isPermaLink="false">15785</guid>
-      <pubDate>Fri, 10 Sep 2021 18:00:00 -0400</pubDate>
-    </item>
-    <item>
       <title>"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15814</link>
       <description>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.</description>
@@ -2101,6 +2101,14 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912510292801.jpg"><br/><br/>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18103">Enchanting Journey of Snow and Stars</a>]]></content:encoded>
       <guid isPermaLink="false">18103</guid>
       <pubDate>Wed, 29 Dec 2021 14:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Participate in sharing the event to help light up the Alps</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18111</link>
+      <description>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915263182024.jpg"><br/><br/>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18111">Participate in sharing the event to help light up the Alps</a>]]></content:encoded>
+      <guid isPermaLink="false">18111</guid>
+      <pubDate>Wed, 29 Dec 2021 19:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-29T10:11:45.970674+00:00</updated>
+  <updated>2021-12-29T11:09:44.741397+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -217,6 +217,15 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18102" rel="alternate"/>
     <summary>웹이벤트 오픈! 설산을 밝히는 이벤트에 참여하고 원석을 획득하세요</summary>
     <published>2021-12-29T14:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18150</id>
+    <title>공유 이벤트에 참여해 알프스 밝히기</title>
+    <updated>2021-12-29T19:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918020823653.jpg"><br/><br/>공유 이벤트에 참여해 알프스산맥을 밝히고 iPhone, iPad 및 캐릭터 굿즈 패키지를 획득하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18150">공유 이벤트에 참여해 알프스 밝히기</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18150" rel="alternate"/>
+    <summary>공유 이벤트에 참여해 알프스산맥을 밝히고 iPhone, iPad 및 캐릭터 굿즈 패키지를 획득하세요!</summary>
+    <published>2021-12-29T19:00:00+09:00</published>
   </entry>
   <entry>
     <id>693</id>
@@ -1343,15 +1352,6 @@
     <published>2021-12-29T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>15657</id>
-    <title>Twitch &lt;원신&gt; 스트리머 모집 이벤트가 오픈했습니다. 라이브에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</title>
-    <updated>2021-09-02T18:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216510081068.jpg"><br/><br/>Twitch <원신> 스트리머 모집 이벤트가 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15657">Twitch <원신> 스트리머 모집 이벤트가 오픈했습니다. 라이브에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15657" rel="alternate"/>
-    <summary>Twitch &lt;원신&gt; 스트리머 모집 이벤트가 오픈했습니다</summary>
-    <published>2021-09-02T18:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>15649</id>
     <title>&lt;원신&gt; 데인 여담 - 「쿠죠 사라: 깃의 섬광」</title>
     <updated>2021-09-02T18:01:00+09:00</updated>
@@ -2258,5 +2258,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18102" rel="alternate"/>
     <summary>웹이벤트 오픈! 설산을 밝히는 이벤트에 참여하고 원석을 획득하세요</summary>
     <published>2021-12-29T14:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18150</id>
+    <title>공유 이벤트에 참여해 알프스 밝히기</title>
+    <updated>2021-12-29T19:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918020823653.jpg"><br/><br/>공유 이벤트에 참여해 알프스산맥을 밝히고 iPhone, iPad 및 캐릭터 굿즈 패키지를 획득하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18150">공유 이벤트에 참여해 알프스 밝히기</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18150" rel="alternate"/>
+    <summary>공유 이벤트에 참여해 알프스산맥을 밝히고 iPhone, iPad 및 캐릭터 굿즈 패키지를 획득하세요!</summary>
+    <published>2021-12-29T19:00:00+09:00</published>
   </entry>
 </feed>

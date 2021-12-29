@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2021-12-29T10:11:47.648723+00:00</updated>
+  <updated>2021-12-29T11:09:51.942648+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -220,5 +220,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18105" rel="alternate"/>
     <summary>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. </summary>
     <published>2021-12-29T14:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18109</id>
+    <title>Расскажите о событии, пусть Альпы засияют!</title>
+    <updated>2021-12-29T19:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914522448391.jpg"><br/><br/>Расскажите о событии, пусть Альпы засияют!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18109">Расскажите о событии, пусть Альпы засияют!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18109" rel="alternate"/>
+    <summary>Расскажите о событии, пусть Альпы засияют!</summary>
+    <published>2021-12-29T19:00:00+03:00</published>
   </entry>
 </feed>

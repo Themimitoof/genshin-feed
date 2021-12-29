@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-29T10:11:43.254427+00:00</updated>
+  <updated>2021-12-29T11:09:30.673890+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15645</id>
-    <title>Aneka Koleksi Genshin Impact — "Kujou Sara: Sayap Petir"</title>
-    <updated>2021-09-02T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090211414960990.jpg"><br/><br/>Burung gagak yang datang dari hutan di pegunungan, berubah wujud menjadi sambaran petir nan kilat, mengemban misi untuk melindungi Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15645">Aneka Koleksi Genshin Impact — "Kujou Sara: Sayap Petir"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15645" rel="alternate"/>
-    <summary>Burung gagak yang datang dari hutan di pegunungan, berubah wujud menjadi sambaran petir nan kilat, mengemban misi untuk melindungi Inazuma.</summary>
-    <published>2021-09-02T18:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15691</id>
     <title>Teaser Kisah: Mimpi Rakyat yang Dijanjikan | Genshin Impact</title>
@@ -926,5 +917,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/18101" rel="alternate"/>
     <summary>Dear Traveler, event web "Perjalanan Bersama Bintang di Gunung Salju" telah hadir!</summary>
     <published>2021-12-29T14:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18104</id>
+    <title>Ikuti event bagikan postingan, bantu nyalakan Gunung Alpen</title>
+    <updated>2021-12-29T19:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913053486312.jpg"><br/><br/>Ikuti event bagikan postingan, bantu nyalakan Gunung Alpen, dan dapatkan iPhone, iPad dan bundle merchandise Karakter!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18104">Ikuti event bagikan postingan, bantu nyalakan Gunung Alpen</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18104" rel="alternate"/>
+    <summary>Ikuti event bagikan postingan, bantu nyalakan Gunung Alpen, dan dapatkan iPhone, iPad dan bundle merchandise Karakter!</summary>
+    <published>2021-12-29T19:00:00+07:00</published>
   </entry>
 </feed>

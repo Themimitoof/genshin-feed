@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-29T10:11:46.848235+00:00</updated>
+  <updated>2021-12-29T11:09:48.610365+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -255,6 +255,15 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/18097" rel="alternate"/>
     <summary>Caro Viajante, o evento web "Uma Jornada Entre a Neve e as Estrelas" está disponível, participe do evento de iluminar os Alpes para obter Gemas Essenciais.</summary>
     <published>2021-12-29T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18098</id>
+    <title>Participe e compartilhe o evento, ajude a iluminar os Alpes</title>
+    <updated>2021-12-29T19:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912053563446.jpg"><br/><br/>Participe e compartilhe o evento, ajude a iluminar os Alpes para ter a chance de concorrer a um iPhone, iPad ou a um pacote de produtos de fãs dos personagens de Genshin Impact!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18098">Participe e compartilhe o evento, ajude a iluminar os Alpes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18098" rel="alternate"/>
+    <summary>Participe e compartilhe o evento, ajude a iluminar os Alpes para ter a chance de concorrer a um iPhone, iPad ou a um pacote de produtos de fãs dos personagens de Genshin Impact!</summary>
+    <published>2021-12-29T19:00:00+00:00</published>
   </entry>
   <entry>
     <id>738</id>
@@ -1292,15 +1301,6 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <published>2021-12-29T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>15744</id>
-    <title>Descrição do Modo de Jogo "Reino Lunar"</title>
-    <updated>2021-09-09T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810514390723.jpg"><br/><br/>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15744">Descrição do Modo de Jogo "Reino Lunar"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15744" rel="alternate"/>
-    <summary>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?</summary>
-    <published>2021-09-09T10:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>15791</id>
     <title>CONCERTO DE GENSHIN 2021 - Melodias de uma Jornada Interminável (Teaser 2)</title>
     <updated>2021-09-10T18:00:00+01:00</updated>
@@ -2195,5 +2195,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/18097" rel="alternate"/>
     <summary>Caro Viajante, o evento web "Uma Jornada Entre a Neve e as Estrelas" está disponível, participe do evento de iluminar os Alpes para obter Gemas Essenciais.</summary>
     <published>2021-12-29T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18098</id>
+    <title>Participe e compartilhe o evento, ajude a iluminar os Alpes</title>
+    <updated>2021-12-29T19:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912053563446.jpg"><br/><br/>Participe e compartilhe o evento, ajude a iluminar os Alpes para ter a chance de concorrer a um iPhone, iPad ou a um pacote de produtos de fãs dos personagens de Genshin Impact!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18098">Participe e compartilhe o evento, ajude a iluminar os Alpes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18098" rel="alternate"/>
+    <summary>Participe e compartilhe o evento, ajude a iluminar os Alpes para ter a chance de concorrer a um iPhone, iPad ou a um pacote de produtos de fãs dos personagens de Genshin Impact!</summary>
+    <published>2021-12-29T19:00:00+00:00</published>
   </entry>
 </feed>

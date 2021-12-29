@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 29 Dec 2021 10:11:44 +0000</lastBuildDate>
-    <item>
-      <title>Twitch &lt;원신&gt; 스트리머 모집 이벤트가 오픈했습니다. 라이브에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15657</link>
-      <description>Twitch &lt;원신&gt; 스트리머 모집 이벤트가 오픈했습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216510081068.jpg"><br/><br/>Twitch <원신> 스트리머 모집 이벤트가 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15657">Twitch <원신> 스트리머 모집 이벤트가 오픈했습니다. 라이브에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</a>]]></content:encoded>
-      <guid isPermaLink="false">15657</guid>
-      <pubDate>Thu, 02 Sep 2021 18:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 11:09:40 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 데인 여담 - 「쿠죠 사라: 깃의 섬광」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15649</link>
@@ -821,6 +813,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913204382879.jpg"><br/><br/>웹이벤트 오픈! 설산을 밝히는 이벤트에 참여하고 원석을 획득하세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18102">설봉의 절경, 반짝이는 별의 여정</a>]]></content:encoded>
       <guid isPermaLink="false">18102</guid>
       <pubDate>Wed, 29 Dec 2021 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>공유 이벤트에 참여해 알프스 밝히기</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18150</link>
+      <description>공유 이벤트에 참여해 알프스산맥을 밝히고 iPhone, iPad 및 캐릭터 굿즈 패키지를 획득하세요!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918020823653.jpg"><br/><br/>공유 이벤트에 참여해 알프스산맥을 밝히고 iPhone, iPad 및 캐릭터 굿즈 패키지를 획득하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18150">공유 이벤트에 참여해 알프스 밝히기</a>]]></content:encoded>
+      <guid isPermaLink="false">18150</guid>
+      <pubDate>Wed, 29 Dec 2021 19:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

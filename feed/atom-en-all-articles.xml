@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-12-29T10:11:39.869731+00:00</updated>
+  <updated>2021-12-29T11:09:12.050472+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -228,6 +228,15 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/18103" rel="alternate"/>
     <summary>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.</summary>
     <published>2021-12-29T14:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18111</id>
+    <title>Participate in sharing the event to help light up the Alps</title>
+    <updated>2021-12-29T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915263182024.jpg"><br/><br/>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18111">Participate in sharing the event to help light up the Alps</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18111" rel="alternate"/>
+    <summary>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!</summary>
+    <published>2021-12-29T19:00:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -1385,15 +1394,6 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
     <published>2021-12-29T10:30:00-05:00</published>
   </entry>
   <entry>
-    <id>15785</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</title>
-    <updated>2021-09-10T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017340139230.png"><br/><br/>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15785">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15785" rel="alternate"/>
-    <summary>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.</summary>
-    <published>2021-09-10T18:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>15814</id>
     <title>"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</title>
     <updated>2021-09-15T12:00:00-04:00</updated>
@@ -2352,5 +2352,14 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
     <link href="https://genshin.mihoyo.com/en/news/detail/18103" rel="alternate"/>
     <summary>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.</summary>
     <published>2021-12-29T14:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18111</id>
+    <title>Participate in sharing the event to help light up the Alps</title>
+    <updated>2021-12-29T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915263182024.jpg"><br/><br/>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18111">Participate in sharing the event to help light up the Alps</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18111" rel="alternate"/>
+    <summary>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!</summary>
+    <published>2021-12-29T19:00:00-05:00</published>
   </entry>
 </feed>
