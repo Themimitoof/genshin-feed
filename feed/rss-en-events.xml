@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 05:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 07:11:10 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -195,6 +195,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720284849303.png"><br/><br/>Xiao's Fan Art Contest has begun! Get your drawing tools ready, and come participate~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18056">Prize Giveaway: The "Vigilant Yaksha" Xiao Fan Art Contest Has Begun!</a>]]></content:encoded>
       <guid isPermaLink="false">18056</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Enchanting Journey of Snow and Stars</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18103</link>
+      <description>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912510292801.jpg"><br/><br/>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18103">Enchanting Journey of Snow and Stars</a>]]></content:encoded>
+      <guid isPermaLink="false">18103</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
