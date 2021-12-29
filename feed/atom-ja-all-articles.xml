@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-12-29T14:10:07.358786+00:00</updated>
+  <updated>2021-12-29T15:11:39.732333+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -2006,13 +2006,12 @@
     <published>2021-12-27T12:00:00+09:00</published>
   </entry>
   <entry>
-    <id>13864</id>
-    <title>「旅の絵本」イベント紹介</title>
-    <updated>2021-07-03T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070217501127170.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13864">「旅の絵本」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13864" rel="alternate"/>
-    <summary/>
-    <published>2021-07-03T11:00:00+09:00</published>
+    <id>17783</id>
+    <title>原神 Ver.2.4アップデート記念キャンペーン 参加規約</title>
+    <updated>2021-12-29T22:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17783">原神 Ver.2.4アップデート記念キャンペーン 参加規約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17783" rel="alternate"/>
+    <published>2021-12-29T22:50:00+09:00</published>
   </entry>
   <entry>
     <id>13920</id>
@@ -2880,5 +2879,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/18089" rel="alternate"/>
     <summary/>
     <published>2021-12-29T14:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>17783</id>
+    <title>原神 Ver.2.4アップデート記念キャンペーン 参加規約</title>
+    <updated>2021-12-29T22:50:00+09:00</updated>
+    <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17783">原神 Ver.2.4アップデート記念キャンペーン 参加規約</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/17783" rel="alternate"/>
+    <published>2021-12-29T22:50:00+09:00</published>
   </entry>
 </feed>

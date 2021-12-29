@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Dec 2021 14:10:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 15:11:37 +0000</lastBuildDate>
     <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
@@ -202,6 +202,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122711564898426.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17994">Ver.2.4「流るる星霜、華咲きて」特設ページ</a>]]></description>
       <guid isPermaLink="false">17994</guid>
       <pubDate>Mon, 27 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>原神 Ver.2.4アップデート記念キャンペーン 参加規約</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/17783</link>
+      <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17783">原神 Ver.2.4アップデート記念キャンペーン 参加規約</a>]]></description>
+      <guid isPermaLink="false">17783</guid>
+      <pubDate>Wed, 29 Dec 2021 22:50:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
