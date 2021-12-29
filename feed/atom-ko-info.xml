@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-12-29T01:58:38.336887+00:00</updated>
+  <updated>2021-12-29T02:33:40.838193+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15377</id>
-    <title>&lt;원신&gt; 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</title>
-    <updated>2021-08-29T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817350822457.jpg"><br/><br/>번개 신의 뜻을 행하고 쇼군님을 위한 「영원」을 실현하리라.
-쿠죠 사라의 사명이자 그녀의 염원이다.
-오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15377"><원신> 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15377" rel="alternate"/>
-    <summary>번개 신의 뜻을 행하고 쇼군님을 위한 「영원」을 실현하리라.
-쿠죠 사라의 사명이자 그녀의 염원이다.
-오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.</summary>
-    <published>2021-08-29T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>15418</id>
     <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
@@ -941,5 +928,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18051" rel="alternate"/>
     <summary>2.4 버전에서 이나즈마 와타츠미섬의 연하궁 지역이 오픈될 예정입니다</summary>
     <published>2021-12-28T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18083</id>
+    <title>[이나즈마 수첩] 연하궁편 2회 - 신규 생물</title>
+    <updated>2021-12-29T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122817110839272.jpg"><br/><br/>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18083">[이나즈마 수첩] 연하궁편 2회 - 신규 생물</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18083" rel="alternate"/>
+    <summary>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~</summary>
+    <published>2021-12-29T10:30:00+09:00</published>
   </entry>
 </feed>

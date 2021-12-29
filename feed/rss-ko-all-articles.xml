@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 29 Dec 2021 01:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 02:33:45 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -353,18 +353,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>&lt;원신&gt; 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15377</link>
-      <description>번개 신의 뜻을 행하고 쇼군님을 위한 「영원」을 실현하리라.
-쿠죠 사라의 사명이자 그녀의 염원이다.
-오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817350822457.jpg"><br/><br/>번개 신의 뜻을 행하고 쇼군님을 위한 「영원」을 실현하리라.
-쿠죠 사라의 사명이자 그녀의 염원이다.
-오직 이를 위해 텐구는 번개를 소환해 어떤 적이든 모두 제거한다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15377"><원신> 캐릭터 플레이 - 「쿠죠 사라: 뇌광의 포부」</a>]]></content:encoded>
-      <guid isPermaLink="false">15377</guid>
-      <pubDate>Sun, 29 Aug 2021 12:01:00 +0900</pubDate>
     </item>
     <item>
       <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
@@ -1185,14 +1173,12 @@
       <pubDate>Tue, 28 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
-      <title>&lt;원신&gt; 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15532</link>
-      <description>찰나의 번개는 순간적으로 멀어지지만 라이덴 쇼군의 손에서는 신성하고 용서할 수 없는 천벌이 된다
-찰나의 천광으로 부세의 포영을 끊어낸다면「영원」에 더 가까워질지도 모르지</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122364018837.jpg"><br/><br/>찰나의 번개는 순간적으로 멀어지지만 라이덴 쇼군의 손에서는 신성하고 용서할 수 없는 천벌이 된다
-찰나의 천광으로 부세의 포영을 끊어낸다면「영원」에 더 가까워질지도 모르지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15532"><원신> 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</a>]]></content:encoded>
-      <guid isPermaLink="false">15532</guid>
-      <pubDate>Wed, 01 Sep 2021 12:01:00 +0900</pubDate>
+      <title>[이나즈마 수첩] 연하궁편 2회 - 신규 생물</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18083</link>
+      <description>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122817110839272.jpg"><br/><br/>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18083">[이나즈마 수첩] 연하궁편 2회 - 신규 생물</a>]]></content:encoded>
+      <guid isPermaLink="false">18083</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>&lt;원신&gt; 데인 여담 - 「에일로이: 이세계의 서늘한 빛」</title>
@@ -2002,6 +1988,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122811442821872.jpg"><br/><br/>2.3 버전 「눈보라 속 그림자」을 기념하고자 축복 제비뽑기 커뮤니티 이벤트를 준비했어! 이벤트에 참여해서 여행자의 축복을 보내주면 원석 보상을 획득할 수도 있다구!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18074">2.3 버전 기념 제비뽑기 이벤트</a>]]></content:encoded>
       <guid isPermaLink="false">18074</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[이나즈마 수첩] 연하궁편 2회 - 신규 생물</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18083</link>
+      <description>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122817110839272.jpg"><br/><br/>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18083">[이나즈마 수첩] 연하궁편 2회 - 신규 생물</a>]]></content:encoded>
+      <guid isPermaLink="false">18083</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

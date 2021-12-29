@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 01:58:09 +0000</lastBuildDate>
-    <item>
-      <title>"Lunar Realm" Event: Go fishing and obtain the event-exclusive fishing rod!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15386</link>
-      <description>During the event, join Inazuman fisherwoman Kujirai Momiji on her journey to chase the moon, in pursuit of a legendary great fish called the "Lunar Leviathan." After completing a series of quests and challenges, you can obtain the event-exclusive fishing rod "Moonstringer," Primogems, Mysterious Fish Furnishing, and other rewards.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082819293042834.jpg"><br/><br/>During the event, join Inazuman fisherwoman Kujirai Momiji on her journey to chase the moon, in pursuit of a legendary great fish called the "Lunar Leviathan." After completing a series of quests and challenges, you can obtain the event-exclusive fishing rod "Moonstringer," Primogems, Mysterious Fish Furnishing, and other rewards.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15386">"Lunar Realm" Event: Go fishing and obtain the event-exclusive fishing rod!</a>]]></content:encoded>
-      <guid isPermaLink="false">15386</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 02:32:55 +0000</lastBuildDate>
     <item>
       <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Engulfing Lightning (Polearm) and The Unforged (Claymore)！</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15390</link>
@@ -889,6 +881,14 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719185827933.jpg"><br/><br/>In Version 2.4, Enkanomiya on Watatsumi Island, Inazuma will become available. This mysterious area under Sangonomiya must have piqued the curiosity of Travelers who've visited Watatsumi Island. Let's check out the various new gameplay mechanics Enkanomiya has to offer~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18038">The Inazuma Diaries: Enkanomiya Vol. 1 — New Mechanisms</a>]]></content:encoded>
       <guid isPermaLink="false">18038</guid>
       <pubDate>Tue, 28 Dec 2021 10:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Inazuma Diaries: Enkanomiya Vol. 2 — New Living Beings</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18079</link>
+      <description>Allow us to introduce new living beings and enemies dwelling in Enkanomiya. Take a look if they pique your interest~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815475322470.jpg"><br/><br/>Allow us to introduce new living beings and enemies dwelling in Enkanomiya. Take a look if they pique your interest~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18079">The Inazuma Diaries: Enkanomiya Vol. 2 — New Living Beings</a>]]></content:encoded>
+      <guid isPermaLink="false">18079</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

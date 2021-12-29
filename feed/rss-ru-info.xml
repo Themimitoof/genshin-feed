@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Dec 2021 01:58:47 +0000</lastBuildDate>
-    <item>
-      <title>Об обновлении 2.1 «Лунное утешение для бренного мира»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15382</link>
-      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
-      <content:encoded><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15382">Об обновлении 2.1 «Лунное утешение для бренного мира»</a>]]></content:encoded>
-      <guid isPermaLink="false">15382</guid>
-      <pubDate>Mon, 30 Aug 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 02:33:53 +0000</lastBuildDate>
     <item>
       <title>Событие «Лунное утешение»: Примите участие, чтобы получить особый предмет: Благодатный владыка вод (Двуручное)!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15388</link>
@@ -823,6 +815,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719261717570.jpg"><br/><br/>В версии 2.4 станет доступен новый регион Инадзумы, Энканомия. Это таинственное место под Сангономией наверняка вызвало любопытство Путешественников, посетивших остров Ватацуми. Давайте подробнее рассмотрим новые механизмы, которые встретятся в Энканомии!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18044">«Записи об Инадзуме»: Энканомия, выпуск I - Новые механизмы</a>]]></content:encoded>
       <guid isPermaLink="false">18044</guid>
       <pubDate>Tue, 28 Dec 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Записи об Инадзуме»: Энканомия, выпуск II - Новые существа</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18078</link>
+      <description>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815472595773.jpg"><br/><br/>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18078">«Записи об Инадзуме»: Энканомия, выпуск II - Новые существа</a>]]></content:encoded>
+      <guid isPermaLink="false">18078</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

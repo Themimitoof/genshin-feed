@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 29 Dec 2021 01:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 02:33:07 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -291,13 +291,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Le pré-téléchargement sera bientôt disponible</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15337</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711182382421.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15337">Le pré-téléchargement sera bientôt disponible</a>]]></description>
-      <guid isPermaLink="false">15337</guid>
-      <pubDate>Fri, 27 Aug 2021 11:30:00 +0200</pubDate>
     </item>
     <item>
       <title>« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</title>
@@ -1039,12 +1032,12 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Tue, 28 Dec 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
-      <title>Détails de l'événement « Hyakunin Ikki »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15528</link>
-      <description>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122003940835.jpg"><br/><br/>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15528">Détails de l'événement « Hyakunin Ikki »</a>]]></content:encoded>
-      <guid isPermaLink="false">15528</guid>
-      <pubDate>Wed, 01 Sep 2021 11:00:00 +0200</pubDate>
+      <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18080</link>
+      <description>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122816165485516.jpg"><br/><br/>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18080">Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</a>]]></content:encoded>
+      <guid isPermaLink="false">18080</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Précisions sur certains éléments de la mise à jour de version 2.1</title>
@@ -1771,6 +1764,14 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122721233220593.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18068">[Concours] Les participations au concours de fanart de Xiao « Gardien Yaksha » sont désormais ouvertes !</a>]]></description>
       <guid isPermaLink="false">18068</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18080</link>
+      <description>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122816165485516.jpg"><br/><br/>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18080">Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</a>]]></content:encoded>
+      <guid isPermaLink="false">18080</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

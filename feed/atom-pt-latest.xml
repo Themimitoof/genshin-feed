@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2021-12-29T01:58:41.317271+00:00</updated>
+  <updated>2021-12-29T02:33:45.724539+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15706</id>
-    <title>Teaser de História - "O Sonho Prometido" | Genshin Impact</title>
-    <updated>2021-09-06T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611281535600.jpg"><br/><br/>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15706">Teaser de História - "O Sonho Prometido" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15706" rel="alternate"/>
-    <summary>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...</summary>
-    <published>2021-09-06T18:00:00+01:00</published>
-  </entry>
   <entry>
     <id>15734</id>
     <title>Desejos Esculpidos</title>
@@ -913,5 +904,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/18055" rel="alternate"/>
     <summary>O evento de Arte de Fãs "Guardião Yaksha" está disponível! Pegue a sua caneta e venha participar!</summary>
     <published>2021-12-28T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18076</id>
+    <title>[Diário de Inazuma], Enkanomiya Edição 2 - Novos Seres Vivos</title>
+    <updated>2021-12-29T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815391741040.jpg"><br/><br/>Na versão 2.4, a região de Enkanomiya estará disponível na Ilha Watatsume em Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18076">[Diário de Inazuma], Enkanomiya Edição 2 - Novos Seres Vivos</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18076" rel="alternate"/>
+    <summary>Na versão 2.4, a região de Enkanomiya estará disponível na Ilha Watatsume em Inazuma. </summary>
+    <published>2021-12-29T10:30:00+00:00</published>
   </entry>
 </feed>

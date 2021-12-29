@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-12-29T01:58:13.075711+00:00</updated>
+  <updated>2021-12-29T02:33:02.820889+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>15337</id>
-    <title>Le pré-téléchargement sera bientôt disponible</title>
-    <updated>2021-08-27T11:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082711182382421.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15337">Le pré-téléchargement sera bientôt disponible</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15337" rel="alternate"/>
-    <published>2021-08-27T11:30:00+02:00</published>
-  </entry>
   <entry>
     <id>15301</id>
     <title>« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</title>
@@ -865,5 +857,14 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720310022375.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18066">Les carnets d'Inazuma - Édition d'Enkanomiya N° 1 : Nouveaux mécanismes</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18066" rel="alternate"/>
     <published>2021-12-28T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18080</id>
+    <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</title>
+    <updated>2021-12-29T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122816165485516.jpg"><br/><br/>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18080">Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18080" rel="alternate"/>
+    <summary>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !</summary>
+    <published>2021-12-29T10:30:00+01:00</published>
   </entry>
 </feed>

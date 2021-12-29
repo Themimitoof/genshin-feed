@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-12-29T01:58:17.208361+00:00</updated>
+  <updated>2021-12-29T02:33:09.317497+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15354</id>
-    <title>「為將軍大人實現『永恆』，這就是我的『願望』。」</title>
-    <updated>2021-08-29T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721232554051.jpg"><br/><br/>今天為大家介紹的是來自天領奉行的大將——九條裟羅。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15354">「為將軍大人實現『永恆』，這就是我的『願望』。」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15354" rel="alternate"/>
-    <summary>今天為大家介紹的是來自天領奉行的大將——九條裟羅。</summary>
-    <published>2021-08-29T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>15355</id>
     <title>角色展示-「九條裟羅：雷閃之志」｜原神</title>
@@ -913,5 +904,13 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18060" rel="alternate"/>
     <summary>在2.4版本中，稻妻區域將開放海祇島的淵下宮區域。</summary>
     <published>2021-12-28T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18086</id>
+    <title>【稻妻手帳】淵下宮篇002期——全新生物</title>
+    <updated>2021-12-29T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122818283229648.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18086">【稻妻手帳】淵下宮篇002期——全新生物</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18086" rel="alternate"/>
+    <published>2021-12-29T10:30:00+08:00</published>
   </entry>
 </feed>

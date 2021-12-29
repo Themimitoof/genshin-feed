@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-29T01:58:37.222036+00:00</updated>
+  <updated>2021-12-29T02:33:39.065856+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15532</id>
-    <title>&lt;원신&gt; 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</title>
-    <updated>2021-09-01T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122364018837.jpg"><br/><br/>찰나의 번개는 순간적으로 멀어지지만 라이덴 쇼군의 손에서는 신성하고 용서할 수 없는 천벌이 된다
-찰나의 천광으로 부세의 포영을 끊어낸다면「영원」에 더 가까워질지도 모르지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15532"><원신> 데인 여담 - 「라이덴 쇼군: 뇌명 적멸」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15532" rel="alternate"/>
-    <summary>찰나의 번개는 순간적으로 멀어지지만 라이덴 쇼군의 손에서는 신성하고 용서할 수 없는 천벌이 된다
-찰나의 천광으로 부세의 포영을 끊어낸다면「영원」에 더 가까워질지도 모르지</summary>
-    <published>2021-09-01T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>15607</id>
     <title>&lt;원신&gt; 데인 여담 - 「에일로이: 이세계의 서늘한 빛」</title>
@@ -931,5 +920,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18074" rel="alternate"/>
     <summary>2.3 버전 「눈보라 속 그림자」을 기념하고자 축복 제비뽑기 커뮤니티 이벤트를 준비했어! 이벤트에 참여해서 여행자의 축복을 보내주면 원석 보상을 획득할 수도 있다구!</summary>
     <published>2021-12-28T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18083</id>
+    <title>[이나즈마 수첩] 연하궁편 2회 - 신규 생물</title>
+    <updated>2021-12-29T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122817110839272.jpg"><br/><br/>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18083">[이나즈마 수첩] 연하궁편 2회 - 신규 생물</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18083" rel="alternate"/>
+    <summary>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~</summary>
+    <published>2021-12-29T10:30:00+09:00</published>
   </entry>
 </feed>

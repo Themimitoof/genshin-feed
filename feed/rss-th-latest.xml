@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 29 Dec 2021 01:58:50 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15522</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119515985207.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15522">คำอธิบายการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</a>]]></description>
-      <guid isPermaLink="false">15522</guid>
-      <pubDate>Wed, 01 Sep 2021 07:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 02:33:57 +0000</lastBuildDate>
     <item>
       <title>คำอธิบายเกมเพลย์ "ร้อยใจรวมเป็นหนึ่ง"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15519</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720273332305.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18057">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์" กำลังจะเริ่มขึ้นแล้ว!</a>]]></description>
       <guid isPermaLink="false">18057</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 2 - สิ่งมีชีวิตชนิดใหม่</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18087</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122819124572204.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18087">[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 2 - สิ่งมีชีวิตชนิดใหม่</a>]]></description>
+      <guid isPermaLink="false">18087</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

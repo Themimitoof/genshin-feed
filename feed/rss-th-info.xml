@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 29 Dec 2021 01:58:52 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact ตัวอย่างตัวละคร - "Aloy: นักล่ามหัศจรรย์"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15323</link>
-      <description>นักล่าผู้เก่งกาจ ที่คอยไล่ตามหาพื้นที่ล่าอันแสนตื่นเต้นและแปลกใหม่อยู่เสมอ</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082619274565395.jpg"><br/><br/>นักล่าผู้เก่งกาจ ที่คอยไล่ตามหาพื้นที่ล่าอันแสนตื่นเต้นและแปลกใหม่อยู่เสมอ<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15323">Genshin Impact ตัวอย่างตัวละคร - "Aloy: นักล่ามหัศจรรย์"</a>]]></content:encoded>
-      <guid isPermaLink="false">15323</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 02:33:59 +0000</lastBuildDate>
     <item>
       <title>"ความปรารถนาของฉันคือการทำให้ "ความเป็นนิรันดร์" ของท่านโชกุนเป็นจริง"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15379</link>
@@ -714,6 +706,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122719210115321.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18040">[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 1 - กลไกชนิดใหม่</a>]]></description>
       <guid isPermaLink="false">18040</guid>
       <pubDate>Tue, 28 Dec 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 2 - สิ่งมีชีวิตชนิดใหม่</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18087</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122819124572204.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18087">[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 2 - สิ่งมีชีวิตชนิดใหม่</a>]]></description>
+      <guid isPermaLink="false">18087</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

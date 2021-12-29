@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-12-29T01:58:45.430831+00:00</updated>
+  <updated>2021-12-29T02:33:51.682540+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15631</id>
-    <title>Кудзё Сара: Перо молнии | Коллекция Genshin Impact</title>
-    <updated>2021-09-02T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210151598214.jpg"><br/><br/>Кудзё Сара: Перо молнии<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15631">Кудзё Сара: Перо молнии | Коллекция Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15631" rel="alternate"/>
-    <summary>Кудзё Сара: Перо молнии</summary>
-    <published>2021-09-02T18:00:00+03:00</published>
-  </entry>
   <entry>
     <id>15654</id>
     <title>Кампания по набору стримеров Genshin Impact на Twitch началась!</title>
@@ -928,5 +919,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18072" rel="alternate"/>
     <summary>Версия 2.3 «Белая пыль и снежная тень» закончится 04.01.2022. Какие у вас впечатления?</summary>
     <published>2021-12-28T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18078</id>
+    <title>«Записи об Инадзуме»: Энканомия, выпуск II - Новые существа</title>
+    <updated>2021-12-29T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815472595773.jpg"><br/><br/>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18078">«Записи об Инадзуме»: Энканомия, выпуск II - Новые существа</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18078" rel="alternate"/>
+    <summary>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.</summary>
+    <published>2021-12-29T10:30:00+03:00</published>
   </entry>
 </feed>

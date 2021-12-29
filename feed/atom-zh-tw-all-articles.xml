@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-12-29T01:58:20.139828+00:00</updated>
+  <updated>2021-12-29T02:33:14.043036+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -305,15 +305,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15354</id>
-    <title>「為將軍大人實現『永恆』，這就是我的『願望』。」</title>
-    <updated>2021-08-29T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721232554051.jpg"><br/><br/>今天為大家介紹的是來自天領奉行的大將——九條裟羅。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15354">「為將軍大人實現『永恆』，這就是我的『願望』。」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15354" rel="alternate"/>
-    <summary>今天為大家介紹的是來自天領奉行的大將——九條裟羅。</summary>
-    <published>2021-08-29T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>15355</id>
@@ -1212,13 +1203,12 @@
     <published>2021-12-28T10:30:00+08:00</published>
   </entry>
   <entry>
-    <id>15535</id>
-    <title>我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心</title>
-    <updated>2021-09-01T06:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[因技術原因，我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心，並預計將在9月1日 11:00 （UTC+8）重新開啟。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15535">我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15535" rel="alternate"/>
-    <summary>因技術原因，我們將於 2021年9月1日 6:00 （UTC+8）關閉《原神》官網的儲值中心，並預計將在9月1日 11:00 （UTC+8）重新開啟。</summary>
-    <published>2021-09-01T06:00:00+08:00</published>
+    <id>18086</id>
+    <title>【稻妻手帳】淵下宮篇002期——全新生物</title>
+    <updated>2021-12-29T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122818283229648.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18086">【稻妻手帳】淵下宮篇002期——全新生物</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18086" rel="alternate"/>
+    <published>2021-12-29T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>15507</id>
@@ -2116,5 +2106,13 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18063" rel="alternate"/>
     <summary>魈同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~</summary>
     <published>2021-12-28T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18086</id>
+    <title>【稻妻手帳】淵下宮篇002期——全新生物</title>
+    <updated>2021-12-29T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122818283229648.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18086">【稻妻手帳】淵下宮篇002期——全新生物</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18086" rel="alternate"/>
+    <published>2021-12-29T10:30:00+08:00</published>
   </entry>
 </feed>

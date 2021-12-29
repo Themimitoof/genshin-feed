@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-29T01:58:45.385609+00:00</updated>
+  <updated>2021-12-29T02:33:51.627094+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -380,15 +380,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>15393</id>
-    <title>Aviso de Manutenção da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</title>
-    <updated>2021-08-30T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082820005299919.jpg"><br/><br/>Caros Viajantes：Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações. Depois de ter concluído, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15393">Aviso de Manutenção da Versão 2.1 "Acariciar Gentilmente a Lua Sobre o Mundo Mortal"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15393" rel="alternate"/>
-    <summary>Caros Viajantes：Para garantir que todos os Viajantes tenham a melhor experiência possível com Genshin Impact, nossos desenvolvedores logo começarão a realizar a manutenção das atualizações. Depois de ter concluído, o jogo será atualizado para uma nova versão.</summary>
-    <published>2021-08-30T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>15410</id>
@@ -1283,13 +1274,13 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <published>2021-12-28T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>15706</id>
-    <title>Teaser de História - "O Sonho Prometido" | Genshin Impact</title>
-    <updated>2021-09-06T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611281535600.jpg"><br/><br/>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15706">Teaser de História - "O Sonho Prometido" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15706" rel="alternate"/>
-    <summary>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...</summary>
-    <published>2021-09-06T18:00:00+01:00</published>
+    <id>18076</id>
+    <title>[Diário de Inazuma], Enkanomiya Edição 2 - Novos Seres Vivos</title>
+    <updated>2021-12-29T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815391741040.jpg"><br/><br/>Na versão 2.4, a região de Enkanomiya estará disponível na Ilha Watatsume em Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18076">[Diário de Inazuma], Enkanomiya Edição 2 - Novos Seres Vivos</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18076" rel="alternate"/>
+    <summary>Na versão 2.4, a região de Enkanomiya estará disponível na Ilha Watatsume em Inazuma. </summary>
+    <published>2021-12-29T10:30:00+00:00</published>
   </entry>
   <entry>
     <id>15734</id>
@@ -2186,5 +2177,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
     <link href="https://genshin.mihoyo.com/pt/news/detail/18055" rel="alternate"/>
     <summary>O evento de Arte de Fãs "Guardião Yaksha" está disponível! Pegue a sua caneta e venha participar!</summary>
     <published>2021-12-28T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18076</id>
+    <title>[Diário de Inazuma], Enkanomiya Edição 2 - Novos Seres Vivos</title>
+    <updated>2021-12-29T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815391741040.jpg"><br/><br/>Na versão 2.4, a região de Enkanomiya estará disponível na Ilha Watatsume em Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18076">[Diário de Inazuma], Enkanomiya Edição 2 - Novos Seres Vivos</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18076" rel="alternate"/>
+    <summary>Na versão 2.4, a região de Enkanomiya estará disponível na Ilha Watatsume em Inazuma. </summary>
+    <published>2021-12-29T10:30:00+00:00</published>
   </entry>
 </feed>

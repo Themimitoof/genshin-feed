@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2021-12-29T01:58:12.117338+00:00</updated>
+  <updated>2021-12-29T02:33:01.033901+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>15528</id>
-    <title>Détails de l'événement « Hyakunin Ikki »</title>
-    <updated>2021-09-01T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083122003940835.jpg"><br/><br/>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15528">Détails de l'événement « Hyakunin Ikki »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15528" rel="alternate"/>
-    <summary>Un tournoi de combat libre nommé « Hyakunin Ikki » se tient dans un dojo près de la Cité d'Inazuma. </summary>
-    <published>2021-09-01T11:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15531</id>
     <title>Précisions sur certains éléments de la mise à jour de version 2.1</title>
@@ -858,5 +849,14 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <link href="https://genshin.mihoyo.com/fr/news/detail/18068" rel="alternate"/>
     <summary/>
     <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18080</id>
+    <title>Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</title>
+    <updated>2021-12-29T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122816165485516.jpg"><br/><br/>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18080">Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18080" rel="alternate"/>
+    <summary>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !</summary>
+    <published>2021-12-29T10:30:00+01:00</published>
   </entry>
 </feed>

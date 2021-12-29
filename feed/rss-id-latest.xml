@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 29 Dec 2021 01:58:28 +0000</lastBuildDate>
-    <item>
-      <title>Aneka Koleksi Genshin Impact — "Raiden Shogun: Guntur yang Tenang"</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/15552</link>
-      <description>Kilatan petir yang singkat dan tenang, dapat berubah menjadi hukuman tanpa ampun di tangan Raiden Shogun.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110144840935.jpg"><br/><br/>Kilatan petir yang singkat dan tenang, dapat berubah menjadi hukuman tanpa ampun di tangan Raiden Shogun.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15552">Aneka Koleksi Genshin Impact — "Raiden Shogun: Guntur yang Tenang"</a>]]></content:encoded>
-      <guid isPermaLink="false">15552</guid>
-      <pubDate>Wed, 01 Sep 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 02:33:27 +0000</lastBuildDate>
     <item>
       <title>Aneka Koleksi Genshin Impact — "Aloy: Melodi Asing dari Panah Es"</title>
       <link>https://genshin.mihoyo.com/id/news/detail/15590</link>
@@ -825,6 +817,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!<br><br>Read more on <a h
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720261839093.png"><br/><br/>Kontes Gambar Fan Art Xiao sudah dimulai! Siapkan alat gambarmu dan ikuti eventnya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18064">[Event Berhadiah] Kontes Gambar Fan Art "Vigilant Yaksha" Xiao Dimulai!</a>]]></content:encoded>
       <guid isPermaLink="false">18064</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Seluk-beluk Inazuma, Enkanomiya Edisi 2: Makhluk Baru</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18085</link>
+      <description>Kali ini kami mau memperkenalkan makhluk dan musuh baru yang menghuni Enkanomiya.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122818214235684.jpg"><br/><br/>Kali ini kami mau memperkenalkan makhluk dan musuh baru yang menghuni Enkanomiya.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18085">Seluk-beluk Inazuma, Enkanomiya Edisi 2: Makhluk Baru</a>]]></content:encoded>
+      <guid isPermaLink="false">18085</guid>
+      <pubDate>Wed, 29 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
