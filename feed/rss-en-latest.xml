@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 05:11:35 +0000</lastBuildDate>
-    <item>
-      <title>"Lunar Realm" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15743</link>
-      <description>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810495655485.jpg"><br/><br/>An Inazuman fisherwoman, Kujirai Momiji, has always wanted to catch a legendary great fish called the "Lunar Leviathan." She plans to assemble all her old friends and embark on a journey to find it — and she invites you to join her. Will she attain her wish this time?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15743">"Lunar Realm" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">15743</guid>
-      <pubDate>Thu, 09 Sep 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 06:13:40 +0000</lastBuildDate>
     <item>
       <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15785</link>
@@ -875,6 +867,14 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815475322470.jpg"><br/><br/>Allow us to introduce new living beings and enemies dwelling in Enkanomiya. Take a look if they pique your interest~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18079">The Inazuma Diaries: Enkanomiya Vol. 2 — New Living Beings</a>]]></content:encoded>
       <guid isPermaLink="false">18079</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Enchanting Journey of Snow and Stars</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18103</link>
+      <description>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912510292801.jpg"><br/><br/>Dear Travelers, the "Enchanting Journey of Snow and Stars" web event is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18103">Enchanting Journey of Snow and Stars</a>]]></content:encoded>
+      <guid isPermaLink="false">18103</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

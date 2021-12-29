@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 29 Dec 2021 05:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 06:14:41 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -165,6 +165,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720273332305.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18057">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์" กำลังจะเริ่มขึ้นแล้ว!</a>]]></description>
       <guid isPermaLink="false">18057</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>การเดินทางของหิมะ และดวงดาว</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18099</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912275925358.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18099">การเดินทางของหิมะ และดวงดาว</a>]]></description>
+      <guid isPermaLink="false">18099</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Genshin Impact: มาสำรวจโลกแห่ง Teyvat กับ Amber กันเถอะ!</title>
@@ -968,13 +975,6 @@
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0700</pubDate>
     </item>
     <item>
-      <title>คำอธิบายเกมเพลย์ "ร้อยใจรวมเป็นหนึ่ง"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15519</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119374148338.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15519">คำอธิบายเกมเพลย์ "ร้อยใจรวมเป็นหนึ่ง"</a>]]></description>
-      <guid isPermaLink="false">15519</guid>
-      <pubDate>Wed, 01 Sep 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
       <title>คำแนะนำการอัปเดตเวอร์ชัน 2.1</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15525</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083120163977231.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15525">คำแนะนำการอัปเดตเวอร์ชัน 2.1</a>]]></description>
@@ -1672,6 +1672,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122819124572204.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18087">[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 2 - สิ่งมีชีวิตชนิดใหม่</a>]]></description>
       <guid isPermaLink="false">18087</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>การเดินทางของหิมะ และดวงดาว</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18099</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912275925358.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18099">การเดินทางของหิมะ และดวงดาว</a>]]></description>
+      <guid isPermaLink="false">18099</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

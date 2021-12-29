@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2021-12-29T05:12:09.627211+00:00</updated>
+  <updated>2021-12-29T06:14:37.219001+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -211,6 +211,15 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18072" rel="alternate"/>
     <summary>Версия 2.3 «Белая пыль и снежная тень» закончится 04.01.2022. Какие у вас впечатления?</summary>
     <published>2021-12-28T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18105</id>
+    <title>Звёздный путь среди снегов</title>
+    <updated>2021-12-29T14:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913293064929.jpg"><br/><br/>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18105">Звёздный путь среди снегов</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18105" rel="alternate"/>
+    <summary>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. </summary>
+    <published>2021-12-29T14:00:00+03:00</published>
   </entry>
   <entry>
     <id>740</id>
@@ -1290,15 +1299,6 @@
     <published>2021-12-29T10:30:00+03:00</published>
   </entry>
   <entry>
-    <id>15654</id>
-    <title>Кампания по набору стримеров Genshin Impact на Twitch началась!</title>
-    <updated>2021-09-02T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216213572611.jpg"><br/><br/>Стримьте и выполняйте задания, чтобы получить Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15654">Кампания по набору стримеров Genshin Impact на Twitch началась!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15654" rel="alternate"/>
-    <summary>Стримьте и выполняйте задания, чтобы получить Камни Истока!</summary>
-    <published>2021-09-02T18:00:00+03:00</published>
-  </entry>
-  <entry>
     <id>15683</id>
     <title>Тизер «Обещанная мечта» | Genshin Impact</title>
     <updated>2021-09-06T18:00:00+03:00</updated>
@@ -2208,5 +2208,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18078" rel="alternate"/>
     <summary>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.</summary>
     <published>2021-12-29T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18105</id>
+    <title>Звёздный путь среди снегов</title>
+    <updated>2021-12-29T14:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913293064929.jpg"><br/><br/>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18105">Звёздный путь среди снегов</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18105" rel="alternate"/>
+    <summary>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. </summary>
+    <published>2021-12-29T14:00:00+03:00</published>
   </entry>
 </feed>

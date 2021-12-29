@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Dec 2021 05:12:06 +0000</lastBuildDate>
-    <item>
-      <title>Кампания по набору стримеров Genshin Impact на Twitch началась!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15654</link>
-      <description>Стримьте и выполняйте задания, чтобы получить Камни Истока!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216213572611.jpg"><br/><br/>Стримьте и выполняйте задания, чтобы получить Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15654">Кампания по набору стримеров Genshin Impact на Twitch началась!</a>]]></content:encoded>
-      <guid isPermaLink="false">15654</guid>
-      <pubDate>Thu, 02 Sep 2021 18:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 06:14:33 +0000</lastBuildDate>
     <item>
       <title>Тизер «Обещанная мечта» | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15683</link>
@@ -828,6 +820,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815472595773.jpg"><br/><br/>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18078">«Записи об Инадзуме»: Энканомия, выпуск II - Новые существа</a>]]></content:encoded>
       <guid isPermaLink="false">18078</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Звёздный путь среди снегов</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18105</link>
+      <description>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913293064929.jpg"><br/><br/>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18105">Звёздный путь среди снегов</a>]]></content:encoded>
+      <guid isPermaLink="false">18105</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

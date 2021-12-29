@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Dec 2021 05:11:59 +0000</lastBuildDate>
-    <item>
-      <title>「地脈の奔流」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/8793</link>
-      <description>イベント・「地脈の奔流」：「蔵金の花」「啓示の花」2倍ドロップ！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210223/2021022315090551017.jpg"><br/><br/>イベント・「地脈の奔流」：「蔵金の花」「啓示の花」2倍ドロップ！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8793">「地脈の奔流」イベント予告</a>]]></content:encoded>
-      <guid isPermaLink="false">8793</guid>
-      <pubDate>Wed, 24 Feb 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Dec 2021 06:14:26 +0000</lastBuildDate>
     <item>
       <title>「彼岸蝶の章」任務予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/8831</link>
@@ -729,6 +721,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810010811561.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18069">「護法夜叉」魈イラスト募集コンテスト</a>]]></description>
       <guid isPermaLink="false">18069</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「壮大なる銀嶺、星に照らされし旅」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18089</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122910240338025.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18089">「壮大なる銀嶺、星に照らされし旅」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">18089</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>「原神」×中国四川省「⻩龍」コラボ写真公開！</title>
@@ -1634,13 +1633,6 @@
       <pubDate>Mon, 27 Dec 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>楓原万葉エピソード動画の壁紙公開！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13854</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210701/2021070119554049185.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13854">楓原万葉エピソード動画の壁紙公開！</a>]]></description>
-      <guid isPermaLink="false">13854</guid>
-      <pubDate>Fri, 02 Jul 2021 11:59:00 +0900</pubDate>
-    </item>
-    <item>
       <title>「旅の絵本」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/13864</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210702/2021070217501127170.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13864">「旅の絵本」イベント紹介</a>]]></description>
@@ -2338,6 +2330,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810010811561.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18069">「護法夜叉」魈イラスト募集コンテスト</a>]]></description>
       <guid isPermaLink="false">18069</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「壮大なる銀嶺、星に照らされし旅」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18089</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122910240338025.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18089">「壮大なる銀嶺、星に照らされし旅」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">18089</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

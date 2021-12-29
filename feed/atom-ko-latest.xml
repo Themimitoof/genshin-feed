@@ -2,26 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-29T05:11:59.412517+00:00</updated>
+  <updated>2021-12-29T06:14:26.164718+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15607</id>
-    <title>&lt;원신&gt; 데인 여담 - 「에일로이: 이세계의 서늘한 빛」</title>
-    <updated>2021-09-02T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116580962792.jpg"><br/><br/>「에일로이라는 이름의 사냥꾼은 원래의 세계에서 여러 신분을 가지고 있지…」
-이렇게 시작하면 너무 재미 없잖아? 내가 꼰대도 아니고, 안 그래?
-이세계에서 온 날렵한 소녀에 대한 연구는 본 마녀에게 맡겨!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15607"><원신> 데인 여담 - 「에일로이: 이세계의 서늘한 빛」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15607" rel="alternate"/>
-    <summary>「에일로이라는 이름의 사냥꾼은 원래의 세계에서 여러 신분을 가지고 있지…」
-이렇게 시작하면 너무 재미 없잖아? 내가 꼰대도 아니고, 안 그래?
-이세계에서 온 날렵한 소녀에 대한 연구는 본 마녀에게 맡겨!</summary>
-    <published>2021-09-02T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>15657</id>
     <title>Twitch &lt;원신&gt; 스트리머 모집 이벤트가 오픈했습니다. 라이브에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</title>
@@ -929,5 +916,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18083" rel="alternate"/>
     <summary>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~</summary>
     <published>2021-12-29T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18102</id>
+    <title>설봉의 절경, 반짝이는 별의 여정</title>
+    <updated>2021-12-29T14:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913204382879.jpg"><br/><br/>웹이벤트 오픈! 설산을 밝히는 이벤트에 참여하고 원석을 획득하세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18102">설봉의 절경, 반짝이는 별의 여정</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18102" rel="alternate"/>
+    <summary>웹이벤트 오픈! 설산을 밝히는 이벤트에 참여하고 원석을 획득하세요</summary>
+    <published>2021-12-29T14:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-29T05:11:52.934733+00:00</updated>
+  <updated>2021-12-29T06:14:19.555608+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15590</id>
-    <title>Aneka Koleksi Genshin Impact — "Aloy: Melodi Asing dari Panah Es"</title>
-    <updated>2021-09-02T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090115310140667.jpg"><br/><br/>"Seorang pemburu bernama Aloy, memiliki berbagai macam identitas di dunia asalnya ...."<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15590">Aneka Koleksi Genshin Impact — "Aloy: Melodi Asing dari Panah Es"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15590" rel="alternate"/>
-    <summary>"Seorang pemburu bernama Aloy, memiliki berbagai macam identitas di dunia asalnya ...."</summary>
-    <published>2021-09-02T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15645</id>
     <title>Aneka Koleksi Genshin Impact — "Kujou Sara: Sayap Petir"</title>
@@ -926,5 +917,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/18085" rel="alternate"/>
     <summary>Kali ini kami mau memperkenalkan makhluk dan musuh baru yang menghuni Enkanomiya.</summary>
     <published>2021-12-29T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18101</id>
+    <title>Perjalanan Bersama Bintang di Gunung Salju</title>
+    <updated>2021-12-29T14:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912483580974.jpg"><br/><br/>Dear Traveler, event web "Perjalanan Bersama Bintang di Gunung Salju" telah hadir!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18101">Perjalanan Bersama Bintang di Gunung Salju</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18101" rel="alternate"/>
+    <summary>Dear Traveler, event web "Perjalanan Bersama Bintang di Gunung Salju" telah hadir!</summary>
+    <published>2021-12-29T14:00:00+07:00</published>
   </entry>
 </feed>

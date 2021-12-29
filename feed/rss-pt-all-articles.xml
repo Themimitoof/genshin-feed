@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 29 Dec 2021 05:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 06:14:33 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -219,6 +219,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211227/2021122720292019116.png"><br/><br/>O evento de Arte de Fãs "Guardião Yaksha" está disponível! Pegue a sua caneta e venha participar!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18055">[Evento com Recompensas] Evento de Arte de Fãs "Guardião Yaksha" agora disponível!</a>]]></content:encoded>
       <guid isPermaLink="false">18055</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uma Jornada Entre a Neve e as Estrelas</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18097</link>
+      <description>Caro Viajante, o evento web "Uma Jornada Entre a Neve e as Estrelas" está disponível, participe do evento de iluminar os Alpes para obter Gemas Essenciais.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912012258341.jpg"><br/><br/>Caro Viajante, o evento web "Uma Jornada Entre a Neve e as Estrelas" está disponível, participe do evento de iluminar os Alpes para obter Gemas Essenciais.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18097">Uma Jornada Entre a Neve e as Estrelas</a>]]></content:encoded>
+      <guid isPermaLink="false">18097</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0000</pubDate>
     </item>
     <item>
       <title>&lt;Genshin Impact&gt; explore o mundo de Teyvat com a Amber!</title>
@@ -1139,14 +1147,6 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Desejos Esculpidos</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15734</link>
-      <description>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711412340982.jpg"><br/><br/>Disponível em breve evento "Desejos Esculpidos". Viajantes, vamos criar juntos uma memória especial de aniversário!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15734">Desejos Esculpidos</a>]]></content:encoded>
-      <guid isPermaLink="false">15734</guid>
-      <pubDate>Tue, 07 Sep 2021 12:00:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Descrição do Modo de Jogo "Reino Lunar"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15744</link>
       <description>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?</description>
@@ -1940,6 +1940,14 @@ Disponível já também, evento "Dossiê de Bantan Sango: O Cão Guerreiro"! Via
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815391741040.jpg"><br/><br/>Na versão 2.4, a região de Enkanomiya estará disponível na Ilha Watatsume em Inazuma. <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18076">[Diário de Inazuma], Enkanomiya Edição 2 - Novos Seres Vivos</a>]]></content:encoded>
       <guid isPermaLink="false">18076</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uma Jornada Entre a Neve e as Estrelas</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18097</link>
+      <description>Caro Viajante, o evento web "Uma Jornada Entre a Neve e as Estrelas" está disponível, participe do evento de iluminar os Alpes para obter Gemas Essenciais.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912012258341.jpg"><br/><br/>Caro Viajante, o evento web "Uma Jornada Entre a Neve e as Estrelas" está disponível, participe do evento de iluminar os Alpes para obter Gemas Essenciais.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18097">Uma Jornada Entre a Neve e as Estrelas</a>]]></content:encoded>
+      <guid isPermaLink="false">18097</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

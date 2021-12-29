@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 29 Dec 2021 05:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Dec 2021 06:14:37 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -189,6 +189,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810441043909.jpg"><br/><br/>Версия 2.3 «Белая пыль и снежная тень» закончится 04.01.2022. Какие у вас впечатления?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18072">Событие «Памятная лотерея» версии 2.3</a>]]></content:encoded>
       <guid isPermaLink="false">18072</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Звёздный путь среди снегов</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18105</link>
+      <description>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913293064929.jpg"><br/><br/>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18105">Звёздный путь среди снегов</a>]]></content:encoded>
+      <guid isPermaLink="false">18105</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0300</pubDate>
     </item>
     <item>
       <title>"Genshin Impact" Исследуйте континент Тейват вместе с Эмбер!</title>
@@ -1146,14 +1154,6 @@
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Кампания по набору стримеров Genshin Impact на Twitch началась!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15654</link>
-      <description>Стримьте и выполняйте задания, чтобы получить Камни Истока!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090216213572611.jpg"><br/><br/>Стримьте и выполняйте задания, чтобы получить Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15654">Кампания по набору стримеров Genshin Impact на Twitch началась!</a>]]></content:encoded>
-      <guid isPermaLink="false">15654</guid>
-      <pubDate>Thu, 02 Sep 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
       <title>Тизер «Обещанная мечта» | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15683</link>
       <description>Страна, мчавшаяся вперёд, превратилась в мимолётную тень. Может, если остановить мгновение, её сияние продлится вечно...</description>
@@ -1964,6 +1964,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815472595773.jpg"><br/><br/>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18078">«Записи об Инадзуме»: Энканомия, выпуск II - Новые существа</a>]]></content:encoded>
       <guid isPermaLink="false">18078</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Звёздный путь среди снегов</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18105</link>
+      <description>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122913293064929.jpg"><br/><br/>Дорогие Путешественники! Браузерное событие «Звёздный путь среди снегов» уже доступно. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18105">Звёздный путь среди снегов</a>]]></content:encoded>
+      <guid isPermaLink="false">18105</guid>
+      <pubDate>Wed, 29 Dec 2021 14:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
