@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2021-12-30T03:11:33.518226+00:00</updated>
+  <updated>2021-12-30T04:14:12.266139+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>15737</id>
-    <title>Высеченные пожелания</title>
-    <updated>2021-09-07T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711524442206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15737">Высеченные пожелания</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15737" rel="alternate"/>
-    <published>2021-09-07T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15746</id>
-    <title>Описание события «Лунное королевство»</title>
-    <updated>2021-09-09T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810540270397.jpg"><br/><br/>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15746">Описание события «Лунное королевство»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15746" rel="alternate"/>
-    <summary>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?</summary>
-    <published>2021-09-09T10:30:00+03:00</published>
-  </entry>
   <entry>
     <id>15784</id>
     <title>Концерт Genshin 2021 - Melodies of an Endless Journey (Teaser 2)</title>
@@ -928,5 +911,23 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18109" rel="alternate"/>
     <summary>Расскажите о событии, пусть Альпы засияют!</summary>
     <published>2021-12-29T19:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18124</id>
+    <title>«Одинокие грёзы» Шэнь Хэ - Истории персонажей | Genshin Impact</title>
+    <updated>2021-12-30T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916115912569.jpg"><br/><br/>Шэнь Хэ с детства жила в уединении в горах, училась у Адепта, занимаясь духовным самосовершенствованием.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18124">«Одинокие грёзы» Шэнь Хэ - Истории персонажей | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18124" rel="alternate"/>
+    <summary>Шэнь Хэ с детства жила в уединении в горах, училась у Адепта, занимаясь духовным самосовершенствованием.</summary>
+    <published>2021-12-30T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18183</id>
+    <title>«Доброе утро. Утренняя роса так сладка. Хочешь, поделюсь с тобой?»</title>
+    <updated>2021-12-30T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919024747395.png"><br/><br/>Сегодня мы хотели бы представить вам ученицу Хранителя Облаков - Шэнь Хэ!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18183">«Доброе утро. Утренняя роса так сладка. Хочешь, поделюсь с тобой?»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18183" rel="alternate"/>
+    <summary>Сегодня мы хотели бы представить вам ученицу Хранителя Облаков - Шэнь Хэ!</summary>
+    <published>2021-12-30T12:00:00+03:00</published>
   </entry>
 </feed>

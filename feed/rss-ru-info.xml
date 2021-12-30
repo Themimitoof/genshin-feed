@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Dec 2021 03:11:35 +0000</lastBuildDate>
-    <item>
-      <title>Событие «Лунное утешение»: Примите участие, чтобы получить особый предмет: Благодатный владыка вод (Двуручное)!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15388</link>
-      <description>В период события выполняйте задания «Сказаний Лунной охоты» или участвуйте в испытаниях «Искателя лунного света» и «Пути лакомств», чтобы получить эксклюзивное оружие события «Благодатный владыка вод» (Двуручное) и его материалы пробуждения, Корону прозрения, Камни Истока, рецепты и другие награды.</description>
-      <content:encoded><![CDATA[В период события выполняйте задания «Сказаний Лунной охоты» или участвуйте в испытаниях «Искателя лунного света» и «Пути лакомств», чтобы получить эксклюзивное оружие события «Благодатный владыка вод» (Двуручное) и его материалы пробуждения, Корону прозрения, Камни Истока, рецепты и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15388">Событие «Лунное утешение»: Примите участие, чтобы получить особый предмет: Благодатный владыка вод (Двуручное)!</a>]]></content:encoded>
-      <guid isPermaLink="false">15388</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Командный турнир «Хякунин икки»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15392</link>
-      <description>В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.</description>
-      <content:encoded><![CDATA[В период события соберите команду из двух человек и сразитесь в турнире Хякунин икки. За победу вы получите очки, которые дадут вам особую именную карту «Торжество икки», Камни Истока и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15392">Командный турнир «Хякунин икки»</a>]]></content:encoded>
-      <guid isPermaLink="false">15392</guid>
-      <pubDate>Mon, 30 Aug 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 04:14:13 +0000</lastBuildDate>
     <item>
       <title>Событие «Лунное королевство»: ловите рыбу и получите эксклюзивную удочку!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15394</link>
@@ -823,6 +807,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122815472595773.jpg"><br/><br/>Позвольте представить вам новых существ и врагов, обитающих в Энканомии.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18078">«Записи об Инадзуме»: Энканомия, выпуск II - Новые существа</a>]]></content:encoded>
       <guid isPermaLink="false">18078</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Одинокие грёзы» Шэнь Хэ - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18124</link>
+      <description>Шэнь Хэ с детства жила в уединении в горах, училась у Адепта, занимаясь духовным самосовершенствованием.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916115912569.jpg"><br/><br/>Шэнь Хэ с детства жила в уединении в горах, училась у Адепта, занимаясь духовным самосовершенствованием.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18124">«Одинокие грёзы» Шэнь Хэ - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18124</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Доброе утро. Утренняя роса так сладка. Хочешь, поделюсь с тобой?»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18183</link>
+      <description>Сегодня мы хотели бы представить вам ученицу Хранителя Облаков - Шэнь Хэ!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919024747395.png"><br/><br/>Сегодня мы хотели бы представить вам ученицу Хранителя Облаков - Шэнь Хэ!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18183">«Доброе утро. Утренняя роса так сладка. Хочешь, поделюсь с тобой?»</a>]]></content:encoded>
+      <guid isPermaLink="false">18183</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2021-12-30T03:10:48.503611+00:00</updated>
+  <updated>2021-12-30T04:13:23.604198+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15814</id>
-    <title>"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</title>
-    <updated>2021-09-15T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410361294116.jpg"><br/><br/>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15814">"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15814" rel="alternate"/>
-    <summary>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.</summary>
-    <published>2021-09-15T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>15824</id>
-    <title>Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</title>
-    <updated>2021-09-15T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417075555479.png"><br/><br/>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
-Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15824">Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15824" rel="alternate"/>
-    <summary>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
-Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.</summary>
-    <published>2021-09-15T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15872</id>
     <title>Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</title>
@@ -977,5 +957,27 @@ As we gather together in this beautiful moment, let us toast to the everlasting 
     <link href="https://genshin.mihoyo.com/en/news/detail/18111" rel="alternate"/>
     <summary>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!</summary>
     <published>2021-12-29T19:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18129</id>
+    <title>Character Teaser - "Shenhe: Lonesome Dream" | Genshin Impact</title>
+    <updated>2021-12-30T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916161844993.jpg"><br/><br/>Since childhood, Shenhe has lived in seclusion in the mountains, studying under an adeptus and practicing diligently day by day.
+Occasionally, the leaves rustle, birds sing, and insects chirp, as if a new guest is visiting.
+But when she listened closely, the mountain seemed lonely and lush, and not even the wind made a sound. All was silent.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18129">Character Teaser - "Shenhe: Lonesome Dream" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18129" rel="alternate"/>
+    <summary>Since childhood, Shenhe has lived in seclusion in the mountains, studying under an adeptus and practicing diligently day by day.
+Occasionally, the leaves rustle, birds sing, and insects chirp, as if a new guest is visiting.
+But when she listened closely, the mountain seemed lonely and lush, and not even the wind made a sound. All was silent.</summary>
+    <published>2021-12-30T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18181</id>
+    <title>"Good morning. The dew is very sweet today, would you like some?"</title>
+    <updated>2021-12-30T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918594546960.png"><br/><br/>Today, we'd like to introduce you the disciple of Cloud Retainer — Shenhe!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18181">"Good morning. The dew is very sweet today, would you like some?"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18181" rel="alternate"/>
+    <summary>Today, we'd like to introduce you the disciple of Cloud Retainer — Shenhe!</summary>
+    <published>2021-12-30T12:00:00-05:00</published>
   </entry>
 </feed>

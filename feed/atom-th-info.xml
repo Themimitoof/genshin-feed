@@ -2,29 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - info</title>
-  <updated>2021-12-30T03:11:39.245954+00:00</updated>
+  <updated>2021-12-30T04:14:16.885537+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>15379</id>
-    <title>"ความปรารถนาของฉันคือการทำให้ "ความเป็นนิรันดร์" ของท่านโชกุนเป็นจริง"</title>
-    <updated>2021-08-29T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082817425240461.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15379">"ความปรารถนาของฉันคือการทำให้ "ความเป็นนิรันดร์" ของท่านโชกุนเป็นจริง"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15379" rel="alternate"/>
-    <published>2021-08-29T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15399</id>
-    <title>ตัวอย่างตัวละคร Genshin Impact - "Kujou Sara: ผู้ตามรอยเจตจำนงแห่งสายฟ้า" </title>
-    <updated>2021-08-29T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082900043584252.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15399">ตัวอย่างตัวละคร Genshin Impact - "Kujou Sara: ผู้ตามรอยเจตจำนงแห่งสายฟ้า" </a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15399" rel="alternate"/>
-    <published>2021-08-29T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15401</id>
     <title>แจ้งการอัปเดตเวอร์ชัน 2.1 "โลกดุจสวรรค์ใต้แสงจันทรา"</title>
@@ -833,5 +817,21 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122819124572204.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18087">[บันทึก Inazuma] ฉบับ Enkanomiya บทที่ 2 - สิ่งมีชีวิตชนิดใหม่</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18087" rel="alternate"/>
     <published>2021-12-29T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18133</id>
+    <title>[Genshin Impact] ธีมวิดีโอตัวละคร Shenhe - "ห้วงฝันอันอ้างว้าง"</title>
+    <updated>2021-12-30T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916194178125.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18133">[Genshin Impact] ธีมวิดีโอตัวละคร Shenhe - "ห้วงฝันอันอ้างว้าง"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18133" rel="alternate"/>
+    <published>2021-12-30T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18190</id>
+    <title>"อรุณสวัสดิ์ น้ำค้างหวานมากเลย เอาสักหน่อยมั้ยล่ะ?"</title>
+    <updated>2021-12-30T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919193260674.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18190">"อรุณสวัสดิ์ น้ำค้างหวานมากเลย เอาสักหน่อยมั้ยล่ะ?"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18190" rel="alternate"/>
+    <published>2021-12-30T12:00:00+07:00</published>
   </entry>
 </feed>

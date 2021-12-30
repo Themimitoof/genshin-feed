@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2021-12-30T03:11:09.352572+00:00</updated>
+  <updated>2021-12-30T04:13:39.596247+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -155,6 +155,17 @@ Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm d
     <link href="https://genshin.mihoyo.com/de/news/detail/18236" rel="alternate"/>
     <summary>Lieber Reisender, die Webaktion „Zauberhafte Reise durch Schnee und Sterne“ ist jetzt verfügbar. Nimm teil und beleuchte die schneebedeckten Berge, um Urgestein zu gewinnen.</summary>
     <published>2021-12-30T10:43:12+01:00</published>
+  </entry>
+  <entry>
+    <id>18252</id>
+    <title>Nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen</title>
+    <updated>2021-12-30T11:16:29+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011182274544.jpg"><br/><br/>Lieber Reisender,
+nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone, ein iPad oder Figuren-Fan-Artikel-Pakete zu gewinnen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18252">Nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18252" rel="alternate"/>
+    <summary>Lieber Reisender,
+nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone, ein iPad oder Figuren-Fan-Artikel-Pakete zu gewinnen!</summary>
+    <published>2021-12-30T11:16:29+01:00</published>
   </entry>
   <entry>
     <id>736</id>
@@ -317,26 +328,6 @@ Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm d
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15427</id>
-    <title>Mitteilung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</title>
-    <updated>2021-08-30T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009593021028.jpg"><br/><br/>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15427">Mitteilung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15427" rel="alternate"/>
-    <summary>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.</summary>
-    <published>2021-08-30T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15433</id>
-    <title>Aktion „Mondlichtfreude“: Nimm teil und erhalte die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“!</title>
-    <updated>2021-08-30T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010282383294.jpg"><br/><br/>Während des Aktionszeitraums kannst du die Aufträge unter „Geschichten des Vollmondtanzes“ abschließen oder die Herausforderungen „Mondscheinsucher“ sowie „Pfad der Köstlichkeiten“ bestreiten, um die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“ sowie das Material zur Verfeinerung dieser Waffe, die Krone der Weisheit, Urgestein, Rezepte und andere Belohnungen zu erhalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15433">Aktion „Mondlichtfreude“: Nimm teil und erhalte die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15433" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du die Aufträge unter „Geschichten des Vollmondtanzes“ abschließen oder die Herausforderungen „Mondscheinsucher“ sowie „Pfad der Köstlichkeiten“ bestreiten, um die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“ sowie das Material zur Verfeinerung dieser Waffe, die Krone der Weisheit, Urgestein, Rezepte und andere Belohnungen zu erhalten.</summary>
-    <published>2021-08-30T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15435</id>
@@ -1262,33 +1253,24 @@ Ningguangs neue Kleidung, das „Orchideen-Abendkleid“, wird nach der Aktualis
     <published>2021-12-29T10:30:00+01:00</published>
   </entry>
   <entry>
-    <id>15514</id>
-    <title>Erläuterung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</title>
-    <updated>2021-09-01T07:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119183460541.jpg"><br/><br/>Lieber Reisender,
-hier findest du Details zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15514">Erläuterung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15514" rel="alternate"/>
-    <summary>Lieber Reisender,
-hier findest du Details zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“ sowie zur Entschädigung dafür.</summary>
-    <published>2021-09-01T07:00:00+02:00</published>
+    <id>18139</id>
+    <title>Figurenvorschau von Genshin Impact für Shenhe – „Einsamer Traum“</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916311790970.jpg"><br/><br/>Shenhe lebt seit ihrer Kindheit zurückgezogen in den Bergen als Schülerin der Adepten und trainiert Tag für Tag.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18139">Figurenvorschau von Genshin Impact für Shenhe – „Einsamer Traum“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18139" rel="alternate"/>
+    <summary>Shenhe lebt seit ihrer Kindheit zurückgezogen in den Bergen als Schülerin der Adepten und trainiert Tag für Tag.</summary>
+    <published>2021-12-30T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>15496</id>
-    <title>Erläuterungen zur Spielweise von „Hyakunin Ikki“</title>
-    <updated>2021-09-01T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083116450514468.jpg"><br/><br/>In einer unbekannten Gildenhalle in der Nähe von Inazuma wird ein geheimnisvolles Kampfturnier aller gegen alle abgehalten. Zeige allen auf elegante Weise, was in dir steckt, besiege deine Gegner und gewinn so viele Punkte wie möglich, um Herausforderungsbelohnungen zu erhalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15496">Erläuterungen zur Spielweise von „Hyakunin Ikki“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15496" rel="alternate"/>
-    <summary>In einer unbekannten Gildenhalle in der Nähe von Inazuma wird ein geheimnisvolles Kampfturnier aller gegen alle abgehalten. Zeige allen auf elegante Weise, was in dir steckt, besiege deine Gegner und gewinn so viele Punkte wie möglich, um Herausforderungsbelohnungen zu erhalten.</summary>
-    <published>2021-09-01T11:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15521</id>
-    <title>Tipps zur Aktualisierung auf Version 2.1</title>
-    <updated>2021-09-01T11:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083119484524389.png"><br/><br/>Hallo liebe Reisende! Paimon hat gehört, dass es in Version 2.1 wieder neue Inseln zu erkunden gibt! Paimon will jetzt schon mit euch dorthinfahren und ein großes Abenteuer erleben! Vielleicht können wir dort noch ein paar neue Freunde kennenlernen! Und es gibt diesmal auch viele tolle Neuigkeiten, die wir erwarten können! Seid ihr bereit? Lasst uns zusammen die coolen neuen Inhalte entdecken!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15521">Tipps zur Aktualisierung auf Version 2.1</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15521" rel="alternate"/>
-    <summary>Hallo liebe Reisende! Paimon hat gehört, dass es in Version 2.1 wieder neue Inseln zu erkunden gibt! Paimon will jetzt schon mit euch dorthinfahren und ein großes Abenteuer erleben! Vielleicht können wir dort noch ein paar neue Freunde kennenlernen! Und es gibt diesmal auch viele tolle Neuigkeiten, die wir erwarten können! Seid ihr bereit? Lasst uns zusammen die coolen neuen Inhalte entdecken!</summary>
-    <published>2021-09-01T11:00:00+02:00</published>
+    <id>18185</id>
+    <title>„Guten Morgen! Der Tau ist heute sehr süß, möchtest du etwas davon haben?“</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919044625950.png"><br/><br/>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch die adeptische Schülerin der Fürstin der stehenden Wolken und des stillen Windes, Shenhe, vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18185">„Guten Morgen! Der Tau ist heute sehr süß, möchtest du etwas davon haben?“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18185" rel="alternate"/>
+    <summary>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch die adeptische Schülerin der Fürstin der stehenden Wolken und des stillen Windes, Shenhe, vor.</summary>
+    <published>2021-12-30T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>15582</id>
@@ -2212,5 +2194,36 @@ Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm d
     <link href="https://genshin.mihoyo.com/de/news/detail/18236" rel="alternate"/>
     <summary>Lieber Reisender, die Webaktion „Zauberhafte Reise durch Schnee und Sterne“ ist jetzt verfügbar. Nimm teil und beleuchte die schneebedeckten Berge, um Urgestein zu gewinnen.</summary>
     <published>2021-12-30T10:43:12+01:00</published>
+  </entry>
+  <entry>
+    <id>18252</id>
+    <title>Nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen</title>
+    <updated>2021-12-30T11:16:29+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011182274544.jpg"><br/><br/>Lieber Reisender,
+nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone, ein iPad oder Figuren-Fan-Artikel-Pakete zu gewinnen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18252">Nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18252" rel="alternate"/>
+    <summary>Lieber Reisender,
+nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone, ein iPad oder Figuren-Fan-Artikel-Pakete zu gewinnen!</summary>
+    <published>2021-12-30T11:16:29+01:00</published>
+  </entry>
+  <entry>
+    <id>18139</id>
+    <title>Figurenvorschau von Genshin Impact für Shenhe – „Einsamer Traum“</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916311790970.jpg"><br/><br/>Shenhe lebt seit ihrer Kindheit zurückgezogen in den Bergen als Schülerin der Adepten und trainiert Tag für Tag.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18139">Figurenvorschau von Genshin Impact für Shenhe – „Einsamer Traum“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18139" rel="alternate"/>
+    <summary>Shenhe lebt seit ihrer Kindheit zurückgezogen in den Bergen als Schülerin der Adepten und trainiert Tag für Tag.</summary>
+    <published>2021-12-30T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18185</id>
+    <title>„Guten Morgen! Der Tau ist heute sehr süß, möchtest du etwas davon haben?“</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919044625950.png"><br/><br/>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch die adeptische Schülerin der Fürstin der stehenden Wolken und des stillen Windes, Shenhe, vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18185">„Guten Morgen! Der Tau ist heute sehr süß, möchtest du etwas davon haben?“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18185" rel="alternate"/>
+    <summary>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch die adeptische Schülerin der Fürstin der stehenden Wolken und des stillen Windes, Shenhe, vor.</summary>
+    <published>2021-12-30T12:00:00+01:00</published>
   </entry>
 </feed>

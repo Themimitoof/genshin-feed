@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2021-12-30T03:11:00.742073+00:00</updated>
+  <updated>2021-12-30T04:13:31.993360+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15357</id>
-    <title>「韶光撫月，天下人間」2.1版本更新通知</title>
-    <updated>2021-08-30T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082811255776621.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15357">「韶光撫月，天下人間」2.1版本更新通知</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15357" rel="alternate"/>
-    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
-    <published>2021-08-30T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>15406</id>
     <title>「百人一揆」活動：換隊亂鬥挑戰</title>
@@ -912,5 +903,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18189" rel="alternate"/>
     <summary>旅行者們\ (^ o ^) / ~今天為大家介紹的是師從留雲借風真君的仙家弟子——申鶴。</summary>
     <published>2021-12-30T10:30:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18137</id>
+    <title>申鶴角色預告——「孤辰新夢」｜原神</title>
+    <updated>2021-12-30T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916251123034.jpg"><br/><br/>申鶴自幼隱居山中，師從仙家，日日靜修。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18137">申鶴角色預告——「孤辰新夢」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18137" rel="alternate"/>
+    <summary>申鶴自幼隱居山中，師從仙家，日日靜修。</summary>
+    <published>2021-12-30T12:00:00+08:00</published>
   </entry>
 </feed>

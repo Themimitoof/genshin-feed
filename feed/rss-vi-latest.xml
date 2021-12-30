@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Thu, 30 Dec 2021 03:11:43 +0000</lastBuildDate>
-    <item>
-      <title>Nhắc Nhở Cập Nhật Phiên Bản 2.1</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15526</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083120174295129.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15526">Nhắc Nhở Cập Nhật Phiên Bản 2.1</a>]]></description>
-      <guid isPermaLink="false">15526</guid>
-      <pubDate>Wed, 01 Sep 2021 11:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>Sự kiện web "Kề Vai Sát Cánh" đã mở, đồng hành cùng Nhà Mạo Hiểm Trở Về và Nhà Mạo Hiểm Mới để nhận được những phần quà hấp dẫn!</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15576</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090111071824485.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15576">Sự kiện web "Kề Vai Sát Cánh" đã mở, đồng hành cùng Nhà Mạo Hiểm Trở Về và Nhà Mạo Hiểm Mới để nhận được những phần quà hấp dẫn!</a>]]></description>
-      <guid isPermaLink="false">15576</guid>
-      <pubDate>Wed, 01 Sep 2021 11:10:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 04:14:19 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] - Raiden Shogun: Sấm Sét Tịch Diệt</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/15558</link>
@@ -714,6 +700,20 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914414316472.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18107">Tham gia sự kiện chia sẻ, chung sức thắp sáng dãy Alps</a>]]></description>
       <guid isPermaLink="false">18107</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] Video nhân vật Shenhe - Giấc Mơ Cô Độc</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18135</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916231245592.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18135">[Genshin Impact] Video nhân vật Shenhe - Giấc Mơ Cô Độc</a>]]></description>
+      <guid isPermaLink="false">18135</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Chào buổi sáng. Sương mai rất ngọt, bạn có muốn thử một chút không?</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18191</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919204415207.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18191">Chào buổi sáng. Sương mai rất ngọt, bạn có muốn thử một chút không?</a>]]></description>
+      <guid isPermaLink="false">18191</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

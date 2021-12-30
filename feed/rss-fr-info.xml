@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 30 Dec 2021 03:10:56 +0000</lastBuildDate>
-    <item>
-      <title>« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15301</link>
-      <description>Bonjour, chers voyageurs !  Aujourd'hui nous vous présentons une jeune femme originaire d'un autre monde, Aloy. Découvrons-la ensemble !</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611580320836.jpg"><br/><br/>Bonjour, chers voyageurs !  Aujourd'hui nous vous présentons une jeune femme originaire d'un autre monde, Aloy. Découvrons-la ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15301">« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</a>]]></content:encoded>
-      <guid isPermaLink="false">15301</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15327</link>
-      <description>Une bonne chasseuse est toujours à l'affût d'expériences inouïes et passionnantes.
-Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082623043672952.jpg"><br/><br/>Une bonne chasseuse est toujours à l'affût d'expériences inouïes et passionnantes.
-Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15327">Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</a>]]></content:encoded>
-      <guid isPermaLink="false">15327</guid>
-      <pubDate>Fri, 27 Aug 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 04:13:28 +0000</lastBuildDate>
     <item>
       <title>« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15360</link>
@@ -755,6 +737,20 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122816165485516.jpg"><br/><br/>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18080">Les carnets d'Inazuma - Édition d'Enkanomiya N° 2 : Nouvelles créatures</a>]]></content:encoded>
       <guid isPermaLink="false">18080</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Histoire de personnage | Shenhe : « Rêve solitaire »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18146</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122917091930720.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18146">Genshin Impact - Histoire de personnage | Shenhe : « Rêve solitaire »</a>]]></description>
+      <guid isPermaLink="false">18146</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Bonjour. La rosée est particulièrement sucrée aujourd'hui. Vous en voulez un peu ? »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18198</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919272841153.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18198">« Bonjour. La rosée est particulièrement sucrée aujourd'hui. Vous en voulez un peu ? »</a>]]></description>
+      <guid isPermaLink="false">18198</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

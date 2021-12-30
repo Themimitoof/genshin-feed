@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - info</title>
-  <updated>2021-12-30T03:10:56.320505+00:00</updated>
+  <updated>2021-12-30T04:13:28.727271+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>15301</id>
-    <title>« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</title>
-    <updated>2021-08-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082611580320836.jpg"><br/><br/>Bonjour, chers voyageurs !  Aujourd'hui nous vous présentons une jeune femme originaire d'un autre monde, Aloy. Découvrons-la ensemble !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15301">« Mon arc et mes flèches sont au service de ceux qui en ont besoin. »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15301" rel="alternate"/>
-    <summary>Bonjour, chers voyageurs !  Aujourd'hui nous vous présentons une jeune femme originaire d'un autre monde, Aloy. Découvrons-la ensemble !</summary>
-    <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15327</id>
-    <title>Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</title>
-    <updated>2021-08-27T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210826/2021082623043672952.jpg"><br/><br/>Une bonne chasseuse est toujours à l'affût d'expériences inouïes et passionnantes.
-Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15327">Genshin Impact - Démo personnage : « Aloy : chasseuse d'un autre monde »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15327" rel="alternate"/>
-    <summary>Une bonne chasseuse est toujours à l'affût d'expériences inouïes et passionnantes.
-Braver ce nouveau monde étrange qu'est Teyvat sera la nouvelle épreuve d'Aloy.</summary>
-    <published>2021-08-27T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15360</id>
     <title>« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</title>
@@ -866,5 +846,21 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <link href="https://genshin.mihoyo.com/fr/news/detail/18080" rel="alternate"/>
     <summary>Nous vous présentons cette fois les nouvelles créatures et les nouveaux ennemis que vous rencontrerez à Enkanomiya. Découvrons-les ensemble !</summary>
     <published>2021-12-29T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18146</id>
+    <title>Genshin Impact - Histoire de personnage | Shenhe : « Rêve solitaire »</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122917091930720.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18146">Genshin Impact - Histoire de personnage | Shenhe : « Rêve solitaire »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18146" rel="alternate"/>
+    <published>2021-12-30T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18198</id>
+    <title>« Bonjour. La rosée est particulièrement sucrée aujourd'hui. Vous en voulez un peu ? »</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919272841153.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18198">« Bonjour. La rosée est particulièrement sucrée aujourd'hui. Vous en voulez un peu ? »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18198" rel="alternate"/>
+    <published>2021-12-30T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -2,33 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2021-12-30T03:11:06.336625+00:00</updated>
+  <updated>2021-12-30T04:13:35.820513+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15427</id>
-    <title>Mitteilung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</title>
-    <updated>2021-08-30T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083009593021028.jpg"><br/><br/>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15427">Mitteilung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15427" rel="alternate"/>
-    <summary>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.</summary>
-    <published>2021-08-30T10:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15433</id>
-    <title>Aktion „Mondlichtfreude“: Nimm teil und erhalte die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“!</title>
-    <updated>2021-08-30T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010282383294.jpg"><br/><br/>Während des Aktionszeitraums kannst du die Aufträge unter „Geschichten des Vollmondtanzes“ abschließen oder die Herausforderungen „Mondscheinsucher“ sowie „Pfad der Köstlichkeiten“ bestreiten, um die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“ sowie das Material zur Verfeinerung dieser Waffe, die Krone der Weisheit, Urgestein, Rezepte und andere Belohnungen zu erhalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15433">Aktion „Mondlichtfreude“: Nimm teil und erhalte die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15433" rel="alternate"/>
-    <summary>Während des Aktionszeitraums kannst du die Aufträge unter „Geschichten des Vollmondtanzes“ abschließen oder die Herausforderungen „Mondscheinsucher“ sowie „Pfad der Köstlichkeiten“ bestreiten, um die exklusive Aktionswaffe „Zweihänder – Luxuriöser Seekönig“ sowie das Material zur Verfeinerung dieser Waffe, die Krone der Weisheit, Urgestein, Rezepte und andere Belohnungen zu erhalten.</summary>
-    <published>2021-08-30T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15435</id>
     <title>Aktion „Hyakunin Ikki“: Kämpfe mit wechselnden Truppen</title>
@@ -951,5 +931,25 @@ Ningguangs neue Kleidung, das „Orchideen-Abendkleid“, wird nach der Aktualis
     <link href="https://genshin.mihoyo.com/de/news/detail/18081" rel="alternate"/>
     <summary>Dieses Mal stellen wir euch die neuen Geschöpfe und Gegner in Enkanomiya vor. Wenn ihr also Interesse habt, lasst uns einen Blick darauf werfen!</summary>
     <published>2021-12-29T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18139</id>
+    <title>Figurenvorschau von Genshin Impact für Shenhe – „Einsamer Traum“</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916311790970.jpg"><br/><br/>Shenhe lebt seit ihrer Kindheit zurückgezogen in den Bergen als Schülerin der Adepten und trainiert Tag für Tag.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18139">Figurenvorschau von Genshin Impact für Shenhe – „Einsamer Traum“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18139" rel="alternate"/>
+    <summary>Shenhe lebt seit ihrer Kindheit zurückgezogen in den Bergen als Schülerin der Adepten und trainiert Tag für Tag.</summary>
+    <published>2021-12-30T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18185</id>
+    <title>„Guten Morgen! Der Tau ist heute sehr süß, möchtest du etwas davon haben?“</title>
+    <updated>2021-12-30T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919044625950.png"><br/><br/>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch die adeptische Schülerin der Fürstin der stehenden Wolken und des stillen Windes, Shenhe, vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18185">„Guten Morgen! Der Tau ist heute sehr süß, möchtest du etwas davon haben?“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18185" rel="alternate"/>
+    <summary>Liebe Reisende \ (^ o ^) / ~
+Heute stellen wir euch die adeptische Schülerin der Fürstin der stehenden Wolken und des stillen Windes, Shenhe, vor.</summary>
+    <published>2021-12-30T12:00:00+01:00</published>
   </entry>
 </feed>

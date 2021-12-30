@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2021-12-30T03:11:25.211795+00:00</updated>
+  <updated>2021-12-30T04:14:05.886763+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15418</id>
-    <title>「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</title>
-    <updated>2021-08-30T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083007444831459.jpg"><br/><br/>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15418">「달빛 속 광경, 하늘 아래 인간 세상」 2.1 버전 업데이트 공지</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15418" rel="alternate"/>
-    <summary>여행자님들에게 보다 나은 게임 환경을 제공하기 위해 제작진은 업데이트 점검을 진행할 예정이며, 서버점검 종료 후 새로운 버전으로 업데이트됩니다</summary>
-    <published>2021-08-30T10:30:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15431</id>
-    <title>「신의 주조」 기원: 「장병기·예초의 번개」, 「양손검·무공의 검」 확률 UP!</title>
-    <updated>2021-08-30T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083010181974971.jpg"><br/><br/>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15431">「신의 주조」 기원: 「장병기·예초의 번개」, 「양손검·무공의 검」 확률 UP!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15431" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 팀을 강화할 수 있습니다</summary>
-    <published>2021-08-30T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>15420</id>
     <title>「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</title>
@@ -937,5 +919,23 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18083" rel="alternate"/>
     <summary>이번에 소개할 건 바로 연하궁의 신규 생물과 적입니다. 궁금하다면 함께 확인해 봐요~</summary>
     <published>2021-12-29T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18216</id>
+    <title>「좋은 아침. 아침이슬이 달아, 너도 마실래?」 - 신학</title>
+    <updated>2021-12-30T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122920460369271.png"><br/><br/>오늘 소개할 캐릭터는 류운차풍진군의 제자 - 신학이야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18216">「좋은 아침. 아침이슬이 달아, 너도 마실래?」 - 신학</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18216" rel="alternate"/>
+    <summary>오늘 소개할 캐릭터는 류운차풍진군의 제자 - 신학이야</summary>
+    <published>2021-12-30T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18210</id>
+    <title>&lt;원신&gt; 신학 캐릭터 PV-「외로운 꿈」</title>
+    <updated>2021-12-30T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919424397928.jpg"><br/><br/>신학은 어릴 때부터 산속에 은거하며 선인 밑에서 매일 수련을 했다...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18210"><원신> 신학 캐릭터 PV-「외로운 꿈」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18210" rel="alternate"/>
+    <summary>신학은 어릴 때부터 산속에 은거하며 선인 밑에서 매일 수련을 했다...</summary>
+    <published>2021-12-30T12:01:00+09:00</published>
   </entry>
 </feed>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-30T03:11:13.618168+00:00</updated>
+  <updated>2021-12-30T04:13:43.869499+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15691</id>
-    <title>Teaser Kisah: Mimpi Rakyat yang Dijanjikan | Genshin Impact</title>
-    <updated>2021-09-06T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610564294717.jpg"><br/><br/>Sebuah negara yang berjuang untuk maju, telah terjebak dalam bayangan sesaat. Mungkin dengan menghentikan momen saat ini, Inazuma bisa bersinar selamanya ....<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15691">Teaser Kisah: Mimpi Rakyat yang Dijanjikan | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15691" rel="alternate"/>
-    <summary>Sebuah negara yang berjuang untuk maju, telah terjebak dalam bayangan sesaat. Mungkin dengan menghentikan momen saat ini, Inazuma bisa bersinar selamanya ....</summary>
-    <published>2021-09-06T18:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15735</id>
-    <title>Ucapan yang Terukir</title>
-    <updated>2021-09-07T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711495735357.jpg"><br/><br/>Event Web "Ucapan yang Terukir" segera dimulai. Traveler, ayo sama-sama buat kenangan untuk anniversary pertama Genshin Impact!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15735">Ucapan yang Terukir</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15735" rel="alternate"/>
-    <summary>Event Web "Ucapan yang Terukir" segera dimulai. Traveler, ayo sama-sama buat kenangan untuk anniversary pertama Genshin Impact!</summary>
-    <published>2021-09-07T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15745</id>
     <title>Cara Bermain "Kerajaan Bulan"</title>
@@ -926,5 +908,23 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/18104" rel="alternate"/>
     <summary>Ikuti event bagikan postingan, bantu nyalakan Gunung Alpen, dan dapatkan iPhone, iPad dan bundle merchandise Karakter!</summary>
     <published>2021-12-29T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18156</id>
+    <title>Kisah Karakter: "Shenhe — Sebuah Mimpi dalam Kesendirian" | Genshin Impact</title>
+    <updated>2021-12-30T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918155699529.jpg"><br/><br/>Sejak kecil Shenhe selalu tinggal di pegunungan, berguru di bawah didikan Adeptus, dan berlatih dalam ketenangan.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18156">Kisah Karakter: "Shenhe — Sebuah Mimpi dalam Kesendirian" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18156" rel="alternate"/>
+    <summary>Sejak kecil Shenhe selalu tinggal di pegunungan, berguru di bawah didikan Adeptus, dan berlatih dalam ketenangan.</summary>
+    <published>2021-12-30T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18261</id>
+    <title>"Selamat pagi. Embun hari ini terasa manis, kamu mau coba?"</title>
+    <updated>2021-12-30T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011430755544.png"><br/><br/>Hari ini, ayo kenalan dengan murid Cloud Retainer — Shenhe!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18261">"Selamat pagi. Embun hari ini terasa manis, kamu mau coba?"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18261" rel="alternate"/>
+    <summary>Hari ini, ayo kenalan dengan murid Cloud Retainer — Shenhe!</summary>
+    <published>2021-12-30T12:00:00+07:00</published>
   </entry>
 </feed>

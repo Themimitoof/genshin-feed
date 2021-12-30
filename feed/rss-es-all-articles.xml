@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 30 Dec 2021 03:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 04:13:43 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -339,6 +339,22 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0100</pubDate>
     </item>
     <item>
+      <title>Avance de la trama de Genshin Impact - Shenhe: Sueño solitario</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18131</link>
+      <description>Desde su infancia, Shenhe ha vivido recluida en las montañas, como discípula de los Adeptus y dedicándose día tras día a aprender las técnicas adépticas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916175135060.jpg"><br/><br/>Desde su infancia, Shenhe ha vivido recluida en las montañas, como discípula de los Adeptus y dedicándose día tras día a aprender las técnicas adépticas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18131">Avance de la trama de Genshin Impact - Shenhe: Sueño solitario</a>]]></content:encoded>
+      <guid isPermaLink="false">18131</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Buenos días. El rocío está muy dulce hoy, ¿quieres un poco?"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18179</link>
+      <description>Viajeros \ (^ o ^) / ~Hoy les presentamos a Shenhe, la discípula de Preservadora de Nubes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918565485294.png"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Shenhe, la discípula de Preservadora de Nubes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18179">"Buenos días. El rocío está muy dulce hoy, ¿quieres un poco?"</a>]]></content:encoded>
+      <guid isPermaLink="false">18179</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -396,6 +412,22 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914263450404.jpg"><br/><br/>Querido/a viajero/a: Participa compartiendo el evento e ilumina los Alpes. ¡Tendrás la oportunidad de ganar un iPhone, un iPad y paquetes de merchandising de personajes!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18106">Participa compartiendo el evento e ilumina los Alpes</a>]]></content:encoded>
       <guid isPermaLink="false">18106</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Avance de la trama de Genshin Impact - Shenhe: Sueño solitario</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18131</link>
+      <description>Desde su infancia, Shenhe ha vivido recluida en las montañas, como discípula de los Adeptus y dedicándose día tras día a aprender las técnicas adépticas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916175135060.jpg"><br/><br/>Desde su infancia, Shenhe ha vivido recluida en las montañas, como discípula de los Adeptus y dedicándose día tras día a aprender las técnicas adépticas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18131">Avance de la trama de Genshin Impact - Shenhe: Sueño solitario</a>]]></content:encoded>
+      <guid isPermaLink="false">18131</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>"Buenos días. El rocío está muy dulce hoy, ¿quieres un poco?"</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18179</link>
+      <description>Viajeros \ (^ o ^) / ~Hoy les presentamos a Shenhe, la discípula de Preservadora de Nubes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918565485294.png"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Shenhe, la discípula de Preservadora de Nubes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18179">"Buenos días. El rocío está muy dulce hoy, ¿quieres un poco?"</a>]]></content:encoded>
+      <guid isPermaLink="false">18179</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,22 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 30 Dec 2021 03:11:33 +0000</lastBuildDate>
-    <item>
-      <title>Высеченные пожелания</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15737</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711524442206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15737">Высеченные пожелания</a>]]></description>
-      <guid isPermaLink="false">15737</guid>
-      <pubDate>Tue, 07 Sep 2021 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Лунное королевство»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15746</link>
-      <description>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810540270397.jpg"><br/><br/>Мастерица рыбалки из Инадзумы, Кудзирай Момидзи, всегда мечтала поймать легендарную рыбу - Лунного левиафана. Она хочет собрать всех своих старых друзей и отправиться на её поиски. Она приглашает и вас. Получится ли у неё в этот раз исполнить своё желание?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15746">Описание события «Лунное королевство»</a>]]></content:encoded>
-      <guid isPermaLink="false">15746</guid>
-      <pubDate>Thu, 09 Sep 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 04:14:12 +0000</lastBuildDate>
     <item>
       <title>Концерт Genshin 2021 - Melodies of an Endless Journey (Teaser 2)</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15784</link>
@@ -828,6 +813,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914522448391.jpg"><br/><br/>Расскажите о событии, пусть Альпы засияют!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18109">Расскажите о событии, пусть Альпы засияют!</a>]]></content:encoded>
       <guid isPermaLink="false">18109</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Одинокие грёзы» Шэнь Хэ - Истории персонажей | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18124</link>
+      <description>Шэнь Хэ с детства жила в уединении в горах, училась у Адепта, занимаясь духовным самосовершенствованием.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916115912569.jpg"><br/><br/>Шэнь Хэ с детства жила в уединении в горах, училась у Адепта, занимаясь духовным самосовершенствованием.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18124">«Одинокие грёзы» Шэнь Хэ - Истории персонажей | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18124</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Доброе утро. Утренняя роса так сладка. Хочешь, поделюсь с тобой?»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18183</link>
+      <description>Сегодня мы хотели бы представить вам ученицу Хранителя Облаков - Шэнь Хэ!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919024747395.png"><br/><br/>Сегодня мы хотели бы представить вам ученицу Хранителя Облаков - Шэнь Хэ!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18183">«Доброе утро. Утренняя роса так сладка. Хочешь, поделюсь с тобой?»</a>]]></content:encoded>
+      <guid isPermaLink="false">18183</guid>
+      <pubDate>Thu, 30 Dec 2021 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

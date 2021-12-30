@@ -2,29 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-12-30T03:11:37.755759+00:00</updated>
+  <updated>2021-12-30T04:14:15.698184+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>15563</id>
-    <title>กิจกรรมบนเว็บไซต์ "ร่วมเดินทางไปด้วยกัน" ได้เริ่มขึ้นแล้ว ร่วมเดินทางไปกับนักผจญภัยเก่าที่กลับมา และผู้เล่นใหม่ เพื่อรับรางวัลมากมายด้วยกันเถอะ!</title>
-    <updated>2021-09-01T11:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110465289092.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15563">กิจกรรมบนเว็บไซต์ "ร่วมเดินทางไปด้วยกัน" ได้เริ่มขึ้นแล้ว ร่วมเดินทางไปกับนักผจญภัยเก่าที่กลับมา และผู้เล่นใหม่ เพื่อรับรางวัลมากมายด้วยกันเถอะ!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15563" rel="alternate"/>
-    <published>2021-09-01T11:10:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15557</id>
-    <title>[Genshin Impact] เก็บตกตัวละคร - "Raiden Shogun: ห้วงสายฟ้าที่ดับสูญ"</title>
-    <updated>2021-09-01T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110190125248.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15557">[Genshin Impact] เก็บตกตัวละคร - "Raiden Shogun: ห้วงสายฟ้าที่ดับสูญ"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15557" rel="alternate"/>
-    <published>2021-09-01T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15604</id>
     <title>[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</title>
@@ -841,5 +825,21 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914424021463.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18108">เข้าร่วมกิจกรรมแชร์ เพื่อช่วยให้เทือกเขาแอลป์สว่างไสว</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18108" rel="alternate"/>
     <published>2021-12-29T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18133</id>
+    <title>[Genshin Impact] ธีมวิดีโอตัวละคร Shenhe - "ห้วงฝันอันอ้างว้าง"</title>
+    <updated>2021-12-30T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916194178125.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18133">[Genshin Impact] ธีมวิดีโอตัวละคร Shenhe - "ห้วงฝันอันอ้างว้าง"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18133" rel="alternate"/>
+    <published>2021-12-30T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18190</id>
+    <title>"อรุณสวัสดิ์ น้ำค้างหวานมากเลย เอาสักหน่อยมั้ยล่ะ?"</title>
+    <updated>2021-12-30T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919193260674.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18190">"อรุณสวัสดิ์ น้ำค้างหวานมากเลย เอาสักหน่อยมั้ยล่ะ?"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18190" rel="alternate"/>
+    <published>2021-12-30T12:00:00+07:00</published>
   </entry>
 </feed>
