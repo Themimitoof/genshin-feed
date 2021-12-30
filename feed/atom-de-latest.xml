@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2021-12-29T01:58:20.183768+00:00</updated>
+  <updated>2021-12-30T03:11:04.715302+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15483</id>
-    <title>Figurenvorführung bei Genshin Impact – Shougun Raiden: Schuldspruch der Utopie</title>
-    <updated>2021-08-31T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083110440239298.jpg"><br/><br/>Warnung: An erhöhter Lichtempfindlichkeit oder Epilepsie Leidende könnten auf dieses Video empfindlich reagieren. Achte bitte auf deine Gesundheit, wenn du dich dazu entscheidest, das Video anzusehen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15483">Figurenvorführung bei Genshin Impact – Shougun Raiden: Schuldspruch der Utopie</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15483" rel="alternate"/>
-    <summary>Warnung: An erhöhter Lichtempfindlichkeit oder Epilepsie Leidende könnten auf dieses Video empfindlich reagieren. Achte bitte auf deine Gesundheit, wenn du dich dazu entscheidest, das Video anzusehen.</summary>
-    <published>2021-08-31T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>15538</id>
-    <title>Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website</title>
-    <updated>2021-09-01T06:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website von Genshin Impact vorübergehend schließen und voraussichtlich am 01. September, 11:00 Uhr (UTC+8) wieder öffnen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15538">Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15538" rel="alternate"/>
-    <summary>Aus technischen Gründen werden wir am 01. September 2021, 06:00 Uhr (UTC+8) das Aufladezentrum auf der offiziellen Website von Genshin Impact vorübergehend schließen und voraussichtlich am 01. September, 11:00 Uhr (UTC+8) wieder öffnen.</summary>
-    <published>2021-09-01T06:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15514</id>
     <title>Erläuterung zur Aktualisierung auf Version 2.1 „Vom Mond beschienene Welt“</title>
@@ -960,5 +942,23 @@ Die Aktion für Einreichungen von Fan-Zeichnungen mit Xiao beginnt jetzt! Nimm d
     <link href="https://genshin.mihoyo.com/de/news/detail/18071" rel="alternate"/>
     <summary>Hallo, Reisende! Version 2.3 „Schatten im Schneesturm“ wird am 4. Januar 2022 zu Ende sein. Wie fandet ihr die neuen Inhalte der Version?</summary>
     <published>2021-12-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18081</id>
+    <title>Notizen über Inazuma: Enkanomiya – Teil 2: Neue Lebewesen</title>
+    <updated>2021-12-29T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123010420930382.jpg"><br/><br/>Dieses Mal stellen wir euch die neuen Geschöpfe und Gegner in Enkanomiya vor. Wenn ihr also Interesse habt, lasst uns einen Blick darauf werfen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18081">Notizen über Inazuma: Enkanomiya – Teil 2: Neue Lebewesen</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18081" rel="alternate"/>
+    <summary>Dieses Mal stellen wir euch die neuen Geschöpfe und Gegner in Enkanomiya vor. Wenn ihr also Interesse habt, lasst uns einen Blick darauf werfen!</summary>
+    <published>2021-12-29T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18236</id>
+    <title>Zauberhafte Reise durch Schnee und Sterne</title>
+    <updated>2021-12-30T10:43:12+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123010453639876.jpg"><br/><br/>Lieber Reisender, die Webaktion „Zauberhafte Reise durch Schnee und Sterne“ ist jetzt verfügbar. Nimm teil und beleuchte die schneebedeckten Berge, um Urgestein zu gewinnen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18236">Zauberhafte Reise durch Schnee und Sterne</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18236" rel="alternate"/>
+    <summary>Lieber Reisender, die Webaktion „Zauberhafte Reise durch Schnee und Sterne“ ist jetzt verfügbar. Nimm teil und beleuchte die schneebedeckten Berge, um Urgestein zu gewinnen.</summary>
+    <published>2021-12-30T10:43:12+01:00</published>
   </entry>
 </feed>
