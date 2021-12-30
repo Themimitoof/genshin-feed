@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 30 Dec 2021 01:58:28 +0000</lastBuildDate>
-    <item>
-      <title>「韶光撫月，天下人間」2.1版本更新說明</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15507</link>
-      <description>以下是2.1版本——「韶光撫月，天下人間」更新與補償內容。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210831/2021083118583216967.jpg"><br/><br/>以下是2.1版本——「韶光撫月，天下人間」更新與補償內容。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15507">「韶光撫月，天下人間」2.1版本更新說明</a>]]></content:encoded>
-      <guid isPermaLink="false">15507</guid>
-      <pubDate>Wed, 01 Sep 2021 07:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Dec 2021 02:33:12 +0000</lastBuildDate>
     <item>
       <title>2.1版本更新小提示</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/15510</link>
@@ -812,6 +804,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122818283229648.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18086">【稻妻手帳】淵下宮篇002期——全新生物</a>]]></description>
       <guid isPermaLink="false">18086</guid>
       <pubDate>Wed, 29 Dec 2021 10:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「早安。晨露很甜，要分一點給你嗎？」</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18189</link>
+      <description>旅行者們\ (^ o ^) / ~今天為大家介紹的是師從留雲借風真君的仙家弟子——申鶴。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919140748815.png"><br/><br/>旅行者們\ (^ o ^) / ~今天為大家介紹的是師從留雲借風真君的仙家弟子——申鶴。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18189">「早安。晨露很甜，要分一點給你嗎？」</a>]]></content:encoded>
+      <guid isPermaLink="false">18189</guid>
+      <pubDate>Thu, 30 Dec 2021 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
