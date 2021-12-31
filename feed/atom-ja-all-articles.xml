@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2021-12-31T03:13:07.295561+00:00</updated>
+  <updated>2021-12-31T04:14:34.341708+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>8831</id>
-    <title>「彼岸蝶の章」任務予告</title>
-    <updated>2021-02-28T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210224/2021022417235290085.jpg"><br/><br/>「彼岸蝶の章」伝説任務<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8831">「彼岸蝶の章」任務予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/8831" rel="alternate"/>
-    <summary>「彼岸蝶の章」伝説任務</summary>
-    <published>2021-02-28T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>8953</id>
-    <title>「ヴィシャップ追跡」イベント予告</title>
-    <updated>2021-03-03T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210301/2021030114544370547.jpg"><br/><br/>イベント・「ヴィシャップ追跡」：派遣を完了し、原石を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/8953">「ヴィシャップ追跡」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/8953" rel="alternate"/>
-    <summary>イベント・「ヴィシャップ追跡」：派遣を完了し、原石を獲得！</summary>
-    <published>2021-03-03T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>9060</id>
-    <title>「ヴィシャップ追跡」イベント紹介</title>
-    <updated>2021-03-04T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210303/2021030315222973749.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9060">「ヴィシャップ追跡」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9060" rel="alternate"/>
-    <summary>イベントに参加し、豪華な報酬を獲得！</summary>
-    <published>2021-03-04T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>9309</id>
     <title>「異国のグルメ」イベント予告</title>
@@ -885,6 +858,33 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/18089" rel="alternate"/>
     <summary/>
     <published>2021-12-29T14:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18095</id>
+    <title>Ver.2.4祈願予告</title>
+    <updated>2021-12-31T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122911591364802.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18095">Ver.2.4祈願予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18095" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18166</id>
+    <title>Ver.2.4イベント予告</title>
+    <updated>2021-12-31T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918530333441.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18166">Ver.2.4イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18166" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18263</id>
+    <title>「雲中白鶴」イベント紹介</title>
+    <updated>2021-12-31T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011535929052.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18263">「雲中白鶴」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18263" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>6121</id>
@@ -2013,33 +2013,6 @@
     <published>2021-12-29T22:50:00+09:00</published>
   </entry>
   <entry>
-    <id>13998</id>
-    <title>武器祈願の新しい仕様「神鋳軌定」について（7月9日24:40にテキスト調整）</title>
-    <updated>2021-07-09T21:59:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210708/2021070810474760168.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13998">武器祈願の新しい仕様「神鋳軌定」について（7月9日24:40にテキスト調整）</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/13998" rel="alternate"/>
-    <summary/>
-    <published>2021-07-09T21:59:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14022</id>
-    <title>PSNアカウントとmiHoYo通行証の連携について（8月6日18:10にテキスト調整）</title>
-    <updated>2021-07-09T21:59:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210709/2021070914482924583.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14022">PSNアカウントとmiHoYo通行証の連携について（8月6日18:10にテキスト調整）</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/14022" rel="alternate"/>
-    <summary/>
-    <published>2021-07-09T21:59:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14093</id>
-    <title>「未知への航路」イベント紹介</title>
-    <updated>2021-07-13T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071310321378980.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14093">「未知への航路」イベント紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/14093" rel="alternate"/>
-    <summary/>
-    <published>2021-07-13T12:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>14094</id>
     <title>イベント「旅の絵本」の壁紙公開！</title>
     <updated>2021-07-13T18:00:00+09:00</updated>
@@ -2885,5 +2858,32 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122911022467150.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18090">Ver2.4事前ダウンロード開始</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/18090" rel="alternate"/>
     <published>2021-12-31T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18095</id>
+    <title>Ver.2.4祈願予告</title>
+    <updated>2021-12-31T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122911591364802.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18095">Ver.2.4祈願予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18095" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18166</id>
+    <title>Ver.2.4イベント予告</title>
+    <updated>2021-12-31T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918530333441.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18166">Ver.2.4イベント予告</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18166" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18263</id>
+    <title>「雲中白鶴」イベント紹介</title>
+    <updated>2021-12-31T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011535929052.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18263">「雲中白鶴」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18263" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:00:00+09:00</published>
   </entry>
 </feed>
