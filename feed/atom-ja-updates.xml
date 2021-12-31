@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - updates</title>
-  <updated>2021-12-31T02:39:37.249495+00:00</updated>
+  <updated>2021-12-31T03:13:04.461750+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>updates feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>6120</id>
-    <title>「映天の章」任務紹介</title>
-    <updated>2020-10-23T21:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201023/2020102321055119272.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6120">「映天の章」任務紹介</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/6120" rel="alternate"/>
-    <summary/>
-    <published>2020-10-23T21:00:00+09:00</published>
-  </entry>
   <entry>
     <id>6121</id>
     <title>「百貨珍品」イベント紹介</title>
@@ -895,5 +886,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/18187" rel="alternate"/>
     <summary/>
     <published>2021-12-31T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18090</id>
+    <title>Ver2.4事前ダウンロード開始</title>
+    <updated>2021-12-31T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122911022467150.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18090">Ver2.4事前ダウンロード開始</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18090" rel="alternate"/>
+    <published>2021-12-31T11:00:00+09:00</published>
   </entry>
 </feed>
