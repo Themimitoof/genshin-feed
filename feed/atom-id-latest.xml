@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - latest</title>
-  <updated>2021-12-31T02:01:04.847565+00:00</updated>
+  <updated>2021-12-31T02:39:27.906254+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/id/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in id</subtitle>
-  <entry>
-    <id>15745</id>
-    <title>Cara Bermain "Kerajaan Bulan"</title>
-    <updated>2021-09-09T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810520184294.jpg"><br/><br/>Seorang nelayan perempuan Inazuma yang bernama Kujirai Momiji, selalu bermimpi untuk bisa memancing seekor ikan besar legendaris yang bernama "Lunar Leviathan". <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15745">Cara Bermain "Kerajaan Bulan"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/id/news/detail/15745" rel="alternate"/>
-    <summary>Seorang nelayan perempuan Inazuma yang bernama Kujirai Momiji, selalu bermimpi untuk bisa memancing seekor ikan besar legendaris yang bernama "Lunar Leviathan". </summary>
-    <published>2021-09-09T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>15801</id>
     <title>KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</title>
@@ -926,5 +917,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!</summary>
     <link href="https://genshin.mihoyo.com/id/news/detail/18261" rel="alternate"/>
     <summary>Hari ini, ayo kenalan dengan murid Cloud Retainer — Shenhe!</summary>
     <published>2021-12-30T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18330</id>
+    <title>Pengumuman Update v2.4 "Sekilas Rona di Angkasa"</title>
+    <updated>2021-12-31T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123100464748228.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18330">Pengumuman Update v2.4 "Sekilas Rona di Angkasa"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18330" rel="alternate"/>
+    <summary>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi.</summary>
+    <published>2021-12-31T10:30:00+07:00</published>
   </entry>
 </feed>

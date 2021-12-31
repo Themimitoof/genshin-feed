@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2021-12-31T02:01:27.887709+00:00</updated>
+  <updated>2021-12-31T02:40:15.763938+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -312,15 +312,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15402</id>
-    <title>Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</title>
-    <updated>2021-08-30T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901524849196.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15402">Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15402" rel="alternate"/>
-    <summary/>
-    <published>2021-08-30T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15439</id>
@@ -1144,12 +1135,12 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2021-12-30T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15558</id>
-    <title>[Genshin Impact] - Raiden Shogun: Sấm Sét Tịch Diệt</title>
-    <updated>2021-09-01T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090110200975688.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15558">[Genshin Impact] - Raiden Shogun: Sấm Sét Tịch Diệt</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15558" rel="alternate"/>
-    <published>2021-09-01T12:00:00+07:00</published>
+    <id>18279</id>
+    <title>Thông Báo Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</title>
+    <updated>2021-12-31T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015251910280.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18279">Thông Báo Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18279" rel="alternate"/>
+    <published>2021-12-31T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>15605</id>
@@ -1972,5 +1963,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919204415207.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18191">Chào buổi sáng. Sương mai rất ngọt, bạn có muốn thử một chút không?</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18191" rel="alternate"/>
     <published>2021-12-30T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18279</id>
+    <title>Thông Báo Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</title>
+    <updated>2021-12-31T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015251910280.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18279">Thông Báo Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18279" rel="alternate"/>
+    <published>2021-12-31T10:30:00+07:00</published>
   </entry>
 </feed>

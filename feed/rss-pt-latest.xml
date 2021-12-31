@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:01:15 +0000</lastBuildDate>
-    <item>
-      <title>Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15826</link>
-      <description>Como herdeira da linhagem Sangonomiya, ela está destinada a ter que atender aos desejos do povo da Ilha Watatsumi.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417105676330.png"><br/><br/>Como herdeira da linhagem Sangonomiya, ela está destinada a ter que atender aos desejos do povo da Ilha Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15826">Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15826</guid>
-      <pubDate>Wed, 15 Sep 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:39:48 +0000</lastBuildDate>
     <item>
       <title>Vídeo Comemorativo das Aventura em Teyvat: Carta de Aniversário de Viagens | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15874</link>
@@ -813,6 +805,14 @@ Hoje estaremos apresentando para vocês a discípula da Retentora de Nuvem, Shen
 Hoje estaremos apresentando para vocês a discípula da Retentora de Nuvem, Shenhe.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18188">"Bom dia. O orvalho está muito doce hoje, você gostaria de um pouco?"</a>]]></content:encoded>
       <guid isPermaLink="false">18188</guid>
       <pubDate>Thu, 30 Dec 2021 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anúncio de Atualização da Nova Versão 2.4 "Cores Efêmeras Voadoras"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18285</link>
+      <description>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015463434639.jpg"><br/><br/>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18285">Anúncio de Atualização da Nova Versão 2.4 "Cores Efêmeras Voadoras"</a>]]></content:encoded>
+      <guid isPermaLink="false">18285</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

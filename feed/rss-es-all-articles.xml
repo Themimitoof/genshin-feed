@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 02:39:27 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -355,6 +355,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Aviso de actualización de la nueva versión 2.4 «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18312</link>
+      <description>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018583675010.jpg"><br/><br/>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18312">Aviso de actualización de la nueva versión 2.4 «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">18312</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -428,6 +436,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918565485294.png"><br/><br/>Viajeros \ (^ o ^) / ~Hoy les presentamos a Shenhe, la discípula de Preservadora de Nubes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18179">"Buenos días. El rocío está muy dulce hoy, ¿quieres un poco?"</a>]]></content:encoded>
       <guid isPermaLink="false">18179</guid>
       <pubDate>Thu, 30 Dec 2021 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aviso de actualización de la nueva versión 2.4 «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18312</link>
+      <description>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018583675010.jpg"><br/><br/>Para brindarte una mejor experiencia de juego, los desarrolladores realizarán próximamente el mantenimiento de actualización de la versión. Una vez que se complete el mantenimiento, la versión del juego se actualizará.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18312">Aviso de actualización de la nueva versión 2.4 «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">18312</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

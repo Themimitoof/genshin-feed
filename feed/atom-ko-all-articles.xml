@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2021-12-31T02:01:15.217492+00:00</updated>
+  <updated>2021-12-31T02:39:48.167667+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -421,15 +421,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15420</id>
-    <title>「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</title>
-    <updated>2021-08-30T12:02:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008385048864.jpg"><br/><br/>이벤트 기간에 여행자는 「축월의 미담」의 임무를 완료하거나 「달빛을 찾아서」, 「미식 찾는 선인의 흔적」 도전에 참여해 이벤트 전용 무기 「양손검·진주를 문 해황」과 해당 무기 재련 재료, 지식의 왕관, 원석, 레시피 등의 보상을 획득할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15420">「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15420" rel="alternate"/>
-    <summary>이벤트 기간에 여행자는 「축월의 미담」의 임무를 완료하거나 「달빛을 찾아서」, 「미식 찾는 선인의 흔적」 도전에 참여해 이벤트 전용 무기 「양손검·진주를 문 해황」과 해당 무기 재련 재료, 지식의 왕관, 원석, 레시피 등의 보상을 획득할 수 있습니다</summary>
-    <published>2021-08-30T12:02:00+09:00</published>
   </entry>
   <entry>
     <id>15421</id>
@@ -1352,13 +1343,13 @@
     <published>2021-12-30T12:01:00+09:00</published>
   </entry>
   <entry>
-    <id>15729</id>
-    <title>각인의 축복 웹이벤트</title>
-    <updated>2021-09-07T12:05:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210907/2021090711333317367.jpg"><br/><br/>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15729">각인의 축복 웹이벤트</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15729" rel="alternate"/>
-    <summary>[각인의 축복] 웹이벤트가 오픈되었어~! 여행자, 우리 함께 추억을 만들어보자!</summary>
-    <published>2021-09-07T12:05:00+09:00</published>
+    <id>18307</id>
+    <title>「화려히 수놓인 유년」 2.4 버전 업데이트 공지</title>
+    <updated>2021-12-31T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018323882616.jpg"><br/><br/>2.4 버전 업데이트 공지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18307">「화려히 수놓인 유년」 2.4 버전 업데이트 공지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18307" rel="alternate"/>
+    <summary>2.4 버전 업데이트 공지</summary>
+    <published>2021-12-31T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>15767</id>
@@ -2261,5 +2252,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18210" rel="alternate"/>
     <summary>신학은 어릴 때부터 산속에 은거하며 선인 밑에서 매일 수련을 했다...</summary>
     <published>2021-12-30T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18307</id>
+    <title>「화려히 수놓인 유년」 2.4 버전 업데이트 공지</title>
+    <updated>2021-12-31T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018323882616.jpg"><br/><br/>2.4 버전 업데이트 공지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18307">「화려히 수놓인 유년」 2.4 버전 업데이트 공지</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18307" rel="alternate"/>
+    <summary>2.4 버전 업데이트 공지</summary>
+    <published>2021-12-31T10:30:00+09:00</published>
   </entry>
 </feed>

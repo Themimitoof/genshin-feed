@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:00:48 +0000</lastBuildDate>
-    <item>
-      <title>Paimon's Sneak Peek at Version 2.1 New Events - Phase I</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15353</link>
-      <description>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721082073326.jpg"><br/><br/>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15353">Paimon's Sneak Peek at Version 2.1 New Events - Phase I</a>]]></content:encoded>
-      <guid isPermaLink="false">15353</guid>
-      <pubDate>Mon, 30 Aug 2021 12:10:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:38:51 +0000</lastBuildDate>
     <item>
       <title>Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15468</link>
@@ -894,6 +886,14 @@ But when she listened closely, the mountain seemed lonely and lush, and not even
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918594546960.png"><br/><br/>Today, we'd like to introduce you the disciple of Cloud Retainer — Shenhe!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18181">"Good morning. The dew is very sweet today, would you like some?"</a>]]></content:encoded>
       <guid isPermaLink="false">18181</guid>
       <pubDate>Thu, 30 Dec 2021 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Fleeting Colors in Flight" Version 2.4 Update Notice</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18271</link>
+      <description>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123014151339986.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18271">"Fleeting Colors in Flight" Version 2.4 Update Notice</a>]]></content:encoded>
+      <guid isPermaLink="false">18271</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

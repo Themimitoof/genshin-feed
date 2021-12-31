@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:01:21 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15604</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116495582113.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15604">[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</a>]]></description>
-      <guid isPermaLink="false">15604</guid>
-      <pubDate>Thu, 02 Sep 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:40:01 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact เก็บตกตัวละคร - "Kujou Sara: ปีกปักษาอัสนี"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15639</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919193260674.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18190">"อรุณสวัสดิ์ น้ำค้างหวานมากเลย เอาสักหน่อยมั้ยล่ะ?"</a>]]></description>
       <guid isPermaLink="false">18190</guid>
       <pubDate>Thu, 30 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>แจ้งการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18277</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015205230177.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18277">แจ้งการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</a>]]></description>
+      <guid isPermaLink="false">18277</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

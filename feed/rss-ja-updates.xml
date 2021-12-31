@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:01:10 +0000</lastBuildDate>
-    <item>
-      <title>「原神」×中国四川省「⻩龍」コラボ写真公開！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6112</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201027/2020102716325984816.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6112">「原神」×中国四川省「⻩龍」コラボ写真公開！</a>]]></description>
-      <guid isPermaLink="false">6112</guid>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:39:37 +0000</lastBuildDate>
     <item>
       <title>「映天の章」任務紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6120</link>
@@ -717,6 +710,13 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17983">年末年始期間中のサポートメールについてのご連絡</a>]]></description>
       <guid isPermaLink="false">17983</guid>
       <pubDate>Mon, 27 Dec 2021 12:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.4「流るる星霜、華咲きて」バージョンアップのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18187</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919113432446.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18187">Ver.2.4「流るる星霜、華咲きて」バージョンアップのお知らせ</a>]]></description>
+      <guid isPermaLink="false">18187</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

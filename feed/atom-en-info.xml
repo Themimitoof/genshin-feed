@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2021-12-31T02:00:48.944529+00:00</updated>
+  <updated>2021-12-31T02:38:51.313784+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15353</id>
-    <title>Paimon's Sneak Peek at Version 2.1 New Events - Phase I</title>
-    <updated>2021-08-30T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210827/2021082721082073326.jpg"><br/><br/>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15353">Paimon's Sneak Peek at Version 2.1 New Events - Phase I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15353" rel="alternate"/>
-    <summary>Hello, Travelers~ Version 2.1 is just around the corner, is everyone ready for the new exciting events? Click the picture below for a quick overview~</summary>
-    <published>2021-08-30T12:10:00-04:00</published>
-  </entry>
   <entry>
     <id>15468</id>
     <title>Character Demo - "Raiden Shogun: Judgment of Euthymia" | Genshin Impact</title>
@@ -995,5 +986,14 @@ But when she listened closely, the mountain seemed lonely and lush, and not even
     <link href="https://genshin.mihoyo.com/en/news/detail/18181" rel="alternate"/>
     <summary>Today, we'd like to introduce you the disciple of Cloud Retainer — Shenhe!</summary>
     <published>2021-12-30T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18271</id>
+    <title>"Fleeting Colors in Flight" Version 2.4 Update Notice</title>
+    <updated>2021-12-31T10:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123014151339986.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18271">"Fleeting Colors in Flight" Version 2.4 Update Notice</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18271" rel="alternate"/>
+    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
+    <published>2021-12-31T10:30:00-05:00</published>
   </entry>
 </feed>

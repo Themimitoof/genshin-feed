@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2021-12-31T02:00:54.565673+00:00</updated>
+  <updated>2021-12-31T02:39:04.892332+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -349,14 +349,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15360</id>
-    <title>« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</title>
-    <updated>2021-08-29T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210828/2021082812173625112.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15360">« Atteindre l'éternité tant recherchée par la Shogun toute-puissante, telle est mon unique aspiration. »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15360" rel="alternate"/>
-    <published>2021-08-29T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15361</id>
@@ -1205,13 +1197,12 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <published>2021-12-30T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>15651</id>
-    <title>Genshin Impact - Kujou Sara : La plume éclair</title>
-    <updated>2021-09-02T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090215570288882.jpg"><br/><br/>Une plume de corbeau venant des montagnes qui s'est transformée en éclair pour protéger Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15651">Genshin Impact - Kujou Sara : La plume éclair</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/15651" rel="alternate"/>
-    <summary>Une plume de corbeau venant des montagnes qui s'est transformée en éclair pour protéger Inazuma.</summary>
-    <published>2021-09-02T18:00:00+02:00</published>
+    <id>18329</id>
+    <title>Notification de la mise à jour de version 2.4 « Couleurs éphémères en vol »</title>
+    <updated>2021-12-31T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123023491270324.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18329">Notification de la mise à jour de version 2.4 « Couleurs éphémères en vol »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18329" rel="alternate"/>
+    <published>2021-12-31T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>15659</id>
@@ -2050,5 +2041,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919272841153.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18198">« Bonjour. La rosée est particulièrement sucrée aujourd'hui. Vous en voulez un peu ? »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18198" rel="alternate"/>
     <published>2021-12-30T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18329</id>
+    <title>Notification de la mise à jour de version 2.4 « Couleurs éphémères en vol »</title>
+    <updated>2021-12-31T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123023491270324.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18329">Notification de la mise à jour de version 2.4 « Couleurs éphémères en vol »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18329" rel="alternate"/>
+    <published>2021-12-31T10:30:00+01:00</published>
   </entry>
 </feed>

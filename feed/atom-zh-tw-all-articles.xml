@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2021-12-31T02:00:57.911328+00:00</updated>
+  <updated>2021-12-31T02:39:12.682508+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -322,15 +322,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15406</id>
-    <title>「百人一揆」活動：換隊亂鬥挑戰</title>
-    <updated>2021-08-30T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082914210564288.jpg"><br/><br/>活動期間，參與亂鬥大會「百人一揆」，以兩人一組的編制擊敗對手贏得積分，達到指定積分可獲得活動專屬名片紋飾「慶典·一揆」、原石等獎勵。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15406">「百人一揆」活動：換隊亂鬥挑戰</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15406" rel="alternate"/>
-    <summary>活動期間，參與亂鬥大會「百人一揆」，以兩人一組的編制擊敗對手贏得積分，達到指定積分可獲得活動專屬名片紋飾「慶典·一揆」、原石等獎勵。</summary>
-    <published>2021-08-30T12:00:00+08:00</published>
   </entry>
   <entry>
     <id>15407</id>
@@ -1228,13 +1219,13 @@
     <published>2021-12-30T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>15596</id>
-    <title>拾枝雜談-「亞蘿伊：異界冰輝」｜原神</title>
-    <updated>2021-09-02T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116333855612.jpg"><br/><br/>「名為亞蘿伊的獵人，在原本的世界裡有著諸多的身分…」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15596">拾枝雜談-「亞蘿伊：異界冰輝」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15596" rel="alternate"/>
-    <summary>「名為亞蘿伊的獵人，在原本的世界裡有著諸多的身分…」</summary>
-    <published>2021-09-02T12:00:00+08:00</published>
+    <id>18282</id>
+    <title>「飛彩鐫流年」2.4版本更新通知</title>
+    <updated>2021-12-31T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015291433759.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18282">「飛彩鐫流年」2.4版本更新通知</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18282" rel="alternate"/>
+    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
+    <published>2021-12-31T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>15643</id>
@@ -2130,5 +2121,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18137" rel="alternate"/>
     <summary>申鶴自幼隱居山中，師從仙家，日日靜修。</summary>
     <published>2021-12-30T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18282</id>
+    <title>「飛彩鐫流年」2.4版本更新通知</title>
+    <updated>2021-12-31T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015291433759.jpg"><br/><br/>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18282">「飛彩鐫流年」2.4版本更新通知</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18282" rel="alternate"/>
+    <summary>為了帶給旅行者更好的遊戲體驗，開發團隊將於近期進行版本更新停服維護，維護完成後遊戲將更新為全新版本。</summary>
+    <published>2021-12-31T10:30:00+08:00</published>
   </entry>
 </feed>

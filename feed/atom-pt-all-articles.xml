@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2021-12-31T02:01:18.517415+00:00</updated>
+  <updated>2021-12-31T02:39:53.976081+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -398,15 +398,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>15412</id>
-    <title>Evento de "Reino Lunar": Pesque peixes para obter varas limitadas</title>
-    <updated>2021-08-30T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082916264935848.jpg"><br/><br/>Durante o evento, junte-se à pescadora Kujirai Momiji de Inazuma para capturar o lendário peixe, Leviatã Lunar. Conclua diversas tarefas e desafios do evento para ter a chance de receber recompensas como a Vara de Pesca limitada "Cordas Lunares", Gemas Essenciais, Decorações Misteriosas, entre outras recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15412">Evento de "Reino Lunar": Pesque peixes para obter varas limitadas</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15412" rel="alternate"/>
-    <summary>Durante o evento, junte-se à pescadora Kujirai Momiji de Inazuma para capturar o lendário peixe, Leviatã Lunar. Conclua diversas tarefas e desafios do evento para ter a chance de receber recompensas como a Vara de Pesca limitada "Cordas Lunares", Gemas Essenciais, Decorações Misteriosas, entre outras recompensas.</summary>
-    <published>2021-08-30T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>15413</id>
@@ -1303,13 +1294,13 @@ Hoje estaremos apresentando para vocês a discípula da Retentora de Nuvem, Shen
     <published>2021-12-30T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>15826</id>
-    <title>Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</title>
-    <updated>2021-09-15T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417105676330.png"><br/><br/>Como herdeira da linhagem Sangonomiya, ela está destinada a ter que atender aos desejos do povo da Ilha Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15826">Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15826" rel="alternate"/>
-    <summary>Como herdeira da linhagem Sangonomiya, ela está destinada a ter que atender aos desejos do povo da Ilha Watatsumi.</summary>
-    <published>2021-09-15T12:00:00+01:00</published>
+    <id>18285</id>
+    <title>Anúncio de Atualização da Nova Versão 2.4 "Cores Efêmeras Voadoras"</title>
+    <updated>2021-12-31T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015463434639.jpg"><br/><br/>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18285">Anúncio de Atualização da Nova Versão 2.4 "Cores Efêmeras Voadoras"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18285" rel="alternate"/>
+    <summary>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.</summary>
+    <published>2021-12-31T10:30:00+00:00</published>
   </entry>
   <entry>
     <id>15874</id>
@@ -2208,5 +2199,14 @@ Hoje estaremos apresentando para vocês a discípula da Retentora de Nuvem, Shen
     <summary>Viajantes \ (^ o ^) / ~
 Hoje estaremos apresentando para vocês a discípula da Retentora de Nuvem, Shenhe.</summary>
     <published>2021-12-30T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18285</id>
+    <title>Anúncio de Atualização da Nova Versão 2.4 "Cores Efêmeras Voadoras"</title>
+    <updated>2021-12-31T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015463434639.jpg"><br/><br/>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18285">Anúncio de Atualização da Nova Versão 2.4 "Cores Efêmeras Voadoras"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18285" rel="alternate"/>
+    <summary>Visando estar sempre oferecendo a melhor experiência de jogo para os Viajantes, nossos desenvolvedores estarão realizando uma manutenção de atualizações e após sua conclusão, o jogo será atualizado para uma nova versão.</summary>
+    <published>2021-12-31T10:30:00+00:00</published>
   </entry>
 </feed>

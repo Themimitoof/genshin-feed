@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:01:04 +0000</lastBuildDate>
-    <item>
-      <title>Cara Bermain "Kerajaan Bulan"</title>
-      <link>https://genshin.mihoyo.com/id/news/detail/15745</link>
-      <description>Seorang nelayan perempuan Inazuma yang bernama Kujirai Momiji, selalu bermimpi untuk bisa memancing seekor ikan besar legendaris yang bernama "Lunar Leviathan". </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810520184294.jpg"><br/><br/>Seorang nelayan perempuan Inazuma yang bernama Kujirai Momiji, selalu bermimpi untuk bisa memancing seekor ikan besar legendaris yang bernama "Lunar Leviathan". <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/15745">Cara Bermain "Kerajaan Bulan"</a>]]></content:encoded>
-      <guid isPermaLink="false">15745</guid>
-      <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:39:27 +0000</lastBuildDate>
     <item>
       <title>KONSER GENSHIN 2021 - Melodi dari Perjalanan Tak Berujung (Teaser 2)</title>
       <link>https://genshin.mihoyo.com/id/news/detail/15801</link>
@@ -825,6 +817,14 @@ Yuk, kenalan dengan Jenderal Pulau Watatsumi — Gorou!<br><br>Read more on <a h
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011430755544.png"><br/><br/>Hari ini, ayo kenalan dengan murid Cloud Retainer — Shenhe!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18261">"Selamat pagi. Embun hari ini terasa manis, kamu mau coba?"</a>]]></content:encoded>
       <guid isPermaLink="false">18261</guid>
       <pubDate>Thu, 30 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Pengumuman Update v2.4 "Sekilas Rona di Angkasa"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18330</link>
+      <description>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123100464748228.jpg"><br/><br/>Untuk memberikan pengalaman bermain yang lebih baik, tim kami akan segera melakukan maintenance server untuk update versi.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18330">Pengumuman Update v2.4 "Sekilas Rona di Angkasa"</a>]]></content:encoded>
+      <guid isPermaLink="false">18330</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:01:12 +0000</lastBuildDate>
-    <item>
-      <title>「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15420</link>
-      <description>이벤트 기간에 여행자는 「축월의 미담」의 임무를 완료하거나 「달빛을 찾아서」, 「미식 찾는 선인의 흔적」 도전에 참여해 이벤트 전용 무기 「양손검·진주를 문 해황」과 해당 무기 재련 재료, 지식의 왕관, 원석, 레시피 등의 보상을 획득할 수 있습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210830/2021083008385048864.jpg"><br/><br/>이벤트 기간에 여행자는 「축월의 미담」의 임무를 완료하거나 「달빛을 찾아서」, 「미식 찾는 선인의 흔적」 도전에 참여해 이벤트 전용 무기 「양손검·진주를 문 해황」과 해당 무기 재련 재료, 지식의 왕관, 원석, 레시피 등의 보상을 획득할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15420">「달빛 속 광경」 이벤트: 이벤트에 참여하고 전용 무기 「양손검·진주를 문 해황」 획득!</a>]]></content:encoded>
-      <guid isPermaLink="false">15420</guid>
-      <pubDate>Mon, 30 Aug 2021 12:02:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:39:42 +0000</lastBuildDate>
     <item>
       <title>「백 명의 봉기」 이벤트: 파티 변경 난투 도전</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15421</link>
@@ -834,6 +826,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919424397928.jpg"><br/><br/>신학은 어릴 때부터 산속에 은거하며 선인 밑에서 매일 수련을 했다...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18210"><원신> 신학 캐릭터 PV-「외로운 꿈」</a>]]></content:encoded>
       <guid isPermaLink="false">18210</guid>
       <pubDate>Thu, 30 Dec 2021 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「화려히 수놓인 유년」 2.4 버전 업데이트 공지</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18307</link>
+      <description>2.4 버전 업데이트 공지</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018323882616.jpg"><br/><br/>2.4 버전 업데이트 공지<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18307">「화려히 수놓인 유년」 2.4 버전 업데이트 공지</a>]]></content:encoded>
+      <guid isPermaLink="false">18307</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

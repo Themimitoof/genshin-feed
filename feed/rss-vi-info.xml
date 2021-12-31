@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 31 Dec 2021 02:01:25 +0000</lastBuildDate>
-    <item>
-      <title>Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15402</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210829/2021082901524849196.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15402">Thông báo cập nhật phiên bản 2.1 "Trăng Thu Soi Sáng, Ngắm Nhìn Thế Gian"</a>]]></description>
-      <guid isPermaLink="false">15402</guid>
-      <pubDate>Mon, 30 Aug 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 02:40:11 +0000</lastBuildDate>
     <item>
       <title>Sự kiện Hyakunin Ikki: Khiêu chiến đổi đội loạn đấu</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/15439</link>
@@ -713,6 +706,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122919204415207.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18191">Chào buổi sáng. Sương mai rất ngọt, bạn có muốn thử một chút không?</a>]]></description>
       <guid isPermaLink="false">18191</guid>
       <pubDate>Thu, 30 Dec 2021 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Thông Báo Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18279</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123015251910280.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18279">Thông Báo Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</a>]]></description>
+      <guid isPermaLink="false">18279</guid>
+      <pubDate>Fri, 31 Dec 2021 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
