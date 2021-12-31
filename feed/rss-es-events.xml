@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 05:12:50 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -197,6 +197,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914263450404.jpg"><br/><br/>Querido/a viajero/a: Participa compartiendo el evento e ilumina los Alpes. ¡Tendrás la oportunidad de ganar un iPhone, un iPad y paquetes de merchandising de personajes!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18106">Participa compartiendo el evento e ilumina los Alpes</a>]]></content:encoded>
       <guid isPermaLink="false">18106</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>¡El evento de la página web «Una grulla sobre las nubes» ya se encuentra disponible!</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18313</link>
+      <description>La bruma se levanta y el pergamino se despliega.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123019190630530.png"><br/><br/>La bruma se levanta y el pergamino se despliega.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18313">¡El evento de la página web «Una grulla sobre las nubes» ya se encuentra disponible!</a>]]></content:encoded>
+      <guid isPermaLink="false">18313</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

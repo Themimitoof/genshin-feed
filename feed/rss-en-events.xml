@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 05:12:23 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -211,6 +211,16 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915263182024.jpg"><br/><br/>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18111">Participate in sharing the event to help light up the Alps</a>]]></content:encoded>
       <guid isPermaLink="false">18111</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"The Crane in the Clouds" Web Event Has Begun!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18300</link>
+      <description>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018070016334.png"><br/><br/>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18300">"The Crane in the Clouds" Web Event Has Begun!</a>]]></content:encoded>
+      <guid isPermaLink="false">18300</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

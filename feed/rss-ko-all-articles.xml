@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 05:13:13 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -201,6 +201,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918020823653.jpg"><br/><br/>공유 이벤트에 참여해 알프스산맥을 밝히고 iPhone, iPad 및 캐릭터 굿즈 패키지를 획득하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18150">공유 이벤트에 참여해 알프스 밝히기</a>]]></content:encoded>
       <guid isPermaLink="false">18150</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「구름 속 학의 그림자」 웹이벤트 오픈!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18335</link>
+      <description>「구름 속 학의 그림자」&lt;원신&gt; 신규 캐릭터: 신학 웹이벤트 정식 출시!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123109381346145.png"><br/><br/>「구름 속 학의 그림자」<원신> 신규 캐릭터: 신학 웹이벤트 정식 출시!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18335">「구름 속 학의 그림자」 웹이벤트 오픈!</a>]]></content:encoded>
+      <guid isPermaLink="false">18335</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0900</pubDate>
     </item>
     <item>
       <title>프롤로그 PV: 바람 잡는 이방인</title>
@@ -1187,14 +1195,6 @@
       <pubDate>Fri, 31 Dec 2021 12:10:00 +0900</pubDate>
     </item>
     <item>
-      <title>&lt;원신&gt; 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16071</link>
-      <description>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092010511571258.png"><br/><br/>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16071"><원신> 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</a>]]></content:encoded>
-      <guid isPermaLink="false">16071</guid>
-      <pubDate>Tue, 21 Sep 2021 18:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>&lt;원신&gt; OST - &lt;고요한 무망의 국가  Realm of Tranquil Eternity&gt;</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16075</link>
       <description>〈원신〉 이나즈마 편 OST 〈고요한 무망의 국가 Realm of Tranquil Eternity〉 출시. </description>
@@ -1990,6 +1990,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123022204865855.jpg"><br/><br/>해등절이 곧 다가오는데 올해에는 어떤 다양한 이벤트가 준비되어 있는지 우리 함께 확인해 보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18325">「화려히 수놓인 유년」 2.4 버전 이벤트 알림</a>]]></content:encoded>
       <guid isPermaLink="false">18325</guid>
       <pubDate>Fri, 31 Dec 2021 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「구름 속 학의 그림자」 웹이벤트 오픈!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18335</link>
+      <description>「구름 속 학의 그림자」&lt;원신&gt; 신규 캐릭터: 신학 웹이벤트 정식 출시!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123109381346145.png"><br/><br/>「구름 속 학의 그림자」<원신> 신규 캐릭터: 신학 웹이벤트 정식 출시!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18335">「구름 속 학의 그림자」 웹이벤트 오픈!</a>]]></content:encoded>
+      <guid isPermaLink="false">18335</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

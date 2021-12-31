@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 05:12:31 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -170,6 +170,13 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916433113505.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18145">Participez et partagez l'événement pour aider à illuminer les Alpes</a>]]></description>
       <guid isPermaLink="false">18145</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Grue dans les nuages » est désormais disponible</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18332</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123101572226668.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18332">L'événement web « Grue dans les nuages » est désormais disponible</a>]]></description>
+      <guid isPermaLink="false">18332</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0100</pubDate>
     </item>
     <item>
       <title>« Genshin Impact » : Venez découvrir l'univers de Teyvat avec Amber !</title>
@@ -1033,13 +1040,6 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Fri, 31 Dec 2021 12:10:00 +0100</pubDate>
     </item>
     <item>
-      <title>Paimon vous présente un aperçu des événements de la version 2.1 - Partie II</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15943</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091715591426241.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15943">Paimon vous présente un aperçu des événements de la version 2.1 - Partie II</a>]]></description>
-      <guid isPermaLink="false">15943</guid>
-      <pubDate>Sun, 19 Sep 2021 12:10:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16049</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912063243676.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16049">Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</a>]]></description>
@@ -1757,6 +1757,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123103012689402.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18334">Paimon vous présente un aperçu des nouveaux événements de la version 2.4</a>]]></description>
       <guid isPermaLink="false">18334</guid>
       <pubDate>Fri, 31 Dec 2021 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Grue dans les nuages » est désormais disponible</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18332</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123101572226668.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18332">L'événement web « Grue dans les nuages » est désormais disponible</a>]]></description>
+      <guid isPermaLink="false">18332</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

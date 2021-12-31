@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:52 +0000</lastBuildDate>
-    <item>
-      <title>Hướng Dẫn Nhiệm Vụ Truyền Thuyết "Chương Rồng Ngủ"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15999</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817190996981.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15999">Hướng Dẫn Nhiệm Vụ Truyền Thuyết "Chương Rồng Ngủ"</a>]]></description>
-      <guid isPermaLink="false">15999</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 05:13:33 +0000</lastBuildDate>
     <item>
       <title>Giới thiệu nhân vật trong Genshin Impact - Sangonomiya Kokomi: Ngàn Sóng Dưới Trăng</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/16055</link>
@@ -714,6 +707,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018445930450.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18308">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.4</a>]]></description>
       <guid isPermaLink="false">18308</guid>
       <pubDate>Fri, 31 Dec 2021 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Sự kiện web "Bóng Hạc Trong Mây" đã mở!</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18296</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123017581167836.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18296">Sự kiện web "Bóng Hạc Trong Mây" đã mở!</a>]]></description>
+      <guid isPermaLink="false">18296</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

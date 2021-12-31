@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:01 +0000</lastBuildDate>
-    <item>
-      <title>Anniversary Web Event "An Unforgettable Journey" Now Online: Watch your own anniversary theater to obtain Primogems and other rewards</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16230</link>
-      <description>365 days and nights have passed, and the curtain is about to rise on the Anniversary Theater dedicated to you...
-Travelers can watch their personalized Anniversary Theater on the event page. After watching during the event period, Travelers will receive a viewing gift.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092810593223638.jpg"><br/><br/>365 days and nights have passed, and the curtain is about to rise on the Anniversary Theater dedicated to you...
-Travelers can watch their personalized Anniversary Theater on the event page. After watching during the event period, Travelers will receive a viewing gift.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16230">Anniversary Web Event "An Unforgettable Journey" Now Online: Watch your own anniversary theater to obtain Primogems and other rewards</a>]]></content:encoded>
-      <guid isPermaLink="false">16230</guid>
-      <pubDate>Tue, 28 Sep 2021 11:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 05:12:17 +0000</lastBuildDate>
     <item>
       <title>Promotional Video - Together on a Long Journey | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16215</link>
@@ -871,6 +861,16 @@ Ningguang's reward raises the curtain on the competition, while dark undercurren
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018343975477.jpg"><br/><br/>Hello, Travelers~ Lantern Rite is just around the corner, let's take a look at the exciting events for this year's Lantern Rite~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18305">Paimon's Sneak Peek at Version 2.4 New Events - Phase I</a>]]></content:encoded>
       <guid isPermaLink="false">18305</guid>
       <pubDate>Fri, 31 Dec 2021 12:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"The Crane in the Clouds" Web Event Has Begun!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18300</link>
+      <description>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018070016334.png"><br/><br/>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18300">"The Crane in the Clouds" Web Event Has Begun!</a>]]></content:encoded>
+      <guid isPermaLink="false">18300</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

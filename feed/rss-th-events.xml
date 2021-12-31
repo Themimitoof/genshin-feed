@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 05:13:31 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -179,6 +179,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914424021463.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18108">เข้าร่วมกิจกรรมแชร์ เพื่อช่วยให้เทือกเขาแอลป์สว่างไสว</a>]]></description>
       <guid isPermaLink="false">18108</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>กิจกรรมบนเว็บไซต์ "นกพิสุทธิ์ในม่านเมฆา" ได้เริ่มขึ้นแล้ว!</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18297</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123017593326292.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18297">กิจกรรมบนเว็บไซต์ "นกพิสุทธิ์ในม่านเมฆา" ได้เริ่มขึ้นแล้ว!</a>]]></description>
+      <guid isPermaLink="false">18297</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

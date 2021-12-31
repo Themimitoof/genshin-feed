@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:43 +0000</lastBuildDate>
-    <item>
-      <title>Realm of Tranquil Eternity | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16091</link>
-      <description>Вышел OST Genshin Impact Инадзумы «Realm of Tranquil Eternity»! </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018292179487.jpg"><br/><br/>Вышел OST Genshin Impact Инадзумы «Realm of Tranquil Eternity»! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16091">Realm of Tranquil Eternity | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16091</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Dec 2021 05:13:20 +0000</lastBuildDate>
     <item>
       <title>Размышления Путешественников | Запись OST Инадзумы</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16139</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018491337463.jpg"><br/><br/>Привет, Путешественники! Вот-вот начнётся Праздник морских фонарей.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18311">Обзор событий версии 2.4</a>]]></content:encoded>
       <guid isPermaLink="false">18311</guid>
       <pubDate>Fri, 31 Dec 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Браузерное событие «Журавль в облаках» началось!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18301</link>
+      <description>Туман рассеивается, и свиток разворачивается.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018171283397.png"><br/><br/>Туман рассеивается, и свиток разворачивается.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18301">Браузерное событие «Журавль в облаках» началось!</a>]]></content:encoded>
+      <guid isPermaLink="false">18301</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

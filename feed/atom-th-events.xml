@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - events</title>
-  <updated>2021-12-31T04:14:51.409179+00:00</updated>
+  <updated>2021-12-31T05:13:31.938887+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -211,5 +211,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122914424021463.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18108">เข้าร่วมกิจกรรมแชร์ เพื่อช่วยให้เทือกเขาแอลป์สว่างไสว</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18108" rel="alternate"/>
     <published>2021-12-29T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18297</id>
+    <title>กิจกรรมบนเว็บไซต์ "นกพิสุทธิ์ในม่านเมฆา" ได้เริ่มขึ้นแล้ว!</title>
+    <updated>2021-12-31T12:15:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123017593326292.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18297">กิจกรรมบนเว็บไซต์ "นกพิสุทธิ์ในม่านเมฆา" ได้เริ่มขึ้นแล้ว!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18297" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:15:00+07:00</published>
   </entry>
 </feed>

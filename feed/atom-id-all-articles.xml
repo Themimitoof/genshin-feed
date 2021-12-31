@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2021-12-31T04:14:30.190397+00:00</updated>
+  <updated>2021-12-31T05:12:59.326197+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -249,6 +249,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18104" rel="alternate"/>
     <summary>Ikuti event bagikan postingan, bantu nyalakan Gunung Alpen, dan dapatkan iPhone, iPad dan bundle merchandise Karakter!</summary>
     <published>2021-12-29T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18331</id>
+    <title>Event Web "Siluet Bangau dalam Awan" Telah Hadir!</title>
+    <updated>2021-12-31T12:15:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123101403812859.png"><br/><br/>Kabut berawan mulai datang, lukisan gulung pun mulai terbuka.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18331">Event Web "Siluet Bangau dalam Awan" Telah Hadir!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18331" rel="alternate"/>
+    <summary>Kabut berawan mulai datang, lukisan gulung pun mulai terbuka.</summary>
+    <published>2021-12-31T12:15:00+07:00</published>
   </entry>
   <entry>
     <id>735</id>
@@ -544,5 +553,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18333" rel="alternate"/>
     <summary>Halo Traveler semua~ Lantern Rite akan segera tiba, yuk kita lihat bersama event menarik apa yang diadakan pada Lantern Rite tahun ini~</summary>
     <published>2021-12-31T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18331</id>
+    <title>Event Web "Siluet Bangau dalam Awan" Telah Hadir!</title>
+    <updated>2021-12-31T12:15:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123101403812859.png"><br/><br/>Kabut berawan mulai datang, lukisan gulung pun mulai terbuka.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18331">Event Web "Siluet Bangau dalam Awan" Telah Hadir!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18331" rel="alternate"/>
+    <summary>Kabut berawan mulai datang, lukisan gulung pun mulai terbuka.</summary>
+    <published>2021-12-31T12:15:00+07:00</published>
   </entry>
 </feed>

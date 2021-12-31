@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2021-12-31T04:14:47.425334+00:00</updated>
+  <updated>2021-12-31T05:13:25.265803+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -229,5 +229,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18109" rel="alternate"/>
     <summary>Расскажите о событии, пусть Альпы засияют!</summary>
     <published>2021-12-29T19:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18301</id>
+    <title>Браузерное событие «Журавль в облаках» началось!</title>
+    <updated>2021-12-31T12:15:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018171283397.png"><br/><br/>Туман рассеивается, и свиток разворачивается.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18301">Браузерное событие «Журавль в облаках» началось!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18301" rel="alternate"/>
+    <summary>Туман рассеивается, и свиток разворачивается.</summary>
+    <published>2021-12-31T12:15:00+03:00</published>
   </entry>
 </feed>

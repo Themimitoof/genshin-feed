@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 31 Dec 2021 04:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Dec 2021 05:13:18 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -235,6 +235,16 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122912053563446.jpg"><br/><br/>Participe e compartilhe o evento, ajude a iluminar os Alpes para ter a chance de concorrer a um iPhone, iPad ou a um pacote de produtos de fãs dos personagens de Genshin Impact!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18098">Participe e compartilhe o evento, ajude a iluminar os Alpes</a>]]></content:encoded>
       <guid isPermaLink="false">18098</guid>
       <pubDate>Wed, 29 Dec 2021 19:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>O Evento Web "A Garça sobre as Nuvens" está disponível!</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18317</link>
+      <description>A névoa e as nuvens ascendem, e o pergaminho se abre.
+"A Garça sobre as Nuvens" - O Evento Web da Nova Personagem "Shenhe" de Genshin Impact está disponível agora!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123019402826251.png"><br/><br/>A névoa e as nuvens ascendem, e o pergaminho se abre.
+"A Garça sobre as Nuvens" - O Evento Web da Nova Personagem "Shenhe" de Genshin Impact está disponível agora!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18317">O Evento Web "A Garça sobre as Nuvens" está disponível!</a>]]></content:encoded>
+      <guid isPermaLink="false">18317</guid>
+      <pubDate>Fri, 31 Dec 2021 12:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

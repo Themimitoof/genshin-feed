@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2021-12-31T04:14:20.409375+00:00</updated>
+  <updated>2021-12-31T05:12:45.655570+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -166,6 +166,15 @@ nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone
     <summary>Lieber Reisender,
 nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone, ein iPad oder Figuren-Fan-Artikel-Pakete zu gewinnen!</summary>
     <published>2021-12-30T11:16:29+01:00</published>
+  </entry>
+  <entry>
+    <id>18320</id>
+    <title>Die Webaktion „Der Kranich in den Wolken“ jetzt verfügbar!</title>
+    <updated>2021-12-31T12:15:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123020280243517.png"><br/><br/>Die Wolken und der Nebel sammeln sich, während die Schriftrolle aufrollt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18320">Die Webaktion „Der Kranich in den Wolken“ jetzt verfügbar!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18320" rel="alternate"/>
+    <summary>Die Wolken und der Nebel sammeln sich, während die Schriftrolle aufrollt.</summary>
+    <published>2021-12-31T12:15:00+01:00</published>
   </entry>
   <entry>
     <id>736</id>
@@ -1278,15 +1287,6 @@ Ningguangs Belohnung bringt den Wettbewerb in Schwung, während finstere Bedrohu
     <published>2021-12-31T12:10:00+01:00</published>
   </entry>
   <entry>
-    <id>15986</id>
-    <title>Erläuterungen zum Legendenauftrag „Dracaena Somnolenta“</title>
-    <updated>2021-09-19T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816575046616.jpg"><br/><br/>Sobald du die erforderliche Abenteuerstufe erreicht und den jeweiligen Auftrag davor ausgeführt hast, kannst du „Legendenschlüssel“ verbrauchen, um Sangonomiya Kokomis Legendenauftrag „Dracaena Somnolenta“ zu aktivieren.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15986">Erläuterungen zum Legendenauftrag „Dracaena Somnolenta“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15986" rel="alternate"/>
-    <summary>Sobald du die erforderliche Abenteuerstufe erreicht und den jeweiligen Auftrag davor ausgeführt hast, kannst du „Legendenschlüssel“ verbrauchen, um Sangonomiya Kokomis Legendenauftrag „Dracaena Somnolenta“ zu aktivieren.</summary>
-    <published>2021-09-19T12:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>16061</id>
     <title>Figurenvorführung bei Genshin Impact – Sangonomiya Kokomi: Tausend Wellen unter dem Mond</title>
     <updated>2021-09-20T12:00:00+02:00</updated>
@@ -2235,5 +2235,14 @@ Ningguangs Belohnung bringt den Wettbewerb in Schwung, während finstere Bedrohu
     <link href="https://genshin.mihoyo.com/de/news/detail/18324" rel="alternate"/>
     <summary>Hallo, Reisende! Das Laternenritual steht bevor. Sehen wir uns doch mal an, welche tollen Aktionen es dazu geben wird!</summary>
     <published>2021-12-31T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18320</id>
+    <title>Die Webaktion „Der Kranich in den Wolken“ jetzt verfügbar!</title>
+    <updated>2021-12-31T12:15:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123020280243517.png"><br/><br/>Die Wolken und der Nebel sammeln sich, während die Schriftrolle aufrollt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18320">Die Webaktion „Der Kranich in den Wolken“ jetzt verfügbar!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18320" rel="alternate"/>
+    <summary>Die Wolken und der Nebel sammeln sich, während die Schriftrolle aufrollt.</summary>
+    <published>2021-12-31T12:15:00+01:00</published>
   </entry>
 </feed>

@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - latest</title>
-  <updated>2021-12-31T04:14:49.004957+00:00</updated>
+  <updated>2021-12-31T05:13:26.770570+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/th/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in th</subtitle>
-  <entry>
-    <id>16053</id>
-    <title>Genshin Impact ตัวอย่างตัวละคร - "Sangonomiya Kokomi - เกลียวคลื่นล้อจันทร์"</title>
-    <updated>2021-09-20T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912455836092.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16053">Genshin Impact ตัวอย่างตัวละคร - "Sangonomiya Kokomi - เกลียวคลื่นล้อจันทร์"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16053" rel="alternate"/>
-    <published>2021-09-20T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>15974</id>
     <title>Genshin Impact ตัวอย่างสิทธิประโยชน์กิจกรรมครบรอบคอมมูนิตี้ 1 ปี</title>
@@ -840,5 +832,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018460652152.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18310">Paimon จะพาคุณไปดูกิจกรรมใหม่เวอร์ชัน 2.4</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18310" rel="alternate"/>
     <published>2021-12-31T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18297</id>
+    <title>กิจกรรมบนเว็บไซต์ "นกพิสุทธิ์ในม่านเมฆา" ได้เริ่มขึ้นแล้ว!</title>
+    <updated>2021-12-31T12:15:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123017593326292.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18297">กิจกรรมบนเว็บไซต์ "นกพิสุทธิ์ในม่านเมฆา" ได้เริ่มขึ้นแล้ว!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18297" rel="alternate"/>
+    <summary/>
+    <published>2021-12-31T12:15:00+07:00</published>
   </entry>
 </feed>

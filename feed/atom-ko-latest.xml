@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2021-12-31T04:14:34.411919+00:00</updated>
+  <updated>2021-12-31T05:13:06.783129+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16071</id>
-    <title>&lt;원신&gt; 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</title>
-    <updated>2021-09-21T18:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092010511571258.png"><br/><br/>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16071"><원신> 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16071" rel="alternate"/>
-    <summary>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.</summary>
-    <published>2021-09-21T18:00:00+09:00</published>
-  </entry>
   <entry>
     <id>16075</id>
     <title>&lt;원신&gt; OST - &lt;고요한 무망의 국가  Realm of Tranquil Eternity&gt;</title>
@@ -917,5 +908,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18325" rel="alternate"/>
     <summary>해등절이 곧 다가오는데 올해에는 어떤 다양한 이벤트가 준비되어 있는지 우리 함께 확인해 보자~</summary>
     <published>2021-12-31T12:10:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18335</id>
+    <title>「구름 속 학의 그림자」 웹이벤트 오픈!</title>
+    <updated>2021-12-31T12:15:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123109381346145.png"><br/><br/>「구름 속 학의 그림자」<원신> 신규 캐릭터: 신학 웹이벤트 정식 출시!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18335">「구름 속 학의 그림자」 웹이벤트 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18335" rel="alternate"/>
+    <summary>「구름 속 학의 그림자」&lt;원신&gt; 신규 캐릭터: 신학 웹이벤트 정식 출시!</summary>
+    <published>2021-12-31T12:15:00+09:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - events</title>
-  <updated>2021-12-31T04:14:23.746404+00:00</updated>
+  <updated>2021-12-31T05:12:50.196548+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -221,5 +221,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18106" rel="alternate"/>
     <summary>Querido/a viajero/a: Participa compartiendo el evento e ilumina los Alpes. ¡Tendrás la oportunidad de ganar un iPhone, un iPad y paquetes de merchandising de personajes!</summary>
     <published>2021-12-29T19:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18313</id>
+    <title>¡El evento de la página web «Una grulla sobre las nubes» ya se encuentra disponible!</title>
+    <updated>2021-12-31T12:15:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123019190630530.png"><br/><br/>La bruma se levanta y el pergamino se despliega.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18313">¡El evento de la página web «Una grulla sobre las nubes» ya se encuentra disponible!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18313" rel="alternate"/>
+    <summary>La bruma se levanta y el pergamino se despliega.</summary>
+    <published>2021-12-31T12:15:00+01:00</published>
   </entry>
 </feed>

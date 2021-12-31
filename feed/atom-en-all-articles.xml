@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2021-12-31T04:14:07.092504+00:00</updated>
+  <updated>2021-12-31T05:12:24.871147+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -237,6 +237,17 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/18111" rel="alternate"/>
     <summary>Participate in sharing the event to help light up the Alps, and get a chance to win iPhone, iPad, and character merchandise gift packs!</summary>
     <published>2021-12-29T19:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18300</id>
+    <title>"The Crane in the Clouds" Web Event Has Begun!</title>
+    <updated>2021-12-31T12:15:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018070016334.png"><br/><br/>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18300">"The Crane in the Clouds" Web Event Has Begun!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18300" rel="alternate"/>
+    <summary>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.</summary>
+    <published>2021-12-31T12:15:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -1387,17 +1398,6 @@ Ningguang's reward raises the curtain on the competition, while dark undercurren
     <published>2021-12-31T12:10:00-05:00</published>
   </entry>
   <entry>
-    <id>16230</id>
-    <title>Anniversary Web Event "An Unforgettable Journey" Now Online: Watch your own anniversary theater to obtain Primogems and other rewards</title>
-    <updated>2021-09-28T11:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092810593223638.jpg"><br/><br/>365 days and nights have passed, and the curtain is about to rise on the Anniversary Theater dedicated to you...
-Travelers can watch their personalized Anniversary Theater on the event page. After watching during the event period, Travelers will receive a viewing gift.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16230">Anniversary Web Event "An Unforgettable Journey" Now Online: Watch your own anniversary theater to obtain Primogems and other rewards</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16230" rel="alternate"/>
-    <summary>365 days and nights have passed, and the curtain is about to rise on the Anniversary Theater dedicated to you...
-Travelers can watch their personalized Anniversary Theater on the event page. After watching during the event period, Travelers will receive a viewing gift.</summary>
-    <published>2021-09-28T11:30:00-04:00</published>
-  </entry>
-  <entry>
     <id>16215</id>
     <title>Promotional Video - Together on a Long Journey | Genshin Impact</title>
     <updated>2021-09-28T12:00:00-04:00</updated>
@@ -2350,5 +2350,16 @@ Ningguang's reward raises the curtain on the competition, while dark undercurren
     <link href="https://genshin.mihoyo.com/en/news/detail/18305" rel="alternate"/>
     <summary>Hello, Travelers~ Lantern Rite is just around the corner, let's take a look at the exciting events for this year's Lantern Rite~</summary>
     <published>2021-12-31T12:10:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18300</id>
+    <title>"The Crane in the Clouds" Web Event Has Begun!</title>
+    <updated>2021-12-31T12:15:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018070016334.png"><br/><br/>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18300">"The Crane in the Clouds" Web Event Has Begun!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18300" rel="alternate"/>
+    <summary>The clouds and mists rise and the scroll unfolds.
+"The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.</summary>
+    <published>2021-12-31T12:15:00-05:00</published>
   </entry>
 </feed>
