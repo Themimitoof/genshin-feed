@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2022-01-02T03:12:48.035810+00:00</updated>
+  <updated>2022-01-02T04:13:48.865210+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15944</id>
-    <title>派蒙帶你一圖流看活動——2.1版本活動快報第二期</title>
-    <updated>2021-09-19T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716141940624.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15944">派蒙帶你一圖流看活動——2.1版本活動快報第二期</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15944" rel="alternate"/>
-    <published>2021-09-19T12:10:00+08:00</published>
-  </entry>
-  <entry>
-    <id>16045</id>
-    <title>角色展示-「珊瑚宮心海：千濤觸月」｜原神</title>
-    <updated>2021-09-20T12:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091911331888470.png"><br/><br/>天時地利不可多得，人和同心更是是彌足珍貴。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16045">角色展示-「珊瑚宮心海：千濤觸月」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16045" rel="alternate"/>
-    <summary>天時地利不可多得，人和同心更是是彌足珍貴。</summary>
-    <published>2021-09-20T12:00:00+08:00</published>
-  </entry>
   <entry>
     <id>15979</id>
     <title>《原神》一週年社群活動福利預告</title>
@@ -911,5 +894,23 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018455816053.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18309">派蒙帶你一圖流看活動——2.4版本活動快報</a>]]></content>
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18309" rel="alternate"/>
     <published>2021-12-31T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18353</id>
+    <title>「雲嬋娟來花嬋娟，風流盡在山水間。」</title>
+    <updated>2022-01-02T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123115470210231.jpg"><br/><br/>旅行者們好呀~今天為大家介紹的是雲翰社如今的當家兼頂樑柱——雲堇。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18353">「雲嬋娟來花嬋娟，風流盡在山水間。」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18353" rel="alternate"/>
+    <summary>旅行者們好呀~今天為大家介紹的是雲翰社如今的當家兼頂樑柱——雲堇。</summary>
+    <published>2022-01-02T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18378</id>
+    <title>角色展示-「雲堇：虹章書真意」｜原神</title>
+    <updated>2022-01-02T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123119165528565.jpg"><br/><br/>常聽戲的璃月人都知道，除了傳統的神仙戲之外，雲先生創作的那些唱盡世間百態的新戲也是一絕。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18378">角色展示-「雲堇：虹章書真意」｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18378" rel="alternate"/>
+    <summary>常聽戲的璃月人都知道，除了傳統的神仙戲之外，雲先生創作的那些唱盡世間百態的新戲也是一絕。</summary>
+    <published>2022-01-02T12:00:00+08:00</published>
   </entry>
 </feed>

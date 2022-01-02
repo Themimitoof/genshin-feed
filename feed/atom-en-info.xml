@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2022-01-02T03:12:40.400921+00:00</updated>
+  <updated>2022-01-02T04:13:35.927290+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15785</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</title>
-    <updated>2021-09-10T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017340139230.png"><br/><br/>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15785">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 2)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15785" rel="alternate"/>
-    <summary>Genshin Impact, in collaboration with a South Korean pop music group, teamed up to deliver a one-of-a-kind performance in this teaser for the online concert.</summary>
-    <published>2021-09-10T18:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>15814</id>
-    <title>"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</title>
-    <updated>2021-09-15T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410361294116.jpg"><br/><br/>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15814">"To survive hardship, you must prepare for hardship." — "Pearl of Wisdom" Sangonomiya Kokomi</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15814" rel="alternate"/>
-    <summary>Hello Travelers~ Today, we'd like to introduce to you the Divine Priestess of Watatsumi Island — Sangonomiya Kokomi.</summary>
-    <published>2021-09-15T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15824</id>
     <title>Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</title>
@@ -983,5 +965,25 @@ Ningguang's reward raises the curtain on the competition, while dark undercurren
     <link href="https://genshin.mihoyo.com/en/news/detail/18305" rel="alternate"/>
     <summary>Hello, Travelers~ Lantern Rite is just around the corner, let's take a look at the exciting events for this year's Lantern Rite~</summary>
     <published>2021-12-31T12:10:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18385</id>
+    <title>Character Demo - "Yun Jin: The True Meaning of Opera" | Genshin Impact</title>
+    <updated>2022-01-02T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123120015174364.jpg"><br/><br/>The people of Liyue who frequent the opera know that besides opera that focuses on the supernatural,<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18385">Character Demo - "Yun Jin: The True Meaning of Opera" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18385" rel="alternate"/>
+    <summary>The people of Liyue who frequent the opera know that besides opera that focuses on the supernatural,</summary>
+    <published>2022-01-02T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18397</id>
+    <title>"How gently do the clouds and flowers sway, as dancing winds meander through the vales."</title>
+    <updated>2022-01-02T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220101/2022010120035734284.jpg"><br/><br/>Today, we'd like to introduce you to the director and mainstay of the Yun-Han Opera Troupe — Yun Jin!
+While one can always get delicious delicacies or good storytelling as long as one knows where to look, Yun Jin's performance does not just await one there.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18397">"How gently do the clouds and flowers sway, as dancing winds meander through the vales."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18397" rel="alternate"/>
+    <summary>Today, we'd like to introduce you to the director and mainstay of the Yun-Han Opera Troupe — Yun Jin!
+While one can always get delicious delicacies or good storytelling as long as one knows where to look, Yun Jin's performance does not just await one there.</summary>
+    <published>2022-01-02T12:00:00-05:00</published>
   </entry>
 </feed>

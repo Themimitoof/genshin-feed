@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 02 Jan 2022 03:12:43 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16049</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912063243676.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16049">Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</a>]]></description>
-      <guid isPermaLink="false">16049</guid>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16042</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></description>
-      <guid isPermaLink="false">16042</guid>
-      <pubDate>Mon, 20 Sep 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jan 2022 04:13:41 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16029</link>
@@ -734,6 +720,20 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123101572226668.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18332">L'événement web « Grue dans les nuages » est désormais disponible</a>]]></description>
       <guid isPermaLink="false">18332</guid>
       <pubDate>Fri, 31 Dec 2021 12:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Les nuages et les fleurs se balancent avec légèreté, tandis que les vents dansants serpentent la vallée. »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18354</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123116250868971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18354">« Les nuages et les fleurs se balancent avec légèreté, tandis que les vents dansants serpentent la vallée. »</a>]]></description>
+      <guid isPermaLink="false">18354</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Démo personnage : « Yun Jin : La signification de l'opéra »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18373</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118554455669.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18373">Genshin Impact - Démo personnage : « Yun Jin : La signification de l'opéra »</a>]]></description>
+      <guid isPermaLink="false">18373</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

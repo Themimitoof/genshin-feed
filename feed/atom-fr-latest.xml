@@ -2,30 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2022-01-02T03:12:43.631173+00:00</updated>
+  <updated>2022-01-02T04:13:41.585721+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>16049</id>
-    <title>Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</title>
-    <updated>2021-09-20T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912063243676.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16049">Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16049" rel="alternate"/>
-    <published>2021-09-20T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>16042</id>
-    <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
-    <updated>2021-09-20T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16042" rel="alternate"/>
-    <summary/>
-    <published>2021-09-20T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16029</id>
     <title>Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</title>
@@ -852,5 +835,21 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123101572226668.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18332">L'événement web « Grue dans les nuages » est désormais disponible</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18332" rel="alternate"/>
     <published>2021-12-31T12:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18354</id>
+    <title>« Les nuages et les fleurs se balancent avec légèreté, tandis que les vents dansants serpentent la vallée. »</title>
+    <updated>2022-01-02T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123116250868971.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18354">« Les nuages et les fleurs se balancent avec légèreté, tandis que les vents dansants serpentent la vallée. »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18354" rel="alternate"/>
+    <published>2022-01-02T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18373</id>
+    <title>Genshin Impact - Démo personnage : « Yun Jin : La signification de l'opéra »</title>
+    <updated>2022-01-02T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118554455669.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18373">Genshin Impact - Démo personnage : « Yun Jin : La signification de l'opéra »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18373" rel="alternate"/>
+    <published>2022-01-02T12:00:00+01:00</published>
   </entry>
 </feed>

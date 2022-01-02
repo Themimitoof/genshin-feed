@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 02 Jan 2022 03:13:21 +0000</lastBuildDate>
-    <item>
-      <title>Размышления Путешественников | Запись OST Инадзумы</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16139</link>
-      <description>OST Genshin Impact Инадзумы был создан Yu-Peng Chen и @HOYO-MiX, записан Токийским филармоническим оркестром вместе с лучшими фолк-музыкантами Японии и спродюсирован @HOYO-MiX совместно с Sony Music Entertainment (Japan) Inc.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415531880539.png"><br/><br/>OST Genshin Impact Инадзумы был создан Yu-Peng Chen и @HOYO-MiX, записан Токийским филармоническим оркестром вместе с лучшими фолк-музыкантами Японии и спродюсирован @HOYO-MiX совместно с Sony Music Entertainment (Japan) Inc.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16139">Размышления Путешественников | Запись OST Инадзумы</a>]]></content:encoded>
-      <guid isPermaLink="false">16139</guid>
-      <pubDate>Fri, 24 Sep 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Описание события «Лунное утешение»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16131</link>
-      <description>Новое событие «Лунное утешение» скоро начнётся!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414054446291.jpg"><br/><br/>Новое событие «Лунное утешение» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16131">Описание события «Лунное утешение»</a>]]></content:encoded>
-      <guid isPermaLink="false">16131</guid>
-      <pubDate>Sun, 26 Sep 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jan 2022 04:14:41 +0000</lastBuildDate>
     <item>
       <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16170</link>
@@ -827,6 +811,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018171283397.png"><br/><br/>Туман рассеивается, и свиток разворачивается.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18301">Браузерное событие «Журавль в облаках» началось!</a>]]></content:encoded>
       <guid isPermaLink="false">18301</guid>
       <pubDate>Fri, 31 Dec 2021 12:15:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18350</link>
+      <description>Привет, Путешественники!
+Сегодня мы хотели бы представить вам руководителя оперной труппы Юнь Хань - Юнь Цзинь!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123115132821393.jpg"><br/><br/>Привет, Путешественники!
+Сегодня мы хотели бы представить вам руководителя оперной труппы Юнь Хань - Юнь Цзинь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18350">«Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам»</a>]]></content:encoded>
+      <guid isPermaLink="false">18350</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Истина в красках оперы» Юнь Цзинь (Гео) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18372</link>
+      <description>Любители оперы Ли Юэ знают: обычно в постановках повествуется о сверхъестественном, но произведения Юнь Цзинь уникальны тем, что в них поётся о мире и жизни в разных её проявлениях.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118544924758.jpg"><br/><br/>Любители оперы Ли Юэ знают: обычно в постановках повествуется о сверхъестественном, но произведения Юнь Цзинь уникальны тем, что в них поётся о мире и жизни в разных её проявлениях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18372">«Истина в красках оперы» Юнь Цзинь (Гео) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18372</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

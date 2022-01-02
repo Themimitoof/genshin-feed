@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 02 Jan 2022 03:13:11 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; OST - &lt;고요한 무망의 국가  Realm of Tranquil Eternity&gt;</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16075</link>
-      <description>〈원신〉 이나즈마 편 OST 〈고요한 무망의 국가 Realm of Tranquil Eternity〉 출시. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092017321072736.jpg"><br/><br/>〈원신〉 이나즈마 편 OST 〈고요한 무망의 국가 Realm of Tranquil Eternity〉 출시. <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16075"><원신> OST - <고요한 무망의 국가  Realm of Tranquil Eternity></a>]]></content:encoded>
-      <guid isPermaLink="false">16075</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>&lt;원신&gt; 여행자의 깊은 생각 - 이나즈마 음악 비하인드</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16159</link>
-      <description>&lt;원신&gt; 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416535331543.png"><br/><br/><원신> 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16159"><원신> 여행자의 깊은 생각 - 이나즈마 음악 비하인드</a>]]></content:encoded>
-      <guid isPermaLink="false">16159</guid>
-      <pubDate>Fri, 24 Sep 2021 18:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jan 2022 04:14:26 +0000</lastBuildDate>
     <item>
       <title>「달빛 속 광경」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16161</link>
@@ -813,6 +797,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123109381346145.png"><br/><br/>「구름 속 학의 그림자」<원신> 신규 캐릭터: 신학 웹이벤트 정식 출시!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18335">「구름 속 학의 그림자」 웹이벤트 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">18335</guid>
       <pubDate>Fri, 31 Dec 2021 12:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「구름에 걸린 달빛이 꽃에도 걸리니, 산과 물에 운치가 가득하네」 - 운근</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18394</link>
+      <description>오늘 소개할 캐릭터는 운한사의 주인이자 기둥인 - 운군이야</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220101/2022010102160487957.jpg"><br/><br/>오늘 소개할 캐릭터는 운한사의 주인이자 기둥인 - 운군이야<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18394">「구름에 걸린 달빛이 꽃에도 걸리니, 산과 물에 운치가 가득하네」 - 운근</a>]]></content:encoded>
+      <guid isPermaLink="false">18394</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「운근: 무지개장의 진의」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18391</link>
+      <description>연극을 자주 보는 리월 사람들은 전통적인 신선극 외에</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123120051954601.jpg"><br/><br/>연극을 자주 보는 리월 사람들은 전통적인 신선극 외에<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18391"><원신> 신규 캐릭터 플레이 - 「운근: 무지개장의 진의」</a>]]></content:encoded>
+      <guid isPermaLink="false">18391</guid>
+      <pubDate>Sun, 02 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

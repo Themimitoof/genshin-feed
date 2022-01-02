@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sun, 02 Jan 2022 03:13:22 +0000</lastBuildDate>
-    <item>
-      <title>Кудзё Сара: Перо молнии | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15631</link>
-      <description>Кудзё Сара: Перо молнии</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210151598214.jpg"><br/><br/>Кудзё Сара: Перо молнии<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15631">Кудзё Сара: Перо молнии | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15631</guid>
-      <pubDate>Thu, 02 Sep 2021 18:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Тизер «Обещанная мечта» | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15683</link>
-      <description>Страна, мчавшаяся вперёд, превратилась в мимолётную тень. Может, если остановить мгновение, её сияние продлится вечно...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610451410166.jpg"><br/><br/>Страна, мчавшаяся вперёд, превратилась в мимолётную тень. Может, если остановить мгновение, её сияние продлится вечно...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15683">Тизер «Обещанная мечта» | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15683</guid>
-      <pubDate>Mon, 06 Sep 2021 18:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sun, 02 Jan 2022 04:14:43 +0000</lastBuildDate>
     <item>
       <title>Описание события «Лунное королевство»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15746</link>
@@ -823,6 +807,24 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123018491337463.jpg"><br/><br/>Привет, Путешественники! Вот-вот начнётся Праздник морских фонарей.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18311">Обзор событий версии 2.4</a>]]></content:encoded>
       <guid isPermaLink="false">18311</guid>
       <pubDate>Fri, 31 Dec 2021 12:10:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18350</link>
+      <description>Привет, Путешественники!
+Сегодня мы хотели бы представить вам руководителя оперной труппы Юнь Хань - Юнь Цзинь!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123115132821393.jpg"><br/><br/>Привет, Путешественники!
+Сегодня мы хотели бы представить вам руководителя оперной труппы Юнь Хань - Юнь Цзинь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18350">«Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам»</a>]]></content:encoded>
+      <guid isPermaLink="false">18350</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Истина в красках оперы» Юнь Цзинь (Гео) - Новый персонаж | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18372</link>
+      <description>Любители оперы Ли Юэ знают: обычно в постановках повествуется о сверхъестественном, но произведения Юнь Цзинь уникальны тем, что в них поётся о мире и жизни в разных её проявлениях.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118544924758.jpg"><br/><br/>Любители оперы Ли Юэ знают: обычно в постановках повествуется о сверхъестественном, но произведения Юнь Цзинь уникальны тем, что в них поётся о мире и жизни в разных её проявлениях.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18372">«Истина в красках оперы» Юнь Цзинь (Гео) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18372</guid>
+      <pubDate>Sun, 02 Jan 2022 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2022-01-02T03:13:17.785732+00:00</updated>
+  <updated>2022-01-02T04:14:35.562102+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15635</id>
-    <title>Coleção Variada de Genshin Impact - "Kujou Sara: A Pena do Relâmpago"</title>
-    <updated>2021-09-02T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210202442582.jpg"><br/><br/>Penas de corvo das montanhas se transformam em raios para proteger Inazuma. Uma guerreira que se entrega inteiramente à terra de Narukami, de corpo e alma pela vontade da Shogun, sem lamentações ou arrependimento.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15635">Coleção Variada de Genshin Impact - "Kujou Sara: A Pena do Relâmpago"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15635" rel="alternate"/>
-    <summary>Penas de corvo das montanhas se transformam em raios para proteger Inazuma. Uma guerreira que se entrega inteiramente à terra de Narukami, de corpo e alma pela vontade da Shogun, sem lamentações ou arrependimento.</summary>
-    <published>2021-09-02T18:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15706</id>
-    <title>Teaser de História - "O Sonho Prometido" | Genshin Impact</title>
-    <updated>2021-09-06T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611281535600.jpg"><br/><br/>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15706">Teaser de História - "O Sonho Prometido" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15706" rel="alternate"/>
-    <summary>Uma nação que avançou com todas as suas forças, se tornou hoje, uma sombra fugaz. Talvez apenas congelando este momento é que poderemos manter a luz do sol...</summary>
-    <published>2021-09-06T18:00:00+01:00</published>
-  </entry>
   <entry>
     <id>15744</id>
     <title>Descrição do Modo de Jogo "Reino Lunar"</title>
@@ -913,5 +895,23 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/18315" rel="alternate"/>
     <summary>Olá Viajantes~ Com o Ritual de Lanternas chegando, que tal darmos uma conferidinha nos eventos emocionantes do Ritual de Lanternas deste ano?</summary>
     <published>2021-12-31T12:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18348</id>
+    <title>"Como as nuvens e as flores balançam suavemente, enquanto ventos que dançam serpenteiam através dos vales."</title>
+    <updated>2022-01-02T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123115090726283.jpg"><br/><br/>Hoje, gostaríamos de apresentar vocês a diretora e pilar da Trupe de Ópera Yun-Han - Yunjin!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18348">"Como as nuvens e as flores balançam suavemente, enquanto ventos que dançam serpenteiam através dos vales."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18348" rel="alternate"/>
+    <summary>Hoje, gostaríamos de apresentar vocês a diretora e pilar da Trupe de Ópera Yun-Han - Yunjin!</summary>
+    <published>2022-01-02T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18376</id>
+    <title>Demo de Novo Personagem - "Yunjin: O Verdadeiro Significado da Ópera Grandis" | Genshin Impact</title>
+    <updated>2022-01-02T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123119003966811.jpg"><br/><br/>O povo de Liyue que sempre escuta ópera sabe que além das óperas de Adepti,as novas peças criadas pela Yunjin, que cantam sobre os mais diversos sentimentos humanos, também são espetaculares.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18376">Demo de Novo Personagem - "Yunjin: O Verdadeiro Significado da Ópera Grandis" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18376" rel="alternate"/>
+    <summary>O povo de Liyue que sempre escuta ópera sabe que além das óperas de Adepti,as novas peças criadas pela Yunjin, que cantam sobre os mais diversos sentimentos humanos, também são espetaculares.</summary>
+    <published>2022-01-02T12:00:00+00:00</published>
   </entry>
 </feed>

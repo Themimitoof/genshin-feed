@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2022-01-02T03:13:16.586393+00:00</updated>
+  <updated>2022-01-02T04:14:33.475117+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16172</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
-    <updated>2021-09-26T19:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618324577651.jpg"><br/><br/>Músicos talentosos da Bélgica, Coreia do Sul e Estados Unidos apresentarão a você a beleza e o charme da música sinfônica, pop e até mesmo a cappella por meio de suas interpretações da trilha sonora de Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16172">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16172" rel="alternate"/>
-    <summary>Músicos talentosos da Bélgica, Coreia do Sul e Estados Unidos apresentarão a você a beleza e o charme da música sinfônica, pop e até mesmo a cappella por meio de suas interpretações da trilha sonora de Genshin Impact.</summary>
-    <published>2021-09-26T19:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16237</id>
-    <title>O evento Web de Aniversário "Em Busca das Lembranças" já se encontra disponível - assista ao seu Teatro de Aniversário personalizado para ganhar Gemas Essenciais e outras recompensas</title>
-    <updated>2021-09-28T11:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811074713642.jpg"><br/><br/>Durante o período do evento, assista ao seu próprio Teatro de Aniversário até o final, na página de evento, e ganhe um presente de visualização exclusivo.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16237">O evento Web de Aniversário "Em Busca das Lembranças" já se encontra disponível - assista ao seu Teatro de Aniversário personalizado para ganhar Gemas Essenciais e outras recompensas</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16237" rel="alternate"/>
-    <summary>Durante o período do evento, assista ao seu próprio Teatro de Aniversário até o final, na página de evento, e ganhe um presente de visualização exclusivo.</summary>
-    <published>2021-09-28T11:30:00+01:00</published>
-  </entry>
   <entry>
     <id>16195</id>
     <title>Vídeo Promocional - Companheiros de Viagem | Genshin Impact</title>
@@ -919,5 +901,23 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <summary>A névoa e as nuvens ascendem, e o pergaminho se abre.
 "A Garça sobre as Nuvens" - O Evento Web da Nova Personagem "Shenhe" de Genshin Impact está disponível agora!</summary>
     <published>2021-12-31T12:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18348</id>
+    <title>"Como as nuvens e as flores balançam suavemente, enquanto ventos que dançam serpenteiam através dos vales."</title>
+    <updated>2022-01-02T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123115090726283.jpg"><br/><br/>Hoje, gostaríamos de apresentar vocês a diretora e pilar da Trupe de Ópera Yun-Han - Yunjin!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18348">"Como as nuvens e as flores balançam suavemente, enquanto ventos que dançam serpenteiam através dos vales."</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18348" rel="alternate"/>
+    <summary>Hoje, gostaríamos de apresentar vocês a diretora e pilar da Trupe de Ópera Yun-Han - Yunjin!</summary>
+    <published>2022-01-02T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18376</id>
+    <title>Demo de Novo Personagem - "Yunjin: O Verdadeiro Significado da Ópera Grandis" | Genshin Impact</title>
+    <updated>2022-01-02T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123119003966811.jpg"><br/><br/>O povo de Liyue que sempre escuta ópera sabe que além das óperas de Adepti,as novas peças criadas pela Yunjin, que cantam sobre os mais diversos sentimentos humanos, também são espetaculares.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18376">Demo de Novo Personagem - "Yunjin: O Verdadeiro Significado da Ópera Grandis" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18376" rel="alternate"/>
+    <summary>O povo de Liyue que sempre escuta ópera sabe que além das óperas de Adepti,as novas peças criadas pela Yunjin, que cantam sobre os mais diversos sentimentos humanos, também são espetaculares.</summary>
+    <published>2022-01-02T12:00:00+00:00</published>
   </entry>
 </feed>

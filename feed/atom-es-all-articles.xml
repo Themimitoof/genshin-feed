@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-02T03:13:01.128924+00:00</updated>
+  <updated>2022-01-02T04:14:11.580573+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -519,6 +519,24 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2021-12-31T12:10:00+01:00</published>
   </entry>
   <entry>
+    <id>18349</id>
+    <title>«Las nubes y las flores se mecen grácilmente, mientras el viento entre los valles serpentea suavemente...»</title>
+    <updated>2022-01-02T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123115112572613.jpg"><br/><br/>¡Hola viajeros!Hoy les presentamos a Yun Jin, la actual directora y pilar de la Compañía de Ópera Yun-Han.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18349">«Las nubes y las flores se mecen grácilmente, mientras el viento entre los valles serpentea suavemente...»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18349" rel="alternate"/>
+    <summary>¡Hola viajeros!Hoy les presentamos a Yun Jin, la actual directora y pilar de la Compañía de Ópera Yun-Han.</summary>
+    <published>2022-01-02T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18370</id>
+    <title>Demo de nuevo personaje de Genshin Impact - Yun Jin: La verdad de Opera Grandis</title>
+    <updated>2022-01-02T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118503091412.jpg"><br/><br/>Las personas de Liyue que escuchan ópera con regularidad saben que, además de las tradicionales obras sobre Adeptus<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18370">Demo de nuevo personaje de Genshin Impact - Yun Jin: La verdad de Opera Grandis</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18370" rel="alternate"/>
+    <summary>Las personas de Liyue que escuchan ópera con regularidad saben que, además de las tradicionales obras sobre Adeptus</summary>
+    <published>2022-01-02T12:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -717,5 +735,23 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18313" rel="alternate"/>
     <summary>La bruma se levanta y el pergamino se despliega.</summary>
     <published>2021-12-31T12:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18349</id>
+    <title>«Las nubes y las flores se mecen grácilmente, mientras el viento entre los valles serpentea suavemente...»</title>
+    <updated>2022-01-02T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123115112572613.jpg"><br/><br/>¡Hola viajeros!Hoy les presentamos a Yun Jin, la actual directora y pilar de la Compañía de Ópera Yun-Han.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18349">«Las nubes y las flores se mecen grácilmente, mientras el viento entre los valles serpentea suavemente...»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18349" rel="alternate"/>
+    <summary>¡Hola viajeros!Hoy les presentamos a Yun Jin, la actual directora y pilar de la Compañía de Ópera Yun-Han.</summary>
+    <published>2022-01-02T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18370</id>
+    <title>Demo de nuevo personaje de Genshin Impact - Yun Jin: La verdad de Opera Grandis</title>
+    <updated>2022-01-02T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118503091412.jpg"><br/><br/>Las personas de Liyue que escuchan ópera con regularidad saben que, además de las tradicionales obras sobre Adeptus<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18370">Demo de nuevo personaje de Genshin Impact - Yun Jin: La verdad de Opera Grandis</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18370" rel="alternate"/>
+    <summary>Las personas de Liyue que escuchan ópera con regularidad saben que, además de las tradicionales obras sobre Adeptus</summary>
+    <published>2022-01-02T12:00:00+01:00</published>
   </entry>
 </feed>
