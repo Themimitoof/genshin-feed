@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-03T03:12:41.419448+00:00</updated>
+  <updated>2022-01-03T04:14:20.095853+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -336,14 +336,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15604</id>
-    <title>[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</title>
-    <updated>2021-09-02T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116495582113.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15604">[Genshin Impact] เก็บตกตัวละคร - "Aloy: ประกายน้ำแข็งจากต่างโลก"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15604" rel="alternate"/>
-    <published>2021-09-02T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15639</id>
@@ -1162,12 +1154,12 @@
     <published>2022-01-02T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15959</id>
-    <title>[Genshin Impact] เก็บตกตัวละคร - "Sangonomiya Kokomi - ประกายคลื่นพร่างพราว"</title>
-    <updated>2021-09-21T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718015618929.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15959">[Genshin Impact] เก็บตกตัวละคร - "Sangonomiya Kokomi - ประกายคลื่นพร่างพราว"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15959" rel="alternate"/>
-    <published>2021-09-21T18:00:00+07:00</published>
+    <id>18118</id>
+    <title>"Genshin Impact" มินิอัลบั้ม - ทลายความชั่วร้ายพิทักษ์ความสงบ</title>
+    <updated>2022-01-03T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915482710481.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18118">"Genshin Impact" มินิอัลบั้ม - ทลายความชั่วร้ายพิทักษ์ความสงบ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18118" rel="alternate"/>
+    <published>2022-01-03T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16081</id>
@@ -1993,5 +1985,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123120025118514.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18387">ตัวอย่างตัวละคร Genshin Impact - "Yun Jin: ความหมายที่แท้จริงของงิ้ว"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18387" rel="alternate"/>
     <published>2022-01-02T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18118</id>
+    <title>"Genshin Impact" มินิอัลบั้ม - ทลายความชั่วร้ายพิทักษ์ความสงบ</title>
+    <updated>2022-01-03T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915482710481.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18118">"Genshin Impact" มินิอัลบั้ม - ทลายความชั่วร้ายพิทักษ์ความสงบ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18118" rel="alternate"/>
+    <published>2022-01-03T12:00:00+07:00</published>
   </entry>
 </feed>

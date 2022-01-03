@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jan 2022 04:13:57 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -474,6 +474,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Sun, 02 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Mini álbum de Genshin Impact - Un momento de paz en la purificación del mal</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18113</link>
+      <description>A través de mil adversidades, el mal de los agravios interminables será exterminado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915360211550.jpg"><br/><br/>A través de mil adversidades, el mal de los agravios interminables será exterminado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18113">Mini álbum de Genshin Impact - Un momento de paz en la purificación del mal</a>]]></content:encoded>
+      <guid isPermaLink="false">18113</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -666,6 +674,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118503091412.jpg"><br/><br/>Las personas de Liyue que escuchan ópera con regularidad saben que, además de las tradicionales obras sobre Adeptus<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18370">Demo de nuevo personaje de Genshin Impact - Yun Jin: La verdad de Opera Grandis</a>]]></content:encoded>
       <guid isPermaLink="false">18370</guid>
       <pubDate>Sun, 02 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - Un momento de paz en la purificación del mal</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18113</link>
+      <description>A través de mil adversidades, el mal de los agravios interminables será exterminado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915360211550.jpg"><br/><br/>A través de mil adversidades, el mal de los agravios interminables será exterminado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18113">Mini álbum de Genshin Impact - Un momento de paz en la purificación del mal</a>]]></content:encoded>
+      <guid isPermaLink="false">18113</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

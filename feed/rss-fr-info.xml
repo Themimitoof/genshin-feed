@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:06 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Kujou Sara : La plume éclair</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15651</link>
-      <description>Une plume de corbeau venant des montagnes qui s'est transformée en éclair pour protéger Inazuma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090215570288882.jpg"><br/><br/>Une plume de corbeau venant des montagnes qui s'est transformée en éclair pour protéger Inazuma.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15651">Genshin Impact - Kujou Sara : La plume éclair</a>]]></content:encoded>
-      <guid isPermaLink="false">15651</guid>
-      <pubDate>Thu, 02 Sep 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 04:13:44 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15695</link>
@@ -733,6 +725,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118554455669.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18373">Genshin Impact - Démo personnage : « Yun Jin : La signification de l'opéra »</a>]]></description>
       <guid isPermaLink="false">18373</guid>
       <pubDate>Sun, 02 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Purification du mal et tranquillité</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18168</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918384776499.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18168">Genshin Impact, la bande-son : Purification du mal et tranquillité</a>]]></description>
+      <guid isPermaLink="false">18168</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

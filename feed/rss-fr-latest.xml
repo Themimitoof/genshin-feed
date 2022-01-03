@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:06 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16029</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819135283247.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16029">Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</a>]]></description>
-      <guid isPermaLink="false">16029</guid>
-      <pubDate>Tue, 21 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 04:13:43 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Sangonomiya Kokomi : Marée ondulante</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15967</link>
@@ -734,6 +727,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123118554455669.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18373">Genshin Impact - Démo personnage : « Yun Jin : La signification de l'opéra »</a>]]></description>
       <guid isPermaLink="false">18373</guid>
       <pubDate>Sun, 02 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact, la bande-son : Purification du mal et tranquillité</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18168</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918384776499.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18168">Genshin Impact, la bande-son : Purification du mal et tranquillité</a>]]></description>
+      <guid isPermaLink="false">18168</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

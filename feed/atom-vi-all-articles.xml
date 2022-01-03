@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2022-01-03T03:12:44.645530+00:00</updated>
+  <updated>2022-01-03T04:14:24.183789+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -321,14 +321,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15605</id>
-    <title>[Genshin Impact] - Aloy: Băng Giá Dị Giới</title>
-    <updated>2021-09-02T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210901/2021090116511848871.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15605">[Genshin Impact] - Aloy: Băng Giá Dị Giới</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15605" rel="alternate"/>
-    <published>2021-09-02T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15641</id>
@@ -1149,12 +1141,12 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2022-01-02T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16035</id>
-    <title>[Genshin Impact] MV Nhạc Chiến Đấu OST Inazuma - Duel in the Mist</title>
-    <updated>2021-09-21T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819181932756.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16035">[Genshin Impact] MV Nhạc Chiến Đấu OST Inazuma - Duel in the Mist</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16035" rel="alternate"/>
-    <published>2021-09-21T12:00:00+07:00</published>
+    <id>18122</id>
+    <title>Tuyển tập Genshin Impact - A Moment of Tranquility in the Eradication of Evil</title>
+    <updated>2022-01-03T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915581481667.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18122">Tuyển tập Genshin Impact - A Moment of Tranquility in the Eradication of Evil</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18122" rel="alternate"/>
+    <published>2022-01-03T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15961</id>
@@ -1975,5 +1967,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123120042392049.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18389">Giới thiệu nhân vật trong Genshin Impact - Yun Jin: Ý Nghĩa Thật Sự Của Kịch</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18389" rel="alternate"/>
     <published>2022-01-02T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18122</id>
+    <title>Tuyển tập Genshin Impact - A Moment of Tranquility in the Eradication of Evil</title>
+    <updated>2022-01-03T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915581481667.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18122">Tuyển tập Genshin Impact - A Moment of Tranquility in the Eradication of Evil</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18122" rel="alternate"/>
+    <published>2022-01-03T12:00:00+07:00</published>
   </entry>
 </feed>

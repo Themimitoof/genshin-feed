@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:13 +0000</lastBuildDate>
-    <item>
-      <title>Handlungsvorschau von Genshin Impact – „Erfüllung der Träume des Volkes“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15685</link>
-      <description>Ein Reich, das voranschreitet, ist in einem flüchtigen Schatten eines Augenblicks stecken geblieben. Vielleicht wird Inazuma nur dann ewig leuchten, wenn die Zeit stillsteht ...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610503263348.jpg"><br/><br/>Ein Reich, das voranschreitet, ist in einem flüchtigen Schatten eines Augenblicks stecken geblieben. Vielleicht wird Inazuma nur dann ewig leuchten, wenn die Zeit stillsteht ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15685">Handlungsvorschau von Genshin Impact – „Erfüllung der Träume des Volkes“</a>]]></content:encoded>
-      <guid isPermaLink="false">15685</guid>
-      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 04:13:51 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zur Spielweise von „Mondreich“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15749</link>
@@ -857,6 +849,14 @@ Heute stellen wir euch die Direktorin sowie die Grundsäule der Yun-Han-Operntru
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123119375994157.jpg"><br/><br/>Die Bewohner von Liyue, die die Oper besuchen, wissen, dass es neben denen, die sich mit dem Übernatürlichen beschäftigen, auch andere gibt,<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18380">Figurenvorführung bei Genshin Impact – Yun Jin: Die wahre Bedeutung von Opera Grandis</a>]]></content:encoded>
       <guid isPermaLink="false">18380</guid>
       <pubDate>Sun, 02 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Minialbum von Genshin Impact – A Moment of Tranquility in the Eradication of Evil</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18143</link>
+      <description>Durch Tausende von Katastrophen und Widrigkeiten wird das Übel der andauernden Bosheit beseitigt werden.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916394579990.jpg"><br/><br/>Durch Tausende von Katastrophen und Widrigkeiten wird das Übel der andauernden Bosheit beseitigt werden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18143">Minialbum von Genshin Impact – A Moment of Tranquility in the Eradication of Evil</a>]]></content:encoded>
+      <guid isPermaLink="false">18143</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

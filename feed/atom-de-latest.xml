@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2022-01-03T03:12:12.975751+00:00</updated>
+  <updated>2022-01-03T04:13:50.266641+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16032</id>
-    <title>„Duel in the Mist“ – Musikvideo zur Kampfmusik von Inazuma von Genshin Impact</title>
-    <updated>2021-09-21T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819163349963.png"><br/><br/>In diesem Musikvideo „Duel in the Mist“ wird die spannende Inazuma-Kampfmusik von Genshin Impact von Japans besten Volksmusikern aufgeführt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16032">„Duel in the Mist“ – Musikvideo zur Kampfmusik von Inazuma von Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16032" rel="alternate"/>
-    <summary>In diesem Musikvideo „Duel in the Mist“ wird die spannende Inazuma-Kampfmusik von Genshin Impact von Japans besten Volksmusikern aufgeführt.</summary>
-    <published>2021-09-21T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15964</id>
     <title>Fähigkeiten bei Genshin Impact – Sangonomiya Kokomi: Heimliche Gezeiten</title>
@@ -967,5 +958,14 @@ Heute stellen wir euch die Direktorin sowie die Grundsäule der Yun-Han-Operntru
     <link href="https://genshin.mihoyo.com/de/news/detail/18380" rel="alternate"/>
     <summary>Die Bewohner von Liyue, die die Oper besuchen, wissen, dass es neben denen, die sich mit dem Übernatürlichen beschäftigen, auch andere gibt,</summary>
     <published>2022-01-02T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18143</id>
+    <title>Minialbum von Genshin Impact – A Moment of Tranquility in the Eradication of Evil</title>
+    <updated>2022-01-03T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122916394579990.jpg"><br/><br/>Durch Tausende von Katastrophen und Widrigkeiten wird das Übel der andauernden Bosheit beseitigt werden.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18143">Minialbum von Genshin Impact – A Moment of Tranquility in the Eradication of Evil</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18143" rel="alternate"/>
+    <summary>Durch Tausende von Katastrophen und Widrigkeiten wird das Übel der andauernden Bosheit beseitigt werden.</summary>
+    <published>2022-01-03T12:00:00+01:00</published>
   </entry>
 </feed>

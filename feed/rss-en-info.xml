@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:03 +0000</lastBuildDate>
-    <item>
-      <title>Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15824</link>
-      <description>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
-Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417075555479.png"><br/><br/>As the heir to the Sangonomiya line, she bears the responsibility of heeding the wishes of Watatsumi Island's people.
-Just as how the situation in battle can change a lot, so too can people's hearts. Faced with this, Kokomi knows that she has a long road ahead of her.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15824">Character Teaser - "Sangonomiya Kokomi: The Ocean's Will" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15824</guid>
-      <pubDate>Wed, 15 Sep 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 04:13:40 +0000</lastBuildDate>
     <item>
       <title>Teyvat Adventures Commemorative Video: Travel Anniversary Letter | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15872</link>
@@ -884,6 +874,16 @@ While one can always get delicious delicacies or good storytelling as long as on
 While one can always get delicious delicacies or good storytelling as long as one knows where to look, Yun Jin's performance does not just await one there.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18397">"How gently do the clouds and flowers sway, as dancing winds meander through the vales."</a>]]></content:encoded>
       <guid isPermaLink="false">18397</guid>
       <pubDate>Sun, 02 Jan 2022 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact EP - A Moment of Tranquility in the Eradication of Evil</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18119</link>
+      <description>Through thousands of calamities and adversities, the evil of lingering malice will be purged.
+While gazing at the flowing rivers and towering mountains, one can enjoy a moment of peace.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915490539338.jpg"><br/><br/>Through thousands of calamities and adversities, the evil of lingering malice will be purged.
+While gazing at the flowing rivers and towering mountains, one can enjoy a moment of peace.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18119">Genshin Impact EP - A Moment of Tranquility in the Eradication of Evil</a>]]></content:encoded>
+      <guid isPermaLink="false">18119</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

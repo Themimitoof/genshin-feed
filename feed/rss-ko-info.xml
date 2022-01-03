@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:28 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 스토리 PV - 「백성에게 약속한 꿈」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15688</link>
-      <description>전력으로 나아가던 국가는 찰나의 그림자가 되었다. 어쩌면 시간을 멈춰야만 번개를 영원히 남길 수 있을지도…
-「무상」으로 이나즈마의 앞길을 가로막는 장애물을 모두 제거하고 「영원」으로 백성에게 부세의 꿈을 약속한다
-이게 바로 나루카미 국토에 있는 「라이덴 쇼군」의 진리의 일심이다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090610543949526.jpg"><br/><br/>전력으로 나아가던 국가는 찰나의 그림자가 되었다. 어쩌면 시간을 멈춰야만 번개를 영원히 남길 수 있을지도…
-「무상」으로 이나즈마의 앞길을 가로막는 장애물을 모두 제거하고 「영원」으로 백성에게 부세의 꿈을 약속한다
-이게 바로 나루카미 국토에 있는 「라이덴 쇼군」의 진리의 일심이다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15688"><원신> 스토리 PV - 「백성에게 약속한 꿈」</a>]]></content:encoded>
-      <guid isPermaLink="false">15688</guid>
-      <pubDate>Mon, 06 Sep 2021 18:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 04:14:06 +0000</lastBuildDate>
     <item>
       <title>「달의 왕국」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/15767</link>
@@ -818,6 +806,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123120051954601.jpg"><br/><br/>연극을 자주 보는 리월 사람들은 전통적인 신선극 외에<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18391"><원신> 신규 캐릭터 플레이 - 「운근: 무지개장의 진의」</a>]]></content:encoded>
       <guid isPermaLink="false">18391</guid>
       <pubDate>Sun, 02 Jan 2022 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 파마(破魔) 중의 짧은 평화</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18339</link>
+      <description>천겁의 세월 동안 끝없는 고난을 거쳐 악한 잔혼을 제거하고,
+푸르른 물과 산을 바라보며 찰나 간의 평화를 누린다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123111573374067.jpg"><br/><br/>천겁의 세월 동안 끝없는 고난을 거쳐 악한 잔혼을 제거하고,
+푸르른 물과 산을 바라보며 찰나 간의 평화를 누린다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18339"><원신> EP - 파마(破魔) 중의 짧은 평화</a>]]></content:encoded>
+      <guid isPermaLink="false">18339</guid>
+      <pubDate>Mon, 03 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:41 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] MV Nhạc Chiến Đấu OST Inazuma - Duel in the Mist</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/16035</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819181932756.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16035">[Genshin Impact] MV Nhạc Chiến Đấu OST Inazuma - Duel in the Mist</a>]]></description>
-      <guid isPermaLink="false">16035</guid>
-      <pubDate>Tue, 21 Sep 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 04:14:20 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] - Sangonomiya Kokomi: Hải Triều Lấp Lánh</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/15961</link>
@@ -714,6 +707,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123120042392049.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18389">Giới thiệu nhân vật trong Genshin Impact - Yun Jin: Ý Nghĩa Thật Sự Của Kịch</a>]]></description>
       <guid isPermaLink="false">18389</guid>
       <pubDate>Sun, 02 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tuyển tập Genshin Impact - A Moment of Tranquility in the Eradication of Evil</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18122</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915581481667.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18122">Tuyển tập Genshin Impact - A Moment of Tranquility in the Eradication of Evil</a>]]></description>
+      <guid isPermaLink="false">18122</guid>
+      <pubDate>Mon, 03 Jan 2022 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

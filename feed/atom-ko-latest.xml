@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2022-01-03T03:12:26.990516+00:00</updated>
+  <updated>2022-01-03T04:14:04.887633+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16161</id>
-    <title>「달빛 속 광경」 콘텐츠 안내</title>
-    <updated>2021-09-26T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092610145473801.jpg"><br/><br/>달 밝은 어느 가을밤, 리월항은 전통 축제인 「축월절」 준비에 한창이다. 축제 테마 이벤트들도 서서히 막을 올린다…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16161">「달빛 속 광경」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16161" rel="alternate"/>
-    <summary>달 밝은 어느 가을밤, 리월항은 전통 축제인 「축월절」 준비에 한창이다. 축제 테마 이벤트들도 서서히 막을 올린다…</summary>
-    <published>2021-09-26T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>16179</id>
     <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 3)</title>
@@ -917,5 +908,16 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18391" rel="alternate"/>
     <summary>연극을 자주 보는 리월 사람들은 전통적인 신선극 외에</summary>
     <published>2022-01-02T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18339</id>
+    <title>&lt;원신&gt; EP - 파마(破魔) 중의 짧은 평화</title>
+    <updated>2022-01-03T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123111573374067.jpg"><br/><br/>천겁의 세월 동안 끝없는 고난을 거쳐 악한 잔혼을 제거하고,
+푸르른 물과 산을 바라보며 찰나 간의 평화를 누린다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18339"><원신> EP - 파마(破魔) 중의 짧은 평화</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18339" rel="alternate"/>
+    <summary>천겁의 세월 동안 끝없는 고난을 거쳐 악한 잔혼을 제거하고,
+푸르른 물과 산을 바라보며 찰나 간의 평화를 누린다.</summary>
+    <published>2022-01-03T12:01:00+09:00</published>
   </entry>
 </feed>

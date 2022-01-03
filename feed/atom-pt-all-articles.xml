@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2022-01-03T03:12:34.206712+00:00</updated>
+  <updated>2022-01-03T04:14:12.519170+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -409,15 +409,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>15744</id>
-    <title>Descrição do Modo de Jogo "Reino Lunar"</title>
-    <updated>2021-09-09T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090810514390723.jpg"><br/><br/>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15744">Descrição do Modo de Jogo "Reino Lunar"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15744" rel="alternate"/>
-    <summary>Uma pescadora de Inazuma, Kujirai Momiji, sempre quis pescar um grande peixe lendário chamado "Leviatã Lunar". Ela planeja reunir todos os seus velhos amigos e embarcar em uma jornada para encontrá-lo — e ela convida você para se juntar a ela. Será que desta vez ela vai realizar seu desejo?</summary>
-    <published>2021-09-09T10:30:00+01:00</published>
   </entry>
   <entry>
     <id>15791</id>
@@ -1316,13 +1307,13 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <published>2022-01-02T12:00:00+00:00</published>
   </entry>
   <entry>
-    <id>16195</id>
-    <title>Vídeo Promocional - Companheiros de Viagem | Genshin Impact</title>
-    <updated>2021-09-28T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715243787492.jpg"><br/><br/>Uma luminância difusa surge no horizonte, onde estrelas brilham intensamente. Nossos caminhos se cruzaram em Teyvat, onde embarcamos juntos para uma nova jornada.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16195">Vídeo Promocional - Companheiros de Viagem | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16195" rel="alternate"/>
-    <summary>Uma luminância difusa surge no horizonte, onde estrelas brilham intensamente. Nossos caminhos se cruzaram em Teyvat, onde embarcamos juntos para uma nova jornada.</summary>
-    <published>2021-09-28T12:00:00+01:00</published>
+    <id>18116</id>
+    <title>EP - Um Momento de Tranquilidade na Erradicação do Mal | Genshin Impact</title>
+    <updated>2022-01-03T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915413913522.jpg"><br/><br/>Passando por obstáculo após obstáculo, ele acabou com os demônios com ressentimentos persistentes.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18116">EP - Um Momento de Tranquilidade na Erradicação do Mal | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18116" rel="alternate"/>
+    <summary>Passando por obstáculo após obstáculo, ele acabou com os demônios com ressentimentos persistentes.</summary>
+    <published>2022-01-03T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>16258</id>
@@ -2225,5 +2216,14 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/18376" rel="alternate"/>
     <summary>O povo de Liyue que sempre escuta ópera sabe que além das óperas de Adepti,as novas peças criadas pela Yunjin, que cantam sobre os mais diversos sentimentos humanos, também são espetaculares.</summary>
     <published>2022-01-02T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18116</id>
+    <title>EP - Um Momento de Tranquilidade na Erradicação do Mal | Genshin Impact</title>
+    <updated>2022-01-03T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915413913522.jpg"><br/><br/>Passando por obstáculo após obstáculo, ele acabou com os demônios com ressentimentos persistentes.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18116">EP - Um Momento de Tranquilidade na Erradicação do Mal | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18116" rel="alternate"/>
+    <summary>Passando por obstáculo após obstáculo, ele acabou com os demônios com ressentimentos persistentes.</summary>
+    <published>2022-01-03T12:00:00+00:00</published>
   </entry>
 </feed>

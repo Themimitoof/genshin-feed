@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 03 Jan 2022 03:12:26 +0000</lastBuildDate>
-    <item>
-      <title>「달빛 속 광경」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16161</link>
-      <description>달 밝은 어느 가을밤, 리월항은 전통 축제인 「축월절」 준비에 한창이다. 축제 테마 이벤트들도 서서히 막을 올린다…</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092610145473801.jpg"><br/><br/>달 밝은 어느 가을밤, 리월항은 전통 축제인 「축월절」 준비에 한창이다. 축제 테마 이벤트들도 서서히 막을 올린다…<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16161">「달빛 속 광경」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">16161</guid>
-      <pubDate>Sun, 26 Sep 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 03 Jan 2022 04:14:04 +0000</lastBuildDate>
     <item>
       <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 3)</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16179</link>
@@ -813,6 +805,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123120051954601.jpg"><br/><br/>연극을 자주 보는 리월 사람들은 전통적인 신선극 외에<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18391"><원신> 신규 캐릭터 플레이 - 「운근: 무지개장의 진의」</a>]]></content:encoded>
       <guid isPermaLink="false">18391</guid>
       <pubDate>Sun, 02 Jan 2022 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 파마(破魔) 중의 짧은 평화</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18339</link>
+      <description>천겁의 세월 동안 끝없는 고난을 거쳐 악한 잔혼을 제거하고,
+푸르른 물과 산을 바라보며 찰나 간의 평화를 누린다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123111573374067.jpg"><br/><br/>천겁의 세월 동안 끝없는 고난을 거쳐 악한 잔혼을 제거하고,
+푸르른 물과 산을 바라보며 찰나 간의 평화를 누린다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18339"><원신> EP - 파마(破魔) 중의 짧은 평화</a>]]></content:encoded>
+      <guid isPermaLink="false">18339</guid>
+      <pubDate>Mon, 03 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
