@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2022-01-04T22:11:27.667968+00:00</updated>
+  <updated>2022-01-04T23:11:30.767244+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16324</id>
-    <title>&lt;원신&gt; 스토리 PV - 「속세의 맛」</title>
-    <updated>2021-10-02T18:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100118430652994.jpg"><br/><br/>세월을 반찬 삼고 강산을 안주 삼아, 끝없이 윤회하는 세월을 논하도다.
-연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16324"><원신> 스토리 PV - 「속세의 맛」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16324" rel="alternate"/>
-    <summary>세월을 반찬 삼고 강산을 안주 삼아, 끝없이 윤회하는 세월을 논하도다.
-연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.</summary>
-    <published>2021-10-02T18:01:00+09:00</published>
-  </entry>
   <entry>
     <id>16334</id>
     <title>원신 추첨 이벤트</title>
@@ -921,5 +910,14 @@
     <summary>절운간에 들어선 나그네는 구름 속을 유유자적 노니는 학을 보며 부러워하지만,
 바람을 타고 나는 학이 어디로 돌아가야 할지 몰라 막막해하는 것은 알지 못한다….</summary>
     <published>2022-01-04T19:16:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18470</id>
+    <title>「화려히 수놓인 유년」 2.4 버전 업데이트 상세안내</title>
+    <updated>2022-01-05T07:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010421193725848.jpg"><br/><br/>「화려히 수놓인 유년」 2.4 버전 업데이트 상세안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18470">「화려히 수놓인 유년」 2.4 버전 업데이트 상세안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18470" rel="alternate"/>
+    <summary>「화려히 수놓인 유년」 2.4 버전 업데이트 상세안내</summary>
+    <published>2022-01-05T07:00:00+09:00</published>
   </entry>
 </feed>

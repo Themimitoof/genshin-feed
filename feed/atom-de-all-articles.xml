@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2022-01-04T22:11:25.417234+00:00</updated>
+  <updated>2022-01-04T23:11:20.054355+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -337,15 +337,6 @@ nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15815</id>
-    <title>„Um zu überleben, muss man auf alles gefasst sein.“ – „Perle der Weisheit“ Sangonomiya Kokomi</title>
-    <updated>2021-09-15T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410415659358.jpg"><br/><br/>Hallo, Reisender! Heute stellen wir dir Sangonomiya Kokomi, die göttliche Priesterin von Watatsumi, vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15815">„Um zu überleben, muss man auf alles gefasst sein.“ – „Perle der Weisheit“ Sangonomiya Kokomi</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15815" rel="alternate"/>
-    <summary>Hallo, Reisender! Heute stellen wir dir Sangonomiya Kokomi, die göttliche Priesterin von Watatsumi, vor.</summary>
-    <published>2021-09-15T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15828</id>
@@ -1289,13 +1280,15 @@ Heute stellen wir euch die Direktorin sowie die Grundsäule der Yun-Han-Operntru
     <published>2022-01-04T19:15:00+01:00</published>
   </entry>
   <entry>
-    <id>16149</id>
-    <title>Gedanken der Reisenden – Hinter den Kulissen der Spielmusik zu Inazuma von Genshin Impact</title>
-    <updated>2021-09-24T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416031027698.png"><br/><br/>Dieses Video gewährt euch einen Einblick in die künstlerische Philosophie hinter der Originalmusik zu Inazuma und dokumentiert die anderthalbmonatige kultur- und sprachübergreifende Zusammenarbeit zwischen dem chinesischen und dem japanischen Team.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16149">Gedanken der Reisenden – Hinter den Kulissen der Spielmusik zu Inazuma von Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16149" rel="alternate"/>
-    <summary>Dieses Video gewährt euch einen Einblick in die künstlerische Philosophie hinter der Originalmusik zu Inazuma und dokumentiert die anderthalbmonatige kultur- und sprachübergreifende Zusammenarbeit zwischen dem chinesischen und dem japanischen Team.</summary>
-    <published>2021-09-24T18:00:00+02:00</published>
+    <id>18469</id>
+    <title>Erläuterungen zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“</title>
+    <updated>2022-01-05T07:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419530910104.jpg"><br/><br/>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18469">Erläuterungen zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18469" rel="alternate"/>
+    <summary>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“ sowie zur Entschädigung dafür.</summary>
+    <published>2022-01-05T07:00:00+01:00</published>
   </entry>
   <entry>
     <id>16135</id>
@@ -2246,5 +2239,16 @@ Heute stellen wir euch die Direktorin sowie die Grundsäule der Yun-Han-Operntru
     <link href="https://genshin.mihoyo.com/de/news/detail/18451" rel="alternate"/>
     <summary>Wenn Reisende den Jueyun-Karst betreten, werden sie oft neidisch auf die sorglosen wilden Kraniche in den Wolken.</summary>
     <published>2022-01-04T19:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18469</id>
+    <title>Erläuterungen zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“</title>
+    <updated>2022-01-05T07:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419530910104.jpg"><br/><br/>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18469">Erläuterungen zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18469" rel="alternate"/>
+    <summary>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“ sowie zur Entschädigung dafür.</summary>
+    <published>2022-01-05T07:00:00+01:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:23 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -498,6 +498,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0100</pubDate>
     </item>
     <item>
+      <title>Detalles de la versión 2.4 «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18471</link>
+      <description>Querido/a viajero/a: A continuación te presentamos el contenido de la nueva versión 2.4 «Iridiscencia fugaz» y la información relacionada con sus compensaciones.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010421244915003.jpg"><br/><br/>Querido/a viajero/a: A continuación te presentamos el contenido de la nueva versión 2.4 «Iridiscencia fugaz» y la información relacionada con sus compensaciones.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18471">Detalles de la versión 2.4 «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">18471</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -714,6 +722,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416051434011.jpg"><br/><br/>Los viajeros sienten envidia cuando entran en el Desfiladero Jueyun y ven a las grullas libres y despreocupadas entre las nubes.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18439">Genshin Impact - Shenhe: Agitación de plumas escarchadas</a>]]></content:encoded>
       <guid isPermaLink="false">18439</guid>
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Detalles de la versión 2.4 «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18471</link>
+      <description>Querido/a viajero/a: A continuación te presentamos el contenido de la nueva versión 2.4 «Iridiscencia fugaz» y la información relacionada con sus compensaciones.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010421244915003.jpg"><br/><br/>Querido/a viajero/a: A continuación te presentamos el contenido de la nueva versión 2.4 «Iridiscencia fugaz» y la información relacionada con sus compensaciones.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18471">Detalles de la versión 2.4 «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">18471</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

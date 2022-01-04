@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-04T22:11:30.193760+00:00</updated>
+  <updated>2022-01-04T23:11:41.625958+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -400,15 +400,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15840</id>
-    <title>«Океан воли» Сангономия Кокоми - Истории персонажей | Genshin Impact</title>
-    <updated>2021-09-15T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417283960038.png"><br/><br/>Как наследница Сангономии, она должна прислушиваться к пожеланиям жителей Ватацуми.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15840">«Океан воли» Сангономия Кокоми - Истории персонажей | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15840" rel="alternate"/>
-    <summary>Как наследница Сангономии, она должна прислушиваться к пожеланиям жителей Ватацуми.</summary>
-    <published>2021-09-15T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>15880</id>
@@ -1319,13 +1310,15 @@
     <published>2022-01-04T19:15:00+03:00</published>
   </entry>
   <entry>
-    <id>16256</id>
-    <title>Тизер «Вкусы мира» | Genshin Impact</title>
-    <updated>2021-10-02T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818201720180.jpg"><br/><br/>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16256">Тизер «Вкусы мира» | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16256" rel="alternate"/>
-    <summary>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.</summary>
-    <published>2021-10-02T18:00:00+03:00</published>
+    <id>18464</id>
+    <title>Подробности обновления 2.4 «Краски мимолётности»</title>
+    <updated>2022-01-05T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419075670773.jpg"><br/><br/>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18464">Подробности обновления 2.4 «Краски мимолётности»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18464" rel="alternate"/>
+    <summary>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.</summary>
+    <published>2022-01-05T07:00:00+03:00</published>
   </entry>
   <entry>
     <id>16300</id>
@@ -2236,5 +2229,16 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18444" rel="alternate"/>
     <summary>Ступившие в Заоблачный предел странники часто с завистью смотрят, как беззаботно парят среди облаков журавли.</summary>
     <published>2022-01-04T19:15:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18464</id>
+    <title>Подробности обновления 2.4 «Краски мимолётности»</title>
+    <updated>2022-01-05T07:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419075670773.jpg"><br/><br/>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18464">Подробности обновления 2.4 «Краски мимолётности»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18464" rel="alternate"/>
+    <summary>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.</summary>
+    <published>2022-01-05T07:00:00+03:00</published>
   </entry>
 </feed>

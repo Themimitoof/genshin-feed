@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:30 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "ราชันใต้แสงจันทรา"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15762</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090816512160499.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15762">คำอธิบายเกมเพลย์ "ราชันใต้แสงจันทรา"</a>]]></description>
-      <guid isPermaLink="false">15762</guid>
-      <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:42 +0000</lastBuildDate>
     <item>
       <title>คอนเสิร์ต GENSHIN 2021 - Melodies of an Endless Journey (ตัวอย่างที่ 2)</title>
       <link>https://genshin.mihoyo.com/th/news/detail/15781</link>
@@ -711,6 +704,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010417331126827.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18458">[Genshin Impact] เก็บตกตัวละคร - "Shenhe: ปีกแห่งเหมันต์ที่โผบิน"</a>]]></description>
       <guid isPermaLink="false">18458</guid>
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18467</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419165515224.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18467">คำอธิบายการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</a>]]></description>
+      <guid isPermaLink="false">18467</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

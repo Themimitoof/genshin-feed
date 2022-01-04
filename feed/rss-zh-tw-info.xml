@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:23 +0000</lastBuildDate>
-    <item>
-      <title>珊瑚宮心海角色預告——「滄海一意」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15835</link>
-      <description>繼承了珊瑚宮血脈的少女，命中註定需要傾聽海祇島住民的願望。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417212450921.png"><br/><br/>繼承了珊瑚宮血脈的少女，命中註定需要傾聽海祇島住民的願望。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15835">珊瑚宮心海角色預告——「滄海一意」｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">15835</guid>
-      <pubDate>Wed, 15 Sep 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:14 +0000</lastBuildDate>
     <item>
       <title>提瓦特冒險紀念影片：旅行週年手札｜原神</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/15897</link>
@@ -811,6 +803,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416050995266.jpg"><br/><br/>遊者步入絕雲間，常見雲中野鶴悠然自在，便心生艷羨。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18438">拾枝雜談-「申鶴：霜羽翩翾」｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">18438</guid>
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「飛彩鐫流年」2.4版本更新說明</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18472</link>
+      <description>親愛的旅行者：
+以下是2.4版本——「飛彩鐫流年」更新與補償內容。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010421275439181.jpg"><br/><br/>親愛的旅行者：
+以下是2.4版本——「飛彩鐫流年」更新與補償內容。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18472">「飛彩鐫流年」2.4版本更新說明</a>]]></content:encoded>
+      <guid isPermaLink="false">18472</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

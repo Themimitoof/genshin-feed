@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:30 +0000</lastBuildDate>
     <item>
       <title>「異国のグルメ」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9309</link>
@@ -727,20 +727,6 @@
       <pubDate>Fri, 31 Dec 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「百貨珍品」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6121</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201023/2020102321025554237.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6121">「百貨珍品」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">6121</guid>
-      <pubDate>Fri, 23 Oct 2020 21:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キャラクター3Dモデル無料配布中！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5885</link>
-      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5885">キャラクター3Dモデル無料配布中！</a>]]></description>
-      <guid isPermaLink="false">5885</guid>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>「原神」×中国湖南省「張家界」コラボ写真公開！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6208</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201027/2020102716312938996.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6208">「原神」×中国湖南省「張家界」コラボ写真公開！</a>]]></description>
@@ -1436,6 +1422,20 @@
       <pubDate>Fri, 31 Dec 2021 11:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>「オルタコスチューム」についてのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18463</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18463">「オルタコスチューム」についてのお知らせ</a>]]></description>
+      <guid isPermaLink="false">18463</guid>
+      <pubDate>Wed, 05 Jan 2022 06:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.4「流るる星霜、華咲きて」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18431</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415320120403.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18431">Ver.2.4「流るる星霜、華咲きて」更新内容について</a>]]></description>
+      <guid isPermaLink="false">18431</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
       <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
@@ -1635,20 +1635,6 @@
       <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17783">原神 Ver.2.4アップデート記念キャンペーン 参加規約</a>]]></description>
       <guid isPermaLink="false">17783</guid>
       <pubDate>Wed, 29 Dec 2021 22:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>イベント「旅の絵本」の壁紙公開！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/14094</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210713/2021071315215884735.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14094">イベント「旅の絵本」の壁紙公開！</a>]]></description>
-      <guid isPermaLink="false">14094</guid>
-      <pubDate>Tue, 13 Jul 2021 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>原神Ver.2.0稲妻エリア実装記念！稲妻到達チャレンジ！参加規約</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/13786</link>
-      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/13786">原神Ver.2.0稲妻エリア実装記念！稲妻到達チャレンジ！参加規約</a>]]></description>
-      <guid isPermaLink="false">13786</guid>
-      <pubDate>Tue, 13 Jul 2021 22:50:00 +0900</pubDate>
     </item>
     <item>
       <title>Ver.2.0「塵歌壺」システム更新速報：「栽培」システム</title>
@@ -2341,6 +2327,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011535929052.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18263">「雲中白鶴」イベント紹介</a>]]></description>
       <guid isPermaLink="false">18263</guid>
       <pubDate>Fri, 31 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「オルタコスチューム」についてのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18463</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18463">「オルタコスチューム」についてのお知らせ</a>]]></description>
+      <guid isPermaLink="false">18463</guid>
+      <pubDate>Wed, 05 Jan 2022 06:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.4「流るる星霜、華咲きて」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18431</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415320120403.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18431">Ver.2.4「流るる星霜、華咲きて」更新内容について</a>]]></description>
+      <guid isPermaLink="false">18431</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

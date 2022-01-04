@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2022-01-04T22:11:31.207260+00:00</updated>
+  <updated>2022-01-04T23:11:47.086401+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>15763</id>
-    <title>Hướng Dẫn Cách Chơi "Vương Quốc Ánh Trăng"</title>
-    <updated>2021-09-09T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090816531682334.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15763">Hướng Dẫn Cách Chơi "Vương Quốc Ánh Trăng"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15763" rel="alternate"/>
-    <published>2021-09-09T10:30:00+07:00</published>
-  </entry>
   <entry>
     <id>15783</id>
     <title>HÒA NHẠC GENSHIN 2021 - Giai Điệu Hành Trình Bất Tận (Teaser II)</title>
@@ -834,5 +826,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010417351149647.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18460">Genshin Impact - Shenhe: Sương Vũ Vút Bay</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18460" rel="alternate"/>
     <published>2022-01-04T19:15:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18468</id>
+    <title>Giới Thiệu Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</title>
+    <updated>2022-01-05T07:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419205411602.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18468">Giới Thiệu Cập Nhật Phiên Bản 2.4 "Muôn Sắc Khắc Niên Hoa"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18468" rel="alternate"/>
+    <summary/>
+    <published>2022-01-05T07:00:00+07:00</published>
   </entry>
 </feed>

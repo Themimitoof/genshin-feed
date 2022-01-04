@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2022-01-04T22:11:28.740652+00:00</updated>
+  <updated>2022-01-04T23:11:35.324886+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>15826</id>
-    <title>Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</title>
-    <updated>2021-09-15T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417105676330.png"><br/><br/>Como herdeira da linhagem Sangonomiya, ela está destinada a ter que atender aos desejos do povo da Ilha Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15826">Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/15826" rel="alternate"/>
-    <summary>Como herdeira da linhagem Sangonomiya, ela está destinada a ter que atender aos desejos do povo da Ilha Watatsumi.</summary>
-    <published>2021-09-15T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>15874</id>
     <title>Vídeo Comemorativo das Aventura em Teyvat: Carta de Aniversário de Viagens | Genshin Impact</title>
@@ -913,5 +904,14 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/18434" rel="alternate"/>
     <summary>Viajantes que passam pelo Relevo de Jueyun e encontram a garça andando despreocupadamente entre as nuvens têm a inveja despertada.</summary>
     <published>2022-01-04T19:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18466</id>
+    <title>Descrição da Atualização da Versão 2.4 "Cores Efêmeras Voadoras"</title>
+    <updated>2022-01-05T07:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419103813626.jpg"><br/><br/>Segue na publicação o conteúdo da atualização e compensação da Versão 2.4 "Cores Efêmeras Voadoras".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18466">Descrição da Atualização da Versão 2.4 "Cores Efêmeras Voadoras"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18466" rel="alternate"/>
+    <summary>Segue na publicação o conteúdo da atualização e compensação da Versão 2.4 "Cores Efêmeras Voadoras".</summary>
+    <published>2022-01-05T07:00:00+00:00</published>
   </entry>
 </feed>

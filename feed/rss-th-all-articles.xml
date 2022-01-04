@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:45 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -282,13 +282,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121815090510845.png"><br/><br/>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/7470">หน้าตัวอย่างเวอร์ชันใหม่ 1.2 "ชอล์กขาวและมังกรดำ" เปิดให้ชมแล้ว!</a>]]></content:encoded>
       <guid isPermaLink="false">7470</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "ราชันใต้แสงจันทรา"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15762</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090816512160499.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15762">คำอธิบายเกมเพลย์ "ราชันใต้แสงจันทรา"</a>]]></description>
-      <guid isPermaLink="false">15762</guid>
-      <pubDate>Thu, 09 Sep 2021 10:30:00 +0700</pubDate>
     </item>
     <item>
       <title>คอนเสิร์ต GENSHIN 2021 - Melodies of an Endless Journey (ตัวอย่างที่ 2)</title>
@@ -987,11 +980,11 @@
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0700</pubDate>
     </item>
     <item>
-      <title>คำอธิบายเกมเพลย์ "แสงนวลเคล้าจันทร์"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/16128</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414062680288.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16128">คำอธิบายเกมเพลย์ "แสงนวลเคล้าจันทร์"</a>]]></description>
-      <guid isPermaLink="false">16128</guid>
-      <pubDate>Sun, 26 Sep 2021 10:30:00 +0700</pubDate>
+      <title>คำอธิบายการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18467</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419165515224.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18467">คำอธิบายการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</a>]]></description>
+      <guid isPermaLink="false">18467</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
       <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
@@ -1690,6 +1683,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010417331126827.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18458">[Genshin Impact] เก็บตกตัวละคร - "Shenhe: ปีกแห่งเหมันต์ที่โผบิน"</a>]]></description>
       <guid isPermaLink="false">18458</guid>
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18467</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419165515224.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18467">คำอธิบายการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</a>]]></description>
+      <guid isPermaLink="false">18467</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

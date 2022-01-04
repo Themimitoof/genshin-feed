@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:27 +0000</lastBuildDate>
-    <item>
-      <title>「百貨珍品」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6121</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201023/2020102321025554237.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6121">「百貨珍品」イベント紹介</a>]]></description>
-      <guid isPermaLink="false">6121</guid>
-      <pubDate>Fri, 23 Oct 2020 21:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>キャラクター3Dモデル無料配布中！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/5885</link>
-      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/5885">キャラクター3Dモデル無料配布中！</a>]]></description>
-      <guid isPermaLink="false">5885</guid>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:29 +0000</lastBuildDate>
     <item>
       <title>「原神」×中国湖南省「張家界」コラボ写真公開！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6208</link>
@@ -717,6 +703,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122911022467150.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18090">Ver2.4事前ダウンロード開始</a>]]></description>
       <guid isPermaLink="false">18090</guid>
       <pubDate>Fri, 31 Dec 2021 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「オルタコスチューム」についてのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18463</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18463">「オルタコスチューム」についてのお知らせ</a>]]></description>
+      <guid isPermaLink="false">18463</guid>
+      <pubDate>Wed, 05 Jan 2022 06:52:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.4「流るる星霜、華咲きて」更新内容について</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18431</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415320120403.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18431">Ver.2.4「流るる星霜、華咲きて」更新内容について</a>]]></description>
+      <guid isPermaLink="false">18431</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

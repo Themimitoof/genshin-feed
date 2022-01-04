@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:08 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -371,14 +371,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Primordial Jade Cutter (Sword)!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15991</link>
-      <description>Travelers, stock up on weapons and characters in Epitome Invocation to make your party stronger in combat!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817070723981.jpg"><br/><br/>Travelers, stock up on weapons and characters in Epitome Invocation to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15991">Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Primordial Jade Cutter (Sword)!</a>]]></content:encoded>
-      <guid isPermaLink="false">15991</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>"Dracaena Somnolenta Chapter" Story Quest Overview</title>
@@ -1255,12 +1247,12 @@ But what they don't know is that when the cranes go where the wind takes them, t
       <pubDate>Tue, 04 Jan 2022 19:15:00 -0500</pubDate>
     </item>
     <item>
-      <title>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16290</link>
-      <description>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016363752950.jpg"><br/><br/>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16290">The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</a>]]></content:encoded>
-      <guid isPermaLink="false">16290</guid>
-      <pubDate>Mon, 04 Oct 2021 12:00:00 -0400</pubDate>
+      <title>Fleeting Colors in Flight Version 2.4 Update Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18465</link>
+      <description>Below are the details of the Version 2.4 update "Fleeting Colors in Flight" and the update compensation.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419081193688.jpg"><br/><br/>Below are the details of the Version 2.4 update "Fleeting Colors in Flight" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18465">Fleeting Colors in Flight Version 2.4 Update Details</a>]]></content:encoded>
+      <guid isPermaLink="false">18465</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 -0500</pubDate>
     </item>
     <item>
       <title>The Inazuma Diaries: Tsurumi Island</title>
@@ -2120,6 +2112,14 @@ But what they don't know is that when the cranes go where the wind takes them, t
 But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18435">Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18435</guid>
       <pubDate>Tue, 04 Jan 2022 19:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fleeting Colors in Flight Version 2.4 Update Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18465</link>
+      <description>Below are the details of the Version 2.4 update "Fleeting Colors in Flight" and the update compensation.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419081193688.jpg"><br/><br/>Below are the details of the Version 2.4 update "Fleeting Colors in Flight" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18465">Fleeting Colors in Flight Version 2.4 Update Details</a>]]></content:encoded>
+      <guid isPermaLink="false">18465</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

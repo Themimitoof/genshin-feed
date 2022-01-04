@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 04 Jan 2022 22:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 23:11:41 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -353,14 +353,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121817025631829.png"><br/><br/>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/7467">Страница предварительной демонстрации версии 1.2 «Принц мела и дракон» уже открыта!</a>]]></content:encoded>
       <guid isPermaLink="false">7467</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Океан воли» Сангономия Кокоми - Истории персонажей | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15840</link>
-      <description>Как наследница Сангономии, она должна прислушиваться к пожеланиям жителей Ватацуми.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417283960038.png"><br/><br/>Как наследница Сангономии, она должна прислушиваться к пожеланиям жителей Ватацуми.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15840">«Океан воли» Сангономия Кокоми - Истории персонажей | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15840</guid>
-      <pubDate>Wed, 15 Sep 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
       <title>Genshin Impact | Памятное видео о приключениях в Тейвате: письмо годовщины путешествий</title>
@@ -1172,12 +1164,14 @@
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0300</pubDate>
     </item>
     <item>
-      <title>Тизер «Вкусы мира» | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16256</link>
-      <description>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818201720180.jpg"><br/><br/>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16256">Тизер «Вкусы мира» | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16256</guid>
-      <pubDate>Sat, 02 Oct 2021 18:00:00 +0300</pubDate>
+      <title>Подробности обновления 2.4 «Краски мимолётности»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18464</link>
+      <description>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419075670773.jpg"><br/><br/>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18464">Подробности обновления 2.4 «Краски мимолётности»</a>]]></content:encoded>
+      <guid isPermaLink="false">18464</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0300</pubDate>
     </item>
     <item>
       <title>Genshin Impact | Версия 2.2 - Тайны туманного моря</title>
@@ -1989,6 +1983,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416143510910.jpg"><br/><br/>Ступившие в Заоблачный предел странники часто с завистью смотрят, как беззаботно парят среди облаков журавли.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18444">Шэнь Хэ: Трепет ледяных перьев | Коллекция Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18444</guid>
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Подробности обновления 2.4 «Краски мимолётности»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18464</link>
+      <description>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419075670773.jpg"><br/><br/>Дорогие Путешественники!
+В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18464">Подробности обновления 2.4 «Краски мимолётности»</a>]]></content:encoded>
+      <guid isPermaLink="false">18464</guid>
+      <pubDate>Wed, 05 Jan 2022 07:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

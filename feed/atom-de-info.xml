@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2022-01-04T22:11:24.526402+00:00</updated>
+  <updated>2022-01-04T23:11:17.907195+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15815</id>
-    <title>„Um zu überleben, muss man auf alles gefasst sein.“ – „Perle der Weisheit“ Sangonomiya Kokomi</title>
-    <updated>2021-09-15T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410415659358.jpg"><br/><br/>Hallo, Reisender! Heute stellen wir dir Sangonomiya Kokomi, die göttliche Priesterin von Watatsumi, vor.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15815">„Um zu überleben, muss man auf alles gefasst sein.“ – „Perle der Weisheit“ Sangonomiya Kokomi</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15815" rel="alternate"/>
-    <summary>Hallo, Reisender! Heute stellen wir dir Sangonomiya Kokomi, die göttliche Priesterin von Watatsumi, vor.</summary>
-    <published>2021-09-15T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>15828</id>
     <title>Figurenvorschau von Genshin Impact für Sangonomiya Kokomi – „Wille des Meeres“</title>
@@ -958,5 +949,16 @@ Heute stellen wir euch die Direktorin sowie die Grundsäule der Yun-Han-Operntru
     <link href="https://genshin.mihoyo.com/de/news/detail/18451" rel="alternate"/>
     <summary>Wenn Reisende den Jueyun-Karst betreten, werden sie oft neidisch auf die sorglosen wilden Kraniche in den Wolken.</summary>
     <published>2022-01-04T19:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18469</id>
+    <title>Erläuterungen zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“</title>
+    <updated>2022-01-05T07:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419530910104.jpg"><br/><br/>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18469">Erläuterungen zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18469" rel="alternate"/>
+    <summary>Lieber Reisender,
+hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben im Flug“ sowie zur Entschädigung dafür.</summary>
+    <published>2022-01-05T07:00:00+01:00</published>
   </entry>
 </feed>
