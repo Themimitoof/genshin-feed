@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:45 +0000</lastBuildDate>
-    <item>
-      <title>"Para sobreviver às dificuldades, você deve estar preparado para elas." - Sangonomiya Kokomi, "Pérolas de Sabedoria"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/15817</link>
-      <description>Olá, Viajantes! Hoje estaremos apresentando para vocês, a Sacerdotisa Divina da Ilha Watatsumi, Sangonomiya Kokomi.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410445293758.jpg"><br/><br/>Olá, Viajantes! Hoje estaremos apresentando para vocês, a Sacerdotisa Divina da Ilha Watatsumi, Sangonomiya Kokomi.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/15817">"Para sobreviver às dificuldades, você deve estar preparado para elas." - Sangonomiya Kokomi, "Pérolas de Sabedoria"</a>]]></content:encoded>
-      <guid isPermaLink="false">15817</guid>
-      <pubDate>Wed, 15 Sep 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 12:17:18 +0000</lastBuildDate>
     <item>
       <title>Teaser de Personagem: "Sangonomiya Kokomi - Persistência no Mundo Vasto" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15826</link>
@@ -812,6 +804,14 @@ Os e-mails ficarão disponíveis até o final do evento.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010318371237900.jpg"><br/><br/>Entre os fazendeiros que sempre vão às montanhas, circula-se uma dica assim: Andando entre montanhas, é sempre preciso ficar muito atento, ouvindo e olhando para todas as direções, para evitar o ataque dos demônios.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18403">Demo de Novo Personagem - "Shenhe: Uma Garça na Natureza" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18403</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coleção Variada de Genshin Impact - "Shenhe: Plumas Geladas Voam Elegantemente"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18434</link>
+      <description>Viajantes que passam pelo Relevo de Jueyun e encontram a garça andando despreocupadamente entre as nuvens têm a inveja despertada.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415584584096.jpg"><br/><br/>Viajantes que passam pelo Relevo de Jueyun e encontram a garça andando despreocupadamente entre as nuvens têm a inveja despertada.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18434">Coleção Variada de Genshin Impact - "Shenhe: Plumas Geladas Voam Elegantemente"</a>]]></content:encoded>
+      <guid isPermaLink="false">18434</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

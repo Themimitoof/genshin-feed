@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 12:16:53 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -371,14 +371,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15990</link>
-      <description>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817054472468.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15990">Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!</a>]]></content:encoded>
-      <guid isPermaLink="false">15990</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Primordial Jade Cutter (Sword)!</title>
@@ -1253,16 +1245,14 @@ If that happens, take a detour and nothing should happen to you.<br><br>Read mor
       <pubDate>Tue, 04 Jan 2022 12:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16308</link>
-      <description>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
-When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
-or a Traveler from a distant land, all will be revealed.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017313156468.jpg"><br/><br/>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
-When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
-or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16308">Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16308</guid>
-      <pubDate>Sun, 03 Oct 2021 22:30:00 -0400</pubDate>
+      <title>Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18435</link>
+      <description>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415585688395.jpg"><br/><br/>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18435">Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18435</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 -0500</pubDate>
     </item>
     <item>
       <title>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</title>
@@ -2120,6 +2110,16 @@ If you hear a mournful cry of cranes and feel a strong gust of wind wrapped in f
 If that happens, take a detour and nothing should happen to you.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18409">Character Demo - "Shenhe: Crane in the Wild" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18409</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18435</link>
+      <description>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415585688395.jpg"><br/><br/>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18435">Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18435</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:48 +0000</lastBuildDate>
-    <item>
-      <title>Обзорное видео Genshin Impact - Совместное путешествие</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16196</link>
-      <description>Уже начинают появляться первые солнечные лучи, а звёзды всё ещё сверкают на небосводе.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715244137864.jpg"><br/><br/>Уже начинают появляться первые солнечные лучи, а звёзды всё ещё сверкают на небосводе.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16196">Обзорное видео Genshin Impact - Совместное путешествие</a>]]></content:encoded>
-      <guid isPermaLink="false">16196</guid>
-      <pubDate>Tue, 28 Sep 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 12:17:20 +0000</lastBuildDate>
     <item>
       <title>Тизер «Вкусы мира» | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16256</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410153078429.jpg"><br/><br/>Среди селян, что странствуют по горам и пустошам, бытует примета...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18407">«Журавль в пустоши» Шэнь Хэ - Новый персонаж | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18407</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Шэнь Хэ: Трепет ледяных перьев | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18444</link>
+      <description>Ступившие в Заоблачный предел странники часто с завистью смотрят, как беззаботно парят среди облаков журавли.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416143510910.jpg"><br/><br/>Ступившие в Заоблачный предел странники часто с завистью смотрят, как беззаботно парят среди облаков журавли.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18444">Шэнь Хэ: Трепет ледяных перьев | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18444</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

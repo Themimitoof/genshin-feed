@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2022-01-04T11:10:25.525085+00:00</updated>
+  <updated>2022-01-04T12:17:03.024049+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -337,15 +337,6 @@ nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>15793</id>
-    <title>Online-Konzert von Genshin Impact 2021 – Melodien einer endlosen Reise (Teaser 2)</title>
-    <updated>2021-09-10T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017335572287.png"><br/><br/>Genshin Impact und eine Popmusikgruppe aus Südkorea treten zusammen auf, um euch einen weiteren Vorschaufilm für das Online-Konzert mit einer einzigartigen neuen Adaption der Musik zu bringen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15793">Online-Konzert von Genshin Impact 2021 – Melodien einer endlosen Reise (Teaser 2)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15793" rel="alternate"/>
-    <summary>Genshin Impact und eine Popmusikgruppe aus Südkorea treten zusammen auf, um euch einen weiteren Vorschaufilm für das Online-Konzert mit einer einzigartigen neuen Adaption der Musik zu bringen.</summary>
-    <published>2021-09-10T18:00:00+02:00</published>
   </entry>
   <entry>
     <id>15815</id>
@@ -1289,13 +1280,13 @@ Heute stellen wir euch die Direktorin sowie die Grundsäule der Yun-Han-Operntru
     <published>2022-01-04T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>16083</id>
-    <title>Realm of Tranquil Eternity | Genshin Impact</title>
-    <updated>2021-09-22T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018173394770.jpg"><br/><br/>Die Musik zu Inazuma von Genshin Impact „Realm of Tranquil Eternity“ ist offiziell online.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16083">Realm of Tranquil Eternity | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16083" rel="alternate"/>
-    <summary>Die Musik zu Inazuma von Genshin Impact „Realm of Tranquil Eternity“ ist offiziell online.</summary>
-    <published>2021-09-22T12:00:00+02:00</published>
+    <id>18451</id>
+    <title>Fähigkeiten bei Genshin Impact – Shenhe: Flatternde Federn im Frost</title>
+    <updated>2022-01-04T19:15:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010417112141371.jpg"><br/><br/>Wenn Reisende den Jueyun-Karst betreten, werden sie oft neidisch auf die sorglosen wilden Kraniche in den Wolken.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18451">Fähigkeiten bei Genshin Impact – Shenhe: Flatternde Federn im Frost</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18451" rel="alternate"/>
+    <summary>Wenn Reisende den Jueyun-Karst betreten, werden sie oft neidisch auf die sorglosen wilden Kraniche in den Wolken.</summary>
+    <published>2022-01-04T19:15:00+01:00</published>
   </entry>
   <entry>
     <id>16149</id>
@@ -2246,5 +2237,14 @@ Heute stellen wir euch die Direktorin sowie die Grundsäule der Yun-Han-Operntru
     <link href="https://genshin.mihoyo.com/de/news/detail/18415" rel="alternate"/>
     <summary>Unter den Dorfbewohnern, die oft in den Bergen unterwegs sind, erzählt man sich Folgendes:</summary>
     <published>2022-01-04T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18451</id>
+    <title>Fähigkeiten bei Genshin Impact – Shenhe: Flatternde Federn im Frost</title>
+    <updated>2022-01-04T19:15:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010417112141371.jpg"><br/><br/>Wenn Reisende den Jueyun-Karst betreten, werden sie oft neidisch auf die sorglosen wilden Kraniche in den Wolken.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18451">Fähigkeiten bei Genshin Impact – Shenhe: Flatternde Federn im Frost</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18451" rel="alternate"/>
+    <summary>Wenn Reisende den Jueyun-Karst betreten, werden sie oft neidisch auf die sorglosen wilden Kraniche in den Wolken.</summary>
+    <published>2022-01-04T19:15:00+01:00</published>
   </entry>
 </feed>

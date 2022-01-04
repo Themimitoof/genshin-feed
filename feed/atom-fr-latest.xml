@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2022-01-04T11:10:10.971314+00:00</updated>
+  <updated>2022-01-04T12:16:53.690992+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>16085</id>
-    <title>Bande-son de Genshin Impact: Realm of Tranquil Eternity</title>
-    <updated>2021-09-22T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018204057885.jpg"><br/><br/>La bande originale d'Inazuma de Genshin Impact « Realm of Tranquil Eternity » est désormais disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16085">Bande-son de Genshin Impact: Realm of Tranquil Eternity</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16085" rel="alternate"/>
-    <summary>La bande originale d'Inazuma de Genshin Impact « Realm of Tranquil Eternity » est désormais disponible.</summary>
-    <published>2021-09-22T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16154</id>
     <title>Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</title>
@@ -851,5 +842,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010316245363353.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18401">Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18401" rel="alternate"/>
     <published>2022-01-04T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18450</id>
+    <title>Genshin Impact - Shenhe : Plumes de givre et élégance</title>
+    <updated>2022-01-04T19:15:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416441346488.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18450">Genshin Impact - Shenhe : Plumes de givre et élégance</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18450" rel="alternate"/>
+    <published>2022-01-04T19:15:00+01:00</published>
   </entry>
 </feed>

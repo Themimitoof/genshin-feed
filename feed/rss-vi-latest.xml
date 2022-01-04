@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:57 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] OST Chủ đề - Realm of Tranquil Eternity</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/16093</link>
-      <description>[Genshin Impact] OST Inazuma "Realm of Tranquil Eternity" chính thức ra mắt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018324694578.jpg"><br/><br/>[Genshin Impact] OST Inazuma "Realm of Tranquil Eternity" chính thức ra mắt.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16093">[Genshin Impact] OST Chủ đề - Realm of Tranquil Eternity</a>]]></content:encoded>
-      <guid isPermaLink="false">16093</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 12:17:27 +0000</lastBuildDate>
     <item>
       <title>Hậu Trường Âm Nhạc Inazuma Của Genshin Impact - Nỗi Lòng Người Lữ Khách</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/16156</link>
@@ -714,6 +706,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410294855805.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18413">Giới thiệu nhân vật Genshin Impact - Shenhe: Tiếng Hạc Nơi Hoang Dã</a>]]></description>
       <guid isPermaLink="false">18413</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Shenhe: Sương Vũ Vút Bay</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18460</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010417351149647.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18460">Genshin Impact - Shenhe: Sương Vũ Vút Bay</a>]]></description>
+      <guid isPermaLink="false">18460</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

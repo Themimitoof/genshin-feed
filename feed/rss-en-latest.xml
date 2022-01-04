@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:05 +0000</lastBuildDate>
-    <item>
-      <title>Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16308</link>
-      <description>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
-When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
-or a Traveler from a distant land, all will be revealed.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017313156468.jpg"><br/><br/>The trials of the warriors are hidden in the domain, the sorrowful past buried in the hazy fog.
-When the veil of mystery is lifted, regardless if you are a martial artist craving for combat
-or a Traveler from a distant land, all will be revealed.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16308">Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16308</guid>
-      <pubDate>Sun, 03 Oct 2021 22:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 12:16:49 +0000</lastBuildDate>
     <item>
       <title>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16290</link>
@@ -877,6 +865,16 @@ If you hear a mournful cry of cranes and feel a strong gust of wind wrapped in f
 If that happens, take a detour and nothing should happen to you.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18409">Character Demo - "Shenhe: Crane in the Wild" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18409</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18435</link>
+      <description>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415585688395.jpg"><br/><br/>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18435">Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18435</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 12:16:56 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -312,13 +312,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Détails de l'événement « Royaume lunaire »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15766</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819265467136.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15766">Détails de l'événement « Royaume lunaire »</a>]]></description>
-      <guid isPermaLink="false">15766</guid>
-      <pubDate>Thu, 09 Sep 2021 10:30:00 +0200</pubDate>
     </item>
     <item>
       <title>GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</title>
@@ -1038,12 +1031,11 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Tue, 04 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Bande-son de Genshin Impact: Realm of Tranquil Eternity</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16085</link>
-      <description>La bande originale d'Inazuma de Genshin Impact « Realm of Tranquil Eternity » est désormais disponible.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018204057885.jpg"><br/><br/>La bande originale d'Inazuma de Genshin Impact « Realm of Tranquil Eternity » est désormais disponible.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16085">Bande-son de Genshin Impact: Realm of Tranquil Eternity</a>]]></content:encoded>
-      <guid isPermaLink="false">16085</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0200</pubDate>
+      <title>Genshin Impact - Shenhe : Plumes de givre et élégance</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18450</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416441346488.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18450">Genshin Impact - Shenhe : Plumes de givre et élégance</a>]]></description>
+      <guid isPermaLink="false">18450</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 +0100</pubDate>
     </item>
     <item>
       <title>Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</title>
@@ -1762,6 +1754,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010316245363353.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18401">Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</a>]]></description>
       <guid isPermaLink="false">18401</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Shenhe : Plumes de givre et élégance</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18450</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416441346488.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18450">Genshin Impact - Shenhe : Plumes de givre et élégance</a>]]></description>
+      <guid isPermaLink="false">18450</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

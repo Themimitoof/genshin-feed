@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:43 +0000</lastBuildDate>
-    <item>
-      <title>Evento de Sorteio de Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16165</link>
-      <description>O tempo em Teyvat parece sempre voar. Mas com sua companhia, até mesmo dias comuns brilham como fragmentos de luz.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092617415164234.jpg"><br/><br/>O tempo em Teyvat parece sempre voar. Mas com sua companhia, até mesmo dias comuns brilham como fragmentos de luz.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16165">Evento de Sorteio de Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16165</guid>
-      <pubDate>Sun, 03 Oct 2021 22:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 12:17:16 +0000</lastBuildDate>
     <item>
       <title>Teaser Versão 2.2: "Mistério do Mar de Névoa" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16312</link>
@@ -818,6 +810,14 @@ Os e-mails ficarão disponíveis até o final do evento.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010318371237900.jpg"><br/><br/>Entre os fazendeiros que sempre vão às montanhas, circula-se uma dica assim: Andando entre montanhas, é sempre preciso ficar muito atento, ouvindo e olhando para todas as direções, para evitar o ataque dos demônios.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18403">Demo de Novo Personagem - "Shenhe: Uma Garça na Natureza" | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18403</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Coleção Variada de Genshin Impact - "Shenhe: Plumas Geladas Voam Elegantemente"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18434</link>
+      <description>Viajantes que passam pelo Relevo de Jueyun e encontram a garça andando despreocupadamente entre as nuvens têm a inveja despertada.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415584584096.jpg"><br/><br/>Viajantes que passam pelo Relevo de Jueyun e encontram a garça andando despreocupadamente entre as nuvens têm a inveja despertada.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18434">Coleção Variada de Genshin Impact - "Shenhe: Plumas Geladas Voam Elegantemente"</a>]]></content:encoded>
+      <guid isPermaLink="false">18434</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

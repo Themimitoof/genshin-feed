@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:49 +0000</lastBuildDate>
-    <item>
-      <title>«Хорошая подготовка помогает справиться с кризисом», - «Жемчужина мудрости» Сангономия Кокоми.</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15816</link>
-      <description>Привет, Путешественники! Сегодня мы расскажем о новом персонаже, Сангономии Кокоми. Божественной Жрице острова Ватацуми.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091410441830470.jpg"><br/><br/>Привет, Путешественники! Сегодня мы расскажем о новом персонаже, Сангономии Кокоми. Божественной Жрице острова Ватацуми.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15816">«Хорошая подготовка помогает справиться с кризисом», - «Жемчужина мудрости» Сангономия Кокоми.</a>]]></content:encoded>
-      <guid isPermaLink="false">15816</guid>
-      <pubDate>Wed, 15 Sep 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 12:17:21 +0000</lastBuildDate>
     <item>
       <title>«Океан воли» Сангономия Кокоми - Истории персонажей | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/15840</link>
@@ -825,6 +817,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410153078429.jpg"><br/><br/>Среди селян, что странствуют по горам и пустошам, бытует примета...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18407">«Журавль в пустоши» Шэнь Хэ - Новый персонаж | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18407</guid>
       <pubDate>Tue, 04 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Шэнь Хэ: Трепет ледяных перьев | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18444</link>
+      <description>Ступившие в Заоблачный предел странники часто с завистью смотрят, как беззаботно парят среди облаков журавли.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416143510910.jpg"><br/><br/>Ступившие в Заоблачный предел странники часто с завистью смотрят, как беззаботно парят среди облаков журавли.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18444">Шэнь Хэ: Трепет ледяных перьев | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18444</guid>
+      <pubDate>Tue, 04 Jan 2022 19:15:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2022-01-04T11:10:07.654974+00:00</updated>
+  <updated>2022-01-04T12:16:51.032114+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>15990</id>
-    <title>Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!</title>
-    <updated>2021-09-19T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817054472468.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15990">Event Wish "Drifting Luminescence" - Boosted Drop Rate for "Pearl of Wisdom" Sangonomiya Kokomi (Hydro)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15990" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</summary>
-    <published>2021-09-19T12:00:00-04:00</published>
-  </entry>
   <entry>
     <id>15991</id>
     <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Everlasting Moonglow (Catalyst) and Primordial Jade Cutter (Sword)!</title>
@@ -989,5 +980,16 @@ When walking in the mountains, one must keep your eyes and ears wide open at all
 If you hear a mournful cry of cranes and feel a strong gust of wind wrapped in frost, it means that an exorcist or an adeptus is close by, slaying demons.
 If that happens, take a detour and nothing should happen to you.</summary>
     <published>2022-01-04T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18435</id>
+    <title>Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</title>
+    <updated>2022-01-04T19:15:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415585688395.jpg"><br/><br/>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18435">Collected Miscellany - "Shenhe: Fluttering of Frosty Feathers" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18435" rel="alternate"/>
+    <summary>When travelers set foot in Jueyun Karst, it is common for them to feel envious of the carefree wild cranes in the clouds.
+But what they don't know is that when the cranes go where the wind takes them, they are lost as to where this path leads.</summary>
+    <published>2022-01-04T19:15:00-05:00</published>
   </entry>
 </feed>

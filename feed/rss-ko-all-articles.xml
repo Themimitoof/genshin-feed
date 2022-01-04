@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 04 Jan 2022 11:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 12:17:16 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -377,14 +377,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 2)</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/15795</link>
-      <description>지금 바로 원신 온라인 콘서트 두 번째 티저 영상을 감상해보세요</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017420166140.png"><br/><br/>지금 바로 원신 온라인 콘서트 두 번째 티저 영상을 감상해보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15795">원신 콘서트 2021 - Melodies of an Endless Journey (티저 2)</a>]]></content:encoded>
-      <guid isPermaLink="false">15795</guid>
-      <pubDate>Fri, 10 Sep 2021 18:01:00 +0900</pubDate>
     </item>
     <item>
       <title>「미리 준비해둬야 위험이 다가와도 흐트러지지 않아」 - 「진주의 지혜」·산고노미야 코코미</title>
@@ -1187,12 +1179,14 @@
       <pubDate>Tue, 04 Jan 2022 12:01:00 +0900</pubDate>
     </item>
     <item>
-      <title>&lt;원신&gt; 홍보 영상 - 머나먼 여정의 동행</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16217</link>
-      <description>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092720500296031.jpg"><br/><br/>노을빛이 지평선 위로 떠오르고 별빛이 하늘에서 반짝인다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16217"><원신> 홍보 영상 - 머나먼 여정의 동행</a>]]></content:encoded>
-      <guid isPermaLink="false">16217</guid>
-      <pubDate>Tue, 28 Sep 2021 12:01:00 +0900</pubDate>
+      <title>&lt;원신&gt; 데인 여담 - 「신학: 흩날리는 서리 깃」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18447</link>
+      <description>절운간에 들어선 나그네는 구름 속을 유유자적 노니는 학을 보며 부러워하지만,
+바람을 타고 나는 학이 어디로 돌아가야 할지 몰라 막막해하는 것은 알지 못한다….</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416274932636.jpg"><br/><br/>절운간에 들어선 나그네는 구름 속을 유유자적 노니는 학을 보며 부러워하지만,
+바람을 타고 나는 학이 어디로 돌아가야 할지 몰라 막막해하는 것은 알지 못한다….<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18447"><원신> 데인 여담 - 「신학: 흩날리는 서리 깃」</a>]]></content:encoded>
+      <guid isPermaLink="false">18447</guid>
+      <pubDate>Tue, 04 Jan 2022 19:16:00 +0900</pubDate>
     </item>
     <item>
       <title>&lt;원신&gt; 스토리 PV - 「속세의 맛」</title>
@@ -1992,6 +1986,16 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410400959970.jpg"><br/><br/>산과 들을 자주 오가는 주민들 사이에는 이러한 충고가 전해져 내려온다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18417"><원신> 신규 캐릭터 플레이 - 「신학: 야외에서 들려오는 학의 울음소리」</a>]]></content:encoded>
       <guid isPermaLink="false">18417</guid>
       <pubDate>Tue, 04 Jan 2022 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 데인 여담 - 「신학: 흩날리는 서리 깃」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18447</link>
+      <description>절운간에 들어선 나그네는 구름 속을 유유자적 노니는 학을 보며 부러워하지만,
+바람을 타고 나는 학이 어디로 돌아가야 할지 몰라 막막해하는 것은 알지 못한다….</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416274932636.jpg"><br/><br/>절운간에 들어선 나그네는 구름 속을 유유자적 노니는 학을 보며 부러워하지만,
+바람을 타고 나는 학이 어디로 돌아가야 할지 몰라 막막해하는 것은 알지 못한다….<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18447"><원신> 데인 여담 - 「신학: 흩날리는 서리 깃」</a>]]></content:encoded>
+      <guid isPermaLink="false">18447</guid>
+      <pubDate>Tue, 04 Jan 2022 19:16:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
