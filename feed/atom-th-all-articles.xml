@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-04T03:12:40.223921+00:00</updated>
+  <updated>2022-01-04T04:14:40.571247+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -336,14 +336,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15639</id>
-    <title>Genshin Impact เก็บตกตัวละคร - "Kujou Sara: ปีกปักษาอัสนี"</title>
-    <updated>2021-09-02T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210245718466.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15639">Genshin Impact เก็บตกตัวละคร - "Kujou Sara: ปีกปักษาอัสนี"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15639" rel="alternate"/>
-    <published>2021-09-02T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>15709</id>
@@ -1162,13 +1154,12 @@
     <published>2022-01-03T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16081</id>
-    <title>Genshin Impact OST "Realm of Tranquil Eternity"</title>
-    <updated>2021-09-22T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018121620542.jpg"><br/><br/>[Genshin Impact] อัลบั้ม Inazuma "Realm of Tranquil Eternity" ได้เปิดตัวอย่างเป็นทางการแล้ว<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16081">Genshin Impact OST "Realm of Tranquil Eternity"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16081" rel="alternate"/>
-    <summary>[Genshin Impact] อัลบั้ม Inazuma "Realm of Tranquil Eternity" ได้เปิดตัวอย่างเป็นทางการแล้ว</summary>
-    <published>2021-09-22T12:00:00+07:00</published>
+    <id>18411</id>
+    <title>ตัวอย่างตัวละคร Genshin Impact - "Shenhe: กลิ่นอายนกป่า"</title>
+    <updated>2022-01-04T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410231552826.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18411">ตัวอย่างตัวละคร Genshin Impact - "Shenhe: กลิ่นอายนกป่า"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18411" rel="alternate"/>
+    <published>2022-01-04T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16152</id>
@@ -1993,5 +1984,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915482710481.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18118">"Genshin Impact" มินิอัลบั้ม - ทลายความชั่วร้ายพิทักษ์ความสงบ</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18118" rel="alternate"/>
     <published>2022-01-03T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18411</id>
+    <title>ตัวอย่างตัวละคร Genshin Impact - "Shenhe: กลิ่นอายนกป่า"</title>
+    <updated>2022-01-04T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410231552826.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18411">ตัวอย่างตัวละคร Genshin Impact - "Shenhe: กลิ่นอายนกป่า"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18411" rel="alternate"/>
+    <published>2022-01-04T12:00:00+07:00</published>
   </entry>
 </feed>

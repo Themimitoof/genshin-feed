@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 04 Jan 2022 03:12:23 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15695</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></description>
-      <guid isPermaLink="false">15695</guid>
-      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 04:14:05 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement « Royaume lunaire »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15766</link>
@@ -732,6 +725,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918384776499.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18168">Genshin Impact, la bande-son : Purification du mal et tranquillité</a>]]></description>
       <guid isPermaLink="false">18168</guid>
       <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18401</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010316245363353.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18401">Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</a>]]></description>
+      <guid isPermaLink="false">18401</guid>
+      <pubDate>Tue, 04 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2022-01-04T03:12:34.157084+00:00</updated>
+  <updated>2022-01-04T04:14:26.894069+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15767</id>
-    <title>「달의 왕국」 콘텐츠 안내</title>
-    <updated>2021-09-09T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210908/2021090819274030121.jpg"><br/><br/>이나즈마의 낚시꾼 「쿠지라이 모미지」는 줄곧 전설의 대어인 「해중월」을 찾아다니고 있다. 그녀는 옛 친구들을 소집하려 하고 여행자도 초대하여 함께 달을 쫓는 여행을 하려 한다. 그녀는 과연 자신의 염원을 이룰 수 있을까?<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15767">「달의 왕국」 콘텐츠 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15767" rel="alternate"/>
-    <summary>이나즈마의 낚시꾼 「쿠지라이 모미지」는 줄곧 전설의 대어인 「해중월」을 찾아다니고 있다. 그녀는 옛 친구들을 소집하려 하고 여행자도 초대하여 함께 달을 쫓는 여행을 하려 한다. 그녀는 과연 자신의 염원을 이룰 수 있을까?</summary>
-    <published>2021-09-09T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>15795</id>
     <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 2)</title>
@@ -919,5 +910,14 @@
     <summary>천겁의 세월 동안 끝없는 고난을 거쳐 악한 잔혼을 제거하고,
 푸르른 물과 산을 바라보며 찰나 간의 평화를 누린다.</summary>
     <published>2022-01-03T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18417</id>
+    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「신학: 야외에서 들려오는 학의 울음소리」</title>
+    <updated>2022-01-04T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410400959970.jpg"><br/><br/>산과 들을 자주 오가는 주민들 사이에는 이러한 충고가 전해져 내려온다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18417"><원신> 신규 캐릭터 플레이 - 「신학: 야외에서 들려오는 학의 울음소리」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18417" rel="alternate"/>
+    <summary>산과 들을 자주 오가는 주민들 사이에는 이러한 충고가 전해져 내려온다</summary>
+    <published>2022-01-04T12:01:00+09:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 04 Jan 2022 03:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 04:14:07 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -312,13 +312,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15695</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210906/2021090611054638916.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15695">Genshin Impact - Aperçu de l'histoire « Promesse d'un rêve »</a>]]></description>
-      <guid isPermaLink="false">15695</guid>
-      <pubDate>Mon, 06 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Royaume lunaire »</title>
@@ -1038,11 +1031,11 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Sangonomiya Kokomi : Marée ondulante</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15967</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091719515236528.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15967">Genshin Impact - Sangonomiya Kokomi : Marée ondulante</a>]]></description>
-      <guid isPermaLink="false">15967</guid>
-      <pubDate>Tue, 21 Sep 2021 18:00:00 +0200</pubDate>
+      <title>Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18401</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010316245363353.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18401">Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</a>]]></description>
+      <guid isPermaLink="false">18401</guid>
+      <pubDate>Tue, 04 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Bande-son de Genshin Impact: Realm of Tranquil Eternity</title>
@@ -1762,6 +1755,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122918384776499.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18168">Genshin Impact, la bande-son : Purification du mal et tranquillité</a>]]></description>
       <guid isPermaLink="false">18168</guid>
       <pubDate>Mon, 03 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18401</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010316245363353.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18401">Genshin Impact - Démo personnage : « Shenhe : Une grue dans la nature »</a>]]></description>
+      <guid isPermaLink="false">18401</guid>
+      <pubDate>Tue, 04 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

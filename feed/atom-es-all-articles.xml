@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-04T03:12:30.451026+00:00</updated>
+  <updated>2022-01-04T04:14:19.306787+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -546,6 +546,15 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2022-01-03T12:00:00+01:00</published>
   </entry>
   <entry>
+    <id>18399</id>
+    <title>Demo de nuevo personaje de Genshin Impact - Shenhe: Una grulla en la naturaleza</title>
+    <updated>2022-01-04T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010313400712179.jpg"><br/><br/>Entre los aldeanos de las montañas hay un dicho que dice:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18399">Demo de nuevo personaje de Genshin Impact - Shenhe: Una grulla en la naturaleza</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18399" rel="alternate"/>
+    <summary>Entre los aldeanos de las montañas hay un dicho que dice:</summary>
+    <published>2022-01-04T12:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -771,5 +780,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18113" rel="alternate"/>
     <summary>A través de mil adversidades, el mal de los agravios interminables será exterminado.</summary>
     <published>2022-01-03T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18399</id>
+    <title>Demo de nuevo personaje de Genshin Impact - Shenhe: Una grulla en la naturaleza</title>
+    <updated>2022-01-04T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010313400712179.jpg"><br/><br/>Entre los aldeanos de las montañas hay un dicho que dice:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18399">Demo de nuevo personaje de Genshin Impact - Shenhe: Una grulla en la naturaleza</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18399" rel="alternate"/>
+    <summary>Entre los aldeanos de las montañas hay un dicho que dice:</summary>
+    <published>2022-01-04T12:00:00+01:00</published>
   </entry>
 </feed>

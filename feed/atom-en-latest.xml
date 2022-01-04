@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2022-01-04T03:12:20.506862+00:00</updated>
+  <updated>2022-01-04T04:13:58.817745+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>16164</id>
-    <title>Genshin Impact Raffle Event</title>
-    <updated>2021-10-03T22:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092617320491058.jpg"><br/><br/>To thank everyone for their constant support and companionship, Paimon has specially prepared a raffle event that you can take part in by sharing posts. During the event, share this post for a chance to win great rewards~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16164">Genshin Impact Raffle Event</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16164" rel="alternate"/>
-    <summary>To thank everyone for their constant support and companionship, Paimon has specially prepared a raffle event that you can take part in by sharing posts. During the event, share this post for a chance to win great rewards~</summary>
-    <published>2021-10-03T22:30:00-04:00</published>
-  </entry>
   <entry>
     <id>16308</id>
     <title>Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</title>
@@ -973,5 +964,20 @@ While gazing at the flowing rivers and towering mountains, one can enjoy a momen
     <summary>Through thousands of calamities and adversities, the evil of lingering malice will be purged.
 While gazing at the flowing rivers and towering mountains, one can enjoy a moment of peace.</summary>
     <published>2022-01-03T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18409</id>
+    <title>Character Demo - "Shenhe: Crane in the Wild" | Genshin Impact</title>
+    <updated>2022-01-04T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410191246506.jpg"><br/><br/>Among the villagers who often traverse the mountains, there is a saying that goes like this:
+When walking in the mountains, one must keep your eyes and ears wide open at all times to stay vigilant against evil spirits.
+If you hear a mournful cry of cranes and feel a strong gust of wind wrapped in frost, it means that an exorcist or an adeptus is close by, slaying demons.
+If that happens, take a detour and nothing should happen to you.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18409">Character Demo - "Shenhe: Crane in the Wild" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18409" rel="alternate"/>
+    <summary>Among the villagers who often traverse the mountains, there is a saying that goes like this:
+When walking in the mountains, one must keep your eyes and ears wide open at all times to stay vigilant against evil spirits.
+If you hear a mournful cry of cranes and feel a strong gust of wind wrapped in frost, it means that an exorcist or an adeptus is close by, slaying demons.
+If that happens, take a detour and nothing should happen to you.</summary>
+    <published>2022-01-04T12:00:00-05:00</published>
   </entry>
 </feed>

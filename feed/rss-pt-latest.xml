@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 04 Jan 2022 03:12:35 +0000</lastBuildDate>
-    <item>
-      <title>Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16258</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818482678688.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16258">Teaser de História - "Sabores do Mundo Mortal" | Genshin Impact</a>]]></description>
-      <guid isPermaLink="false">16258</guid>
-      <pubDate>Sat, 02 Oct 2021 18:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 04 Jan 2022 04:14:29 +0000</lastBuildDate>
     <item>
       <title>Evento de Sorteio de Genshin Impact</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16165</link>
@@ -817,6 +810,14 @@ Os e-mails ficarão disponíveis até o final do evento.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915413913522.jpg"><br/><br/>Passando por obstáculo após obstáculo, ele acabou com os demônios com ressentimentos persistentes.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18116">EP - Um Momento de Tranquilidade na Erradicação do Mal | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18116</guid>
       <pubDate>Mon, 03 Jan 2022 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demo de Novo Personagem - "Shenhe: Uma Garça na Natureza" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18403</link>
+      <description>Entre os fazendeiros que sempre vão às montanhas, circula-se uma dica assim: Andando entre montanhas, é sempre preciso ficar muito atento, ouvindo e olhando para todas as direções, para evitar o ataque dos demônios.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220103/2022010318371237900.jpg"><br/><br/>Entre os fazendeiros que sempre vão às montanhas, circula-se uma dica assim: Andando entre montanhas, é sempre preciso ficar muito atento, ouvindo e olhando para todas as direções, para evitar o ataque dos demônios.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18403">Demo de Novo Personagem - "Shenhe: Uma Garça na Natureza" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18403</guid>
+      <pubDate>Tue, 04 Jan 2022 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2022-01-04T03:12:41.661561+00:00</updated>
+  <updated>2022-01-04T04:14:44.514232+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -321,14 +321,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15641</id>
-    <title>[Genshin Impact] - Kujou Sara: Hắc Vũ Thần Tốc</title>
-    <updated>2021-09-02T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210902/2021090210273067306.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15641">[Genshin Impact] - Kujou Sara: Hắc Vũ Thần Tốc</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15641" rel="alternate"/>
-    <published>2021-09-02T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>15711</id>
@@ -1149,12 +1141,12 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2022-01-03T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>15961</id>
-    <title>[Genshin Impact] - Sangonomiya Kokomi: Hải Triều Lấp Lánh</title>
-    <updated>2021-09-21T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718035743139.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15961">[Genshin Impact] - Sangonomiya Kokomi: Hải Triều Lấp Lánh</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15961" rel="alternate"/>
-    <published>2021-09-21T18:00:00+07:00</published>
+    <id>18413</id>
+    <title>Giới thiệu nhân vật Genshin Impact - Shenhe: Tiếng Hạc Nơi Hoang Dã</title>
+    <updated>2022-01-04T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410294855805.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18413">Giới thiệu nhân vật Genshin Impact - Shenhe: Tiếng Hạc Nơi Hoang Dã</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18413" rel="alternate"/>
+    <published>2022-01-04T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16093</id>
@@ -1975,5 +1967,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211229/2021122915581481667.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18122">Tuyển tập Genshin Impact - A Moment of Tranquility in the Eradication of Evil</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18122" rel="alternate"/>
     <published>2022-01-03T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18413</id>
+    <title>Giới thiệu nhân vật Genshin Impact - Shenhe: Tiếng Hạc Nơi Hoang Dã</title>
+    <updated>2022-01-04T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010410294855805.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18413">Giới thiệu nhân vật Genshin Impact - Shenhe: Tiếng Hạc Nơi Hoang Dã</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18413" rel="alternate"/>
+    <published>2022-01-04T12:00:00+07:00</published>
   </entry>
 </feed>
