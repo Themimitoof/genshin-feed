@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Jan 2022 03:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jan 2022 04:14:17 +0000</lastBuildDate>
     <item>
       <title>「異国のグルメ」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9309</link>
@@ -727,13 +727,6 @@
       <pubDate>Fri, 31 Dec 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「原神」×中国湖南省「張家界」コラボ写真公開！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6208</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201027/2020102716312938996.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6208">「原神」×中国湖南省「張家界」コラボ写真公開！</a>]]></description>
-      <guid isPermaLink="false">6208</guid>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
-    <item>
       <title>キャンペーン「冒険者・集結」開催！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6226</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201028/2020102815340222327.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6226">キャンペーン「冒険者・集結」開催！</a>]]></description>
@@ -1436,6 +1429,13 @@
       <pubDate>Wed, 05 Jan 2022 07:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>Appleアカウントにおけるシステムメンテナンスのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18429</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010412011837535.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18429">Appleアカウントにおけるシステムメンテナンスのお知らせ</a>]]></description>
+      <guid isPermaLink="false">18429</guid>
+      <pubDate>Wed, 05 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>親愛なる旅人さんへ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/3061</link>
       <description>『原神』クローズドベータテストの最後に書かれた、プロデューサーからの手紙</description>
@@ -1635,13 +1635,6 @@
       <description><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17783">原神 Ver.2.4アップデート記念キャンペーン 参加規約</a>]]></description>
       <guid isPermaLink="false">17783</guid>
       <pubDate>Wed, 29 Dec 2021 22:50:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>Ver.2.0「塵歌壺」システム更新速報：「栽培」システム</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/14095</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071513132823360.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14095">Ver.2.0「塵歌壺」システム更新速報：「栽培」システム</a>]]></description>
-      <guid isPermaLink="false">14095</guid>
-      <pubDate>Wed, 14 Jul 2021 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>Ver.2.0「鳴神不動、泡影を滅す」特設ページ</title>
@@ -2341,6 +2334,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010415320120403.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18431">Ver.2.4「流るる星霜、華咲きて」更新内容について</a>]]></description>
       <guid isPermaLink="false">18431</guid>
       <pubDate>Wed, 05 Jan 2022 07:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Appleアカウントにおけるシステムメンテナンスのお知らせ</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18429</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010412011837535.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18429">Appleアカウントにおけるシステムメンテナンスのお知らせ</a>]]></description>
+      <guid isPermaLink="false">18429</guid>
+      <pubDate>Wed, 05 Jan 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
