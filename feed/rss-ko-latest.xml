@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:17:14 +0000</lastBuildDate>
-    <item>
-      <title>[이나즈마 수첩] 츠루미 편</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16339</link>
-      <description>2.2 버전에서 이나즈마 지역 신규 섬 - 「츠루미」가 오픈될 거야. 안개로 가득한 이 섬에 대해 함께 알아보자~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100319145762807.jpg"><br/><br/>2.2 버전에서 이나즈마 지역 신규 섬 - 「츠루미」가 오픈될 거야. 안개로 가득한 이 섬에 대해 함께 알아보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16339">[이나즈마 수첩] 츠루미 편</a>]]></content:encoded>
-      <guid isPermaLink="false">16339</guid>
-      <pubDate>Wed, 06 Oct 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 11:10:07 +0000</lastBuildDate>
     <item>
       <title>[10.06] 개발진 간담회 - 짜잔! 간편 아이템 「바람의 노래 하프」 재등장~</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16348</link>
@@ -815,6 +807,14 @@
 여걸의 용감한 모습을 노래하며 새로운 이야기를 더해 등불 밝은 집들 사이에 다시 전해지네.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18533"><원신> 스토리 PV -  「사원을 가른 신녀」</a>]]></content:encoded>
       <guid isPermaLink="false">18533</guid>
       <pubDate>Thu, 06 Jan 2022 18:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Twitch &lt;원신&gt;  스트리머 모집</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18545</link>
+      <description>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616241215250.jpg"><br/><br/>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18545">Twitch <원신>  스트리머 모집</a>]]></content:encoded>
+      <guid isPermaLink="false">18545</guid>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

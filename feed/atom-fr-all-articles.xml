@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2022-01-06T10:16:55.592324+00:00</updated>
+  <updated>2022-01-06T11:09:44.936697+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -204,6 +204,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123101572226668.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18332">L'événement web « Grue dans les nuages » est désormais disponible</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18332" rel="alternate"/>
     <published>2021-12-31T12:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18554</id>
+    <title>La campagne de recrutement de streamers sur Twitch</title>
+    <updated>2022-01-06T19:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617473322551.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18554">La campagne de recrutement de streamers sur Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18554" rel="alternate"/>
+    <published>2022-01-06T19:00:00+01:00</published>
   </entry>
   <entry>
     <id>737</id>
@@ -1195,14 +1203,6 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <published>2022-01-06T18:00:00+01:00</published>
   </entry>
   <entry>
-    <id>16244</id>
-    <title>L'événement web anniversaire « Un voyage inoubliable » est disponible - Visionnez votre théâtre d'anniversaire personnalisé pour obtenir des primo-gemmes et d'autres récompenses</title>
-    <updated>2021-09-28T11:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811231269455.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16244">L'événement web anniversaire « Un voyage inoubliable » est disponible - Visionnez votre théâtre d'anniversaire personnalisé pour obtenir des primo-gemmes et d'autres récompenses</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16244" rel="alternate"/>
-    <published>2021-09-28T11:30:00+02:00</published>
-  </entry>
-  <entry>
     <id>16221</id>
     <title>Genshin Impact - Bande-annonce : Ensemble pour ce long voyage</title>
     <updated>2021-09-28T12:00:00+02:00</updated>
@@ -2035,5 +2035,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617000485080.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18551">Genshin Impact - Aperçu de l'histoire : « Divine damoiselle de la dévastation »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18551" rel="alternate"/>
     <published>2022-01-06T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18554</id>
+    <title>La campagne de recrutement de streamers sur Twitch</title>
+    <updated>2022-01-06T19:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617473322551.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18554">La campagne de recrutement de streamers sur Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18554" rel="alternate"/>
+    <published>2022-01-06T19:00:00+01:00</published>
   </entry>
 </feed>

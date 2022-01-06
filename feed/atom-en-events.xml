@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - events</title>
-  <updated>2022-01-06T10:16:51.009712+00:00</updated>
+  <updated>2022-01-06T11:09:39.354568+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -248,5 +248,14 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <summary>The clouds and mists rise and the scroll unfolds.
 "The Crane in the Clouds" —— The web event for Genshin Impact's new character: Shenhe is now available.</summary>
     <published>2021-12-31T12:15:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18529</id>
+    <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+    <updated>2022-01-06T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615524027085.jpg"><br/><br/>The Genshin Impact Version 2.4 "Fleeting Colors in Flight" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18529">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18529" rel="alternate"/>
+    <summary>The Genshin Impact Version 2.4 "Fleeting Colors in Flight" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
+    <published>2022-01-06T19:00:00-05:00</published>
   </entry>
 </feed>

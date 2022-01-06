@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 11:10:15 +0000</lastBuildDate>
     <item>
       <title>Abertura do Fórum Oficial de Genshin Impact, participe do evento para ter chances de ganhar a qualificação para o teste</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/2172</link>
@@ -245,6 +245,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
 "A Garça sobre as Nuvens" - O Evento Web da Nova Personagem "Shenhe" de Genshin Impact está disponível agora!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18317">O Evento Web "A Garça sobre as Nuvens" está disponível!</a>]]></content:encoded>
       <guid isPermaLink="false">18317</guid>
       <pubDate>Fri, 31 Dec 2021 12:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recrutamento de streamers da nova versão de Genshin Impact de Twitch</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18531</link>
+      <description>Junto com a atualização da Versão 2.4 "Cores Efêmeras Voadoras", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615542428272.jpg"><br/><br/>Junto com a atualização da Versão 2.4 "Cores Efêmeras Voadoras", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18531">Recrutamento de streamers da nova versão de Genshin Impact de Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">18531</guid>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

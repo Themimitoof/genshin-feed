@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:16:46 +0000</lastBuildDate>
-    <item>
-      <title>Pre-Installation Function Now Available</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16370</link>
-      <description>The pre-installation function is now available on both PC and mobile platforms.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109390896284.jpg"><br/><br/>The pre-installation function is now available on both PC and mobile platforms.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16370">Pre-Installation Function Now Available</a>]]></content:encoded>
-      <guid isPermaLink="false">16370</guid>
-      <pubDate>Mon, 11 Oct 2021 11:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 11:09:35 +0000</lastBuildDate>
     <item>
       <title>"Hangout Events: Series III" - Story Quest Overview</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16386</link>
@@ -879,6 +871,14 @@ The opera sings about the feats of a heroine, with new lines added to the story,
 The opera sings about the feats of a heroine, with new lines added to the story, and told anew in many homes.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18521">Story Teaser: The Divine Damsel of Devastation | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18521</guid>
       <pubDate>Thu, 06 Jan 2022 18:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18529</link>
+      <description>The Genshin Impact Version 2.4 "Fleeting Colors in Flight" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615524027085.jpg"><br/><br/>The Genshin Impact Version 2.4 "Fleeting Colors in Flight" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18529">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">18529</guid>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

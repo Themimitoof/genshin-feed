@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:17:22 +0000</lastBuildDate>
-    <item>
-      <title>Записи об Инадзуме: Цуруми</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16289</link>
-      <description>В версии 2.2 в Инадзуме появится новый остров Цуруми. Давайте вместе исследуем этот загадочный остров посреди туманного моря!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016254453686.jpg"><br/><br/>В версии 2.2 в Инадзуме появится новый остров Цуруми. Давайте вместе исследуем этот загадочный остров посреди туманного моря!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16289">Записи об Инадзуме: Цуруми</a>]]></content:encoded>
-      <guid isPermaLink="false">16289</guid>
-      <pubDate>Wed, 06 Oct 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 11:10:16 +0000</lastBuildDate>
     <item>
       <title>Беседы с разработчиками (6 октября) - Лира ветров снова доступна!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16349</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615541438976.jpg"><br/><br/>Причудливая история о становлении Адепта.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18530">Тизер «Созерцание богини уничтожения» | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18530</guid>
       <pubDate>Thu, 06 Jan 2022 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Кампания по набору стримеров Genshin Impact на Twitch</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18553</link>
+      <description>Версия Genshin Impact 2.4 «Краски мимолётности» уже вышла. Вместе с ней началась кампания по набору стримеров Genshin Impact на Twitch.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617091093889.jpg"><br/><br/>Версия Genshin Impact 2.4 «Краски мимолётности» уже вышла. Вместе с ней началась кампания по набору стримеров Genshin Impact на Twitch.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18553">Кампания по набору стримеров Genshin Impact на Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">18553</guid>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

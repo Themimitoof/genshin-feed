@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2022-01-06T10:16:46.946727+00:00</updated>
+  <updated>2022-01-06T11:09:35.243106+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>16370</id>
-    <title>Pre-Installation Function Now Available</title>
-    <updated>2021-10-11T11:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109390896284.jpg"><br/><br/>The pre-installation function is now available on both PC and mobile platforms.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16370">Pre-Installation Function Now Available</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16370" rel="alternate"/>
-    <summary>The pre-installation function is now available on both PC and mobile platforms.</summary>
-    <published>2021-10-11T11:00:00-04:00</published>
-  </entry>
   <entry>
     <id>16386</id>
     <title>"Hangout Events: Series III" - Story Quest Overview</title>
@@ -981,5 +972,14 @@ The opera sings about the feats of a heroine, with new lines added to the story,
     <summary>A strange tale that tells of adeptal affinity, where things are no longer what they once were, save for the thousands of threads of sorrow.
 The opera sings about the feats of a heroine, with new lines added to the story, and told anew in many homes.</summary>
     <published>2022-01-06T18:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18529</id>
+    <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
+    <updated>2022-01-06T19:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615524027085.jpg"><br/><br/>The Genshin Impact Version 2.4 "Fleeting Colors in Flight" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18529">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18529" rel="alternate"/>
+    <summary>The Genshin Impact Version 2.4 "Fleeting Colors in Flight" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
+    <published>2022-01-06T19:00:00-05:00</published>
   </entry>
 </feed>

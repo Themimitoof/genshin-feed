@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 11:09:58 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -205,6 +205,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123019190630530.png"><br/><br/>La bruma se levanta y el pergamino se despliega.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18313">¡El evento de la página web «Una grulla sobre las nubes» ya se encuentra disponible!</a>]]></content:encoded>
       <guid isPermaLink="false">18313</guid>
       <pubDate>Fri, 31 Dec 2021 12:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Reclutar streamers de la nueva versión en Twitch</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18535</link>
+      <description>Querido/a viajero/a: La nueva versión de Genshin Impact 2.4, «Iridiscencia fugaz» ya está disponible. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616050541471.jpg"><br/><br/>Querido/a viajero/a: La nueva versión de Genshin Impact 2.4, «Iridiscencia fugaz» ya está disponible. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18535">Reclutar streamers de la nueva versión en Twitch</a>]]></content:encoded>
+      <guid isPermaLink="false">18535</guid>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

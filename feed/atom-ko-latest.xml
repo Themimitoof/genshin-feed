@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2022-01-06T10:17:14.939506+00:00</updated>
+  <updated>2022-01-06T11:10:07.776772+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16339</id>
-    <title>[이나즈마 수첩] 츠루미 편</title>
-    <updated>2021-10-06T10:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100319145762807.jpg"><br/><br/>2.2 버전에서 이나즈마 지역 신규 섬 - 「츠루미」가 오픈될 거야. 안개로 가득한 이 섬에 대해 함께 알아보자~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16339">[이나즈마 수첩] 츠루미 편</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16339" rel="alternate"/>
-    <summary>2.2 버전에서 이나즈마 지역 신규 섬 - 「츠루미」가 오픈될 거야. 안개로 가득한 이 섬에 대해 함께 알아보자~</summary>
-    <published>2021-10-06T10:30:00+09:00</published>
-  </entry>
   <entry>
     <id>16348</id>
     <title>[10.06] 개발진 간담회 - 짜잔! 간편 아이템 「바람의 노래 하프」 재등장~</title>
@@ -919,5 +910,14 @@
     <summary>선인과의 인연과 변해버린 세상만사를 이야기하며 수많은 번뇌를 풀어내고,
 여걸의 용감한 모습을 노래하며 새로운 이야기를 더해 등불 밝은 집들 사이에 다시 전해지네.</summary>
     <published>2022-01-06T18:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18545</id>
+    <title>Twitch &lt;원신&gt;  스트리머 모집</title>
+    <updated>2022-01-06T19:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616241215250.jpg"><br/><br/>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18545">Twitch <원신>  스트리머 모집</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18545" rel="alternate"/>
+    <summary>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</summary>
+    <published>2022-01-06T19:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2022-01-06T10:17:26.214027+00:00</updated>
+  <updated>2022-01-06T11:10:19.421293+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -238,5 +238,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18301" rel="alternate"/>
     <summary>Туман рассеивается, и свиток разворачивается.</summary>
     <published>2021-12-31T12:15:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18553</id>
+    <title>Кампания по набору стримеров Genshin Impact на Twitch</title>
+    <updated>2022-01-06T19:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617091093889.jpg"><br/><br/>Версия Genshin Impact 2.4 «Краски мимолётности» уже вышла. Вместе с ней началась кампания по набору стримеров Genshin Impact на Twitch.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18553">Кампания по набору стримеров Genshin Impact на Twitch</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18553" rel="alternate"/>
+    <summary>Версия Genshin Impact 2.4 «Краски мимолётности» уже вышла. Вместе с ней началась кампания по набору стримеров Genshin Impact на Twitch.</summary>
+    <published>2022-01-06T19:00:00+03:00</published>
   </entry>
 </feed>

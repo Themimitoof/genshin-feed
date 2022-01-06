@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 11:10:11 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -209,6 +209,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211231/2021123109381346145.png"><br/><br/>「구름 속 학의 그림자」<원신> 신규 캐릭터: 신학 웹이벤트 정식 출시!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18335">「구름 속 학의 그림자」 웹이벤트 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">18335</guid>
       <pubDate>Fri, 31 Dec 2021 12:15:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Twitch &lt;원신&gt;  스트리머 모집</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18545</link>
+      <description>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616241215250.jpg"><br/><br/>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18545">Twitch <원신>  스트리머 모집</a>]]></content:encoded>
+      <guid isPermaLink="false">18545</guid>
+      <pubDate>Thu, 06 Jan 2022 19:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
