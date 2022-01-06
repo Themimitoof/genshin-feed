@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-06T09:11:32.423115+00:00</updated>
+  <updated>2022-01-06T10:17:27.151227+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -400,15 +400,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>16006</id>
-    <title>Молитва «Воплощение божества»: повышен шанс получить оружие Вечное лунное сияние (Катализатор), Драгоценный омут (Одноручное) и другое оружие!</title>
-    <updated>2021-09-19T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16006">Молитва «Воплощение божества»: повышен шанс получить оружие Вечное лунное сияние (Катализатор), Драгоценный омут (Одноручное) и другое оружие!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16006" rel="alternate"/>
-    <summary>Молитва «Воплощение божества» поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-09-19T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>16012</id>
@@ -1321,13 +1312,13 @@
     <published>2022-01-06T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>16331</id>
-    <title>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</title>
-    <updated>2021-10-04T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100311152229914.jpg"><br/><br/>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16331">Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16331" rel="alternate"/>
-    <summary>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</summary>
-    <published>2021-10-04T12:00:00+03:00</published>
+    <id>18530</id>
+    <title>Тизер «Созерцание богини уничтожения» | Genshin Impact</title>
+    <updated>2022-01-06T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615541438976.jpg"><br/><br/>Причудливая история о становлении Адепта.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18530">Тизер «Созерцание богини уничтожения» | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18530" rel="alternate"/>
+    <summary>Причудливая история о становлении Адепта.</summary>
+    <published>2022-01-06T18:00:00+03:00</published>
   </entry>
   <entry>
     <id>16289</id>
@@ -2238,5 +2229,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18474" rel="alternate"/>
     <summary>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.</summary>
     <published>2022-01-06T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18530</id>
+    <title>Тизер «Созерцание богини уничтожения» | Genshin Impact</title>
+    <updated>2022-01-06T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615541438976.jpg"><br/><br/>Причудливая история о становлении Адепта.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18530">Тизер «Созерцание богини уничтожения» | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18530" rel="alternate"/>
+    <summary>Причудливая история о становлении Адепта.</summary>
+    <published>2022-01-06T18:00:00+03:00</published>
   </entry>
 </feed>

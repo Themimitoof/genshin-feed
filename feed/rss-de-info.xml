@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Jan 2022 09:11:29 +0000</lastBuildDate>
-    <item>
-      <title>Gebet „Treibende Perle“: Höhere Wahrscheinlichkeit für „Perle der Weisheit – Sangonomiya Kokomi (Hydro)“!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15984</link>
-      <description>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816553196755.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15984">Gebet „Treibende Perle“: Höhere Wahrscheinlichkeit für „Perle der Weisheit – Sangonomiya Kokomi (Hydro)“!</a>]]></content:encoded>
-      <guid isPermaLink="false">15984</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 10:17:00 +0000</lastBuildDate>
     <item>
       <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Katalysator – Ewiger Mondschein“ und „Einhänder – Moosgrüner Fels“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15985</link>
@@ -858,6 +850,14 @@ hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511560683389.jpg"><br/><br/>Die Einwohner von Liyue lieben die Liyue-Oper und die Fans sind immer wieder beeindruckt von den Gesangs- und Schauspielkünsten der berühmten Opernsängerin Yun Jin.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18482">Fähigkeiten bei Genshin Impact – Yun Jin: Bühnenstürmerin</a>]]></content:encoded>
       <guid isPermaLink="false">18482</guid>
       <pubDate>Thu, 06 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Handlungsvorschau von Genshin Impact – „Die göttliche Jungfrau der Verwüstung“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18547</link>
+      <description>Eine Geschichte voller Wunder aus der Welt der Adepten, in der nichts mehr so ist, wie es einmal war, abgesehen von Tausenden Fäden des Kummers.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616400022045.jpg"><br/><br/>Eine Geschichte voller Wunder aus der Welt der Adepten, in der nichts mehr so ist, wie es einmal war, abgesehen von Tausenden Fäden des Kummers.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18547">Handlungsvorschau von Genshin Impact – „Die göttliche Jungfrau der Verwüstung“</a>]]></content:encoded>
+      <guid isPermaLink="false">18547</guid>
+      <pubDate>Thu, 06 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

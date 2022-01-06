@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 06 Jan 2022 09:11:31 +0000</lastBuildDate>
-    <item>
-      <title>Oração "Encarnação Divina": Com Taxa de Drop aumentada, "Fumetsu Gekka (Catalisador)" e "Cortador de Jade Primordial (Espada)"!</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16003</link>
-      <description>Durante o período do evento, obtenha mais armas e personagens na Oração Encarnação Divina, e aumente a força de combate da sua equipe!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817342510183.jpg"><br/><br/>Durante o período do evento, obtenha mais armas e personagens na Oração Encarnação Divina, e aumente a força de combate da sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16003">Oração "Encarnação Divina": Com Taxa de Drop aumentada, "Fumetsu Gekka (Catalisador)" e "Cortador de Jade Primordial (Espada)"!</a>]]></content:encoded>
-      <guid isPermaLink="false">16003</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 10:17:19 +0000</lastBuildDate>
     <item>
       <title>Detalhes sobre a Missão Lendária "Capítulo de Dracaena Somnolenta"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16004</link>
@@ -812,6 +804,14 @@ Os e-mails ficarão disponíveis até o final do evento.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511374527236.jpg"><br/><br/>O povo de Liyue adora ópera de Liyue, e todos os fãs ficam encantados pelas habilidades de canto e atuações da cantora de ópera Yunjin.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18476">Coleção Variada de Genshin Impact - "Yunjin: Arrasa-Palco"</a>]]></content:encoded>
       <guid isPermaLink="false">18476</guid>
       <pubDate>Thu, 06 Jan 2022 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teaser da História Genshin Impact - A Divina Donzela da Devastação</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18523</link>
+      <description>Tudo o que está escrito nos contos já não é o mesmo, restando apenas inúmeras tristezas.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615472958095.jpg"><br/><br/>Tudo o que está escrito nos contos já não é o mesmo, restando apenas inúmeras tristezas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18523">Teaser da História Genshin Impact - A Divina Donzela da Devastação</a>]]></content:encoded>
+      <guid isPermaLink="false">18523</guid>
+      <pubDate>Thu, 06 Jan 2022 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

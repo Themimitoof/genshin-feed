@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2022-01-06T09:11:27.856541+00:00</updated>
+  <updated>2022-01-06T10:16:51.479717+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -421,15 +421,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>15980</id>
-    <title>Genshin Impact One Year Anniversary Community Event Rewards Preview</title>
-    <updated>2021-09-20T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816470183231.jpg"><br/><br/>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15980">Genshin Impact One Year Anniversary Community Event Rewards Preview</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/15980" rel="alternate"/>
-    <summary>Time flies, a year has gone by, and Genshin Impact is about to turn one year old! Today, the Teyvat Hiking Association has brought you a rewards preview of the one year anniversary community events~</summary>
-    <published>2021-09-20T18:00:00-04:00</published>
   </entry>
   <entry>
     <id>16023</id>
@@ -1406,13 +1397,15 @@ They are in awe at Yun Jin's graceful fights on stage, but do not know that her 
     <published>2022-01-06T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>16369</id>
-    <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</title>
-    <updated>2021-10-11T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101109301572535.jpg"><br/><br/>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16369">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16369" rel="alternate"/>
-    <summary>To ensure all Travelers have the best-possible Genshin Impact experience, our developers will soon begin performing update maintenance. After this is complete, the game will update to a new version.</summary>
-    <published>2021-10-11T10:30:00-04:00</published>
+    <id>18521</id>
+    <title>Story Teaser: The Divine Damsel of Devastation | Genshin Impact</title>
+    <updated>2022-01-06T18:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615455634404.jpg"><br/><br/>A strange tale that tells of adeptal affinity, where things are no longer what they once were, save for the thousands of threads of sorrow.
+The opera sings about the feats of a heroine, with new lines added to the story, and told anew in many homes.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18521">Story Teaser: The Divine Damsel of Devastation | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18521" rel="alternate"/>
+    <summary>A strange tale that tells of adeptal affinity, where things are no longer what they once were, save for the thousands of threads of sorrow.
+The opera sings about the feats of a heroine, with new lines added to the story, and told anew in many homes.</summary>
+    <published>2022-01-06T18:00:00-05:00</published>
   </entry>
   <entry>
     <id>16370</id>
@@ -2375,5 +2368,16 @@ They are in awe at Yun Jin's graceful fights on stage, but do not know that her 
     <summary>The people of Liyue love listening to Liyue opera, and the fans are always impressed by the singing and acting skills of the renowned opera singer Yun Jin.
 They are in awe at Yun Jin's graceful fights on stage, but do not know that her skills with the spear are real enough to defend against her foes.</summary>
     <published>2022-01-06T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18521</id>
+    <title>Story Teaser: The Divine Damsel of Devastation | Genshin Impact</title>
+    <updated>2022-01-06T18:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615455634404.jpg"><br/><br/>A strange tale that tells of adeptal affinity, where things are no longer what they once were, save for the thousands of threads of sorrow.
+The opera sings about the feats of a heroine, with new lines added to the story, and told anew in many homes.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18521">Story Teaser: The Divine Damsel of Devastation | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18521" rel="alternate"/>
+    <summary>A strange tale that tells of adeptal affinity, where things are no longer what they once were, save for the thousands of threads of sorrow.
+The opera sings about the feats of a heroine, with new lines added to the story, and told anew in many homes.</summary>
+    <published>2022-01-06T18:00:00-05:00</published>
   </entry>
 </feed>

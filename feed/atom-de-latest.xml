@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2022-01-06T09:11:28.980447+00:00</updated>
+  <updated>2022-01-06T10:16:59.858230+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16240</id>
-    <title>Jubiläums-Webaktion „Unvergessliche Reise“ jetzt verfügbar: Sieh dir das Jubiläumstheater an, um Urgestein und weitere Belohnungen zu erhalten.</title>
-    <updated>2021-09-28T11:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811110862970.jpg"><br/><br/>Immer so schnell scheint die Zeit in Teyvat zu vergehen.
-365 Tage sind im Nu vorbei, während sich der Vorhang des Jubiläumstheaters langsam hebt, das wir ausschließlich für dich vorbereitet haben ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16240">Jubiläums-Webaktion „Unvergessliche Reise“ jetzt verfügbar: Sieh dir das Jubiläumstheater an, um Urgestein und weitere Belohnungen zu erhalten.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16240" rel="alternate"/>
-    <summary>Immer so schnell scheint die Zeit in Teyvat zu vergehen.
-365 Tage sind im Nu vorbei, während sich der Vorhang des Jubiläumstheaters langsam hebt, das wir ausschließlich für dich vorbereitet haben ...</summary>
-    <published>2021-09-28T11:30:00+02:00</published>
-  </entry>
   <entry>
     <id>16201</id>
     <title>Werbevideo von Genshin Impact – Gemeinsam auf langen Reisen</title>
@@ -969,5 +958,14 @@ hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben 
     <link href="https://genshin.mihoyo.com/de/news/detail/18482" rel="alternate"/>
     <summary>Die Einwohner von Liyue lieben die Liyue-Oper und die Fans sind immer wieder beeindruckt von den Gesangs- und Schauspielkünsten der berühmten Opernsängerin Yun Jin.</summary>
     <published>2022-01-06T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18547</id>
+    <title>Handlungsvorschau von Genshin Impact – „Die göttliche Jungfrau der Verwüstung“</title>
+    <updated>2022-01-06T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616400022045.jpg"><br/><br/>Eine Geschichte voller Wunder aus der Welt der Adepten, in der nichts mehr so ist, wie es einmal war, abgesehen von Tausenden Fäden des Kummers.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18547">Handlungsvorschau von Genshin Impact – „Die göttliche Jungfrau der Verwüstung“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18547" rel="alternate"/>
+    <summary>Eine Geschichte voller Wunder aus der Welt der Adepten, in der nichts mehr so ist, wie es einmal war, abgesehen von Tausenden Fäden des Kummers.</summary>
+    <published>2022-01-06T18:00:00+01:00</published>
   </entry>
 </feed>

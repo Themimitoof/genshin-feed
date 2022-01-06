@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2022-01-06T09:11:30.888953+00:00</updated>
+  <updated>2022-01-06T10:17:14.939506+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16338</id>
-    <title>2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!</title>
-    <updated>2021-10-04T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100317011856051.jpg"><br/><br/>2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16338">2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16338" rel="alternate"/>
-    <summary>2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!</summary>
-    <published>2021-10-04T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>16339</id>
     <title>[이나즈마 수첩] 츠루미 편</title>
@@ -917,5 +908,16 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18509" rel="alternate"/>
     <summary>리월 사람들은 리월극을 좋아하고 연극 애호가들은 하나같이 명배우 운 선생의 노래와 연기에 탄복한다</summary>
     <published>2022-01-06T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18533</id>
+    <title>&lt;원신&gt; 스토리 PV -  「사원을 가른 신녀」</title>
+    <updated>2022-01-06T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010615552966775.jpg"><br/><br/>선인과의 인연과 변해버린 세상만사를 이야기하며 수많은 번뇌를 풀어내고,
+여걸의 용감한 모습을 노래하며 새로운 이야기를 더해 등불 밝은 집들 사이에 다시 전해지네.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18533"><원신> 스토리 PV -  「사원을 가른 신녀」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18533" rel="alternate"/>
+    <summary>선인과의 인연과 변해버린 세상만사를 이야기하며 수많은 번뇌를 풀어내고,
+여걸의 용감한 모습을 노래하며 새로운 이야기를 더해 등불 밝은 집들 사이에 다시 전해지네.</summary>
+    <published>2022-01-06T18:01:00+09:00</published>
   </entry>
 </feed>
