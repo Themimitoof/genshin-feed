@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-06T02:08:51.465570+00:00</updated>
+  <updated>2022-01-06T03:14:53.725352+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -528,6 +528,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-05T07:00:00+07:00</published>
   </entry>
   <entry>
+    <id>18514</id>
+    <title>Penjelasan Gameplay "Penelitian Ramuan"</title>
+    <updated>2022-01-06T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517443253731.jpg"><br/><br/>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18514">Penjelasan Gameplay "Penelitian Ramuan"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18514" rel="alternate"/>
+    <summary>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.</summary>
+    <published>2022-01-06T10:30:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -670,5 +679,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18473" rel="alternate"/>
     <summary>Berikut adalah konten dan kompensasi Update v2.4 "Sekilas Rona di Angkasa"</summary>
     <published>2022-01-05T07:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18514</id>
+    <title>Penjelasan Gameplay "Penelitian Ramuan"</title>
+    <updated>2022-01-06T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517443253731.jpg"><br/><br/>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18514">Penjelasan Gameplay "Penelitian Ramuan"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18514" rel="alternate"/>
+    <summary>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.</summary>
+    <published>2022-01-06T10:30:00+07:00</published>
   </entry>
 </feed>

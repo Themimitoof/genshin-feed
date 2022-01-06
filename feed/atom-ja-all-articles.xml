@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2022-01-06T02:08:54.381222+00:00</updated>
+  <updated>2022-01-06T03:14:58.699276+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>all-articles feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>9309</id>
-    <title>「異国のグルメ」イベント予告</title>
-    <updated>2021-03-15T12:20:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210315/2021031511540958443.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9309">「異国のグルメ」イベント予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9309" rel="alternate"/>
-    <summary/>
-    <published>2021-03-15T12:20:00+09:00</published>
-  </entry>
   <entry>
     <id>9313</id>
     <title>「デートイベント・1」任務予告</title>
@@ -885,6 +876,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/18263" rel="alternate"/>
     <summary/>
     <published>2021-12-31T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18495</id>
+    <title>「ポーションスタディー」イベント紹介</title>
+    <updated>2022-01-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010515160446064.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18495">「ポーションスタディー」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18495" rel="alternate"/>
+    <published>2022-01-06T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>6226</id>
@@ -2013,15 +2012,6 @@
     <published>2021-12-29T22:50:00+09:00</published>
   </entry>
   <entry>
-    <id>14171</id>
-    <title>Ver.2.0「鳴神不動、泡影を滅す」特設ページ</title>
-    <updated>2021-07-15T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210715/2021071512562944819.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14171">Ver.2.0「鳴神不動、泡影を滅す」特設ページ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/14171" rel="alternate"/>
-    <summary/>
-    <published>2021-07-15T12:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>14235</id>
     <title>Ver.2.0新魔物紹介</title>
     <updated>2021-07-17T11:59:00+09:00</updated>
@@ -2885,5 +2875,13 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/18429" rel="alternate"/>
     <summary/>
     <published>2022-01-05T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18495</id>
+    <title>「ポーションスタディー」イベント紹介</title>
+    <updated>2022-01-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010515160446064.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18495">「ポーションスタディー」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18495" rel="alternate"/>
+    <published>2022-01-06T10:30:00+09:00</published>
   </entry>
 </feed>

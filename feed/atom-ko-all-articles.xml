@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2022-01-06T02:08:57.573854+00:00</updated>
+  <updated>2022-01-06T03:15:05.819371+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -430,15 +430,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>15858</id>
-    <title>&lt;원신&gt; 산고노미야 코코미 캐릭터 PV - 「창해의 일심」</title>
-    <updated>2021-09-15T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091509572680625.png"><br/><br/>산고노미야의 혈통을 물려받은 소녀는 와타츠미섬 주민들의 염원에 귀 기울여야 할 숙명을 타고났다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15858"><원신> 산고노미야 코코미 캐릭터 PV - 「창해의 일심」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15858" rel="alternate"/>
-    <summary>산고노미야의 혈통을 물려받은 소녀는 와타츠미섬 주민들의 염원에 귀 기울여야 할 숙명을 타고났다.</summary>
-    <published>2021-09-15T12:01:00+09:00</published>
   </entry>
   <entry>
     <id>15902</id>
@@ -1345,15 +1336,13 @@
     <published>2022-01-05T07:00:00+09:00</published>
   </entry>
   <entry>
-    <id>16334</id>
-    <title>원신 추첨 이벤트</title>
-    <updated>2021-10-03T22:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100314560584730.jpg"><br/><br/>티바트의 시간은 늘 쏜살같이 지나갑니다.
-하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16334">원신 추첨 이벤트</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16334" rel="alternate"/>
-    <summary>티바트의 시간은 늘 쏜살같이 지나갑니다.
-하지만 여행자와 함께한 시간은 평범한 날도 빛을 발하며 반짝입니다.</summary>
-    <published>2021-10-03T22:30:00+09:00</published>
+    <id>18518</id>
+    <title>「마법 포션 연구」 콘텐츠 안내</title>
+    <updated>2022-01-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010519523866741.jpg"><br/><br/>몬드의 연금술사 데마로우스는 전설 속의 연금용 포션을 연구 중입니다. 데마로우스의 연구를 도와주면 엄청난 보수를 받을 수 있을지도 모릅니다….<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18518">「마법 포션 연구」 콘텐츠 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18518" rel="alternate"/>
+    <summary>몬드의 연금술사 데마로우스는 전설 속의 연금용 포션을 연구 중입니다. 데마로우스의 연구를 도와주면 엄청난 보수를 받을 수 있을지도 모릅니다….</summary>
+    <published>2022-01-06T10:30:00+09:00</published>
   </entry>
   <entry>
     <id>16327</id>
@@ -2254,5 +2243,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18470" rel="alternate"/>
     <summary>「화려히 수놓인 유년」 2.4 버전 업데이트 상세안내</summary>
     <published>2022-01-05T07:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18518</id>
+    <title>「마법 포션 연구」 콘텐츠 안내</title>
+    <updated>2022-01-06T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010519523866741.jpg"><br/><br/>몬드의 연금술사 데마로우스는 전설 속의 연금용 포션을 연구 중입니다. 데마로우스의 연구를 도와주면 엄청난 보수를 받을 수 있을지도 모릅니다….<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18518">「마법 포션 연구」 콘텐츠 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18518" rel="alternate"/>
+    <summary>몬드의 연금술사 데마로우스는 전설 속의 연금용 포션을 연구 중입니다. 데마로우스의 연구를 도와주면 엄청난 보수를 받을 수 있을지도 모릅니다….</summary>
+    <published>2022-01-06T10:30:00+09:00</published>
   </entry>
 </feed>

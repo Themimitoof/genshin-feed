@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-06T02:08:48.301147+00:00</updated>
+  <updated>2022-01-06T03:14:49.513334+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -573,6 +573,15 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2022-01-05T07:00:00+01:00</published>
   </entry>
   <entry>
+    <id>18505</id>
+    <title>Modo de juego «Estudio de pociones»</title>
+    <updated>2022-01-06T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516454070573.jpg"><br/><br/>El evento «Estudio de pociones» está a punto de comenzar. Timaeus, el alquimista de Mondstadt, está probando una poción alquímica legendaria. Ayúdale a completar su investigación para obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18505">Modo de juego «Estudio de pociones»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18505" rel="alternate"/>
+    <summary>El evento «Estudio de pociones» está a punto de comenzar. Timaeus, el alquimista de Mondstadt, está probando una poción alquímica legendaria. Ayúdale a completar su investigación para obtener grandes recompensas.</summary>
+    <published>2022-01-06T10:30:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -825,5 +834,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18471" rel="alternate"/>
     <summary>Querido/a viajero/a: A continuación te presentamos el contenido de la nueva versión 2.4 «Iridiscencia fugaz» y la información relacionada con sus compensaciones.</summary>
     <published>2022-01-05T07:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18505</id>
+    <title>Modo de juego «Estudio de pociones»</title>
+    <updated>2022-01-06T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516454070573.jpg"><br/><br/>El evento «Estudio de pociones» está a punto de comenzar. Timaeus, el alquimista de Mondstadt, está probando una poción alquímica legendaria. Ayúdale a completar su investigación para obtener grandes recompensas.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18505">Modo de juego «Estudio de pociones»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18505" rel="alternate"/>
+    <summary>El evento «Estudio de pociones» está a punto de comenzar. Timaeus, el alquimista de Mondstadt, está probando una poción alquímica legendaria. Ayúdale a completar su investigación para obtener grandes recompensas.</summary>
+    <published>2022-01-06T10:30:00+01:00</published>
   </entry>
 </feed>

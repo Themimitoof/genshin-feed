@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 02:08:33 +0000</lastBuildDate>
-    <item>
-      <title>"Dracaena Somnolenta Chapter" Story Quest Overview</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/15992</link>
-      <description>Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Sangonomiya Kokomi's Story Quest Dracaena Somnolenta Chapter.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817075344996.jpg"><br/><br/>Travelers who reach the required Adventure Rank and complete the prerequisite quests will be able to use a Story Key to unlock Sangonomiya Kokomi's Story Quest Dracaena Somnolenta Chapter.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/15992">"Dracaena Somnolenta Chapter" Story Quest Overview</a>]]></content:encoded>
-      <guid isPermaLink="false">15992</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 03:14:25 +0000</lastBuildDate>
     <item>
       <title>Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16063</link>
@@ -890,6 +882,14 @@ But what they don't know is that when the cranes go where the wind takes them, t
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419081193688.jpg"><br/><br/>Below are the details of the Version 2.4 update "Fleeting Colors in Flight" and the update compensation.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18465">Fleeting Colors in Flight Version 2.4 Update Details</a>]]></content:encoded>
       <guid isPermaLink="false">18465</guid>
       <pubDate>Wed, 05 Jan 2022 07:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"A Study in Potions" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18503</link>
+      <description>The "A Study in Potions" event is about to begin. The Mondstadt alchemist Timaeus is attempting to create a legendary alchemical medication. Help him complete this line of research, and you may obtain some rich rewards...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516400184630.jpg"><br/><br/>The "A Study in Potions" event is about to begin. The Mondstadt alchemist Timaeus is attempting to create a legendary alchemical medication. Help him complete this line of research, and you may obtain some rich rewards...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18503">"A Study in Potions" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">18503</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

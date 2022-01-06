@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2022-01-06T02:08:38.644577+00:00</updated>
+  <updated>2022-01-06T03:14:35.084057+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>16140</id>
-    <title>旅人的幽思——《原神》稻妻音樂的幕後</title>
-    <updated>2021-09-24T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415532039210.png"><br/><br/>《原神》稻妻音樂由陳致逸@HOYO-MiX作曲，由日本東京愛樂樂團與日本頂尖民樂演奏家們合作錄製<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16140">旅人的幽思——《原神》稻妻音樂的幕後</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16140" rel="alternate"/>
-    <summary>《原神》稻妻音樂由陳致逸@HOYO-MiX作曲，由日本東京愛樂樂團與日本頂尖民樂演奏家們合作錄製</summary>
-    <published>2021-09-24T18:00:00+08:00</published>
-  </entry>
   <entry>
     <id>16130</id>
     <title>「韶光撫月」玩法說明</title>
@@ -914,5 +905,14 @@
     <summary>親愛的旅行者：
 以下是2.4版本——「飛彩鐫流年」更新與補償內容。</summary>
     <published>2022-01-05T07:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18515</id>
+    <title>「魔藥研析」玩法說明</title>
+    <updated>2022-01-06T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517503168853.jpg"><br/><br/>「魔藥研析」活動即將開始。蒙德的煉金術士蒂瑪烏斯正在試製某種傳說中的煉金藥劑。幫助蒂瑪烏斯完成這項研究，似乎能獲得豐厚的報酬…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18515">「魔藥研析」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18515" rel="alternate"/>
+    <summary>「魔藥研析」活動即將開始。蒙德的煉金術士蒂瑪烏斯正在試製某種傳說中的煉金藥劑。幫助蒂瑪烏斯完成這項研究，似乎能獲得豐厚的報酬…</summary>
+    <published>2022-01-06T10:30:00+08:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 06 Jan 2022 02:09:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 03:15:20 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -282,13 +282,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121815090510845.png"><br/><br/>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/7470">หน้าตัวอย่างเวอร์ชันใหม่ 1.2 "ชอล์กขาวและมังกรดำ" เปิดให้ชมแล้ว!</a>]]></content:encoded>
       <guid isPermaLink="false">7470</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>คอนเสิร์ต GENSHIN 2021 - Melodies of an Endless Journey (ตัวอย่างที่ 2)</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15781</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017343056266.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15781">คอนเสิร์ต GENSHIN 2021 - Melodies of an Endless Journey (ตัวอย่างที่ 2)</a>]]></description>
-      <guid isPermaLink="false">15781</guid>
-      <pubDate>Fri, 10 Sep 2021 18:00:00 +0700</pubDate>
     </item>
     <item>
       <title>"จงเตรียมตัวไว้ให้พร้อมล่วงหน้า ถึงจะเอาตัวรอดจากอันตรายได้" - "ไข่มุกแห่งปัญญา - Sangonomiya Kokomi"</title>
@@ -987,11 +980,11 @@
       <pubDate>Wed, 05 Jan 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/16180</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618350795020.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16180">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></description>
-      <guid isPermaLink="false">16180</guid>
-      <pubDate>Sun, 26 Sep 2021 19:00:00 +0700</pubDate>
+      <title>คำอธิบายเกมเพลย์ "การศึกษาวิจัยโพชั่น"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18511</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517281789073.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18511">คำอธิบายเกมเพลย์ "การศึกษาวิจัยโพชั่น"</a>]]></description>
+      <guid isPermaLink="false">18511</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 +0700</pubDate>
     </item>
     <item>
       <title>[กิจกรรมวันครบรอบบนหน้าเว็บ] บันทึกการเดินทาง - ชมโรงละครฉลองครบรอบสุดพิเศษ เพื่อรับ Primogem และอื่น ๆ</title>
@@ -1690,6 +1683,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010419165515224.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18467">คำอธิบายการอัปเดตเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา"</a>]]></description>
       <guid isPermaLink="false">18467</guid>
       <pubDate>Wed, 05 Jan 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>คำอธิบายเกมเพลย์ "การศึกษาวิจัยโพชั่น"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18511</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517281789073.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18511">คำอธิบายเกมเพลย์ "การศึกษาวิจัยโพชั่น"</a>]]></description>
+      <guid isPermaLink="false">18511</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

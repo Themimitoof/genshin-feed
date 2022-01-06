@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 06 Jan 2022 02:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 03:14:53 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -462,6 +462,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <pubDate>Wed, 05 Jan 2022 07:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Penjelasan Gameplay "Penelitian Ramuan"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18514</link>
+      <description>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517443253731.jpg"><br/><br/>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18514">Penjelasan Gameplay "Penelitian Ramuan"</a>]]></content:encoded>
+      <guid isPermaLink="false">18514</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
       <link>https://genshin.mihoyo.com/id/news/detail/18288</link>
       <description>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</description>
@@ -588,6 +596,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010421453876700.jpg"><br/><br/>Berikut adalah konten dan kompensasi Update v2.4 "Sekilas Rona di Angkasa"<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18473">Penjelasan Update v2.4 "Sekilas Rona di Angkasa"</a>]]></content:encoded>
       <guid isPermaLink="false">18473</guid>
       <pubDate>Wed, 05 Jan 2022 07:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Penjelasan Gameplay "Penelitian Ramuan"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18514</link>
+      <description>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517443253731.jpg"><br/><br/>Event "Penelitian Ramuan" akan segera dimulai. Alkemis Mondstadt, Timaeus, sedang mencoba membuat Elixir legendaris.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18514">Penjelasan Gameplay "Penelitian Ramuan"</a>]]></content:encoded>
+      <guid isPermaLink="false">18514</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

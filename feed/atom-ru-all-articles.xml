@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-06T02:09:04.668359+00:00</updated>
+  <updated>2022-01-06T03:15:14.736248+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -400,15 +400,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15880</id>
-    <title>Genshin Impact | Памятное видео о приключениях в Тейвате: письмо годовщины путешествий</title>
-    <updated>2021-09-16T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091515351297056.jpg"><br/><br/>Мы продолжаем наш путь, преодолеваем горы и реки, слушаем пение птиц.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15880">Genshin Impact | Памятное видео о приключениях в Тейвате: письмо годовщины путешествий</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15880" rel="alternate"/>
-    <summary>Мы продолжаем наш путь, преодолеваем горы и реки, слушаем пение птиц.</summary>
-    <published>2021-09-16T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>15976</id>
@@ -1321,13 +1312,13 @@
     <published>2022-01-05T07:00:00+03:00</published>
   </entry>
   <entry>
-    <id>16300</id>
-    <title>Genshin Impact | Версия 2.2 - Тайны туманного моря</title>
-    <updated>2021-10-03T22:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017153859038.jpg"><br/><br/>В таинственном месте ждут испытания, а печальные события прошлого прячутся среди тумана.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16300">Genshin Impact | Версия 2.2 - Тайны туманного моря</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16300" rel="alternate"/>
-    <summary>В таинственном месте ждут испытания, а печальные события прошлого прячутся среди тумана.</summary>
-    <published>2021-10-03T22:30:00+03:00</published>
+    <id>18506</id>
+    <title>Игровой процесс события «Исследование зелий»</title>
+    <updated>2022-01-06T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516482794155.jpg"><br/><br/>Событие «Исследование зелий» скоро начнётся! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18506">Игровой процесс события «Исследование зелий»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18506" rel="alternate"/>
+    <summary>Событие «Исследование зелий» скоро начнётся! </summary>
+    <published>2022-01-06T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>16323</id>
@@ -2240,5 +2231,14 @@
     <summary>Дорогие Путешественники!
 В посте представлена информация об обновлении до версии 2.4 - «Краски мимолётности» и о компенсации.</summary>
     <published>2022-01-05T07:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18506</id>
+    <title>Игровой процесс события «Исследование зелий»</title>
+    <updated>2022-01-06T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516482794155.jpg"><br/><br/>Событие «Исследование зелий» скоро начнётся! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18506">Игровой процесс события «Исследование зелий»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18506" rel="alternate"/>
+    <summary>Событие «Исследование зелий» скоро начнётся! </summary>
+    <published>2022-01-06T10:30:00+03:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Jan 2022 02:08:53 +0000</lastBuildDate>
-    <item>
-      <title>「異国のグルメ」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9309</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210315/2021031511540958443.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9309">「異国のグルメ」イベント予告</a>]]></description>
-      <guid isPermaLink="false">9309</guid>
-      <pubDate>Mon, 15 Mar 2021 12:20:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 03:14:57 +0000</lastBuildDate>
     <item>
       <title>「デートイベント・1」任務予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9313</link>
@@ -725,6 +718,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123011535929052.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18263">「雲中白鶴」イベント紹介</a>]]></description>
       <guid isPermaLink="false">18263</guid>
       <pubDate>Fri, 31 Dec 2021 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「ポーションスタディー」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18495</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010515160446064.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18495">「ポーションスタディー」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">18495</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

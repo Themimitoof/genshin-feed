@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 06 Jan 2022 02:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 03:14:35 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -312,14 +312,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15799</link>
-      <description>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210910/2021091017341162220.png"><br/><br/>Genshin Impact et un groupe de musique pop sud-coréen s'associent pour livrer une interprétation unique en son genre dans cet aperçu du concert qui se tiendra en ligne.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15799">GENSHIN CONCERT 2021 - Mélodies d'un voyage sans fin (Bande-annonce n°2)</a>]]></content:encoded>
-      <guid isPermaLink="false">15799</guid>
-      <pubDate>Fri, 10 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</title>
@@ -1038,11 +1030,11 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0100</pubDate>
     </item>
     <item>
-      <title>Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16154</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416431653350.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16154">Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</a>]]></description>
-      <guid isPermaLink="false">16154</guid>
-      <pubDate>Fri, 24 Sep 2021 18:00:00 +0200</pubDate>
+      <title>Détails de l'événement « Potiologie »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18516</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010518102123530.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18516">Détails de l'événement « Potiologie »</a>]]></description>
+      <guid isPermaLink="false">18516</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Liesse au clair de lune »</title>
@@ -1761,6 +1753,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010416441346488.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18450">Genshin Impact - Shenhe : Plumes de givre et élégance</a>]]></description>
       <guid isPermaLink="false">18450</guid>
       <pubDate>Tue, 04 Jan 2022 19:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Potiologie »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18516</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010518102123530.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18516">Détails de l'événement « Potiologie »</a>]]></description>
+      <guid isPermaLink="false">18516</guid>
+      <pubDate>Thu, 06 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
