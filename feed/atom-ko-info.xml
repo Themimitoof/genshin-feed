@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2022-01-06T03:15:00.257608+00:00</updated>
+  <updated>2022-01-06T04:14:18.286577+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>15902</id>
-    <title>&lt;원신&gt; 티바트 모험 기념 영상: 여행 1주년 편지</title>
-    <updated>2021-09-16T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518212460015.jpg"><br/><br/>산과 바다를 건너 새와 벌레 소리를 들으며 걸어왔습니다.
-해와 달의 순환 속, 마음속에 영원히 남을 모험의 노래를 써보세요<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/15902"><원신> 티바트 모험 기념 영상: 여행 1주년 편지</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/15902" rel="alternate"/>
-    <summary>산과 바다를 건너 새와 벌레 소리를 들으며 걸어왔습니다.
-해와 달의 순환 속, 마음속에 영원히 남을 모험의 노래를 써보세요</summary>
-    <published>2021-09-16T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>16018</id>
     <title>「산악에 뜬 구슬」 기원: 「진주의 지혜·산고노미야 코코미(물)」 확률 UP!</title>
@@ -921,5 +910,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18518" rel="alternate"/>
     <summary>몬드의 연금술사 데마로우스는 전설 속의 연금용 포션을 연구 중입니다. 데마로우스의 연구를 도와주면 엄청난 보수를 받을 수 있을지도 모릅니다….</summary>
     <published>2022-01-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18509</id>
+    <title>&lt;원신&gt; 데인 여담 - 「운근: 무대를 휘어잡는 목소리」</title>
+    <updated>2022-01-06T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010517033393552.jpg"><br/><br/>리월 사람들은 리월극을 좋아하고 연극 애호가들은 하나같이 명배우 운 선생의 노래와 연기에 탄복한다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18509"><원신> 데인 여담 - 「운근: 무대를 휘어잡는 목소리」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18509" rel="alternate"/>
+    <summary>리월 사람들은 리월극을 좋아하고 연극 애호가들은 하나같이 명배우 운 선생의 노래와 연기에 탄복한다</summary>
+    <published>2022-01-06T12:01:00+09:00</published>
   </entry>
 </feed>

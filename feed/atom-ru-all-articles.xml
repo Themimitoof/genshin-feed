@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-06T03:15:14.736248+00:00</updated>
+  <updated>2022-01-06T04:14:40.940531+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -400,15 +400,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15976</id>
-    <title>Молитва «Дрейфующее свечение» - повышен шанс получить персонажа «Жемчужина мудрости» Сангономия Кокоми (Гидро) и других!</title>
-    <updated>2021-09-19T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15976">Молитва «Дрейфующее свечение» - повышен шанс получить персонажа «Жемчужина мудрости» Сангономия Кокоми (Гидро) и других!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15976" rel="alternate"/>
-    <summary>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</summary>
-    <published>2021-09-19T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>16006</id>
@@ -1321,15 +1312,13 @@
     <published>2022-01-06T10:30:00+03:00</published>
   </entry>
   <entry>
-    <id>16323</id>
-    <title>Genshin Impact | Специальный розыгрыш</title>
-    <updated>2021-10-03T22:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100322591880808.jpg"><br/><br/>Время в Тейвате летит незаметно.
-Но с тобой даже будни наполняются теплом и светом.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16323">Genshin Impact | Специальный розыгрыш</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16323" rel="alternate"/>
-    <summary>Время в Тейвате летит незаметно.
-Но с тобой даже будни наполняются теплом и светом.</summary>
-    <published>2021-10-03T22:30:00+03:00</published>
+    <id>18474</id>
+    <title>Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</title>
+    <updated>2022-01-06T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511355114458.jpg"><br/><br/>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18474">Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18474" rel="alternate"/>
+    <summary>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.</summary>
+    <published>2022-01-06T12:00:00+03:00</published>
   </entry>
   <entry>
     <id>16331</id>
@@ -2240,5 +2229,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18506" rel="alternate"/>
     <summary>Событие «Исследование зелий» скоро начнётся! </summary>
     <published>2022-01-06T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18474</id>
+    <title>Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</title>
+    <updated>2022-01-06T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511355114458.jpg"><br/><br/>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18474">Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18474" rel="alternate"/>
+    <summary>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.</summary>
+    <published>2022-01-06T12:00:00+03:00</published>
   </entry>
 </feed>

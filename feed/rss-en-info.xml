@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 03:14:25 +0000</lastBuildDate>
-    <item>
-      <title>Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16063</link>
-      <description>Finding the right time and place is difficult, but bringing people together is more valuable.
-If the power of all living beings came together, even the creatures of the deep sea can see the stars.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091914324075824.png"><br/><br/>Finding the right time and place is difficult, but bringing people together is more valuable.
-If the power of all living beings came together, even the creatures of the deep sea can see the stars.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16063">Character Demo - "Sangonomiya Kokomi: A Thousand Waves Under the Moon" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16063</guid>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 04:13:28 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact One Year Anniversary Community Event Rewards Preview</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15980</link>
@@ -890,6 +880,16 @@ But what they don't know is that when the cranes go where the wind takes them, t
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516400184630.jpg"><br/><br/>The "A Study in Potions" event is about to begin. The Mondstadt alchemist Timaeus is attempting to create a legendary alchemical medication. Help him complete this line of research, and you may obtain some rich rewards...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18503">"A Study in Potions" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">18503</guid>
       <pubDate>Thu, 06 Jan 2022 10:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Collected Miscellany - "Yun Jin: Showstopper" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18480</link>
+      <description>The people of Liyue love listening to Liyue opera, and the fans are always impressed by the singing and acting skills of the renowned opera singer Yun Jin.
+They are in awe at Yun Jin's graceful fights on stage, but do not know that her skills with the spear are real enough to defend against her foes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511534068977.jpg"><br/><br/>The people of Liyue love listening to Liyue opera, and the fans are always impressed by the singing and acting skills of the renowned opera singer Yun Jin.
+They are in awe at Yun Jin's graceful fights on stage, but do not know that her skills with the spear are real enough to defend against her foes.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18480">Collected Miscellany - "Yun Jin: Showstopper" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18480</guid>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

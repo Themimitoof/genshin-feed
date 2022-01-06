@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 06 Jan 2022 03:14:41 +0000</lastBuildDate>
-    <item>
-      <title>Gedenkvideo zu den Abenteuern auf Teyvat bei Genshin Impact: Aufzeichnungen zum Jahrestag der Reise</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15893</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091516313385974.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15893">Gedenkvideo zu den Abenteuern auf Teyvat bei Genshin Impact: Aufzeichnungen zum Jahrestag der Reise</a>]]></description>
-      <guid isPermaLink="false">15893</guid>
-      <pubDate>Thu, 16 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 04:13:48 +0000</lastBuildDate>
     <item>
       <title>Gebet „Treibende Perle“: Höhere Wahrscheinlichkeit für „Perle der Weisheit – Sangonomiya Kokomi (Hydro)“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/15984</link>
@@ -857,6 +850,14 @@ hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010519292340209.jpg"><br/><br/>Die Aktion „Zaubertrankseminar“ ist bald verfügbar. Timaeus, der Alchimist von Mondstadt, versucht gerade, einen gewissen sagenumwobenen Alchimie-Trank herzustellen. Hilf ihm bei dem Alchimie-Experiment, denn er scheint eine stattliche Belohnung für jede helfende Hand vorbereitet zu haben ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18517">Erläuterungen zur Spielweise von „Zaubertrankseminar“</a>]]></content:encoded>
       <guid isPermaLink="false">18517</guid>
       <pubDate>Thu, 06 Jan 2022 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Fähigkeiten bei Genshin Impact – Yun Jin: Bühnenstürmerin</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18482</link>
+      <description>Die Einwohner von Liyue lieben die Liyue-Oper und die Fans sind immer wieder beeindruckt von den Gesangs- und Schauspielkünsten der berühmten Opernsängerin Yun Jin.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511560683389.jpg"><br/><br/>Die Einwohner von Liyue lieben die Liyue-Oper und die Fans sind immer wieder beeindruckt von den Gesangs- und Schauspielkünsten der berühmten Opernsängerin Yun Jin.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18482">Fähigkeiten bei Genshin Impact – Yun Jin: Bühnenstürmerin</a>]]></content:encoded>
+      <guid isPermaLink="false">18482</guid>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

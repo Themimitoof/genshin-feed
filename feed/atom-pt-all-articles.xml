@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2022-01-06T03:15:09.789091+00:00</updated>
+  <updated>2022-01-06T04:14:32.214949+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -409,15 +409,6 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/7464" rel="alternate"/>
     <summary>O início da aventura nas Montanhas Nevadas!</summary>
     <published>2020-12-20T12:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>16002</id>
-    <title>Oração "Luminescência à Deriva": Com Taxa de Drop aumentada, "Pérolas de Sabedoria - Sangonomiya Kokomi (Hydro)"!</title>
-    <updated>2021-09-19T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817301031637.jpg"><br/><br/>Durante o período do evento, obtenha mais personagens e armas através das orações, e aumente a força de combate da sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16002">Oração "Luminescência à Deriva": Com Taxa de Drop aumentada, "Pérolas de Sabedoria - Sangonomiya Kokomi (Hydro)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16002" rel="alternate"/>
-    <summary>Durante o período do evento, obtenha mais personagens e armas através das orações, e aumente a força de combate da sua equipe!</summary>
-    <published>2021-09-19T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>16003</id>
@@ -1316,13 +1307,13 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <published>2022-01-06T10:30:00+00:00</published>
   </entry>
   <entry>
-    <id>16278</id>
-    <title>Diário em Inazuma — Edição Ilha Tsurumi</title>
-    <updated>2021-10-06T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093012093658506.jpg"><br/><br/>Na versão 2.2, uma nova ilha, a Ilha Tsurumi, será desbloqueada em Inazuma. Viajantes, venham conhecer a ilha que fica neste mar enevoado~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16278">Diário em Inazuma — Edição Ilha Tsurumi</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16278" rel="alternate"/>
-    <summary>Na versão 2.2, uma nova ilha, a Ilha Tsurumi, será desbloqueada em Inazuma. Viajantes, venham conhecer a ilha que fica neste mar enevoado~</summary>
-    <published>2021-10-06T10:30:00+01:00</published>
+    <id>18476</id>
+    <title>Coleção Variada de Genshin Impact - "Yunjin: Arrasa-Palco"</title>
+    <updated>2022-01-06T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511374527236.jpg"><br/><br/>O povo de Liyue adora ópera de Liyue, e todos os fãs ficam encantados pelas habilidades de canto e atuações da cantora de ópera Yunjin.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18476">Coleção Variada de Genshin Impact - "Yunjin: Arrasa-Palco"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18476" rel="alternate"/>
+    <summary>O povo de Liyue adora ópera de Liyue, e todos os fãs ficam encantados pelas habilidades de canto e atuações da cantora de ópera Yunjin.</summary>
+    <published>2022-01-06T12:00:00+00:00</published>
   </entry>
   <entry>
     <id>16319</id>
@@ -2226,5 +2217,14 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/18508" rel="alternate"/>
     <summary>Disponível em breve, evento "Um Estudo de Poções". O Alquimista de Mondstadt, Timaeus, está tentando criar uma poção alquímica lendária. Ajude-o a completar essa pesquisa e ganhe recompensas valiosas...</summary>
     <published>2022-01-06T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18476</id>
+    <title>Coleção Variada de Genshin Impact - "Yunjin: Arrasa-Palco"</title>
+    <updated>2022-01-06T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511374527236.jpg"><br/><br/>O povo de Liyue adora ópera de Liyue, e todos os fãs ficam encantados pelas habilidades de canto e atuações da cantora de ópera Yunjin.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18476">Coleção Variada de Genshin Impact - "Yunjin: Arrasa-Palco"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18476" rel="alternate"/>
+    <summary>O povo de Liyue adora ópera de Liyue, e todos os fãs ficam encantados pelas habilidades de canto e atuações da cantora de ópera Yunjin.</summary>
+    <published>2022-01-06T12:00:00+00:00</published>
   </entry>
 </feed>

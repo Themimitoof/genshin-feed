@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 06 Jan 2022 03:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 04:14:40 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -353,14 +353,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121817025631829.png"><br/><br/>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/7467">Страница предварительной демонстрации версии 1.2 «Принц мела и дракон» уже открыта!</a>]]></content:encoded>
       <guid isPermaLink="false">7467</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Молитва «Дрейфующее свечение» - повышен шанс получить персонажа «Жемчужина мудрости» Сангономия Кокоми (Гидро) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15976</link>
-      <description>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15976">Молитва «Дрейфующее свечение» - повышен шанс получить персонажа «Жемчужина мудрости» Сангономия Кокоми (Гидро) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">15976</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
       <title>Молитва «Воплощение божества»: повышен шанс получить оружие Вечное лунное сияние (Катализатор), Драгоценный омут (Одноручное) и другое оружие!</title>
@@ -1174,14 +1166,12 @@
       <pubDate>Thu, 06 Jan 2022 10:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Genshin Impact | Специальный розыгрыш</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16323</link>
-      <description>Время в Тейвате летит незаметно.
-Но с тобой даже будни наполняются теплом и светом.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100322591880808.jpg"><br/><br/>Время в Тейвате летит незаметно.
-Но с тобой даже будни наполняются теплом и светом.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16323">Genshin Impact | Специальный розыгрыш</a>]]></content:encoded>
-      <guid isPermaLink="false">16323</guid>
-      <pubDate>Sun, 03 Oct 2021 22:30:00 +0300</pubDate>
+      <title>Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18474</link>
+      <description>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511355114458.jpg"><br/><br/>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18474">Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18474</guid>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 +0300</pubDate>
     </item>
     <item>
       <title>Превью-страница версии 2.2 «Тайны туманного моря» уже открыта!</title>
@@ -1993,6 +1983,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516482794155.jpg"><br/><br/>Событие «Исследование зелий» скоро начнётся! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18506">Игровой процесс события «Исследование зелий»</a>]]></content:encoded>
       <guid isPermaLink="false">18506</guid>
       <pubDate>Thu, 06 Jan 2022 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18474</link>
+      <description>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511355114458.jpg"><br/><br/>Жители Ли Юэ любят местную оперу, а от пения и актерского мастерства известной оперной певицы Юнь Цзинь поклонники приходят в восторг.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18474">Юнь Цзинь: Оперная сенсация | Коллекция Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18474</guid>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 06 Jan 2022 03:14:31 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15829</link>
-      <description>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210914/2021091417123186656.png"><br/><br/>Descendante de la lignée des Sangonomiya, Kokomi était prédestinée à écouter les souhaits des habitants de l'Île Watatsumi.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15829">Genshin Impact - Histoire de personnage | Sangonomiya Kokomi : « Volonté de l'océan »</a>]]></content:encoded>
-      <guid isPermaLink="false">15829</guid>
-      <pubDate>Wed, 15 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 04:13:35 +0000</lastBuildDate>
     <item>
       <title>« Pour surmonter l'adversité, il faut s'y préparer. » – Sangonomiya Kokomi · Perle de connaissance</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/15842</link>
@@ -731,6 +723,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010518102123530.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18516">Détails de l'événement « Potiologie »</a>]]></description>
       <guid isPermaLink="false">18516</guid>
       <pubDate>Thu, 06 Jan 2022 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Yun Jin : Clou du spectacle</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18504</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516432142612.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18504">Genshin Impact - Yun Jin : Clou du spectacle</a>]]></description>
+      <guid isPermaLink="false">18504</guid>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

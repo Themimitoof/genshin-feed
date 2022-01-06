@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 03:14:24 +0000</lastBuildDate>
-    <item>
-      <title>Ta-da! The Gadget Windsong Lyre Is Back~ | Developers Discussion – 10/06</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16321</link>
-      <description>A new Developers Discussion is here~ Let's see what they have in store for us!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100110192224064.png"><br/><br/>A new Developers Discussion is here~ Let's see what they have in store for us!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16321">Ta-da! The Gadget Windsong Lyre Is Back~ | Developers Discussion – 10/06</a>]]></content:encoded>
-      <guid isPermaLink="false">16321</guid>
-      <pubDate>Wed, 06 Oct 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Thu, 06 Jan 2022 04:13:26 +0000</lastBuildDate>
     <item>
       <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16369</link>
@@ -875,6 +867,16 @@ But what they don't know is that when the cranes go where the wind takes them, t
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010516400184630.jpg"><br/><br/>The "A Study in Potions" event is about to begin. The Mondstadt alchemist Timaeus is attempting to create a legendary alchemical medication. Help him complete this line of research, and you may obtain some rich rewards...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18503">"A Study in Potions" Gameplay Details</a>]]></content:encoded>
       <guid isPermaLink="false">18503</guid>
       <pubDate>Thu, 06 Jan 2022 10:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Collected Miscellany - "Yun Jin: Showstopper" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18480</link>
+      <description>The people of Liyue love listening to Liyue opera, and the fans are always impressed by the singing and acting skills of the renowned opera singer Yun Jin.
+They are in awe at Yun Jin's graceful fights on stage, but do not know that her skills with the spear are real enough to defend against her foes.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010511534068977.jpg"><br/><br/>The people of Liyue love listening to Liyue opera, and the fans are always impressed by the singing and acting skills of the renowned opera singer Yun Jin.
+They are in awe at Yun Jin's graceful fights on stage, but do not know that her skills with the spear are real enough to defend against her foes.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18480">Collected Miscellany - "Yun Jin: Showstopper" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18480</guid>
+      <pubDate>Thu, 06 Jan 2022 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
