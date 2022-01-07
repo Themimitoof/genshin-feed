@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 07 Jan 2022 03:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 04:14:34 +0000</lastBuildDate>
     <item>
       <title>Беседы с разработчиками (6 октября) - Лира ветров снова доступна!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16349</link>
@@ -593,10 +593,10 @@
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
-      <title>Событие «Памятная лотерея» версии 2.3</title>
+      <title>Результаты события «Памятная лотерея» версии 2.3</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/18072</link>
-      <description>Версия 2.3 «Белая пыль и снежная тень» закончится 04.01.2022. Какие у вас впечатления?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810441043909.jpg"><br/><br/>Версия 2.3 «Белая пыль и снежная тень» закончится 04.01.2022. Какие у вас впечатления?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18072">Событие «Памятная лотерея» версии 2.3</a>]]></content:encoded>
+      <description>Событие «Памятная лотерея» версии 2.3 уже закончилось.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211228/2021122810441043909.jpg"><br/><br/>Событие «Памятная лотерея» версии 2.3 уже закончилось.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18072">Результаты события «Памятная лотерея» версии 2.3</a>]]></content:encoded>
       <guid isPermaLink="false">18072</guid>
       <pubDate>Tue, 28 Dec 2021 12:00:00 +0300</pubDate>
     </item>
