@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2022-01-09T03:13:14.451508+00:00</updated>
+  <updated>2022-01-09T04:13:53.117032+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16359</id>
-    <title>Pré-download disponível</title>
-    <updated>2021-10-11T11:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101021253857291.jpg"><br/><br/>Caro Viajante: Pré-Download agora disponível para PC e dispositivos móveis.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16359">Pré-download disponível</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16359" rel="alternate"/>
-    <summary>Caro Viajante: Pré-Download agora disponível para PC e dispositivos móveis.</summary>
-    <published>2021-10-11T11:00:00+01:00</published>
-  </entry>
   <entry>
     <id>16360</id>
     <title>Descrição da Missão Lendária: "Evento de Encontros - Série III"</title>
@@ -920,5 +911,14 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/18531" rel="alternate"/>
     <summary>Junto com a atualização da Versão 2.4 "Cores Efêmeras Voadoras", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.</summary>
     <published>2022-01-06T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18569</id>
+    <title>Uma Jornada Entre a Neve e as Estrelas: Evento de Iluminação dos Alpes (Teaser 2)</title>
+    <updated>2022-01-09T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717193127267.jpg"><br/><br/>Caros Viajantes, é com o enorme prazer que estamos compartilhando a notícia de que atingimos, há alguns dias atrás, 1 milhão de participantes no evento web "Uma Jornada Entre a Neve e as Estrelas", e gostaríamos de agradecer novamente pela sua participação no evento!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18569">Uma Jornada Entre a Neve e as Estrelas: Evento de Iluminação dos Alpes (Teaser 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18569" rel="alternate"/>
+    <summary>Caros Viajantes, é com o enorme prazer que estamos compartilhando a notícia de que atingimos, há alguns dias atrás, 1 milhão de participantes no evento web "Uma Jornada Entre a Neve e as Estrelas", e gostaríamos de agradecer novamente pela sua participação no evento!</summary>
+    <published>2022-01-09T12:00:00+00:00</published>
   </entry>
 </feed>

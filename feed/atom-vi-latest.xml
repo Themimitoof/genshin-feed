@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2022-01-09T03:13:16.073315+00:00</updated>
+  <updated>2022-01-09T04:14:02.164065+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>16273</id>
-    <title>Video cốt truyện Genshin Impact - Hương Vị Nhân Gian</title>
-    <updated>2021-10-02T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210929/2021092912120487554.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16273">Video cốt truyện Genshin Impact - Hương Vị Nhân Gian</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16273" rel="alternate"/>
-    <published>2021-10-02T18:00:00+07:00</published>
-  </entry>
   <entry>
     <id>16306</id>
     <title>[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</title>
@@ -835,5 +827,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616083310329.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18538">Chiêu mộ streamer Genshin Impact phiên bản mới trên Twitch</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18538" rel="alternate"/>
     <published>2022-01-06T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18566</id>
+    <title>Genshin Impact - Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao: Sự kiện thắp sáng dãy Alps (Teaser 2)</title>
+    <updated>2022-01-09T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010716561459938.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18566">Genshin Impact - Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao: Sự kiện thắp sáng dãy Alps (Teaser 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18566" rel="alternate"/>
+    <published>2022-01-09T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-09T03:13:12.850179+00:00</updated>
+  <updated>2022-01-09T04:13:44.088976+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -609,6 +609,17 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2022-01-06T18:00:00+01:00</published>
   </entry>
   <entry>
+    <id>18577</id>
+    <title>Evento «Un camino de copos y estrellas» - Iluminando los Alpes (Avance 2)</title>
+    <updated>2022-01-09T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717561694816.jpg"><br/><br/>Viajeros: 
+¡Gracias por participar en el evento web «Un camino de copos y estrellas»! ¡Ahora mismo ya registramos más de un millón de participantes!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18577">Evento «Un camino de copos y estrellas» - Iluminando los Alpes (Avance 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18577" rel="alternate"/>
+    <summary>Viajeros: 
+¡Gracias por participar en el evento web «Un camino de copos y estrellas»! ¡Ahora mismo ya registramos más de un millón de participantes!</summary>
+    <published>2022-01-09T12:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -897,5 +908,16 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18535" rel="alternate"/>
     <summary>Querido/a viajero/a: La nueva versión de Genshin Impact 2.4, «Iridiscencia fugaz» ya está disponible. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado.</summary>
     <published>2022-01-06T19:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18577</id>
+    <title>Evento «Un camino de copos y estrellas» - Iluminando los Alpes (Avance 2)</title>
+    <updated>2022-01-09T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717561694816.jpg"><br/><br/>Viajeros: 
+¡Gracias por participar en el evento web «Un camino de copos y estrellas»! ¡Ahora mismo ya registramos más de un millón de participantes!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18577">Evento «Un camino de copos y estrellas» - Iluminando los Alpes (Avance 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18577" rel="alternate"/>
+    <summary>Viajeros: 
+¡Gracias por participar en el evento web «Un camino de copos y estrellas»! ¡Ahora mismo ya registramos más de un millón de participantes!</summary>
+    <published>2022-01-09T12:00:00+01:00</published>
   </entry>
 </feed>

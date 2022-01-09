@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 09 Jan 2022 03:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 04:13:35 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -319,14 +319,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15901</link>
-      <description>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518181732431.jpg"><br/><br/>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15901">Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</a>]]></content:encoded>
-      <guid isPermaLink="false">15901</guid>
-      <pubDate>Thu, 16 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Présentation de la quête d'histoire « Dracaena Somnolenta »</title>
@@ -1043,11 +1035,11 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Thu, 06 Jan 2022 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Genshin Impact - Bande-annonce : Ensemble pour ce long voyage</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16221</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092722312628953.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16221">Genshin Impact - Bande-annonce : Ensemble pour ce long voyage</a>]]></description>
-      <guid isPermaLink="false">16221</guid>
-      <pubDate>Tue, 28 Sep 2021 12:00:00 +0200</pubDate>
+      <title>« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18573</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717291656588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18573">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</a>]]></description>
+      <guid isPermaLink="false">18573</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</title>
@@ -1766,6 +1758,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617473322551.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18554">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">18554</guid>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18573</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717291656588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18573">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</a>]]></description>
+      <guid isPermaLink="false">18573</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

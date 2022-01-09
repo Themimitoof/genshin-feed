@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Sun, 09 Jan 2022 03:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 04:13:46 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -494,6 +494,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <pubDate>Thu, 06 Jan 2022 18:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18583</link>
+      <description>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010718155786601.jpg"><br/><br/>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18583">Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">18583</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
       <link>https://genshin.mihoyo.com/id/news/detail/18288</link>
       <description>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</description>
@@ -652,6 +660,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616393163821.png"><br/><br/>Update Genshin Impact v2.4 "Sekilas Rona di Angkasa" telah hadir.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18546">Event Perekrutan Streamer Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18546</guid>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18583</link>
+      <description>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010718155786601.jpg"><br/><br/>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18583">Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</a>]]></content:encoded>
+      <guid isPermaLink="false">18583</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

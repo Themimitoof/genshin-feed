@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-09T03:13:13.304728+00:00</updated>
+  <updated>2022-01-09T04:13:46.916364+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -564,6 +564,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-06T18:00:00+07:00</published>
   </entry>
   <entry>
+    <id>18583</id>
+    <title>Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</title>
+    <updated>2022-01-09T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010718155786601.jpg"><br/><br/>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18583">Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18583" rel="alternate"/>
+    <summary>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! </summary>
+    <published>2022-01-09T12:00:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -742,5 +751,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18546" rel="alternate"/>
     <summary>Update Genshin Impact v2.4 "Sekilas Rona di Angkasa" telah hadir.</summary>
     <published>2022-01-06T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18583</id>
+    <title>Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</title>
+    <updated>2022-01-09T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010718155786601.jpg"><br/><br/>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18583">Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18583" rel="alternate"/>
+    <summary>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! </summary>
+    <published>2022-01-09T12:00:00+07:00</published>
   </entry>
 </feed>

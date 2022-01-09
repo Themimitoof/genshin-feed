@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Jan 2022 03:13:10 +0000</lastBuildDate>
-    <item>
-      <title>Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16023</link>
-      <description>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819063491168.png"><br/><br/>The Inazuma OST Battle Theme MV "Duel in the Mist" is performed by special guest top Japanese folk musicians.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16023">Duel in the Mist - Inazuma OST Battle Theme MV｜Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16023</guid>
-      <pubDate>Tue, 21 Sep 2021 12:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Jan 2022 04:13:31 +0000</lastBuildDate>
     <item>
       <title>Collected Miscellany - "Sangonomiya Kokomi: Secret Tides of the Heart" | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/en/news/detail/15945</link>
@@ -892,6 +884,14 @@ The opera sings about the feats of a heroine, with new lines added to the story,
 The opera sings about the feats of a heroine, with new lines added to the story, and told anew in many homes.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18521">Story Teaser: The Divine Damsel of Devastation | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18521</guid>
       <pubDate>Thu, 06 Jan 2022 18:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 2) | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18563</link>
+      <description>Travelers, thank you for taking part in the "Enchanting Journey of Snow and Stars" web event! We have successfully reached our goal of reaching a total of 1 million participants!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010716500646482.jpg"><br/><br/>Travelers, thank you for taking part in the "Enchanting Journey of Snow and Stars" web event! We have successfully reached our goal of reaching a total of 1 million participants!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18563">Enchanting Journey of Snow and Stars: Illuminating Event in the Alps (Teaser 2) | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18563</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

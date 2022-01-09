@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 09 Jan 2022 03:13:11 +0000</lastBuildDate>
-    <item>
-      <title>宣傳影片-遠旅同行｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16207</link>
-      <description>霞光從天際升起，星輝於蒼穹閃爍。我們在提瓦特大陸一路同行，並於此踏上新的旅程。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092716172446722.jpg"><br/><br/>霞光從天際升起，星輝於蒼穹閃爍。我們在提瓦特大陸一路同行，並於此踏上新的旅程。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16207">宣傳影片-遠旅同行｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">16207</guid>
-      <pubDate>Tue, 28 Sep 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Jan 2022 04:13:35 +0000</lastBuildDate>
     <item>
       <title>劇情預告-「人間至味」｜原神</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16251</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616043718252.jpg"><br/><br/>原神2.4新版本「飛彩鐫流年」已更新。Twitch原神新版本主播招募活動現已開啟。參與直播，完成任務就能贏取豐厚原石獎勵！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18536">Twitch《原神》新版本實況主招募</a>]]></content:encoded>
       <guid isPermaLink="false">18536</guid>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>雪峰勝景 星耀奇旅—《原神》阿爾卑斯點亮活動（Teaser 2）</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18579</link>
+      <description>旅行者們，感謝大家參與「雪峰勝景 星耀奇旅」網頁活動！日前已順利集齊了100萬玩家的參與！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717570413672.jpg"><br/><br/>旅行者們，感謝大家參與「雪峰勝景 星耀奇旅」網頁活動！日前已順利集齊了100萬玩家的參與！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18579">雪峰勝景 星耀奇旅—《原神》阿爾卑斯點亮活動（Teaser 2）</a>]]></content:encoded>
+      <guid isPermaLink="false">18579</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

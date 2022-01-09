@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 09 Jan 2022 03:13:10 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15901</link>
-      <description>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210915/2021091518181732431.jpg"><br/><br/>Nous avons parcouru un long chemin ensemble, à travers montagnes, mers et rivières tout en écoutant les mélodies de la nature.<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15901">Genshin Impact - Vidéo commémorative : « Une année d'aventures en Teyvat »</a>]]></content:encoded>
-      <guid isPermaLink="false">15901</guid>
-      <pubDate>Thu, 16 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Jan 2022 04:13:34 +0000</lastBuildDate>
     <item>
       <title>Présentation de la quête d'histoire « Dracaena Somnolenta »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16039</link>
@@ -730,6 +722,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617000485080.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18551">Genshin Impact - Aperçu de l'histoire : « Divine damoiselle de la dévastation »</a>]]></description>
       <guid isPermaLink="false">18551</guid>
       <pubDate>Thu, 06 Jan 2022 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18573</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717291656588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18573">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</a>]]></description>
+      <guid isPermaLink="false">18573</guid>
+      <pubDate>Sun, 09 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

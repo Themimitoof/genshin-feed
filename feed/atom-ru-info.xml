@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - info</title>
-  <updated>2022-01-09T03:13:15.117213+00:00</updated>
+  <updated>2022-01-09T04:13:57.524159+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>16012</id>
-    <title>Задание легенд «Спящий Дракон»</title>
-    <updated>2021-09-19T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[После достижения необходимого Ранга приключений и завершения соответствующих заданий Путешественники могут использовать Ключ легенд, чтобы разблокировать задание легенд Сангономии Кокоми «Спящий Дракон».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16012">Задание легенд «Спящий Дракон»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16012" rel="alternate"/>
-    <summary>После достижения необходимого Ранга приключений и завершения соответствующих заданий Путешественники могут использовать Ключ легенд, чтобы разблокировать задание легенд Сангономии Кокоми «Спящий Дракон».</summary>
-    <published>2021-09-19T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>15941</id>
     <title>Обзор событий версии 2.1 - Выпуск II</title>
@@ -927,5 +918,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18530" rel="alternate"/>
     <summary>Причудливая история о становлении Адепта.</summary>
     <published>2022-01-06T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18575</id>
+    <title>Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 2)</title>
+    <updated>2022-01-09T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717431123683.jpg"><br/><br/>Дорогие Путешественники, благодарим вас за участие в браузерном событии «Звёздный путь среди снегов»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18575">Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 2)</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18575" rel="alternate"/>
+    <summary>Дорогие Путешественники, благодарим вас за участие в браузерном событии «Звёздный путь среди снегов»!</summary>
+    <published>2022-01-09T12:00:00+03:00</published>
   </entry>
 </feed>
