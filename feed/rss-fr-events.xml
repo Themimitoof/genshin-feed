@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 10 Jan 2022 13:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 14:11:16 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -184,6 +184,13 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010617473322551.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18554">La campagne de recrutement de streamers sur Twitch</a>]]></description>
       <guid isPermaLink="false">18554</guid>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Concours] Un mets de choix</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18592</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220110/2022011019434994763.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18592">[Concours] Un mets de choix</a>]]></description>
+      <guid isPermaLink="false">18592</guid>
+      <pubDate>Mon, 10 Jan 2022 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

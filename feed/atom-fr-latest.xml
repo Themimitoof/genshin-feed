@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2022-01-10T13:21:31.184531+00:00</updated>
+  <updated>2022-01-10T14:11:15.222368+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>16266</id>
-    <title>Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</title>
-    <updated>2021-10-02T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092822273742705.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16266">Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16266" rel="alternate"/>
-    <published>2021-10-02T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16310</id>
     <title>Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</title>
@@ -850,5 +842,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717291656588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18573">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18573" rel="alternate"/>
     <published>2022-01-09T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18592</id>
+    <title>[Concours] Un mets de choix</title>
+    <updated>2022-01-10T22:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220110/2022011019434994763.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18592">[Concours] Un mets de choix</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18592" rel="alternate"/>
+    <published>2022-01-10T22:00:00+01:00</published>
   </entry>
 </feed>

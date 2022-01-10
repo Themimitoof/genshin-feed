@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 10 Jan 2022 13:21:31 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16266</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092822273742705.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16266">Genshin Impact - Aperçu de l'histoire : « Saveurs du monde »</a>]]></description>
-      <guid isPermaLink="false">16266</guid>
-      <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 10 Jan 2022 14:11:15 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact - Bande-annonce de la version 2.2 « Dans les méandres de la brume »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16310</link>
@@ -733,6 +726,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717291656588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18573">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</a>]]></description>
       <guid isPermaLink="false">18573</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Concours] Un mets de choix</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18592</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220110/2022011019434994763.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18592">[Concours] Un mets de choix</a>]]></description>
+      <guid isPermaLink="false">18592</guid>
+      <pubDate>Mon, 10 Jan 2022 22:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
