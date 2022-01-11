@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2022-01-11T02:03:25.857450+00:00</updated>
+  <updated>2022-01-11T03:14:36.625838+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -284,5 +284,14 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/18531" rel="alternate"/>
     <summary>Junto com a atualização da Versão 2.4 "Cores Efêmeras Voadoras", o recrutamento de streamers da Twitch está disponível agora mesmo! Participe de transmissões e ganhe recompensas generosas de Gemas Essenciais com a conclusão das missões.</summary>
     <published>2022-01-06T19:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18593</id>
+    <title>Evento de Celebração de 100.000 Membros Alcançados – Evento da comunidade de língua portuguesa</title>
+    <updated>2022-01-11T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011110195629381.jpg"><br/><br/>Desde o dia 11 do junho de 2021 até hoje, a nossa conta brasileira oficial já acompanhou os Viajantes por mais de 6 meses! Com o apoio de todos os Viajantes, já alcançamos mais de 100.000 seguidores! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18593">Evento de Celebração de 100.000 Membros Alcançados – Evento da comunidade de língua portuguesa</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18593" rel="alternate"/>
+    <summary>Desde o dia 11 do junho de 2021 até hoje, a nossa conta brasileira oficial já acompanhou os Viajantes por mais de 6 meses! Com o apoio de todos os Viajantes, já alcançamos mais de 100.000 seguidores! </summary>
+    <published>2022-01-11T10:30:00+00:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Tue, 11 Jan 2022 02:03:25 +0000</lastBuildDate>
-    <item>
-      <title>Descrição da Missão Lendária: "Evento de Encontros - Série III"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16360</link>
-      <description>Ao alcançar o Rank de Aventura correspondente e ter concluído as Missões de Pré-Requisito correspondentes, os Viajantes poderão usar a "Chave de Lendas" para desbloquear os Eventos de Encontros da Sayu e do Thoma.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101021384951144.jpg"><br/><br/>Ao alcançar o Rank de Aventura correspondente e ter concluído as Missões de Pré-Requisito correspondentes, os Viajantes poderão usar a "Chave de Lendas" para desbloquear os Eventos de Encontros da Sayu e do Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16360">Descrição da Missão Lendária: "Evento de Encontros - Série III"</a>]]></content:encoded>
-      <guid isPermaLink="false">16360</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Jan 2022 03:14:33 +0000</lastBuildDate>
     <item>
       <title>Oração "Despedida para o Norte": Com Taxa de Drop aumentada, "Childe - Tartaglia (Hydro)"!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16361</link>
@@ -818,6 +810,14 @@ Os e-mails ficarão disponíveis até o final do evento.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717193127267.jpg"><br/><br/>Caros Viajantes, é com o enorme prazer que estamos compartilhando a notícia de que atingimos, há alguns dias atrás, 1 milhão de participantes no evento web "Uma Jornada Entre a Neve e as Estrelas", e gostaríamos de agradecer novamente pela sua participação no evento!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18569">Uma Jornada Entre a Neve e as Estrelas: Evento de Iluminação dos Alpes (Teaser 2)</a>]]></content:encoded>
       <guid isPermaLink="false">18569</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evento de Celebração de 100.000 Membros Alcançados – Evento da comunidade de língua portuguesa</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18593</link>
+      <description>Desde o dia 11 do junho de 2021 até hoje, a nossa conta brasileira oficial já acompanhou os Viajantes por mais de 6 meses! Com o apoio de todos os Viajantes, já alcançamos mais de 100.000 seguidores! </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011110195629381.jpg"><br/><br/>Desde o dia 11 do junho de 2021 até hoje, a nossa conta brasileira oficial já acompanhou os Viajantes por mais de 6 meses! Com o apoio de todos os Viajantes, já alcançamos mais de 100.000 seguidores! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18593">Evento de Celebração de 100.000 Membros Alcançados – Evento da comunidade de língua portuguesa</a>]]></content:encoded>
+      <guid isPermaLink="false">18593</guid>
+      <pubDate>Tue, 11 Jan 2022 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
