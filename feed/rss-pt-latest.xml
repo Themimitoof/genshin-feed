@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:18 +0000</lastBuildDate>
-    <item>
-      <title>Oração "Despedida para o Norte": Com Taxa de Drop aumentada, "Childe - Tartaglia (Hydro)"!</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16361</link>
-      <description>Durante o período do evento, obtenha mais personagens e armas através das orações, e aumente a força de combate da sua equipe!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101021431469470.jpg"><br/><br/>Durante o período do evento, obtenha mais personagens e armas através das orações, e aumente a força de combate da sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16361">Oração "Despedida para o Norte": Com Taxa de Drop aumentada, "Childe - Tartaglia (Hydro)"!</a>]]></content:encoded>
-      <guid isPermaLink="false">16361</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:39 +0000</lastBuildDate>
     <item>
       <title>Oração "Encarnação Divina": Com Taxa de Drop aumentada, "Estrela Invernal (Arco)" e "Memória da Poeira (Catalisador)"!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16362</link>
@@ -818,6 +810,14 @@ Os e-mails ficarão disponíveis até o final do evento.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011110195629381.jpg"><br/><br/>Desde o dia 11 do junho de 2021 até hoje, a nossa conta brasileira oficial já acompanhou os Viajantes por mais de 6 meses! Com o apoio de todos os Viajantes, já alcançamos mais de 100.000 seguidores! <br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18593">Evento de Celebração de 100.000 Membros Alcançados – Evento da comunidade de língua portuguesa</a>]]></content:encoded>
       <guid isPermaLink="false">18593</guid>
       <pubDate>Tue, 11 Jan 2022 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Descrição do Modo de Jogo do "Labirinto de Vento"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18606</link>
+      <description>Para atrair mais jogadores para o "Labirinto de Vento", Gygax adicionou vários mapas totalmente novos ao seu jogo. Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118444446512.jpg"><br/><br/>Para atrair mais jogadores para o "Labirinto de Vento", Gygax adicionou vários mapas totalmente novos ao seu jogo. Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18606">Descrição do Modo de Jogo do "Labirinto de Vento"</a>]]></content:encoded>
+      <guid isPermaLink="false">18606</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

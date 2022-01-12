@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2022-01-12T02:04:18.978787+00:00</updated>
+  <updated>2022-01-12T03:14:41.436851+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16056</id>
-    <title>Venha conferir a "Visão Geral do Evento da Versão 2.1 - Edição II" junto com a Paimon!</title>
-    <updated>2021-09-19T12:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091913105535814.jpg"><br/><br/>Olá, Viajantes~ "No Rastro dos Espectros" está disponível agora, não perca!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16056">Venha conferir a "Visão Geral do Evento da Versão 2.1 - Edição II" junto com a Paimon!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16056" rel="alternate"/>
-    <summary>Olá, Viajantes~ "No Rastro dos Espectros" está disponível agora, não perca!</summary>
-    <published>2021-09-19T12:10:00+01:00</published>
-  </entry>
   <entry>
     <id>16047</id>
     <title>Demo da Nova Personagem de Genshin Impact - "Sangonomiya Kokomi: Infinitas Ondas ao Toque da Lua"</title>
@@ -913,5 +904,14 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/18569" rel="alternate"/>
     <summary>Caros Viajantes, é com o enorme prazer que estamos compartilhando a notícia de que atingimos, há alguns dias atrás, 1 milhão de participantes no evento web "Uma Jornada Entre a Neve e as Estrelas", e gostaríamos de agradecer novamente pela sua participação no evento!</summary>
     <published>2022-01-09T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18606</id>
+    <title>Descrição do Modo de Jogo do "Labirinto de Vento"</title>
+    <updated>2022-01-12T10:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118444446512.jpg"><br/><br/>Para atrair mais jogadores para o "Labirinto de Vento", Gygax adicionou vários mapas totalmente novos ao seu jogo. Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18606">Descrição do Modo de Jogo do "Labirinto de Vento"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18606" rel="alternate"/>
+    <summary>Para atrair mais jogadores para o "Labirinto de Vento", Gygax adicionou vários mapas totalmente novos ao seu jogo. Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!</summary>
+    <published>2022-01-12T10:30:00+00:00</published>
   </entry>
 </feed>

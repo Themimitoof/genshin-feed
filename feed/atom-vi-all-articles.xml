@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2022-01-12T02:04:24.793305+00:00</updated>
+  <updated>2022-01-12T03:15:05.245776+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -329,14 +329,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15993</id>
-    <title>Cầu nguyện "Hồng Châu Trôi Nổi": UP xác suất Trí Tuệ Trân Châu - Sangonomiya Kokomi (Thuỷ)!</title>
-    <updated>2021-09-19T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817075264476.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15993">Cầu nguyện "Hồng Châu Trôi Nổi": UP xác suất Trí Tuệ Trân Châu - Sangonomiya Kokomi (Thuỷ)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15993" rel="alternate"/>
-    <published>2021-09-19T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15997</id>
@@ -1156,12 +1148,12 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2022-01-09T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16306</id>
-    <title>[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</title>
-    <updated>2021-10-03T22:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017212442517.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16306">[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16306" rel="alternate"/>
-    <published>2021-10-03T22:30:00+07:00</published>
+    <id>18607</id>
+    <title>Hướng Dẫn Cách Chơi "Cơn Gió Lạc Lối"	</title>
+    <updated>2022-01-12T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118513753739.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18607">Hướng Dẫn Cách Chơi "Cơn Gió Lạc Lối"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18607" rel="alternate"/>
+    <published>2022-01-12T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>16295</id>
@@ -1981,5 +1973,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010716561459938.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18566">Genshin Impact - Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao: Sự kiện thắp sáng dãy Alps (Teaser 2)</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18566" rel="alternate"/>
     <published>2022-01-09T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18607</id>
+    <title>Hướng Dẫn Cách Chơi "Cơn Gió Lạc Lối"	</title>
+    <updated>2022-01-12T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118513753739.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18607">Hướng Dẫn Cách Chơi "Cơn Gió Lạc Lối"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18607" rel="alternate"/>
+    <published>2022-01-12T10:30:00+07:00</published>
   </entry>
 </feed>

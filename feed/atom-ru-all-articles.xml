@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-12T02:04:21.739705+00:00</updated>
+  <updated>2022-01-12T03:14:52.672059+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -409,17 +409,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>15941</id>
-    <title>Обзор событий версии 2.1 - Выпуск II</title>
-    <updated>2021-09-19T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091710542814737.jpg"><br/><br/>Привет, Путешественники! Сегодня начинается событие «Призрачные тайны». Не пропустите его!
-Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15941">Обзор событий версии 2.1 - Выпуск II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/15941" rel="alternate"/>
-    <summary>Привет, Путешественники! Сегодня начинается событие «Призрачные тайны». Не пропустите его!
-Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.</summary>
-    <published>2021-09-19T12:10:00+03:00</published>
   </entry>
   <entry>
     <id>16065</id>
@@ -1330,13 +1319,13 @@
     <published>2022-01-09T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>16366</id>
-    <title>Об обновлении 2.2 «Тайны туманного моря»</title>
-    <updated>2021-10-11T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16366">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16366" rel="alternate"/>
-    <summary>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</summary>
-    <published>2021-10-11T10:30:00+03:00</published>
+    <id>18602</id>
+    <title>Описание события «По следам ветра»</title>
+    <updated>2022-01-12T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118112313552.jpg"><br/><br/>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18602">Описание события «По следам ветра»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18602" rel="alternate"/>
+    <summary>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!</summary>
+    <published>2022-01-12T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>16367</id>
@@ -2247,5 +2236,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18575" rel="alternate"/>
     <summary>Дорогие Путешественники, благодарим вас за участие в браузерном событии «Звёздный путь среди снегов»!</summary>
     <published>2022-01-09T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18602</id>
+    <title>Описание события «По следам ветра»</title>
+    <updated>2022-01-12T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118112313552.jpg"><br/><br/>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18602">Описание события «По следам ветра»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18602" rel="alternate"/>
+    <summary>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!</summary>
+    <published>2022-01-12T10:30:00+03:00</published>
   </entry>
 </feed>

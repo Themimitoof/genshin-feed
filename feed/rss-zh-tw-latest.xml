@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:08 +0000</lastBuildDate>
-    <item>
-      <title>劇情預告-「人間至味」｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16251</link>
-      <description>年歲一箸，山海一壺。閱古話今，幾度春秋。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818174360517.jpg"><br/><br/>年歲一箸，山海一壺。閱古話今，幾度春秋。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16251">劇情預告-「人間至味」｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">16251</guid>
-      <pubDate>Sat, 02 Oct 2021 18:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:02 +0000</lastBuildDate>
     <item>
       <title>2.2版本預告：「霧海懸謎境」｜原神</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16297</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717570413672.jpg"><br/><br/>旅行者們，感謝大家參與「雪峰勝景 星耀奇旅」網頁活動！日前已順利集齊了100萬玩家的參與！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18579">雪峰勝景 星耀奇旅—《原神》阿爾卑斯點亮活動（Teaser 2）</a>]]></content:encoded>
       <guid isPermaLink="false">18579</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「風行迷蹤」玩法說明</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18603</link>
+      <description>為了招募更多的人來玩「風行迷蹤」，吉蓋克斯這次新增了好幾張全新的遊戲地圖。承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118213486652.jpg"><br/><br/>為了招募更多的人來玩「風行迷蹤」，吉蓋克斯這次新增了好幾張全新的遊戲地圖。承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18603">「風行迷蹤」玩法說明</a>]]></content:encoded>
+      <guid isPermaLink="false">18603</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

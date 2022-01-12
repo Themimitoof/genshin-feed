@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2022-01-12T02:04:23.378857+00:00</updated>
+  <updated>2022-01-12T03:14:59.325207+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>16306</id>
-    <title>[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</title>
-    <updated>2021-10-03T22:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017212442517.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16306">[Genshin Impact] Video giới thiệu phiên bản 2.2: Bí Ẩn Biển Sương Mù</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16306" rel="alternate"/>
-    <published>2021-10-03T22:30:00+07:00</published>
-  </entry>
   <entry>
     <id>16295</id>
     <title>Trang giới thiệu phiên bản mới 2.2 - Bí Ẩn Biển Sương Mù đã mở!</title>
@@ -835,5 +827,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010716561459938.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18566">Genshin Impact - Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao: Sự kiện thắp sáng dãy Alps (Teaser 2)</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18566" rel="alternate"/>
     <published>2022-01-09T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18607</id>
+    <title>Hướng Dẫn Cách Chơi "Cơn Gió Lạc Lối"	</title>
+    <updated>2022-01-12T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118513753739.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18607">Hướng Dẫn Cách Chơi "Cơn Gió Lạc Lối"	</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18607" rel="alternate"/>
+    <published>2022-01-12T10:30:00+07:00</published>
   </entry>
 </feed>

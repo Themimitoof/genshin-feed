@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - all-articles</title>
-  <updated>2022-01-12T02:04:09.956094+00:00</updated>
+  <updated>2022-01-12T03:14:07.837534+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -331,14 +331,6 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/8428" rel="alternate"/>
     <summary>新版本要來啦！</summary>
     <published>2021-02-01T10:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>15944</id>
-    <title>派蒙帶你一圖流看活動——2.1版本活動快報第二期</title>
-    <updated>2021-09-19T12:10:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716141940624.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15944">派蒙帶你一圖流看活動——2.1版本活動快報第二期</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15944" rel="alternate"/>
-    <published>2021-09-19T12:10:00+08:00</published>
   </entry>
   <entry>
     <id>16045</id>
@@ -1239,13 +1231,13 @@
     <published>2022-01-09T12:00:00+08:00</published>
   </entry>
   <entry>
-    <id>16251</id>
-    <title>劇情預告-「人間至味」｜原神</title>
-    <updated>2021-10-02T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818174360517.jpg"><br/><br/>年歲一箸，山海一壺。閱古話今，幾度春秋。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16251">劇情預告-「人間至味」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16251" rel="alternate"/>
-    <summary>年歲一箸，山海一壺。閱古話今，幾度春秋。</summary>
-    <published>2021-10-02T18:00:00+08:00</published>
+    <id>18603</id>
+    <title>「風行迷蹤」玩法說明</title>
+    <updated>2022-01-12T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118213486652.jpg"><br/><br/>為了招募更多的人來玩「風行迷蹤」，吉蓋克斯這次新增了好幾張全新的遊戲地圖。承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18603">「風行迷蹤」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18603" rel="alternate"/>
+    <summary>為了招募更多的人來玩「風行迷蹤」，吉蓋克斯這次新增了好幾張全新的遊戲地圖。承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！</summary>
+    <published>2022-01-12T10:30:00+08:00</published>
   </entry>
   <entry>
     <id>16297</id>
@@ -2143,5 +2135,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18579" rel="alternate"/>
     <summary>旅行者們，感謝大家參與「雪峰勝景 星耀奇旅」網頁活動！日前已順利集齊了100萬玩家的參與！</summary>
     <published>2022-01-09T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18603</id>
+    <title>「風行迷蹤」玩法說明</title>
+    <updated>2022-01-12T10:30:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118213486652.jpg"><br/><br/>為了招募更多的人來玩「風行迷蹤」，吉蓋克斯這次新增了好幾張全新的遊戲地圖。承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18603">「風行迷蹤」玩法說明</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18603" rel="alternate"/>
+    <summary>為了招募更多的人來玩「風行迷蹤」，吉蓋克斯這次新增了好幾張全新的遊戲地圖。承載著蒙德歷史的經典遊戲「風行迷蹤」已再次開放！</summary>
+    <published>2022-01-12T10:30:00+08:00</published>
   </entry>
 </feed>

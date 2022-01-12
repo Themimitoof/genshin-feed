@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2022-01-12T02:04:10.010483+00:00</updated>
+  <updated>2022-01-12T03:14:07.883374+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16250</id>
-    <title>Handlungsvorschau von Genshin Impact – „Geschmäcke der Welt“</title>
-    <updated>2021-10-02T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818171915667.jpg"><br/><br/>Zeitlose Mahle und weite Tränke: Von der Vergangenheit bis zur Gegenwart befinden sich die Zeiten in einem ständigen Zustand der Erneuerung.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16250">Handlungsvorschau von Genshin Impact – „Geschmäcke der Welt“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16250" rel="alternate"/>
-    <summary>Zeitlose Mahle und weite Tränke: Von der Vergangenheit bis zur Gegenwart befinden sich die Zeiten in einem ständigen Zustand der Erneuerung.</summary>
-    <published>2021-10-02T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16329</id>
     <title>Vorschauvideo zu Version 2.2 von Genshin Impact: „Hinein ins Labyrinth des Nebels“</title>
@@ -967,5 +958,14 @@ hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben 
     <link href="https://genshin.mihoyo.com/de/news/detail/18571" rel="alternate"/>
     <summary>Reisende, danke für eure Teilnahme an der Webaktion „Zauberhafte Reise durch Schnee und Sterne“! Bisher haben schon eine Million Spieler teilgenommen!</summary>
     <published>2022-01-09T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18605</id>
+    <title>Erläuterungen zur Spielweise von „Windflucht“</title>
+    <updated>2022-01-12T10:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118352961899.jpg"><br/><br/>Um mehr Leute zum Spielen zu bringen, hat Gygax eine ganze Ladung brandneuer Karten eingebaut. Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18605">Erläuterungen zur Spielweise von „Windflucht“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18605" rel="alternate"/>
+    <summary>Um mehr Leute zum Spielen zu bringen, hat Gygax eine ganze Ladung brandneuer Karten eingebaut. Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!</summary>
+    <published>2022-01-12T10:30:00+01:00</published>
   </entry>
 </feed>

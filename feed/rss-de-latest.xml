@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:10 +0000</lastBuildDate>
-    <item>
-      <title>Handlungsvorschau von Genshin Impact – „Geschmäcke der Welt“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16250</link>
-      <description>Zeitlose Mahle und weite Tränke: Von der Vergangenheit bis zur Gegenwart befinden sich die Zeiten in einem ständigen Zustand der Erneuerung.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818171915667.jpg"><br/><br/>Zeitlose Mahle und weite Tränke: Von der Vergangenheit bis zur Gegenwart befinden sich die Zeiten in einem ständigen Zustand der Erneuerung.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16250">Handlungsvorschau von Genshin Impact – „Geschmäcke der Welt“</a>]]></content:encoded>
-      <guid isPermaLink="false">16250</guid>
-      <pubDate>Sat, 02 Oct 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:07 +0000</lastBuildDate>
     <item>
       <title>Vorschauvideo zu Version 2.2 von Genshin Impact: „Hinein ins Labyrinth des Nebels“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16329</link>
@@ -866,6 +858,14 @@ hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717242648101.jpg"><br/><br/>Reisende, danke für eure Teilnahme an der Webaktion „Zauberhafte Reise durch Schnee und Sterne“! Bisher haben schon eine Million Spieler teilgenommen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18571">Zauberhafte Reise durch Schnee und Sterne – Aktion zur Beleuchtung der Alpen von Genshin Impact (Teaser 2)</a>]]></content:encoded>
       <guid isPermaLink="false">18571</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Windflucht“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18605</link>
+      <description>Um mehr Leute zum Spielen zu bringen, hat Gygax eine ganze Ladung brandneuer Karten eingebaut. Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118352961899.jpg"><br/><br/>Um mehr Leute zum Spielen zu bringen, hat Gygax eine ganze Ladung brandneuer Karten eingebaut. Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18605">Erläuterungen zur Spielweise von „Windflucht“</a>]]></content:encoded>
+      <guid isPermaLink="false">18605</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

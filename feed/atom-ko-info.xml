@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2022-01-12T02:04:17.375833+00:00</updated>
+  <updated>2022-01-12T03:14:35.754859+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16020</id>
-    <title>「잠든 용의 장」 전설 임무 안내</title>
-    <updated>2021-09-19T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091818573912948.jpg"><br/><br/>여행자가 상응하는 모험 등급에 도달하고 선행 임무를 완료하면 「전설의 열쇠」를 사용해 산고노미야 코코미의 전설 임무 「잠든 용의 장」을 개방할 수 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16020">「잠든 용의 장」 전설 임무 안내</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16020" rel="alternate"/>
-    <summary>여행자가 상응하는 모험 등급에 도달하고 선행 임무를 완료하면 「전설의 열쇠」를 사용해 산고노미야 코코미의 전설 임무 「잠든 용의 장」을 개방할 수 있습니다</summary>
-    <published>2021-09-19T12:00:00+09:00</published>
-  </entry>
   <entry>
     <id>16067</id>
     <title>&lt;원신&gt; 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</title>
@@ -921,5 +912,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18581" rel="alternate"/>
     <summary>1월 13일 알프스산맥에서 워프 포인트 점등식을 진행할 예정입니다</summary>
     <published>2022-01-09T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18609</id>
+    <title>「바람의 행방」 이벤트 안내</title>
+    <updated>2022-01-12T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118594958330.jpg"><br/><br/>몬드의 역사를 담고 있는 클래식 게임 「바람의 행방」이 다시 오픈했습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18609">「바람의 행방」 이벤트 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18609" rel="alternate"/>
+    <summary>몬드의 역사를 담고 있는 클래식 게임 「바람의 행방」이 다시 오픈했습니다!</summary>
+    <published>2022-01-12T10:30:00+09:00</published>
   </entry>
 </feed>

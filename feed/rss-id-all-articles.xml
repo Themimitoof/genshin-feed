@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:27 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -502,6 +502,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Penjelasan Gameplay "Jejak Sang Angin"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18610</link>
+      <description>Untuk membujuk lebih banyak orang untuk bermain Jejak Sang Angin, kali ini Gygax telah menambahkan beberapa peta permainan baru.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011119094757892.jpg"><br/><br/>Untuk membujuk lebih banyak orang untuk bermain Jejak Sang Angin, kali ini Gygax telah menambahkan beberapa peta permainan baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18610">Penjelasan Gameplay "Jejak Sang Angin"</a>]]></content:encoded>
+      <guid isPermaLink="false">18610</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
       <link>https://genshin.mihoyo.com/id/news/detail/18288</link>
       <description>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</description>
@@ -668,6 +676,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010718155786601.jpg"><br/><br/>Traveler, terima kasih pada kalian semua yang telah mengikuti event web "Perjalanan Bersama Bintang di Gunung Salju"! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18583">Perjalanan Bersama Bintang di Gunung Salju: Event Menyalakan Alpen (Teaser 2)</a>]]></content:encoded>
       <guid isPermaLink="false">18583</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Penjelasan Gameplay "Jejak Sang Angin"</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18610</link>
+      <description>Untuk membujuk lebih banyak orang untuk bermain Jejak Sang Angin, kali ini Gygax telah menambahkan beberapa peta permainan baru.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011119094757892.jpg"><br/><br/>Untuk membujuk lebih banyak orang untuk bermain Jejak Sang Angin, kali ini Gygax telah menambahkan beberapa peta permainan baru.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18610">Penjelasan Gameplay "Jejak Sang Angin"</a>]]></content:encoded>
+      <guid isPermaLink="false">18610</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

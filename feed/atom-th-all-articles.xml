@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-12T02:04:23.325293+00:00</updated>
+  <updated>2022-01-12T03:14:59.281439+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -344,14 +344,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15989</id>
-    <title>การอธิษฐาน "ไข่มุกประกายรุ้ง": โอกาสได้รับ UP "ไข่มุกแห่งปัญญา - Sangonomiya Kokomi (น้ำ)"</title>
-    <updated>2021-09-19T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817054671304.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15989">การอธิษฐาน "ไข่มุกประกายรุ้ง": โอกาสได้รับ UP "ไข่มุกแห่งปัญญา - Sangonomiya Kokomi (น้ำ)"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15989" rel="alternate"/>
-    <published>2021-09-19T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>15995</id>
@@ -1169,12 +1161,13 @@
     <published>2022-01-09T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16294</id>
-    <title>หน้าตัวอย่างการอัปเดตเวอร์ชัน 2.2 "วังวนม่านหมอกมายา" เปิดแล้ว!</title>
-    <updated>2021-10-04T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016521168736.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16294">หน้าตัวอย่างการอัปเดตเวอร์ชัน 2.2 "วังวนม่านหมอกมายา" เปิดแล้ว!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16294" rel="alternate"/>
-    <published>2021-10-04T12:00:00+07:00</published>
+    <id>18608</id>
+    <title>คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</title>
+    <updated>2022-01-12T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118525743177.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18608">คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18608" rel="alternate"/>
+    <summary/>
+    <published>2022-01-12T10:30:00+07:00</published>
   </entry>
   <entry>
     <id>16283</id>
@@ -1999,5 +1992,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010716544575776.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18565">การเดินทางของหิมะ และดวงดาว - กิจกรรมจุดประกายแสงบนเทือกเขาแอลป์ของ Genshin Impact (Teaser 2)</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18565" rel="alternate"/>
     <published>2022-01-09T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18608</id>
+    <title>คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</title>
+    <updated>2022-01-12T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118525743177.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18608">คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18608" rel="alternate"/>
+    <summary/>
+    <published>2022-01-12T10:30:00+07:00</published>
   </entry>
 </feed>

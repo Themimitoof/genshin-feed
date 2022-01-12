@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:52 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -361,16 +361,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121817025631829.png"><br/><br/>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/7467">Страница предварительной демонстрации версии 1.2 «Принц мела и дракон» уже открыта!</a>]]></content:encoded>
       <guid isPermaLink="false">7467</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>Обзор событий версии 2.1 - Выпуск II</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15941</link>
-      <description>Привет, Путешественники! Сегодня начинается событие «Призрачные тайны». Не пропустите его!
-Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091710542814737.jpg"><br/><br/>Привет, Путешественники! Сегодня начинается событие «Призрачные тайны». Не пропустите его!
-Чтобы ознакомиться с версией 2.1, нажмите на изображение ниже.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15941">Обзор событий версии 2.1 - Выпуск II</a>]]></content:encoded>
-      <guid isPermaLink="false">15941</guid>
-      <pubDate>Sun, 19 Sep 2021 12:10:00 +0300</pubDate>
     </item>
     <item>
       <title>«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</title>
@@ -1182,12 +1172,12 @@
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0300</pubDate>
     </item>
     <item>
-      <title>Об обновлении 2.2 «Тайны туманного моря»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16366</link>
-      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
-      <content:encoded><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16366">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content:encoded>
-      <guid isPermaLink="false">16366</guid>
-      <pubDate>Mon, 11 Oct 2021 10:30:00 +0300</pubDate>
+      <title>Описание события «По следам ветра»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18602</link>
+      <description>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118112313552.jpg"><br/><br/>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18602">Описание события «По следам ветра»</a>]]></content:encoded>
+      <guid isPermaLink="false">18602</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0300</pubDate>
     </item>
     <item>
       <title>Функция предзагрузки уже доступна!</title>
@@ -1999,6 +1989,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717431123683.jpg"><br/><br/>Дорогие Путешественники, благодарим вас за участие в браузерном событии «Звёздный путь среди снегов»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18575">Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 2)</a>]]></content:encoded>
       <guid isPermaLink="false">18575</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «По следам ветра»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18602</link>
+      <description>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118112313552.jpg"><br/><br/>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18602">Описание события «По следам ветра»</a>]]></content:encoded>
+      <guid isPermaLink="false">18602</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

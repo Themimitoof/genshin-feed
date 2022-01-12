@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:06 +0000</lastBuildDate>
-    <item>
-      <title>Présentation de la quête d'histoire « Dracaena Somnolenta »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16039</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819282653706.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16039">Présentation de la quête d'histoire « Dracaena Somnolenta »</a>]]></description>
-      <guid isPermaLink="false">16039</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:13:57 +0000</lastBuildDate>
     <item>
       <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Lueur de la lune éternelle (Catalyseur) et Coupeur de jade primordial (Épée à une main) !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16040</link>
@@ -729,6 +722,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717291656588.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18573">« Lumières et neige éternelle » - Événement d'illumination des Alpes de Genshin Impact (Teaser 2)</a>]]></description>
       <guid isPermaLink="false">18573</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Poursuite du vent »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18611</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011119114695580.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18611">Détails de l'événement « Poursuite du vent »</a>]]></description>
+      <guid isPermaLink="false">18611</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

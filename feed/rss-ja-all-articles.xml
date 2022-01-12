@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:16 +0000</lastBuildDate>
-    <item>
-      <title>「デートイベント・1」任務予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9313</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210315/2021031511481485339.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9313">「デートイベント・1」任務予告</a>]]></description>
-      <guid isPermaLink="false">9313</guid>
-      <pubDate>Mon, 15 Mar 2021 12:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:34 +0000</lastBuildDate>
     <item>
       <title>海灯祭動画投稿キャンペーン結果発表</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9323</link>
@@ -725,6 +718,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010515160446064.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18495">「ポーションスタディー」イベント紹介</a>]]></description>
       <guid isPermaLink="false">18495</guid>
       <pubDate>Thu, 06 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.4「風の行方」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18600</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011115152748147.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18600">Ver.2.4「風の行方」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">18600</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0900</pubDate>
     </item>
     <item>
       <title>キャンペーン「冒険者・集結」開催！</title>
@@ -1637,13 +1637,6 @@
       <pubDate>Wed, 29 Dec 2021 22:50:00 +0900</pubDate>
     </item>
     <item>
-      <title>Ver.2.0新魔物紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/14235</link>
-      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14235">Ver.2.0新魔物紹介</a>]]></description>
-      <guid isPermaLink="false">14235</guid>
-      <pubDate>Sat, 17 Jul 2021 11:59:00 +0900</pubDate>
-    </item>
-    <item>
       <title>Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/14277</link>
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071716590877558.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14277">Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</a>]]></description>
@@ -2341,6 +2334,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010515160446064.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18495">「ポーションスタディー」イベント紹介</a>]]></description>
       <guid isPermaLink="false">18495</guid>
       <pubDate>Thu, 06 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>Ver.2.4「風の行方」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18600</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011115152748147.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18600">Ver.2.4「風の行方」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">18600</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

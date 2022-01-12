@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - events</title>
-  <updated>2022-01-12T02:04:16.280604+00:00</updated>
+  <updated>2022-01-12T03:14:32.437167+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>events feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>9313</id>
-    <title>「デートイベント・1」任務予告</title>
-    <updated>2021-03-15T12:30:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210315/2021031511481485339.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9313">「デートイベント・1」任務予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/9313" rel="alternate"/>
-    <summary/>
-    <published>2021-03-15T12:30:00+09:00</published>
-  </entry>
   <entry>
     <id>9323</id>
     <title>海灯祭動画投稿キャンペーン結果発表</title>
@@ -884,5 +875,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220105/2022010515160446064.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18495">「ポーションスタディー」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/18495" rel="alternate"/>
     <published>2022-01-06T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18600</id>
+    <title>Ver.2.4「風の行方」イベント紹介</title>
+    <updated>2022-01-12T10:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011115152748147.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18600">Ver.2.4「風の行方」イベント紹介</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18600" rel="alternate"/>
+    <summary/>
+    <published>2022-01-12T10:30:00+09:00</published>
   </entry>
 </feed>

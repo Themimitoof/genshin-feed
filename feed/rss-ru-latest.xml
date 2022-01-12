@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:20 +0000</lastBuildDate>
-    <item>
-      <title>Об обновлении 2.2 «Тайны туманного моря»</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16366</link>
-      <description>Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.</description>
-      <content:encoded><![CDATA[Скоро начнутся технические работы, связанные с обновлением игры. Это необходимо, чтобы обеспечить вам наилучший игровой опыт Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16366">Об обновлении 2.2 «Тайны туманного моря»</a>]]></content:encoded>
-      <guid isPermaLink="false">16366</guid>
-      <pubDate>Mon, 11 Oct 2021 10:30:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:46 +0000</lastBuildDate>
     <item>
       <title>Функция предзагрузки уже доступна!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16367</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717431123683.jpg"><br/><br/>Дорогие Путешественники, благодарим вас за участие в браузерном событии «Звёздный путь среди снегов»!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18575">Событие «Звёздный путь среди снегов» - Осветите Альпы с Genshin Impact (Тизер 2)</a>]]></content:encoded>
       <guid isPermaLink="false">18575</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Описание события «По следам ветра»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18602</link>
+      <description>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118112313552.jpg"><br/><br/>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18602">Описание события «По следам ветра»</a>]]></content:encoded>
+      <guid isPermaLink="false">18602</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

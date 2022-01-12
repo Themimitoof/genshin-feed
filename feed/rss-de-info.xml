@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 12 Jan 2022 02:04:10 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zum Legendenauftrag „Dracaena Somnolenta“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15986</link>
-      <description>Sobald du die erforderliche Abenteuerstufe erreicht und den jeweiligen Auftrag davor ausgeführt hast, kannst du „Legendenschlüssel“ verbrauchen, um Sangonomiya Kokomis Legendenauftrag „Dracaena Somnolenta“ zu aktivieren.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816575046616.jpg"><br/><br/>Sobald du die erforderliche Abenteuerstufe erreicht und den jeweiligen Auftrag davor ausgeführt hast, kannst du „Legendenschlüssel“ verbrauchen, um Sangonomiya Kokomis Legendenauftrag „Dracaena Somnolenta“ zu aktivieren.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15986">Erläuterungen zum Legendenauftrag „Dracaena Somnolenta“</a>]]></content:encoded>
-      <guid isPermaLink="false">15986</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 12 Jan 2022 03:14:09 +0000</lastBuildDate>
     <item>
       <title>Figurenvorführung bei Genshin Impact – Sangonomiya Kokomi: Tausend Wellen unter dem Mond</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16061</link>
@@ -858,6 +850,14 @@ hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220107/2022010717242648101.jpg"><br/><br/>Reisende, danke für eure Teilnahme an der Webaktion „Zauberhafte Reise durch Schnee und Sterne“! Bisher haben schon eine Million Spieler teilgenommen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18571">Zauberhafte Reise durch Schnee und Sterne – Aktion zur Beleuchtung der Alpen von Genshin Impact (Teaser 2)</a>]]></content:encoded>
       <guid isPermaLink="false">18571</guid>
       <pubDate>Sun, 09 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Windflucht“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18605</link>
+      <description>Um mehr Leute zum Spielen zu bringen, hat Gygax eine ganze Ladung brandneuer Karten eingebaut. Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118352961899.jpg"><br/><br/>Um mehr Leute zum Spielen zu bringen, hat Gygax eine ganze Ladung brandneuer Karten eingebaut. Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18605">Erläuterungen zur Spielweise von „Windflucht“</a>]]></content:encoded>
+      <guid isPermaLink="false">18605</guid>
+      <pubDate>Wed, 12 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
