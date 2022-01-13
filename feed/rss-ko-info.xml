@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:12:01 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16067</link>
-      <description>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092009383634435.png"><br/><br/>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16067"><원신> 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</a>]]></content:encoded>
-      <guid isPermaLink="false">16067</guid>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 10:12:14 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 1주년 커뮤니티 이벤트 혜택 예고</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16051</link>
@@ -818,6 +810,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118594958330.jpg"><br/><br/>몬드의 역사를 담고 있는 클래식 게임 「바람의 행방」이 다시 오픈했습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18609">「바람의 행방」 이벤트 안내</a>]]></content:encoded>
       <guid isPermaLink="false">18609</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18657</link>
+      <description>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011311425164582.png"><br/><br/>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18657">설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">18657</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

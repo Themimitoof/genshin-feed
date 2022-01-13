@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:11:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 10:12:00 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -326,13 +326,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Lueur de la lune éternelle (Catalyseur) et Coupeur de jade primordial (Épée à une main) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16040</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819305272613.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16040">Vœux « Incarnation divine » : taux d'obtention boosté pour Lueur de la lune éternelle (Catalyseur) et Coupeur de jade primordial (Épée à une main) !</a>]]></description>
-      <guid isPermaLink="false">16040</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Vœux « Luminescence à la dérive » : taux d'obtention boosté pour Sangonomiya Kokomi · Perle de connaissance (Hydro) !</title>
@@ -1049,11 +1042,11 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0100</pubDate>
     </item>
     <item>
-      <title>L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16286</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015172476583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16286">L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</a>]]></description>
-      <guid isPermaLink="false">16286</guid>
-      <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
+      <title>« Lumières et neige éternelle » - Cérémonie d'illumination des Alpes</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18640</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011216374380364.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18640">« Lumières et neige éternelle » - Cérémonie d'illumination des Alpes</a>]]></description>
+      <guid isPermaLink="false">18640</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Les carnets d'Inazuma : Île de Tsurumi</title>
@@ -1772,6 +1765,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011119114695580.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18611">Détails de l'événement « Poursuite du vent »</a>]]></description>
       <guid isPermaLink="false">18611</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Lumières et neige éternelle » - Cérémonie d'illumination des Alpes</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18640</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011216374380364.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18640">« Lumières et neige éternelle » - Cérémonie d'illumination des Alpes</a>]]></description>
+      <guid isPermaLink="false">18640</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

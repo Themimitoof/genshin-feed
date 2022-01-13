@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2022-01-13T09:12:03.082059+00:00</updated>
+  <updated>2022-01-13T10:12:16.600482+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16362</id>
-    <title>Oração "Encarnação Divina": Com Taxa de Drop aumentada, "Estrela Invernal (Arco)" e "Memória da Poeira (Catalisador)"!</title>
-    <updated>2021-10-11T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101021475221301.jpg"><br/><br/>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16362">Oração "Encarnação Divina": Com Taxa de Drop aumentada, "Estrela Invernal (Arco)" e "Memória da Poeira (Catalisador)"!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16362" rel="alternate"/>
-    <summary>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!</summary>
-    <published>2021-10-11T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>16355</id>
     <title>Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.2 - Fase I</title>
@@ -920,5 +911,16 @@ Os e-mails ficarão disponíveis até o final do evento.</summary>
     <link href="https://genshin.mihoyo.com/pt/news/detail/18606" rel="alternate"/>
     <summary>Para atrair mais jogadores para o "Labirinto de Vento", Gygax adicionou vários mapas totalmente novos ao seu jogo. Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!</summary>
     <published>2022-01-12T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18634</id>
+    <title>Uma Jornada Entre a Neve e as Estrelas - Cerimônia de Iluminação do Ponto de Teleporte nos Alpes</title>
+    <updated>2022-01-13T18:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215241415216.png"><br/><br/>Caros Viajantes,
+Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente chegou. Prossiga para as seguintes plataformas para assistir à cerimônia! Obrigado pelo seu apoio e companhia!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18634">Uma Jornada Entre a Neve e as Estrelas - Cerimônia de Iluminação do Ponto de Teleporte nos Alpes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18634" rel="alternate"/>
+    <summary>Caros Viajantes,
+Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente chegou. Prossiga para as seguintes plataformas para assistir à cerimônia! Obrigado pelo seu apoio e companhia!</summary>
+    <published>2022-01-13T18:00:00+00:00</published>
   </entry>
 </feed>

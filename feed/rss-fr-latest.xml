@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:11:43 +0000</lastBuildDate>
-    <item>
-      <title>L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16286</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015172476583.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16286">L'aperçu de nouvelle version 2.2 « Dans les méandres de la brume » est disponible !</a>]]></description>
-      <guid isPermaLink="false">16286</guid>
-      <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 10:11:57 +0000</lastBuildDate>
     <item>
       <title>Les carnets d'Inazuma : Île de Tsurumi</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16282</link>
@@ -733,6 +726,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011119114695580.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18611">Détails de l'événement « Poursuite du vent »</a>]]></description>
       <guid isPermaLink="false">18611</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Lumières et neige éternelle » - Cérémonie d'illumination des Alpes</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18640</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011216374380364.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18640">« Lumières et neige éternelle » - Cérémonie d'illumination des Alpes</a>]]></description>
+      <guid isPermaLink="false">18640</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

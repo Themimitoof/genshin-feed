@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:12:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 10:12:22 +0000</lastBuildDate>
     <item>
       <title>Открытие официального форума Genshin Impact – Выиграй шанс поучаствовать с бета-тесте!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/2162</link>
@@ -361,14 +361,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121817025631829.png"><br/><br/>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/7467">Страница предварительной демонстрации версии 1.2 «Принц мела и дракон» уже открыта!</a>]]></content:encoded>
       <guid isPermaLink="false">7467</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16065</link>
-      <description>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091918172919179.png"><br/><br/>Обстоятельства благоволят редко, но гармония и единодушие куда ценнее.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16065">«Высокие волны под луной» Сангономия Кокоми (Гидро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16065</guid>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 +0300</pubDate>
     </item>
     <item>
       <title>Годовщина Genshin Impact - Обзор наград событий сообщества</title>
@@ -1180,14 +1172,12 @@
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Функция предзагрузки уже доступна!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16367</link>
-      <description>Дорогие Путешественники!
-Функция предзагрузки уже доступна на ПК и мобильных платформах.</description>
-      <content:encoded><![CDATA[Дорогие Путешественники!
-Функция предзагрузки уже доступна на ПК и мобильных платформах.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16367">Функция предзагрузки уже доступна!</a>]]></content:encoded>
-      <guid isPermaLink="false">16367</guid>
-      <pubDate>Mon, 11 Oct 2021 11:00:00 +0300</pubDate>
+      <title>«Звёздный путь среди снегов» - Церемония воссияния в Альпах</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18653</link>
+      <description>После долгого ожидания вы наконец-то сможете увидеть Церемонию воссияния!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011310240983636.png"><br/><br/>После долгого ожидания вы наконец-то сможете увидеть Церемонию воссияния!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18653">«Звёздный путь среди снегов» - Церемония воссияния в Альпах</a>]]></content:encoded>
+      <guid isPermaLink="false">18653</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0300</pubDate>
     </item>
     <item>
       <title>Задания легенд «Встречи: Cерия III»</title>
@@ -1997,6 +1987,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118112313552.jpg"><br/><br/>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18602">Описание события «По следам ветра»</a>]]></content:encoded>
       <guid isPermaLink="false">18602</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«Звёздный путь среди снегов» - Церемония воссияния в Альпах</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18653</link>
+      <description>После долгого ожидания вы наконец-то сможете увидеть Церемонию воссияния!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011310240983636.png"><br/><br/>После долгого ожидания вы наконец-то сможете увидеть Церемонию воссияния!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18653">«Звёздный путь среди снегов» - Церемония воссияния в Альпах</a>]]></content:encoded>
+      <guid isPermaLink="false">18653</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

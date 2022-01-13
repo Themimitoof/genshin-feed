@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:11:48 +0000</lastBuildDate>
-    <item>
-      <title>Vorschauvideo zu Version 2.2 von Genshin Impact: „Hinein ins Labyrinth des Nebels“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16329</link>
-      <description>Die Prüfungen der Krieger sind in der Sphäre verborgen, während die traurige Vergangenheit im Dunst begraben liegt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100310184196517.jpg"><br/><br/>Die Prüfungen der Krieger sind in der Sphäre verborgen, während die traurige Vergangenheit im Dunst begraben liegt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16329">Vorschauvideo zu Version 2.2 von Genshin Impact: „Hinein ins Labyrinth des Nebels“</a>]]></content:encoded>
-      <guid isPermaLink="false">16329</guid>
-      <pubDate>Sun, 03 Oct 2021 22:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 10:12:03 +0000</lastBuildDate>
     <item>
       <title>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16288</link>
@@ -866,6 +858,16 @@ hier findest du Details zur Aktualisierung auf Version 2.4 „Flüchtige Farben 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118352961899.jpg"><br/><br/>Um mehr Leute zum Spielen zu bringen, hat Gygax eine ganze Ladung brandneuer Karten eingebaut. Das klassische Spiel „Windflucht“, das die Geschichte von Mondstadt in sich trägt, ist wieder verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18605">Erläuterungen zur Spielweise von „Windflucht“</a>]]></content:encoded>
       <guid isPermaLink="false">18605</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Zauberhafte Reise durch Schnee und Sterne – Beleuchtungszeremonie auf den Alpen</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18642</link>
+      <description>Liebe Reisende,
+nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich beginnen!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011216442484964.png"><br/><br/>Liebe Reisende,
+nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich beginnen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18642">Zauberhafte Reise durch Schnee und Sterne – Beleuchtungszeremonie auf den Alpen</a>]]></content:encoded>
+      <guid isPermaLink="false">18642</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

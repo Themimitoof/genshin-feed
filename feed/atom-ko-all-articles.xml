@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2022-01-13T09:12:03.022184+00:00</updated>
+  <updated>2022-01-13T10:12:16.556048+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -439,15 +439,6 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/7546" rel="alternate"/>
     <summary>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!</summary>
     <published>2020-12-20T12:00:00+09:00</published>
-  </entry>
-  <entry>
-    <id>16067</id>
-    <title>&lt;원신&gt; 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</title>
-    <updated>2021-09-20T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092009383634435.png"><br/><br/>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16067"><원신> 캐릭터 플레이 - 「산고노미야 코코미: 달에 닿은 물결」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16067" rel="alternate"/>
-    <summary>천시와 지리적 이점은 쉽게 얻을 수 없고 사람들의 일치단결은 더욱 소중한 법...</summary>
-    <published>2021-09-20T12:00:00+09:00</published>
   </entry>
   <entry>
     <id>16051</id>
@@ -1354,13 +1345,13 @@
     <published>2022-01-12T10:30:00+09:00</published>
   </entry>
   <entry>
-    <id>16372</id>
-    <title>사전 다운로드 기능 오픈</title>
-    <updated>2021-10-11T11:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110123669834.jpg"><br/><br/>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16372">사전 다운로드 기능 오픈</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16372" rel="alternate"/>
-    <summary>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다</summary>
-    <published>2021-10-11T11:00:00+09:00</published>
+    <id>18657</id>
+    <title>설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</title>
+    <updated>2022-01-13T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011311425164582.png"><br/><br/>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18657">설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18657" rel="alternate"/>
+    <summary>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다</summary>
+    <published>2022-01-13T18:00:00+09:00</published>
   </entry>
   <entry>
     <id>16403</id>
@@ -2261,5 +2252,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18609" rel="alternate"/>
     <summary>몬드의 역사를 담고 있는 클래식 게임 「바람의 행방」이 다시 오픈했습니다!</summary>
     <published>2022-01-12T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18657</id>
+    <title>설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</title>
+    <updated>2022-01-13T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011311425164582.png"><br/><br/>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18657">설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18657" rel="alternate"/>
+    <summary>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다</summary>
+    <published>2022-01-13T18:00:00+09:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-13T09:11:54.078073+00:00</updated>
+  <updated>2022-01-13T10:12:08.348086+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -629,6 +629,15 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2022-01-12T10:30:00+01:00</published>
   </entry>
   <entry>
+    <id>18623</id>
+    <title>Un camino de copos y estrellas - Gran ceremonia de iluminación en los Alpes</title>
+    <updated>2022-01-13T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215073849929.png"><br/><br/>Queridos viajeros: Después de la larga espera, ¡por fin es la hora de la ceremonia de iluminación en los Alpes! Pueden acceder a las siguientes plataformas para disfrutar a la ceremonia. ¡Les agradecemos todo su apoyo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18623">Un camino de copos y estrellas - Gran ceremonia de iluminación en los Alpes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18623" rel="alternate"/>
+    <summary>Queridos viajeros: Después de la larga espera, ¡por fin es la hora de la ceremonia de iluminación en los Alpes! Pueden acceder a las siguientes plataformas para disfrutar a la ceremonia. ¡Les agradecemos todo su apoyo!</summary>
+    <published>2022-01-13T18:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -937,5 +946,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18604" rel="alternate"/>
     <summary>Gygax ha añadido nuevos mapas para atraer a más jugadores a participar en el evento. Ya está disponible «Cazadores y rebeldes», ¡un juego clásico que se ha jugado en Mondstadt durante generaciones!</summary>
     <published>2022-01-12T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18623</id>
+    <title>Un camino de copos y estrellas - Gran ceremonia de iluminación en los Alpes</title>
+    <updated>2022-01-13T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215073849929.png"><br/><br/>Queridos viajeros: Después de la larga espera, ¡por fin es la hora de la ceremonia de iluminación en los Alpes! Pueden acceder a las siguientes plataformas para disfrutar a la ceremonia. ¡Les agradecemos todo su apoyo!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18623">Un camino de copos y estrellas - Gran ceremonia de iluminación en los Alpes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18623" rel="alternate"/>
+    <summary>Queridos viajeros: Después de la larga espera, ¡por fin es la hora de la ceremonia de iluminación en los Alpes! Pueden acceder a las siguientes plataformas para disfrutar a la ceremonia. ¡Les agradecemos todo su apoyo!</summary>
+    <published>2022-01-13T18:00:00+01:00</published>
   </entry>
 </feed>

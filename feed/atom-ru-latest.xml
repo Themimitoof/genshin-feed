@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2022-01-13T09:12:06.052792+00:00</updated>
+  <updated>2022-01-13T10:12:19.379052+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>16367</id>
-    <title>Функция предзагрузки уже доступна!</title>
-    <updated>2021-10-11T11:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[Дорогие Путешественники!
-Функция предзагрузки уже доступна на ПК и мобильных платформах.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16367">Функция предзагрузки уже доступна!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16367" rel="alternate"/>
-    <summary>Дорогие Путешественники!
-Функция предзагрузки уже доступна на ПК и мобильных платформах.</summary>
-    <published>2021-10-11T11:00:00+03:00</published>
-  </entry>
   <entry>
     <id>16401</id>
     <title>Задания легенд «Встречи: Cерия III»</title>
@@ -927,5 +916,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18602" rel="alternate"/>
     <summary>Гайгэкс добавил новые карты, чтобы привлечь больше участников. Классическая игра «По следам ветра», повествующая об истории Мондштадта, проходит вновь!</summary>
     <published>2022-01-12T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18653</id>
+    <title>«Звёздный путь среди снегов» - Церемония воссияния в Альпах</title>
+    <updated>2022-01-13T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011310240983636.png"><br/><br/>После долгого ожидания вы наконец-то сможете увидеть Церемонию воссияния!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18653">«Звёздный путь среди снегов» - Церемония воссияния в Альпах</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18653" rel="alternate"/>
+    <summary>После долгого ожидания вы наконец-то сможете увидеть Церемонию воссияния!</summary>
+    <published>2022-01-13T18:00:00+03:00</published>
   </entry>
 </feed>

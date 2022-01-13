@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:12:04 +0000</lastBuildDate>
-    <item>
-      <title>Demo da Nova Personagem de Genshin Impact - "Sangonomiya Kokomi: Infinitas Ondas ao Toque da Lua"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16047</link>
-      <description>Não é fácil de encontrar o tempo e local correto, mas a compreensão entre as pessoas é algo mais precioso. Unindo a força de todos os seres, até os peixes do mar profundo podem apreciar o brilho das estrelas do céu.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091911562536364.png"><br/><br/>Não é fácil de encontrar o tempo e local correto, mas a compreensão entre as pessoas é algo mais precioso. Unindo a força de todos os seres, até os peixes do mar profundo podem apreciar o brilho das estrelas do céu.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16047">Demo da Nova Personagem de Genshin Impact - "Sangonomiya Kokomi: Infinitas Ondas ao Toque da Lua"</a>]]></content:encoded>
-      <guid isPermaLink="false">16047</guid>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 10:12:17 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact: Prévia das recompensas dos eventos de aniversário da comunidade</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/15982</link>
@@ -812,6 +804,16 @@ Os e-mails ficarão disponíveis até o final do evento.<br><br>Read more on <a 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118444446512.jpg"><br/><br/>Para atrair mais jogadores para o "Labirinto de Vento", Gygax adicionou vários mapas totalmente novos ao seu jogo. Um jogo clássico que carrega a história longa de Mondstadt está sendo realizado mais uma vez!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18606">Descrição do Modo de Jogo do "Labirinto de Vento"</a>]]></content:encoded>
       <guid isPermaLink="false">18606</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Uma Jornada Entre a Neve e as Estrelas - Cerimônia de Iluminação do Ponto de Teleporte nos Alpes</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18634</link>
+      <description>Caros Viajantes,
+Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente chegou. Prossiga para as seguintes plataformas para assistir à cerimônia! Obrigado pelo seu apoio e companhia!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215241415216.png"><br/><br/>Caros Viajantes,
+Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente chegou. Prossiga para as seguintes plataformas para assistir à cerimônia! Obrigado pelo seu apoio e companhia!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18634">Uma Jornada Entre a Neve e as Estrelas - Cerimônia de Iluminação do Ponto de Teleporte nos Alpes</a>]]></content:encoded>
+      <guid isPermaLink="false">18634</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

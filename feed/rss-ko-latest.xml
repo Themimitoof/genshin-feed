@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:12:00 +0000</lastBuildDate>
-    <item>
-      <title>사전 다운로드 기능 오픈</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16372</link>
-      <description>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110123669834.jpg"><br/><br/>사전 다운로드 기능이 PC 및 모바일에서 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16372">사전 다운로드 기능 오픈</a>]]></content:encoded>
-      <guid isPermaLink="false">16372</guid>
-      <pubDate>Mon, 11 Oct 2021 11:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 10:12:13 +0000</lastBuildDate>
     <item>
       <title>「초대 이벤트·제3집」 전설 임무 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16403</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118594958330.jpg"><br/><br/>몬드의 역사를 담고 있는 클래식 게임 「바람의 행방」이 다시 오픈했습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18609">「바람의 행방」 이벤트 안내</a>]]></content:encoded>
       <guid isPermaLink="false">18609</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18657</link>
+      <description>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011311425164582.png"><br/><br/>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18657">설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">18657</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Thu, 13 Jan 2022 09:12:09 +0000</lastBuildDate>
-    <item>
-      <title>บันทึก Inazuma - ฉบับเกาะ Tsurumi</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/16283</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015104570126.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16283">บันทึก Inazuma - ฉบับเกาะ Tsurumi</a>]]></description>
-      <guid isPermaLink="false">16283</guid>
-      <pubDate>Wed, 06 Oct 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jan 2022 10:12:22 +0000</lastBuildDate>
     <item>
       <title>แจ้งการอัปเดตเวอร์ชัน 2.2 "วังวนม่านหมอกมายา"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/16373</link>
@@ -713,6 +706,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011118525743177.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18608">คำอธิบายเกมเพลย์ "เส้นทางแห่งสายลม"</a>]]></description>
       <guid isPermaLink="false">18608</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>การเดินทางของหิมะ และดวงดาว - พิธีจุดประกายแสงบนเทือกเขาแอลป์</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18632</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215155887738.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18632">การเดินทางของหิมะ และดวงดาว - พิธีจุดประกายแสงบนเทือกเขาแอลป์</a>]]></description>
+      <guid isPermaLink="false">18632</guid>
+      <pubDate>Thu, 13 Jan 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
