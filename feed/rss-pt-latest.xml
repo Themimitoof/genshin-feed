@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 14 Jan 2022 03:14:10 +0000</lastBuildDate>
-    <item>
-      <title>Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.2 - Fase I</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16355</link>
-      <description>Olá Viajantes~ A versão 2.2 está chegando! Pressione nas imagens para conhecer as novidades da nova versão.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211009/2021100919595242454.jpg"><br/><br/>Olá Viajantes~ A versão 2.2 está chegando! Pressione nas imagens para conhecer as novidades da nova versão.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16355">Paimon está convidando você a dar uma olhada nos Novos Eventos da Versão 2.2 - Fase I</a>]]></content:encoded>
-      <guid isPermaLink="false">16355</guid>
-      <pubDate>Mon, 11 Oct 2021 12:10:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jan 2022 04:15:29 +0000</lastBuildDate>
     <item>
       <title>Descrição da Atualização da Versão 2.2 "Mistério do Mar de Névoa"</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16492</link>
@@ -820,6 +812,14 @@ Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente c
 Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente chegou. Prossiga para as seguintes plataformas para assistir à cerimônia! Obrigado pelo seu apoio e companhia!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18634">Uma Jornada Entre a Neve e as Estrelas - Cerimônia de Iluminação do Ponto de Teleporte nos Alpes</a>]]></content:encoded>
       <guid isPermaLink="false">18634</guid>
       <pubDate>Thu, 13 Jan 2022 18:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Um Mundo da Ópera: Nos Bastidores da Criação da Yunjin | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18701</link>
+      <description>Confira a criação da Yunjin junto com a equipe de Genshin Impact!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410161927773.jpg"><br/><br/>Confira a criação da Yunjin junto com a equipe de Genshin Impact!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18701">Um Mundo da Ópera: Nos Bastidores da Criação da Yunjin | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18701</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

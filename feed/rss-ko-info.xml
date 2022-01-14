@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 14 Jan 2022 03:14:06 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 1주년 커뮤니티 이벤트 혜택 예고</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16051</link>
-      <description>어느덧 1년이라는 시간이 훌쩍 지나 &lt;원신&gt;이 1주년을 맞이하게 됐어! 오늘 뚜벅이가 여행자에게 1주년 커뮤니티 이벤트 보상을 알려줄게~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912425578413.jpg"><br/><br/>어느덧 1년이라는 시간이 훌쩍 지나 <원신>이 1주년을 맞이하게 됐어! 오늘 뚜벅이가 여행자에게 1주년 커뮤니티 이벤트 보상을 알려줄게~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16051"><원신> 1주년 커뮤니티 이벤트 혜택 예고</a>]]></content:encoded>
-      <guid isPermaLink="false">16051</guid>
-      <pubDate>Mon, 20 Sep 2021 18:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jan 2022 04:15:25 +0000</lastBuildDate>
     <item>
       <title>「안갯속의 결투」——〈원신〉 이나즈마 OST 전투 음악 MV</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16069</link>
@@ -818,6 +810,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011311425164582.png"><br/><br/>오랜 기다림 끝에 알프스산 점등식이 드디어 여러분께 공개될 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18657">설봉의 절경, 반짝이는 별의 여정 - 알프스산 점등식 안내</a>]]></content:encoded>
       <guid isPermaLink="false">18657</guid>
       <pubDate>Thu, 13 Jan 2022 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>극 중의 세상 - &lt;원신&gt; 운근 제작 비하인드</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18698</link>
+      <description>원신 개발팀과 함께 운근의 창작 과정을 확인하세요!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410080566577.jpg"><br/><br/>원신 개발팀과 함께 운근의 창작 과정을 확인하세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18698">극 중의 세상 - <원신> 운근 제작 비하인드</a>]]></content:encoded>
+      <guid isPermaLink="false">18698</guid>
+      <pubDate>Fri, 14 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

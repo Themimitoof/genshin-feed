@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jan 2022 03:13:33 +0000</lastBuildDate>
-    <item>
-      <title>Paimon's Sneak Peek at Version 2.2 New Events - Phase I</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16356</link>
-      <description>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101000213992615.jpg"><br/><br/>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16356">Paimon's Sneak Peek at Version 2.2 New Events - Phase I</a>]]></content:encoded>
-      <guid isPermaLink="false">16356</guid>
-      <pubDate>Mon, 11 Oct 2021 12:10:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jan 2022 04:14:30 +0000</lastBuildDate>
     <item>
       <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16488</link>
@@ -879,6 +871,14 @@ The opera sings about the feats of a heroine, with new lines added to the story,
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215001963805.png"><br/><br/>After a long period of anticipation, The Alps Waypoint Lighting Ceremony is finally here. Please head to the following platforms to watch the ceremony! Thank you for your support and company.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18621">Enchanting Journey of Snow and Stars: The Alps Waypoint Lighting Ceremony</a>]]></content:encoded>
       <guid isPermaLink="false">18621</guid>
       <pubDate>Thu, 13 Jan 2022 18:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The World of Opera: A Behind the Scenes Look at the Creation of Yun Jin | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18694</link>
+      <description>"How gently do the clouds and flowers sway, as dancing winds meander through the vales." As the current Director of the Yun-Han Opera Troupe, Yun Jin has not only inherited the mantle from her ancestors, but also added her own insight on hopes and dreams of ordinary people through her thousands of performances. Let's take a look at how the Genshin Impact team brought Yun Jin to life!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011409552544807.jpg"><br/><br/>"How gently do the clouds and flowers sway, as dancing winds meander through the vales." As the current Director of the Yun-Han Opera Troupe, Yun Jin has not only inherited the mantle from her ancestors, but also added her own insight on hopes and dreams of ordinary people through her thousands of performances. Let's take a look at how the Genshin Impact team brought Yun Jin to life!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18694">The World of Opera: A Behind the Scenes Look at the Creation of Yun Jin | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18694</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

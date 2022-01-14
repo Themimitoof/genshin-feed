@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2022-01-14T03:14:14.481884+00:00</updated>
+  <updated>2022-01-14T04:15:36.479602+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>16401</id>
-    <title>Задания легенд «Встречи: Cерия III»</title>
-    <updated>2021-10-11T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[После достижения необходимого Ранга приключений и завершения соответствующих заданий Путешественники могут использовать Ключ легенд, чтобы разблокировать встречи с Саю и Томой.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16401">Задания легенд «Встречи: Cерия III»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16401" rel="alternate"/>
-    <summary>После достижения необходимого Ранга приключений и завершения соответствующих заданий Путешественники могут использовать Ключ легенд, чтобы разблокировать встречи с Саю и Томой.</summary>
-    <published>2021-10-11T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>16406</id>
     <title>Молитва «Зимнее расставание» - Повышен шанс получить персонажа «Чайльд» Тарталья (Гидро) и других!</title>
@@ -925,5 +916,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18653" rel="alternate"/>
     <summary>После долгого ожидания вы наконец-то сможете увидеть Церемонию воссияния!</summary>
     <published>2022-01-13T18:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18696</id>
+    <title>«Мир оперы» - О работе над Юнь Цзинь | Genshin Impact</title>
+    <updated>2022-01-14T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410031574744.jpg"><br/><br/>«Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18696">«Мир оперы» - О работе над Юнь Цзинь | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18696" rel="alternate"/>
+    <summary>«Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам».</summary>
+    <published>2022-01-14T12:00:00+03:00</published>
   </entry>
 </feed>

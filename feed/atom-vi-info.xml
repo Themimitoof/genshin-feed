@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2022-01-14T03:14:24.184567+00:00</updated>
+  <updated>2022-01-14T04:15:50.736252+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>15999</id>
-    <title>Hướng Dẫn Nhiệm Vụ Truyền Thuyết "Chương Rồng Ngủ"</title>
-    <updated>2021-09-19T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817190996981.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15999">Hướng Dẫn Nhiệm Vụ Truyền Thuyết "Chương Rồng Ngủ"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15999" rel="alternate"/>
-    <published>2021-09-19T12:00:00+07:00</published>
-  </entry>
   <entry>
     <id>16055</id>
     <title>Giới thiệu nhân vật trong Genshin Impact - Sangonomiya Kokomi: Ngàn Sóng Dưới Trăng</title>
@@ -833,5 +825,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215421192601.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18637">Thắng Cảnh Núi Tuyết, Hành Trình Ánh Sao: Nghi thức thắp sáng điểm dịch chuyển trên núi Alps</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18637" rel="alternate"/>
     <published>2022-01-13T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18708</id>
+    <title>Genshin Impact - Thế Giới Trong Vở Kịch: Hậu trường chế tác Yun Jin</title>
+    <updated>2022-01-14T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410391037022.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18708">Genshin Impact - Thế Giới Trong Vở Kịch: Hậu trường chế tác Yun Jin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18708" rel="alternate"/>
+    <published>2022-01-14T12:00:00+07:00</published>
   </entry>
 </feed>

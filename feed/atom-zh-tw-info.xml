@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2022-01-14T03:13:44.043491+00:00</updated>
+  <updated>2022-01-14T04:14:43.817271+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15979</id>
-    <title>《原神》一週年社群活動福利預告</title>
-    <updated>2021-09-20T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816463063151.jpg"><br/><br/>時光匆匆而去，一年時間悄悄而過，《原神》也即將迎來一週年！今天徒步團為大家帶來了一週年社群活動福利的預告~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15979">《原神》一週年社群活動福利預告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15979" rel="alternate"/>
-    <summary>時光匆匆而去，一年時間悄悄而過，《原神》也即將迎來一週年！今天徒步團為大家帶來了一週年社群活動福利的預告~</summary>
-    <published>2021-09-20T18:00:00+08:00</published>
-  </entry>
   <entry>
     <id>16043</id>
     <title>稻妻原聲帶戰鬥音樂MV——「斬霧破竹」｜原神</title>
@@ -915,5 +906,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18626" rel="alternate"/>
     <summary>經過漫長的期待，阿爾卑斯山點亮儀式終於將與大家見面了，請大家前往下述平臺觀禮！感謝旅行者的支持與陪伴。</summary>
     <published>2022-01-13T18:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18690</id>
+    <title>戲中人間——雲堇創作的幕後｜原神</title>
+    <updated>2022-01-14T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011322350049997.jpg"><br/><br/>「雲嬋娟來花嬋娟，風流盡在山水間。」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18690">戲中人間——雲堇創作的幕後｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18690" rel="alternate"/>
+    <summary>「雲嬋娟來花嬋娟，風流盡在山水間。」</summary>
+    <published>2022-01-14T12:00:00+08:00</published>
   </entry>
 </feed>

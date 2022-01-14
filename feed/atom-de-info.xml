@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2022-01-14T03:13:48.424788+00:00</updated>
+  <updated>2022-01-14T04:14:49.712934+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>15994</id>
-    <title>Vorschau auf die Community-Belohnungsaktionen zum 1. Jahrestag von Genshin Impact</title>
-    <updated>2021-09-20T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817100696330.jpg"><br/><br/>Hallo Reisende! Dies ist der Wanderverein Teyvat (｡･ω･)ﾉﾞ<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15994">Vorschau auf die Community-Belohnungsaktionen zum 1. Jahrestag von Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/15994" rel="alternate"/>
-    <summary>Hallo Reisende! Dies ist der Wanderverein Teyvat (｡･ω･)ﾉﾞ</summary>
-    <published>2021-09-20T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16032</id>
     <title>„Duel in the Mist“ – Musikvideo zur Kampfmusik von Inazuma von Genshin Impact</title>
@@ -959,5 +950,14 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
     <summary>Liebe Reisende,
 nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich beginnen!</summary>
     <published>2022-01-13T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18702</id>
+    <title>Die Welt der Oper – Ein Blick hinter die Kulissen der Erschaffung von Yun Jin von Genshin Impact</title>
+    <updated>2022-01-14T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410164215769.jpg"><br/><br/>„Wie sanft wiegen sich die Wolken und Blumen, während sich tanzende Winde durch die Täler schlängeln.“ <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18702">Die Welt der Oper – Ein Blick hinter die Kulissen der Erschaffung von Yun Jin von Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18702" rel="alternate"/>
+    <summary>„Wie sanft wiegen sich die Wolken und Blumen, während sich tanzende Winde durch die Täler schlängeln.“ </summary>
+    <published>2022-01-14T12:00:00+01:00</published>
   </entry>
 </feed>

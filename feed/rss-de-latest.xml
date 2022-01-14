@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 14 Jan 2022 03:13:47 +0000</lastBuildDate>
-    <item>
-      <title>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16288</link>
-      <description>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016162642438.jpg"><br/><br/>Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16288">Vorstellungsseite zu Version 2.2 „Hinein ins Labyrinth des Nebels“ jetzt verfügbar!</a>]]></content:encoded>
-      <guid isPermaLink="false">16288</guid>
-      <pubDate>Mon, 04 Oct 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jan 2022 04:14:48 +0000</lastBuildDate>
     <item>
       <title>Notizen über Inazuma – Tsurumi</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16281</link>
@@ -868,6 +860,14 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
 nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich beginnen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18642">Zauberhafte Reise durch Schnee und Sterne – Beleuchtungszeremonie auf den Alpen</a>]]></content:encoded>
       <guid isPermaLink="false">18642</guid>
       <pubDate>Thu, 13 Jan 2022 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Welt der Oper – Ein Blick hinter die Kulissen der Erschaffung von Yun Jin von Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18702</link>
+      <description>„Wie sanft wiegen sich die Wolken und Blumen, während sich tanzende Winde durch die Täler schlängeln.“ </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410164215769.jpg"><br/><br/>„Wie sanft wiegen sich die Wolken und Blumen, während sich tanzende Winde durch die Täler schlängeln.“ <br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18702">Die Welt der Oper – Ein Blick hinter die Kulissen der Erschaffung von Yun Jin von Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18702</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

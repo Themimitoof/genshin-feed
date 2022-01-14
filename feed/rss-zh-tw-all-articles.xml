@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 14 Jan 2022 03:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 04:14:48 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -292,14 +292,6 @@
       <content:encoded><![CDATA[新版本要來啦！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/8428">「明霄昇海平」1.3版本更新通知</a>]]></content:encoded>
       <guid isPermaLink="false">8428</guid>
       <pubDate>Mon, 01 Feb 2021 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>《原神》一週年社群活動福利預告</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/15979</link>
-      <description>時光匆匆而去，一年時間悄悄而過，《原神》也即將迎來一週年！今天徒步團為大家帶來了一週年社群活動福利的預告~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816463063151.jpg"><br/><br/>時光匆匆而去，一年時間悄悄而過，《原神》也即將迎來一週年！今天徒步團為大家帶來了一週年社群活動福利的預告~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15979">《原神》一週年社群活動福利預告</a>]]></content:encoded>
-      <guid isPermaLink="false">15979</guid>
-      <pubDate>Mon, 20 Sep 2021 18:00:00 +0800</pubDate>
     </item>
     <item>
       <title>稻妻原聲帶戰鬥音樂MV——「斬霧破竹」｜原神</title>
@@ -1100,12 +1092,12 @@
       <pubDate>Thu, 13 Jan 2022 18:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>2.2新版本「霧海懸謎境」先行展示頁面現已上線！</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16293</link>
-      <description>2.2新版本「霧海懸謎境」先行展示頁面現已上線！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016500265183.jpg"><br/><br/>2.2新版本「霧海懸謎境」先行展示頁面現已上線！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16293">2.2新版本「霧海懸謎境」先行展示頁面現已上線！</a>]]></content:encoded>
-      <guid isPermaLink="false">16293</guid>
-      <pubDate>Mon, 04 Oct 2021 12:00:00 +0800</pubDate>
+      <title>戲中人間——雲堇創作的幕後｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18690</link>
+      <description>「雲嬋娟來花嬋娟，風流盡在山水間。」</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011322350049997.jpg"><br/><br/>「雲嬋娟來花嬋娟，風流盡在山水間。」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18690">戲中人間——雲堇創作的幕後｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">18690</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 +0800</pubDate>
     </item>
     <item>
       <title>稻妻手帳——鶴觀篇</title>
@@ -1903,6 +1895,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215091258679.png"><br/><br/>經過漫長的期待，阿爾卑斯山點亮儀式終於將與大家見面了，請大家前往下述平臺觀禮！感謝旅行者的支持與陪伴。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18626">雪峰勝景 星耀奇旅—阿爾卑斯山點亮儀式</a>]]></content:encoded>
       <guid isPermaLink="false">18626</guid>
       <pubDate>Thu, 13 Jan 2022 18:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>戲中人間——雲堇創作的幕後｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18690</link>
+      <description>「雲嬋娟來花嬋娟，風流盡在山水間。」</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011322350049997.jpg"><br/><br/>「雲嬋娟來花嬋娟，風流盡在山水間。」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18690">戲中人間——雲堇創作的幕後｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">18690</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

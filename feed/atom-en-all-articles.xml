@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2022-01-14T03:13:38.521249+00:00</updated>
+  <updated>2022-01-14T04:14:36.442760+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -430,15 +430,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>16141</id>
-    <title>"Travelers' Musings" — Behind the Scenes of the Music of Inazuma | Genshin Impact</title>
-    <updated>2021-09-24T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415533117556.png"><br/><br/>This video tells the story of the Inazuma OST's creative philosophy, and documents the one and a half month of remote collaboration across cultures and languages between the Chinese and Japanese teams.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16141">"Travelers' Musings" — Behind the Scenes of the Music of Inazuma | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16141" rel="alternate"/>
-    <summary>This video tells the story of the Inazuma OST's creative philosophy, and documents the one and a half month of remote collaboration across cultures and languages between the Chinese and Japanese teams.</summary>
-    <published>2021-09-24T18:00:00-04:00</published>
   </entry>
   <entry>
     <id>16129</id>
@@ -1413,13 +1404,13 @@ The opera sings about the feats of a heroine, with new lines added to the story,
     <published>2022-01-13T18:00:00-05:00</published>
   </entry>
   <entry>
-    <id>16356</id>
-    <title>Paimon's Sneak Peek at Version 2.2 New Events - Phase I</title>
-    <updated>2021-10-11T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101000213992615.jpg"><br/><br/>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16356">Paimon's Sneak Peek at Version 2.2 New Events - Phase I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16356" rel="alternate"/>
-    <summary>Hello, Travelers~ Version 2.2 is just around the corner. Click the picture below for a quick overview~</summary>
-    <published>2021-10-11T12:10:00-04:00</published>
+    <id>18694</id>
+    <title>The World of Opera: A Behind the Scenes Look at the Creation of Yun Jin | Genshin Impact</title>
+    <updated>2022-01-14T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011409552544807.jpg"><br/><br/>"How gently do the clouds and flowers sway, as dancing winds meander through the vales." As the current Director of the Yun-Han Opera Troupe, Yun Jin has not only inherited the mantle from her ancestors, but also added her own insight on hopes and dreams of ordinary people through her thousands of performances. Let's take a look at how the Genshin Impact team brought Yun Jin to life!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18694">The World of Opera: A Behind the Scenes Look at the Creation of Yun Jin | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18694" rel="alternate"/>
+    <summary>"How gently do the clouds and flowers sway, as dancing winds meander through the vales." As the current Director of the Yun-Han Opera Troupe, Yun Jin has not only inherited the mantle from her ancestors, but also added her own insight on hopes and dreams of ordinary people through her thousands of performances. Let's take a look at how the Genshin Impact team brought Yun Jin to life!</summary>
+    <published>2022-01-14T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>16488</id>
@@ -2384,5 +2375,14 @@ The opera sings about the feats of a heroine, with new lines added to the story,
     <link href="https://genshin.mihoyo.com/en/news/detail/18621" rel="alternate"/>
     <summary>After a long period of anticipation, The Alps Waypoint Lighting Ceremony is finally here. Please head to the following platforms to watch the ceremony! Thank you for your support and company.</summary>
     <published>2022-01-13T18:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18694</id>
+    <title>The World of Opera: A Behind the Scenes Look at the Creation of Yun Jin | Genshin Impact</title>
+    <updated>2022-01-14T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011409552544807.jpg"><br/><br/>"How gently do the clouds and flowers sway, as dancing winds meander through the vales." As the current Director of the Yun-Han Opera Troupe, Yun Jin has not only inherited the mantle from her ancestors, but also added her own insight on hopes and dreams of ordinary people through her thousands of performances. Let's take a look at how the Genshin Impact team brought Yun Jin to life!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18694">The World of Opera: A Behind the Scenes Look at the Creation of Yun Jin | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18694" rel="alternate"/>
+    <summary>"How gently do the clouds and flowers sway, as dancing winds meander through the vales." As the current Director of the Yun-Han Opera Troupe, Yun Jin has not only inherited the mantle from her ancestors, but also added her own insight on hopes and dreams of ordinary people through her thousands of performances. Let's take a look at how the Genshin Impact team brought Yun Jin to life!</summary>
+    <published>2022-01-14T12:00:00-05:00</published>
   </entry>
 </feed>

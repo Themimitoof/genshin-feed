@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Fri, 14 Jan 2022 03:14:20 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเควสต์ระดับตำนาน "บทแห่งมังกรนิทรา"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/15998</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091817163598456.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15998">คำอธิบายเควสต์ระดับตำนาน "บทแห่งมังกรนิทรา"</a>]]></description>
-      <guid isPermaLink="false">15998</guid>
-      <pubDate>Sun, 19 Sep 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jan 2022 04:15:44 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact ตัวอย่างตัวละคร - "Sangonomiya Kokomi - เกลียวคลื่นล้อจันทร์"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/16053</link>
@@ -711,6 +704,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011215155887738.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18632">การเดินทางของหิมะ และดวงดาว - พิธีจุดประกายแสงบนเทือกเขาแอลป์</a>]]></description>
       <guid isPermaLink="false">18632</guid>
       <pubDate>Thu, 13 Jan 2022 18:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>โลกมนุษย์ในบทละครงิ้ว - "Genshin Impact" เบื้องหลังการสร้างของ Yun Jin</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18706</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410371914798.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18706">โลกมนุษย์ในบทละครงิ้ว - "Genshin Impact" เบื้องหลังการสร้างของ Yun Jin</a>]]></description>
+      <guid isPermaLink="false">18706</guid>
+      <pubDate>Fri, 14 Jan 2022 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-14T03:14:01.677099+00:00</updated>
+  <updated>2022-01-14T04:15:16.674511+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -591,6 +591,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-13T18:00:00+07:00</published>
   </entry>
   <entry>
+    <id>18710</id>
+    <title>Dunia dalam Opera: Di Balik Layar Proses Desain Yun Jin | Genshin Impact</title>
+    <updated>2022-01-14T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410464816876.jpg"><br/><br/>"Awan dan bunga bergoyang dengan lembut, seiring angin menari berkelok-kelok melalui lembah".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18710">Dunia dalam Opera: Di Balik Layar Proses Desain Yun Jin | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18710" rel="alternate"/>
+    <summary>"Awan dan bunga bergoyang dengan lembut, seiring angin menari berkelok-kelok melalui lembah".</summary>
+    <published>2022-01-14T12:00:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -796,5 +805,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18649" rel="alternate"/>
     <summary>Setelah penantian yang panjang, upacara Penyalaan Alpen akhirnya tiba!</summary>
     <published>2022-01-13T18:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18710</id>
+    <title>Dunia dalam Opera: Di Balik Layar Proses Desain Yun Jin | Genshin Impact</title>
+    <updated>2022-01-14T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410464816876.jpg"><br/><br/>"Awan dan bunga bergoyang dengan lembut, seiring angin menari berkelok-kelok melalui lembah".<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18710">Dunia dalam Opera: Di Balik Layar Proses Desain Yun Jin | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18710" rel="alternate"/>
+    <summary>"Awan dan bunga bergoyang dengan lembut, seiring angin menari berkelok-kelok melalui lembah".</summary>
+    <published>2022-01-14T12:00:00+07:00</published>
   </entry>
 </feed>

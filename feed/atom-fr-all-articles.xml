@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - all-articles</title>
-  <updated>2022-01-14T03:13:42.659590+00:00</updated>
+  <updated>2022-01-14T04:14:42.189725+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -373,14 +373,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/7462" rel="alternate"/>
     <summary>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16041</id>
-    <title>Vœux « Luminescence à la dérive » : taux d'obtention boosté pour Sangonomiya Kokomi · Perle de connaissance (Hydro) !</title>
-    <updated>2021-09-19T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819333893227.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16041">Vœux « Luminescence à la dérive » : taux d'obtention boosté pour Sangonomiya Kokomi · Perle de connaissance (Hydro) !</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16041" rel="alternate"/>
-    <published>2021-09-19T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>15943</id>
@@ -1210,12 +1202,12 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <published>2022-01-13T18:00:00+01:00</published>
   </entry>
   <entry>
-    <id>16282</id>
-    <title>Les carnets d'Inazuma : Île de Tsurumi</title>
-    <updated>2021-10-06T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014411973413.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16282">Les carnets d'Inazuma : Île de Tsurumi</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16282" rel="alternate"/>
-    <published>2021-10-06T10:30:00+02:00</published>
+    <id>18692</id>
+    <title>Genshin Impact - Le monde de l'opéra : les coulisses de la création de Yun Jin</title>
+    <updated>2022-01-14T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011406424323833.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18692">Genshin Impact - Le monde de l'opéra : les coulisses de la création de Yun Jin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18692" rel="alternate"/>
+    <published>2022-01-14T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>16320</id>
@@ -2050,5 +2042,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220112/2022011216374380364.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18640">« Lumières et neige éternelle » - Cérémonie d'illumination des Alpes</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/18640" rel="alternate"/>
     <published>2022-01-13T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18692</id>
+    <title>Genshin Impact - Le monde de l'opéra : les coulisses de la création de Yun Jin</title>
+    <updated>2022-01-14T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011406424323833.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18692">Genshin Impact - Le monde de l'opéra : les coulisses de la création de Yun Jin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18692" rel="alternate"/>
+    <published>2022-01-14T12:00:00+01:00</published>
   </entry>
 </feed>
