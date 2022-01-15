@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 15 Jan 2022 05:12:40 +0000</lastBuildDate>
-    <item>
-      <title>稻妻手帳——鶴觀篇</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16280</link>
-      <description>2.2版本中，稻妻區域將開啟全新島嶼——「鶴觀」，一起來瞭解一下這片霧海之中島嶼的一些資訊吧~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014234937226.jpg"><br/><br/>2.2版本中，稻妻區域將開啟全新島嶼——「鶴觀」，一起來瞭解一下這片霧海之中島嶼的一些資訊吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16280">稻妻手帳——鶴觀篇</a>]]></content:encoded>
-      <guid isPermaLink="false">16280</guid>
-      <pubDate>Wed, 06 Oct 2021 10:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jan 2022 06:13:36 +0000</lastBuildDate>
     <item>
       <title>10.06開發團隊座談會——鏘鏘！小道具「風物之詩琴」再次登場~</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16322</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220113/2022011322350049997.jpg"><br/><br/>「雲嬋娟來花嬋娟，風流盡在山水間。」<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18690">戲中人間——雲堇創作的幕後｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">18690</guid>
       <pubDate>Fri, 14 Jan 2022 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「飛彩鐫流年」遊戲原聲EP專輯正式上線</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18713</link>
+      <description>本專輯由HOYO-MiX音樂團隊製作，將收錄《原神》2.4版本「飛彩鐫流年」中的2首劇情音樂。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419314562682.jpg"><br/><br/>本專輯由HOYO-MiX音樂團隊製作，將收錄《原神》2.4版本「飛彩鐫流年」中的2首劇情音樂。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18713">「飛彩鐫流年」遊戲原聲EP專輯正式上線</a>]]></content:encoded>
+      <guid isPermaLink="false">18713</guid>
+      <pubDate>Sat, 15 Jan 2022 14:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

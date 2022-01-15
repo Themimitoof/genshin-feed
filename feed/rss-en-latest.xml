@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jan 2022 05:12:34 +0000</lastBuildDate>
-    <item>
-      <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16488</link>
-      <description>Dear Travelers,    
-Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219204240897.jpg"><br/><br/>Dear Travelers,    
-Below are the details of the Version 2.2 update "Into the Perilous Labyrinth of Fog" and the update compensation.    <br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16488">"Into the Perilous Labyrinth of Fog" Version 2.2 Update Details</a>]]></content:encoded>
-      <guid isPermaLink="false">16488</guid>
-      <pubDate>Wed, 13 Oct 2021 07:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jan 2022 06:13:27 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact EP - He Who Wanders Untrammeled</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16458</link>
@@ -879,6 +869,14 @@ The opera sings about the feats of a heroine, with new lines added to the story,
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011409552544807.jpg"><br/><br/>"How gently do the clouds and flowers sway, as dancing winds meander through the vales." As the current Director of the Yun-Han Opera Troupe, Yun Jin has not only inherited the mantle from her ancestors, but also added her own insight on hopes and dreams of ordinary people through her thousands of performances. Let's take a look at how the Genshin Impact team brought Yun Jin to life!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18694">The World of Opera: A Behind the Scenes Look at the Creation of Yun Jin | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18694</guid>
       <pubDate>Fri, 14 Jan 2022 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Fleeting Colors in Flight" EP Album Now Available</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18714</link>
+      <description>This album is produced by the HOYO-MiX team and features two story OSTs in Genshin Impact's Version 2.4 "Fleeting Colors in Flight."</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419333270130.jpg"><br/><br/>This album is produced by the HOYO-MiX team and features two story OSTs in Genshin Impact's Version 2.4 "Fleeting Colors in Flight."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18714">"Fleeting Colors in Flight" EP Album Now Available</a>]]></content:encoded>
+      <guid isPermaLink="false">18714</guid>
+      <pubDate>Sat, 15 Jan 2022 14:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

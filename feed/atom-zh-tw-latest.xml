@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2022-01-15T05:12:40.127608+00:00</updated>
+  <updated>2022-01-15T06:13:36.802535+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>16280</id>
-    <title>稻妻手帳——鶴觀篇</title>
-    <updated>2021-10-06T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014234937226.jpg"><br/><br/>2.2版本中，稻妻區域將開啟全新島嶼——「鶴觀」，一起來瞭解一下這片霧海之中島嶼的一些資訊吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16280">稻妻手帳——鶴觀篇</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16280" rel="alternate"/>
-    <summary>2.2版本中，稻妻區域將開啟全新島嶼——「鶴觀」，一起來瞭解一下這片霧海之中島嶼的一些資訊吧~</summary>
-    <published>2021-10-06T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>16322</id>
     <title>10.06開發團隊座談會——鏘鏘！小道具「風物之詩琴」再次登場~</title>
@@ -914,5 +905,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18690" rel="alternate"/>
     <summary>「雲嬋娟來花嬋娟，風流盡在山水間。」</summary>
     <published>2022-01-14T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18713</id>
+    <title>「飛彩鐫流年」遊戲原聲EP專輯正式上線</title>
+    <updated>2022-01-15T14:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419314562682.jpg"><br/><br/>本專輯由HOYO-MiX音樂團隊製作，將收錄《原神》2.4版本「飛彩鐫流年」中的2首劇情音樂。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18713">「飛彩鐫流年」遊戲原聲EP專輯正式上線</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18713" rel="alternate"/>
+    <summary>本專輯由HOYO-MiX音樂團隊製作，將收錄《原神》2.4版本「飛彩鐫流年」中的2首劇情音樂。</summary>
+    <published>2022-01-15T14:00:00+08:00</published>
   </entry>
 </feed>

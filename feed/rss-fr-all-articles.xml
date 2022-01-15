@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 15 Jan 2022 05:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 06:13:36 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -326,13 +326,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Paimon vous présente un aperçu des événements de la version 2.1 - Partie II</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15943</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091715591426241.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15943">Paimon vous présente un aperçu des événements de la version 2.1 - Partie II</a>]]></description>
-      <guid isPermaLink="false">15943</guid>
-      <pubDate>Sun, 19 Sep 2021 12:10:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</title>
@@ -1049,11 +1042,12 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Fri, 14 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Discussion avec les développeurs (06/10) : retour du gadget « Lyre de la brise » !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16320</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100109575298538.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16320">Discussion avec les développeurs (06/10) : retour du gadget « Lyre de la brise » !</a>]]></description>
-      <guid isPermaLink="false">16320</guid>
-      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
+      <title>« Fleeting Colors in Flight » - La bande originale du jeu est officiellement disponible</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18718</link>
+      <description>Cet album produit par HOYO-MiX reprend la musique des deux intrigues de la version 2.4 de Genshin Impact, « Couleurs éphémères en vol ».</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419392297906.jpg"><br/><br/>Cet album produit par HOYO-MiX reprend la musique des deux intrigues de la version 2.4 de Genshin Impact, « Couleurs éphémères en vol ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18718">« Fleeting Colors in Flight » - La bande originale du jeu est officiellement disponible</a>]]></content:encoded>
+      <guid isPermaLink="false">18718</guid>
+      <pubDate>Sat, 15 Jan 2022 14:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</title>
@@ -1772,6 +1766,14 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011406424323833.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18692">Genshin Impact - Le monde de l'opéra : les coulisses de la création de Yun Jin</a>]]></description>
       <guid isPermaLink="false">18692</guid>
       <pubDate>Fri, 14 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Fleeting Colors in Flight » - La bande originale du jeu est officiellement disponible</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18718</link>
+      <description>Cet album produit par HOYO-MiX reprend la musique des deux intrigues de la version 2.4 de Genshin Impact, « Couleurs éphémères en vol ».</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419392297906.jpg"><br/><br/>Cet album produit par HOYO-MiX reprend la musique des deux intrigues de la version 2.4 de Genshin Impact, « Couleurs éphémères en vol ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18718">« Fleeting Colors in Flight » - La bande originale du jeu est officiellement disponible</a>]]></content:encoded>
+      <guid isPermaLink="false">18718</guid>
+      <pubDate>Sat, 15 Jan 2022 14:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 15 Jan 2022 05:12:57 +0000</lastBuildDate>
-    <item>
-      <title>Молитва «Зимнее расставание» - Повышен шанс получить персонажа «Чайльд» Тарталья (Гидро) и других!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16406</link>
-      <description>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110531475941.jpg"><br/><br/>Эта Молитва поможет Путешественникам получить ещё больше персонажей и оружия для усиления своего отряда!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16406">Молитва «Зимнее расставание» - Повышен шанс получить персонажа «Чайльд» Тарталья (Гидро) и других!</a>]]></content:encoded>
-      <guid isPermaLink="false">16406</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jan 2022 06:14:05 +0000</lastBuildDate>
     <item>
       <title>Молитва «Воплощение божества» - повышен шанс получить Полярная звезда (Стрелковое) и Память о пыли (Катализатор) и другое оружие!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16413</link>
@@ -825,6 +817,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410031574744.jpg"><br/><br/>«Покачиваются тихо цветы и облака, когда блуждает ветер по горам и лугам».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18696">«Мир оперы» - О работе над Юнь Цзинь | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18696</guid>
       <pubDate>Fri, 14 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Мини-альбом Genshin Impact «Fleeting Colors in Flight» уже доступен!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18721</link>
+      <description>В него входит два трека сюжетного музыкального сопровождения из версии Genshin Impact 2.4 «Краски мимолётности», написанные командой HOYO-MiX.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419422176798.jpg"><br/><br/>В него входит два трека сюжетного музыкального сопровождения из версии Genshin Impact 2.4 «Краски мимолётности», написанные командой HOYO-MiX.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18721">Мини-альбом Genshin Impact «Fleeting Colors in Flight» уже доступен!</a>]]></content:encoded>
+      <guid isPermaLink="false">18721</guid>
+      <pubDate>Sat, 15 Jan 2022 14:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

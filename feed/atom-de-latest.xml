@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2022-01-15T05:12:43.199301+00:00</updated>
+  <updated>2022-01-15T06:13:41.104561+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16281</id>
-    <title>Notizen über Inazuma – Tsurumi</title>
-    <updated>2021-10-06T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093014251449610.jpg"><br/><br/>In Version 2.2 wird es im Gebiet von Inazuma die neue Insel „Tsurumi“ geben. Sehen wir uns doch an, was es so über diese Insel im Nebel zu wissen gibt!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16281">Notizen über Inazuma – Tsurumi</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16281" rel="alternate"/>
-    <summary>In Version 2.2 wird es im Gebiet von Inazuma die neue Insel „Tsurumi“ geben. Sehen wir uns doch an, was es so über diese Insel im Nebel zu wissen gibt!</summary>
-    <published>2021-10-06T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>16333</id>
     <title>Fragerunde mit den Entwicklern vom 6. Oktober: Das Hilfsmittel „Landschaftliche Leier“ ist erneut verfügbar!</title>
@@ -969,5 +960,14 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
     <link href="https://genshin.mihoyo.com/de/news/detail/18702" rel="alternate"/>
     <summary>„Wie sanft wiegen sich die Wolken und Blumen, während sich tanzende Winde durch die Täler schlängeln.“ </summary>
     <published>2022-01-14T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18717</id>
+    <title>Minialbum „Fleeting Colors in Flight“ mit Originalmusik aus dem Spiel erscheint offiziell online</title>
+    <updated>2022-01-15T14:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419373492537.jpg"><br/><br/>Dieses Album wurde von HOYO-MiX produziert und enthält die beiden Handlungsmusikstücke aus Version 2.4 „Flüchtige Farben im Flug“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18717">Minialbum „Fleeting Colors in Flight“ mit Originalmusik aus dem Spiel erscheint offiziell online</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18717" rel="alternate"/>
+    <summary>Dieses Album wurde von HOYO-MiX produziert und enthält die beiden Handlungsmusikstücke aus Version 2.4 „Flüchtige Farben im Flug“.</summary>
+    <published>2022-01-15T14:00:00+01:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Sat, 15 Jan 2022 05:12:59 +0000</lastBuildDate>
-    <item>
-      <title>ฟังก์ชันดาวน์โหลดล่วงหน้าเปิดแล้ว</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/16390</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110381982611.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16390">ฟังก์ชันดาวน์โหลดล่วงหน้าเปิดแล้ว</a>]]></description>
-      <guid isPermaLink="false">16390</guid>
-      <pubDate>Mon, 11 Oct 2021 11:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Sat, 15 Jan 2022 06:14:09 +0000</lastBuildDate>
     <item>
       <title>"กิจกรรมแฮงเอ้าท์ - ชุดที่ 3" คำอธิบายเควสต์ระดับตำนาน</title>
       <link>https://genshin.mihoyo.com/th/news/detail/16400</link>
@@ -713,6 +706,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011410371914798.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18706">โลกมนุษย์ในบทละครงิ้ว - "Genshin Impact" เบื้องหลังการสร้างของ Yun Jin</a>]]></description>
       <guid isPermaLink="false">18706</guid>
       <pubDate>Fri, 14 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>มินิอัลบั้มเพลงประกอบต้นฉบับ "Fleeting Colors in Flight" เปิดตัวอย่างเป็นทางการแล้ว</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18716</link>
+      <description>อัลบั้มนี้ผลิตโดยทีมงานเพลง HOYO-MiX และจะรวบรวม 2 เพลงจากเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา" ของ "Genshin Impact"</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419360996101.jpg"><br/><br/>อัลบั้มนี้ผลิตโดยทีมงานเพลง HOYO-MiX และจะรวบรวม 2 เพลงจากเวอร์ชัน 2.4 "แสงสีสันแต่งแต้มท้องนภา" ของ "Genshin Impact"<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18716">มินิอัลบั้มเพลงประกอบต้นฉบับ "Fleeting Colors in Flight" เปิดตัวอย่างเป็นทางการแล้ว</a>]]></content:encoded>
+      <guid isPermaLink="false">18716</guid>
+      <pubDate>Sat, 15 Jan 2022 14:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
