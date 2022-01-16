@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2022-01-16T03:14:26.679543+00:00</updated>
+  <updated>2022-01-16T04:14:22.510366+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>14277</id>
-    <title>Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</title>
-    <updated>2021-07-19T10:29:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071716590877558.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14277">Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/14277" rel="alternate"/>
-    <summary/>
-    <published>2021-07-19T10:29:00+09:00</published>
-  </entry>
   <entry>
     <id>14236</id>
     <title>Ver2.0事前ダウンロード開始</title>
@@ -881,5 +872,14 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/18600" rel="alternate"/>
     <summary/>
     <published>2022-01-12T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18689</id>
+    <title>淵下宮エリアの壁紙配布</title>
+    <updated>2022-01-16T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18689">淵下宮エリアの壁紙配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18689" rel="alternate"/>
+    <summary/>
+    <published>2022-01-16T12:00:00+09:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Jan 2022 03:14:26 +0000</lastBuildDate>
-    <item>
-      <title>Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/14277</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071716590877558.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14277">Ver.2.0「鳴神不動、泡影を滅す」バージョンアップのお知らせ</a>]]></description>
-      <guid isPermaLink="false">14277</guid>
-      <pubDate>Mon, 19 Jul 2021 10:29:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sun, 16 Jan 2022 04:14:22 +0000</lastBuildDate>
     <item>
       <title>Ver2.0事前ダウンロード開始</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/14236</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220111/2022011115152748147.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18600">Ver.2.4「風の行方」イベント紹介</a>]]></description>
       <guid isPermaLink="false">18600</guid>
       <pubDate>Wed, 12 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>淵下宮エリアの壁紙配布</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18689</link>
+      <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18689">淵下宮エリアの壁紙配布</a>]]></description>
+      <guid isPermaLink="false">18689</guid>
+      <pubDate>Sun, 16 Jan 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

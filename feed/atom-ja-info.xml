@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - info</title>
-  <updated>2022-01-16T03:14:27.418547+00:00</updated>
+  <updated>2022-01-16T04:14:23.899767+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -248,5 +248,14 @@
     <content type="CDATA"><![CDATA[None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/17783">原神 Ver.2.4アップデート記念キャンペーン 参加規約</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/17783" rel="alternate"/>
     <published>2021-12-29T22:50:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18689</id>
+    <title>淵下宮エリアの壁紙配布</title>
+    <updated>2022-01-16T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18689">淵下宮エリアの壁紙配布</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18689" rel="alternate"/>
+    <summary/>
+    <published>2022-01-16T12:00:00+09:00</published>
   </entry>
 </feed>
