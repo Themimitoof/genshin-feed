@@ -2,31 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - latest</title>
-  <updated>2022-01-18T03:14:10.250737+00:00</updated>
+  <updated>2022-01-18T04:15:49.308556+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ja/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ja</subtitle>
-  <entry>
-    <id>14236</id>
-    <title>Ver2.0事前ダウンロード開始</title>
-    <updated>2021-07-19T10:59:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210716/2021071619001511587.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14236">Ver2.0事前ダウンロード開始</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/14236" rel="alternate"/>
-    <summary/>
-    <published>2021-07-19T10:59:00+09:00</published>
-  </entry>
-  <entry>
-    <id>14238</id>
-    <title>Ver.2.0任務予告</title>
-    <updated>2021-07-19T12:29:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210717/2021071712403272106.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14238">Ver.2.0任務予告</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/14238" rel="alternate"/>
-    <summary/>
-    <published>2021-07-19T12:29:00+09:00</published>
-  </entry>
   <entry>
     <id>14370</id>
     <title>「雷痕を求めて」イベント予告</title>
@@ -881,5 +863,22 @@
     <link href="https://genshin.mihoyo.com/ja/news/detail/18689" rel="alternate"/>
     <summary/>
     <published>2022-01-16T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18747</id>
+    <title>「浮世閑歩」鍾離イラスト募集コンテスト</title>
+    <updated>2022-01-18T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011810584271211.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18747">「浮世閑歩」鍾離イラスト募集コンテスト</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18747" rel="alternate"/>
+    <summary/>
+    <published>2022-01-18T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18748</id>
+    <title>「循々守月」甘雨イラスト募集コンテスト</title>
+    <updated>2022-01-18T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011811024963463.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18748">「循々守月」甘雨イラスト募集コンテスト</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18748" rel="alternate"/>
+    <published>2022-01-18T12:00:00+09:00</published>
   </entry>
 </feed>

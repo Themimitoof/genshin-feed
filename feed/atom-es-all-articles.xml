@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-18T03:14:04.068108+00:00</updated>
+  <updated>2022-01-18T04:15:42.986961+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -239,6 +239,24 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18535" rel="alternate"/>
     <summary>Querido/a viajero/a: La nueva versión de Genshin Impact 2.4, «Iridiscencia fugaz» ya está disponible. El evento para reclutar streamers de la nueva versión en Twitch ha comenzado.</summary>
     <published>2022-01-06T19:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18725</id>
+    <title>Concurso de obras de arte de los fans de Zhongli - ¡Concurso con grandes premios!</title>
+    <updated>2022-01-18T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719031789235.jpg"><br/><br/>Querido/a viajero/a: Ya está disponible el concurso de obras de arte de los fans de Zhongli. ¡Que de comienzo el talento!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18725">Concurso de obras de arte de los fans de Zhongli - ¡Concurso con grandes premios!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18725" rel="alternate"/>
+    <summary>Querido/a viajero/a: Ya está disponible el concurso de obras de arte de los fans de Zhongli. ¡Que de comienzo el talento!</summary>
+    <published>2022-01-18T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18729</id>
+    <title>Concurso de obras de arte de los fans de Ganyu - ¡Concurso con grandes premios!</title>
+    <updated>2022-01-18T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719072069813.jpg"><br/><br/>Querido/a viajero/a: ¡Ya ha comenzado el concurso de obras de arte de los fans de Ganyu! Prepara tu pincel y participa en el evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18729">Concurso de obras de arte de los fans de Ganyu - ¡Concurso con grandes premios!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18729" rel="alternate"/>
+    <summary>Querido/a viajero/a: ¡Ya ha comenzado el concurso de obras de arte de los fans de Ganyu! Prepara tu pincel y participa en el evento.</summary>
+    <published>2022-01-18T12:10:00+01:00</published>
   </entry>
   <entry>
     <id>739</id>
@@ -991,5 +1009,23 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18719" rel="alternate"/>
     <summary>Este álbum fue producido por el equipo de HOYO-Mix e los dos primeros temas proceden de la versión 2.4 de Genshin Impact «Iridiscencia fugaz».</summary>
     <published>2022-01-15T14:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18725</id>
+    <title>Concurso de obras de arte de los fans de Zhongli - ¡Concurso con grandes premios!</title>
+    <updated>2022-01-18T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719031789235.jpg"><br/><br/>Querido/a viajero/a: Ya está disponible el concurso de obras de arte de los fans de Zhongli. ¡Que de comienzo el talento!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18725">Concurso de obras de arte de los fans de Zhongli - ¡Concurso con grandes premios!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18725" rel="alternate"/>
+    <summary>Querido/a viajero/a: Ya está disponible el concurso de obras de arte de los fans de Zhongli. ¡Que de comienzo el talento!</summary>
+    <published>2022-01-18T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18729</id>
+    <title>Concurso de obras de arte de los fans de Ganyu - ¡Concurso con grandes premios!</title>
+    <updated>2022-01-18T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719072069813.jpg"><br/><br/>Querido/a viajero/a: ¡Ya ha comenzado el concurso de obras de arte de los fans de Ganyu! Prepara tu pincel y participa en el evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18729">Concurso de obras de arte de los fans de Ganyu - ¡Concurso con grandes premios!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18729" rel="alternate"/>
+    <summary>Querido/a viajero/a: ¡Ya ha comenzado el concurso de obras de arte de los fans de Ganyu! Prepara tu pincel y participa en el evento.</summary>
+    <published>2022-01-18T12:10:00+01:00</published>
   </entry>
 </feed>

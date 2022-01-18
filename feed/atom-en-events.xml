@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - events</title>
-  <updated>2022-01-18T03:13:36.450094+00:00</updated>
+  <updated>2022-01-18T04:15:16.832268+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -257,5 +257,23 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/18529" rel="alternate"/>
     <summary>The Genshin Impact Version 2.4 "Fleeting Colors in Flight" update is here. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
     <published>2022-01-06T19:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18726</id>
+    <title>Prize Giveaway: "Vago Mundo" Zhongli Fan Art Contest</title>
+    <updated>2022-01-18T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719035315652.jpg"><br/><br/>Zhongli's Fan Art Contest has begun, it's time to show your real skills!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18726">Prize Giveaway: "Vago Mundo" Zhongli Fan Art Contest</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18726" rel="alternate"/>
+    <summary>Zhongli's Fan Art Contest has begun, it's time to show your real skills!</summary>
+    <published>2022-01-18T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18728</id>
+    <title>Prize Giveaway: "Plenilune Gaze" Ganyu Fan Art Contest</title>
+    <updated>2022-01-18T12:10:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719055315952.jpg"><br/><br/>Ganyu's Fan Art Contest has begun! Get your drawing tools ready, and come participate~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18728">Prize Giveaway: "Plenilune Gaze" Ganyu Fan Art Contest</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18728" rel="alternate"/>
+    <summary>Ganyu's Fan Art Contest has begun! Get your drawing tools ready, and come participate~</summary>
+    <published>2022-01-18T12:10:00-05:00</published>
   </entry>
 </feed>

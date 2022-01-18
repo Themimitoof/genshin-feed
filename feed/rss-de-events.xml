@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 18 Jan 2022 03:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 04:15:35 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -158,6 +158,26 @@ nimm an der Teilaktion teil und hilf dabei, die Alpen zu erhellen, um ein iPhone
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211230/2021123020280243517.png"><br/><br/>Die Wolken und der Nebel sammeln sich, während die Schriftrolle aufrollt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18320">Die Webaktion „Der Kranich in den Wolken“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">18320</guid>
       <pubDate>Fri, 31 Dec 2021 12:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gewinnaktion für Fan-Zeichnungen mit Zhongli, „Besucher bei den Sterblichen“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18745</link>
+      <description>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Zhongli hat begonnen. Es wird Zeit zu zeigen, was du wirklich drauf hast!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011810514793861.jpg"><br/><br/>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Zhongli hat begonnen. Es wird Zeit zu zeigen, was du wirklich drauf hast!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18745">Gewinnaktion für Fan-Zeichnungen mit Zhongli, „Besucher bei den Sterblichen“</a>]]></content:encoded>
+      <guid isPermaLink="false">18745</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gewinnaktion für Fan-Zeichnungen mit Ganyu, „Mondhüter“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18746</link>
+      <description>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen Stift und nimm teil!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011810555352764.jpg"><br/><br/>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen Stift und nimm teil!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18746">Gewinnaktion für Fan-Zeichnungen mit Ganyu, „Mondhüter“</a>]]></content:encoded>
+      <guid isPermaLink="false">18746</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

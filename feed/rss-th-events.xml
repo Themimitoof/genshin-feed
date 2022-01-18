@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Tue, 18 Jan 2022 03:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 04:16:18 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -193,6 +193,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616055953961.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18537">กิจกรรมรับสมัครสตรีมเมอร์บน Twitch ของ Genshin Impact</a>]]></description>
       <guid isPermaLink="false">18537</guid>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Zhongli "ผู้พเนจรแห่งแดนมนุษย์"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18731</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719085396948.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18731">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Zhongli "ผู้พเนจรแห่งแดนมนุษย์"</a>]]></description>
+      <guid isPermaLink="false">18731</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Ganyu "ผู้พิทักษ์แห่งจันทรา"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18733</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719114622803.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18733">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Ganyu "ผู้พิทักษ์แห่งจันทรา"</a>]]></description>
+      <guid isPermaLink="false">18733</guid>
+      <pubDate>Tue, 18 Jan 2022 12:10:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

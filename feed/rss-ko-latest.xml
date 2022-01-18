@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 Jan 2022 03:14:16 +0000</lastBuildDate>
-    <item>
-      <title>「신의 주조」 기원: 「활·극지의 별」 「법구·속세의 자물쇠」 확률 UP!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16429</link>
-      <description>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화해보세요!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111300561955.jpg"><br/><br/>이벤트 기간에 「신의 주조」 이벤트 기원을 통해 더 많은 무기와 캐릭터를 획득하여 파티를 강화해보세요!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16429">「신의 주조」 기원: 「활·극지의 별」 「법구·속세의 자물쇠」 확률 UP!</a>]]></content:encoded>
-      <guid isPermaLink="false">16429</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「안개의 미궁 속으로」 2.2 버전 이벤트 알림 제1회</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16433</link>
-      <description>﻿2.2 버전이 곧 출시될 예정이야! 우리 함께 신규 이벤트 정보를 미리 알아보자구~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111572786976.jpg"><br/><br/>﻿2.2 버전이 곧 출시될 예정이야! 우리 함께 신규 이벤트 정보를 미리 알아보자구~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16433">「안개의 미궁 속으로」 2.2 버전 이벤트 알림 제1회</a>]]></content:encoded>
-      <guid isPermaLink="false">16433</guid>
-      <pubDate>Mon, 11 Oct 2021 12:10:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 04:15:55 +0000</lastBuildDate>
     <item>
       <title>「안개의 미궁 속으로」 2.2 버전 업데이트 상세안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16501</link>
@@ -813,6 +797,20 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419432566932.jpg"><br/><br/>본 앨범은 HOYO-MiX가 제작했으며, <원신> 2.4 버전 「화려히 수놓인 유년」의 스토리 음악 2곡이 수록되어 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18722">「화려히 수놓인 유년」 게임 오리지널 EP 앨범 정식 출시</a>]]></content:encoded>
       <guid isPermaLink="false">18722</guid>
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「속세 한유」 종려 팬아트 공모전</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18727</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719045145607.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18727">「속세 한유」 종려 팬아트 공모전</a>]]></description>
+      <guid isPermaLink="false">18727</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[보상 이벤트] 「리월의 수호자」 감우 팬아트 공모전</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18730</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719075077133.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18730">[보상 이벤트] 「리월의 수호자」 감우 팬아트 공모전</a>]]></description>
+      <guid isPermaLink="false">18730</guid>
+      <pubDate>Tue, 18 Jan 2022 12:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

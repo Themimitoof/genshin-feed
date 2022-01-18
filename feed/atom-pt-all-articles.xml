@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - all-articles</title>
-  <updated>2022-01-18T03:14:29.530237+00:00</updated>
+  <updated>2022-01-18T04:16:07.426229+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -293,6 +293,28 @@ Confira agora mesmo a lista de vencedores e veja se você não é a nossa estrel
     <link href="https://genshin.mihoyo.com/pt/news/detail/18593" rel="alternate"/>
     <summary>Desde o dia 11 do junho de 2021 até hoje, a nossa conta brasileira oficial já acompanhou os Viajantes por mais de 6 meses! Com o apoio de todos os Viajantes, já alcançamos mais de 100.000 seguidores! </summary>
     <published>2022-01-11T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18735</id>
+    <title>[Evento com Recompensas] Concurso de Arte de Fãs do Zhongli, "Andarilho do Reino Mortal"</title>
+    <updated>2022-01-18T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719155951742.jpg"><br/><br/>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs do Zhongli! Hora de mostrar o seu talento!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18735">[Evento com Recompensas] Concurso de Arte de Fãs do Zhongli, "Andarilho do Reino Mortal"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18735" rel="alternate"/>
+    <summary>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs do Zhongli! Hora de mostrar o seu talento!</summary>
+    <published>2022-01-18T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18736</id>
+    <title>[Evento com Recompensas] Concurso de Arte de Fãs da Ganyu, "Defensora Devota"</title>
+    <updated>2022-01-18T12:10:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719220075155.jpg"><br/><br/>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é hora de desenhar!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18736">[Evento com Recompensas] Concurso de Arte de Fãs da Ganyu, "Defensora Devota"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18736" rel="alternate"/>
+    <summary>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é hora de desenhar!</summary>
+    <published>2022-01-18T12:10:00+00:00</published>
   </entry>
   <entry>
     <id>738</id>
@@ -1336,24 +1358,6 @@ Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente c
     <published>2022-01-15T14:00:00+00:00</published>
   </entry>
   <entry>
-    <id>16472</id>
-    <title>EP - Convidado Despreocupado｜Genshin Impact</title>
-    <updated>2021-10-13T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217285016837.jpg"><br/><br/>Andando pelas ruas imersas nas pétalas de Sakura, uma preocupação que é raramente vista despertou no fundo do coração do jovem.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16472">EP - Convidado Despreocupado｜Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16472" rel="alternate"/>
-    <summary>Andando pelas ruas imersas nas pétalas de Sakura, uma preocupação que é raramente vista despertou no fundo do coração do jovem.</summary>
-    <published>2021-10-13T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16480</id>
-    <title>Disponível Evento Web com Recompensas - "Diário de Exploração da Aloy"! Venha explorar o território de Tevyat junto com a Aloy para obter recompensas!</title>
-    <updated>2021-10-13T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217571248961.jpg"><br/><br/>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16480">Disponível Evento Web com Recompensas - "Diário de Exploração da Aloy"! Venha explorar o território de Tevyat junto com a Aloy para obter recompensas!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16480" rel="alternate"/>
-    <summary>Quando seus pés pisam nos territórios de Teyvat, quais aventuras estão esperando por Aloy, a Salvadora de Outro Mundo?</summary>
-    <published>2021-10-13T12:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>16498</id>
     <title>Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</title>
     <updated>2021-10-14T10:30:00+01:00</updated>
@@ -2248,5 +2252,27 @@ Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente c
     <link href="https://genshin.mihoyo.com/pt/news/detail/18720" rel="alternate"/>
     <summary>Este álbum foi produzido pela equipe HOYO-MiX, incluindo 2 trilhas de histórias da versão 2.4 "Cores Efêmeras Voadoras".</summary>
     <published>2022-01-15T14:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18735</id>
+    <title>[Evento com Recompensas] Concurso de Arte de Fãs do Zhongli, "Andarilho do Reino Mortal"</title>
+    <updated>2022-01-18T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719155951742.jpg"><br/><br/>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs do Zhongli! Hora de mostrar o seu talento!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18735">[Evento com Recompensas] Concurso de Arte de Fãs do Zhongli, "Andarilho do Reino Mortal"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18735" rel="alternate"/>
+    <summary>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs do Zhongli! Hora de mostrar o seu talento!</summary>
+    <published>2022-01-18T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18736</id>
+    <title>[Evento com Recompensas] Concurso de Arte de Fãs da Ganyu, "Defensora Devota"</title>
+    <updated>2022-01-18T12:10:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719220075155.jpg"><br/><br/>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é hora de desenhar!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18736">[Evento com Recompensas] Concurso de Arte de Fãs da Ganyu, "Defensora Devota"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18736" rel="alternate"/>
+    <summary>Caro Viajante,
+Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é hora de desenhar!</summary>
+    <published>2022-01-18T12:10:00+00:00</published>
   </entry>
 </feed>

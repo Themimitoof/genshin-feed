@@ -8,25 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 18 Jan 2022 03:13:49 +0000</lastBuildDate>
-    <item>
-      <title>Fragerunde mit den Entwicklern vom 6. Oktober: Das Hilfsmittel „Landschaftliche Leier“ ist erneut verfügbar!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16333</link>
-      <description>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100311345961790.png"><br/><br/>Herzlich willkommen zu unserer brandneuen Fragerunde mit den Entwicklern! Auch heute haben wir ein paar spannende Neuigkeiten für euch!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16333">Fragerunde mit den Entwicklern vom 6. Oktober: Das Hilfsmittel „Landschaftliche Leier“ ist erneut verfügbar!</a>]]></content:encoded>
-      <guid isPermaLink="false">16333</guid>
-      <pubDate>Wed, 06 Oct 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Mitteilung zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16384</link>
-      <description>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110322280689.jpg"><br/><br/>Lieber Reisender,
-um allen ein besseres Spielerlebnis zu bieten, werden die Entwickler in Kürze eine Wartung zur Versionsaktualisierung durchführen und dafür die Server anhalten. Nach der Wartung wird die neue Version des Spiels verfügbar sein.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16384">Mitteilung zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</a>]]></content:encoded>
-      <guid isPermaLink="false">16384</guid>
-      <pubDate>Mon, 11 Oct 2021 10:30:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 04:15:30 +0000</lastBuildDate>
     <item>
       <title>Vorzeitiges Herunterladen jetzt verfügbar</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16389</link>
@@ -868,6 +850,26 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419373492537.jpg"><br/><br/>Dieses Album wurde von HOYO-MiX produziert und enthält die beiden Handlungsmusikstücke aus Version 2.4 „Flüchtige Farben im Flug“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18717">Minialbum „Fleeting Colors in Flight“ mit Originalmusik aus dem Spiel erscheint offiziell online</a>]]></content:encoded>
       <guid isPermaLink="false">18717</guid>
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gewinnaktion für Fan-Zeichnungen mit Zhongli, „Besucher bei den Sterblichen“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18745</link>
+      <description>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Zhongli hat begonnen. Es wird Zeit zu zeigen, was du wirklich drauf hast!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011810514793861.jpg"><br/><br/>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Zhongli hat begonnen. Es wird Zeit zu zeigen, was du wirklich drauf hast!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18745">Gewinnaktion für Fan-Zeichnungen mit Zhongli, „Besucher bei den Sterblichen“</a>]]></content:encoded>
+      <guid isPermaLink="false">18745</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gewinnaktion für Fan-Zeichnungen mit Ganyu, „Mondhüter“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18746</link>
+      <description>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen Stift und nimm teil!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011810555352764.jpg"><br/><br/>Lieber Reisender,
+die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen Stift und nimm teil!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18746">Gewinnaktion für Fan-Zeichnungen mit Ganyu, „Mondhüter“</a>]]></content:encoded>
+      <guid isPermaLink="false">18746</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

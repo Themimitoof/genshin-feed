@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2022-01-18T03:14:48.144997+00:00</updated>
+  <updated>2022-01-18T04:16:25.196826+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -223,6 +223,22 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616083310329.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18538">Chiêu mộ streamer Genshin Impact phiên bản mới trên Twitch</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18538" rel="alternate"/>
     <published>2022-01-06T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18732</id>
+    <title>[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Du Ngoạn Trần Thế - Zhongli</title>
+    <updated>2022-01-18T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719100573720.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18732">[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Du Ngoạn Trần Thế - Zhongli</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18732" rel="alternate"/>
+    <published>2022-01-18T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18734</id>
+    <title>[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Người Bảo Vệ Tận Tâm - Ganyu</title>
+    <updated>2022-01-18T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719125874337.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18734">[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Người Bảo Vệ Tận Tâm - Ganyu</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18734" rel="alternate"/>
+    <published>2022-01-18T12:10:00+07:00</published>
   </entry>
   <entry>
     <id>734</id>
@@ -1156,22 +1172,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2022-01-15T14:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16393</id>
-    <title>Đã Mở Tính Năng Tải Trước</title>
-    <updated>2021-10-11T11:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110395471883.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16393">Đã Mở Tính Năng Tải Trước</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16393" rel="alternate"/>
-    <published>2021-10-11T11:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16408</id>
-    <title>Hướng Dẫn Nhiệm Vụ Truyền Thuyết Sự Kiện Đồng Hành - Phần III</title>
-    <updated>2021-10-11T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110561773784.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16408">Hướng Dẫn Nhiệm Vụ Truyền Thuyết Sự Kiện Đồng Hành - Phần III</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16408" rel="alternate"/>
-    <published>2021-10-11T12:00:00+07:00</published>
-  </entry>
-  <entry>
     <id>16410</id>
     <title>Cầu Nguyện "Tạm Biệt Thủ Đô Băng": UP xác suất Childe - Tartaglia (Thuỷ)!</title>
     <updated>2021-10-11T12:00:00+07:00</updated>
@@ -1980,5 +1980,21 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/18723" rel="alternate"/>
     <summary>Album này được chế tác bởi đội ngũ âm nhạc HOYO-MiX, gồm 2 ca khúc cốt truyện trong phiên bản 2.4 "Muôn Sắc Khắc Niên Hoa".</summary>
     <published>2022-01-15T14:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18732</id>
+    <title>[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Du Ngoạn Trần Thế - Zhongli</title>
+    <updated>2022-01-18T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719100573720.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18732">[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Du Ngoạn Trần Thế - Zhongli</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18732" rel="alternate"/>
+    <published>2022-01-18T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18734</id>
+    <title>[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Người Bảo Vệ Tận Tâm - Ganyu</title>
+    <updated>2022-01-18T12:10:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719125874337.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18734">[Sự Kiện Có Thưởng] Sự kiện thu thập Fan Art Người Bảo Vệ Tận Tâm - Ganyu</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18734" rel="alternate"/>
+    <published>2022-01-18T12:10:00+07:00</published>
   </entry>
 </feed>

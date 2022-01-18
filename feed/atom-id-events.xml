@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - events</title>
-  <updated>2022-01-18T03:14:08.919321+00:00</updated>
+  <updated>2022-01-18T04:15:47.821956+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -267,5 +267,23 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18546" rel="alternate"/>
     <summary>Update Genshin Impact v2.4 "Sekilas Rona di Angkasa" telah hadir.</summary>
     <published>2022-01-06T19:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18742</id>
+    <title>[Event Berhadiah] Kontes Gambar Fan Art "Vago Mundo" Zhongli</title>
+    <updated>2022-01-18T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011810210237482.jpg"><br/><br/>Kontes Gambar Fan Art Zhongli sudah dimulai! Ini saatnya untuk menunjukkan kemampuanmu!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18742">[Event Berhadiah] Kontes Gambar Fan Art "Vago Mundo" Zhongli</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18742" rel="alternate"/>
+    <summary>Kontes Gambar Fan Art Zhongli sudah dimulai! Ini saatnya untuk menunjukkan kemampuanmu!</summary>
+    <published>2022-01-18T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18743</id>
+    <title>[Event Berhadiah] Kontes Gambar Fan Art "Plenilune Gaze" Ganyu</title>
+    <updated>2022-01-18T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011810240093700.jpg"><br/><br/>Kontes Gambar Fan Art Ganyu sudah dimulai! Ambil alat gambarmu dan segera ikuti eventnya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18743">[Event Berhadiah] Kontes Gambar Fan Art "Plenilune Gaze" Ganyu</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18743" rel="alternate"/>
+    <summary>Kontes Gambar Fan Art Ganyu sudah dimulai! Ambil alat gambarmu dan segera ikuti eventnya~</summary>
+    <published>2022-01-18T12:00:00+07:00</published>
   </entry>
 </feed>

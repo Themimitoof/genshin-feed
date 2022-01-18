@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - events</title>
-  <updated>2022-01-18T03:13:42.579390+00:00</updated>
+  <updated>2022-01-18T04:15:22.992660+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -221,5 +221,22 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <link href="https://genshin.mihoyo.com/fr/news/detail/18592" rel="alternate"/>
     <summary/>
     <published>2022-01-10T22:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18737</id>
+    <title>[Concours] Concours de fanart de Zhongli « Vagabond du monde mortel »</title>
+    <updated>2022-01-18T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719271727787.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18737">[Concours] Concours de fanart de Zhongli « Vagabond du monde mortel »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18737" rel="alternate"/>
+    <summary/>
+    <published>2022-01-18T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18738</id>
+    <title>[Concours] Concours de fanart de Ganyu « Défense fervente »</title>
+    <updated>2022-01-18T12:10:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719494680834.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18738">[Concours] Concours de fanart de Ganyu « Défense fervente »</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/18738" rel="alternate"/>
+    <published>2022-01-18T12:10:00+01:00</published>
   </entry>
 </feed>

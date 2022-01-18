@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 18 Jan 2022 03:13:37 +0000</lastBuildDate>
-    <item>
-      <title>Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16411</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111020821310.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16411">Notification de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></description>
-      <guid isPermaLink="false">16411</guid>
-      <pubDate>Mon, 11 Oct 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Le pré-téléchargement est disponible</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16417</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111102616982.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16417">Le pré-téléchargement est disponible</a>]]></description>
-      <guid isPermaLink="false">16417</guid>
-      <pubDate>Mon, 11 Oct 2021 11:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 04:15:18 +0000</lastBuildDate>
     <item>
       <title>Escapades - Partie III : présentation des quêtes d'histoire</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16422</link>
@@ -734,6 +720,20 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419392297906.jpg"><br/><br/>Cet album produit par HOYO-MiX reprend la musique des deux intrigues de la version 2.4 de Genshin Impact, « Couleurs éphémères en vol ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18718">« Fleeting Colors in Flight » - La bande originale du jeu est officiellement disponible</a>]]></content:encoded>
       <guid isPermaLink="false">18718</guid>
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Concours] Concours de fanart de Zhongli « Vagabond du monde mortel »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18737</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719271727787.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18737">[Concours] Concours de fanart de Zhongli « Vagabond du monde mortel »</a>]]></description>
+      <guid isPermaLink="false">18737</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Concours] Concours de fanart de Ganyu « Défense fervente »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18738</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719494680834.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18738">[Concours] Concours de fanart de Ganyu « Défense fervente »</a>]]></description>
+      <guid isPermaLink="false">18738</guid>
+      <pubDate>Tue, 18 Jan 2022 12:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

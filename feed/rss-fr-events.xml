@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 18 Jan 2022 03:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 04:15:22 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -191,6 +191,20 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220110/2022011019434994763.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18592">[Annonce des résultats] Concours : Un mets de choix</a>]]></description>
       <guid isPermaLink="false">18592</guid>
       <pubDate>Mon, 10 Jan 2022 22:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Concours] Concours de fanart de Zhongli « Vagabond du monde mortel »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18737</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719271727787.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18737">[Concours] Concours de fanart de Zhongli « Vagabond du monde mortel »</a>]]></description>
+      <guid isPermaLink="false">18737</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Concours] Concours de fanart de Ganyu « Défense fervente »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18738</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719494680834.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18738">[Concours] Concours de fanart de Ganyu « Défense fervente »</a>]]></description>
+      <guid isPermaLink="false">18738</guid>
+      <pubDate>Tue, 18 Jan 2022 12:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

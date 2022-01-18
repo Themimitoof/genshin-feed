@@ -8,23 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 Jan 2022 03:14:18 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16071</link>
-      <description>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092010511571258.png"><br/><br/>반짝이는 물결이 와타츠미섬의 풍경을 비추고, 깊은 생각에 잠긴 코코미의 모습도 비춘다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16071"><원신> 데인 여담 - 「산고노미야 코코미: 반짝이는 조수」</a>]]></content:encoded>
-      <guid isPermaLink="false">16071</guid>
-      <pubDate>Tue, 21 Sep 2021 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>&lt;원신&gt; OST - &lt;고요한 무망의 국가  Realm of Tranquil Eternity&gt;</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16075</link>
-      <description>〈원신〉 이나즈마 편 OST 〈고요한 무망의 국가 Realm of Tranquil Eternity〉 출시. </description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092017321072736.jpg"><br/><br/>〈원신〉 이나즈마 편 OST 〈고요한 무망의 국가 Realm of Tranquil Eternity〉 출시. <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16075"><원신> OST - <고요한 무망의 국가  Realm of Tranquil Eternity></a>]]></content:encoded>
-      <guid isPermaLink="false">16075</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 18 Jan 2022 04:15:57 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 여행자의 깊은 생각 - 이나즈마 음악 비하인드</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16159</link>
@@ -818,6 +802,20 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419432566932.jpg"><br/><br/>본 앨범은 HOYO-MiX가 제작했으며, <원신> 2.4 버전 「화려히 수놓인 유년」의 스토리 음악 2곡이 수록되어 있습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18722">「화려히 수놓인 유년」 게임 오리지널 EP 앨범 정식 출시</a>]]></content:encoded>
       <guid isPermaLink="false">18722</guid>
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「속세 한유」 종려 팬아트 공모전</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18727</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719045145607.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18727">「속세 한유」 종려 팬아트 공모전</a>]]></description>
+      <guid isPermaLink="false">18727</guid>
+      <pubDate>Tue, 18 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[보상 이벤트] 「리월의 수호자」 감우 팬아트 공모전</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18730</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719075077133.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18730">[보상 이벤트] 「리월의 수호자」 감우 팬아트 공모전</a>]]></description>
+      <guid isPermaLink="false">18730</guid>
+      <pubDate>Tue, 18 Jan 2022 12:10:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
