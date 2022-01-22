@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - info</title>
-  <updated>2022-01-22T03:10:50.227853+00:00</updated>
+  <updated>2022-01-22T04:15:24.077224+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>15977</id>
-    <title>Thông Báo Phúc Lợi Sự Kiện Cộng Đồng Mừng Kỷ Niệm 1 Năm Của Genshin Impact</title>
-    <updated>2021-09-20T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091816411725890.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15977">Thông Báo Phúc Lợi Sự Kiện Cộng Đồng Mừng Kỷ Niệm 1 Năm Của Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/15977" rel="alternate"/>
-    <summary/>
-    <published>2021-09-20T18:00:00+07:00</published>
-  </entry>
   <entry>
     <id>16035</id>
     <title>[Genshin Impact] MV Nhạc Chiến Đấu OST Inazuma - Duel in the Mist</title>
@@ -833,5 +824,14 @@
     <link href="https://genshin.mihoyo.com/vi/news/detail/18723" rel="alternate"/>
     <summary>Album này được chế tác bởi đội ngũ âm nhạc HOYO-MiX, gồm 2 ca khúc cốt truyện trong phiên bản 2.4 "Muôn Sắc Khắc Niên Hoa".</summary>
     <published>2022-01-15T14:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18771</id>
+    <title>Tuyển tập Genshin Impact - Trail of the Radiant Qilin</title>
+    <updated>2022-01-22T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011917273765284.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18771">Tuyển tập Genshin Impact - Trail of the Radiant Qilin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18771" rel="alternate"/>
+    <summary/>
+    <published>2022-01-22T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:27 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16049</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210919/2021091912063243676.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16049">Genshin Impact - Démo personnage : « Sangonomiya Kokomi : Vagues et sentiments au clair de lune »</a>]]></description>
-      <guid isPermaLink="false">16049</guid>
-      <pubDate>Mon, 20 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:14:31 +0000</lastBuildDate>
     <item>
       <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16042</link>
@@ -730,6 +723,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419392297906.jpg"><br/><br/>Cet album produit par HOYO-MiX reprend la musique des deux intrigues de la version 2.4 de Genshin Impact, « Couleurs éphémères en vol ».<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18718">« Fleeting Colors in Flight » - La bande originale du jeu est officiellement disponible</a>]]></content:encoded>
       <guid isPermaLink="false">18718</guid>
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« Genshin Impact », la bande-son : Sur les traces du Qilin rayonnant</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18767</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916290470433.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18767">« Genshin Impact », la bande-son : Sur les traces du Qilin rayonnant</a>]]></description>
+      <guid isPermaLink="false">18767</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

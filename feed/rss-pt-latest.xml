@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:42 +0000</lastBuildDate>
-    <item>
-      <title>Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16498</link>
-      <description>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220234495027.jpg"><br/><br/>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16498">Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</a>]]></content:encoded>
-      <guid isPermaLink="false">16498</guid>
-      <pubDate>Thu, 14 Oct 2021 10:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:15:07 +0000</lastBuildDate>
     <item>
       <title>[Vencedores do Evento Anunciados] Sorteio GenshinImpact</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16536</link>
@@ -824,6 +816,14 @@ Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é ho
 Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é hora de desenhar!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18736">[Evento com Recompensas] Concurso de Arte de Fãs da Ganyu, "Defensora Devota"</a>]]></content:encoded>
       <guid isPermaLink="false">18736</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EP - Rastro da Besta Iluminada Qilin | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/18778</link>
+      <description>Garoa na cidade, enquanto uma silhueta some rapidamente sem deixar rastros de um pavilhão majestoso.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220120/2022012015000367115.jpg"><br/><br/>Garoa na cidade, enquanto uma silhueta some rapidamente sem deixar rastros de um pavilhão majestoso.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18778">EP - Rastro da Besta Iluminada Qilin | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18778</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

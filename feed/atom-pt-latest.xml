@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2022-01-22T03:10:42.856954+00:00</updated>
+  <updated>2022-01-22T04:15:07.211571+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16498</id>
-    <title>Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</title>
-    <updated>2021-10-14T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220234495027.jpg"><br/><br/>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16498">Descrição do Modo de Jogo de "Escutando os Sons do Mundo"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16498" rel="alternate"/>
-    <summary>Após os problemas de Inazuma terem terminado, Kazuha retornou para Liyue junto com a Frota Crux. Porém, recentemente, enquanto caminhava entre as montanhas e florestas de Liyue, pediu subitamente que alguém fosse enviado para procurar pelo paradeiro do Viajante. Será que ele encontrou algum problema?</summary>
-    <published>2021-10-14T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>16536</id>
     <title>[Vencedores do Evento Anunciados] Sorteio GenshinImpact</title>
@@ -926,5 +917,14 @@ Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é ho
     <summary>Caro Viajante,
 Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é hora de desenhar!</summary>
     <published>2022-01-18T12:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18778</id>
+    <title>EP - Rastro da Besta Iluminada Qilin | Genshin Impact</title>
+    <updated>2022-01-22T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220120/2022012015000367115.jpg"><br/><br/>Garoa na cidade, enquanto uma silhueta some rapidamente sem deixar rastros de um pavilhão majestoso.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18778">EP - Rastro da Besta Iluminada Qilin | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18778" rel="alternate"/>
+    <summary>Garoa na cidade, enquanto uma silhueta some rapidamente sem deixar rastros de um pavilhão majestoso.</summary>
+    <published>2022-01-22T12:00:00+00:00</published>
   </entry>
 </feed>

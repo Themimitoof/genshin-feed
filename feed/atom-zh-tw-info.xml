@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2022-01-22T03:10:29.657684+00:00</updated>
+  <updated>2022-01-22T04:14:37.161181+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>15962</id>
-    <title>拾枝雜談-「珊瑚宮心海：瀲灩海汐」｜原神</title>
-    <updated>2021-09-21T18:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718313833005.png"><br/><br/>粼粼波光映照著海祇島的風景，也映出心海駐足思慮的身影。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/15962">拾枝雜談-「珊瑚宮心海：瀲灩海汐」｜原神</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/15962" rel="alternate"/>
-    <summary>粼粼波光映照著海祇島的風景，也映出心海駐足思慮的身影。</summary>
-    <published>2021-09-21T18:00:00+08:00</published>
-  </entry>
   <entry>
     <id>16073</id>
     <title>寂遠無妄之國 Realm of Tranquil Eternity | 原神</title>
@@ -915,5 +906,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18713" rel="alternate"/>
     <summary>本專輯由HOYO-MiX音樂團隊製作，將收錄《原神》2.4版本「飛彩鐫流年」中的2首劇情音樂。</summary>
     <published>2022-01-15T14:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18765</id>
+    <title>EP - 仙澤麟行之跡｜原神</title>
+    <updated>2022-01-22T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916271280673.jpg"><br/><br/>城中細雨，高閣長亭，掠影匆匆。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18765">EP - 仙澤麟行之跡｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18765" rel="alternate"/>
+    <summary>城中細雨，高閣長亭，掠影匆匆。</summary>
+    <published>2022-01-22T12:00:00+08:00</published>
   </entry>
 </feed>

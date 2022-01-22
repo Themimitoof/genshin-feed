@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jan 2022 04:14:51 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -596,6 +596,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Mini álbum de Genshin Impact - El rastro del radiante Qilin</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18776</link>
+      <description>En medio de la llovizna, una silueta cruza precipitadamente los altos pabellones de la ciudad.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220120/2022012011054463285.jpg"><br/><br/>En medio de la llovizna, una silueta cruza precipitadamente los altos pabellones de la ciudad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18776">Mini álbum de Genshin Impact - El rastro del radiante Qilin</a>]]></content:encoded>
+      <guid isPermaLink="false">18776</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -910,6 +918,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719072069813.jpg"><br/><br/>Querido/a viajero/a: ¡Ya ha comenzado el concurso de obras de arte de los fans de Ganyu! Prepara tu pincel y participa en el evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18729">Concurso de obras de arte de los fans de Ganyu - ¡Concurso con grandes premios!</a>]]></content:encoded>
       <guid isPermaLink="false">18729</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mini álbum de Genshin Impact - El rastro del radiante Qilin</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18776</link>
+      <description>En medio de la llovizna, una silueta cruza precipitadamente los altos pabellones de la ciudad.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220120/2022012011054463285.jpg"><br/><br/>En medio de la llovizna, una silueta cruza precipitadamente los altos pabellones de la ciudad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18776">Mini álbum de Genshin Impact - El rastro del radiante Qilin</a>]]></content:encoded>
+      <guid isPermaLink="false">18776</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

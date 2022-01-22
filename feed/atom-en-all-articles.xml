@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2022-01-22T03:10:26.481211+00:00</updated>
+  <updated>2022-01-22T04:14:29.749466+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -448,15 +448,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>16174</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
-    <updated>2021-09-26T19:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618335149374.jpg"><br/><br/>Talented musicians from around the world, including Belgium, South Korea, and the United States, will showcase the unique charm of symphonic, pop and a cappella music, respectively, with their renditions of the melodious Genshin Impact soundtrack.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16174">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16174" rel="alternate"/>
-    <summary>Talented musicians from around the world, including Belgium, South Korea, and the United States, will showcase the unique charm of symphonic, pop and a cappella music, respectively, with their renditions of the melodious Genshin Impact soundtrack.</summary>
-    <published>2021-09-26T19:00:00-04:00</published>
   </entry>
   <entry>
     <id>16230</id>
@@ -1429,13 +1420,15 @@ The opera sings about the feats of a heroine, with new lines added to the story,
     <published>2022-01-15T14:00:00-05:00</published>
   </entry>
   <entry>
-    <id>16495</id>
-    <title>"Tuned to the World's Sounds" Gameplay Details</title>
-    <updated>2021-10-14T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220021488819.jpg"><br/><br/>With the end of the incident in Inazuma, Kazuha follows The Crux and returns to Liyue. However, he has suddenly passed a short message along, requesting that his fellow sailors keep an eye out for you. Might he be in some sort of trouble...?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16495">"Tuned to the World's Sounds" Gameplay Details</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16495" rel="alternate"/>
-    <summary>With the end of the incident in Inazuma, Kazuha follows The Crux and returns to Liyue. However, he has suddenly passed a short message along, requesting that his fellow sailors keep an eye out for you. Might he be in some sort of trouble...?</summary>
-    <published>2021-10-14T10:30:00-04:00</published>
+    <id>18763</id>
+    <title>Genshin Impact EP - Trail of the Radiant Qilin</title>
+    <updated>2022-01-22T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916044842563.jpg"><br/><br/>In a grand pavilion, a silhouette passes by in a hurry while it drizzles in the city.
+A boat floats idly on the moonlit waters outside of town, as faint traces of the Qilin could be seen.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18763">Genshin Impact EP - Trail of the Radiant Qilin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18763" rel="alternate"/>
+    <summary>In a grand pavilion, a silhouette passes by in a hurry while it drizzles in the city.
+A boat floats idly on the moonlit waters outside of town, as faint traces of the Qilin could be seen.</summary>
+    <published>2022-01-22T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>16531</id>
@@ -2394,5 +2387,16 @@ The opera sings about the feats of a heroine, with new lines added to the story,
     <link href="https://genshin.mihoyo.com/en/news/detail/18728" rel="alternate"/>
     <summary>Ganyu's Fan Art Contest has begun! Get your drawing tools ready, and come participate~</summary>
     <published>2022-01-18T12:10:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18763</id>
+    <title>Genshin Impact EP - Trail of the Radiant Qilin</title>
+    <updated>2022-01-22T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916044842563.jpg"><br/><br/>In a grand pavilion, a silhouette passes by in a hurry while it drizzles in the city.
+A boat floats idly on the moonlit waters outside of town, as faint traces of the Qilin could be seen.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18763">Genshin Impact EP - Trail of the Radiant Qilin</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18763" rel="alternate"/>
+    <summary>In a grand pavilion, a silhouette passes by in a hurry while it drizzles in the city.
+A boat floats idly on the moonlit waters outside of town, as faint traces of the Qilin could be seen.</summary>
+    <published>2022-01-22T12:00:00-05:00</published>
   </entry>
 </feed>

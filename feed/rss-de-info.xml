@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:32 +0000</lastBuildDate>
-    <item>
-      <title>Fähigkeiten bei Genshin Impact – Sangonomiya Kokomi: Heimliche Gezeiten</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/15964</link>
-      <description>Die funkelnden Wellen spiegeln die Landschaft von Watatsumi wider, wie auch den Geist des Meeres.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718402241083.png"><br/><br/>Die funkelnden Wellen spiegeln die Landschaft von Watatsumi wider, wie auch den Geist des Meeres.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/15964">Fähigkeiten bei Genshin Impact – Sangonomiya Kokomi: Heimliche Gezeiten</a>]]></content:encoded>
-      <guid isPermaLink="false">15964</guid>
-      <pubDate>Tue, 21 Sep 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:14:42 +0000</lastBuildDate>
     <item>
       <title>Realm of Tranquil Eternity | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16083</link>
@@ -858,6 +850,14 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419373492537.jpg"><br/><br/>Dieses Album wurde von HOYO-MiX produziert und enthält die beiden Handlungsmusikstücke aus Version 2.4 „Flüchtige Farben im Flug“.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18717">Minialbum „Fleeting Colors in Flight“ mit Originalmusik aus dem Spiel erscheint offiziell online</a>]]></content:encoded>
       <guid isPermaLink="false">18717</guid>
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Minialbum von Genshin Impact – Trail of the Radiant Qilin</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18761</link>
+      <description>In einer langen Halle eines hohen Turms eilt eine Gestalt vorbei, während es in der Stadt nieselt.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011915361373586.jpg"><br/><br/>In einer langen Halle eines hohen Turms eilt eine Gestalt vorbei, während es in der Stadt nieselt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18761">Minialbum von Genshin Impact – Trail of the Radiant Qilin</a>]]></content:encoded>
+      <guid isPermaLink="false">18761</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

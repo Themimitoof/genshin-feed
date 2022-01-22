@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:22 +0000</lastBuildDate>
-    <item>
-      <title>"Tuned to the World's Sounds" Gameplay Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16495</link>
-      <description>With the end of the incident in Inazuma, Kazuha follows The Crux and returns to Liyue. However, he has suddenly passed a short message along, requesting that his fellow sailors keep an eye out for you. Might he be in some sort of trouble...?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220021488819.jpg"><br/><br/>With the end of the incident in Inazuma, Kazuha follows The Crux and returns to Liyue. However, he has suddenly passed a short message along, requesting that his fellow sailors keep an eye out for you. Might he be in some sort of trouble...?<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16495">"Tuned to the World's Sounds" Gameplay Details</a>]]></content:encoded>
-      <guid isPermaLink="false">16495</guid>
-      <pubDate>Thu, 14 Oct 2021 10:30:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:14:23 +0000</lastBuildDate>
     <item>
       <title>[Event Result Announcement] Genshin Impact Raffle Event</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16531</link>
@@ -873,6 +865,16 @@ The opera sings about the feats of a heroine, with new lines added to the story,
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719055315952.jpg"><br/><br/>Ganyu's Fan Art Contest has begun! Get your drawing tools ready, and come participate~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18728">Prize Giveaway: "Plenilune Gaze" Ganyu Fan Art Contest</a>]]></content:encoded>
       <guid isPermaLink="false">18728</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact EP - Trail of the Radiant Qilin</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18763</link>
+      <description>In a grand pavilion, a silhouette passes by in a hurry while it drizzles in the city.
+A boat floats idly on the moonlit waters outside of town, as faint traces of the Qilin could be seen.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916044842563.jpg"><br/><br/>In a grand pavilion, a silhouette passes by in a hurry while it drizzles in the city.
+A boat floats idly on the moonlit waters outside of town, as faint traces of the Qilin could be seen.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18763">Genshin Impact EP - Trail of the Radiant Qilin</a>]]></content:encoded>
+      <guid isPermaLink="false">18763</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

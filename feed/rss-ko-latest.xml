@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:40 +0000</lastBuildDate>
-    <item>
-      <title>「안개의 미궁 속으로」 2.2 버전 업데이트 상세안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16501</link>
-      <description>2.2 버전 업데이트 안내</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220561699589.jpg"><br/><br/>2.2 버전 업데이트 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16501">「안개의 미궁 속으로」 2.2 버전 업데이트 상세안내</a>]]></content:encoded>
-      <guid isPermaLink="false">16501</guid>
-      <pubDate>Wed, 13 Oct 2021 07:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:15:02 +0000</lastBuildDate>
     <item>
       <title>[에일로이 탐색 일지] 웹이벤트 오픈. 에일로이와 함께 티바트 대륙을 탐사하고 보상을 받으세요!</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16513</link>
@@ -811,6 +803,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719075077133.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18730">[보상 이벤트] 「리월의 수호자」 감우 팬아트 공모전</a>]]></description>
       <guid isPermaLink="false">18730</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 눈부신 기린의 행적</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18806</link>
+      <description>도시에 내리는 가랑비, 높은 누각, 그곳에 총총히 비치는 그림자</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220122/2022012212073014325.jpg"><br/><br/>도시에 내리는 가랑비, 높은 누각, 그곳에 총총히 비치는 그림자<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18806"><원신> EP - 눈부신 기린의 행적</a>]]></content:encoded>
+      <guid isPermaLink="false">18806</guid>
+      <pubDate>Sat, 22 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

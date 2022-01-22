@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:29 +0000</lastBuildDate>
-    <item>
-      <title>預先下載功能已開放</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16364</link>
-      <description>預先下載功能現已在PC版本和行動裝置版本開啟。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101021580990029.jpg"><br/><br/>預先下載功能現已在PC版本和行動裝置版本開啟。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16364">預先下載功能已開放</a>]]></content:encoded>
-      <guid isPermaLink="false">16364</guid>
-      <pubDate>Mon, 11 Oct 2021 11:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:14:35 +0000</lastBuildDate>
     <item>
       <title>「邀約事件 · 第三輯」傳說任務說明</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16374</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011720244478225.jpg"><br/><br/>甘雨同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18740">【有獎活動】「循循守月」甘雨同人繪畫徵集活動</a>]]></content:encoded>
       <guid isPermaLink="false">18740</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>EP - 仙澤麟行之跡｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18765</link>
+      <description>城中細雨，高閣長亭，掠影匆匆。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916271280673.jpg"><br/><br/>城中細雨，高閣長亭，掠影匆匆。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18765">EP - 仙澤麟行之跡｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">18765</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

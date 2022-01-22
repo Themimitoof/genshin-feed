@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2022-01-22T03:10:45.334201+00:00</updated>
+  <updated>2022-01-22T04:15:12.258581+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>16460</id>
-    <title>«Вольный гость» | Мини-альбом Genshin Impact</title>
-    <updated>2021-10-13T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216291541677.jpg"><br/><br/>Прогуливаясь по улочкам, над которыми кружились лепестки сакуры, юный воин ощутил странную задумчивость.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16460">«Вольный гость» | Мини-альбом Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16460" rel="alternate"/>
-    <summary>Прогуливаясь по улочкам, над которыми кружились лепестки сакуры, юный воин ощутил странную задумчивость.</summary>
-    <published>2021-10-13T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>16478</id>
     <title>Браузерное событие «Дневник исследований Элой» стартовало! Исследуйте Тейват вместе с Элой и получайте награды!</title>
@@ -927,5 +918,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18744" rel="alternate"/>
     <summary>Конкурс фан-арта Гань Юй объявляется открытым! Приготовьте всё, что нужно для рисования, и примите участие!</summary>
     <published>2022-01-18T12:10:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18759</id>
+    <title>«След сияющего цилиня» | Мини-альбом Genshin Impact</title>
+    <updated>2022-01-22T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011915312283913.jpg"><br/><br/>Город накрыл мелкий дождь, а внутри павильона мелькает быстрая тень.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18759">«След сияющего цилиня» | Мини-альбом Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18759" rel="alternate"/>
+    <summary>Город накрыл мелкий дождь, а внутри павильона мелькает быстрая тень.</summary>
+    <published>2022-01-22T12:00:00+03:00</published>
   </entry>
 </feed>

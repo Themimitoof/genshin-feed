@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:40 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 여행자의 깊은 생각 - 이나즈마 음악 비하인드</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16159</link>
-      <description>&lt;원신&gt; 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416535331543.png"><br/><br/><원신> 이나즈마 음악은 Yu-Peng Chen@HOYO-MiX가 작곡하고 일본 도쿄 필 하모닉 오케스트라와 일본 최고의 민속 음악 연주자들과 함께 녹음했으며, HOYO-MiX팀과 Sony Music Entertainment (Japan) Inc가 공동 제작했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16159"><원신> 여행자의 깊은 생각 - 이나즈마 음악 비하인드</a>]]></content:encoded>
-      <guid isPermaLink="false">16159</guid>
-      <pubDate>Fri, 24 Sep 2021 18:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:15:03 +0000</lastBuildDate>
     <item>
       <title>「달빛 속 광경」 콘텐츠 안내</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16161</link>
@@ -816,6 +808,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719075077133.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18730">[보상 이벤트] 「리월의 수호자」 감우 팬아트 공모전</a>]]></description>
       <guid isPermaLink="false">18730</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; EP - 눈부신 기린의 행적</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18806</link>
+      <description>도시에 내리는 가랑비, 높은 누각, 그곳에 총총히 비치는 그림자</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220122/2022012212073014325.jpg"><br/><br/>도시에 내리는 가랑비, 높은 누각, 그곳에 총총히 비치는 그림자<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18806"><원신> EP - 눈부신 기린의 행적</a>]]></content:encoded>
+      <guid isPermaLink="false">18806</guid>
+      <pubDate>Sat, 22 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

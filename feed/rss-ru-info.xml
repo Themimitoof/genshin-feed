@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 22 Jan 2022 03:10:45 +0000</lastBuildDate>
-    <item>
-      <title>Сангономия Кокоми: Рябь на волнах | Коллекция Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/15947</link>
-      <description>В сверкающих волнах отражался пейзаж Ватацуми и силуэт задумавшейся Кокоми.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091716452346252.png"><br/><br/>В сверкающих волнах отражался пейзаж Ватацуми и силуэт задумавшейся Кокоми.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/15947">Сангономия Кокоми: Рябь на волнах | Коллекция Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">15947</guid>
-      <pubDate>Tue, 21 Sep 2021 18:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sat, 22 Jan 2022 04:15:13 +0000</lastBuildDate>
     <item>
       <title>Realm of Tranquil Eternity | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16091</link>
@@ -825,6 +817,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220114/2022011419422176798.jpg"><br/><br/>В него входит два трека сюжетного музыкального сопровождения из версии Genshin Impact 2.4 «Краски мимолётности», написанные командой HOYO-MiX.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18721">Мини-альбом Genshin Impact «Fleeting Colors in Flight» уже доступен!</a>]]></content:encoded>
       <guid isPermaLink="false">18721</guid>
       <pubDate>Sat, 15 Jan 2022 14:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«След сияющего цилиня» | Мини-альбом Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18759</link>
+      <description>Город накрыл мелкий дождь, а внутри павильона мелькает быстрая тень.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011915312283913.jpg"><br/><br/>Город накрыл мелкий дождь, а внутри павильона мелькает быстрая тень.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18759">«След сияющего цилиня» | Мини-альбом Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18759</guid>
+      <pubDate>Sat, 22 Jan 2022 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

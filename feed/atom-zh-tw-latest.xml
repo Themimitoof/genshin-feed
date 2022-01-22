@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2022-01-22T03:10:29.042394+00:00</updated>
+  <updated>2022-01-22T04:14:35.563033+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>16364</id>
-    <title>預先下載功能已開放</title>
-    <updated>2021-10-11T11:00:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211010/2021101021580990029.jpg"><br/><br/>預先下載功能現已在PC版本和行動裝置版本開啟。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16364">預先下載功能已開放</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16364" rel="alternate"/>
-    <summary>預先下載功能現已在PC版本和行動裝置版本開啟。</summary>
-    <published>2021-10-11T11:00:00+08:00</published>
-  </entry>
   <entry>
     <id>16374</id>
     <title>「邀約事件 · 第三輯」傳說任務說明</title>
@@ -914,5 +905,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18740" rel="alternate"/>
     <summary>甘雨同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~</summary>
     <published>2022-01-18T12:10:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18765</id>
+    <title>EP - 仙澤麟行之跡｜原神</title>
+    <updated>2022-01-22T12:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916271280673.jpg"><br/><br/>城中細雨，高閣長亭，掠影匆匆。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18765">EP - 仙澤麟行之跡｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18765" rel="alternate"/>
+    <summary>城中細雨，高閣長亭，掠影匆匆。</summary>
+    <published>2022-01-22T12:00:00+08:00</published>
   </entry>
 </feed>
