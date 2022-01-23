@@ -2,6 +2,8 @@
 date: 2021-08-20T18:45:03+02:00
 ---
 
+# Welcome to Genshin Feed!
+
 Hello and welcome to Genshin feed! You will find on this page all RSS and Atom feeds for
 each langage and categories of the official news and announcements of Genshin Impact. All feeds are
 automatically generated every hour and contain all news and announcements from the beginning of
@@ -29,8 +31,13 @@ If you are a developer or simply curious about how this project works, the proje
 [GitHub](https://github.com/themimitoof/genshin-feed) and published under the MIT license. This
 means that you can reuse, adapt and contribute to the project!
 
-
 ## Available feeds
 
 Here is the list of available feeds by language and category. If you are interested by the feed that
 combine all categories, choose the feed *All articles*.
+
+{{< feed-table >}}
+
+## Disclosure
+
+Genshin Feed is not affiliated with/or endorsed by miHoYo Co., Ltd. Genshin Impact is a trademark and a game owned by miHoYo Co., Ltd. The content in all generated feeds are the property of miHoYo Co., Ltd. All other trademarks mentioned are the property of their respective owners.

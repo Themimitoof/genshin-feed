@@ -1,0 +1,49 @@
+<div class="feeds">
+  <div class="language-selector">
+    <select name="language" id="language-selector">
+      <option value="all">🌐 All languages</option>
+      {{ range $lang, $langContent:= (index $.Site.Data "last-updates") }}
+        <option value="{{ $lang }}">{{ $langContent.emoji }} {{ $langContent.lang_label }}</option>
+      {{ end }}
+    </select>
+  </div>
+
+  <table class="feeds-table">
+    <thead>
+      <tr>
+        <th class="py-4 border border-gray-400 text-center">Category</th>
+        <th class="py-4 border border-gray-400 text-center">Feeds</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $lang, $langContent:= (index $.Site.Data "last-updates") }}
+        <tr lang="{{ $lang }}">
+          <td class="lang" colspan="2">{{ $langContent.emoji }} {{ $langContent.lang_label }}</td>
+        </tr>
+
+        {{range $category, $feeds := $langContent.feeds}}
+        <tr lang="{{ $lang }}">
+          <td class="border border-gray-400 text-center">
+            {{ $category | humanize }}
+          </td>
+          <td class="border border-gray-400 text-center">
+            <ul>
+              {{ range $key, $feed := $feeds }}
+              <li class="my-4">
+                <a
+                  class="text-blue-500 hover:underline"
+                  href="{{ trim $.Site.BaseURL "/" }}/feed/{{ $feed.type}}-{{ $lang }}-{{ $category }}.xml"
+                  target="_blank"
+                >
+                  {{ if eq $feed.type "rss"}} {{ $feed.type | upper }} {{ else }} {{
+                  $feed.type | humanize }} {{ end }}
+                </a>
+              </li>
+              {{ end }}
+            </ul>
+          </td>
+          {{ end }} {{ end }}
+        </tr>
+    </tbody>
+  </table>
+</div>
