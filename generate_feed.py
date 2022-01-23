@@ -13,7 +13,21 @@ from feedgen.feed import FeedGenerator
 
 GENSHIN_DEFAULT_AUTHOR = "Genshin Impact communication team"
 GENSHIN_NEWS_LINK = "https://genshin.mihoyo.com/%s/news"
-
+COUNTRY_EMOJIS = {
+    "en": "🇺🇸",
+    "fr": "🇫🇷",
+    "zh": "🇨🇳",
+    "de": "🇩🇪",
+    "es": "🇪🇸",
+    "id": "🇮🇩",
+    "ja": "🇯🇵",
+    "ko": "🇰🇷",
+    "pt": "🇵🇹",
+    "ru": "🇷🇺",
+    "th": "🇹🇭",
+    "vi": "🇻🇳",
+    "default": "🌐",
+}
 
 def generate_feed(category: str, lang: str) -> FeedGenerator:
     """
@@ -26,6 +40,8 @@ def generate_feed(category: str, lang: str) -> FeedGenerator:
     feed.author({"name": GENSHIN_DEFAULT_AUTHOR})
     feed.link({"href": GENSHIN_NEWS_LINK % lang, "rel": "self"})
     feed.generator("Genshin-feed: https://github.com/themimitoof/genshin-feed")
+    feed.icon(icon="https://genshin.mihoyo.com/favicon.ico")
+    feed.image(url="https://genshin.mihoyo.com/favicon.ico")
     feed.language(lang)
     feed.description("%s feed of Genshin Impact in %s" % (category, lang))
 
@@ -142,6 +158,7 @@ def update_manifest(type_: str, lang: str, category: str) -> None:
             manifest = {
                 lang: {
                     "lang_label": language.name,
+                    "emoji": COUNTRY_EMOJIS.get(locale, COUNTRY_EMOJIS["default"]),
                     "feeds": {
                         category: [{"type": type_, "updated_at": date_now}],
                     },
@@ -158,6 +175,7 @@ def update_manifest(type_: str, lang: str, category: str) -> None:
                 language = pycountry.languages.get(alpha_2=locale)
                 manifest[lang] = {
                     "lang_label": language.name,
+                    "emoji": COUNTRY_EMOJIS.get(locale, COUNTRY_EMOJIS["default"]),
                     "feeds": {},
                 }
 
