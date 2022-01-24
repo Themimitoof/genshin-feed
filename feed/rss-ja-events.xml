@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Jan 2022 01:59:25 +0000</lastBuildDate>
-    <item>
-      <title>「風花の招待」イベント予告</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9383</link>
-      <description>イベント・「風花の招待」：限定武器「弓・風花の頌歌」を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210316/2021031619234826410.jpg"><br/><br/>イベント・「風花の招待」：限定武器「弓・風花の頌歌」を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9383">「風花の招待」イベント予告</a>]]></content:encoded>
-      <guid isPermaLink="false">9383</guid>
-      <pubDate>Wed, 17 Mar 2021 12:15:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jan 2022 02:33:37 +0000</lastBuildDate>
     <item>
       <title>「風花の招待」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9430</link>
@@ -724,6 +716,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220118/2022011811024963463.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18748">「循々守月」甘雨イラスト募集コンテスト</a>]]></description>
       <guid isPermaLink="false">18748</guid>
       <pubDate>Tue, 18 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「華々しき流年」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18791</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012111014185603.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18791">「華々しき流年」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">18791</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

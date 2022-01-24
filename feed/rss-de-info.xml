@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 24 Jan 2022 01:59:24 +0000</lastBuildDate>
-    <item>
-      <title>Realm of Tranquil Eternity | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16083</link>
-      <description>Die Musik zu Inazuma von Genshin Impact „Realm of Tranquil Eternity“ ist offiziell online.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018173394770.jpg"><br/><br/>Die Musik zu Inazuma von Genshin Impact „Realm of Tranquil Eternity“ ist offiziell online.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16083">Realm of Tranquil Eternity | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16083</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jan 2022 02:33:24 +0000</lastBuildDate>
     <item>
       <title>Gedanken der Reisenden – Hinter den Kulissen der Spielmusik zu Inazuma von Genshin Impact</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16149</link>
@@ -858,6 +850,14 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011915361373586.jpg"><br/><br/>In einer langen Halle eines hohen Turms eilt eine Gestalt vorbei, während es in der Stadt nieselt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18761">Minialbum von Genshin Impact – Trail of the Radiant Qilin</a>]]></content:encoded>
       <guid isPermaLink="false">18761</guid>
       <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Flüchtige Farben im Flug“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18797</link>
+      <description>Die neue Aktion „Flüchtige Farben im Flug“ wird bald verfügbar sein!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012115041175016.jpg"><br/><br/>Die neue Aktion „Flüchtige Farben im Flug“ wird bald verfügbar sein!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18797">Erläuterungen zur Spielweise von „Flüchtige Farben im Flug“</a>]]></content:encoded>
+      <guid isPermaLink="false">18797</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

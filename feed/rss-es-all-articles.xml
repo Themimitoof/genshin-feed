@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 24 Jan 2022 01:59:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2022 02:33:30 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -604,6 +604,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Detalles del evento «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18795</link>
+      <description>¡El nuevo evento «Iridiscencia fugaz» estará disponible próximamente!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012114540740294.jpg"><br/><br/>¡El nuevo evento «Iridiscencia fugaz» estará disponible próximamente!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18795">Detalles del evento «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">18795</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -926,6 +934,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220120/2022012011054463285.jpg"><br/><br/>En medio de la llovizna, una silueta cruza precipitadamente los altos pabellones de la ciudad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18776">Mini álbum de Genshin Impact - El rastro del radiante Qilin</a>]]></content:encoded>
       <guid isPermaLink="false">18776</guid>
       <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Detalles del evento «Iridiscencia fugaz»</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/18795</link>
+      <description>¡El nuevo evento «Iridiscencia fugaz» estará disponible próximamente!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012114540740294.jpg"><br/><br/>¡El nuevo evento «Iridiscencia fugaz» estará disponible próximamente!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18795">Detalles del evento «Iridiscencia fugaz»</a>]]></content:encoded>
+      <guid isPermaLink="false">18795</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

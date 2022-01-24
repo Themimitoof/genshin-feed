@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-24T01:59:25.203114+00:00</updated>
+  <updated>2022-01-24T02:33:34.521714+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -636,6 +636,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-22T12:00:00+07:00</published>
   </entry>
   <entry>
+    <id>18800</id>
+    <title>Penjelasan Gameplay "Sekilas Rona di Angkasa"</title>
+    <updated>2022-01-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012116160833482.jpg"><br/><br/>Event Baru "Sekilas Rona di Angkasa" Segera Hadir!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18800">Penjelasan Gameplay "Sekilas Rona di Angkasa"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18800" rel="alternate"/>
+    <summary>Event Baru "Sekilas Rona di Angkasa" Segera Hadir!</summary>
+    <published>2022-01-24T10:30:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -886,5 +895,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18773" rel="alternate"/>
     <summary>Rintik hujan di tengah kota, di sebuah paviliun tinggi nan megah, terlihat sosok seseorang yang tergesa-gesa.</summary>
     <published>2022-01-22T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18800</id>
+    <title>Penjelasan Gameplay "Sekilas Rona di Angkasa"</title>
+    <updated>2022-01-24T10:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012116160833482.jpg"><br/><br/>Event Baru "Sekilas Rona di Angkasa" Segera Hadir!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18800">Penjelasan Gameplay "Sekilas Rona di Angkasa"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18800" rel="alternate"/>
+    <summary>Event Baru "Sekilas Rona di Angkasa" Segera Hadir!</summary>
+    <published>2022-01-24T10:30:00+07:00</published>
   </entry>
 </feed>

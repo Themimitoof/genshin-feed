@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 24 Jan 2022 01:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2022 02:33:18 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -340,13 +340,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16042</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210918/2021091819433425698.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16042">Gensin Impact - Aperçu des récompenses des événements d'anniversaire de la communauté</a>]]></description>
-      <guid isPermaLink="false">16042</guid>
-      <pubDate>Mon, 20 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Genshin Impact : « Duel in the Mist » - Clip de la bande originale des combats à Inazuma</title>
@@ -1064,11 +1057,11 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Vœux « Adieux au Nord » : tentez d'obtenir Tartaglia · Jeune Sire (Hydro) !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16425</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111224567595.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16425">Vœux « Adieux au Nord » : tentez d'obtenir Tartaglia · Jeune Sire (Hydro) !</a>]]></description>
-      <guid isPermaLink="false">16425</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0200</pubDate>
+      <title>Détails de l'événement « Couleurs éphémères en vol »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18801</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012117184323473.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18801">Détails de l'événement « Couleurs éphémères en vol »</a>]]></description>
+      <guid isPermaLink="false">18801</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Vœux « Incarnation divine » : taux d'obtention boosté pour Étoile polaire (Arc) et Chaînes mortelles (Catalyseur) !</title>
@@ -1788,6 +1781,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011916290470433.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18767">« Genshin Impact », la bande-son : Sur les traces du Qilin rayonnant</a>]]></description>
       <guid isPermaLink="false">18767</guid>
       <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails de l'événement « Couleurs éphémères en vol »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18801</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012117184323473.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18801">Détails de l'événement « Couleurs éphémères en vol »</a>]]></description>
+      <guid isPermaLink="false">18801</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

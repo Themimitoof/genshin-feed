@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jan 2022 01:59:22 +0000</lastBuildDate>
-    <item>
-      <title>[Event Result Announcement] Genshin Impact Raffle Event</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16531</link>
-      <description>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415130920097.jpg"><br/><br/>Thank you very much for taking part in the Genshin Impact Raffle Event. Congratulations to the lucky winners! Hurry up and check out the list of winners, because the brightest star might be you ～(•̀ᴗ•́)و ̑̑<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16531">[Event Result Announcement] Genshin Impact Raffle Event</a>]]></content:encoded>
-      <guid isPermaLink="false">16531</guid>
-      <pubDate>Thu, 14 Oct 2021 18:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jan 2022 02:33:09 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16544</link>
@@ -875,6 +867,14 @@ A boat floats idly on the moonlit waters outside of town, as faint traces of the
 A boat floats idly on the moonlit waters outside of town, as faint traces of the Qilin could be seen.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18763">Genshin Impact EP - Trail of the Radiant Qilin</a>]]></content:encoded>
       <guid isPermaLink="false">18763</guid>
       <pubDate>Sat, 22 Jan 2022 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>"Fleeting Colors in Flight" Gameplay Details</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18793</link>
+      <description>Look, people are hanging the lights up and breaking out their instruments! It's a new year, and Liyue Harbor is bustling with preparations for the grand celebration of the Lantern Rite Festival...</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012114481551863.jpg"><br/><br/>Look, people are hanging the lights up and breaking out their instruments! It's a new year, and Liyue Harbor is bustling with preparations for the grand celebration of the Lantern Rite Festival...<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18793">"Fleeting Colors in Flight" Gameplay Details</a>]]></content:encoded>
+      <guid isPermaLink="false">18793</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

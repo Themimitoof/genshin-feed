@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 24 Jan 2022 01:59:26 +0000</lastBuildDate>
-    <item>
-      <title>Браузерное событие «Дневник исследований Элой» стартовало! Исследуйте Тейват вместе с Элой и получайте награды!</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16478</link>
-      <description>Какие приключения ожидают Элой, спасительницу другого мира, когда она ступит на земли Тейвата?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217530475054.jpg"><br/><br/>Какие приключения ожидают Элой, спасительницу другого мира, когда она ступит на земли Тейвата?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16478">Браузерное событие «Дневник исследований Элой» стартовало! Исследуйте Тейват вместе с Элой и получайте награды!</a>]]></content:encoded>
-      <guid isPermaLink="false">16478</guid>
-      <pubDate>Wed, 13 Oct 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jan 2022 02:33:46 +0000</lastBuildDate>
     <item>
       <title>Правила события «Слушая звуки мира»</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16527</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011915312283913.jpg"><br/><br/>Город накрыл мелкий дождь, а внутри павильона мелькает быстрая тень.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18759">«След сияющего цилиня» | Мини-альбом Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18759</guid>
       <pubDate>Sat, 22 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Игровой процесс «Краски мимолётности»</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18799</link>
+      <description>Событие «Краски мимолётности» скоро начнётся!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012115153855364.jpg"><br/><br/>Событие «Краски мимолётности» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18799">Игровой процесс «Краски мимолётности»</a>]]></content:encoded>
+      <guid isPermaLink="false">18799</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

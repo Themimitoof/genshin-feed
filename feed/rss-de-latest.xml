@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 24 Jan 2022 01:59:24 +0000</lastBuildDate>
-    <item>
-      <title>Erläuterungen zum Legendenauftrag „Einladungsereignis – Reihe 3“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16394</link>
-      <description>Sobald du die entsprechende Abenteuerstufe erreicht und die erforderlichen Aufträge ausgeführt hast, kannst du mithilfe von „Legendenschlüsseln“ jeweils die Einladungsereignisse von Sayu und Thoma freischalten.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110405351338.jpg"><br/><br/>Sobald du die entsprechende Abenteuerstufe erreicht und die erforderlichen Aufträge ausgeführt hast, kannst du mithilfe von „Legendenschlüsseln“ jeweils die Einladungsereignisse von Sayu und Thoma freischalten.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16394">Erläuterungen zum Legendenauftrag „Einladungsereignis – Reihe 3“</a>]]></content:encoded>
-      <guid isPermaLink="false">16394</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jan 2022 02:33:23 +0000</lastBuildDate>
     <item>
       <title>Gebet „Lebe wohl, winterliche Stadt“: Höhere Wahrscheinlichkeit für „Der Graf – Tartaglia (Hydro)“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16395</link>
@@ -868,6 +860,14 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220119/2022011915361373586.jpg"><br/><br/>In einer langen Halle eines hohen Turms eilt eine Gestalt vorbei, während es in der Stadt nieselt.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18761">Minialbum von Genshin Impact – Trail of the Radiant Qilin</a>]]></content:encoded>
       <guid isPermaLink="false">18761</guid>
       <pubDate>Sat, 22 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Erläuterungen zur Spielweise von „Flüchtige Farben im Flug“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18797</link>
+      <description>Die neue Aktion „Flüchtige Farben im Flug“ wird bald verfügbar sein!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012115041175016.jpg"><br/><br/>Die neue Aktion „Flüchtige Farben im Flug“ wird bald verfügbar sein!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18797">Erläuterungen zur Spielweise von „Flüchtige Farben im Flug“</a>]]></content:encoded>
+      <guid isPermaLink="false">18797</guid>
+      <pubDate>Mon, 24 Jan 2022 10:30:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

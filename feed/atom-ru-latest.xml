@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2022-01-24T01:59:26.151282+00:00</updated>
+  <updated>2022-01-24T02:33:46.357681+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>16478</id>
-    <title>Браузерное событие «Дневник исследований Элой» стартовало! Исследуйте Тейват вместе с Элой и получайте награды!</title>
-    <updated>2021-10-13T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217530475054.jpg"><br/><br/>Какие приключения ожидают Элой, спасительницу другого мира, когда она ступит на земли Тейвата?<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16478">Браузерное событие «Дневник исследований Элой» стартовало! Исследуйте Тейват вместе с Элой и получайте награды!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16478" rel="alternate"/>
-    <summary>Какие приключения ожидают Элой, спасительницу другого мира, когда она ступит на земли Тейвата?</summary>
-    <published>2021-10-13T12:00:00+03:00</published>
-  </entry>
   <entry>
     <id>16527</id>
     <title>Правила события «Слушая звуки мира»</title>
@@ -927,5 +918,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18759" rel="alternate"/>
     <summary>Город накрыл мелкий дождь, а внутри павильона мелькает быстрая тень.</summary>
     <published>2022-01-22T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18799</id>
+    <title>Игровой процесс «Краски мимолётности»</title>
+    <updated>2022-01-24T10:30:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012115153855364.jpg"><br/><br/>Событие «Краски мимолётности» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18799">Игровой процесс «Краски мимолётности»</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18799" rel="alternate"/>
+    <summary>Событие «Краски мимолётности» скоро начнётся!</summary>
+    <published>2022-01-24T10:30:00+03:00</published>
   </entry>
 </feed>
