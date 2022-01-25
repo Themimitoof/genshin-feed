@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2022-01-25T03:11:32.693504+00:00</updated>
+  <updated>2022-01-25T04:13:08.891560+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16149</id>
-    <title>Gedanken der Reisenden – Hinter den Kulissen der Spielmusik zu Inazuma von Genshin Impact</title>
-    <updated>2021-09-24T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416031027698.png"><br/><br/>Dieses Video gewährt euch einen Einblick in die künstlerische Philosophie hinter der Originalmusik zu Inazuma und dokumentiert die anderthalbmonatige kultur- und sprachübergreifende Zusammenarbeit zwischen dem chinesischen und dem japanischen Team.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16149">Gedanken der Reisenden – Hinter den Kulissen der Spielmusik zu Inazuma von Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16149" rel="alternate"/>
-    <summary>Dieses Video gewährt euch einen Einblick in die künstlerische Philosophie hinter der Originalmusik zu Inazuma und dokumentiert die anderthalbmonatige kultur- und sprachübergreifende Zusammenarbeit zwischen dem chinesischen und dem japanischen Team.</summary>
-    <published>2021-09-24T18:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16135</id>
     <title>Erläuterungen zur Spielweise von „Mondlichtfreude“</title>
@@ -959,5 +950,14 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
     <link href="https://genshin.mihoyo.com/de/news/detail/18797" rel="alternate"/>
     <summary>Die neue Aktion „Flüchtige Farben im Flug“ wird bald verfügbar sein!</summary>
     <published>2022-01-24T10:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18830</id>
+    <title>Minialbum von Genshin Impact – The Joys of Leisure and Pleasure</title>
+    <updated>2022-01-25T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012423062356470.jpg"><br/><br/>Eine uralte Stadt, in der Tag und bei Nacht geschäftiges Treiben herrscht.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18830">Minialbum von Genshin Impact – The Joys of Leisure and Pleasure</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18830" rel="alternate"/>
+    <summary>Eine uralte Stadt, in der Tag und bei Nacht geschäftiges Treiben herrscht.</summary>
+    <published>2022-01-25T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 25 Jan 2022 03:11:39 +0000</lastBuildDate>
-    <item>
-      <title>원신 콘서트 2021 - Melodies of an Endless Journey (티저 3)</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16179</link>
-      <description>﻿한국, 미국, 벨기에 등 세계 각국의 실력파 뮤지션들이 클래식 교향곡, 팝송, 아카펠라의 형식으로 &lt;원신&gt;의 감미롭고 선율적인 BGM을 재해석해 특유의 매력을 선보일 예정입니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618350530240.jpg"><br/><br/>﻿한국, 미국, 벨기에 등 세계 각국의 실력파 뮤지션들이 클래식 교향곡, 팝송, 아카펠라의 형식으로 <원신>의 감미롭고 선율적인 BGM을 재해석해 특유의 매력을 선보일 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16179">원신 콘서트 2021 - Melodies of an Endless Journey (티저 3)</a>]]></content:encoded>
-      <guid isPermaLink="false">16179</guid>
-      <pubDate>Sun, 26 Sep 2021 19:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jan 2022 04:13:34 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 홍보 영상 - 머나먼 여정의 동행</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16217</link>
@@ -816,6 +808,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220122/2022012221531353952.jpg"><br/><br/>신규 이벤트 「화려히 수놓인 유년」 오픈 예정!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18807">「화려히 수놓인 유년」 콘텐츠 안내</a>]]></content:encoded>
       <guid isPermaLink="false">18807</guid>
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 EP - 한적한 정취의 즐거움</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/18826</link>
+      <description>고성은 밤낮으로 번성하고, 잔 속의 보름달은 봄과 가을을 비추며 꿈에 잠긴다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419351610484.jpg"><br/><br/>고성은 밤낮으로 번성하고, 잔 속의 보름달은 봄과 가을을 비추며 꿈에 잠긴다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18826">원신 EP - 한적한 정취의 즐거움</a>]]></content:encoded>
+      <guid isPermaLink="false">18826</guid>
+      <pubDate>Tue, 25 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

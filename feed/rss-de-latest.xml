@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 25 Jan 2022 03:11:32 +0000</lastBuildDate>
-    <item>
-      <title>Gebet „Lebe wohl, winterliche Stadt“: Höhere Wahrscheinlichkeit für „Der Graf – Tartaglia (Hydro)“!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16395</link>
-      <description>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110420662838.jpg"><br/><br/>Während des Aktionszeitraums kannst du beim Aktionsgebet viele Figuren und Waffen erhalten, um eine starke Truppe zusammenzustellen!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16395">Gebet „Lebe wohl, winterliche Stadt“: Höhere Wahrscheinlichkeit für „Der Graf – Tartaglia (Hydro)“!</a>]]></content:encoded>
-      <guid isPermaLink="false">16395</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jan 2022 04:13:07 +0000</lastBuildDate>
     <item>
       <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Polarstern“ und „Katalysator – Ketten des Diesseits“!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16396</link>
@@ -868,6 +860,14 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012115041175016.jpg"><br/><br/>Die neue Aktion „Flüchtige Farben im Flug“ wird bald verfügbar sein!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18797">Erläuterungen zur Spielweise von „Flüchtige Farben im Flug“</a>]]></content:encoded>
       <guid isPermaLink="false">18797</guid>
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Minialbum von Genshin Impact – The Joys of Leisure and Pleasure</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18830</link>
+      <description>Eine uralte Stadt, in der Tag und bei Nacht geschäftiges Treiben herrscht.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012423062356470.jpg"><br/><br/>Eine uralte Stadt, in der Tag und bei Nacht geschäftiges Treiben herrscht.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18830">Minialbum von Genshin Impact – The Joys of Leisure and Pleasure</a>]]></content:encoded>
+      <guid isPermaLink="false">18830</guid>
+      <pubDate>Tue, 25 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

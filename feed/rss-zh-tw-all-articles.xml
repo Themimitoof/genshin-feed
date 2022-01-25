@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 25 Jan 2022 03:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jan 2022 04:13:07 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -308,14 +308,6 @@
       <content:encoded><![CDATA[新版本要來啦！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/8428">「明霄昇海平」1.3版本更新通知</a>]]></content:encoded>
       <guid isPermaLink="false">8428</guid>
       <pubDate>Mon, 01 Feb 2021 10:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>旅人的幽思——《原神》稻妻音樂的幕後</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16140</link>
-      <description>《原神》稻妻音樂由陳致逸@HOYO-MiX作曲，由日本東京愛樂樂團與日本頂尖民樂演奏家們合作錄製</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415532039210.png"><br/><br/>《原神》稻妻音樂由陳致逸@HOYO-MiX作曲，由日本東京愛樂樂團與日本頂尖民樂演奏家們合作錄製<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16140">旅人的幽思——《原神》稻妻音樂的幕後</a>]]></content:encoded>
-      <guid isPermaLink="false">16140</guid>
-      <pubDate>Fri, 24 Sep 2021 18:00:00 +0800</pubDate>
     </item>
     <item>
       <title>「韶光撫月」玩法說明</title>
@@ -1115,12 +1107,12 @@
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0800</pubDate>
     </item>
     <item>
-      <title>「暫別冬都」祈願：「『公子』·達達利亞(水)」機率UP！</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16378</link>
-      <description>活動期間，旅行者可以在活動祈願中獲得更多角色與武器，組成強大的隊伍！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110195257634.jpg"><br/><br/>活動期間，旅行者可以在活動祈願中獲得更多角色與武器，組成強大的隊伍！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16378">「暫別冬都」祈願：「『公子』·達達利亞(水)」機率UP！</a>]]></content:encoded>
-      <guid isPermaLink="false">16378</guid>
-      <pubDate>Mon, 11 Oct 2021 12:00:00 +0800</pubDate>
+      <title>EP - 閒情雅趣之悅｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18819</link>
+      <description>一座古城，聚日夜囂市繁盛。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419043884042.jpg"><br/><br/>一座古城，聚日夜囂市繁盛。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18819">EP - 閒情雅趣之悅｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">18819</guid>
+      <pubDate>Tue, 25 Jan 2022 12:00:00 +0800</pubDate>
     </item>
     <item>
       <title>「神鑄賦形」祈願：「弓·冬極白星」、「法器·塵世之鎖」機率UP！</title>
@@ -1917,6 +1909,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012115151643671.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18798">「飛彩鐫流年」玩法說明</a>]]></description>
       <guid isPermaLink="false">18798</guid>
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>EP - 閒情雅趣之悅｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18819</link>
+      <description>一座古城，聚日夜囂市繁盛。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419043884042.jpg"><br/><br/>一座古城，聚日夜囂市繁盛。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18819">EP - 閒情雅趣之悅｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">18819</guid>
+      <pubDate>Tue, 25 Jan 2022 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

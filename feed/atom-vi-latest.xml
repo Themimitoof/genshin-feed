@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2022-01-25T03:11:45.328225+00:00</updated>
+  <updated>2022-01-25T04:13:57.336166+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/vi/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in vi</subtitle>
-  <entry>
-    <id>16420</id>
-    <title>Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.2 - Kỳ I</title>
-    <updated>2021-10-11T12:10:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101111133917270.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16420">Cùng Paimon Xem Bản Tin Sự Kiện Phiên Bản 2.2 - Kỳ I</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16420" rel="alternate"/>
-    <summary/>
-    <published>2021-10-11T12:10:00+07:00</published>
-  </entry>
   <entry>
     <id>16494</id>
     <title>Giới Thiệu Cập Nhật Phiên Bản 2.2 "Bí Ẩn Biển Sương Mù"</title>
@@ -835,5 +826,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012114560463500.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18796">Hướng Dẫn Cách Chơi "Muôn Sắc Khắc Niên Hoa"	</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18796" rel="alternate"/>
     <published>2022-01-24T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18822</id>
+    <title>Tuyển tập Genshin Impact - The Joys of Leisure and Pleasure</title>
+    <updated>2022-01-25T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419060772142.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18822">Tuyển tập Genshin Impact - The Joys of Leisure and Pleasure</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18822" rel="alternate"/>
+    <published>2022-01-25T12:00:00+07:00</published>
   </entry>
 </feed>

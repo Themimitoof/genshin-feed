@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2022-01-25T03:11:40.397263+00:00</updated>
+  <updated>2022-01-25T04:13:38.873118+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16546</id>
-    <title>Recrutamento de streamers da nova versão de Genshin Impact de Twitch</title>
-    <updated>2021-10-15T18:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516322125332.jpg"><br/><br/>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16546">Recrutamento de streamers da nova versão de Genshin Impact de Twitch</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16546" rel="alternate"/>
-    <summary>Participe das transmissões ao vivo, conclua as missões e ganhe muitas Gemas Essenciais como recompensa.</summary>
-    <published>2021-10-15T18:00:00+01:00</published>
-  </entry>
   <entry>
     <id>16570</id>
     <title>Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</title>
@@ -922,5 +913,14 @@ Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é ho
     <link href="https://genshin.mihoyo.com/pt/news/detail/18792" rel="alternate"/>
     <summary>Disponível em breve, novo evento "Cores Efêmeras Voadoras"!</summary>
     <published>2022-01-24T10:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18832</id>
+    <title>EP - As Alegrias do Lazer e do Prazer | Genshin Impact</title>
+    <updated>2022-01-25T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012423140938909.jpg"><br/><br/>Uma cidade antiga reúne todas as prosperidades do dia e da noite do mundo mortal.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18832">EP - As Alegrias do Lazer e do Prazer | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18832" rel="alternate"/>
+    <summary>Uma cidade antiga reúne todas as prosperidades do dia e da noite do mundo mortal.</summary>
+    <published>2022-01-25T12:00:00+00:00</published>
   </entry>
 </feed>

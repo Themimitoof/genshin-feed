@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 25 Jan 2022 03:11:30 +0000</lastBuildDate>
-    <item>
-      <title>旅人的幽思——《原神》稻妻音樂的幕後</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16140</link>
-      <description>《原神》稻妻音樂由陳致逸@HOYO-MiX作曲，由日本東京愛樂樂團與日本頂尖民樂演奏家們合作錄製</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092415532039210.png"><br/><br/>《原神》稻妻音樂由陳致逸@HOYO-MiX作曲，由日本東京愛樂樂團與日本頂尖民樂演奏家們合作錄製<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16140">旅人的幽思——《原神》稻妻音樂的幕後</a>]]></content:encoded>
-      <guid isPermaLink="false">16140</guid>
-      <pubDate>Fri, 24 Sep 2021 18:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jan 2022 04:13:02 +0000</lastBuildDate>
     <item>
       <title>「韶光撫月」玩法說明</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16130</link>
@@ -813,6 +805,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012115151643671.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18798">「飛彩鐫流年」玩法說明</a>]]></description>
       <guid isPermaLink="false">18798</guid>
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>EP - 閒情雅趣之悅｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18819</link>
+      <description>一座古城，聚日夜囂市繁盛。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419043884042.jpg"><br/><br/>一座古城，聚日夜囂市繁盛。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18819">EP - 閒情雅趣之悅｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">18819</guid>
+      <pubDate>Tue, 25 Jan 2022 12:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - latest</title>
-  <updated>2022-01-25T03:11:41.973659+00:00</updated>
+  <updated>2022-01-25T04:13:44.947588+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ru/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ru</subtitle>
-  <entry>
-    <id>16527</id>
-    <title>Правила события «Слушая звуки мира»</title>
-    <updated>2021-10-14T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101322131078518.jpg"><br/><br/>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16527">Правила события «Слушая звуки мира»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16527" rel="alternate"/>
-    <summary>После произошедших в Инадзуме событий Кадзуха вернулся в Ли Юэ с флотом Южного Креста. Он попросил членов экипажа помочь ему найти путешественника, в то время как сам он отправился в горы. Может быть, ему нужна помощь?..</summary>
-    <published>2021-10-14T10:30:00+03:00</published>
-  </entry>
   <entry>
     <id>16534</id>
     <title>[Объявление победителей] Genshin Impact | Специальный розыгрыш</title>
@@ -927,5 +918,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18799" rel="alternate"/>
     <summary>Событие «Краски мимолётности» скоро начнётся!</summary>
     <published>2022-01-24T10:30:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18816</id>
+    <title>«Утончённая радость» | Мини-альбом Genshin Impact</title>
+    <updated>2022-01-25T12:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419033449929.jpg"><br/><br/>Древний город, в котором день и ночь царит суета.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18816">«Утончённая радость» | Мини-альбом Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18816" rel="alternate"/>
+    <summary>Древний город, в котором день и ночь царит суета.</summary>
+    <published>2022-01-25T12:00:00+03:00</published>
   </entry>
 </feed>

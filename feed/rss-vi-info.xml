@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Tue, 25 Jan 2022 03:11:45 +0000</lastBuildDate>
-    <item>
-      <title>[Genshin Impact] - Sangonomiya Kokomi: Hải Triều Lấp Lánh</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/15961</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718035743139.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/15961">[Genshin Impact] - Sangonomiya Kokomi: Hải Triều Lấp Lánh</a>]]></description>
-      <guid isPermaLink="false">15961</guid>
-      <pubDate>Tue, 21 Sep 2021 18:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jan 2022 04:13:58 +0000</lastBuildDate>
     <item>
       <title>[Genshin Impact] OST Chủ đề - Realm of Tranquil Eternity</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/16093</link>
@@ -712,6 +705,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012114560463500.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18796">Hướng Dẫn Cách Chơi "Muôn Sắc Khắc Niên Hoa"	</a>]]></description>
       <guid isPermaLink="false">18796</guid>
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Tuyển tập Genshin Impact - The Joys of Leisure and Pleasure</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18822</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419060772142.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18822">Tuyển tập Genshin Impact - The Joys of Leisure and Pleasure</a>]]></description>
+      <guid isPermaLink="false">18822</guid>
+      <pubDate>Tue, 25 Jan 2022 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

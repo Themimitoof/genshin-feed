@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2022-01-25T03:11:25.567574+00:00</updated>
+  <updated>2022-01-25T04:12:48.148126+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>16544</id>
-    <title>Genshin Impact Streamer Recruitment Event on Twitch</title>
-    <updated>2021-10-15T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[The Genshin Impact Version 2.2 "Into the Perilous Labyrinth of Fog" update arrived on October 13. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16544">Genshin Impact Streamer Recruitment Event on Twitch</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16544" rel="alternate"/>
-    <summary>The Genshin Impact Version 2.2 "Into the Perilous Labyrinth of Fog" update arrived on October 13. The Genshin Impact Streamer Recruitment Event on Twitch has also started. Live stream your content, complete missions and earn Primogems!</summary>
-    <published>2021-10-15T18:00:00-04:00</published>
-  </entry>
   <entry>
     <id>16566</id>
     <title>"Labyrinth Warriors" Event: Take part to invite "Blazing Riff" Xinyan (Pyro)!</title>
@@ -977,5 +968,16 @@ A boat floats idly on the moonlit waters outside of town, as faint traces of the
     <link href="https://genshin.mihoyo.com/en/news/detail/18793" rel="alternate"/>
     <summary>Look, people are hanging the lights up and breaking out their instruments! It's a new year, and Liyue Harbor is bustling with preparations for the grand celebration of the Lantern Rite Festival...</summary>
     <published>2022-01-24T10:30:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18814</id>
+    <title>Genshin Impact EP - The Joys of Leisure and Pleasure</title>
+    <updated>2022-01-25T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419023735610.jpg"><br/><br/>An ancient city, both prosperous in day and night.
+A thousand cups filled with moonlight, shine brightly in the dreams of spring and autumn past.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18814">Genshin Impact EP - The Joys of Leisure and Pleasure</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18814" rel="alternate"/>
+    <summary>An ancient city, both prosperous in day and night.
+A thousand cups filled with moonlight, shine brightly in the dreams of spring and autumn past.</summary>
+    <published>2022-01-25T12:00:00-05:00</published>
   </entry>
 </feed>

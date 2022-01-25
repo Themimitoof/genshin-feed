@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-25T03:11:45.283712+00:00</updated>
+  <updated>2022-01-25T04:13:57.293162+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -360,14 +360,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>15959</id>
-    <title>[Genshin Impact] เก็บตกตัวละคร - "Sangonomiya Kokomi - ประกายคลื่นพร่างพราว"</title>
-    <updated>2021-09-21T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091718015618929.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/15959">[Genshin Impact] เก็บตกตัวละคร - "Sangonomiya Kokomi - ประกายคลื่นพร่างพราว"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/15959" rel="alternate"/>
-    <published>2021-09-21T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>16081</id>
@@ -1188,13 +1180,12 @@
     <published>2022-01-24T10:30:00+07:00</published>
   </entry>
   <entry>
-    <id>16493</id>
-    <title>คำอธิบายการอัปเดตเวอร์ชัน 2.2 "วังวนม่านหมอกมายา"</title>
-    <updated>2021-10-13T07:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219234769271.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16493">คำอธิบายการอัปเดตเวอร์ชัน 2.2 "วังวนม่านหมอกมายา"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16493" rel="alternate"/>
-    <summary/>
-    <published>2021-10-13T07:00:00+07:00</published>
+    <id>18817</id>
+    <title>"Genshin Impact" มินิอัลบั้ม - ความสุขในวันพักผ่อนแสนอิ่มใจ</title>
+    <updated>2022-01-25T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419041990071.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18817">"Genshin Impact" มินิอัลบั้ม - ความสุขในวันพักผ่อนแสนอิ่มใจ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18817" rel="alternate"/>
+    <published>2022-01-25T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16464</id>
@@ -2020,5 +2011,13 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/18794" rel="alternate"/>
     <summary/>
     <published>2022-01-24T10:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18817</id>
+    <title>"Genshin Impact" มินิอัลบั้ม - ความสุขในวันพักผ่อนแสนอิ่มใจ</title>
+    <updated>2022-01-25T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419041990071.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18817">"Genshin Impact" มินิอัลบั้ม - ความสุขในวันพักผ่อนแสนอิ่มใจ</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18817" rel="alternate"/>
+    <published>2022-01-25T12:00:00+07:00</published>
   </entry>
 </feed>

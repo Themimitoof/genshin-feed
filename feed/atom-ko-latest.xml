@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2022-01-25T03:11:38.682731+00:00</updated>
+  <updated>2022-01-25T04:13:32.876562+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16511</id>
-    <title>&lt;원신&gt; EP - 거침없는 손님</title>
-    <updated>2021-10-13T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221404071982.jpg"><br/><br/>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16511"><원신> EP - 거침없는 손님</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16511" rel="alternate"/>
-    <summary>벚꽃으로 물든 골목을 헤매는 젊은 무사는 사색에 잠긴다.</summary>
-    <published>2021-10-13T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>16526</id>
     <title>「거울 속 세계의 소리」콘텐츠 안내</title>
@@ -916,5 +907,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18807" rel="alternate"/>
     <summary>신규 이벤트 「화려히 수놓인 유년」 오픈 예정!</summary>
     <published>2022-01-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18826</id>
+    <title>원신 EP - 한적한 정취의 즐거움</title>
+    <updated>2022-01-25T12:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419351610484.jpg"><br/><br/>고성은 밤낮으로 번성하고, 잔 속의 보름달은 봄과 가을을 비추며 꿈에 잠긴다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18826">원신 EP - 한적한 정취의 즐거움</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18826" rel="alternate"/>
+    <summary>고성은 밤낮으로 번성하고, 잔 속의 보름달은 봄과 가을을 비추며 꿈에 잠긴다</summary>
+    <published>2022-01-25T12:01:00+09:00</published>
   </entry>
 </feed>
