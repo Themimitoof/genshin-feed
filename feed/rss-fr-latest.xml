@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:12:39 +0000</lastBuildDate>
-    <item>
-      <title>Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16497</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101220100216236.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16497">Détails de la mise à jour de version 2.2 « Dans les méandres de la brume »</a>]]></description>
-      <guid isPermaLink="false">16497</guid>
-      <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 05:09:52 +0000</lastBuildDate>
     <item>
       <title>L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16505</link>
@@ -734,6 +727,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012420204980311.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18828">Genshin Impact, la bande-son : Le plaisir des loisirs raffinés</a>]]></description>
       <guid isPermaLink="false">18828</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - The Stellar Moments Vol. 2</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18856</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517130083154.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18856">Genshin Impact - The Stellar Moments Vol. 2</a>]]></description>
+      <guid isPermaLink="false">18856</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

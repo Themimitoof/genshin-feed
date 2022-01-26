@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:12:40 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact - Sangonomiya Kokomi : Marée ondulante</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/15967</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210917/2021091719515236528.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/15967">Genshin Impact - Sangonomiya Kokomi : Marée ondulante</a>]]></description>
-      <guid isPermaLink="false">15967</guid>
-      <pubDate>Tue, 21 Sep 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 05:09:53 +0000</lastBuildDate>
     <item>
       <title>Bande-son de Genshin Impact: Realm of Tranquil Eternity</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16085</link>
@@ -730,6 +723,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012420204980311.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18828">Genshin Impact, la bande-son : Le plaisir des loisirs raffinés</a>]]></description>
       <guid isPermaLink="false">18828</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - The Stellar Moments Vol. 2</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18856</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517130083154.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18856">Genshin Impact - The Stellar Moments Vol. 2</a>]]></description>
+      <guid isPermaLink="false">18856</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

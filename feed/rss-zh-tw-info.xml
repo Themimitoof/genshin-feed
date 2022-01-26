@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:12:43 +0000</lastBuildDate>
-    <item>
-      <title>「韶光撫月」玩法說明</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16130</link>
-      <description>金秋月明之時，璃月港正如火如荼地籌備著傳統慶典「逐月節」，響應節日主題的各項活動也徐徐拉開了帷幕…</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414060196442.jpg"><br/><br/>金秋月明之時，璃月港正如火如荼地籌備著傳統慶典「逐月節」，響應節日主題的各項活動也徐徐拉開了帷幕…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16130">「韶光撫月」玩法說明</a>]]></content:encoded>
-      <guid isPermaLink="false">16130</guid>
-      <pubDate>Sun, 26 Sep 2021 10:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 05:09:59 +0000</lastBuildDate>
     <item>
       <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16177</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419043884042.jpg"><br/><br/>一座古城，聚日夜囂市繁盛。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18819">EP - 閒情雅趣之悅｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">18819</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>閃耀的群星2 The Stellar Moments Vol. 2｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/18854</link>
+      <description>《原神》角色主題原聲帶《閃耀的群星2 The Stellar Moments Vol. 2》正式上線</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517042585587.png"><br/><br/>《原神》角色主題原聲帶《閃耀的群星2 The Stellar Moments Vol. 2》正式上線<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18854">閃耀的群星2 The Stellar Moments Vol. 2｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">18854</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2022-01-26T04:13:04.553948+00:00</updated>
+  <updated>2022-01-26T05:10:31.075852+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16570</id>
-    <title>Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</title>
-    <updated>2021-10-19T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911102219893.jpg"><br/><br/>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16570">Evento "Guerreiros do Labirinto": Participe para convidar a "Melodia Incandescente - Xinyan (Pyro)" para a sua equipe</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16570" rel="alternate"/>
-    <summary>Durante o período do evento, conclua o teste da "Câmara Mística Onmyou" para obter o "Talismã Envelhecido", e troque por Gemas Essenciais, Coroa da Sabedoria, Material de Elevação de Personagem, Material de Elevação de Talento, EXP do Herói, Minério de Refinamento Místico, entre muitas outras recompensas na Loja do Evento.</summary>
-    <published>2021-10-19T12:00:00+01:00</published>
-  </entry>
   <entry>
     <id>16555</id>
     <title>Edição 2 -Informações de Produtos de Fãs do Concerto Orquestral Offline de Genshin Impact</title>
@@ -922,5 +913,14 @@ Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é ho
     <link href="https://genshin.mihoyo.com/pt/news/detail/18832" rel="alternate"/>
     <summary>Uma cidade antiga reúne todas as prosperidades do dia e da noite do mundo mortal.</summary>
     <published>2022-01-25T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18862</id>
+    <title>The Stellar Moments Vol. 2 | Genshin Impact</title>
+    <updated>2022-01-26T13:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517203412880.png"><br/><br/>O álbum de trilhas sonoras de personagens "The Stellar Moments Vol. 2" estará lançada oficialmente! Com 21 faixas icônicas produzidas pela equipe @HOYO-MiX, cada uma com uma composição original exclusiva para os personagens de Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18862">The Stellar Moments Vol. 2 | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18862" rel="alternate"/>
+    <summary>O álbum de trilhas sonoras de personagens "The Stellar Moments Vol. 2" estará lançada oficialmente! Com 21 faixas icônicas produzidas pela equipe @HOYO-MiX, cada uma com uma composição original exclusiva para os personagens de Genshin Impact.</summary>
+    <published>2022-01-26T13:00:00+00:00</published>
   </entry>
 </feed>

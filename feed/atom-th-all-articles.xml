@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-26T04:13:17.154790+00:00</updated>
+  <updated>2022-01-26T05:10:47.630874+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -360,15 +360,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16081</id>
-    <title>Genshin Impact OST "Realm of Tranquil Eternity"</title>
-    <updated>2021-09-22T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018121620542.jpg"><br/><br/>[Genshin Impact] อัลบั้ม Inazuma "Realm of Tranquil Eternity" ได้เปิดตัวอย่างเป็นทางการแล้ว<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16081">Genshin Impact OST "Realm of Tranquil Eternity"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16081" rel="alternate"/>
-    <summary>[Genshin Impact] อัลบั้ม Inazuma "Realm of Tranquil Eternity" ได้เปิดตัวอย่างเป็นทางการแล้ว</summary>
-    <published>2021-09-22T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16152</id>
@@ -1188,12 +1179,12 @@
     <published>2022-01-25T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16464</id>
-    <title>"Genshin Impact" มินิอัลบั้ม - He Who Wanders Untrammeled</title>
-    <updated>2021-10-13T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216383999528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16464">"Genshin Impact" มินิอัลบั้ม - He Who Wanders Untrammeled</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16464" rel="alternate"/>
-    <published>2021-10-13T12:00:00+07:00</published>
+    <id>18871</id>
+    <title>Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</title>
+    <updated>2022-01-26T13:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519115679343.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18871">Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18871" rel="alternate"/>
+    <published>2022-01-26T13:00:00+07:00</published>
   </entry>
   <entry>
     <id>16476</id>
@@ -2019,5 +2010,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419041990071.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18817">"Genshin Impact" มินิอัลบั้ม - ความสุขในวันพักผ่อนแสนอิ่มใจ</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18817" rel="alternate"/>
     <published>2022-01-25T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18871</id>
+    <title>Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</title>
+    <updated>2022-01-26T13:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519115679343.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18871">Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18871" rel="alternate"/>
+    <published>2022-01-26T13:00:00+07:00</published>
   </entry>
 </feed>

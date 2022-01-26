@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2022-01-26T04:12:36.720154+00:00</updated>
+  <updated>2022-01-26T05:09:47.623161+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>16248</id>
-    <title>Story Teaser: Flavors of the World | Genshin Impact</title>
-    <updated>2021-10-02T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818135586153.jpg"><br/><br/>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
-Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16248">Story Teaser: Flavors of the World | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16248" rel="alternate"/>
-    <summary>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
-Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.</summary>
-    <published>2021-10-02T18:00:00-04:00</published>
-  </entry>
   <entry>
     <id>16340</id>
     <title>Genshin Impact X Razer Collaboration Details</title>
@@ -987,5 +976,14 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
     <summary>An ancient city, both prosperous in day and night.
 A thousand cups filled with moonlight, shine brightly in the dreams of spring and autumn past.</summary>
     <published>2022-01-25T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18850</id>
+    <title>Genshin Impact Character OST Album - The Stellar Moments Vol. 2</title>
+    <updated>2022-01-26T13:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012516551669182.png"><br/><br/>Genshin Impact's character album "The Stellar Moments Vol. 2" is out now! Featuring 21 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18850">Genshin Impact Character OST Album - The Stellar Moments Vol. 2</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18850" rel="alternate"/>
+    <summary>Genshin Impact's character album "The Stellar Moments Vol. 2" is out now! Featuring 21 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.</summary>
+    <published>2022-01-26T13:00:00-05:00</published>
   </entry>
 </feed>

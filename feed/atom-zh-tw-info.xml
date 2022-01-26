@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - info</title>
-  <updated>2022-01-26T04:12:43.885179+00:00</updated>
+  <updated>2022-01-26T05:09:59.165934+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>16130</id>
-    <title>「韶光撫月」玩法說明</title>
-    <updated>2021-09-26T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414060196442.jpg"><br/><br/>金秋月明之時，璃月港正如火如荼地籌備著傳統慶典「逐月節」，響應節日主題的各項活動也徐徐拉開了帷幕…<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16130">「韶光撫月」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16130" rel="alternate"/>
-    <summary>金秋月明之時，璃月港正如火如荼地籌備著傳統慶典「逐月節」，響應節日主題的各項活動也徐徐拉開了帷幕…</summary>
-    <published>2021-09-26T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>16177</id>
     <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
@@ -914,5 +905,14 @@
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18819" rel="alternate"/>
     <summary>一座古城，聚日夜囂市繁盛。</summary>
     <published>2022-01-25T12:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>18854</id>
+    <title>閃耀的群星2 The Stellar Moments Vol. 2｜原神</title>
+    <updated>2022-01-26T13:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517042585587.png"><br/><br/>《原神》角色主題原聲帶《閃耀的群星2 The Stellar Moments Vol. 2》正式上線<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18854">閃耀的群星2 The Stellar Moments Vol. 2｜原神</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/18854" rel="alternate"/>
+    <summary>《原神》角色主題原聲帶《閃耀的群星2 The Stellar Moments Vol. 2》正式上線</summary>
+    <published>2022-01-26T13:00:00+08:00</published>
   </entry>
 </feed>

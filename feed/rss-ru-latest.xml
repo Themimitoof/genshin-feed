@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:13:08 +0000</lastBuildDate>
-    <item>
-      <title>[Объявление победителей] Genshin Impact | Специальный розыгрыш</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16534</link>
-      <description>Дорогие Путешественники!
-Благодарим вас за участие в событии годовщины Genshin Impact | Специальный розыгрыш. Поздравляем счастливых победителей!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415283973888.jpg"><br/><br/>Дорогие Путешественники!
-Благодарим вас за участие в событии годовщины Genshin Impact | Специальный розыгрыш. Поздравляем счастливых победителей!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16534">[Объявление победителей] Genshin Impact | Специальный розыгрыш</a>]]></content:encoded>
-      <guid isPermaLink="false">16534</guid>
-      <pubDate>Thu, 14 Oct 2021 18:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 05:10:36 +0000</lastBuildDate>
     <item>
       <title>Кампания по набору стримеров Genshin Impact на Twitch</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16540</link>
@@ -827,6 +817,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419033449929.jpg"><br/><br/>Древний город, в котором день и ночь царит суета.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18816">«Утончённая радость» | Мини-альбом Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18816</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>«The Stellar Moments Vol. 2» Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/18851</link>
+      <description>Официально выпущен альбом OST «The Stellar Moments Vol. 2», посвящённый персонажам Genshin Impact.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012516562898430.png"><br/><br/>Официально выпущен альбом OST «The Stellar Moments Vol. 2», посвящённый персонажам Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18851">«The Stellar Moments Vol. 2» Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">18851</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

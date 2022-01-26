@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:13:12 +0000</lastBuildDate>
-    <item>
-      <title>"Genshin Impact" มินิอัลบั้ม - He Who Wanders Untrammeled</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/16464</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216383999528.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16464">"Genshin Impact" มินิอัลบั้ม - He Who Wanders Untrammeled</a>]]></description>
-      <guid isPermaLink="false">16464</guid>
-      <pubDate>Wed, 13 Oct 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 05:10:42 +0000</lastBuildDate>
     <item>
       <title>กิจกรรม "บันทึกการสำรวจของ Aloy" บนเว็บไซต์เริ่มต้นขึ้นแล้ว ร่วมสำรวจโลกแห่ง Teyvat ไปกับ Aloy เพื่อลุ้นรับรางวัล!</title>
       <link>https://genshin.mihoyo.com/th/news/detail/16476</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419041990071.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18817">"Genshin Impact" มินิอัลบั้ม - ความสุขในวันพักผ่อนแสนอิ่มใจ</a>]]></description>
       <guid isPermaLink="false">18817</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18871</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519115679343.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18871">Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</a>]]></description>
+      <guid isPermaLink="false">18871</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>vi</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:10:52 +0000</lastBuildDate>
     <item>
       <title>Diễn đàn Genshin Impact chính thức được khởi động, tham gia hoạt động nhận cơ hội trải nghiệm game</title>
       <link>https://genshin.mihoyo.com/vi/news/detail/2157</link>
@@ -296,14 +296,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121815022050836.png"><br/><br/>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/7468">Đã mở trang giới thiệu phiên bản 1.2 "Vôi Trắng và Rồng Đen!</a>]]></content:encoded>
       <guid isPermaLink="false">7468</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0700</pubDate>
-    </item>
-    <item>
-      <title>[Genshin Impact] OST Chủ đề - Realm of Tranquil Eternity</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/16093</link>
-      <description>[Genshin Impact] OST Inazuma "Realm of Tranquil Eternity" chính thức ra mắt.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018324694578.jpg"><br/><br/>[Genshin Impact] OST Inazuma "Realm of Tranquil Eternity" chính thức ra mắt.<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16093">[Genshin Impact] OST Chủ đề - Realm of Tranquil Eternity</a>]]></content:encoded>
-      <guid isPermaLink="false">16093</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Hậu Trường Âm Nhạc Inazuma Của Genshin Impact - Nỗi Lòng Người Lữ Khách</title>
@@ -1002,11 +994,11 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0700</pubDate>
     </item>
     <item>
-      <title>Giới Thiệu Cập Nhật Phiên Bản 2.2 "Bí Ẩn Biển Sương Mù"</title>
-      <link>https://genshin.mihoyo.com/vi/news/detail/16494</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219590050844.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16494">Giới Thiệu Cập Nhật Phiên Bản 2.2 "Bí Ẩn Biển Sương Mù"</a>]]></description>
-      <guid isPermaLink="false">16494</guid>
-      <pubDate>Wed, 13 Oct 2021 07:00:00 +0700</pubDate>
+      <title>[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18873</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519144340835.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18873">[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2</a>]]></description>
+      <guid isPermaLink="false">18873</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
     </item>
     <item>
       <title>Tuyển tập Genshin Impact - He Who Wanders Untrammeled</title>
@@ -1706,6 +1698,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419060772142.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18822">Tuyển tập Genshin Impact - The Joys of Leisure and Pleasure</a>]]></description>
       <guid isPermaLink="false">18822</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2</title>
+      <link>https://genshin.mihoyo.com/vi/news/detail/18873</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519144340835.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18873">[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2</a>]]></description>
+      <guid isPermaLink="false">18873</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:13:13 +0000</lastBuildDate>
-    <item>
-      <title>Genshin Impact OST "Realm of Tranquil Eternity"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/16081</link>
-      <description>[Genshin Impact] อัลบั้ม Inazuma "Realm of Tranquil Eternity" ได้เปิดตัวอย่างเป็นทางการแล้ว</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210920/2021092018121620542.jpg"><br/><br/>[Genshin Impact] อัลบั้ม Inazuma "Realm of Tranquil Eternity" ได้เปิดตัวอย่างเป็นทางการแล้ว<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16081">Genshin Impact OST "Realm of Tranquil Eternity"</a>]]></content:encoded>
-      <guid isPermaLink="false">16081</guid>
-      <pubDate>Wed, 22 Sep 2021 12:00:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 05:10:43 +0000</lastBuildDate>
     <item>
       <title>ห้วงภวังค์ของนักเดินทาง - Genshin Impact เบื้องหลังการทำดนตรีประกอบของเมือง Inazuma</title>
       <link>https://genshin.mihoyo.com/th/news/detail/16152</link>
@@ -712,6 +704,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012419041990071.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18817">"Genshin Impact" มินิอัลบั้ม - ความสุขในวันพักผ่อนแสนอิ่มใจ</a>]]></description>
       <guid isPermaLink="false">18817</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18871</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519115679343.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18871">Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</a>]]></description>
+      <guid isPermaLink="false">18871</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

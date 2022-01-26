@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2022-01-26T04:13:06.293049+00:00</updated>
+  <updated>2022-01-26T05:10:32.507741+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16127</id>
-    <title>Descrição do Modo de Jogo "Acariciar Gentilmente a Lua"</title>
-    <updated>2021-09-26T10:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210923/2021092313491393923.jpg"><br/><br/>Sob o intenso brilho lunar de outono, o Porto de Liyue se prepara incansavelmente para o tradicional Festival da Caça à Lua, acompanhado por uma série de atividades festivas.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16127">Descrição do Modo de Jogo "Acariciar Gentilmente a Lua"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16127" rel="alternate"/>
-    <summary>Sob o intenso brilho lunar de outono, o Porto de Liyue se prepara incansavelmente para o tradicional Festival da Caça à Lua, acompanhado por uma série de atividades festivas.</summary>
-    <published>2021-09-26T10:30:00+01:00</published>
-  </entry>
   <entry>
     <id>16172</id>
     <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
@@ -915,5 +906,14 @@ Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente c
     <link href="https://genshin.mihoyo.com/pt/news/detail/18832" rel="alternate"/>
     <summary>Uma cidade antiga reúne todas as prosperidades do dia e da noite do mundo mortal.</summary>
     <published>2022-01-25T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18862</id>
+    <title>The Stellar Moments Vol. 2 | Genshin Impact</title>
+    <updated>2022-01-26T13:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517203412880.png"><br/><br/>O álbum de trilhas sonoras de personagens "The Stellar Moments Vol. 2" estará lançada oficialmente! Com 21 faixas icônicas produzidas pela equipe @HOYO-MiX, cada uma com uma composição original exclusiva para os personagens de Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18862">The Stellar Moments Vol. 2 | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18862" rel="alternate"/>
+    <summary>O álbum de trilhas sonoras de personagens "The Stellar Moments Vol. 2" estará lançada oficialmente! Com 21 faixas icônicas produzidas pela equipe @HOYO-MiX, cada uma com uma composição original exclusiva para os personagens de Genshin Impact.</summary>
+    <published>2022-01-26T13:00:00+00:00</published>
   </entry>
 </feed>

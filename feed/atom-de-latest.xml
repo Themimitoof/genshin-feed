@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2022-01-26T04:12:46.659208+00:00</updated>
+  <updated>2022-01-26T05:10:03.210261+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16396</id>
-    <title>Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Polarstern“ und „Katalysator – Ketten des Diesseits“!</title>
-    <updated>2021-10-11T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211011/2021101110430461521.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16396">Gebet „Göttliches Werk“: Höhere Wahrscheinlichkeiten für „Bogen – Polarstern“ und „Katalysator – Ketten des Diesseits“!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16396" rel="alternate"/>
-    <published>2021-10-11T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16353</id>
     <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.2 – Teil 1</title>
@@ -969,5 +961,14 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
     <link href="https://genshin.mihoyo.com/de/news/detail/18830" rel="alternate"/>
     <summary>Eine uralte Stadt, in der Tag und bei Nacht geschäftiges Treiben herrscht.</summary>
     <published>2022-01-25T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18858</id>
+    <title>„The Stellar Moments Vol. 2“ von Genshin Impact</title>
+    <updated>2022-01-26T13:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517173028111.png"><br/><br/>Das Album zu Figuren „The Stellar Moments Vol. 2“ von Genshin Impact erscheint offiziell online mit 21 ausgewählten Titeln von der Musikgruppe @HOYO-MiX in der exklusiven Originalfassung zu Figuren des Spiels Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18858">„The Stellar Moments Vol. 2“ von Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18858" rel="alternate"/>
+    <summary>Das Album zu Figuren „The Stellar Moments Vol. 2“ von Genshin Impact erscheint offiziell online mit 21 ausgewählten Titeln von der Musikgruppe @HOYO-MiX in der exklusiven Originalfassung zu Figuren des Spiels Genshin Impact.</summary>
+    <published>2022-01-26T13:00:00+01:00</published>
   </entry>
 </feed>

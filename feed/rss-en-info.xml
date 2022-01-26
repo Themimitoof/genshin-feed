@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:12:36 +0000</lastBuildDate>
-    <item>
-      <title>Story Teaser: Flavors of the World | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16248</link>
-      <description>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
-Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818135586153.jpg"><br/><br/>The passing of time is marked by meals as we drink and make merry, blessed by nature's grace. From past to present, the years go by in the blink of an eye.
-Smoke of hearths brings us joy and domesticity paints a picture of everyday life. Delicate clouds chase the moon as the boat floats on the river of time.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16248">Story Teaser: Flavors of the World | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16248</guid>
-      <pubDate>Sat, 02 Oct 2021 18:00:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Jan 2022 05:09:47 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact X Razer Collaboration Details</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16340</link>
@@ -886,6 +876,14 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
 A thousand cups filled with moonlight, shine brightly in the dreams of spring and autumn past.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18814">Genshin Impact EP - The Joys of Leisure and Pleasure</a>]]></content:encoded>
       <guid isPermaLink="false">18814</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact Character OST Album - The Stellar Moments Vol. 2</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18850</link>
+      <description>Genshin Impact's character album "The Stellar Moments Vol. 2" is out now! Featuring 21 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012516551669182.png"><br/><br/>Genshin Impact's character album "The Stellar Moments Vol. 2" is out now! Featuring 21 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18850">Genshin Impact Character OST Album - The Stellar Moments Vol. 2</a>]]></content:encoded>
+      <guid isPermaLink="false">18850</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

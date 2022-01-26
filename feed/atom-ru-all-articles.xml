@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-26T04:13:12.846961+00:00</updated>
+  <updated>2022-01-26T05:10:42.344174+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -438,15 +438,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>16131</id>
-    <title>Описание события «Лунное утешение»</title>
-    <updated>2021-09-26T10:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092414054446291.jpg"><br/><br/>Новое событие «Лунное утешение» скоро начнётся!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16131">Описание события «Лунное утешение»</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16131" rel="alternate"/>
-    <summary>Новое событие «Лунное утешение» скоро начнётся!</summary>
-    <published>2021-09-26T10:30:00+03:00</published>
   </entry>
   <entry>
     <id>16170</id>
@@ -1357,15 +1348,13 @@
     <published>2022-01-25T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>16534</id>
-    <title>[Объявление победителей] Genshin Impact | Специальный розыгрыш</title>
-    <updated>2021-10-14T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415283973888.jpg"><br/><br/>Дорогие Путешественники!
-Благодарим вас за участие в событии годовщины Genshin Impact | Специальный розыгрыш. Поздравляем счастливых победителей!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16534">[Объявление победителей] Genshin Impact | Специальный розыгрыш</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16534" rel="alternate"/>
-    <summary>Дорогие Путешественники!
-Благодарим вас за участие в событии годовщины Genshin Impact | Специальный розыгрыш. Поздравляем счастливых победителей!</summary>
-    <published>2021-10-14T18:00:00+03:00</published>
+    <id>18851</id>
+    <title>«The Stellar Moments Vol. 2» Genshin Impact</title>
+    <updated>2022-01-26T13:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012516562898430.png"><br/><br/>Официально выпущен альбом OST «The Stellar Moments Vol. 2», посвящённый персонажам Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18851">«The Stellar Moments Vol. 2» Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18851" rel="alternate"/>
+    <summary>Официально выпущен альбом OST «The Stellar Moments Vol. 2», посвящённый персонажам Genshin Impact.</summary>
+    <published>2022-01-26T13:00:00+03:00</published>
   </entry>
   <entry>
     <id>16540</id>
@@ -2274,5 +2263,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18816" rel="alternate"/>
     <summary>Древний город, в котором день и ночь царит суета.</summary>
     <published>2022-01-25T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18851</id>
+    <title>«The Stellar Moments Vol. 2» Genshin Impact</title>
+    <updated>2022-01-26T13:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012516562898430.png"><br/><br/>Официально выпущен альбом OST «The Stellar Moments Vol. 2», посвящённый персонажам Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18851">«The Stellar Moments Vol. 2» Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18851" rel="alternate"/>
+    <summary>Официально выпущен альбом OST «The Stellar Moments Vol. 2», посвящённый персонажам Genshin Impact.</summary>
+    <published>2022-01-26T13:00:00+03:00</published>
   </entry>
 </feed>

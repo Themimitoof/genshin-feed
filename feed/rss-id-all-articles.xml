@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 26 Jan 2022 04:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:10:19 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -574,6 +574,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18864</link>
+      <description>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012518015190940.png"><br/><br/>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18864">Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</a>]]></content:encoded>
+      <guid isPermaLink="false">18864</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
       <link>https://genshin.mihoyo.com/id/news/detail/18288</link>
       <description>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</description>
@@ -812,6 +820,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220124/2022012423240885333.jpg"><br/><br/>Sebuah kota kuno, senantiasa makmur di siang hari ataupun malam hari.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18834">Mini Album: Sukacita di Saat Santai dan Gembira | Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18834</guid>
       <pubDate>Tue, 25 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18864</link>
+      <description>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012518015190940.png"><br/><br/>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18864">Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</a>]]></content:encoded>
+      <guid isPermaLink="false">18864</guid>
+      <pubDate>Wed, 26 Jan 2022 13:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

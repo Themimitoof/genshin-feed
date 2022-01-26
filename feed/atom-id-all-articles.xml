@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-26T04:12:57.365896+00:00</updated>
+  <updated>2022-01-26T05:10:19.228018+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -654,6 +654,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-25T12:00:00+07:00</published>
   </entry>
   <entry>
+    <id>18864</id>
+    <title>Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</title>
+    <updated>2022-01-26T13:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012518015190940.png"><br/><br/>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18864">Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18864" rel="alternate"/>
+    <summary>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! </summary>
+    <published>2022-01-26T13:00:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -922,5 +931,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18834" rel="alternate"/>
     <summary>Sebuah kota kuno, senantiasa makmur di siang hari ataupun malam hari.</summary>
     <published>2022-01-25T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18864</id>
+    <title>Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</title>
+    <updated>2022-01-26T13:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012518015190940.png"><br/><br/>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! <br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18864">Album OST Karakter Genshin Impact — The Stellar Moments Vol. 2</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18864" rel="alternate"/>
+    <summary>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! </summary>
+    <published>2022-01-26T13:00:00+07:00</published>
   </entry>
 </feed>
