@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Jan 2022 03:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 04:12:35 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact Forum Launch Event - Chance to win a tester place</title>
       <link>https://genshin.mihoyo.com/en/news/detail/2155</link>
@@ -395,14 +395,6 @@ PlayStation®4, iOS, Android, and PC.<br><br>Read more on <a href="https://gensh
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121814432831225.png"><br/><br/>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/7466">The Version 1.2 "The Chalk Prince and the Dragon" preview page is here!</a>]]></content:encoded>
       <guid isPermaLink="false">7466</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genshin Impact X Razer Collaboration Details</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16340</link>
-      <description>Dear Travelers, Genshin Impact and Razer's collaboration is about to launch!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100321344381334.png"><br/><br/>Dear Travelers, Genshin Impact and Razer's collaboration is about to launch!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16340">Genshin Impact X Razer Collaboration Details</a>]]></content:encoded>
-      <guid isPermaLink="false">16340</guid>
-      <pubDate>Sun, 03 Oct 2021 09:00:00 -0400</pubDate>
     </item>
     <item>
       <title>Version 2.2 "Into the Perilous Labyrinth of Fog" Trailer | Genshin Impact</title>
@@ -1273,12 +1265,12 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
       <pubDate>Wed, 26 Jan 2022 13:00:00 -0500</pubDate>
     </item>
     <item>
-      <title>Genshin Impact Offline Concert Merchandise Information - Phase II</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16556</link>
-      <description>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101819003591128.jpg"><br/><br/>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16556">Genshin Impact Offline Concert Merchandise Information - Phase II</a>]]></content:encoded>
-      <guid isPermaLink="false">16556</guid>
-      <pubDate>Tue, 19 Oct 2021 18:00:00 -0400</pubDate>
+      <title>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18939</link>
+      <description>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710162412018.jpg"><br/><br/>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18939">Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</a>]]></content:encoded>
+      <guid isPermaLink="false">18939</guid>
+      <pubDate>Thu, 27 Jan 2022 12:00:00 -0500</pubDate>
     </item>
     <item>
       <title>"Labyrinth Warriors" Gameplay Details</title>
@@ -2140,6 +2132,14 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012516551669182.png"><br/><br/>Genshin Impact's character album "The Stellar Moments Vol. 2" is out now! Featuring 21 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18850">Genshin Impact Character OST Album - The Stellar Moments Vol. 2</a>]]></content:encoded>
       <guid isPermaLink="false">18850</guid>
       <pubDate>Wed, 26 Jan 2022 13:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/18939</link>
+      <description>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710162412018.jpg"><br/><br/>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18939">Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</a>]]></content:encoded>
+      <guid isPermaLink="false">18939</guid>
+      <pubDate>Thu, 27 Jan 2022 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

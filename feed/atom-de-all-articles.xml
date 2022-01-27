@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2022-01-27T03:11:40.066093+00:00</updated>
+  <updated>2022-01-27T04:12:42.796775+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -359,15 +359,6 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16168</id>
-    <title>GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</title>
-    <updated>2021-09-26T19:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210926/2021092618293995457.jpg"><br/><br/>Talentierte Musiker aus der ganzen Welt, z. B. Belgien, Südkorea und den USA, werden mit ihren Interpretationen der Musik von Genshin Impact den einzigartigen Charme von Sinfonie-, Pop- und A-cappella-Musik präsentieren.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16168">GENSHIN CONCERT 2021 - Melodies of an Endless Journey  (Teaser 3)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16168" rel="alternate"/>
-    <summary>Talentierte Musiker aus der ganzen Welt, z. B. Belgien, Südkorea und den USA, werden mit ihren Interpretationen der Musik von Genshin Impact den einzigartigen Charme von Sinfonie-, Pop- und A-cappella-Musik präsentieren.</summary>
-    <published>2021-09-26T19:00:00+02:00</published>
   </entry>
   <entry>
     <id>16240</id>
@@ -1312,13 +1303,13 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
     <published>2022-01-26T13:00:00+01:00</published>
   </entry>
   <entry>
-    <id>16353</id>
-    <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.2 – Teil 1</title>
-    <updated>2021-10-11T12:10:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211009/2021100919504514745.jpg"><br/><br/>Hallo, Reisender! Version 2.2 steht vor der Tür und über das Bild unten kannst du mehr über die neuen Aktionen erfahren!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16353">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.2 – Teil 1</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16353" rel="alternate"/>
-    <summary>Hallo, Reisender! Version 2.2 steht vor der Tür und über das Bild unten kannst du mehr über die neuen Aktionen erfahren!</summary>
-    <published>2021-10-11T12:10:00+02:00</published>
+    <id>18952</id>
+    <title>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</title>
+    <updated>2022-01-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710395382770.jpg"><br/><br/>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18952">The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18952" rel="alternate"/>
+    <summary>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</summary>
+    <published>2022-01-27T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>16489</id>
@@ -2272,5 +2263,14 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
     <link href="https://genshin.mihoyo.com/de/news/detail/18858" rel="alternate"/>
     <summary>Das Album zu Figuren „The Stellar Moments Vol. 2“ von Genshin Impact erscheint offiziell online mit 21 ausgewählten Titeln von der Musikgruppe @HOYO-MiX in der exklusiven Originalfassung zu Figuren des Spiels Genshin Impact.</summary>
     <published>2022-01-26T13:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18952</id>
+    <title>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</title>
+    <updated>2022-01-27T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710395382770.jpg"><br/><br/>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18952">The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/18952" rel="alternate"/>
+    <summary>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</summary>
+    <published>2022-01-27T12:00:00+01:00</published>
   </entry>
 </feed>

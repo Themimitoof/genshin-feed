@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-27T03:12:02.500115+00:00</updated>
+  <updated>2022-01-27T04:13:02.447806+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -360,14 +360,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16152</id>
-    <title>ห้วงภวังค์ของนักเดินทาง - Genshin Impact เบื้องหลังการทำดนตรีประกอบของเมือง Inazuma</title>
-    <updated>2021-09-24T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416093346033.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16152">ห้วงภวังค์ของนักเดินทาง - Genshin Impact เบื้องหลังการทำดนตรีประกอบของเมือง Inazuma</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16152" rel="alternate"/>
-    <published>2021-09-24T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>16128</id>
@@ -1187,13 +1179,13 @@
     <published>2022-01-26T13:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16476</id>
-    <title>กิจกรรม "บันทึกการสำรวจของ Aloy" บนเว็บไซต์เริ่มต้นขึ้นแล้ว ร่วมสำรวจโลกแห่ง Teyvat ไปกับ Aloy เพื่อลุ้นรับรางวัล!</title>
-    <updated>2021-10-13T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217492814700.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16476">กิจกรรม "บันทึกการสำรวจของ Aloy" บนเว็บไซต์เริ่มต้นขึ้นแล้ว ร่วมสำรวจโลกแห่ง Teyvat ไปกับ Aloy เพื่อลุ้นรับรางวัล!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16476" rel="alternate"/>
+    <id>18955</id>
+    <title>Genshin Impact "The Stellar Moments Vol. 2" เปิดตัวอย่างเป็นทางการแล้ว</title>
+    <updated>2022-01-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710430070417.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18955">Genshin Impact "The Stellar Moments Vol. 2" เปิดตัวอย่างเป็นทางการแล้ว</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18955" rel="alternate"/>
     <summary/>
-    <published>2021-10-13T12:00:00+07:00</published>
+    <published>2022-01-27T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16518</id>
@@ -2018,5 +2010,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519115679343.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18871">Genshin Impact OST ธีมตัวละคร "The Stellar Moments Vol. 2"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18871" rel="alternate"/>
     <published>2022-01-26T13:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18955</id>
+    <title>Genshin Impact "The Stellar Moments Vol. 2" เปิดตัวอย่างเป็นทางการแล้ว</title>
+    <updated>2022-01-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710430070417.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18955">Genshin Impact "The Stellar Moments Vol. 2" เปิดตัวอย่างเป็นทางการแล้ว</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18955" rel="alternate"/>
+    <summary/>
+    <published>2022-01-27T12:00:00+07:00</published>
   </entry>
 </feed>

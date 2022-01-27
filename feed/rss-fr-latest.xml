@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 27 Jan 2022 03:11:29 +0000</lastBuildDate>
-    <item>
-      <title>L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16505</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221215839502.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16505">L'événement web « Journal d'exploration d'Aloy » est désormais disponible : partez explorer Teyvat en compagnie d'Aloy et obtenez des récompenses !</a>]]></description>
-      <guid isPermaLink="false">16505</guid>
-      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jan 2022 04:12:35 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact, la bande-son : Invité désinvolte</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16507</link>
@@ -734,6 +727,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517130083154.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18856">Genshin Impact - The Stellar Moments Vol. 2</a>]]></description>
       <guid isPermaLink="false">18856</guid>
       <pubDate>Wed, 26 Jan 2022 13:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>« The Stellar Moments Vol. 2 » de Genshin Impact est officiellement disponible !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/18938</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012706075041432.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18938">« The Stellar Moments Vol. 2 » de Genshin Impact est officiellement disponible !</a>]]></description>
+      <guid isPermaLink="false">18938</guid>
+      <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

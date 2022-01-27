@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2022-01-27T03:12:05.435014+00:00</updated>
+  <updated>2022-01-27T04:13:05.260212+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -345,14 +345,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16156</id>
-    <title>Hậu Trường Âm Nhạc Inazuma Của Genshin Impact - Nỗi Lòng Người Lữ Khách</title>
-    <updated>2021-09-24T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416444389289.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16156">Hậu Trường Âm Nhạc Inazuma Của Genshin Impact - Nỗi Lòng Người Lữ Khách</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16156" rel="alternate"/>
-    <published>2021-09-24T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>16132</id>
@@ -1171,12 +1163,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2022-01-26T13:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16470</id>
-    <title>Tuyển tập Genshin Impact - He Who Wanders Untrammeled</title>
-    <updated>2021-10-13T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101216585610322.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16470">Tuyển tập Genshin Impact - He Who Wanders Untrammeled</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16470" rel="alternate"/>
-    <published>2021-10-13T12:00:00+07:00</published>
+    <id>18959</id>
+    <title>[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2 đã chính thức ra mắt!</title>
+    <updated>2022-01-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711082612966.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18959">[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2 đã chính thức ra mắt!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18959" rel="alternate"/>
+    <summary/>
+    <published>2022-01-27T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16477</id>
@@ -1994,5 +1987,14 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012519144340835.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18873">[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18873" rel="alternate"/>
     <published>2022-01-26T13:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18959</id>
+    <title>[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2 đã chính thức ra mắt!</title>
+    <updated>2022-01-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711082612966.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18959">[Genshin Impact] OST Chủ đề nhân vật - The Stellar Moments Vol. 2 đã chính thức ra mắt!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/18959" rel="alternate"/>
+    <summary/>
+    <published>2022-01-27T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - latest</title>
-  <updated>2022-01-27T03:11:25.897149+00:00</updated>
+  <updated>2022-01-27T04:12:31.533169+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>16556</id>
-    <title>Genshin Impact Offline Concert Merchandise Information - Phase II</title>
-    <updated>2021-10-19T18:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211018/2021101819003591128.jpg"><br/><br/>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16556">Genshin Impact Offline Concert Merchandise Information - Phase II</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16556" rel="alternate"/>
-    <summary>In addition to the GENSHIN CONCERT 2021 merchandise series, we have specially prepared accessories from the Wanderer's Troupe series. Don't miss it, Travelers~</summary>
-    <published>2021-10-19T18:00:00-04:00</published>
-  </entry>
   <entry>
     <id>16582</id>
     <title>"Labyrinth Warriors" Gameplay Details</title>
@@ -979,5 +970,14 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
     <link href="https://genshin.mihoyo.com/en/news/detail/18850" rel="alternate"/>
     <summary>Genshin Impact's character album "The Stellar Moments Vol. 2" is out now! Featuring 21 splendid tracks composed by @HOYO-MiX, each one an original composition for the characters of Genshin Impact.</summary>
     <published>2022-01-26T13:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18939</id>
+    <title>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</title>
+    <updated>2022-01-27T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710162412018.jpg"><br/><br/>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18939">Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18939" rel="alternate"/>
+    <summary>Genshin Impact "The Stellar Moments Vol. 2" has officially launched!</summary>
+    <published>2022-01-27T12:00:00-05:00</published>
   </entry>
 </feed>

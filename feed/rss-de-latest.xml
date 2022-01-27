@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Thu, 27 Jan 2022 03:11:36 +0000</lastBuildDate>
-    <item>
-      <title>Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.2 – Teil 1</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16353</link>
-      <description>Hallo, Reisender! Version 2.2 steht vor der Tür und über das Bild unten kannst du mehr über die neuen Aktionen erfahren!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211009/2021100919504514745.jpg"><br/><br/>Hallo, Reisender! Version 2.2 steht vor der Tür und über das Bild unten kannst du mehr über die neuen Aktionen erfahren!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16353">Erfahre zusammen mit Paimon mehr über die kommenden Aktionen: Aktionsübersicht für Version 2.2 – Teil 1</a>]]></content:encoded>
-      <guid isPermaLink="false">16353</guid>
-      <pubDate>Mon, 11 Oct 2021 12:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jan 2022 04:12:40 +0000</lastBuildDate>
     <item>
       <title>Erläuterungen zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16489</link>
@@ -869,6 +861,14 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220125/2022012517173028111.png"><br/><br/>Das Album zu Figuren „The Stellar Moments Vol. 2“ von Genshin Impact erscheint offiziell online mit 21 ausgewählten Titeln von der Musikgruppe @HOYO-MiX in der exklusiven Originalfassung zu Figuren des Spiels Genshin Impact.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18858">„The Stellar Moments Vol. 2“ von Genshin Impact</a>]]></content:encoded>
       <guid isPermaLink="false">18858</guid>
       <pubDate>Wed, 26 Jan 2022 13:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18952</link>
+      <description>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710395382770.jpg"><br/><br/>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18952">The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</a>]]></content:encoded>
+      <guid isPermaLink="false">18952</guid>
+      <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

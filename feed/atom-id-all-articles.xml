@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-27T03:11:46.641821+00:00</updated>
+  <updated>2022-01-27T04:12:48.772054+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -663,6 +663,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-26T13:00:00+07:00</published>
   </entry>
   <entry>
+    <id>18940</id>
+    <title>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</title>
+    <updated>2022-01-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710192715377.jpg"><br/><br/>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18940">Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18940" rel="alternate"/>
+    <summary>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</summary>
+    <published>2022-01-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -940,5 +949,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18864" rel="alternate"/>
     <summary>Album OST Karakter Genshin Impact, "The Stellar Moments Vol. 2" resmi hadir! </summary>
     <published>2022-01-26T13:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18940</id>
+    <title>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</title>
+    <updated>2022-01-27T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710192715377.jpg"><br/><br/>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18940">Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18940" rel="alternate"/>
+    <summary>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</summary>
+    <published>2022-01-27T12:00:00+07:00</published>
   </entry>
 </feed>

@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - info</title>
-  <updated>2022-01-27T03:11:50.523650+00:00</updated>
+  <updated>2022-01-27T04:12:52.318499+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16324</id>
-    <title>&lt;원신&gt; 스토리 PV - 「속세의 맛」</title>
-    <updated>2021-10-02T18:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100118430652994.jpg"><br/><br/>세월을 반찬 삼고 강산을 안주 삼아, 끝없이 윤회하는 세월을 논하도다.
-연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16324"><원신> 스토리 PV - 「속세의 맛」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16324" rel="alternate"/>
-    <summary>세월을 반찬 삼고 강산을 안주 삼아, 끝없이 윤회하는 세월을 논하도다.
-연기 속에서 속세의 희락이 교차하고 삶 속에서 석양을 바라본다. 구름은 달을 쫓고 조각배가 속세를 정처 없이 떠다니네.</summary>
-    <published>2021-10-02T18:01:00+09:00</published>
-  </entry>
   <entry>
     <id>16327</id>
     <title>&lt;원신&gt; 2.2 버전 PV: 「안개의 미궁 속으로」</title>
@@ -920,5 +909,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18867" rel="alternate"/>
     <summary>&lt;원신&gt; 캐릭터 테마 OST 〈빛나는 뭇별2 The Stellar Moments Vol. 2〉 출시! HOYO-MiX가 〈원신〉 게임 캐릭터를 위해 제작한 오리지널 사운드트랙 21곡 수록</summary>
     <published>2022-01-26T13:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18960</id>
+    <title>&lt;원신&gt; 빛나는 뭇별2 The Stellar Moments Vol. 2 출시!</title>
+    <updated>2022-01-27T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711085849288.jpg"><br/><br/><원신> 빛나는 뭇별2 The Stellar Moments Vol. 2 출시<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18960"><원신> 빛나는 뭇별2 The Stellar Moments Vol. 2 출시!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18960" rel="alternate"/>
+    <summary>&lt;원신&gt; 빛나는 뭇별2 The Stellar Moments Vol. 2 출시</summary>
+    <published>2022-01-27T12:00:00+09:00</published>
   </entry>
 </feed>
