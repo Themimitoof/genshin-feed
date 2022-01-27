@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>https://genshin.mihoyo.com/ja/news</id>
   <title>Genshin Impact JA - all-articles</title>
-  <updated>2022-01-27T07:11:03.587266+00:00</updated>
+  <updated>2022-01-27T08:13:39.099595+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -2019,13 +2019,13 @@
     <published>2022-01-16T12:00:00+09:00</published>
   </entry>
   <entry>
-    <id>14405</id>
-    <title>Ver.2.0「鳴神不動、泡影を滅す」更新内容について</title>
-    <updated>2021-07-21T07:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072016161010277.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14405">Ver.2.0「鳴神不動、泡影を滅す」更新内容について</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ja/news/detail/14405" rel="alternate"/>
+    <id>18971</id>
+    <title>『輝く星々Vol. 2 The Stellar Moments Vol. 2』配信中！</title>
+    <updated>2022-01-27T00:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012714575418147.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18971">『輝く星々Vol. 2 The Stellar Moments Vol. 2』配信中！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18971" rel="alternate"/>
     <summary/>
-    <published>2021-07-21T07:00:00+09:00</published>
+    <published>2022-01-27T00:00:00+09:00</published>
   </entry>
   <entry>
     <id>14404</id>
@@ -2888,5 +2888,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012111014185603.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18791">「華々しき流年」イベント紹介</a>]]></content>
     <link href="https://genshin.mihoyo.com/ja/news/detail/18791" rel="alternate"/>
     <published>2022-01-24T10:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18971</id>
+    <title>『輝く星々Vol. 2 The Stellar Moments Vol. 2』配信中！</title>
+    <updated>2022-01-27T00:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012714575418147.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18971">『輝く星々Vol. 2 The Stellar Moments Vol. 2』配信中！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ja/news/detail/18971" rel="alternate"/>
+    <summary/>
+    <published>2022-01-27T00:00:00+09:00</published>
   </entry>
 </feed>

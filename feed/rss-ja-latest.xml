@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Jan 2022 07:11:02 +0000</lastBuildDate>
-    <item>
-      <title>Ver.2.0「鳴神不動、泡影を滅す」更新内容について</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/14405</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210720/2021072016161010277.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/14405">Ver.2.0「鳴神不動、泡影を滅す」更新内容について</a>]]></description>
-      <guid isPermaLink="false">14405</guid>
-      <pubDate>Wed, 21 Jul 2021 07:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jan 2022 08:13:36 +0000</lastBuildDate>
     <item>
       <title>「雷痕を求めて」イベント紹介</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/14404</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012111014185603.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18791">「華々しき流年」イベント紹介</a>]]></description>
       <guid isPermaLink="false">18791</guid>
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>『輝く星々Vol. 2 The Stellar Moments Vol. 2』配信中！</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/18971</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012714575418147.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18971">『輝く星々Vol. 2 The Stellar Moments Vol. 2』配信中！</a>]]></description>
+      <guid isPermaLink="false">18971</guid>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
