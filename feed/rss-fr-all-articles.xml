@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 27 Jan 2022 09:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 10:11:15 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -340,13 +340,6 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812120542932.png"><br/><br/>Tout se passait bien jusqu'à ce que l'inattendu se produise... Votre aventure dans les Monts Dosdragon commence maintenant !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/7462">L'aperçu de la version 1.2 « Craie et Dragon » est désormais disponible !</a>]]></content:encoded>
       <guid isPermaLink="false">7462</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16154</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210924/2021092416431653350.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16154">Rêveries du voyageur | Genshin Impact - Dans les coulisses de la bande originale d'Inazuma</a>]]></description>
-      <guid isPermaLink="false">16154</guid>
-      <pubDate>Fri, 24 Sep 2021 18:00:00 +0200</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « Liesse au clair de lune »</title>
@@ -1063,11 +1056,11 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Genshin Impact, la bande-son : Invité désinvolte</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16507</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221285444945.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16507">Genshin Impact, la bande-son : Invité désinvolte</a>]]></description>
-      <guid isPermaLink="false">16507</guid>
-      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+      <title>Détails sur la distribution des tenues alternatives</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19004</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716531430268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19004">Détails sur la distribution des tenues alternatives</a>]]></description>
+      <guid isPermaLink="false">19004</guid>
+      <pubDate>Thu, 27 Jan 2022 18:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Détails de l'événement « À l'écoute des sons du monde »</title>
@@ -1787,6 +1780,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012706075041432.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18938">« The Stellar Moments Vol. 2 » de Genshin Impact est officiellement disponible !</a>]]></description>
       <guid isPermaLink="false">18938</guid>
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Détails sur la distribution des tenues alternatives</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19004</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716531430268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19004">Détails sur la distribution des tenues alternatives</a>]]></description>
+      <guid isPermaLink="false">19004</guid>
+      <pubDate>Thu, 27 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

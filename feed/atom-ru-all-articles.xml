@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-27T09:11:03.863480+00:00</updated>
+  <updated>2022-01-27T10:11:35.509055+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -438,17 +438,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>16227</id>
-    <title>Браузерное событие в честь годовщины «Путешествие воспоминаний» стартовало: посмотрите театр годовщины и получите подарки.</title>
-    <updated>2021-09-28T11:30:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092810531761013.jpg"><br/><br/>Время, проведённое в Тейвате, кажется, всегда пролетает незаметно.
-Прошло 365 дней и ночей, медленно открывается посвящённый вам театр годовщины...<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16227">Браузерное событие в честь годовщины «Путешествие воспоминаний» стартовало: посмотрите театр годовщины и получите подарки.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16227" rel="alternate"/>
-    <summary>Время, проведённое в Тейвате, кажется, всегда пролетает незаметно.
-Прошло 365 дней и ночей, медленно открывается посвящённый вам театр годовщины...</summary>
-    <published>2021-09-28T11:30:00+03:00</published>
   </entry>
   <entry>
     <id>16196</id>
@@ -1357,13 +1346,13 @@
     <published>2022-01-27T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>16572</id>
-    <title>Событие «Воины лабиринта»: Примите участие, чтобы получить в свой отряд персонажа «Пламенная Мелодия» Синь Янь (Пиро)</title>
-    <updated>2021-10-19T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[В период события выполняйте различные испытания «Мистической палаты оммё» и получайте истёртые скрижали, которые в Магазине события можно обменять на Камни Истока, Корону прозрения, материалы развития персонажей, материалы повышения талантов, Опыт героя, волшебную руду усиления и другие награды.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16572">Событие «Воины лабиринта»: Примите участие, чтобы получить в свой отряд персонажа «Пламенная Мелодия» Синь Янь (Пиро)</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16572" rel="alternate"/>
-    <summary>В период события выполняйте различные испытания «Мистической палаты оммё» и получайте истёртые скрижали, которые в Магазине события можно обменять на Камни Истока, Корону прозрения, материалы развития персонажей, материалы повышения талантов, Опыт героя, волшебную руду усиления и другие награды.</summary>
-    <published>2021-10-19T12:00:00+03:00</published>
+    <id>18980</id>
+    <title>О получении альтернативных костюмов</title>
+    <updated>2022-01-27T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715235375086.jpg"><br/><br/>Альтернативные костюмы персонажей «Рыцарь Одуванчик» Джинн (Анемо), «Чемпион полётов» Эмбер (Пиро), «Венец милости» Розария (Крио) и «Звёздная гладь» Мона (Гидро) уже готовы. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18980">О получении альтернативных костюмов</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18980" rel="alternate"/>
+    <summary>Альтернативные костюмы персонажей «Рыцарь Одуванчик» Джинн (Анемо), «Чемпион полётов» Эмбер (Пиро), «Венец милости» Розария (Крио) и «Звёздная гладь» Мона (Гидро) уже готовы. </summary>
+    <published>2022-01-27T18:00:00+03:00</published>
   </entry>
   <entry>
     <id>16557</id>
@@ -2272,5 +2261,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/18941" rel="alternate"/>
     <summary>Альбом Genshin Impact «The Stellar Moments Vol. 2».</summary>
     <published>2022-01-27T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>18980</id>
+    <title>О получении альтернативных костюмов</title>
+    <updated>2022-01-27T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715235375086.jpg"><br/><br/>Альтернативные костюмы персонажей «Рыцарь Одуванчик» Джинн (Анемо), «Чемпион полётов» Эмбер (Пиро), «Венец милости» Розария (Крио) и «Звёздная гладь» Мона (Гидро) уже готовы. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18980">О получении альтернативных костюмов</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/18980" rel="alternate"/>
+    <summary>Альтернативные костюмы персонажей «Рыцарь Одуванчик» Джинн (Анемо), «Чемпион полётов» Эмбер (Пиро), «Венец милости» Розария (Крио) и «Звёздная гладь» Мона (Гидро) уже готовы. </summary>
+    <published>2022-01-27T18:00:00+03:00</published>
   </entry>
 </feed>

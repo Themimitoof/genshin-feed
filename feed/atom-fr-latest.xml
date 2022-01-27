@@ -2,21 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - latest</title>
-  <updated>2022-01-27T09:10:59.155689+00:00</updated>
+  <updated>2022-01-27T10:11:13.311903+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/fr/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in fr</subtitle>
-  <entry>
-    <id>16507</id>
-    <title>Genshin Impact, la bande-son : Invité désinvolte</title>
-    <updated>2021-10-13T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221285444945.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16507">Genshin Impact, la bande-son : Invité désinvolte</a>]]></content>
-    <link href="https://genshin.mihoyo.com/fr/news/detail/16507" rel="alternate"/>
-    <published>2021-10-13T12:00:00+02:00</published>
-  </entry>
   <entry>
     <id>16504</id>
     <title>Détails de l'événement « À l'écoute des sons du monde »</title>
@@ -856,5 +848,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
     <link href="https://genshin.mihoyo.com/fr/news/detail/18938" rel="alternate"/>
     <summary/>
     <published>2022-01-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19004</id>
+    <title>Détails sur la distribution des tenues alternatives</title>
+    <updated>2022-01-27T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716531430268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19004">Détails sur la distribution des tenues alternatives</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/19004" rel="alternate"/>
+    <published>2022-01-27T18:00:00+01:00</published>
   </entry>
 </feed>

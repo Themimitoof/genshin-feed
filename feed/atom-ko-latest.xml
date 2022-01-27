@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2022-01-27T09:11:02.315938+00:00</updated>
+  <updated>2022-01-27T10:11:28.124924+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16550</id>
-    <title>Twitch &lt;원신&gt; 2.2 버전 스트리머 모집</title>
-    <updated>2021-10-15T18:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101517575986095.jpg"><br/><br/>Twitch <원신> 2.2 버전 스트리머 모집 이벤트가 오픈했습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16550">Twitch <원신> 2.2 버전 스트리머 모집</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16550" rel="alternate"/>
-    <summary>Twitch &lt;원신&gt; 2.2 버전 스트리머 모집 이벤트가 오픈했습니다</summary>
-    <published>2021-10-15T18:00:00+09:00</published>
-  </entry>
   <entry>
     <id>16573</id>
     <title>「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</title>
@@ -916,5 +907,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18960" rel="alternate"/>
     <summary>&lt;원신&gt; 빛나는 뭇별2 The Stellar Moments Vol. 2 출시</summary>
     <published>2022-01-27T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>18995</id>
+    <title>캐릭터 교체 코스튬 지급 안내</title>
+    <updated>2022-01-27T18:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18995">캐릭터 교체 코스튬 지급 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/18995" rel="alternate"/>
+    <summary/>
+    <published>2022-01-27T18:00:00+09:00</published>
   </entry>
 </feed>

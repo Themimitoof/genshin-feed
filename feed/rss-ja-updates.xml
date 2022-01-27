@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Jan 2022 09:11:01 +0000</lastBuildDate>
-    <item>
-      <title>キャンペーン「冒険者・集結」開催！</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/6226</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201028/2020102815340222327.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/6226">キャンペーン「冒険者・集結」開催！</a>]]></description>
-      <guid isPermaLink="false">6226</guid>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Thu, 27 Jan 2022 10:11:26 +0000</lastBuildDate>
     <item>
       <title>コンテンツクリエーター募集開始！</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/6182</link>
@@ -717,6 +710,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220104/2022010412011837535.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18429">Appleアカウントにおけるシステムメンテナンスのお知らせ</a>]]></description>
       <guid isPermaLink="false">18429</guid>
       <pubDate>Wed, 05 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>オルタコスチューム配布説明</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/19001</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716282437571.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/19001">オルタコスチューム配布説明</a>]]></description>
+      <guid isPermaLink="false">19001</guid>
+      <pubDate>Thu, 27 Jan 2022 18:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

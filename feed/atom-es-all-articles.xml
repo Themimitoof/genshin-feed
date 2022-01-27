@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-27T09:11:01.110768+00:00</updated>
+  <updated>2022-01-27T10:11:22.695485+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -719,6 +719,15 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2022-01-27T12:00:00+01:00</published>
   </entry>
   <entry>
+    <id>19009</id>
+    <title>Detalles sobre el lanzamiento de conjuntos alternativos</title>
+    <updated>2022-01-27T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717370532113.jpg"><br/><br/>Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19009">Detalles sobre el lanzamiento de conjuntos alternativos</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19009" rel="alternate"/>
+    <summary>Querido/a viajero/a:</summary>
+    <published>2022-01-27T18:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -1117,5 +1126,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18945" rel="alternate"/>
     <summary/>
     <published>2022-01-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19009</id>
+    <title>Detalles sobre el lanzamiento de conjuntos alternativos</title>
+    <updated>2022-01-27T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717370532113.jpg"><br/><br/>Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19009">Detalles sobre el lanzamiento de conjuntos alternativos</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19009" rel="alternate"/>
+    <summary>Querido/a viajero/a:</summary>
+    <published>2022-01-27T18:00:00+01:00</published>
   </entry>
 </feed>

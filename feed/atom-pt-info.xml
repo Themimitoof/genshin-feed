@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - info</title>
-  <updated>2022-01-27T09:11:02.947600+00:00</updated>
+  <updated>2022-01-27T10:11:31.232244+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16237</id>
-    <title>O evento Web de Aniversário "Em Busca das Lembranças" já se encontra disponível - assista ao seu Teatro de Aniversário personalizado para ganhar Gemas Essenciais e outras recompensas</title>
-    <updated>2021-09-28T11:30:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811074713642.jpg"><br/><br/>Durante o período do evento, assista ao seu próprio Teatro de Aniversário até o final, na página de evento, e ganhe um presente de visualização exclusivo.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16237">O evento Web de Aniversário "Em Busca das Lembranças" já se encontra disponível - assista ao seu Teatro de Aniversário personalizado para ganhar Gemas Essenciais e outras recompensas</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16237" rel="alternate"/>
-    <summary>Durante o período do evento, assista ao seu próprio Teatro de Aniversário até o final, na página de evento, e ganhe um presente de visualização exclusivo.</summary>
-    <published>2021-09-28T11:30:00+01:00</published>
-  </entry>
   <entry>
     <id>16195</id>
     <title>Vídeo Promocional - Companheiros de Viagem | Genshin Impact</title>
@@ -915,5 +906,14 @@ Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente c
     <link href="https://genshin.mihoyo.com/pt/news/detail/18943" rel="alternate"/>
     <summary>Pressione para ouvir os temas exclusivos dos personagens!</summary>
     <published>2022-01-27T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18983</id>
+    <title>Descrição de Envio de Vestuários Substitutos Casuais</title>
+    <updated>2022-01-27T18:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715391621660.jpg"><br/><br/>Os Vestuários Substitutos Casuais das personagens "Cavaleira de Dandelion - Jean (Anemo)", "Campeã Voadora - Amber (Pyro)", "Benevolência Espinhosa - Rosaria (Cryo)" e da "Reflexão Astral - Mona (Hydro)" já se encontram disponíveis!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18983">Descrição de Envio de Vestuários Substitutos Casuais</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18983" rel="alternate"/>
+    <summary>Os Vestuários Substitutos Casuais das personagens "Cavaleira de Dandelion - Jean (Anemo)", "Campeã Voadora - Amber (Pyro)", "Benevolência Espinhosa - Rosaria (Cryo)" e da "Reflexão Astral - Mona (Hydro)" já se encontram disponíveis!</summary>
+    <published>2022-01-27T18:00:00+00:00</published>
   </entry>
 </feed>

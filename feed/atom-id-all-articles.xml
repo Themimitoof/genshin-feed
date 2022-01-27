@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-27T09:11:01.610036+00:00</updated>
+  <updated>2022-01-27T10:11:25.364968+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -672,6 +672,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-27T12:00:00+07:00</published>
   </entry>
   <entry>
+    <id>18989</id>
+    <title>Penjelasan Pembagian Kostum Alternatif</title>
+    <updated>2022-01-27T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716015624344.jpg"><br/><br/>Penjelasan Pembagian Kostum Alternatif<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18989">Penjelasan Pembagian Kostum Alternatif</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18989" rel="alternate"/>
+    <summary>Penjelasan Pembagian Kostum Alternatif</summary>
+    <published>2022-01-27T18:00:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -958,5 +967,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18940" rel="alternate"/>
     <summary>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</summary>
     <published>2022-01-27T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18989</id>
+    <title>Penjelasan Pembagian Kostum Alternatif</title>
+    <updated>2022-01-27T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716015624344.jpg"><br/><br/>Penjelasan Pembagian Kostum Alternatif<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18989">Penjelasan Pembagian Kostum Alternatif</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/18989" rel="alternate"/>
+    <summary>Penjelasan Pembagian Kostum Alternatif</summary>
+    <published>2022-01-27T18:00:00+07:00</published>
   </entry>
 </feed>

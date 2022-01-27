@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 27 Jan 2022 09:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 10:11:22 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -635,6 +635,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Detalles sobre el lanzamiento de conjuntos alternativos</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/19009</link>
+      <description>Querido/a viajero/a:</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717370532113.jpg"><br/><br/>Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19009">Detalles sobre el lanzamiento de conjuntos alternativos</a>]]></content:encoded>
+      <guid isPermaLink="false">19009</guid>
+      <pubDate>Thu, 27 Jan 2022 18:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -988,6 +996,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710302472451.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18945">¡Ya está oficialmente disponible Genshin Impact «Los momentos estelares 2» (The Stellar Moments Vol. 2)!</a>]]></description>
       <guid isPermaLink="false">18945</guid>
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Detalles sobre el lanzamiento de conjuntos alternativos</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/19009</link>
+      <description>Querido/a viajero/a:</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717370532113.jpg"><br/><br/>Querido/a viajero/a:<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19009">Detalles sobre el lanzamiento de conjuntos alternativos</a>]]></content:encoded>
+      <guid isPermaLink="false">19009</guid>
+      <pubDate>Thu, 27 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

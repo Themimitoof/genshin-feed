@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Thu, 27 Jan 2022 09:11:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 10:11:25 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -590,6 +590,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Penjelasan Pembagian Kostum Alternatif</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18989</link>
+      <description>Penjelasan Pembagian Kostum Alternatif</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716015624344.jpg"><br/><br/>Penjelasan Pembagian Kostum Alternatif<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18989">Penjelasan Pembagian Kostum Alternatif</a>]]></content:encoded>
+      <guid isPermaLink="false">18989</guid>
+      <pubDate>Thu, 27 Jan 2022 18:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
       <link>https://genshin.mihoyo.com/id/news/detail/18288</link>
       <description>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</description>
@@ -844,6 +852,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710192715377.jpg"><br/><br/>Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18940">Genshin Impact "The Stellar Moments Vol. 2" Telah Resmi Dirilis!</a>]]></content:encoded>
       <guid isPermaLink="false">18940</guid>
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Penjelasan Pembagian Kostum Alternatif</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/18989</link>
+      <description>Penjelasan Pembagian Kostum Alternatif</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716015624344.jpg"><br/><br/>Penjelasan Pembagian Kostum Alternatif<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18989">Penjelasan Pembagian Kostum Alternatif</a>]]></content:encoded>
+      <guid isPermaLink="false">18989</guid>
+      <pubDate>Thu, 27 Jan 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
