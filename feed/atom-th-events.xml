@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - events</title>
-  <updated>2022-01-28T03:11:40.879344+00:00</updated>
+  <updated>2022-01-28T04:14:28.629853+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -244,5 +244,22 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719114622803.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18733">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Ganyu "ผู้พิทักษ์แห่งจันทรา"</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/18733" rel="alternate"/>
     <published>2022-01-18T12:10:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19044</id>
+    <title>[กิจกรรมบนเว็บไซต์] เริ่มแล้ว- เข้าร่วมเพื่อรับรางวัลเช่น Primogem ร่วมเฉลิมฉลองเทศกาล Lantern Rite ไปด้วยกันกับเหล่าเซียนกันเถอะ!</title>
+    <updated>2022-01-28T11:30:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012810582032265.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19044">[กิจกรรมบนเว็บไซต์] เริ่มแล้ว- เข้าร่วมเพื่อรับรางวัลเช่น Primogem ร่วมเฉลิมฉลองเทศกาล Lantern Rite ไปด้วยกันกับเหล่าเซียนกันเถอะ!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/19044" rel="alternate"/>
+    <summary/>
+    <published>2022-01-28T11:30:00+07:00</published>
+  </entry>
+  <entry>
+    <id>18978</id>
+    <title>[ประกาศรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์"</title>
+    <updated>2022-01-28T12:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715141040319.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18978">[ประกาศรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/18978" rel="alternate"/>
+    <published>2022-01-28T12:00:00+07:00</published>
   </entry>
 </feed>

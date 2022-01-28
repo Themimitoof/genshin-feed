@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:10:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 04:13:42 +0000</lastBuildDate>
     <item>
       <title>Événement Spécial pour l'Ouverture du Forum Officiel de Genshin Impact : Participez pour Gagner une Chance de Participer au Bêta-Test !</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/2166</link>
@@ -205,6 +205,21 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719494680834.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/18738">[Concours] Concours de fanart de Ganyu « Défense fervente »</a>]]></description>
       <guid isPermaLink="false">18738</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Festin des Adeptes » est disponible ! Participez pour obtenir des primo-gemmes ainsi que d'autres récompenses et célébrez le Festival des lanternes avec les Adeptes !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19055</link>
+      <description>Célébrez la nouvelle année avec les couleurs éphémères en vol et le grandiose festin des Adeptes. Profitez des paysages merveilleux des festivités et du spectacle de feux d'artifice. Célébrez le Festival des lanternes avec les Adeptes !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811074331546.jpg"><br/><br/>Célébrez la nouvelle année avec les couleurs éphémères en vol et le grandiose festin des Adeptes. Profitez des paysages merveilleux des festivités et du spectacle de feux d'artifice. Célébrez le Festival des lanternes avec les Adeptes !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19055">L'événement web « Festin des Adeptes » est disponible ! Participez pour obtenir des primo-gemmes ainsi que d'autres récompenses et célébrez le Festival des lanternes avec les Adeptes !</a>]]></content:encoded>
+      <guid isPermaLink="false">19055</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Annonce des gagnants] Concours de fanart de Xiao « Gardien Yaksha »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19010</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717362178613.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19010">[Annonce des gagnants] Concours de fanart de Xiao « Gardien Yaksha »</a>]]></description>
+      <guid isPermaLink="false">19010</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

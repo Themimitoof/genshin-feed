@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 04:13:53 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -180,6 +180,24 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
       <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Webaktion jetzt verfügbar – Großes Festmahl der Adepten: Feiere das Laternenritual mit den Adepten aus Liyue. Nimm an der Aktion teil und erhalte Urgestein sowie andere Belohnungen!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19049</link>
+      <description>Glänzende Farben fliegen durch die verflossenen Jahre, Lieder des Diesseits begrüßen die Adepten. Bewundern wir die Blütezeit der Welt und genießen alle die Schönheit der Feuerwerke. Feiere das Laternenritual mit den Adepten aus Liyue!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811042730982.jpg"><br/><br/>Glänzende Farben fliegen durch die verflossenen Jahre, Lieder des Diesseits begrüßen die Adepten. Bewundern wir die Blütezeit der Welt und genießen alle die Schönheit der Feuerwerke. Feiere das Laternenritual mit den Adepten aus Liyue!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19049">Webaktion jetzt verfügbar – Großes Festmahl der Adepten: Feiere das Laternenritual mit den Adepten aus Liyue. Nimm an der Aktion teil und erhalte Urgestein sowie andere Belohnungen!</a>]]></content:encoded>
+      <guid isPermaLink="false">19049</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ergebnisverkündung für die Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18964</link>
+      <description>Liebe Reisende,
+die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711560790464.png"><br/><br/>Liebe Reisende,
+die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18964">Ergebnisverkündung für die Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao</a>]]></content:encoded>
+      <guid isPermaLink="false">18964</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Betritt in „Genshin Impact“ gemeinsam mit Amber die Welt von Teyvat!</title>
       <link>https://genshin.mihoyo.com/de/news/detail/736</link>
       <description>Dieses Glück hat nicht jeder! Los, gehen wir!</description>
@@ -318,16 +336,6 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201218/2020121812121526926.png"><br/><br/>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/7463">Vorschau zur Aktualisierung auf Version 1.2 „Kreide und Drachen“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">7463</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Jubiläums-Webaktion „Unvergessliche Reise“ jetzt verfügbar: Sieh dir das Jubiläumstheater an, um Urgestein und weitere Belohnungen zu erhalten.</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16240</link>
-      <description>Immer so schnell scheint die Zeit in Teyvat zu vergehen.
-365 Tage sind im Nu vorbei, während sich der Vorhang des Jubiläumstheaters langsam hebt, das wir ausschließlich für dich vorbereitet haben ...</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811110862970.jpg"><br/><br/>Immer so schnell scheint die Zeit in Teyvat zu vergehen.
-365 Tage sind im Nu vorbei, während sich der Vorhang des Jubiläumstheaters langsam hebt, das wir ausschließlich für dich vorbereitet haben ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16240">Jubiläums-Webaktion „Unvergessliche Reise“ jetzt verfügbar: Sieh dir das Jubiläumstheater an, um Urgestein und weitere Belohnungen zu erhalten.</a>]]></content:encoded>
-      <guid isPermaLink="false">16240</guid>
-      <pubDate>Tue, 28 Sep 2021 11:30:00 +0200</pubDate>
     </item>
     <item>
       <title>Werbevideo von Genshin Impact – Gemeinsam auf langen Reisen</title>
@@ -1170,32 +1178,12 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Erläuterungen zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16489</link>
-      <description>Lieber Reisender,
-hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“ sowie zur Entschädigung dafür.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101219213657717.jpg"><br/><br/>Lieber Reisender,
-hier findest du Details zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“ sowie zur Entschädigung dafür.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16489">Erläuterungen zur Aktualisierung auf Version 2.2 „Hinein ins Labyrinth des Nebels“</a>]]></content:encoded>
-      <guid isPermaLink="false">16489</guid>
-      <pubDate>Wed, 13 Oct 2021 07:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Minialbum von Genshin Impact – He Who Wanders Untrammeled</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16481</link>
-      <description>Als er durch die von Kirschblüten gesäumten Straßen und Gassen wanderte, kam dem jungen Kampfkünstler ein seltener und tiefgehender Gedanke.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217591916763.jpg"><br/><br/>Als er durch die von Kirschblüten gesäumten Straßen und Gassen wanderte, kam dem jungen Kampfkünstler ein seltener und tiefgehender Gedanke.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16481">Minialbum von Genshin Impact – He Who Wanders Untrammeled</a>]]></content:encoded>
-      <guid isPermaLink="false">16481</guid>
-      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16484</link>
-      <description>Aloys Erkundungstagebuch
-Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101218035842194.jpg"><br/><br/>Aloys Erkundungstagebuch
-Welche Abenteuer wird Aloy erleben, wenn diese „Retterin aus einer anderen Welt“ in Teyvat ist?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16484">Die Webaktion „Aloys Erkundungstagebuch“ ist jetzt verfügbar. Erkunde mit Aloy Teyvat  und gewinne Preise!</a>]]></content:encoded>
-      <guid isPermaLink="false">16484</guid>
-      <pubDate>Wed, 13 Oct 2021 12:00:00 +0200</pubDate>
+      <title>Vorschau auf GENSHIN CONCERT – Sonderausgabe</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19013</link>
+      <description>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718004744988.jpg"><br/><br/>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19013">Vorschau auf GENSHIN CONCERT – Sonderausgabe</a>]]></content:encoded>
+      <guid isPermaLink="false">19013</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Erläuterungen zur Spielweise von „Klänge der Welt“</title>
@@ -2029,6 +2017,32 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012710395382770.jpg"><br/><br/>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18952">The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">18952</guid>
       <pubDate>Thu, 27 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Webaktion jetzt verfügbar – Großes Festmahl der Adepten: Feiere das Laternenritual mit den Adepten aus Liyue. Nimm an der Aktion teil und erhalte Urgestein sowie andere Belohnungen!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19049</link>
+      <description>Glänzende Farben fliegen durch die verflossenen Jahre, Lieder des Diesseits begrüßen die Adepten. Bewundern wir die Blütezeit der Welt und genießen alle die Schönheit der Feuerwerke. Feiere das Laternenritual mit den Adepten aus Liyue!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811042730982.jpg"><br/><br/>Glänzende Farben fliegen durch die verflossenen Jahre, Lieder des Diesseits begrüßen die Adepten. Bewundern wir die Blütezeit der Welt und genießen alle die Schönheit der Feuerwerke. Feiere das Laternenritual mit den Adepten aus Liyue!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19049">Webaktion jetzt verfügbar – Großes Festmahl der Adepten: Feiere das Laternenritual mit den Adepten aus Liyue. Nimm an der Aktion teil und erhalte Urgestein sowie andere Belohnungen!</a>]]></content:encoded>
+      <guid isPermaLink="false">19049</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ergebnisverkündung für die Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18964</link>
+      <description>Liebe Reisende,
+die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711560790464.png"><br/><br/>Liebe Reisende,
+die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18964">Ergebnisverkündung für die Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao</a>]]></content:encoded>
+      <guid isPermaLink="false">18964</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Vorschau auf GENSHIN CONCERT – Sonderausgabe</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19013</link>
+      <description>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718004744988.jpg"><br/><br/>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19013">Vorschau auf GENSHIN CONCERT – Sonderausgabe</a>]]></content:encoded>
+      <guid isPermaLink="false">19013</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

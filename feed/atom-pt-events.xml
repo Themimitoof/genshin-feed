@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - events</title>
-  <updated>2022-01-28T03:11:28.676033+00:00</updated>
+  <updated>2022-01-28T04:14:18.511624+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -315,5 +315,23 @@ Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é ho
     <summary>Caro Viajante,
 Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é hora de desenhar!</summary>
     <published>2022-01-18T12:10:00+00:00</published>
+  </entry>
+  <entry>
+    <id>19039</id>
+    <title>O Evento web "O Grande Banquete dos Adepti" - Participe deste evento para obter Gemas Essenciais e outras recompensas! Celebre o Ritual de Lanternas junto com os Adepti de Liyue!</title>
+    <updated>2022-01-28T11:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012810500373342.jpg"><br/><br/>Contemple cores efêmeras voadoras e se divirta no banquete dos Adepti para assistir fogos de artifício que ilumina todo o mundo. Viajante, venha celebrar o Ritual de Lanternas junto com os Adepti de Liyue~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/19039">O Evento web "O Grande Banquete dos Adepti" - Participe deste evento para obter Gemas Essenciais e outras recompensas! Celebre o Ritual de Lanternas junto com os Adepti de Liyue!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/19039" rel="alternate"/>
+    <summary>Contemple cores efêmeras voadoras e se divirta no banquete dos Adepti para assistir fogos de artifício que ilumina todo o mundo. Viajante, venha celebrar o Ritual de Lanternas junto com os Adepti de Liyue~</summary>
+    <published>2022-01-28T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18966</id>
+    <title>[Publicação dos Resultados] Evento de Coleta de Arte de Fãs "Guardião Yaksha"!</title>
+    <updated>2022-01-28T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711590873864.png"><br/><br/>O evento já terminou! Vamos ver quais obras foram premiadas~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18966">[Publicação dos Resultados] Evento de Coleta de Arte de Fãs "Guardião Yaksha"!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18966" rel="alternate"/>
+    <summary>O evento já terminou! Vamos ver quais obras foram premiadas~</summary>
+    <published>2022-01-28T12:00:00+00:00</published>
   </entry>
 </feed>

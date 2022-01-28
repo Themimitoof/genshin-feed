@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 04:14:28 +0000</lastBuildDate>
     <item>
       <title>กิจกรรมฟอรั่มของ Genshin Impact - ลุ้นรับสิทธิ์เข้าร่วมการทดสอบ</title>
       <link>https://genshin.mihoyo.com/th/news/detail/2159</link>
@@ -207,6 +207,20 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011719114622803.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18733">[กิจกรรมมีรางวัล] กิจกรรมแฟนอาร์ต Ganyu "ผู้พิทักษ์แห่งจันทรา"</a>]]></description>
       <guid isPermaLink="false">18733</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[กิจกรรมบนเว็บไซต์] เริ่มแล้ว- เข้าร่วมเพื่อรับรางวัลเช่น Primogem ร่วมเฉลิมฉลองเทศกาล Lantern Rite ไปด้วยกันกับเหล่าเซียนกันเถอะ!</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/19044</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012810582032265.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19044">[กิจกรรมบนเว็บไซต์] เริ่มแล้ว- เข้าร่วมเพื่อรับรางวัลเช่น Primogem ร่วมเฉลิมฉลองเทศกาล Lantern Rite ไปด้วยกันกับเหล่าเซียนกันเถอะ!</a>]]></description>
+      <guid isPermaLink="false">19044</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[ประกาศรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/18978</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715141040319.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/18978">[ประกาศรางวัล] กิจกรรมแฟนอาร์ต Xiao "ยักษาผู้พิทักษ์"</a>]]></description>
+      <guid isPermaLink="false">18978</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

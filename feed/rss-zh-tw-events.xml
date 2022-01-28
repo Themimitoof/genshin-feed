@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 04:13:48 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -167,6 +167,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220117/2022011720244478225.jpg"><br/><br/>甘雨同人繪畫徵集活動現已開啟！快拿起手中的畫筆，一起來參加吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/18740">【有獎活動】「循循守月」甘雨同人繪畫徵集活動</a>]]></content:encoded>
       <guid isPermaLink="false">18740</guid>
       <pubDate>Tue, 18 Jan 2022 12:10:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【網頁活動上線】塵歌宴仙歸——參與可得原石等獎勵，和璃月仙人們一起慶祝海燈節吧！</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/19057</link>
+      <description>飛彩鐫流年，塵歌宴眾仙，覽八觀盛明，賞煙火人間。旅行者，來和璃月仙人們一起慶祝海燈節吧~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811104361188.jpg"><br/><br/>飛彩鐫流年，塵歌宴眾仙，覽八觀盛明，賞煙火人間。旅行者，來和璃月仙人們一起慶祝海燈節吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19057">【網頁活動上線】塵歌宴仙歸——參與可得原石等獎勵，和璃月仙人們一起慶祝海燈節吧！</a>]]></content:encoded>
+      <guid isPermaLink="false">19057</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

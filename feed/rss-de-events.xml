@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:10:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 04:13:52 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -178,6 +178,24 @@ die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen 
 die Beitragsaktion für Fan-Zeichnungen mit Ganyu beginnt jetzt! Nimm dir einen Stift und nimm teil!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18746">Gewinnaktion für Fan-Zeichnungen mit Ganyu, „Mondhüter“</a>]]></content:encoded>
       <guid isPermaLink="false">18746</guid>
       <pubDate>Tue, 18 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Webaktion jetzt verfügbar – Großes Festmahl der Adepten: Feiere das Laternenritual mit den Adepten aus Liyue. Nimm an der Aktion teil und erhalte Urgestein sowie andere Belohnungen!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19049</link>
+      <description>Glänzende Farben fliegen durch die verflossenen Jahre, Lieder des Diesseits begrüßen die Adepten. Bewundern wir die Blütezeit der Welt und genießen alle die Schönheit der Feuerwerke. Feiere das Laternenritual mit den Adepten aus Liyue!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811042730982.jpg"><br/><br/>Glänzende Farben fliegen durch die verflossenen Jahre, Lieder des Diesseits begrüßen die Adepten. Bewundern wir die Blütezeit der Welt und genießen alle die Schönheit der Feuerwerke. Feiere das Laternenritual mit den Adepten aus Liyue!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19049">Webaktion jetzt verfügbar – Großes Festmahl der Adepten: Feiere das Laternenritual mit den Adepten aus Liyue. Nimm an der Aktion teil und erhalte Urgestein sowie andere Belohnungen!</a>]]></content:encoded>
+      <guid isPermaLink="false">19049</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ergebnisverkündung für die Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/18964</link>
+      <description>Liebe Reisende,
+die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711560790464.png"><br/><br/>Liebe Reisende,
+die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18964">Ergebnisverkündung für die Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao</a>]]></content:encoded>
+      <guid isPermaLink="false">18964</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

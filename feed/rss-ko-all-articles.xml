@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 04:14:14 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -219,6 +219,22 @@
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0900</pubDate>
     </item>
     <item>
+      <title>[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19059</link>
+      <description>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811180822861.jpg"><br/><br/>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19059">[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</a>]]></content:encoded>
+      <guid isPermaLink="false">19059</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「호법야차」 소 팬아트 공모전 이벤트 수상 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19003</link>
+      <description>소 팬아트 공모전 이벤트 수상 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716542615655.png"><br/><br/>소 팬아트 공모전 이벤트 수상 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19003">「호법야차」 소 팬아트 공모전 이벤트 수상 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">19003</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
       <title>프롤로그 PV: 바람 잡는 이방인</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/693</link>
       <description>균형의 수호자가 죽어가고, 창조자는 아직 그 모습을 드러내지 않았다. 하지만 세상은 더는 불타지 않을 것이다. 그대가  「신」의 자리에 오를 것이기 때문에...</description>
@@ -385,14 +401,6 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20201220/2020122010460894314.png"><br/><br/>﻿설산 모험이 시작되기 전까진 모든 게 순조로웠다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/7546">1.2 버전 「백악과 흑룡」 프리뷰 페이지 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">7546</guid>
       <pubDate>Sun, 20 Dec 2020 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16338</link>
-      <description>2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211003/2021100317011856051.jpg"><br/><br/>2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16338">2.2 신규 버전 「안개의 미궁 속으로」 사전 공개 페이지 오픈!</a>]]></content:encoded>
-      <guid isPermaLink="false">16338</guid>
-      <pubDate>Mon, 04 Oct 2021 12:00:00 +0900</pubDate>
     </item>
     <item>
       <title>[이나즈마 수첩] 츠루미 편</title>
@@ -1192,27 +1200,12 @@
       <pubDate>Thu, 27 Jan 2022 18:00:00 +0900</pubDate>
     </item>
     <item>
-      <title>「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16573</link>
-      <description>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911193445107.jpg"><br/><br/>이벤트 기간에 「결록음양료」의 시련을 완료하면 「부식된 병부」를 획득할 수 있습니다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16573">「미로의 전사」 이벤트: 참여하여 「폭열 멜로디·신염(불)」 초대</a>]]></content:encoded>
-      <guid isPermaLink="false">16573</guid>
-      <pubDate>Tue, 19 Oct 2021 12:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「원신 오프라인 콘서트」 굿즈 정보 제2기</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16579</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101914393883206.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16579">「원신 오프라인 콘서트」 굿즈 정보 제2기</a>]]></description>
-      <guid isPermaLink="false">16579</guid>
-      <pubDate>Tue, 19 Oct 2021 18:00:00 +0900</pubDate>
-    </item>
-    <item>
-      <title>「미로의 전사」 콘텐츠 안내</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16598</link>
-      <description>콘텐츠 안내</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920412780115.jpg"><br/><br/>콘텐츠 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16598">「미로의 전사」 콘텐츠 안내</a>]]></content:encoded>
-      <guid isPermaLink="false">16598</guid>
-      <pubDate>Wed, 20 Oct 2021 10:30:00 +0900</pubDate>
+      <title>원신 콘서트 특별편 예고</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19035</link>
+      <description>&lt;원신&gt; 콘서트 특별편 「봄을 맞는 화려한 악장」을 여러분께 선사할 예정입니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012720473138314.jpg"><br/><br/><원신> 콘서트 특별편 「봄을 맞는 화려한 악장」을 여러분께 선사할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19035">원신 콘서트 특별편 예고</a>]]></content:encoded>
+      <guid isPermaLink="false">19035</guid>
+      <pubDate>Fri, 28 Jan 2022 12:01:00 +0900</pubDate>
     </item>
     <item>
       <title>「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
@@ -1992,6 +1985,30 @@
       <description><![CDATA[<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18995">캐릭터 교체 코스튬 지급 안내</a>]]></description>
       <guid isPermaLink="false">18995</guid>
       <pubDate>Thu, 27 Jan 2022 18:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19059</link>
+      <description>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811180822861.jpg"><br/><br/>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19059">[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</a>]]></content:encoded>
+      <guid isPermaLink="false">19059</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「호법야차」 소 팬아트 공모전 이벤트 수상 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19003</link>
+      <description>소 팬아트 공모전 이벤트 수상 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716542615655.png"><br/><br/>소 팬아트 공모전 이벤트 수상 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19003">「호법야차」 소 팬아트 공모전 이벤트 수상 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">19003</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>원신 콘서트 특별편 예고</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19035</link>
+      <description>&lt;원신&gt; 콘서트 특별편 「봄을 맞는 화려한 악장」을 여러분께 선사할 예정입니다</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012720473138314.jpg"><br/><br/><원신> 콘서트 특별편 「봄을 맞는 화려한 악장」을 여러분께 선사할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19035">원신 콘서트 특별편 예고</a>]]></content:encoded>
+      <guid isPermaLink="false">19035</guid>
+      <pubDate>Fri, 28 Jan 2022 12:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

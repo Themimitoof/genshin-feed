@@ -2,40 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt">
   <id>https://genshin.mihoyo.com/pt/news</id>
   <title>Genshin Impact PT - latest</title>
-  <updated>2022-01-28T03:11:23.867259+00:00</updated>
+  <updated>2022-01-28T04:14:14.938342+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/pt/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in pt</subtitle>
-  <entry>
-    <id>16633</id>
-    <title>Evento de Coleta de Fotografias Multijogador "O Encontro da Luz e da Sombra"</title>
-    <updated>2021-10-25T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115560845526.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16633">Evento de Coleta de Fotografias Multijogador "O Encontro da Luz e da Sombra"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16633" rel="alternate"/>
-    <summary/>
-    <published>2021-10-25T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16773</id>
-    <title>Demo de Novo Personagem - "Thoma: Defesa Ardente" | Genshin Impact</title>
-    <updated>2021-10-29T12:00:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818101693407.jpg"><br/><br/>Com a companhia do extrovertido Thoma, tudo se torna muito mais divertido!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16773">Demo de Novo Personagem - "Thoma: Defesa Ardente" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16773" rel="alternate"/>
-    <summary>Com a companhia do extrovertido Thoma, tudo se torna muito mais divertido!</summary>
-    <published>2021-10-29T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16730</id>
-    <title>"Estou bem aqui se precisar de ajuda." - "Protetor de Longe" - Thoma</title>
-    <updated>2021-10-29T12:10:00+01:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715243137146.png"><br/><br/>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16730">"Estou bem aqui se precisar de ajuda." - "Protetor de Longe" - Thoma</a>]]></content>
-    <link href="https://genshin.mihoyo.com/pt/news/detail/16730" rel="alternate"/>
-    <summary>Viajantes \ (^ o ^) / ~ O personagem que iremos apresentar a todos hoje é o Thoma.</summary>
-    <published>2021-10-29T12:10:00+01:00</published>
-  </entry>
   <entry>
     <id>16826</id>
     <title>Oração "Encaranação Divina": Báculo de Homa (Lança), "Elegia do Suspiro Final (Arco) com probabilidade aumentada!</title>
@@ -922,5 +895,32 @@ Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é ho
     <link href="https://genshin.mihoyo.com/pt/news/detail/18983" rel="alternate"/>
     <summary>Os Vestuários Substitutos Casuais das personagens "Cavaleira de Dandelion - Jean (Anemo)", "Campeã Voadora - Amber (Pyro)", "Benevolência Espinhosa - Rosaria (Cryo)" e da "Reflexão Astral - Mona (Hydro)" já se encontram disponíveis!</summary>
     <published>2022-01-27T18:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>19039</id>
+    <title>O Evento web "O Grande Banquete dos Adepti" - Participe deste evento para obter Gemas Essenciais e outras recompensas! Celebre o Ritual de Lanternas junto com os Adepti de Liyue!</title>
+    <updated>2022-01-28T11:30:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012810500373342.jpg"><br/><br/>Contemple cores efêmeras voadoras e se divirta no banquete dos Adepti para assistir fogos de artifício que ilumina todo o mundo. Viajante, venha celebrar o Ritual de Lanternas junto com os Adepti de Liyue~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/19039">O Evento web "O Grande Banquete dos Adepti" - Participe deste evento para obter Gemas Essenciais e outras recompensas! Celebre o Ritual de Lanternas junto com os Adepti de Liyue!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/19039" rel="alternate"/>
+    <summary>Contemple cores efêmeras voadoras e se divirta no banquete dos Adepti para assistir fogos de artifício que ilumina todo o mundo. Viajante, venha celebrar o Ritual de Lanternas junto com os Adepti de Liyue~</summary>
+    <published>2022-01-28T11:30:00+00:00</published>
+  </entry>
+  <entry>
+    <id>18966</id>
+    <title>[Publicação dos Resultados] Evento de Coleta de Arte de Fãs "Guardião Yaksha"!</title>
+    <updated>2022-01-28T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711590873864.png"><br/><br/>O evento já terminou! Vamos ver quais obras foram premiadas~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/18966">[Publicação dos Resultados] Evento de Coleta de Arte de Fãs "Guardião Yaksha"!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/18966" rel="alternate"/>
+    <summary>O evento já terminou! Vamos ver quais obras foram premiadas~</summary>
+    <published>2022-01-28T12:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>19014</id>
+    <title>Prévia de GENSHIN CONCERT Edição Especial</title>
+    <updated>2022-01-28T12:00:00+00:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718010933440.jpg"><br/><br/>De forma a agradecer pelo apoio contínuo de todos, Genshin Impact junto com a Orquestra Sinfônica de Xangai estará trazendo para os Viajantes, belas melodias para o Ano Novo Chinês: GENSHIN CONCERT Edição Especial — "Reflexões da Primavera".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/19014">Prévia de GENSHIN CONCERT Edição Especial</a>]]></content>
+    <link href="https://genshin.mihoyo.com/pt/news/detail/19014" rel="alternate"/>
+    <summary>De forma a agradecer pelo apoio contínuo de todos, Genshin Impact junto com a Orquestra Sinfônica de Xangai estará trazendo para os Viajantes, belas melodias para o Ano Novo Chinês: GENSHIN CONCERT Edição Especial — "Reflexões da Primavera".</summary>
+    <published>2022-01-28T12:00:00+00:00</published>
   </entry>
 </feed>

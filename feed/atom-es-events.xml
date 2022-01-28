@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - events</title>
-  <updated>2022-01-28T03:11:04.071437+00:00</updated>
+  <updated>2022-01-28T04:13:58.159931+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -257,5 +257,23 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18729" rel="alternate"/>
     <summary>Querido/a viajero/a: ¡Ya ha comenzado el concurso de obras de arte de los fans de Ganyu! Prepara tu pincel y participa en el evento.</summary>
     <published>2022-01-18T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19040</id>
+    <title>Evento web «El Gran Banquete de los Adeptus» - ¡Participa para ganar Protogemas y otras recompensas! ¡Celebra el Rito de la Linterna junto a los Adeptus de Liyue!</title>
+    <updated>2022-01-28T11:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012810503789517.jpg"><br/><br/>Asiste a «El Gran Banquete de los Adeptus» para disfrutar del espectáculo de fuegos artificiales. ¡Ven a celebrar el Rito de la Linterna con los Adeptus de Liyue!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19040">Evento web «El Gran Banquete de los Adeptus» - ¡Participa para ganar Protogemas y otras recompensas! ¡Celebra el Rito de la Linterna junto a los Adeptus de Liyue!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19040" rel="alternate"/>
+    <summary>Asiste a «El Gran Banquete de los Adeptus» para disfrutar del espectáculo de fuegos artificiales. ¡Ven a celebrar el Rito de la Linterna con los Adeptus de Liyue!</summary>
+    <published>2022-01-28T11:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18965</id>
+    <title>Publicación de los resultados del concurso de obras de arte de fans de Xiao, "el Guardián Yaksha"</title>
+    <updated>2022-01-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711562265916.png"><br/><br/>Queridos viajeros: ¡El evento ha terminado! Echemos un vistazo a las maravillosas obras ganadoras~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18965">Publicación de los resultados del concurso de obras de arte de fans de Xiao, "el Guardián Yaksha"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18965" rel="alternate"/>
+    <summary>Queridos viajeros: ¡El evento ha terminado! Echemos un vistazo a las maravillosas obras ganadoras~</summary>
+    <published>2022-01-28T12:00:00+01:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:11:15 +0000</lastBuildDate>
-    <item>
-      <title>「風花の招待」イベント紹介</title>
-      <link>https://genshin.mihoyo.com/ja/news/detail/9430</link>
-      <description>イベントに参加し、豪華な報酬を獲得！</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210317/2021031716582547484.jpg"><br/><br/>イベントに参加し、豪華な報酬を獲得！<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/9430">「風花の招待」イベント紹介</a>]]></content:encoded>
-      <guid isPermaLink="false">9430</guid>
-      <pubDate>Thu, 18 Mar 2021 10:30:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Jan 2022 04:14:08 +0000</lastBuildDate>
     <item>
       <title>「闘争の潮流」イベント予告</title>
       <link>https://genshin.mihoyo.com/ja/news/detail/9501</link>
@@ -723,6 +715,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220121/2022012111014185603.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/18791">「華々しき流年」イベント紹介</a>]]></description>
       <guid isPermaLink="false">18791</guid>
       <pubDate>Mon, 24 Jan 2022 10:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「塵歌に仙を招く」イベント紹介</title>
+      <link>https://genshin.mihoyo.com/ja/news/detail/19007</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717193464918.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/ja/news/detail/19007">「塵歌に仙を招く」イベント紹介</a>]]></description>
+      <guid isPermaLink="false">19007</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

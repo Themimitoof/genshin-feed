@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:11:31 +0000</lastBuildDate>
-    <item>
-      <title>Обзорное видео Genshin Impact - Совместное путешествие</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16196</link>
-      <description>Уже начинают появляться первые солнечные лучи, а звёзды всё ещё сверкают на небосводе.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715244137864.jpg"><br/><br/>Уже начинают появляться первые солнечные лучи, а звёзды всё ещё сверкают на небосводе.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16196">Обзорное видео Genshin Impact - Совместное путешествие</a>]]></content:encoded>
-      <guid isPermaLink="false">16196</guid>
-      <pubDate>Tue, 28 Sep 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Jan 2022 04:14:21 +0000</lastBuildDate>
     <item>
       <title>Тизер «Вкусы мира» | Genshin Impact</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16256</link>
@@ -823,6 +815,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715235375086.jpg"><br/><br/>Альтернативные костюмы персонажей «Рыцарь Одуванчик» Джинн (Анемо), «Чемпион полётов» Эмбер (Пиро), «Венец милости» Розария (Крио) и «Звёздная гладь» Мона (Гидро) уже готовы. <br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/18980">О получении альтернативных костюмов</a>]]></content:encoded>
       <guid isPermaLink="false">18980</guid>
       <pubDate>Thu, 27 Jan 2022 18:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact | Симфонический концерт - Специальный выпуск</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/19029</link>
+      <description>Дабы воздать должное Путешественникам за их поддержку и доверие, Genshin Impact совместно с Шанхайским симфоническим оркестром представляет чудесную новогоднюю музыку: Симфонический концерт Genshin Impact - Специальный выпуск: «Мелодия весны».</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012719074036175.jpg"><br/><br/>Дабы воздать должное Путешественникам за их поддержку и доверие, Genshin Impact совместно с Шанхайским симфоническим оркестром представляет чудесную новогоднюю музыку: Симфонический концерт Genshin Impact - Специальный выпуск: «Мелодия весны».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19029">Genshin Impact | Симфонический концерт - Специальный выпуск</a>]]></content:encoded>
+      <guid isPermaLink="false">19029</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

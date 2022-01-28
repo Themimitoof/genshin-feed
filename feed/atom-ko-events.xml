@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - events</title>
-  <updated>2022-01-28T03:11:21.773154+00:00</updated>
+  <updated>2022-01-28T04:14:13.869158+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -244,5 +244,23 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/18545" rel="alternate"/>
     <summary>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!</summary>
     <published>2022-01-06T19:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>19059</id>
+    <title>[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</title>
+    <updated>2022-01-28T11:30:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811180822861.jpg"><br/><br/>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19059">[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/19059" rel="alternate"/>
+    <summary>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. </summary>
+    <published>2022-01-28T11:30:00+09:00</published>
+  </entry>
+  <entry>
+    <id>19003</id>
+    <title>「호법야차」 소 팬아트 공모전 이벤트 수상 안내</title>
+    <updated>2022-01-28T12:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716542615655.png"><br/><br/>소 팬아트 공모전 이벤트 수상 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19003">「호법야차」 소 팬아트 공모전 이벤트 수상 안내</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/19003" rel="alternate"/>
+    <summary>소 팬아트 공모전 이벤트 수상 안내</summary>
+    <published>2022-01-28T12:00:00+09:00</published>
   </entry>
 </feed>

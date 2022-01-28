@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-28T03:11:05.502154+00:00</updated>
+  <updated>2022-01-28T04:13:59.353693+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -257,6 +257,24 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/18729" rel="alternate"/>
     <summary>Querido/a viajero/a: ¡Ya ha comenzado el concurso de obras de arte de los fans de Ganyu! Prepara tu pincel y participa en el evento.</summary>
     <published>2022-01-18T12:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19040</id>
+    <title>Evento web «El Gran Banquete de los Adeptus» - ¡Participa para ganar Protogemas y otras recompensas! ¡Celebra el Rito de la Linterna junto a los Adeptus de Liyue!</title>
+    <updated>2022-01-28T11:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012810503789517.jpg"><br/><br/>Asiste a «El Gran Banquete de los Adeptus» para disfrutar del espectáculo de fuegos artificiales. ¡Ven a celebrar el Rito de la Linterna con los Adeptus de Liyue!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19040">Evento web «El Gran Banquete de los Adeptus» - ¡Participa para ganar Protogemas y otras recompensas! ¡Celebra el Rito de la Linterna junto a los Adeptus de Liyue!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19040" rel="alternate"/>
+    <summary>Asiste a «El Gran Banquete de los Adeptus» para disfrutar del espectáculo de fuegos artificiales. ¡Ven a celebrar el Rito de la Linterna con los Adeptus de Liyue!</summary>
+    <published>2022-01-28T11:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18965</id>
+    <title>Publicación de los resultados del concurso de obras de arte de fans de Xiao, "el Guardián Yaksha"</title>
+    <updated>2022-01-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711562265916.png"><br/><br/>Queridos viajeros: ¡El evento ha terminado! Echemos un vistazo a las maravillosas obras ganadoras~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18965">Publicación de los resultados del concurso de obras de arte de fans de Xiao, "el Guardián Yaksha"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18965" rel="alternate"/>
+    <summary>Queridos viajeros: ¡El evento ha terminado! Echemos un vistazo a las maravillosas obras ganadoras~</summary>
+    <published>2022-01-28T12:00:00+01:00</published>
   </entry>
   <entry>
     <id>739</id>
@@ -728,6 +746,15 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2022-01-27T18:00:00+01:00</published>
   </entry>
   <entry>
+    <id>19020</id>
+    <title>Avance de la edición especial de GENSHIN CONCERT</title>
+    <updated>2022-01-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718094269971.jpg"><br/><br/>Para recompensar a los viajeros por todo su apoyo y confianza, Genshin Impact llevará a cabo una colaboración con la Orquesta Sinfónica de Shanghái para deleitar a los viajeros con una maravillosa melodía del Año Nuevo chino: Edición especial de GENSHIN CONCERT - La melodía de la primavera.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19020">Avance de la edición especial de GENSHIN CONCERT</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19020" rel="alternate"/>
+    <summary>Para recompensar a los viajeros por todo su apoyo y confianza, Genshin Impact llevará a cabo una colaboración con la Orquesta Sinfónica de Shanghái para deleitar a los viajeros con una maravillosa melodía del Año Nuevo chino: Edición especial de GENSHIN CONCERT - La melodía de la primavera.</summary>
+    <published>2022-01-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -1135,5 +1162,32 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/19009" rel="alternate"/>
     <summary>Querido/a viajero/a:</summary>
     <published>2022-01-27T18:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19040</id>
+    <title>Evento web «El Gran Banquete de los Adeptus» - ¡Participa para ganar Protogemas y otras recompensas! ¡Celebra el Rito de la Linterna junto a los Adeptus de Liyue!</title>
+    <updated>2022-01-28T11:30:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012810503789517.jpg"><br/><br/>Asiste a «El Gran Banquete de los Adeptus» para disfrutar del espectáculo de fuegos artificiales. ¡Ven a celebrar el Rito de la Linterna con los Adeptus de Liyue!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19040">Evento web «El Gran Banquete de los Adeptus» - ¡Participa para ganar Protogemas y otras recompensas! ¡Celebra el Rito de la Linterna junto a los Adeptus de Liyue!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19040" rel="alternate"/>
+    <summary>Asiste a «El Gran Banquete de los Adeptus» para disfrutar del espectáculo de fuegos artificiales. ¡Ven a celebrar el Rito de la Linterna con los Adeptus de Liyue!</summary>
+    <published>2022-01-28T11:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>18965</id>
+    <title>Publicación de los resultados del concurso de obras de arte de fans de Xiao, "el Guardián Yaksha"</title>
+    <updated>2022-01-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012711562265916.png"><br/><br/>Queridos viajeros: ¡El evento ha terminado! Echemos un vistazo a las maravillosas obras ganadoras~<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/18965">Publicación de los resultados del concurso de obras de arte de fans de Xiao, "el Guardián Yaksha"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/18965" rel="alternate"/>
+    <summary>Queridos viajeros: ¡El evento ha terminado! Echemos un vistazo a las maravillosas obras ganadoras~</summary>
+    <published>2022-01-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19020</id>
+    <title>Avance de la edición especial de GENSHIN CONCERT</title>
+    <updated>2022-01-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718094269971.jpg"><br/><br/>Para recompensar a los viajeros por todo su apoyo y confianza, Genshin Impact llevará a cabo una colaboración con la Orquesta Sinfónica de Shanghái para deleitar a los viajeros con una maravillosa melodía del Año Nuevo chino: Edición especial de GENSHIN CONCERT - La melodía de la primavera.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19020">Avance de la edición especial de GENSHIN CONCERT</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19020" rel="alternate"/>
+    <summary>Para recompensar a los viajeros por todo su apoyo y confianza, Genshin Impact llevará a cabo una colaboración con la Orquesta Sinfónica de Shanghái para deleitar a los viajeros con una maravillosa melodía del Año Nuevo chino: Edición especial de GENSHIN CONCERT - La melodía de la primavera.</summary>
+    <published>2022-01-28T12:00:00+01:00</published>
   </entry>
 </feed>

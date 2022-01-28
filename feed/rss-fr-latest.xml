@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:10:41 +0000</lastBuildDate>
-    <item>
-      <title>Détails de l'événement « À l'écoute des sons du monde »</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16504</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101221151163054.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16504">Détails de l'événement « À l'écoute des sons du monde »</a>]]></description>
-      <guid isPermaLink="false">16504</guid>
-      <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>[Annonce des gagnants] Genshin Impact loterie</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16530</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101414571947662.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16530">[Annonce des gagnants] Genshin Impact loterie</a>]]></description>
-      <guid isPermaLink="false">16530</guid>
-      <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>La campagne de recrutement de streamers sur Twitch</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16547</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211015/2021101516480763764.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16547">La campagne de recrutement de streamers sur Twitch</a>]]></description>
-      <guid isPermaLink="false">16547</guid>
-      <pubDate>Fri, 15 Oct 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Fri, 28 Jan 2022 04:13:37 +0000</lastBuildDate>
     <item>
       <title>Événement « Guerriers du labyrinthe » : participez pour inviter Xinyan · Mélodie ardente (Pyro) dans votre équipe</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16574</link>
@@ -734,6 +713,28 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716531430268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19004">Détails sur la distribution des tenues alternatives</a>]]></description>
       <guid isPermaLink="false">19004</guid>
       <pubDate>Thu, 27 Jan 2022 18:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>L'événement web « Festin des Adeptes » est disponible ! Participez pour obtenir des primo-gemmes ainsi que d'autres récompenses et célébrez le Festival des lanternes avec les Adeptes !</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19055</link>
+      <description>Célébrez la nouvelle année avec les couleurs éphémères en vol et le grandiose festin des Adeptes. Profitez des paysages merveilleux des festivités et du spectacle de feux d'artifice. Célébrez le Festival des lanternes avec les Adeptes !</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811074331546.jpg"><br/><br/>Célébrez la nouvelle année avec les couleurs éphémères en vol et le grandiose festin des Adeptes. Profitez des paysages merveilleux des festivités et du spectacle de feux d'artifice. Célébrez le Festival des lanternes avec les Adeptes !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19055">L'événement web « Festin des Adeptes » est disponible ! Participez pour obtenir des primo-gemmes ainsi que d'autres récompenses et célébrez le Festival des lanternes avec les Adeptes !</a>]]></content:encoded>
+      <guid isPermaLink="false">19055</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>[Annonce des gagnants] Concours de fanart de Xiao « Gardien Yaksha »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19010</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717362178613.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19010">[Annonce des gagnants] Concours de fanart de Xiao « Gardien Yaksha »</a>]]></description>
+      <guid isPermaLink="false">19010</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Aperçu de l'édition spéciale du GENSHIN CONCERT 2021</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19031</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012719401726336.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19031">Aperçu de l'édition spéciale du GENSHIN CONCERT 2021</a>]]></description>
+      <guid isPermaLink="false">19031</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 28 Jan 2022 03:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 04:14:13 +0000</lastBuildDate>
     <item>
       <title>원신 공식 포럼 오픈, 이벤트에 참여하고 테스트 자격을 얻어라</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/2156</link>
@@ -217,6 +217,22 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220106/2022010616241215250.jpg"><br/><br/>스트리밍에 참여해 임무를 완료하면 원석 보상을 획득할 수 있습니다!<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/18545">Twitch <원신>  스트리머 모집</a>]]></content:encoded>
       <guid isPermaLink="false">18545</guid>
       <pubDate>Thu, 06 Jan 2022 19:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19059</link>
+      <description>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. </description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811180822861.jpg"><br/><br/>화려히 수놓인 유년, 속세 속 선인 잔치, 눈부신 초대를 관람하고 속세의 불꽃을 만끽하세요. <br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19059">[웹이벤트] 속세 속 선인 잔치 - 이벤트 참여 시 원석 등 보상 획득! 리월 선인들과 함께 해등절을 축하해주세요</a>]]></content:encoded>
+      <guid isPermaLink="false">19059</guid>
+      <pubDate>Fri, 28 Jan 2022 11:30:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「호법야차」 소 팬아트 공모전 이벤트 수상 안내</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19003</link>
+      <description>소 팬아트 공모전 이벤트 수상 안내</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012716542615655.png"><br/><br/>소 팬아트 공모전 이벤트 수상 안내<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19003">「호법야차」 소 팬아트 공모전 이벤트 수상 안내</a>]]></content:encoded>
+      <guid isPermaLink="false">19003</guid>
+      <pubDate>Fri, 28 Jan 2022 12:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

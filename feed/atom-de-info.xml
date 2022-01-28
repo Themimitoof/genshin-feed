@@ -2,24 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - info</title>
-  <updated>2022-01-28T03:10:55.512103+00:00</updated>
+  <updated>2022-01-28T04:13:50.526242+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16240</id>
-    <title>Jubiläums-Webaktion „Unvergessliche Reise“ jetzt verfügbar: Sieh dir das Jubiläumstheater an, um Urgestein und weitere Belohnungen zu erhalten.</title>
-    <updated>2021-09-28T11:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811110862970.jpg"><br/><br/>Immer so schnell scheint die Zeit in Teyvat zu vergehen.
-365 Tage sind im Nu vorbei, während sich der Vorhang des Jubiläumstheaters langsam hebt, das wir ausschließlich für dich vorbereitet haben ...<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16240">Jubiläums-Webaktion „Unvergessliche Reise“ jetzt verfügbar: Sieh dir das Jubiläumstheater an, um Urgestein und weitere Belohnungen zu erhalten.</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16240" rel="alternate"/>
-    <summary>Immer so schnell scheint die Zeit in Teyvat zu vergehen.
-365 Tage sind im Nu vorbei, während sich der Vorhang des Jubiläumstheaters langsam hebt, das wir ausschließlich für dich vorbereitet haben ...</summary>
-    <published>2021-09-28T11:30:00+02:00</published>
-  </entry>
   <entry>
     <id>16201</id>
     <title>Werbevideo von Genshin Impact – Gemeinsam auf langen Reisen</title>
@@ -959,5 +948,14 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
     <link href="https://genshin.mihoyo.com/de/news/detail/18952" rel="alternate"/>
     <summary>The Stellar Moments Vol. 2 von Genshin Impact jetzt offiziell verfügbar!</summary>
     <published>2022-01-27T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19013</id>
+    <title>Vorschau auf GENSHIN CONCERT – Sonderausgabe</title>
+    <updated>2022-01-28T12:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718004744988.jpg"><br/><br/>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19013">Vorschau auf GENSHIN CONCERT – Sonderausgabe</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/19013" rel="alternate"/>
+    <summary>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun</summary>
+    <published>2022-01-28T12:00:00+01:00</published>
   </entry>
 </feed>

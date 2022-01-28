@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2022-01-28T03:10:41.829496+00:00</updated>
+  <updated>2022-01-28T04:13:37.150188+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -277,6 +277,17 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <published>2022-01-18T12:10:00-05:00</published>
   </entry>
   <entry>
+    <id>18976</id>
+    <title>Winners Notice: "Vigilant Yaksha" Xiao Fan Art Contest</title>
+    <updated>2022-01-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715121616654.png"><br/><br/>Dear Travelers,
+The event has ended! Let's take a look at the wonderful prize-winning works together~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18976">Winners Notice: "Vigilant Yaksha" Xiao Fan Art Contest</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18976" rel="alternate"/>
+    <summary>Dear Travelers,
+The event has ended! Let's take a look at the wonderful prize-winning works together~</summary>
+    <published>2022-01-28T12:00:00-05:00</published>
+  </entry>
+  <entry>
     <id>620</id>
     <title>Manga Update: Chapter 9 Part 1 is Going to Update!</title>
     <updated>2019-08-07T17:00:00-04:00</updated>
@@ -448,24 +459,6 @@ PlayStation®4, iOS, Android, and PC.</summary>
     <link href="https://genshin.mihoyo.com/en/news/detail/7466" rel="alternate"/>
     <summary>Everything was proceeding smoothly, until the unexpected happened... Your adventure across Dragonspine begins!</summary>
     <published>2020-12-20T12:00:00-05:00</published>
-  </entry>
-  <entry>
-    <id>16290</id>
-    <title>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</title>
-    <updated>2021-10-04T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093016363752950.jpg"><br/><br/>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16290">The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16290" rel="alternate"/>
-    <summary>The Version 2.2 "Into the Perilous Labyrinth of Fog" preview page is here!</summary>
-    <published>2021-10-04T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>16287</id>
-    <title>The Inazuma Diaries: Tsurumi Island</title>
-    <updated>2021-10-06T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093015465931580.jpg"><br/><br/>In Version 2.2, a new island will be introduced in Inazuma, Tsurumi Island! Let's find out more about this island shrouded in a sea of fog~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16287">The Inazuma Diaries: Tsurumi Island</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16287" rel="alternate"/>
-    <summary>In Version 2.2, a new island will be introduced in Inazuma, Tsurumi Island! Let's find out more about this island shrouded in a sea of fog~</summary>
-    <published>2021-10-06T10:30:00-04:00</published>
   </entry>
   <entry>
     <id>16321</id>
@@ -1423,35 +1416,22 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
     <published>2022-01-27T18:00:00-05:00</published>
   </entry>
   <entry>
-    <id>16629</id>
-    <title>"Meeting of Light and Shadow" Co-Op Photo Submission Contest</title>
-    <updated>2021-10-25T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211021/2021102115281469819.png"><br/><br/>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16629">"Meeting of Light and Shadow" Co-Op Photo Submission Contest</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16629" rel="alternate"/>
-    <summary>During the event, you can post your original Co-Op photographs that meet the event submission criteria on Twitter, and you will be considered a successful participant.</summary>
-    <published>2021-10-25T12:00:00-04:00</published>
+    <id>19047</id>
+    <title>Web Event "The Great Banquet of the Adepti" Now Online: Take part to obtain Primogems and other rewards! Celebrate Lantern Rite together with Liyue's adepti!</title>
+    <updated>2022-01-28T11:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811024139642.jpg"><br/><br/>Admire the fleeting colors in flight and partake in the great banquet of the adepti, as we engage in prosperous partnerships and enjoy our way of life. Traveler, come celebrate Lantern Rite together with Liyue's adepti~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19047">Web Event "The Great Banquet of the Adepti" Now Online: Take part to obtain Primogems and other rewards! Celebrate Lantern Rite together with Liyue's adepti!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/19047" rel="alternate"/>
+    <summary>Admire the fleeting colors in flight and partake in the great banquet of the adepti, as we engage in prosperous partnerships and enjoy our way of life. Traveler, come celebrate Lantern Rite together with Liyue's adepti~</summary>
+    <published>2022-01-28T11:30:00-05:00</published>
   </entry>
   <entry>
-    <id>16770</id>
-    <title>Character Demo - "Thoma: Blazing Defense" | Genshin Impact</title>
-    <updated>2021-10-29T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818041086480.jpg"><br/><br/>With the sociable Thoma, there's always a lot of lively encounters and fun to be had.
-It's just that such excitement occasionally attracts some uninvited guests...
-But no need to worry, because Thoma will protect you.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16770">Character Demo - "Thoma: Blazing Defense" | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16770" rel="alternate"/>
-    <summary>With the sociable Thoma, there's always a lot of lively encounters and fun to be had.
-It's just that such excitement occasionally attracts some uninvited guests...
-But no need to worry, because Thoma will protect you.</summary>
-    <published>2021-10-29T12:00:00-04:00</published>
-  </entry>
-  <entry>
-    <id>16729</id>
-    <title>"Anything I can lend a hand with?" — "Protector From Afar" Thoma</title>
-    <updated>2021-10-29T12:10:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715235240801.png"><br/><br/>Today, we will be introducing a new character, Thoma!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16729">"Anything I can lend a hand with?" — "Protector From Afar" Thoma</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16729" rel="alternate"/>
-    <summary>Today, we will be introducing a new character, Thoma!</summary>
-    <published>2021-10-29T12:10:00-04:00</published>
+    <id>19032</id>
+    <title>GENSHIN CONCERT Special Edition Preview｜Genshin Impact</title>
+    <updated>2022-01-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012719510456677.jpg"><br/><br/>To show our appreciation for Travelers' support and faith, Genshin Impact will join forces with the Shanghai Symphony Orchestra to present the beautiful melody of Spring Festival to the Travelers – GENSHIN CONCERT Special Edition: "Reflections of Spring."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19032">GENSHIN CONCERT Special Edition Preview｜Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/19032" rel="alternate"/>
+    <summary>To show our appreciation for Travelers' support and faith, Genshin Impact will join forces with the Shanghai Symphony Orchestra to present the beautiful melody of Spring Festival to the Travelers – GENSHIN CONCERT Special Edition: "Reflections of Spring."</summary>
+    <published>2022-01-28T12:00:00-05:00</published>
   </entry>
   <entry>
     <id>16821</id>
@@ -2392,5 +2372,34 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
     <link href="https://genshin.mihoyo.com/en/news/detail/18981" rel="alternate"/>
     <summary>The Alternate Outfits for the characters "Dandelion Knight" Jean (Anemo), "Gliding Champion" Amber (Pyro), "Thorny Benevolence" Rosaria (Cryo), and "Astral Reflection" Mona (Hydro) have been completed. From January 27, 2022, the production team will distribute them according to the following rules:</summary>
     <published>2022-01-27T18:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>19047</id>
+    <title>Web Event "The Great Banquet of the Adepti" Now Online: Take part to obtain Primogems and other rewards! Celebrate Lantern Rite together with Liyue's adepti!</title>
+    <updated>2022-01-28T11:30:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811024139642.jpg"><br/><br/>Admire the fleeting colors in flight and partake in the great banquet of the adepti, as we engage in prosperous partnerships and enjoy our way of life. Traveler, come celebrate Lantern Rite together with Liyue's adepti~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19047">Web Event "The Great Banquet of the Adepti" Now Online: Take part to obtain Primogems and other rewards! Celebrate Lantern Rite together with Liyue's adepti!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/19047" rel="alternate"/>
+    <summary>Admire the fleeting colors in flight and partake in the great banquet of the adepti, as we engage in prosperous partnerships and enjoy our way of life. Traveler, come celebrate Lantern Rite together with Liyue's adepti~</summary>
+    <published>2022-01-28T11:30:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18976</id>
+    <title>Winners Notice: "Vigilant Yaksha" Xiao Fan Art Contest</title>
+    <updated>2022-01-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715121616654.png"><br/><br/>Dear Travelers,
+The event has ended! Let's take a look at the wonderful prize-winning works together~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18976">Winners Notice: "Vigilant Yaksha" Xiao Fan Art Contest</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18976" rel="alternate"/>
+    <summary>Dear Travelers,
+The event has ended! Let's take a look at the wonderful prize-winning works together~</summary>
+    <published>2022-01-28T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>19032</id>
+    <title>GENSHIN CONCERT Special Edition Preview｜Genshin Impact</title>
+    <updated>2022-01-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012719510456677.jpg"><br/><br/>To show our appreciation for Travelers' support and faith, Genshin Impact will join forces with the Shanghai Symphony Orchestra to present the beautiful melody of Spring Festival to the Travelers – GENSHIN CONCERT Special Edition: "Reflections of Spring."<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19032">GENSHIN CONCERT Special Edition Preview｜Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/19032" rel="alternate"/>
+    <summary>To show our appreciation for Travelers' support and faith, Genshin Impact will join forces with the Shanghai Symphony Orchestra to present the beautiful melody of Spring Festival to the Travelers – GENSHIN CONCERT Special Edition: "Reflections of Spring."</summary>
+    <published>2022-01-28T12:00:00-05:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - events</title>
-  <updated>2022-01-28T03:10:40.371886+00:00</updated>
+  <updated>2022-01-28T04:13:35.971145+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -275,5 +275,16 @@ Dear Traveler, please open "Aloy's Exploration Journal" to start the adventure!<
     <link href="https://genshin.mihoyo.com/en/news/detail/18728" rel="alternate"/>
     <summary>Ganyu's Fan Art Contest has begun! Get your drawing tools ready, and come participate~</summary>
     <published>2022-01-18T12:10:00-05:00</published>
+  </entry>
+  <entry>
+    <id>18976</id>
+    <title>Winners Notice: "Vigilant Yaksha" Xiao Fan Art Contest</title>
+    <updated>2022-01-28T12:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715121616654.png"><br/><br/>Dear Travelers,
+The event has ended! Let's take a look at the wonderful prize-winning works together~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/18976">Winners Notice: "Vigilant Yaksha" Xiao Fan Art Contest</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/18976" rel="alternate"/>
+    <summary>Dear Travelers,
+The event has ended! Let's take a look at the wonderful prize-winning works together~</summary>
+    <published>2022-01-28T12:00:00-05:00</published>
   </entry>
 </feed>
