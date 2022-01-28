@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 28 Jan 2022 06:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 07:11:14 +0000</lastBuildDate>
     <item>
       <title>原神官方論壇開啟，參與活動贏取測試資格</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/2154</link>
@@ -175,6 +175,13 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811104361188.jpg"><br/><br/>飛彩鐫流年，塵歌宴眾仙，覽八觀盛明，賞煙火人間。旅行者，來和璃月仙人們一起慶祝海燈節吧~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19057">【網頁活動上線】塵歌宴仙歸——參與可得原石等獎勵，和璃月仙人們一起慶祝海燈節吧！</a>]]></content:encoded>
       <guid isPermaLink="false">19057</guid>
       <pubDate>Fri, 28 Jan 2022 11:30:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【獲獎公告】「護法夜叉」魈同人繪畫徵集活動</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/19091</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012814234170628.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19091">【獲獎公告】「護法夜叉」魈同人繪畫徵集活動</a>]]></description>
+      <guid isPermaLink="false">19091</guid>
+      <pubDate>Fri, 28 Jan 2022 14:23:54 +0800</pubDate>
     </item>
     <item>
       <title>《原神》社群媒體問卷調查</title>
@@ -1123,14 +1130,6 @@
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0800</pubDate>
     </item>
     <item>
-      <title>【亞蘿伊探索日記】網頁活動已起跑，與亞蘿伊一起探索提瓦特大陸，贏取獎勵！</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16479</link>
-      <description>當亞蘿伊踏上提瓦特大陸，這位「異界的救世主」會在提瓦特經歷怎樣的探險呢？</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211012/2021101217541328308.jpg"><br/><br/>當亞蘿伊踏上提瓦特大陸，這位「異界的救世主」會在提瓦特經歷怎樣的探險呢？<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16479">【亞蘿伊探索日記】網頁活動已起跑，與亞蘿伊一起探索提瓦特大陸，贏取獎勵！</a>]]></content:encoded>
-      <guid isPermaLink="false">16479</guid>
-      <pubDate>Wed, 13 Oct 2021 12:00:00 +0800</pubDate>
-    </item>
-    <item>
       <title>「鏡花聽世」玩法說明</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16514</link>
       <description>稻妻事件結束後，萬葉隨南十字一同返回璃月。</description>
@@ -1925,6 +1924,13 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718022640794.jpg"><br/><br/>為了保障疫情期間旅行者們的健康與安全，《原神》一週年線下交響音樂會暫時無法與大家見面。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19017">交響音樂會特別篇預告｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">19017</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>【獲獎公告】「護法夜叉」魈同人繪畫徵集活動</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/19091</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012814234170628.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19091">【獲獎公告】「護法夜叉」魈同人繪畫徵集活動</a>]]></description>
+      <guid isPermaLink="false">19091</guid>
+      <pubDate>Fri, 28 Jan 2022 14:23:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
