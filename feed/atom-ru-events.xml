@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - events</title>
-  <updated>2022-01-29T02:21:35.085587+00:00</updated>
+  <updated>2022-01-29T03:11:59.848279+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -296,5 +296,14 @@
     <summary>Дорогие Путешественники!
 Событие завершено! Посмотрим на замечательные работы победителей!</summary>
     <published>2022-01-28T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>19154</id>
+    <title>Браузерное событие «Праздник струящихся оттенков» началось!</title>
+    <updated>2022-01-29T11:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910352884512.jpg"><br/><br/>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19154">Браузерное событие «Праздник струящихся оттенков» началось!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/19154" rel="alternate"/>
+    <summary>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!</summary>
+    <published>2022-01-29T11:00:00+03:00</published>
   </entry>
 </feed>

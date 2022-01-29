@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - all-articles</title>
-  <updated>2022-01-29T02:21:05.601860+00:00</updated>
+  <updated>2022-01-29T03:11:08.263401+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -286,6 +286,15 @@ The event has ended! Let's take a look at the wonderful prize-winning works toge
     <summary>Dear Travelers,
 The event has ended! Let's take a look at the wonderful prize-winning works together~</summary>
     <published>2022-01-28T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>19168</id>
+    <title>"Festive Celebration of Flowing Hues" Web Event Has Begun!</title>
+    <updated>2022-01-29T11:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910591988386.jpg"><br/><br/>Make a greeting card to send your wishes, and get Primogems and other prizes~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19168">"Festive Celebration of Flowing Hues" Web Event Has Begun!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/19168" rel="alternate"/>
+    <summary>Make a greeting card to send your wishes, and get Primogems and other prizes~</summary>
+    <published>2022-01-29T11:00:00-05:00</published>
   </entry>
   <entry>
     <id>620</id>
@@ -1434,15 +1443,6 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
     <published>2022-01-28T12:00:00-05:00</published>
   </entry>
   <entry>
-    <id>16821</id>
-    <title>Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of Homa (Polearm) and Elegy for the End (Bow)!</title>
-    <updated>2021-10-31T12:00:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918023913122.jpg"><br/><br/>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16821">Event Wish "Epitome Invocation" - Boosted Drop Rate for Staff of Homa (Polearm) and Elegy for the End (Bow)!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16821" rel="alternate"/>
-    <summary>Travelers, stock up on weapons and characters in "Epitome Invocation" to make your party stronger in combat!</summary>
-    <published>2021-10-31T12:00:00-04:00</published>
-  </entry>
-  <entry>
     <id>16822</id>
     <title>Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!</title>
     <updated>2021-10-31T12:01:00-04:00</updated>
@@ -2401,5 +2401,14 @@ The event has ended! Let's take a look at the wonderful prize-winning works toge
     <link href="https://genshin.mihoyo.com/en/news/detail/19032" rel="alternate"/>
     <summary>To show our appreciation for Travelers' support and faith, Genshin Impact will join forces with the Shanghai Symphony Orchestra to present the beautiful melody of Spring Festival to the Travelers – GENSHIN CONCERT Special Edition: "Reflections of Spring."</summary>
     <published>2022-01-28T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>19168</id>
+    <title>"Festive Celebration of Flowing Hues" Web Event Has Begun!</title>
+    <updated>2022-01-29T11:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910591988386.jpg"><br/><br/>Make a greeting card to send your wishes, and get Primogems and other prizes~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19168">"Festive Celebration of Flowing Hues" Web Event Has Begun!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/19168" rel="alternate"/>
+    <summary>Make a greeting card to send your wishes, and get Primogems and other prizes~</summary>
+    <published>2022-01-29T11:00:00-05:00</published>
   </entry>
 </feed>

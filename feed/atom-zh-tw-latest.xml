@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-tw">
   <id>https://genshin.mihoyo.com/zh-tw/news</id>
   <title>Genshin Impact ZH-TW - latest</title>
-  <updated>2022-01-29T02:21:09.055989+00:00</updated>
+  <updated>2022-01-29T03:11:14.062689+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/zh-tw/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in zh-tw</subtitle>
-  <entry>
-    <id>16514</id>
-    <title>「鏡花聽世」玩法說明</title>
-    <updated>2021-10-14T10:30:00+08:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310175470407.jpg"><br/><br/>稻妻事件結束後，萬葉隨南十字一同返回璃月。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16514">「鏡花聽世」玩法說明</a>]]></content>
-    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/16514" rel="alternate"/>
-    <summary>稻妻事件結束後，萬葉隨南十字一同返回璃月。</summary>
-    <published>2021-10-14T10:30:00+08:00</published>
-  </entry>
   <entry>
     <id>16567</id>
     <title>「謎境懸兵」活動：參與邀請「燥熱旋律·辛焱(火)」</title>
@@ -912,5 +903,14 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012814234170628.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19091">【獲獎公告】「護法夜叉」魈同人繪畫徵集活動</a>]]></content>
     <link href="https://genshin.mihoyo.com/zh-tw/news/detail/19091" rel="alternate"/>
     <published>2022-01-28T14:23:54+08:00</published>
+  </entry>
+  <entry>
+    <id>19156</id>
+    <title>「流彩賀佳節」網頁活動開始了！</title>
+    <updated>2022-01-29T11:00:00+08:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910475271282.jpg"><br/><br/>製作賀卡送出祝福，還能拿原石等獎勵哦~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19156">「流彩賀佳節」網頁活動開始了！</a>]]></content>
+    <link href="https://genshin.mihoyo.com/zh-tw/news/detail/19156" rel="alternate"/>
+    <summary>製作賀卡送出祝福，還能拿原石等獎勵哦~</summary>
+    <published>2022-01-29T11:00:00+08:00</published>
   </entry>
 </feed>

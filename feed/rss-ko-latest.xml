@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 29 Jan 2022 02:21:26 +0000</lastBuildDate>
-    <item>
-      <title>「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16707</link>
-      <description>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102511332550958.png"><br/><br/>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16707">「빛과 그림자의 약속」 다인 모드 촬영 공모전</a>]]></content:encoded>
-      <guid isPermaLink="false">16707</guid>
-      <pubDate>Mon, 25 Oct 2021 12:00:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:43 +0000</lastBuildDate>
     <item>
       <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「토마: 불길의 방어」</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16777</link>
@@ -811,6 +803,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012720473138314.jpg"><br/><br/><원신> 콘서트 특별편 「봄을 맞는 화려한 악장」을 여러분께 선사할 예정입니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19035">원신 콘서트 특별편 예고</a>]]></content:encoded>
       <guid isPermaLink="false">19035</guid>
       <pubDate>Fri, 28 Jan 2022 12:01:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>「명절을 축하하는 빛」 웹이벤트 오픈!</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19161</link>
+      <description>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910543260312.jpg"><br/><br/>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19161">「명절을 축하하는 빛」 웹이벤트 오픈!</a>]]></content:encoded>
+      <guid isPermaLink="false">19161</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

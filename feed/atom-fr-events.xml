@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://genshin.mihoyo.com/fr/news</id>
   <title>Genshin Impact FR - events</title>
-  <updated>2022-01-29T02:21:08.120786+00:00</updated>
+  <updated>2022-01-29T03:11:12.781973+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -255,5 +255,14 @@ Cet événement est terminé, merci à tous pour votre participation. Jetons un 
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012717362178613.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19010">[Annonce des gagnants] Concours de fanart de Xiao « Gardien Yaksha »</a>]]></content>
     <link href="https://genshin.mihoyo.com/fr/news/detail/19010" rel="alternate"/>
     <published>2022-01-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19172</id>
+    <title>L'événement web « Célébration des mille teintes » est désormais disponible</title>
+    <updated>2022-01-29T11:00:10+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012911012040256.jpg"><br/><br/>Créez une carte de vœux et obtenez des primo-gemmes !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19172">L'événement web « Célébration des mille teintes » est désormais disponible</a>]]></content>
+    <link href="https://genshin.mihoyo.com/fr/news/detail/19172" rel="alternate"/>
+    <summary>Créez une carte de vœux et obtenez des primo-gemmes !</summary>
+    <published>2022-01-29T11:00:10+01:00</published>
   </entry>
 </feed>

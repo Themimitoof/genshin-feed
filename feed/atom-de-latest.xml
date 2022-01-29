@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - latest</title>
-  <updated>2022-01-29T02:21:12.578738+00:00</updated>
+  <updated>2022-01-29T03:11:20.087100+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/de/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in de</subtitle>
-  <entry>
-    <id>16515</id>
-    <title>Erläuterungen zur Spielweise von „Klänge der Welt“</title>
-    <updated>2021-10-14T10:30:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310194912683.jpg"><br/><br/>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16515">Erläuterungen zur Spielweise von „Klänge der Welt“</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16515" rel="alternate"/>
-    <summary>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?</summary>
-    <published>2021-10-14T10:30:00+02:00</published>
-  </entry>
   <entry>
     <id>16533</id>
     <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
@@ -968,5 +959,14 @@ die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!</summary>
     <link href="https://genshin.mihoyo.com/de/news/detail/19013" rel="alternate"/>
     <summary>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun</summary>
     <published>2022-01-28T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19167</id>
+    <title>Die Webaktion „Fest der flüchtigen Farben“ jetzt verfügbar!</title>
+    <updated>2022-01-29T11:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910590937489.jpg"><br/><br/>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19167">Die Webaktion „Fest der flüchtigen Farben“ jetzt verfügbar!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/19167" rel="alternate"/>
+    <summary>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!</summary>
+    <published>2022-01-29T11:00:00+01:00</published>
   </entry>
 </feed>

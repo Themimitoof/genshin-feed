@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2022-01-29T02:21:42.450425+00:00</updated>
+  <updated>2022-01-29T03:12:12.914163+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -362,14 +362,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16239</id>
-    <title>[Ra mắt sự kiện web kỷ niệm] Hành Trình Đáng Nhớ - Xem rạp hát kỷ niệm để nhận Nguyên Thạch và phần thưởng khác</title>
-    <updated>2021-09-28T11:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811105928479.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16239">[Ra mắt sự kiện web kỷ niệm] Hành Trình Đáng Nhớ - Xem rạp hát kỷ niệm để nhận Nguyên Thạch và phần thưởng khác</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16239" rel="alternate"/>
-    <published>2021-09-28T11:30:00+07:00</published>
   </entry>
   <entry>
     <id>16214</id>
@@ -1189,13 +1181,12 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <published>2022-01-28T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16577</id>
-    <title>Sự kiện "Chiến Binh Bí Ẩn": Tham gia để mời Giai Điệu Nóng Bỏng - Xinyan (Hoả) về đội!</title>
-    <updated>2021-10-19T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911334540464.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16577">Sự kiện "Chiến Binh Bí Ẩn": Tham gia để mời Giai Điệu Nóng Bỏng - Xinyan (Hoả) về đội!</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16577" rel="alternate"/>
-    <summary/>
-    <published>2021-10-19T12:00:00+07:00</published>
+    <id>19160</id>
+    <title>Sự kiện web "Sắc Màu Đón Xuân" đã mở!</title>
+    <updated>2022-01-29T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910513362246.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/19160">Sự kiện web "Sắc Màu Đón Xuân" đã mở!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/19160" rel="alternate"/>
+    <published>2022-01-29T11:00:00+07:00</published>
   </entry>
   <entry>
     <id>16589</id>
@@ -2014,5 +2005,13 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/19023" rel="alternate"/>
     <summary>Để đáp lại sự ủng hộ và kỳ vọng của Nhà Lữ Hành, Genshin Impact sẽ kết hợp với Shanghai Symphony Orchestra để mang đến cho Nhà Lữ Hành giai điệu tươi đẹp mừng xuân - GENSHIN CONCERT 2021 Phiên Bản Đặc Biệt - Melodies of Spring</summary>
     <published>2022-01-28T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19160</id>
+    <title>Sự kiện web "Sắc Màu Đón Xuân" đã mở!</title>
+    <updated>2022-01-29T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910513362246.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/19160">Sự kiện web "Sắc Màu Đón Xuân" đã mở!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/19160" rel="alternate"/>
+    <published>2022-01-29T11:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Sat, 29 Jan 2022 02:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:25 +0000</lastBuildDate>
     <item>
       <title>Laternenwunsch</title>
       <link>https://genshin.mihoyo.com/de/news/detail/2777</link>
@@ -196,6 +196,14 @@ die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!</descript
 die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/18964">Ergebnisverkündung für die Gewinnaktion „Schützender Yaksha“ für Fan-Zeichnungen mit Xiao</a>]]></content:encoded>
       <guid isPermaLink="false">18964</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Webaktion „Fest der flüchtigen Farben“ jetzt verfügbar!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19167</link>
+      <description>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910590937489.jpg"><br/><br/>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19167">Die Webaktion „Fest der flüchtigen Farben“ jetzt verfügbar!</a>]]></content:encoded>
+      <guid isPermaLink="false">19167</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0100</pubDate>
     </item>
     <item>
       <title>Betritt in „Genshin Impact“ gemeinsam mit Amber die Welt von Teyvat!</title>
@@ -1186,14 +1194,6 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Erläuterungen zur Spielweise von „Klänge der Welt“</title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16515</link>
-      <description>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310194912683.jpg"><br/><br/>Nachdem das Ereignis von Inazuma ein Ende genommen hat, ist Kazuha mit der Crux nach Liyue zurückgefahren. Aber neulich hat er eine kurze Nachricht an die Seeleute der Crux geschickt, in der er sie darum bittet, für ihn den Reisenden im Auge zu behalten. Ist er ... wieder auf etwas Heikles gestoßen?<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16515">Erläuterungen zur Spielweise von „Klänge der Welt“</a>]]></content:encoded>
-      <guid isPermaLink="false">16515</guid>
-      <pubDate>Thu, 14 Oct 2021 10:30:00 +0200</pubDate>
-    </item>
-    <item>
       <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
       <link>https://genshin.mihoyo.com/de/news/detail/16533</link>
       <description>Liebe Reisende, 
@@ -2043,6 +2043,14 @@ die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!<br><br>Re
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718004744988.jpg"><br/><br/>Um die Unterstützung und das Vertrauen der Reisenden zu belohnen, wird sich Genshin Impact mit dem Shanghai Symphony Orchestra zusammentun<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19013">Vorschau auf GENSHIN CONCERT – Sonderausgabe</a>]]></content:encoded>
       <guid isPermaLink="false">19013</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Die Webaktion „Fest der flüchtigen Farben“ jetzt verfügbar!</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19167</link>
+      <description>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910590937489.jpg"><br/><br/>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19167">Die Webaktion „Fest der flüchtigen Farben“ jetzt verfügbar!</a>]]></content:encoded>
+      <guid isPermaLink="false">19167</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

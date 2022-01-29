@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - all-articles</title>
-  <updated>2022-01-29T02:21:29.333103+00:00</updated>
+  <updated>2022-01-29T03:11:49.413615+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -262,6 +262,15 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/19003" rel="alternate"/>
     <summary>소 팬아트 공모전 이벤트 수상 안내</summary>
     <published>2022-01-28T12:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>19161</id>
+    <title>「명절을 축하하는 빛」 웹이벤트 오픈!</title>
+    <updated>2022-01-29T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910543260312.jpg"><br/><br/>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19161">「명절을 축하하는 빛」 웹이벤트 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/19161" rel="alternate"/>
+    <summary>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~</summary>
+    <published>2022-01-29T11:00:00+09:00</published>
   </entry>
   <entry>
     <id>693</id>
@@ -1369,15 +1378,6 @@
     <published>2022-01-28T12:01:00+09:00</published>
   </entry>
   <entry>
-    <id>16707</id>
-    <title>「빛과 그림자의 약속」 다인 모드 촬영 공모전</title>
-    <updated>2021-10-25T12:00:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211025/2021102511332550958.png"><br/><br/>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16707">「빛과 그림자의 약속」 다인 모드 촬영 공모전</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16707" rel="alternate"/>
-    <summary>「빛과 그림자의 약속」 다인 모드 촬영 공모전이 개최되었습니다</summary>
-    <published>2021-10-25T12:00:00+09:00</published>
-  </entry>
-  <entry>
     <id>16777</id>
     <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「토마: 불길의 방어」</title>
     <updated>2021-10-29T12:01:00+09:00</updated>
@@ -2276,5 +2276,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/19035" rel="alternate"/>
     <summary>&lt;원신&gt; 콘서트 특별편 「봄을 맞는 화려한 악장」을 여러분께 선사할 예정입니다</summary>
     <published>2022-01-28T12:01:00+09:00</published>
+  </entry>
+  <entry>
+    <id>19161</id>
+    <title>「명절을 축하하는 빛」 웹이벤트 오픈!</title>
+    <updated>2022-01-29T11:00:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910543260312.jpg"><br/><br/>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19161">「명절을 축하하는 빛」 웹이벤트 오픈!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/19161" rel="alternate"/>
+    <summary>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~</summary>
+    <published>2022-01-29T11:00:00+09:00</published>
   </entry>
 </feed>

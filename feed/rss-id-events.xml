@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Sat, 29 Jan 2022 02:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:36 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -269,6 +269,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012713180978957.png"><br/><br/>Kontes sudah berakhir! Ayo kita lihat hasil karya pemenang yang luar biasa~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/18967">[Pengumuman Pemenang] Kontes Gambar Fan Art "Vigilant Yaksha" Xiao</a>]]></content:encoded>
       <guid isPermaLink="false">18967</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Event Web "Festival Perayaan Aliran Warna" Telah Hadir!</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/19165</link>
+      <description>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910575556016.jpg"><br/><br/>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19165">Event Web "Festival Perayaan Aliran Warna" Telah Hadir!</a>]]></content:encoded>
+      <guid isPermaLink="false">19165</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

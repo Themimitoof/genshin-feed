@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 29 Jan 2022 02:21:09 +0000</lastBuildDate>
-    <item>
-      <title>「鏡花聽世」玩法說明</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16514</link>
-      <description>稻妻事件結束後，萬葉隨南十字一同返回璃月。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211013/2021101310175470407.jpg"><br/><br/>稻妻事件結束後，萬葉隨南十字一同返回璃月。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16514">「鏡花聽世」玩法說明</a>]]></content:encoded>
-      <guid isPermaLink="false">16514</guid>
-      <pubDate>Thu, 14 Oct 2021 10:30:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:14 +0000</lastBuildDate>
     <item>
       <title>「謎境懸兵」活動：參與邀請「燥熱旋律·辛焱(火)」</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16567</link>
@@ -811,6 +803,14 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012814234170628.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19091">【獲獎公告】「護法夜叉」魈同人繪畫徵集活動</a>]]></description>
       <guid isPermaLink="false">19091</guid>
       <pubDate>Fri, 28 Jan 2022 14:23:54 +0800</pubDate>
+    </item>
+    <item>
+      <title>「流彩賀佳節」網頁活動開始了！</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/19156</link>
+      <description>製作賀卡送出祝福，還能拿原石等獎勵哦~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910475271282.jpg"><br/><br/>製作賀卡送出祝福，還能拿原石等獎勵哦~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19156">「流彩賀佳節」網頁活動開始了！</a>]]></content:encoded>
+      <guid isPermaLink="false">19156</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

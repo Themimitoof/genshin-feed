@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-29T02:21:22.764230+00:00</updated>
+  <updated>2022-01-29T03:11:37.697451+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -303,6 +303,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/18967" rel="alternate"/>
     <summary>Kontes sudah berakhir! Ayo kita lihat hasil karya pemenang yang luar biasa~</summary>
     <published>2022-01-28T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19165</id>
+    <title>Event Web "Festival Perayaan Aliran Warna" Telah Hadir!</title>
+    <updated>2022-01-29T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910575556016.jpg"><br/><br/>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19165">Event Web "Festival Perayaan Aliran Warna" Telah Hadir!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/19165" rel="alternate"/>
+    <summary>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~</summary>
+    <published>2022-01-29T11:00:00+07:00</published>
   </entry>
   <entry>
     <id>735</id>
@@ -1030,5 +1039,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/19027" rel="alternate"/>
     <summary>Untuk membalas dukungan dan penantian para Traveler, Genshin Impact akan bekerja sama dengan Shanghai Symphony Orchestra untuk mempersembahkan melodi Tahun Baru Imlek yang indah bagi Traveler: GENSHIN CONCERT Special Edition — Reflections of Spring.</summary>
     <published>2022-01-28T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19165</id>
+    <title>Event Web "Festival Perayaan Aliran Warna" Telah Hadir!</title>
+    <updated>2022-01-29T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910575556016.jpg"><br/><br/>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19165">Event Web "Festival Perayaan Aliran Warna" Telah Hadir!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/19165" rel="alternate"/>
+    <summary>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~</summary>
+    <published>2022-01-29T11:00:00+07:00</published>
   </entry>
 </feed>

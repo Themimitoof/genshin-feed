@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 29 Jan 2022 02:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:17 +0000</lastBuildDate>
     <item>
       <title>《原神》社群媒體問卷調查</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/3463</link>
@@ -149,6 +149,14 @@
       <content:encoded><![CDATA[新版本要來啦！<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/8428">「明霄昇海平」1.3版本更新通知</a>]]></content:encoded>
       <guid isPermaLink="false">8428</guid>
       <pubDate>Mon, 01 Feb 2021 10:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>「流彩賀佳節」網頁活動開始了！</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/19156</link>
+      <description>製作賀卡送出祝福，還能拿原石等獎勵哦~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910475271282.jpg"><br/><br/>製作賀卡送出祝福，還能拿原石等獎勵哦~<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19156">「流彩賀佳節」網頁活動開始了！</a>]]></content:encoded>
+      <guid isPermaLink="false">19156</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

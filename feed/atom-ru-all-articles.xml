@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-29T02:21:35.762955+00:00</updated>
+  <updated>2022-01-29T03:12:01.263293+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -296,6 +296,15 @@
     <summary>Дорогие Путешественники!
 Событие завершено! Посмотрим на замечательные работы победителей!</summary>
     <published>2022-01-28T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>19154</id>
+    <title>Браузерное событие «Праздник струящихся оттенков» началось!</title>
+    <updated>2022-01-29T11:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910352884512.jpg"><br/><br/>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19154">Браузерное событие «Праздник струящихся оттенков» началось!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/19154" rel="alternate"/>
+    <summary>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!</summary>
+    <published>2022-01-29T11:00:00+03:00</published>
   </entry>
   <entry>
     <id>740</id>
@@ -1375,15 +1384,6 @@
     <published>2022-01-28T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>16765</id>
-    <title>«Защищающий огонь» Тома (Пиро) - Новый персонаж | Genshin Impact</title>
-    <updated>2021-10-29T12:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818014626896.jpg"><br/><br/>Вместе с мастером общения Томой вас всегда ожидает много весёлого и интересного.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16765">«Защищающий огонь» Тома (Пиро) - Новый персонаж | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16765" rel="alternate"/>
-    <summary>Вместе с мастером общения Томой вас всегда ожидает много весёлого и интересного.</summary>
-    <published>2021-10-29T12:00:00+03:00</published>
-  </entry>
-  <entry>
     <id>16735</id>
     <title>«Если что понадобится, я буду здесь» - «Защитник издалека» Тома</title>
     <updated>2021-10-29T12:10:00+03:00</updated>
@@ -2292,5 +2292,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/19029" rel="alternate"/>
     <summary>Дабы воздать должное Путешественникам за их поддержку и доверие, Genshin Impact совместно с Шанхайским симфоническим оркестром представляет чудесную новогоднюю музыку: Симфонический концерт Genshin Impact - Специальный выпуск: «Мелодия весны».</summary>
     <published>2022-01-28T12:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>19154</id>
+    <title>Браузерное событие «Праздник струящихся оттенков» началось!</title>
+    <updated>2022-01-29T11:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910352884512.jpg"><br/><br/>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19154">Браузерное событие «Праздник струящихся оттенков» началось!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/19154" rel="alternate"/>
+    <summary>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!</summary>
+    <published>2022-01-29T11:00:00+03:00</published>
   </entry>
 </feed>

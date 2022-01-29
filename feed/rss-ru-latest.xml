@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Sat, 29 Jan 2022 02:21:32 +0000</lastBuildDate>
-    <item>
-      <title>«Защищающий огонь» Тома (Пиро) - Новый персонаж | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16765</link>
-      <description>Вместе с мастером общения Томой вас всегда ожидает много весёлого и интересного.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818014626896.jpg"><br/><br/>Вместе с мастером общения Томой вас всегда ожидает много весёлого и интересного.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16765">«Защищающий огонь» Тома (Пиро) - Новый персонаж | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16765</guid>
-      <pubDate>Fri, 29 Oct 2021 12:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:55 +0000</lastBuildDate>
     <item>
       <title>«Если что понадобится, я буду здесь» - «Защитник издалека» Тома</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16735</link>
@@ -827,6 +819,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012719074036175.jpg"><br/><br/>Дабы воздать должное Путешественникам за их поддержку и доверие, Genshin Impact совместно с Шанхайским симфоническим оркестром представляет чудесную новогоднюю музыку: Симфонический концерт Genshin Impact - Специальный выпуск: «Мелодия весны».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19029">Genshin Impact | Симфонический концерт - Специальный выпуск</a>]]></content:encoded>
       <guid isPermaLink="false">19029</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Браузерное событие «Праздник струящихся оттенков» началось!</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/19154</link>
+      <description>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910352884512.jpg"><br/><br/>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19154">Браузерное событие «Праздник струящихся оттенков» началось!</a>]]></content:encoded>
+      <guid isPermaLink="false">19154</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Sat, 29 Jan 2022 02:21:29 +0000</lastBuildDate>
-    <item>
-      <title>Oração "Encaranação Divina": Báculo de Homa (Lança), "Elegia do Suspiro Final (Arco) com probabilidade aumentada!</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16826</link>
-      <description>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918163750688.jpg"><br/><br/>Durante o período do Evento, obtenha mais armas e personagens através da Oração "Encarnação Divina", e aumente a força de combate da sua equipe!<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16826">Oração "Encaranação Divina": Báculo de Homa (Lança), "Elegia do Suspiro Final (Arco) com probabilidade aumentada!</a>]]></content:encoded>
-      <guid isPermaLink="false">16826</guid>
-      <pubDate>Sun, 31 Oct 2021 12:00:00 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:49 +0000</lastBuildDate>
     <item>
       <title>Oração "Momento de Florescer": "Fragrância de Ameixa Descongelada - Hutao (Pyro)" receberá um aumento de taxa de drop!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16825</link>
@@ -821,6 +813,14 @@ Disponível agora, Concurso de Arte de Fãs da Ganyu! Pegue o seu lápis e é ho
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718010933440.jpg"><br/><br/>De forma a agradecer pelo apoio contínuo de todos, Genshin Impact junto com a Orquestra Sinfônica de Xangai estará trazendo para os Viajantes, belas melodias para o Ano Novo Chinês: GENSHIN CONCERT Edição Especial — "Reflexões da Primavera".<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/19014">Prévia de GENSHIN CONCERT Edição Especial</a>]]></content:encoded>
       <guid isPermaLink="false">19014</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disponível agora, evento web "Festival de Mil Tonalidades"</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/19163</link>
+      <description>Produza e envie o seu próprio cartão de saudação para obter Gemas Essenciais entre outras recompensas~</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910555288683.jpg"><br/><br/>Produza e envie o seu próprio cartão de saudação para obter Gemas Essenciais entre outras recompensas~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/19163">Disponível agora, evento web "Festival de Mil Tonalidades"</a>]]></content:encoded>
+      <guid isPermaLink="false">19163</guid>
+      <pubDate>Sat, 29 Jan 2022 11:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

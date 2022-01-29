@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-29T02:21:38.625390+00:00</updated>
+  <updated>2022-01-29T03:12:07.214609+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -377,14 +377,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16234</id>
-    <title>[กิจกรรมวันครบรอบบนหน้าเว็บ] บันทึกการเดินทาง - ชมโรงละครฉลองครบรอบสุดพิเศษ เพื่อรับ Primogem และอื่น ๆ</title>
-    <updated>2021-09-28T11:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092811045881648.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16234">[กิจกรรมวันครบรอบบนหน้าเว็บ] บันทึกการเดินทาง - ชมโรงละครฉลองครบรอบสุดพิเศษ เพื่อรับ Primogem และอื่น ๆ</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16234" rel="alternate"/>
-    <published>2021-09-28T11:30:00+07:00</published>
   </entry>
   <entry>
     <id>16210</id>
@@ -1205,12 +1197,12 @@
     <published>2022-01-28T12:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16575</id>
-    <title>ข่าวสารสินค้าที่ระลึกประจำ "คอนเสิร์ตซิมโฟนีออฟไลน์ของ Genshin Impact" ช่วงที่ 2</title>
-    <updated>2021-10-19T18:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101911265949350.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16575">ข่าวสารสินค้าที่ระลึกประจำ "คอนเสิร์ตซิมโฟนีออฟไลน์ของ Genshin Impact" ช่วงที่ 2</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16575" rel="alternate"/>
-    <published>2021-10-19T18:00:00+07:00</published>
+    <id>19157</id>
+    <title>กิจกรรมบนเว็บไซต์ "เทศกาลแห่งสีสันอันพลิ้วไหว" ได้เริ่มขึ้นแล้ว!</title>
+    <updated>2022-01-29T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910484088177.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19157">กิจกรรมบนเว็บไซต์ "เทศกาลแห่งสีสันอันพลิ้วไหว" ได้เริ่มขึ้นแล้ว!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/19157" rel="alternate"/>
+    <published>2022-01-29T11:00:00+07:00</published>
   </entry>
   <entry>
     <id>16594</id>
@@ -2035,5 +2027,13 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/19019" rel="alternate"/>
     <summary/>
     <published>2022-01-28T12:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19157</id>
+    <title>กิจกรรมบนเว็บไซต์ "เทศกาลแห่งสีสันอันพลิ้วไหว" ได้เริ่มขึ้นแล้ว!</title>
+    <updated>2022-01-29T11:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910484088177.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19157">กิจกรรมบนเว็บไซต์ "เทศกาลแห่งสีสันอันพลิ้วไหว" ได้เริ่มขึ้นแล้ว!</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/19157" rel="alternate"/>
+    <published>2022-01-29T11:00:00+07:00</published>
   </entry>
 </feed>
