@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - latest</title>
-  <updated>2022-01-29T05:10:54.826672+00:00</updated>
+  <updated>2022-01-29T06:13:43.553520+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -814,8 +814,9 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <id>18979</id>
     <title>[Công Bố Giải Thưởng] Sự Kiện Thu Thập Fan Art "Hộ Pháp Dạ Xoa - Xiao"</title>
     <updated>2022-01-28T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715160569486.png"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18979">[Công Bố Giải Thưởng] Sự Kiện Thu Thập Fan Art "Hộ Pháp Dạ Xoa - Xiao"</a>]]></content>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012715160569486.png"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/18979">[Công Bố Giải Thưởng] Sự Kiện Thu Thập Fan Art "Hộ Pháp Dạ Xoa - Xiao"</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/18979" rel="alternate"/>
+    <summary/>
     <published>2022-01-28T12:00:00+07:00</published>
   </entry>
   <entry>
