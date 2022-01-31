@@ -2,6 +2,8 @@
 .vscode/
 
 # Generated stuff
+feed/
+!feed/.keep
 site/public
 site/data/last-updates.json
 site/static/feed/
