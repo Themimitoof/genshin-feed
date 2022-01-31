@@ -30,25 +30,5 @@
 <link rel="shortcut icon" href="{{ trim .Site.BaseURL "/" }}/favicon.png" type="image/png" />
 
 <!-- Stylesheets -->
-<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
-
-<style>
-  .content p,
-  .content h1,
-  .content h2,
-  .content h3 {
-    padding-top: 1.5em;
-  }
-
-  .content h1 {
-    font-size: 2.5em;
-  }
-
-  .content h2 {
-    font-size: 2em;
-  }
-
-  .content h3 {
-    font-size: 1.5em;
-  }
-</style>
+{{- $style := resources.Get "scss/app.scss" | resources.ToCSS | minify -}}
+<link rel="stylesheet" href="{{ $style.Permalink }}" />

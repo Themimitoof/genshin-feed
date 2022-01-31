@@ -5,3 +5,5 @@
 site/public
 site/data/last-updates.json
 site/static/feed/
+site/.hugo_build.lock
+site/resources/
