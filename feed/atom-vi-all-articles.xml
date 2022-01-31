@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="vi">
   <id>https://genshin.mihoyo.com/vi/news</id>
   <title>Genshin Impact VI - all-articles</title>
-  <updated>2022-01-31T10:11:54.994421+00:00</updated>
+  <updated>2022-01-31T11:09:40.453162+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -363,14 +363,6 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <link href="https://genshin.mihoyo.com/vi/news/detail/7468" rel="alternate"/>
     <summary>Mọi thứ đều suôn sẻ cho đến khi tai nạn ập đến - Bạn bước vào chuyến hành trình mạo hiểm trên núi tuyết!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16214</id>
-    <title>Video Tuyên Truyền Cho Genshin Impact - Cùng Nhau Trên Chặng Đường Dài</title>
-    <updated>2021-09-28T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092717572112463.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/16214">Video Tuyên Truyền Cho Genshin Impact - Cùng Nhau Trên Chặng Đường Dài</a>]]></content>
-    <link href="https://genshin.mihoyo.com/vi/news/detail/16214" rel="alternate"/>
-    <published>2021-09-28T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16273</id>
@@ -1188,6 +1180,14 @@ Sự kiện lần này đã kết thúc rồi, cảm ơn các bạn đã tham gi
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910513362246.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/19160">Sự kiện web "Sắc Màu Đón Xuân" đã mở!</a>]]></content>
     <link href="https://genshin.mihoyo.com/vi/news/detail/19160" rel="alternate"/>
     <published>2022-01-29T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19068</id>
+    <title>[Genshin Impact] Hoạt Cảnh Sự Kiện Muôn Sắc Khắc Niên Hoa - Dòng Chảy Tháng Năm</title>
+    <updated>2022-01-31T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811432611818.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/vi/news/detail/19068">[Genshin Impact] Hoạt Cảnh Sự Kiện Muôn Sắc Khắc Niên Hoa - Dòng Chảy Tháng Năm</a>]]></content>
+    <link href="https://genshin.mihoyo.com/vi/news/detail/19068" rel="alternate"/>
+    <published>2022-01-31T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>16595</id>
