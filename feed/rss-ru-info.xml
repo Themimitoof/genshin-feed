@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:56 +0000</lastBuildDate>
-    <item>
-      <title>Тизер «Вкусы мира» | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16256</link>
-      <description>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818201720180.jpg"><br/><br/>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16256">Тизер «Вкусы мира» | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16256</guid>
-      <pubDate>Sat, 02 Oct 2021 18:00:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:46 +0000</lastBuildDate>
     <item>
       <title>Genshin Impact | Версия 2.2 - Тайны туманного моря</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16300</link>
@@ -823,6 +815,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012719074036175.jpg"><br/><br/>Дабы воздать должное Путешественникам за их поддержку и доверие, Genshin Impact совместно с Шанхайским симфоническим оркестром представляет чудесную новогоднюю музыку: Симфонический концерт Genshin Impact - Специальный выпуск: «Мелодия весны».<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19029">Genshin Impact | Симфонический концерт - Специальный выпуск</a>]]></content:encoded>
       <guid isPermaLink="false">19029</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/19061</link>
+      <description>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811385134440.jpg"><br/><br/>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19061">Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</a>]]></content:encoded>
+      <guid isPermaLink="false">19061</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

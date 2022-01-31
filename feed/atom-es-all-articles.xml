@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
   <id>https://genshin.mihoyo.com/es/news</id>
   <title>Genshin Impact ES - all-articles</title>
-  <updated>2022-01-31T09:10:53.076429+00:00</updated>
+  <updated>2022-01-31T10:11:32.912577+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -764,6 +764,15 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
     <published>2022-01-29T11:00:00+01:00</published>
   </entry>
   <entry>
+    <id>19065</id>
+    <title>Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</title>
+    <updated>2022-01-31T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811423833952.jpg"><br/><br/>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19065">Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19065" rel="alternate"/>
+    <summary>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.</summary>
+    <published>2022-01-31T18:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>17967</id>
     <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
     <updated>2021-12-27T12:10:00+01:00</updated>
@@ -1207,5 +1216,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
     <link href="https://genshin.mihoyo.com/es/news/detail/19152" rel="alternate"/>
     <summary>Crea tarjetas de felicitación para enviar tus buenos deseos, ¡y conseguir Protogemas y otras recompensas!</summary>
     <published>2022-01-29T11:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19065</id>
+    <title>Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</title>
+    <updated>2022-01-31T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811423833952.jpg"><br/><br/>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19065">Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</a>]]></content>
+    <link href="https://genshin.mihoyo.com/es/news/detail/19065" rel="alternate"/>
+    <summary>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.</summary>
+    <published>2022-01-31T18:00:00+01:00</published>
   </entry>
 </feed>

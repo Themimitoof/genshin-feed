@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:51 +0000</lastBuildDate>
-    <item>
-      <title>Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</title>
-      <link>https://genshin.mihoyo.com/fr/news/detail/16596</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101920151233268.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/16596">Informations sur les produits dérivés du concert hors ligne de Genshin Impact - Partie II</a>]]></description>
-      <guid isPermaLink="false">16596</guid>
-      <pubDate>Tue, 19 Oct 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:20 +0000</lastBuildDate>
     <item>
       <title>Détails de l'événement « Guerriers du labyrinthe »</title>
       <link>https://genshin.mihoyo.com/fr/news/detail/16597</link>
@@ -736,6 +729,13 @@ L'aperçu de la version 2.4 « Couleurs éphémères en vol » est disponible�
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012911012040256.jpg"><br/><br/>Créez une carte de vœux et obtenez des primo-gemmes !<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19172">L'événement web « Célébration des mille teintes » est désormais disponible</a>]]></content:encoded>
       <guid isPermaLink="false">19172</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:10 +0100</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact - Cinématique de « Couleurs éphémères en vol » : « Ère des mille teintes »</title>
+      <link>https://genshin.mihoyo.com/fr/news/detail/19102</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012816142310704.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/fr/news/detail/19102">Genshin Impact - Cinématique de « Couleurs éphémères en vol » : « Ère des mille teintes »</a>]]></description>
+      <guid isPermaLink="false">19102</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

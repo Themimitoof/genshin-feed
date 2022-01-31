@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:54 +0000</lastBuildDate>
-    <item>
-      <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「토마: 불길의 방어」</title>
-      <link>https://genshin.mihoyo.com/ko/news/detail/16777</link>
-      <description>사교성 좋은 토마와 함께하면 항상 즐겁고 떠들썩한 일들로 가득하다.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818372189795.jpg"><br/><br/>사교성 좋은 토마와 함께하면 항상 즐겁고 떠들썩한 일들로 가득하다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16777"><원신> 신규 캐릭터 플레이 - 「토마: 불길의 방어」</a>]]></content:encoded>
-      <guid isPermaLink="false">16777</guid>
-      <pubDate>Fri, 29 Oct 2021 12:01:00 +0900</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:39 +0000</lastBuildDate>
     <item>
       <title>「내가 뭐 도울 거 없어?」 - 「바다 건너온 수호자」·토마</title>
       <link>https://genshin.mihoyo.com/ko/news/detail/16762</link>
@@ -811,6 +803,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910543260312.jpg"><br/><br/>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19161">「명절을 축하하는 빛」 웹이벤트 오픈!</a>]]></content:encoded>
       <guid isPermaLink="false">19161</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>&lt;원신&gt; 화려히 수놓인 유년 이벤트 컷신 - 「반짝이는 세월」</title>
+      <link>https://genshin.mihoyo.com/ko/news/detail/19199</link>
+      <description>휘황찬란한 불꽃과 온 하늘에 흩날리는 유성에 만물이 눈부시게 빛난다.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220130/2022013012092432293.jpg"><br/><br/>휘황찬란한 불꽃과 온 하늘에 흩날리는 유성에 만물이 눈부시게 빛난다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19199"><원신> 화려히 수놓인 유년 이벤트 컷신 - 「반짝이는 세월」</a>]]></content:encoded>
+      <guid isPermaLink="false">19199</guid>
+      <pubDate>Mon, 31 Jan 2022 18:01:00 +0900</pubDate>
     </item>
   </channel>
 </rss>

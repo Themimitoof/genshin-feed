@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="id">
   <id>https://genshin.mihoyo.com/id/news</id>
   <title>Genshin Impact ID - all-articles</title>
-  <updated>2022-01-31T09:10:53.525360+00:00</updated>
+  <updated>2022-01-31T10:11:36.236969+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -717,6 +717,15 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <published>2022-01-28T12:00:00+07:00</published>
   </entry>
   <entry>
+    <id>19100</id>
+    <title>Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</title>
+    <updated>2022-01-31T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012816124454284.jpg"><br/><br/>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19100">Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/19100" rel="alternate"/>
+    <summary>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.</summary>
+    <published>2022-01-31T18:00:00+07:00</published>
+  </entry>
+  <entry>
     <id>18288</id>
     <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
     <updated>2021-12-31T12:00:00+07:00</updated>
@@ -1048,5 +1057,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
     <link href="https://genshin.mihoyo.com/id/news/detail/19165" rel="alternate"/>
     <summary>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~</summary>
     <published>2022-01-29T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19100</id>
+    <title>Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</title>
+    <updated>2022-01-31T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012816124454284.jpg"><br/><br/>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19100">Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/id/news/detail/19100" rel="alternate"/>
+    <summary>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.</summary>
+    <published>2022-01-31T18:00:00+07:00</published>
   </entry>
 </feed>

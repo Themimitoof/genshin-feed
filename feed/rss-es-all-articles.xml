@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:32 +0000</lastBuildDate>
     <item>
       <title>El foro oficial de Genshin Impact abre sus puertas para participar en un sorteo en el que podrás conseguir un Pase para la Prueba Beta</title>
       <link>https://genshin.mihoyo.com/es/news/detail/2173</link>
@@ -675,6 +675,14 @@ Nuevo vestuario de Ninguang - Gala de las orquídeas estará disponibles tras la
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/19065</link>
+      <description>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811423833952.jpg"><br/><br/>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19065">Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</a>]]></content:encoded>
+      <guid isPermaLink="false">19065</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Nuevo vestuario de Ninguang "Gala de las orquídeas" - El tiempo no pasa en vano si estás a mi lado</title>
       <link>https://genshin.mihoyo.com/es/news/detail/17967</link>
       <description>¡Hola a todos!
@@ -1068,6 +1076,14 @@ El evento web «Un camino de copos y estrellas» ya está disponible. Participa 
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910303815861.jpg"><br/><br/>Crea tarjetas de felicitación para enviar tus buenos deseos, ¡y conseguir Protogemas y otras recompensas!<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19152">¡El evento de la página web «Festival de los mil colores» ya se encuentra disponible!</a>]]></content:encoded>
       <guid isPermaLink="false">19152</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</title>
+      <link>https://genshin.mihoyo.com/es/news/detail/19065</link>
+      <description>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811423833952.jpg"><br/><br/>Los fuegos artificiales se esparcen por el cielo como estrellas, dando la bienvenida a los tiempos de prosperidad.<br><br>Read more on <a href="https://genshin.mihoyo.com/es/news/detail/19065">Cinemática de Genshin Impact - Iridiscencia fugaz: La era de los tonos cambiantes</a>]]></content:encoded>
+      <guid isPermaLink="false">19065</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

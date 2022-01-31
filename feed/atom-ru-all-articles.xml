@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ru">
   <id>https://genshin.mihoyo.com/ru/news</id>
   <title>Genshin Impact RU - all-articles</title>
-  <updated>2022-01-31T09:10:57.044209+00:00</updated>
+  <updated>2022-01-31T10:11:49.008921+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -467,15 +467,6 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/7467" rel="alternate"/>
     <summary>Всё было замечательно, пока не случилось кое-что неожиданное... Ваше приключение на Драконьем хребте! </summary>
     <published>2020-12-20T12:00:00+03:00</published>
-  </entry>
-  <entry>
-    <id>16256</id>
-    <title>Тизер «Вкусы мира» | Genshin Impact</title>
-    <updated>2021-10-02T18:00:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210928/2021092818201720180.jpg"><br/><br/>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16256">Тизер «Вкусы мира» | Genshin Impact</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16256" rel="alternate"/>
-    <summary>Еда и питьё вечны. На протяжении веков всё постоянно обновляется.</summary>
-    <published>2021-10-02T18:00:00+03:00</published>
   </entry>
   <entry>
     <id>16300</id>
@@ -1384,15 +1375,13 @@
     <published>2022-01-28T12:00:00+03:00</published>
   </entry>
   <entry>
-    <id>16735</id>
-    <title>«Если что понадобится, я буду здесь» - «Защитник издалека» Тома</title>
-    <updated>2021-10-29T12:10:00+03:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715501470506.jpg"><br/><br/>Сегодня мы представим вам нового персонажа, Тому!
-Официальный титул Томы в клане Камисато - управляющий. Он отвечает за такие вопросы, как уборка и приготовление пищи.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16735">«Если что понадобится, я буду здесь» - «Защитник издалека» Тома</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ru/news/detail/16735" rel="alternate"/>
-    <summary>Сегодня мы представим вам нового персонажа, Тому!
-Официальный титул Томы в клане Камисато - управляющий. Он отвечает за такие вопросы, как уборка и приготовление пищи.</summary>
-    <published>2021-10-29T12:10:00+03:00</published>
+    <id>19061</id>
+    <title>Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</title>
+    <updated>2022-01-31T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811385134440.jpg"><br/><br/>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19061">Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/19061" rel="alternate"/>
+    <summary>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.</summary>
+    <published>2022-01-31T18:00:00+03:00</published>
   </entry>
   <entry>
     <id>16823</id>
@@ -2301,5 +2290,14 @@
     <link href="https://genshin.mihoyo.com/ru/news/detail/19154" rel="alternate"/>
     <summary>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!</summary>
     <published>2022-01-29T11:00:00+03:00</published>
+  </entry>
+  <entry>
+    <id>19061</id>
+    <title>Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</title>
+    <updated>2022-01-31T18:00:00+03:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811385134440.jpg"><br/><br/>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19061">Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ru/news/detail/19061" rel="alternate"/>
+    <summary>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.</summary>
+    <published>2022-01-31T18:00:00+03:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="th">
   <id>https://genshin.mihoyo.com/th/news</id>
   <title>Genshin Impact TH - all-articles</title>
-  <updated>2022-01-31T09:10:57.986166+00:00</updated>
+  <updated>2022-01-31T10:11:52.280614+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -378,14 +378,6 @@
     <link href="https://genshin.mihoyo.com/th/news/detail/7470" rel="alternate"/>
     <summary>ทุกอย่างล้วนเป็นไปอย่างราบรื่น จนกระทั่งการมาถึงของเรื่องไม่คาดฝัน - เริ่มต้นการผจญภัยในภูเขาหิมะ!</summary>
     <published>2020-12-20T12:00:00+07:00</published>
-  </entry>
-  <entry>
-    <id>16210</id>
-    <title>Genshin Impact วิดีโอโปรโมต - เดินทางไกล ไปด้วยกัน</title>
-    <updated>2021-09-28T12:00:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092716303238199.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16210">Genshin Impact วิดีโอโปรโมต - เดินทางไกล ไปด้วยกัน</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16210" rel="alternate"/>
-    <published>2021-09-28T12:00:00+07:00</published>
   </entry>
   <entry>
     <id>16270</id>
@@ -1206,13 +1198,12 @@
     <published>2022-01-29T11:00:00+07:00</published>
   </entry>
   <entry>
-    <id>16594</id>
-    <title>คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</title>
-    <updated>2021-10-20T10:30:00+07:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101917164585836.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16594">คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</a>]]></content>
-    <link href="https://genshin.mihoyo.com/th/news/detail/16594" rel="alternate"/>
-    <summary/>
-    <published>2021-10-20T10:30:00+07:00</published>
+    <id>19063</id>
+    <title>[Genshin Impact] ฉากคัตซีนกิจกรรม แสงสีสันแต่งแต้มท้องนภา - "ช่วงเวลาที่พร่างพราว"</title>
+    <updated>2022-01-31T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811412668822.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19063">[Genshin Impact] ฉากคัตซีนกิจกรรม แสงสีสันแต่งแต้มท้องนภา - "ช่วงเวลาที่พร่างพราว"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/19063" rel="alternate"/>
+    <published>2022-01-31T18:00:00+07:00</published>
   </entry>
   <entry>
     <id>16781</id>
@@ -2037,5 +2028,13 @@
     <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910484088177.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19157">กิจกรรมบนเว็บไซต์ "เทศกาลแห่งสีสันอันพลิ้วไหว" ได้เริ่มขึ้นแล้ว!</a>]]></content>
     <link href="https://genshin.mihoyo.com/th/news/detail/19157" rel="alternate"/>
     <published>2022-01-29T11:00:00+07:00</published>
+  </entry>
+  <entry>
+    <id>19063</id>
+    <title>[Genshin Impact] ฉากคัตซีนกิจกรรม แสงสีสันแต่งแต้มท้องนภา - "ช่วงเวลาที่พร่างพราว"</title>
+    <updated>2022-01-31T18:00:00+07:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811412668822.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19063">[Genshin Impact] ฉากคัตซีนกิจกรรม แสงสีสันแต่งแต้มท้องนภา - "ช่วงเวลาที่พร่างพราว"</a>]]></content>
+    <link href="https://genshin.mihoyo.com/th/news/detail/19063" rel="alternate"/>
+    <published>2022-01-31T18:00:00+07:00</published>
   </entry>
 </feed>

@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:51 +0000</lastBuildDate>
-    <item>
-      <title>宣傳影片-遠旅同行｜原神</title>
-      <link>https://genshin.mihoyo.com/zh-tw/news/detail/16207</link>
-      <description>霞光從天際升起，星輝於蒼穹閃爍。我們在提瓦特大陸一路同行，並於此踏上新的旅程。</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092716172446722.jpg"><br/><br/>霞光從天際升起，星輝於蒼穹閃爍。我們在提瓦特大陸一路同行，並於此踏上新的旅程。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/16207">宣傳影片-遠旅同行｜原神</a>]]></content:encoded>
-      <guid isPermaLink="false">16207</guid>
-      <pubDate>Tue, 28 Sep 2021 12:00:00 +0800</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:24 +0000</lastBuildDate>
     <item>
       <title>劇情預告-「人間至味」｜原神</title>
       <link>https://genshin.mihoyo.com/zh-tw/news/detail/16251</link>
@@ -813,6 +805,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220127/2022012718022640794.jpg"><br/><br/>為了保障疫情期間旅行者們的健康與安全，《原神》一週年線下交響音樂會暫時無法與大家見面。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19017">交響音樂會特別篇預告｜原神</a>]]></content:encoded>
       <guid isPermaLink="false">19017</guid>
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>飛彩鐫流年活動過場動畫「歲華流彩」｜原神</title>
+      <link>https://genshin.mihoyo.com/zh-tw/news/detail/19070</link>
+      <description>火樹銀花，散漫天飛星，迎萬象似錦。榮輝彩華，凝萬千心願，祝山月常新。</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811442286326.jpg"><br/><br/>火樹銀花，散漫天飛星，迎萬象似錦。榮輝彩華，凝萬千心願，祝山月常新。<br><br>Read more on <a href="https://genshin.mihoyo.com/zh-tw/news/detail/19070">飛彩鐫流年活動過場動畫「歲華流彩」｜原神</a>]]></content:encoded>
+      <guid isPermaLink="false">19070</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://genshin.mihoyo.com/en/news</id>
   <title>Genshin Impact EN - info</title>
-  <updated>2022-01-31T09:10:50.427611+00:00</updated>
+  <updated>2022-01-31T10:11:18.444956+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/en/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>info feed of Genshin Impact in en</subtitle>
-  <entry>
-    <id>16321</id>
-    <title>Ta-da! The Gadget Windsong Lyre Is Back~ | Developers Discussion – 10/06</title>
-    <updated>2021-10-06T10:30:00-04:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211001/2021100110192224064.png"><br/><br/>A new Developers Discussion is here~ Let's see what they have in store for us!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16321">Ta-da! The Gadget Windsong Lyre Is Back~ | Developers Discussion – 10/06</a>]]></content>
-    <link href="https://genshin.mihoyo.com/en/news/detail/16321" rel="alternate"/>
-    <summary>A new Developers Discussion is here~ Let's see what they have in store for us!</summary>
-    <published>2021-10-06T10:30:00-04:00</published>
-  </entry>
   <entry>
     <id>16369</id>
     <title>"Into the Perilous Labyrinth of Fog" Version 2.2 Update Notice</title>
@@ -981,5 +972,16 @@ A thousand cups filled with moonlight, shine brightly in the dreams of spring an
     <link href="https://genshin.mihoyo.com/en/news/detail/19032" rel="alternate"/>
     <summary>To show our appreciation for Travelers' support and faith, Genshin Impact will join forces with the Shanghai Symphony Orchestra to present the beautiful melody of Spring Festival to the Travelers – GENSHIN CONCERT Special Edition: "Reflections of Spring."</summary>
     <published>2022-01-28T12:00:00-05:00</published>
+  </entry>
+  <entry>
+    <id>19073</id>
+    <title>Fleeting Colors in Flight Event Cutscene Animation: "Age of Flowing Hues" | Genshin Impact</title>
+    <updated>2022-01-31T18:00:00-05:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811455323193.jpg"><br/><br/>Blazing fireworks scatter across the sky like stars, welcoming prosperous times.
+Their splendid colors and dazzling lights carry the countless wishes of the people, that the mountains and the moon retain their eternal beauty.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19073">Fleeting Colors in Flight Event Cutscene Animation: "Age of Flowing Hues" | Genshin Impact</a>]]></content>
+    <link href="https://genshin.mihoyo.com/en/news/detail/19073" rel="alternate"/>
+    <summary>Blazing fireworks scatter across the sky like stars, welcoming prosperous times.
+Their splendid colors and dazzling lights carry the countless wishes of the people, that the mountains and the moon retain their eternal beauty.</summary>
+    <published>2022-01-31T18:00:00-05:00</published>
   </entry>
 </feed>

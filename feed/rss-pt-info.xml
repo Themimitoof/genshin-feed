@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>pt</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:54 +0000</lastBuildDate>
-    <item>
-      <title>Teaser Versão 2.2: "Mistério do Mar de Névoa" | Genshin Impact</title>
-      <link>https://genshin.mihoyo.com/pt/news/detail/16312</link>
-      <description>Os julgamentos dos guerreiros estão escondidos no domínio, o passado miserável enterrado na névoa.Quando o mistério for revelado, não importa se trata-se de um guerreiro pronto para lutar, ou de um viajante de uma terra distante, todos encontrarão a sua própria resposta.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210930/2021093017450224668.jpg"><br/><br/>Os julgamentos dos guerreiros estão escondidos no domínio, o passado miserável enterrado na névoa.Quando o mistério for revelado, não importa se trata-se de um guerreiro pronto para lutar, ou de um viajante de uma terra distante, todos encontrarão a sua própria resposta.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/16312">Teaser Versão 2.2: "Mistério do Mar de Névoa" | Genshin Impact</a>]]></content:encoded>
-      <guid isPermaLink="false">16312</guid>
-      <pubDate>Sun, 03 Oct 2021 22:30:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:43 +0000</lastBuildDate>
     <item>
       <title>Disponível Agora, Prévia da Versão 2.2 "Mistério do Mar de Névoa"!</title>
       <link>https://genshin.mihoyo.com/pt/news/detail/16307</link>
@@ -815,6 +807,14 @@ Após muito tempo de espera, a Cerimônia de Iluminação dos Alpes finalmente c
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910555288683.jpg"><br/><br/>Produza e envie o seu próprio cartão de saudação para obter Gemas Essenciais entre outras recompensas~<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/19163">Disponível agora, evento web "Festival de Mil Tonalidades"</a>]]></content:encoded>
       <guid isPermaLink="false">19163</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cinematografia Cores Efêmeras Voadoras - "A Era da Mudança de Tons" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/pt/news/detail/19066</link>
+      <description>Fogos de artifícios brilham no céu como estrelas, dando as boas-vindas aos tempos de prosperidade.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811431328755.jpg"><br/><br/>Fogos de artifícios brilham no céu como estrelas, dando as boas-vindas aos tempos de prosperidade.<br><br>Read more on <a href="https://genshin.mihoyo.com/pt/news/detail/19066">Cinematografia Cores Efêmeras Voadoras - "A Era da Mudança de Tons" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">19066</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

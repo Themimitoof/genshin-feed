@@ -8,17 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:56 +0000</lastBuildDate>
-    <item>
-      <title>«Если что понадобится, я буду здесь» - «Защитник издалека» Тома</title>
-      <link>https://genshin.mihoyo.com/ru/news/detail/16735</link>
-      <description>Сегодня мы представим вам нового персонажа, Тому!
-Официальный титул Томы в клане Камисато - управляющий. Он отвечает за такие вопросы, как уборка и приготовление пищи.</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211027/2021102715501470506.jpg"><br/><br/>Сегодня мы представим вам нового персонажа, Тому!
-Официальный титул Томы в клане Камисато - управляющий. Он отвечает за такие вопросы, как уборка и приготовление пищи.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/16735">«Если что понадобится, я буду здесь» - «Защитник издалека» Тома</a>]]></content:encoded>
-      <guid isPermaLink="false">16735</guid>
-      <pubDate>Fri, 29 Oct 2021 12:10:00 +0300</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:45 +0000</lastBuildDate>
     <item>
       <title>Молитва «Воплощение божества» - повышен шанс получить оружие Посох Хомы (Древковое) и Элегия погибели (Стрелковое)!</title>
       <link>https://genshin.mihoyo.com/ru/news/detail/16823</link>
@@ -827,6 +817,14 @@
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910352884512.jpg"><br/><br/>Создавайте открытки, отправляйте поздравления и получайте Камни Истока!<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19154">Браузерное событие «Праздник струящихся оттенков» началось!</a>]]></content:encoded>
       <guid isPermaLink="false">19154</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</title>
+      <link>https://genshin.mihoyo.com/ru/news/detail/19061</link>
+      <description>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811385134440.jpg"><br/><br/>Морем огней вспыхивают фейерверки, как звёзды, суля будущее процветание.<br><br>Read more on <a href="https://genshin.mihoyo.com/ru/news/detail/19061">Genshin Impact Краски мимолётности – Эпоха струящихся оттенков</a>]]></content:encoded>
+      <guid isPermaLink="false">19061</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0300</pubDate>
     </item>
   </channel>
 </rss>

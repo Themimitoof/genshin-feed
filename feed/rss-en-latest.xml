@@ -8,15 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:49 +0000</lastBuildDate>
-    <item>
-      <title>Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!</title>
-      <link>https://genshin.mihoyo.com/en/news/detail/16822</link>
-      <description>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211029/2021102918032921267.jpg"><br/><br/>Travelers, stock up on weapons and characters in the event wish to make your party stronger in combat!<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/16822">Event Wish "Moment of Bloom" - Boosted Drop Rate for "Fragrance in Thaw" Hu Tao (Pyro)!</a>]]></content:encoded>
-      <guid isPermaLink="false">16822</guid>
-      <pubDate>Sun, 31 Oct 2021 12:01:00 -0400</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:17 +0000</lastBuildDate>
     <item>
       <title>Paimon's Sneak Peek at Version 2.2 New Events - Phase II</title>
       <link>https://genshin.mihoyo.com/en/news/detail/16809</link>
@@ -875,6 +867,16 @@ The event has ended! Let's take a look at the wonderful prize-winning works toge
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910591988386.jpg"><br/><br/>Make a greeting card to send your wishes, and get Primogems and other prizes~<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19168">"Festive Celebration of Flowing Hues" Web Event Has Begun!</a>]]></content:encoded>
       <guid isPermaLink="false">19168</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fleeting Colors in Flight Event Cutscene Animation: "Age of Flowing Hues" | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/en/news/detail/19073</link>
+      <description>Blazing fireworks scatter across the sky like stars, welcoming prosperous times.
+Their splendid colors and dazzling lights carry the countless wishes of the people, that the mountains and the moon retain their eternal beauty.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811455323193.jpg"><br/><br/>Blazing fireworks scatter across the sky like stars, welcoming prosperous times.
+Their splendid colors and dazzling lights carry the countless wishes of the people, that the mountains and the moon retain their eternal beauty.<br><br>Read more on <a href="https://genshin.mihoyo.com/en/news/detail/19073">Fleeting Colors in Flight Event Cutscene Animation: "Age of Flowing Hues" | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">19073</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>

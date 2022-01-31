@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
   <id>https://genshin.mihoyo.com/ko/news</id>
   <title>Genshin Impact KO - latest</title>
-  <updated>2022-01-31T09:10:54.197417+00:00</updated>
+  <updated>2022-01-31T10:11:39.371329+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
   <link href="https://genshin.mihoyo.com/ko/news" rel="self"/>
   <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
   <subtitle>latest feed of Genshin Impact in ko</subtitle>
-  <entry>
-    <id>16777</id>
-    <title>&lt;원신&gt; 신규 캐릭터 플레이 - 「토마: 불길의 방어」</title>
-    <updated>2021-10-29T12:01:00+09:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211028/2021102818372189795.jpg"><br/><br/>사교성 좋은 토마와 함께하면 항상 즐겁고 떠들썩한 일들로 가득하다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/16777"><원신> 신규 캐릭터 플레이 - 「토마: 불길의 방어」</a>]]></content>
-    <link href="https://genshin.mihoyo.com/ko/news/detail/16777" rel="alternate"/>
-    <summary>사교성 좋은 토마와 함께하면 항상 즐겁고 떠들썩한 일들로 가득하다.</summary>
-    <published>2021-10-29T12:01:00+09:00</published>
-  </entry>
   <entry>
     <id>16762</id>
     <title>「내가 뭐 도울 거 없어?」 - 「바다 건너온 수호자」·토마</title>
@@ -917,5 +908,14 @@
     <link href="https://genshin.mihoyo.com/ko/news/detail/19161" rel="alternate"/>
     <summary>축하카드를 제작해 축복을 보내고 원석 등 보상을 획득하세요~</summary>
     <published>2022-01-29T11:00:00+09:00</published>
+  </entry>
+  <entry>
+    <id>19199</id>
+    <title>&lt;원신&gt; 화려히 수놓인 유년 이벤트 컷신 - 「반짝이는 세월」</title>
+    <updated>2022-01-31T18:01:00+09:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220130/2022013012092432293.jpg"><br/><br/>휘황찬란한 불꽃과 온 하늘에 흩날리는 유성에 만물이 눈부시게 빛난다.<br><br>Read more on <a href="https://genshin.mihoyo.com/ko/news/detail/19199"><원신> 화려히 수놓인 유년 이벤트 컷신 - 「반짝이는 세월」</a>]]></content>
+    <link href="https://genshin.mihoyo.com/ko/news/detail/19199" rel="alternate"/>
+    <summary>휘황찬란한 불꽃과 온 하늘에 흩날리는 유성에 만물이 눈부시게 빛난다.</summary>
+    <published>2022-01-31T18:01:00+09:00</published>
   </entry>
 </feed>

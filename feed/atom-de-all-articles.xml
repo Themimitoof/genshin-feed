@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>https://genshin.mihoyo.com/de/news</id>
   <title>Genshin Impact DE - all-articles</title>
-  <updated>2022-01-31T09:10:52.600068+00:00</updated>
+  <updated>2022-01-31T10:11:29.679305+00:00</updated>
   <author>
     <name>Genshin Impact communication team</name>
   </author>
@@ -388,15 +388,6 @@ die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!</summary>
     <link href="https://genshin.mihoyo.com/de/news/detail/7463" rel="alternate"/>
     <summary>Alles lief glatt, bis das Unerwartete geschah. So begann das Abenteuer auf dem Drachengrat!</summary>
     <published>2020-12-20T12:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>16201</id>
-    <title>Werbevideo von Genshin Impact – Gemeinsam auf langen Reisen</title>
-    <updated>2021-09-28T12:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20210927/2021092715441113417.jpg"><br/><br/>Am Horizont glänzt schon der erste Morgenstrahl, während die Sterne noch am Firmament funkeln.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16201">Werbevideo von Genshin Impact – Gemeinsam auf langen Reisen</a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16201" rel="alternate"/>
-    <summary>Am Horizont glänzt schon der erste Morgenstrahl, während die Sterne noch am Firmament funkeln.</summary>
-    <published>2021-09-28T12:00:00+02:00</published>
   </entry>
   <entry>
     <id>16250</id>
@@ -1339,17 +1330,13 @@ nach einer Zeit voller Erwartungen kann die Beleuchtungszeremonie nun endlich be
     <published>2022-01-28T12:00:00+01:00</published>
   </entry>
   <entry>
-    <id>16533</id>
-    <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
-    <updated>2021-10-14T18:00:00+02:00</updated>
-    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415272847248.jpg"><br/><br/>Liebe Reisende, 
-vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
-Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content>
-    <link href="https://genshin.mihoyo.com/de/news/detail/16533" rel="alternate"/>
-    <summary>Liebe Reisende, 
-vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
-Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</summary>
-    <published>2021-10-14T18:00:00+02:00</published>
+    <id>19079</id>
+    <title>Animation der Aktion „Flüchtige Farben im Flug“ von Genshin Impact – „Ära der fließenden Farben“</title>
+    <updated>2022-01-31T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012812012953031.jpg"><br/><br/>Die flammenden Blumen, die sich am ganzen Himmel verteilen, heißen alle willkommen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19079">Animation der Aktion „Flüchtige Farben im Flug“ von Genshin Impact – „Ära der fließenden Farben“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/19079" rel="alternate"/>
+    <summary>Die flammenden Blumen, die sich am ganzen Himmel verteilen, heißen alle willkommen.</summary>
+    <published>2022-01-31T18:00:00+01:00</published>
   </entry>
   <entry>
     <id>16568</id>
@@ -2297,5 +2284,14 @@ die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!</summary>
     <link href="https://genshin.mihoyo.com/de/news/detail/19167" rel="alternate"/>
     <summary>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!</summary>
     <published>2022-01-29T11:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>19079</id>
+    <title>Animation der Aktion „Flüchtige Farben im Flug“ von Genshin Impact – „Ära der fließenden Farben“</title>
+    <updated>2022-01-31T18:00:00+01:00</updated>
+    <content type="CDATA"><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012812012953031.jpg"><br/><br/>Die flammenden Blumen, die sich am ganzen Himmel verteilen, heißen alle willkommen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19079">Animation der Aktion „Flüchtige Farben im Flug“ von Genshin Impact – „Ära der fließenden Farben“</a>]]></content>
+    <link href="https://genshin.mihoyo.com/de/news/detail/19079" rel="alternate"/>
+    <summary>Die flammenden Blumen, die sich am ganzen Himmel verteilen, heißen alle willkommen.</summary>
+    <published>2022-01-31T18:00:00+01:00</published>
   </entry>
 </feed>

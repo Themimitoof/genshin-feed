@@ -8,19 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:52 +0000</lastBuildDate>
-    <item>
-      <title>[Preisverkündung] Verlosungsaktion von Genshin Impact </title>
-      <link>https://genshin.mihoyo.com/de/news/detail/16533</link>
-      <description>Liebe Reisende, 
-vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
-Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و</description>
-      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211014/2021101415272847248.jpg"><br/><br/>Liebe Reisende, 
-vielen Dank, dass ihr an der Verlosungsaktion von Genshin Impact teilgenommen habt. Herzlichen Glückwunsch an die glücklichen Gewinner!
-Schaut euch jetzt die Liste der Gewinner an! Vielleicht steht eure Namen auch darauf! (•̀ᴗ•́)و<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/16533">[Preisverkündung] Verlosungsaktion von Genshin Impact </a>]]></content:encoded>
-      <guid isPermaLink="false">16533</guid>
-      <pubDate>Thu, 14 Oct 2021 18:00:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:26 +0000</lastBuildDate>
     <item>
       <title>Aktion „Labyrinthkrieger“: Nimm teil und lade die Figur „Glühend heiße Musik – Xinyan (Pyro)“ ein.</title>
       <link>https://genshin.mihoyo.com/de/news/detail/16568</link>
@@ -867,6 +855,14 @@ die Aktion ist beendet! Schauen wir uns die Gewinnerwerke zusammen an!<br><br>Re
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910590937489.jpg"><br/><br/>Verschicke deine Glückwünsche mit wunderschönen und selbsterstellten Glückwunschkarten，um Belohnungen wie Urgestein zu erhalten!<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19167">Die Webaktion „Fest der flüchtigen Farben“ jetzt verfügbar!</a>]]></content:encoded>
       <guid isPermaLink="false">19167</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Animation der Aktion „Flüchtige Farben im Flug“ von Genshin Impact – „Ära der fließenden Farben“</title>
+      <link>https://genshin.mihoyo.com/de/news/detail/19079</link>
+      <description>Die flammenden Blumen, die sich am ganzen Himmel verteilen, heißen alle willkommen.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012812012953031.jpg"><br/><br/>Die flammenden Blumen, die sich am ganzen Himmel verteilen, heißen alle willkommen.<br><br>Read more on <a href="https://genshin.mihoyo.com/de/news/detail/19079">Animation der Aktion „Flüchtige Farben im Flug“ von Genshin Impact – „Ära der fließenden Farben“</a>]]></content:encoded>
+      <guid isPermaLink="false">19079</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

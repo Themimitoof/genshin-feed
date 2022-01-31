@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>id</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:36 +0000</lastBuildDate>
     <item>
       <title>Event Perilisan Forum Genshin Impact - Menangkan Kesempatan Closed Beta Test</title>
       <link>https://genshin.mihoyo.com/id/news/detail/2161</link>
@@ -630,6 +630,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <pubDate>Fri, 28 Jan 2022 12:00:00 +0700</pubDate>
     </item>
     <item>
+      <title>Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/19100</link>
+      <description>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012816124454284.jpg"><br/><br/>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19100">Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">19100</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0700</pubDate>
+    </item>
+    <item>
       <title>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</title>
       <link>https://genshin.mihoyo.com/id/news/detail/18288</link>
       <description>Event "Sekilas Rona di Angkasa": Ikuti untuk Mendapatkan Kostum Ningguang, dan Karakter 4★ Liyue yang Kamu Inginkan</description>
@@ -924,6 +932,14 @@ Event kali ini telah resmi berakhir, terima kasih atas partisipasi kalian semua!
       <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910575556016.jpg"><br/><br/>Buat kartu ucapan untuk memberikan harapanmu dan dapatkan Primogem beserta hadiah lainnya~<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19165">Event Web "Festival Perayaan Aliran Warna" Telah Hadir!</a>]]></content:encoded>
       <guid isPermaLink="false">19165</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</title>
+      <link>https://genshin.mihoyo.com/id/news/detail/19100</link>
+      <description>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.</description>
+      <content:encoded><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012816124454284.jpg"><br/><br/>Nyala kembang api memenuhi angkasa bagai bintang yang bersinar untuk menyambut masa kemakmuran.<br><br>Read more on <a href="https://genshin.mihoyo.com/id/news/detail/19100">Animasi Adegan Event “Sekilas Rona di Angkasa: Saat Warna-Warna Mengalir” | Genshin Impact</a>]]></content:encoded>
+      <guid isPermaLink="false">19100</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>

@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Genshin-feed: https://github.com/themimitoof/genshin-feed</generator>
     <language>th</language>
-    <lastBuildDate>Mon, 31 Jan 2022 09:10:57 +0000</lastBuildDate>
-    <item>
-      <title>คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</title>
-      <link>https://genshin.mihoyo.com/th/news/detail/16594</link>
-      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20211019/2021101917164585836.jpg"><br/><br/><br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/16594">คำอธิบายเกมเพลย์ "ทหารผู้กล้าแห่งแดนพิศวง"</a>]]></description>
-      <guid isPermaLink="false">16594</guid>
-      <pubDate>Wed, 20 Oct 2021 10:30:00 +0700</pubDate>
-    </item>
+    <lastBuildDate>Mon, 31 Jan 2022 10:11:49 +0000</lastBuildDate>
     <item>
       <title>ตัวอย่างตัวละคร Genshin Impact - "Thoma: เพลิงผลาญคุ้มภัย"</title>
       <link>https://genshin.mihoyo.com/th/news/detail/16781</link>
@@ -714,6 +707,13 @@
       <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220129/2022012910484088177.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19157">กิจกรรมบนเว็บไซต์ "เทศกาลแห่งสีสันอันพลิ้วไหว" ได้เริ่มขึ้นแล้ว!</a>]]></description>
       <guid isPermaLink="false">19157</guid>
       <pubDate>Sat, 29 Jan 2022 11:00:00 +0700</pubDate>
+    </item>
+    <item>
+      <title>[Genshin Impact] ฉากคัตซีนกิจกรรม แสงสีสันแต่งแต้มท้องนภา - "ช่วงเวลาที่พร่างพราว"</title>
+      <link>https://genshin.mihoyo.com/th/news/detail/19063</link>
+      <description><![CDATA[<img src="https://uploadstatic-sea.mihoyo.com/contentweb/20220128/2022012811412668822.jpg"><br/><br/>None<br><br>Read more on <a href="https://genshin.mihoyo.com/th/news/detail/19063">[Genshin Impact] ฉากคัตซีนกิจกรรม แสงสีสันแต่งแต้มท้องนภา - "ช่วงเวลาที่พร่างพราว"</a>]]></description>
+      <guid isPermaLink="false">19063</guid>
+      <pubDate>Mon, 31 Jan 2022 18:00:00 +0700</pubDate>
     </item>
   </channel>
 </rss>
