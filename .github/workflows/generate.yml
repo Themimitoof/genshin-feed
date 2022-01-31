@@ -34,12 +34,6 @@ jobs:
       - name: Run the feed generation script
         run: poetry run python generate_feed.py
 
-      - name: Commit the new feeds into the repository
-        if: (github.event_name == 'workflow_dispatch' && github.event.inputs.push != '') || (github.event_name == 'schedule' && github.ref == 'refs/heads/master')
-        env:
-          GERALDO_BOULARDO_TOKEN: ${{ secrets.GERALDO_BOULARDO_TOKEN }}
-        run: ./bin/commit-new-feeds.sh
-
       - name: Use the magic command for preparing the Hugo build
         run: ./bin/prepare-hugo-build.sh
 
