@@ -18,7 +18,7 @@ $light-gray: #dbdbdb;
 
 html,
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", Oxygen, Cantarell, sans-serif;
 }
 
 body {
@@ -54,6 +54,7 @@ body {
 
     & h1 {
         font-size: 2.5em;
+        font-weight: 400;
 
         &:first-child {
             margin-top: 0;
@@ -62,10 +63,13 @@ body {
 
     & h2 {
         font-size: 2em;
+        font-weight: 400;
+        margin-top: 2em;
     }
 
     & h3 {
         font-size: 1.8em;
+        font-weight: 400;
     }
 
   }
@@ -140,8 +144,7 @@ a:focus {
     }
 
     & > table {
-        width: 90%;
-        // border: 1px solid $light-gray;
+        width: 95%;
         border-radius: 5px;
         background-color: #fff;
         border-collapse: collapse;
@@ -149,8 +152,6 @@ a:focus {
         thead th {
             padding: 1.2em 0;
             border: 1px solid $light-gray;
-
-            // border-bottom: 1px solid $light-gray;
         }
 
         tbody td {
@@ -162,6 +163,17 @@ a:focus {
                 text-align: left;
                 font-size: 1.2em;
             }
+
+            & li {
+              display: inline;
+              list-style: none;
+              margin-right: 10px;
+            }
         }
     }
+}
+
+footer p {
+  text-align: center;
+  margin: 5px;
 }
