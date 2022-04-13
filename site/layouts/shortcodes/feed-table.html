@@ -31,7 +31,7 @@
               {{ range $key, $feed := $feeds }}
               <li class="my-4">
                 <a
-                  class="text-blue-500 hover:underline"
+                                class="text-blue-500 hover:underline umami--click--feed-{{ $feed.type}}-{{ $lang }}-{{ $category }}"
                   href="{{ trim $.Site.BaseURL "/" }}/feed/{{ $feed.type}}-{{ $lang }}-{{ $category }}.xml"
                   target="_blank"
                 >
