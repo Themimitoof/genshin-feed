@@ -5,7 +5,7 @@ date: 2021-08-20T18:45:03+02:00
 # Welcome to Genshin Feed!
 
 Hello and welcome to Genshin feed! You will find on this page all RSS and Atom feeds of
-[official news and announcements of Genshin Impact](https://genshin.mihoyo.com/en/news) for each
+[official news and announcements of Genshin Impact](https://genshin.hoyoverse.com/en/news) for each
 langages and categories available on the official Genshin Impact website. All feeds are
 automatically generated every hour and contain all news and announcements from the beginning of
 Genshin Impact.

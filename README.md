@@ -12,7 +12,7 @@
 # Genshin Feed
 
 Genshin Feed is a Atom and RSS feed generator for offical
-[Genshin Impact](https://genshin.mihoyo.com) news.
+[Genshin Impact](https://genshin.hoyoverse.com) news.
 
 All feeds are automatically generated every hour with GitHub Actions and available on
 [genshin-feed.com](https://genshin-feed.com).
@@ -28,7 +28,7 @@ hosted and located in France (with IPv4 and IPv6 connectivity).
 
 
 _Message for miHoYo_: Please don't break anything until you implemented RSS/Atom feeds on
-[genshin.mihoyo.com](https://genshin.mihoyo.com), thanks :)
+[genshin.hoyoverse.com](https://genshin.hoyoverse.com), thanks :)
 
 _Domain name and web hosting by [Gandi.net](https://gandi.link/f/31b9edb5) (Affiliated link)._
 

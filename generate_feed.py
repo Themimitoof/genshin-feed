@@ -12,7 +12,7 @@ import yaml
 from feedgen.feed import FeedGenerator
 
 GENSHIN_DEFAULT_AUTHOR = "Genshin Impact communication team"
-GENSHIN_NEWS_LINK = "https://genshin.mihoyo.com/%s/news"
+GENSHIN_NEWS_LINK = "https://genshin.hoyoverse.com/%s/news"
 COUNTRY_EMOJIS = {
     "en": "🇺🇸",
     "fr": "🇫🇷",
@@ -40,8 +40,8 @@ def generate_feed(category: str, lang: str) -> FeedGenerator:
     feed.author({"name": GENSHIN_DEFAULT_AUTHOR})
     feed.link({"href": GENSHIN_NEWS_LINK % lang, "rel": "self"})
     feed.generator("Genshin-feed: https://github.com/themimitoof/genshin-feed")
-    feed.icon(icon="https://genshin.mihoyo.com/favicon.ico")
-    feed.image(url="https://genshin.mihoyo.com/favicon.ico")
+    feed.icon(icon="https://genshin.hoyoverse.com/favicon.ico")
+    feed.image(url="https://genshin.hoyoverse.com/favicon.ico")
     feed.language(lang)
     feed.description("%s feed of Genshin Impact in %s" % (category, lang))
 
@@ -99,7 +99,7 @@ def generate_feed_entry(
             "id": post["id"],
             "title": post["title"],
             "author": post.get("author") or GENSHIN_DEFAULT_AUTHOR,
-            "link": "https://genshin.mihoyo.com/%s/news/detail/%s" % (lang, post["id"]),
+            "link": "https://genshin.hoyoverse.com/%s/news/detail/%s" % (lang, post["id"]),
             "intro": post.get("intro", "No summary available."),
             "published": published_at,
             "category": category,
