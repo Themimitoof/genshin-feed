@@ -29,6 +29,7 @@ COUNTRY_EMOJIS = {
     "default": "🌐",
 }
 
+
 def generate_feed(category: str, lang: str) -> FeedGenerator:
     """
     Generate a feed for the given lang and category.
@@ -99,7 +100,9 @@ def generate_feed_entry(
             "id": post["id"],
             "title": post["title"],
             "author": post.get("author") or GENSHIN_DEFAULT_AUTHOR,
-            "link": "https://genshin.hoyoverse.com/%s/news/detail/%s" % (lang, post["id"]),
+            "link": (
+                "https://genshin.hoyoverse.com/%s/news/detail/%s" % (lang, post["id"])
+            ),
             "intro": post.get("intro", "No summary available."),
             "published": published_at,
             "category": category,
@@ -120,8 +123,11 @@ def generate_feed_entry(
         if "banner" in post_info:
             content = '<img src="%s"><br/><br/>' % post_info["banner"]
 
-        content += '%s<br><br>Read more on <a href="%s">%s</a>' % (
-            post_info["intro"],
+        if post_info["intro"]:
+            intro = post_info["intro"]
+            content += f"{intro}<br/><br/>"
+
+        content += 'Read more on <a href="%s">%s</a>.' % (
             post_info["link"],
             post_info["title"],
         )
