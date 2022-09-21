@@ -79,6 +79,7 @@ def fetch_posts(config: dict, channel_id: int) -> List[Dict]:
         posts += resp.json()["data"]["list"]
         last_page_posts = 1
 
+    posts.sort(key=lambda d: d["start_time"])
     return posts
 
 
@@ -302,8 +303,16 @@ def generate_all_feeds() -> None:
             timezone = config["timezones"].get(lang, "UTC")
             feed = generate_feed(category, lang)
 
+            # Sort, dedup and generate the all-articles feed
+            all_posts.sort(key=lambda d: d["published"])
+            post_ids = []
+
             for post in all_posts:
+                if post["id"] in post_ids:
+                    continue
+
                 generate_feed_entry(feed, post, lang, category, timezone)
+                post_ids.append(post["id"])
 
             generate_feed_files(feed, lang, category)
             updated_feeds += 1
