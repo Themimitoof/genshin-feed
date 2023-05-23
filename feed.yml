@@ -57,6 +57,11 @@ feeds:
     info: 396
     updates: 397
     events: 398
+  tr:  # Turkish, Turkey
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   vi:  # Vietnamese, Vietnam
     latest: 395
     info: 396
@@ -76,6 +81,7 @@ locales:
   pt: pt-pt
   ru: ru-ru
   th: th-th
+  tr: tr-tr
   vi: vi-vn
 
 timezones:
@@ -90,4 +96,5 @@ timezones:
   pt: Europe/Lisbon
   ru: Europe/Moscow
   th: Asia/Bangkok
+  tr: Europe/Istanbul
   vi: Asia/Ho_Chi_Minh

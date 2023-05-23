@@ -25,6 +25,7 @@ COUNTRY_EMOJIS = {
     "pt": "🇵🇹",
     "ru": "🇷🇺",
     "th": "🇹🇭",
+    "tk": "🇹🇷",
     "vi": "🇻🇳",
     "default": "🌐",
 }
