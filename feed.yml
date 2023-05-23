@@ -1,67 +1,82 @@
-url: https://genshin.hoyoverse.com/content/yuanshen/getContentList
+url: https://api-os-takumi-static.hoyoverse.com/content_v2_user/app/a1b1f9d3315447cc/getContentList
 perPage: 100
 
 feeds:
   en:  # English, America
-    latest: 10
-    info: 11
-    updates: 12
-    events: 13
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   fr:  # French, France
-    latest: 161
-    info: 162
-    updates: 163
-    events: 164
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   zh-tw:  # Chinese, Taiwan
-    latest: 87
-    info: 90
-    updates: 91
-    events: 92
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   de:  # German, Germany
-    latest: 182
-    info: 183
-    updates: 184
-    events: 185
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   es:  # Spanish, Spain
-    latest: 224
-    info: 225
-    updates: 226
-    events: 227
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   id:  # Indonesian, Indonesia
-    latest: 266
-    info: 267
-    updates: 268
-    events: 269
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   ja:  # Japanese, Japan
-    latest: 141
-    info: 142
-    updates: 143
-    events: 144
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   ko:  # Korean, Korea
-    latest: 124
-    info: 125
-    updates: 126
-    events: 127
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   pt:  # Portuguese, Portugal
-    latest: 203
-    info: 204
-    updates: 205
-    events: 206
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   ru:  # Russia
-    latest: 245
-    info: 246
-    updates: 247
-    events: 248
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   th:  # Thai, Tailand
-    latest: 308
-    info: 309
-    updates: 310
-    events: 311
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   vi:  # Vietnamese, Vietnam
-    latest: 287
-    info: 288
-    updates: 289
-    events: 290
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
+
+locales:
+  en: en-us
+  fr: fr-fr
+  zh-tw: zh-tw
+  de: de-de
+  es: es-es
+  id: id-id
+  it: it-it
+  ja: ja-jp
+  ko: ko-kr
+  pt: pt-pt
+  ru: ru-ru
+  th: th-th
+  vi: vi-vn
 
 timezones:
   en: America/New_York  # All English events are still in UTC-4, it matches with this TZ.
