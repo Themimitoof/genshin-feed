@@ -6,15 +6,22 @@ authors = ["Michael Vieira <dev+genshinfeed@mvieira.fr>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8.1"
 feedgen = "^0.9.0"
 PyYAML = "^5.4.1"
 httpx = "^0.19.0"
 pytz = "^2021.1"
 pycountry = "^20.7.3"
+lxml = "^4.9.2"
 
-[tool.poetry.dev-dependencies]
-black = "^21.7b0"
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+ruff = "^0.0.269"
+
+[tool.ruff]
+select = ["E", "W", "I"]
+fixable = ["E", "W", "I"]
+line-length = 88
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

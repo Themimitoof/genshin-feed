@@ -25,6 +25,7 @@ COUNTRY_EMOJIS = {
     "pt": "🇵🇹",
     "ru": "🇷🇺",
     "th": "🇹🇭",
+    "tk": "🇹🇷",
     "vi": "🇻🇳",
     "default": "🌐",
 }
@@ -49,7 +50,7 @@ def generate_feed(category: str, lang: str) -> FeedGenerator:
     return feed
 
 
-def fetch_posts(config: dict, channel_id: int) -> List[Dict]:
+def fetch_posts(config: dict, channel_id: int, locale: str) -> List[Dict]:
     """
     Fetch all posts from Mihoyo for the given channel.
     """
@@ -64,14 +65,14 @@ def fetch_posts(config: dict, channel_id: int) -> List[Dict]:
 
     while last_page_posts == post_per_pages:
         url = (
-            f"{feed_url}?pageSize={post_per_pages}&pageNum={page}"
-            f"&channelId={channel_id}"
+            f"{feed_url}?AppId=32&iPageSize={post_per_pages}&iPage={page}"
+            f"&iChanId={channel_id}&sLangKey={locale}"
         )
         resp = httpx.get(url, timeout=15.0)
 
         if (
             resp.status_code != 200
-            or resp.headers["Content-Type"] == "application/json"
+            and resp.headers["Content-Type"] != "application/json"
         ):
             raise Exception("Unable to fetch articles")
 
@@ -79,13 +80,13 @@ def fetch_posts(config: dict, channel_id: int) -> List[Dict]:
         posts += resp.json()["data"]["list"]
         last_page_posts = 1
 
-    posts.sort(key=lambda d: d["start_time"])
+    posts.sort(key=lambda d: d["dtStartTime"])
     return posts
 
 
 def generate_feed_entry(
     feed: FeedGenerator, post: dict, lang: str, category: str, timezone: str
-) -> List[Dict]:
+) -> Dict:
     """
     Generate a ``post_info`` dict that contains all the informations needed to create a
     post and generate the entry in the feed.
@@ -94,29 +95,35 @@ def generate_feed_entry(
     if "_generated_post_info" in post:
         post_info = post
     else:
-        published_at = datetime.strptime(post["start_time"], "%Y-%m-%d %H:%M:%S")
+        published_at = datetime.strptime(post["dtStartTime"], "%Y-%m-%d %H:%M:%S")
         published_at = pytz.timezone(timezone).localize(published_at)
-
+        post_id = post["iInfoId"]
         post_info = {
-            "id": post["id"],
-            "title": post["title"],
-            "author": post.get("author") or GENSHIN_DEFAULT_AUTHOR,
-            "link": (
-                "https://genshin.hoyoverse.com/%s/news/detail/%s" % (lang, post["id"])
-            ),
-            "intro": post.get("intro", "No summary available."),
+            "id": str(post_id),
+            "title": post["sTitle"],
+            "author": post.get("sAuthor") or GENSHIN_DEFAULT_AUTHOR,
+            "link": f"https://genshin.hoyoverse.com/{lang}/news/detail/{post_id}",
+            "intro": post.get("sIntro", "No summary available."),
             "published": published_at,
             "category": category,
             "_generated_post_info": True,
         }
 
-        # Get the banner/thumbnail of the post
-        if "ext" in post:
-            for ext in post["ext"]:
-                if "arrtName" in ext and ext["arrtName"] == "banner":
-                    if isinstance(ext["value"], list) and len(ext["value"]) > 0:
-                        post_info["banner"] = ext["value"][0]["url"]
-                        break
+        # # Get the banner/thumbnail of the post
+        if "sExt" in post:
+            external_medias = json.loads(post["sExt"])
+
+            if external_medias != {}:
+                media_key = "value"
+
+                if "banner" in external_medias:
+                    media_key = "banner"
+
+                if (
+                    isinstance(external_medias[media_key], list)
+                    and len(external_medias[media_key]) > 0
+                ):
+                    post_info["banner"] = external_medias[media_key][0]["url"]
 
         # Generate the content
         content = str()
@@ -280,9 +287,10 @@ def generate_all_feeds() -> None:
 
             try:
                 timezone = config["timezones"].get(lang, "UTC")
+                locale = config["locales"].get(lang, lang)
                 feed = generate_feed(category, lang)
 
-                for post in fetch_posts(config, channel_id):
+                for post in fetch_posts(config, channel_id, locale):
                     post_info = generate_feed_entry(
                         feed, post, lang, category, timezone
                     )
@@ -290,15 +298,15 @@ def generate_all_feeds() -> None:
 
                 generate_feed_files(feed, lang, category)
                 updated_feeds += 1
-            except Exception as exc:
+            except Exception:
                 print("Unable to generate the feed in %r for %r" % (lang, category))
                 traceback.print_exc()
                 feeds_errors += 1
 
         # Generate a feed that aggregate all feeds
-        try:
-            category = "all-articles"
+        category = "all-articles"
 
+        try:
             print("Generating feed %r for %r" % (category, lang))
             timezone = config["timezones"].get(lang, "UTC")
             feed = generate_feed(category, lang)
@@ -316,7 +324,7 @@ def generate_all_feeds() -> None:
 
             generate_feed_files(feed, lang, category)
             updated_feeds += 1
-        except Exception as exc:
+        except Exception:
             print("Unable to generate the feed in %r for %r" % (lang, category))
             traceback.print_exc()
             feeds_errors += 1
