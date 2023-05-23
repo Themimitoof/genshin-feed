@@ -110,12 +110,20 @@ def generate_feed_entry(
         }
 
         # # Get the banner/thumbnail of the post
-        # if "sExt" in post:
-        #     for ext in post["sExt"]:
-        #         if "arrtName" in ext and ext["arrtName"] == "banner":
-        #             if isinstance(ext["value"], list) and len(ext["value"]) > 0:
-        #                 post_info["banner"] = ext["value"][0]["url"]
-        #                 break
+        if "sExt" in post:
+            external_medias = json.loads(post["sExt"])
+
+            if external_medias != {}:
+                media_key = "value"
+
+                if "banner" in external_medias:
+                    media_key = "banner"
+
+                if (
+                    isinstance(external_medias[media_key], list)
+                    and len(external_medias[media_key]) > 0
+                ):
+                    post_info["banner"] = external_medias[media_key][0]["url"]
 
         # Generate the content
         content = str()
