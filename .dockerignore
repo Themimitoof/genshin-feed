@@ -1,0 +1,7 @@
+.ruff_cache
+.vscode
+.hugo_build.lock
+site/public/
+site/data/
+feed/
+.venv/
