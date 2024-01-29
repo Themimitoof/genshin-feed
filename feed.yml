@@ -27,6 +27,11 @@ feeds:
     info: 396
     updates: 397
     events: 398
+  it:  # Italian, Italia
+    latest: 395
+    info: 396
+    updates: 397
+    events: 398
   id:  # Indonesian, Indonesia
     latest: 395
     info: 396
@@ -90,6 +95,7 @@ timezones:
   zh-tw: Asia/Taipei
   de: Europe/Berlin
   es: Europe/Madrid
+  it: Europe/Rome
   id: Asia/Jakarta
   ja: Asia/Tokyo
   ko: Asia/Seoul
